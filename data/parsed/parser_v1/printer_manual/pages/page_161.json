@@ -1,0 +1,169 @@
+{
+  "page": 161,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0419",
+      "reading_order": 1949,
+      "section": "Post service test",
+      "bbox": {
+        "l": 142.71458499443193,
+        "t": 719.8381271362305,
+        "r": 432.7463246223024,
+        "b": 502.67828369140625
+      },
+      "image_path": "figures/figure_0419.png",
+      "caption": "Remove the formatter cover (M501)",
+      "figure_number": "Figure 1-208",
+      "image_hash": "b71d8ca4f7ce1860ec3c8634419db687214fb78006b2299080f41c1ba2f17097",
+      "width": 290,
+      "height": 217,
+      "next_block_id": "txt_1507",
+      "caption_id": "txt_1507"
+    },
+    {
+      "type": "caption",
+      "id": "txt_1507",
+      "reading_order": 1950,
+      "section": "Post service test",
+      "bbox": {
+        "l": 144.0,
+        "t": 732.29,
+        "r": 344.67999000000003,
+        "b": 720.7
+      },
+      "content": "Figure 1-208  Remove the formatter cover (M501)",
+      "caption_for": "fig_0419"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1508",
+      "reading_order": 1951,
+      "section": "Post service test",
+      "bbox": {
+        "l": 122.0,
+        "t": 491.41999999999996,
+        "r": 542.0400000000002,
+        "b": 467.83
+      },
+      "content": "M506/E50045/M507/E50145/M527/E52545/M528/E52645: Slide the cover toward the rear of the printer to remove it."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1509",
+      "reading_order": 1952,
+      "section": "Post service test",
+      "bbox": {
+        "l": 143.99996000000002,
+        "t": 458.42,
+        "r": 530.3799900000001,
+        "b": 434.83
+      },
+      "content": "Figure 1-209  Remove the formatter cover (M506/E50045/M507/E50145/M527/E52545/M528/ E52645)"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1510",
+      "reading_order": 1953,
+      "section": "Post service test",
+      "bbox": {
+        "l": 100.0,
+        "t": 218.19233999999994,
+        "r": 439.85000000000014,
+        "b": 206.60234000000003
+      },
+      "content": "Remove the stapler door or stapler blank cover (M527/E52545/M528/E52645)."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1511",
+      "reading_order": 1954,
+      "section": "Post service test",
+      "bbox": {
+        "l": 122.0,
+        "t": 197.19233999999994,
+        "r": 239.10999999999996,
+        "b": 185.60234000000003
+      },
+      "content": "Do one of the following:"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1512",
+      "reading_order": 1955,
+      "section": "Post service test",
+      "bbox": {
+        "l": 143.99998,
+        "t": 176.19233999999994,
+        "r": 319.4899699999999,
+        "b": 164.60234000000003
+      },
+      "content": "Stapler models: Open the stapler door."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1513",
+      "reading_order": 1956,
+      "section": "Post service test",
+      "bbox": {
+        "l": 144.0,
+        "t": 154.94318999999996,
+        "r": 551.5299700000005,
+        "b": 131.35319000000004
+      },
+      "content": "Non-stapler models: Use a small flat-blade screw driver to release two tabs (callout 1), and then rotate the cover away from the printer (callout 2)."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0420",
+      "reading_order": 1957,
+      "section": "Post service test",
+      "bbox": {
+        "l": 142.76163620902932,
+        "t": 423.3765869140625,
+        "r": 339.80978944658796,
+        "b": 233.69500732421875
+      },
+      "image_path": "figures/figure_0420.png",
+      "image_hash": "d2ccd5aacc54f7a315779f6f3b2584f56a845397b90c3d09ed36ed1c0229f173",
+      "width": 197,
+      "height": 189,
+      "previous_block_id": "txt_1513"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0421",
+      "reading_order": 1958,
+      "section": "Post service test",
+      "bbox": {
+        "l": 367.48560365333594,
+        "t": 425.3128356933594,
+        "r": 575.8581225285573,
+        "b": 238.2498779296875
+      },
+      "image_path": "figures/figure_0421.png",
+      "image_hash": "dedf8c01c7942e028f1ab66c7ec9644e2be0d4b003508516eb9d69a3f55d78b9",
+      "width": 209,
+      "height": 187,
+      "previous_block_id": "txt_1513"
+    }
+  ],
+  "page_stats": {
+    "block_count": 10,
+    "text_blocks": 7,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 6,
+    "captions": 1,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 3,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

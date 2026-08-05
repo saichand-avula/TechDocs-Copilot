@@ -1,0 +1,102 @@
+{
+  "page": 63,
+  "document_id": "doc_229deb31",
+  "page_bbox": {
+    "width": 595.219970703125,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0585",
+      "reading_order": 794,
+      "section": "7. 3 .10 Power Supply Over or under voltagve fault",
+      "bbox": {
+        "l": 56.962,
+        "t": 768.1995428,
+        "r": 384.08378482000006,
+        "b": 754.348157
+      },
+      "content": "7. 3 .10 Power Supply Over or under voltagve fault",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "table",
+      "id": "tbl_0044",
+      "reading_order": 795,
+      "section": "7. 3 .10 Power Supply Over or under voltagve fault",
+      "bbox": {
+        "l": 55.73992919559989,
+        "t": 739.3170928955078,
+        "r": 538.1611642079694,
+        "b": 524.944580078125
+      },
+      "markdown": "| Indoor display outdoor display:          | F19 LED1                                                                                 | flash 6 times                                                                                                  |\n|------------------------------------------|------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|\n| Method of circuit. Malfunction Detection | An abnormal voltage rise or fall is detected by checking the specified voltage detection | An abnormal voltage rise or fall is detected by checking the specified voltage detection                       |\n| Malfunction Decision Conditions          | An voltage signal is fed from the voltage detection circuit to the microcomputer         | An voltage signal is fed from the voltage detection circuit to the microcomputer                               |\n| Supposed Causes                          | Ƶ Supply voltage not as specified Ƶ the IPM module is broken Ƶ the outdoor PCB is broken | Ƶ Supply voltage not as specified Ƶ the IPM module is broken Ƶ the outdoor PCB is broken                       |\n| T roubleshooting                         | * Caution                                                                                | Be sure to turn off power switch before connect or disconnect connector, or else parts damage may be occurred. |",
+      "rows": 5,
+      "cols": 3
+    },
+    {
+      "type": "figure",
+      "id": "fig_0168",
+      "reading_order": 796,
+      "section": "7. 3 .10 Power Supply Over or under voltagve fault",
+      "bbox": {
+        "l": 55.023222219757734,
+        "t": 499.5674133300781,
+        "r": 462.6550495654344,
+        "b": 188.494140625
+      },
+      "image_path": "figures/figure_0168.png",
+      "previous_block_id": "txt_0585",
+      "next_block_id": "txt_0586",
+      "image_hash": "f8b73840451775d4641ace0403d8aafd11cc57e6197cc15ac51692d9633cb542",
+      "width": 408,
+      "height": 312
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0586",
+      "reading_order": 797,
+      "section": "7. 3 .10 Power Supply Over or under voltagve fault",
+      "bbox": {
+        "l": 56.954980199999994,
+        "t": 160.26814720000004,
+        "r": 397.80372004,
+        "b": 151.01537000000008
+      },
+      "content": "About how to check the IPM module,please refer to IPM protection fault"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0169",
+      "reading_order": 798,
+      "section": "7. 3 .10 Power Supply Over or under voltagve fault",
+      "bbox": {
+        "l": 60.42361353768834,
+        "t": 63.11328125,
+        "r": 92.43239100878792,
+        "b": 52.4857177734375
+      },
+      "image_path": "figures/figure_0169.png",
+      "previous_block_id": "txt_0586",
+      "width": 32,
+      "height": 10,
+      "decorative": true,
+      "image_hash": "2316c0de3db7c89545e1b052b06a0250fe9508447124e1d8d0c8cb627292df88"
+    }
+  ],
+  "page_stats": {
+    "block_count": 5,
+    "text_blocks": 2,
+    "paragraphs": 1,
+    "headings": 1,
+    "list_items": 0,
+    "captions": 0,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 2,
+    "tables": 1,
+    "toc_tables": 0
+  }
+}

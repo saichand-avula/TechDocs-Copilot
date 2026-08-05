@@ -1,0 +1,209 @@
+{
+  "page": 98,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0932",
+      "reading_order": 1194,
+      "section": "Required tools",
+      "bbox": {
+        "l": 91.0,
+        "t": 733.29,
+        "r": 149.23999999999998,
+        "b": 721.7
+      },
+      "content": "Required tools",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0933",
+      "reading_order": 1195,
+      "section": "Required tools",
+      "bbox": {
+        "l": 91.0,
+        "t": 713.29,
+        "r": 225.80999999999997,
+        "b": 701.7
+      },
+      "content": "Small flat-blade screwdriver"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0934",
+      "reading_order": 1196,
+      "section": "After performing service",
+      "bbox": {
+        "l": 90.99998,
+        "t": 688.04086,
+        "r": 188.32997999999995,
+        "b": 676.45086
+      },
+      "content": "After performing service",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0935",
+      "reading_order": 1197,
+      "section": "Turn the printer power on",
+      "bbox": {
+        "l": 91.0,
+        "t": 668.04086,
+        "r": 193.35000000000002,
+        "b": 656.45086
+      },
+      "content": "Turn the printer power on",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0936",
+      "reading_order": 1198,
+      "section": "Turn the printer power on",
+      "bbox": {
+        "l": 91.00001,
+        "t": 647.04086,
+        "r": 213.84001999999998,
+        "b": 635.45086
+      },
+      "content": "Connect the power cable."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0937",
+      "reading_order": 1199,
+      "section": "Turn the printer power on",
+      "bbox": {
+        "l": 91.0,
+        "t": 625.7917199999999,
+        "r": 285.28999999999996,
+        "b": 614.20172
+      },
+      "content": "Use the power switch to turn the power on."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0938",
+      "reading_order": 1200,
+      "section": "Post service test",
+      "bbox": {
+        "l": 91.0,
+        "t": 600.54257,
+        "r": 156.89,
+        "b": 588.95257
+      },
+      "content": "Post service test",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0939",
+      "reading_order": 1201,
+      "section": "Post service test",
+      "bbox": {
+        "l": 91.0,
+        "t": 580.54257,
+        "r": 302.99999999999994,
+        "b": 568.95257
+      },
+      "content": "Make sure that the printer initializes to a Ready state."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0940",
+      "reading_order": 1202,
+      "section": "Post service test",
+      "bbox": {
+        "l": 91.0,
+        "t": 559.54257,
+        "r": 532.9000000000001,
+        "b": 535.95257
+      },
+      "content": "Access the menus by using the printer control panel, and then print a configuration page to make sure that the printer is functioning correctly."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0941",
+      "reading_order": 1203,
+      "section": "Post service test",
+      "bbox": {
+        "l": 91.00005999999999,
+        "t": 526.54257,
+        "r": 218.31005999999996,
+        "b": 514.95257
+      },
+      "content": "Remove the control panel."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0942",
+      "reading_order": 1204,
+      "section": "Post service test",
+      "bbox": {
+        "l": 113.00004,
+        "t": 505.54256999999996,
+        "r": 523.8100400000002,
+        "b": 481.95257000000004
+      },
+      "content": "Remove one screw (callout 1), and then slide the cover toward the rear of the printer to remove it (callout 2)."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0247",
+      "reading_order": 1205,
+      "section": "Post service test",
+      "bbox": {
+        "l": 133.71628804133596,
+        "t": 460.274658203125,
+        "r": 423.8656785831137,
+        "b": 242.49188232421875
+      },
+      "image_path": "figures/figure_0247.png",
+      "caption": "Remove the formatter cover",
+      "figure_number": "Figure 1-112",
+      "image_hash": "941be8d81ca5d6761b7223ee3bae0931a77a1acf683cd1b4bfa5439c24230dd4",
+      "width": 290,
+      "height": 218,
+      "previous_block_id": "txt_0942",
+      "next_block_id": "txt_0943",
+      "caption_id": "txt_0943"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0943",
+      "reading_order": 1206,
+      "section": "Post service test",
+      "bbox": {
+        "l": 135.00009,
+        "t": 472.54256000000004,
+        "r": 305.0100799999999,
+        "b": 460.95256
+      },
+      "content": "Figure 1-112  Remove the formatter cover",
+      "caption_for": "fig_0247"
+    }
+  ],
+  "page_stats": {
+    "block_count": 13,
+    "text_blocks": 12,
+    "paragraphs": 2,
+    "headings": 4,
+    "list_items": 5,
+    "captions": 1,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 1,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

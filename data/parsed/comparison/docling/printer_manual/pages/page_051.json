@@ -1,0 +1,179 @@
+{
+  "page": 51,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_0525",
+      "reading_order": 653,
+      "section": "Post service test",
+      "bbox": {
+        "l": 122.0,
+        "t": 732.29,
+        "r": 265.28,
+        "b": 720.7
+      },
+      "content": "Open the toner-cartridge door."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0526",
+      "reading_order": 654,
+      "section": "Post service test",
+      "bbox": {
+        "l": 122.0,
+        "t": 498.40099999999995,
+        "r": 320.91999999999996,
+        "b": 486.81100000000004
+      },
+      "content": "Remove the toner cartridge from the printer."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0527",
+      "reading_order": 655,
+      "section": "Post service test",
+      "bbox": {
+        "l": 100.0,
+        "t": 261.98494000000005,
+        "r": 228.56999999999996,
+        "b": 250.3949399999999
+      },
+      "content": "Remove the transfer roller."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0528",
+      "reading_order": 656,
+      "section": "Post service test",
+      "bbox": {
+        "l": 121.99999,
+        "t": 240.98494000000005,
+        "r": 447.36999000000003,
+        "b": 229.3949399999999
+      },
+      "content": "Push in on the two white tabs on the right-side retainer clip to release them."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0529",
+      "reading_order": 657,
+      "section": "Post service test",
+      "bbox": {
+        "l": 144.0,
+        "t": 217.4849499999999,
+        "r": 467.89,
+        "b": 205.89494999999988
+      },
+      "content": "NOTE: The right end of the roller slightly springs up when the tabs are released."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0119",
+      "reading_order": 658,
+      "section": "Post service test",
+      "bbox": {
+        "l": 144.8457838673583,
+        "t": 697.7211608886719,
+        "r": 377.2817427905543,
+        "b": 507.9579772949219
+      },
+      "image_path": "figures/figure_0119.png",
+      "caption": "Open the toner-cartridge door",
+      "figure_number": "Figure 1-44",
+      "image_hash": "98cec8cfa4bda5253b7ca8e55335c1921ff42f0a4839ddda9c0d35209be8f160",
+      "width": 232,
+      "height": 190,
+      "previous_block_id": "txt_0529",
+      "next_block_id": "txt_0530",
+      "caption_id": "txt_0530"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0530",
+      "reading_order": 659,
+      "section": "Post service test",
+      "bbox": {
+        "l": 144.0,
+        "t": 711.29,
+        "r": 315.67999999999995,
+        "b": 699.7
+      },
+      "content": "Figure 1-44  Open the toner-cartridge door",
+      "caption_for": "fig_0119"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0120",
+      "reading_order": 660,
+      "section": "Post service test",
+      "bbox": {
+        "l": 150.29585493026974,
+        "t": 457.7328186035156,
+        "r": 370.45500046851254,
+        "b": 275.90899658203125
+      },
+      "image_path": "figures/figure_0120.png",
+      "caption": "Remove the toner cartridge",
+      "figure_number": "Figure 1-45",
+      "image_hash": "813c17f6ef02b259dcebc93b85e36a6498d5aedff2a477b5036a165e6db87b2f",
+      "width": 220,
+      "height": 182,
+      "previous_block_id": "txt_0530",
+      "next_block_id": "txt_0531",
+      "caption_id": "txt_0531"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0531",
+      "reading_order": 661,
+      "section": "Post service test",
+      "bbox": {
+        "l": 144.00004,
+        "t": 477.40102,
+        "r": 305.3800399999999,
+        "b": 465.81102
+      },
+      "content": "Figure 1-45  Remove the toner cartridge",
+      "caption_for": "fig_0120"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0121",
+      "reading_order": 662,
+      "section": "Post service test",
+      "bbox": {
+        "l": 127.77044054169538,
+        "t": 219.98931884765625,
+        "r": 140.2724210601034,
+        "b": 205.94384765625
+      },
+      "image_path": "figures/figure_0121.png",
+      "caption": "Remove the toner cartridge",
+      "decorative": true,
+      "width": 12,
+      "height": 14,
+      "figure_number": "Figure 1-45",
+      "image_hash": "510dab82d19dac92c8c7286bde1e804452d1ee01748758c3f525f6e6cc7fe0f6",
+      "previous_block_id": "txt_0531",
+      "next_block_id": "txt_0532"
+    }
+  ],
+  "page_stats": {
+    "block_count": 10,
+    "text_blocks": 7,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 5,
+    "captions": 2,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 3,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

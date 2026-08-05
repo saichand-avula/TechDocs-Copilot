@@ -1,0 +1,364 @@
+{
+  "page": 99,
+  "document_id": "doc_27a62e0f",
+  "page_bbox": {
+    "width": 594.9600219726562,
+    "height": 842.52001953125
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_1368",
+      "reading_order": 1758,
+      "section": "Switch Mode Power Supply",
+      "bbox": {
+        "l": 36.0,
+        "t": 787.84801953125,
+        "r": 189.96000000000004,
+        "b": 777.0644393785782
+      },
+      "content": "Switch Mode Power Supply",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0336",
+      "reading_order": 1759,
+      "section": "Switch Mode Power Supply",
+      "bbox": {
+        "l": 35.17518769120093,
+        "t": 758.1827130873919,
+        "r": 203.65954823545454,
+        "b": 631.6615681333969
+      },
+      "image_path": "figures/figure_0336.png",
+      "previous_block_id": "txt_1368",
+      "next_block_id": "txt_1369",
+      "image_hash": "15e17befc74869ae83960386faea7aa5ec60f9e935ff0ee3ccb937dcce252d85",
+      "width": 169,
+      "height": 127
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1369",
+      "reading_order": 1760,
+      "section": "Switch Mode Power Supply",
+      "bbox": {
+        "l": 325.08,
+        "t": 747.3059195312501,
+        "r": 525.4019999999999,
+        "b": 739.2182344167462
+      },
+      "content": "The Switch Mode Power Supply (ELV) is located;"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1370",
+      "reading_order": 1761,
+      "section": "Switch Mode Power Supply",
+      "bbox": {
+        "l": 333.09899999999993,
+        "t": 732.3029195312499,
+        "r": 518.0849999999998,
+        "b": 698.1692344167462
+      },
+      "content": " X12 - above the steam vent at the rear left-hand side, fitted by two M3 x 6 pozi screws, torqued to 1Nm."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1371",
+      "reading_order": 1762,
+      "section": "Switch Mode Power Supply",
+      "bbox": {
+        "l": 333.0989999999997,
+        "t": 693.77391953125,
+        "r": 535.2506999999997,
+        "b": 659.8922344167463
+      },
+      "content": " X16 - on the left-hand side of the IO board behind the front panel, fitted by two M3 x 6 pozi screws, torqued to 1Nm."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1372",
+      "reading_order": 1763,
+      "section": "Switch Mode Power Supply",
+      "bbox": {
+        "l": 325.0619999999996,
+        "t": 652.4999195312502,
+        "r": 495.9989999999996,
+        "b": 644.4122344167463
+      },
+      "content": "Providing the 12VDC supply to IO Board."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0337",
+      "reading_order": 1764,
+      "section": "Switch Mode Power Supply",
+      "bbox": {
+        "l": 217.4650933573946,
+        "t": 758.6207951177199,
+        "r": 313.5837567844154,
+        "b": 631.4595957939312
+      },
+      "image_path": "figures/figure_0337.png",
+      "previous_block_id": "txt_1372",
+      "next_block_id": "txt_1373",
+      "image_hash": "fd14b8ef9d7fdfb8f59d835de786bdbc5894bdd277fdba5376a2e4a1d41183eb",
+      "width": 97,
+      "height": 127
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1373",
+      "reading_order": 1765,
+      "section": "Switch Mode Power Supply",
+      "bbox": {
+        "l": 35.990999999999985,
+        "t": 610.1460195312501,
+        "r": 400.01399999999995,
+        "b": 586.5783344167462
+      },
+      "content": "The 12VDC output voltage adjuster is factory pre-set and does not require adjustment. The green LED is illuminated to show correct functionality."
+    },
+    {
+      "type": "heading",
+      "id": "txt_1374",
+      "reading_order": 1766,
+      "section": "Capacitor(s) (high voltage)",
+      "bbox": {
+        "l": 36.0,
+        "t": 532.00791953125,
+        "r": 183.23999999999998,
+        "b": 521.2243393785782
+      },
+      "content": "Capacitor(s) (high voltage)",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0338",
+      "reading_order": 1767,
+      "section": "Capacitor(s) (high voltage)",
+      "bbox": {
+        "l": 35.016289524285966,
+        "t": 500.2761517949093,
+        "r": 190.231312355144,
+        "b": 373.7112009253967
+      },
+      "image_path": "figures/figure_0338.png",
+      "previous_block_id": "txt_1374",
+      "next_block_id": "txt_1375",
+      "image_hash": "a9f0193f4f075e627a21e60c0a3ac59c5ffdb45f2e4492e12e6b0f1a773ac511",
+      "width": 155,
+      "height": 127
+    },
+    {
+      "type": "caption",
+      "id": "txt_1375",
+      "reading_order": 1768,
+      "section": "Capacitor(s) (high voltage)",
+      "bbox": {
+        "l": 62.04,
+        "t": 352.50601953125,
+        "r": 161.337,
+        "b": 344.4183344167462
+      },
+      "content": "Centre / RH Magnetron",
+      "caption_for": "fig_0339"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0339",
+      "reading_order": 1769,
+      "section": "Capacitor(s) (high voltage)",
+      "bbox": {
+        "l": 37.050984804733744,
+        "t": 340.8235953171977,
+        "r": 182.05260166542277,
+        "b": 240.2611343942998
+      },
+      "image_path": "figures/figure_0339.png",
+      "previous_block_id": "txt_1375",
+      "next_block_id": "txt_1376",
+      "caption_id": "txt_1375",
+      "caption": "Centre / RH Magnetron",
+      "image_hash": "f7f0257ed9383f5b91b2ec1bdfc7bd07adaeffe309ee74c669dd911210cb1a0d",
+      "width": 145,
+      "height": 100
+    },
+    {
+      "type": "figure",
+      "id": "fig_0340",
+      "reading_order": 1770,
+      "section": "Capacitor(s) (high voltage)",
+      "bbox": {
+        "l": 430.16973388584785,
+        "t": 612.268197517979,
+        "r": 535.2526692308861,
+        "b": 532.4306545412237
+      },
+      "image_path": "figures/figure_0340.png",
+      "previous_block_id": "txt_1375",
+      "next_block_id": "txt_1376",
+      "image_hash": "db1bbf3d28d6e131196bdc2e660ad05dce1df6d637bda4b3eca1c396ff54c0cc",
+      "width": 105,
+      "height": 80
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1376",
+      "reading_order": 1771,
+      "section": "Capacitor(s) (high voltage)",
+      "bbox": {
+        "l": 198.44400000000002,
+        "t": 499.02901953125,
+        "r": 529.464,
+        "b": 478.0983344167462
+      },
+      "content": "The high voltage capacitor is located on top of the cavity and is fixed by a sheet metal bracket and a pozidriv (PZ2) screw"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1377",
+      "reading_order": 1772,
+      "section": "Capacitor(s) (high voltage)",
+      "bbox": {
+        "l": 198.4260000000001,
+        "t": 470.82301953125,
+        "r": 531.6060000000001,
+        "b": 437.3013344167462
+      },
+      "content": "The high power, 2000W conneX variants comprises two high voltage capacitors, again located on the top of the cavity on each side, each attributed to a magnetron."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0341",
+      "reading_order": 1773,
+      "section": "Capacitor(s) (high voltage)",
+      "bbox": {
+        "l": 266.1321723195842,
+        "t": 441.79875447708025,
+        "r": 529.8936543270884,
+        "b": 361.33891587330567
+      },
+      "image_path": "figures/figure_0341.png",
+      "previous_block_id": "txt_1377",
+      "next_block_id": "txt_1378",
+      "caption_id": "txt_1378",
+      "caption": "LH Magnetron (high power variants only)",
+      "image_hash": "49a34c4eb6c0e3470c4512e00f93ecd856c8d8fb988fb423d83d4380b8dab5d8",
+      "width": 264,
+      "height": 80
+    },
+    {
+      "type": "caption",
+      "id": "txt_1378",
+      "reading_order": 1774,
+      "section": "Capacitor(s) (high voltage)",
+      "bbox": {
+        "l": 314.03999999999996,
+        "t": 352.50601953125,
+        "r": 481.13399999999984,
+        "b": 344.4183344167462
+      },
+      "content": "LH Magnetron (high power variants only)",
+      "caption_for": "fig_0341"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0342",
+      "reading_order": 1775,
+      "section": "Capacitor(s) (high voltage)",
+      "bbox": {
+        "l": 278.7825368845663,
+        "t": 340.156555893441,
+        "r": 431.5728378471989,
+        "b": 238.39598602477201
+      },
+      "image_path": "figures/figure_0342.png",
+      "previous_block_id": "txt_1378",
+      "next_block_id": "txt_1379",
+      "image_hash": "dd3608728be7ac4729f477941fd1f62c126da11e2e5c4a4e956f898d07877a91",
+      "width": 153,
+      "height": 102
+    },
+    {
+      "type": "figure",
+      "id": "fig_0343",
+      "reading_order": 1776,
+      "section": "Capacitor(s) (high voltage)",
+      "bbox": {
+        "l": 437.44698537325786,
+        "t": 333.2638761816924,
+        "r": 515.0595680879383,
+        "b": 273.0911251204011
+      },
+      "image_path": "figures/figure_0343.png",
+      "previous_block_id": "txt_1378",
+      "next_block_id": "txt_1379",
+      "image_hash": "eb772ba7a6d0d26d3c9624b9ada9ada95088a3bcc82ba1d5b523f493ba1d65fa",
+      "width": 78,
+      "height": 60
+    },
+    {
+      "type": "figure",
+      "id": "fig_0344",
+      "reading_order": 1777,
+      "section": "Capacitor(s) (high voltage)",
+      "bbox": {
+        "l": 186.7855142306599,
+        "t": 332.8629815229883,
+        "r": 261.30760636704997,
+        "b": 277.1189818328527
+      },
+      "image_path": "figures/figure_0344.png",
+      "previous_block_id": "txt_1378",
+      "next_block_id": "txt_1379",
+      "image_hash": "07863ed0d31b161b20fb4cf8e29076b07dbad17e63f24e02c84a0c0baa8452de",
+      "width": 74,
+      "height": 55
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1379",
+      "reading_order": 1778,
+      "section": "Capacitor(s) (high voltage)",
+      "bbox": {
+        "l": 35.99099999999993,
+        "t": 217.38601953124999,
+        "r": 530.208,
+        "b": 196.45533441674615
+      },
+      "content": "X12 - Centre / RH Magnetron is connected to the rear HV transformer. The LH Magnetron is connected to the front HV transformer."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1380",
+      "reading_order": 1779,
+      "section": "Capacitor(s) (high voltage)",
+      "bbox": {
+        "l": 35.99099999999993,
+        "t": 189.18001953125008,
+        "r": 524.3490000000002,
+        "b": 181.0923344167462
+      },
+      "content": "X16 - RH Magnetron is connected the RH HV transformer. The LH Magnetron is connected to the LH HV transformer."
+    }
+  ],
+  "page_stats": {
+    "block_count": 22,
+    "text_blocks": 13,
+    "paragraphs": 7,
+    "headings": 2,
+    "list_items": 2,
+    "captions": 2,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 9,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

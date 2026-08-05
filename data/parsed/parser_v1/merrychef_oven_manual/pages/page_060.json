@@ -1,0 +1,233 @@
+{
+  "page": 60,
+  "document_id": "doc_27a62e0f",
+  "page_bbox": {
+    "width": 594.9600219726562,
+    "height": 842.52001953125
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0690",
+      "reading_order": 883,
+      "section": "Temperature control test",
+      "bbox": {
+        "l": 39.12,
+        "t": 799.24791953125,
+        "r": 182.15999999999997,
+        "b": 788.4643393785782
+      },
+      "content": "Temperature control test",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0691",
+      "reading_order": 884,
+      "section": "Temperature control test",
+      "bbox": {
+        "l": 54.0,
+        "t": 784.0260195312501,
+        "r": 340.73100000000005,
+        "b": 775.9383344167462
+      },
+      "content": "Place a calibrated temperature probe in the centre of the cavity."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0692",
+      "reading_order": 885,
+      "section": "Temperature control test",
+      "bbox": {
+        "l": 53.99100000000004,
+        "t": 771.6690195312501,
+        "r": 253.497,
+        "b": 763.5783344167462
+      },
+      "content": "When selected the oven heats up to 275 o C."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0693",
+      "reading_order": 886,
+      "section": "Temperature control test",
+      "bbox": {
+        "l": 54.0,
+        "t": 636.9060195312501,
+        "r": 323.55899999999997,
+        "b": 628.8183344167462
+      },
+      "content": "The preheat status can be viewed by selecting temperature."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0694",
+      "reading_order": 887,
+      "section": "Temperature control test",
+      "bbox": {
+        "l": 54.003,
+        "t": 482.00257953125003,
+        "r": 554.6850000000003,
+        "b": 460.0983344167462
+      },
+      "content": "Once the oven reaches temperature, select the green tick to start. The oven will run on heat only, convection fan at 100%, for 30 minutes cycling around the maximum cavity temperature of 275 o C."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0695",
+      "reading_order": 888,
+      "section": "Temperature control test",
+      "bbox": {
+        "l": 53.99999999999994,
+        "t": 455.82901953125,
+        "r": 271.2599999999999,
+        "b": 447.7413344167462
+      },
+      "content": "Independently monitor the cavity temperature."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0696",
+      "reading_order": 889,
+      "section": "Temperature control test",
+      "bbox": {
+        "l": 53.999999999999915,
+        "t": 443.83201953125,
+        "r": 366.17399999999986,
+        "b": 435.7443344167462
+      },
+      "content": "On completion of the test, specify the result by selecting 'Pass' or 'Fail'."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0145",
+      "reading_order": 890,
+      "section": "Temperature control test",
+      "bbox": {
+        "l": 54.727825125387845,
+        "t": 759.5833205011179,
+        "r": 246.98178675643976,
+        "b": 645.5844529689525
+      },
+      "image_path": "figures/figure_0145.png",
+      "previous_block_id": "txt_0696",
+      "next_block_id": "txt_0697",
+      "image_hash": "eaece2d4c903593ed88e33d35181384c34ac8937e6da41eb2820911bffda7f7d",
+      "width": 192,
+      "height": 114
+    },
+    {
+      "type": "figure",
+      "id": "fig_0146",
+      "reading_order": 891,
+      "section": "Temperature control test",
+      "bbox": {
+        "l": 279.2134466505132,
+        "t": 759.8103487567528,
+        "r": 475.479128309643,
+        "b": 646.0788154975287
+      },
+      "image_path": "figures/figure_0146.png",
+      "previous_block_id": "txt_0696",
+      "next_block_id": "txt_0697",
+      "image_hash": "a41489ca1dd1db11047ed8f60a3cae07676ebbc808528e592b6dafe40b07e0fb",
+      "width": 196,
+      "height": 113
+    },
+    {
+      "type": "figure",
+      "id": "fig_0147",
+      "reading_order": 892,
+      "section": "Temperature control test",
+      "bbox": {
+        "l": 34.994684530709705,
+        "t": 617.1628089786849,
+        "r": 247.29859896450296,
+        "b": 495.7613898533378
+      },
+      "image_path": "figures/figure_0147.png",
+      "previous_block_id": "txt_0696",
+      "next_block_id": "txt_0697",
+      "image_hash": "0c29f424238608bdb4bac2c17ccbb202853f007b9eb260bb71dbd4a121abbe14",
+      "width": 212,
+      "height": 122
+    },
+    {
+      "type": "figure",
+      "id": "fig_0148",
+      "reading_order": 893,
+      "section": "Temperature control test",
+      "bbox": {
+        "l": 290.26256993311233,
+        "t": 622.2378138857468,
+        "r": 481.5374370450702,
+        "b": 509.3700616050551
+      },
+      "image_path": "figures/figure_0148.png",
+      "previous_block_id": "txt_0696",
+      "next_block_id": "txt_0697",
+      "image_hash": "ad95a694a8f3c39658d389d2f42296eef77cd42574e8756e5edf30bd1c201801",
+      "width": 192,
+      "height": 113
+    },
+    {
+      "type": "figure",
+      "id": "fig_0149",
+      "reading_order": 894,
+      "section": "Temperature control test",
+      "bbox": {
+        "l": 36.62077689592281,
+        "t": 431.1187426480216,
+        "r": 246.8235942611017,
+        "b": 308.33191283473195
+      },
+      "image_path": "figures/figure_0149.png",
+      "previous_block_id": "txt_0696",
+      "next_block_id": "txt_0697",
+      "image_hash": "e0bd7b71251a1307f02d7c2b6472721584a821fb3f1df09f2292bd7f7e634b58",
+      "width": 210,
+      "height": 123
+    },
+    {
+      "type": "admonition",
+      "id": "txt_0697",
+      "reading_order": 895,
+      "section": "Temperature control test",
+      "bbox": {
+        "l": 36.0,
+        "t": 293.7060195312499,
+        "r": 399.897,
+        "b": 285.61833441674617
+      },
+      "content": "Note: Opening the door during the test will stop the test. Reselect the test to run again",
+      "severity": "note"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0698",
+      "reading_order": 896,
+      "section": "Temperature control test",
+      "bbox": {
+        "l": 36.0,
+        "t": 269.34601953125,
+        "r": 317.3399999999999,
+        "b": 261.1587304760583
+      },
+      "content": "This test only generally recommended for workshop activities."
+    }
+  ],
+  "page_stats": {
+    "block_count": 14,
+    "text_blocks": 9,
+    "paragraphs": 1,
+    "headings": 1,
+    "list_items": 6,
+    "captions": 0,
+    "admonitions": 1,
+    "references": 0,
+    "figures": 5,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

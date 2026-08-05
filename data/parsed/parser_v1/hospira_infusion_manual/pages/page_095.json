@@ -1,0 +1,57 @@
+{
+  "page": 95,
+  "document_id": "doc_37f23c38",
+  "page_bbox": {
+    "width": 612.0,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0036",
+      "reading_order": 903,
+      "section": "7.2.4 BATTERY, BATTERY DOOR, AND DOOR PAD REPLACEMENT",
+      "bbox": {
+        "l": 149.498291015625,
+        "t": 610.5946807861328,
+        "r": 517.8750610351562,
+        "b": 259.35906982421875
+      },
+      "image_path": "figures/figure_0036.png",
+      "next_block_id": "txt_0830",
+      "caption_id": "txt_0830",
+      "caption": ". Battery, Battery Door, and Door Pad",
+      "figure_number": "Figure 7-2",
+      "image_hash": "1be08c06a6a0c4ee216ce17f25d0cfa61e2694ca86594c987e5072076cf3772a",
+      "width": 369,
+      "height": 352
+    },
+    {
+      "type": "caption",
+      "id": "txt_0830",
+      "reading_order": 904,
+      "section": "7.2.4 BATTERY, BATTERY DOOR, AND DOOR PAD REPLACEMENT",
+      "bbox": {
+        "l": 204.24,
+        "t": 235.75138000000004,
+        "r": 443.5160519999996,
+        "b": 226.53837999999996
+      },
+      "content": "Figure 7-2. Battery, Battery Door, and Door Pad",
+      "caption_for": "fig_0036"
+    }
+  ],
+  "page_stats": {
+    "block_count": 2,
+    "text_blocks": 1,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 0,
+    "captions": 1,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 1,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

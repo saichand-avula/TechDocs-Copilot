@@ -1,0 +1,212 @@
+{
+  "page": 91,
+  "document_id": "doc_f7e949ab",
+  "page_bbox": {
+    "width": 612.0,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_0860",
+      "reading_order": 1011,
+      "section": "Unit Description",
+      "bbox": {
+        "l": 135.0,
+        "t": 705.8025,
+        "r": 486.2065500000002,
+        "b": 692.24625
+      },
+      "content": "l Sound unit : consists of 8bit PIC micom, 2-channel amplifiers and speaker."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0861",
+      "reading_order": 1012,
+      "section": "Unit Description",
+      "bbox": {
+        "l": 135.0,
+        "t": 539.3025,
+        "r": 337.73699999999997,
+        "b": 525.74625
+      },
+      "content": "l Communication unit : 4-channel UART"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0862",
+      "reading_order": 1013,
+      "section": "Unit Description",
+      "bbox": {
+        "l": 135.0,
+        "t": 372.8025,
+        "r": 537.7483000000003,
+        "b": 345.74625
+      },
+      "content": "l GUI (graphic user interface) unit : consists  of  TFT  LCD,  inverter  for  backlit  and internal video controller."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0863",
+      "reading_order": 1014,
+      "section": "Unit Description",
+      "bbox": {
+        "l": 135.0,
+        "t": 192.8025,
+        "r": 349.58605,
+        "b": 179.24625000000003
+      },
+      "content": "l Thermal Printer unit : prints data records."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0111",
+      "reading_order": 1015,
+      "section": "Unit Description",
+      "bbox": {
+        "l": 149.86532592773438,
+        "t": 688.0114364624023,
+        "r": 520.1401977539062,
+        "b": 572.4636840820312
+      },
+      "image_path": "figures/figure_0111.png",
+      "previous_block_id": "txt_0863",
+      "next_block_id": "txt_0864",
+      "caption_id": "txt_0864",
+      "caption": ". Sound Unit Block Diagram",
+      "figure_number": "Figure 15",
+      "image_hash": "c9073d0f00f0cdfcd7280684eff9fea7da729aabe3c6e90fea7123abb2f3e543",
+      "width": 370,
+      "height": 116
+    },
+    {
+      "type": "caption",
+      "id": "txt_0864",
+      "reading_order": 1016,
+      "section": "Unit Description",
+      "bbox": {
+        "l": 240.0,
+        "t": 566.3025,
+        "r": 423.75884999999937,
+        "b": 552.9375
+      },
+      "content": "Figure 15. Sound Unit Block Diagram",
+      "caption_for": "fig_0111"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0112",
+      "reading_order": 1017,
+      "section": "Unit Description",
+      "bbox": {
+        "l": 143.6556396484375,
+        "t": 522.048828125,
+        "r": 527.1357421875,
+        "b": 406.76763916015625
+      },
+      "image_path": "figures/figure_0112.png",
+      "previous_block_id": "txt_0864",
+      "next_block_id": "txt_0865",
+      "caption_id": "txt_0865",
+      "caption": ". Communication Unit Block Diagram",
+      "figure_number": "Figure 16",
+      "image_hash": "74417f2ad6b2e3a21b9cf82671c75775f2e0fb3e6733d566194267f588a21774",
+      "width": 383,
+      "height": 115
+    },
+    {
+      "type": "caption",
+      "id": "txt_0865",
+      "reading_order": 1018,
+      "section": "Unit Description",
+      "bbox": {
+        "l": 215.25,
+        "t": 399.8025,
+        "r": 445.5172999999999,
+        "b": 386.4375
+      },
+      "content": "Figure 16. Communication Unit Block Diagram",
+      "caption_for": "fig_0112"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0113",
+      "reading_order": 1019,
+      "section": "Unit Description",
+      "bbox": {
+        "l": 136.16001892089844,
+        "t": 344.6869812011719,
+        "r": 528.0787963867188,
+        "b": 223.084228515625
+      },
+      "image_path": "figures/figure_0113.png",
+      "previous_block_id": "txt_0865",
+      "next_block_id": "txt_0866",
+      "image_hash": "00b860ffc521ddecb4a9dbe3b623bce11e845f3b6b9b5bfe4c83b1fa37fdcd2f",
+      "width": 392,
+      "height": 122
+    },
+    {
+      "type": "caption",
+      "id": "txt_0866",
+      "reading_order": 1020,
+      "section": "Unit Description",
+      "bbox": {
+        "l": 230.25,
+        "t": 219.8025,
+        "r": 407.8125,
+        "b": 206.4375
+      },
+      "content": "Figure 17. GUI Unit Block Diagram",
+      "caption_for": "fig_0114"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0114",
+      "reading_order": 1021,
+      "section": "Unit Description",
+      "bbox": {
+        "l": 136.65208435058594,
+        "t": 171.30169677734375,
+        "r": 532.1991577148438,
+        "b": 117.77471923828125
+      },
+      "image_path": "figures/figure_0114.png",
+      "previous_block_id": "txt_0866",
+      "next_block_id": "txt_0867",
+      "caption_id": "txt_0867",
+      "caption": ". Thermal Printer Unit Block Diagram",
+      "figure_number": "Figure 18",
+      "image_hash": "bb4a0b6ad001b74f63f1941e1869a1263a6a70c7f46b53ddb6552ce3ba1acdc1",
+      "width": 395,
+      "height": 53
+    },
+    {
+      "type": "caption",
+      "id": "txt_0867",
+      "reading_order": 1022,
+      "section": "Unit Description",
+      "bbox": {
+        "l": 203.25,
+        "t": 107.30250000000001,
+        "r": 435.77024999999963,
+        "b": 93.9375
+      },
+      "content": "Figure 18. Thermal Printer Unit Block Diagram",
+      "caption_for": "fig_0114"
+    }
+  ],
+  "page_stats": {
+    "block_count": 12,
+    "text_blocks": 8,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 4,
+    "captions": 4,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 4,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

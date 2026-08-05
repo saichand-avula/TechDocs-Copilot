@@ -1,0 +1,269 @@
+{
+  "page": 288,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0794",
+      "reading_order": 3177,
+      "section": "d. Remove the cover.",
+      "bbox": {
+        "l": 119.05496943089877,
+        "t": 732.0201187133789,
+        "r": 132.24844266199077,
+        "b": 718.4103546142578
+      },
+      "image_path": "figures/figure_0794.png",
+      "width": 13,
+      "height": 13,
+      "image_hash": "df7bb5338f8fbe84a1d08fd6d1fe460d2b94766f18f6328775845c41b0730ec4",
+      "next_block_id": "txt_2355"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2355",
+      "reading_order": 3178,
+      "section": "d. Remove the cover.",
+      "bbox": {
+        "l": 135.0,
+        "t": 729.79,
+        "r": 404.8599999999999,
+        "b": 718.2
+      },
+      "content": "NOTE: HP recommends responsible disposal of the defective part."
+    },
+    {
+      "type": "reference",
+      "id": "txt_2356",
+      "reading_order": 3179,
+      "section": "d. Remove the cover.",
+      "bbox": {
+        "l": 134.99998,
+        "t": 708.79,
+        "r": 458.28998,
+        "b": 697.2
+      },
+      "content": "http://www8.hp.com/us/en/hp-information/environment/product-recycling.html"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2357",
+      "reading_order": 3180,
+      "section": "d. Remove the cover.",
+      "bbox": {
+        "l": 113.0,
+        "t": 686.29,
+        "r": 333.5199999999998,
+        "b": 674.7
+      },
+      "content": "Unpack the replacement part from the packaging."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0795",
+      "reading_order": 3181,
+      "section": "d. Remove the cover.",
+      "bbox": {
+        "l": 119.20268126667689,
+        "t": 664.9467926025391,
+        "r": 132.83964079211646,
+        "b": 650.9645385742188
+      },
+      "image_path": "figures/figure_0795.png",
+      "width": 13,
+      "height": 13,
+      "image_hash": "b9f093ada46ffbbb4a5818353bb4a0247027b5ab257e2cf1f44ac7a99d80ce7c",
+      "previous_block_id": "txt_2357",
+      "next_block_id": "txt_2358"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_2358",
+      "reading_order": 3182,
+      "severity": "caution",
+      "content": "CAUTION: Some parts are sensitive to electrostatic discharge (ESD). Always perform service",
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 135.0,
+        "t": 657.405,
+        "r": 172.75,
+        "b": 645.815
+      }
+    },
+    {
+      "type": "figure",
+      "id": "fig_0796",
+      "reading_order": 3184,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 181.7230007078483,
+        "t": 661.4434356689453,
+        "r": 202.094163416085,
+        "b": 640.2773590087891
+      },
+      "image_path": "figures/figure_0796.png",
+      "width": 20,
+      "height": 21,
+      "image_hash": "db50a16dc14b8c6fb87164ac03515bd6d3e3e7f95b3c713328015cecca1de3fc",
+      "next_block_id": "txt_2360"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_2360",
+      "reading_order": 3185,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 135.0,
+        "t": 638.79,
+        "r": 540.7700400000001,
+        "b": 603.2
+      },
+      "content": "work at an ESD-protected workstation or mat. If an ESD workstation or mat is not available, touch the sheet-metal chassis to provide a static ground before touching an ESD-sensitive assembly. Protect the ESD-sensitive assemblies by placing them in ESD pouches when they are out of the printer."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_2361",
+      "reading_order": 3186,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 135.00004,
+        "t": 593.79,
+        "r": 539.6300400000002,
+        "b": 558.2
+      },
+      "content": "If the replacement part is a roller or pad, avoid touching the spongy part of it. Skin oils on the roller or pad can cause paper pickup and/or print-quality problems. HP recommends using disposable gloves when handling rollers or pads or washing your hands before touching rollers or pads."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2362",
+      "reading_order": 3187,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 135.0,
+        "t": 548.79,
+        "r": 532.73,
+        "b": 525.2
+      },
+      "content": "IMPORTANT: Make sure that all of the shipping materials (for example shipping tape) are removed from the replacement part prior to installation."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2363",
+      "reading_order": 3188,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 113.0,
+        "t": 514.29,
+        "r": 334.02,
+        "b": 502.70000000000005
+      },
+      "content": "To install an assembly, reverse the removal steps."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2364",
+      "reading_order": 3189,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 135.00002,
+        "t": 493.28999999999996,
+        "r": 542.6100400000003,
+        "b": 457.7
+      },
+      "content": "When applicable, special installation instructions are provided for an assembly at the end of the removal procedure. Always completely read the removal instructions and follow all special installation instructions."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2365",
+      "reading_order": 3190,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 91.00004,
+        "t": 448.29,
+        "r": 531.27007,
+        "b": 436.7
+      },
+      "content": "Reverse the removal steps to install the assembly. Also use the following special installation instructions."
+    },
+    {
+      "type": "heading",
+      "id": "txt_2366",
+      "reading_order": 3191,
+      "section": "Install a replacement white backing",
+      "bbox": {
+        "l": 113.00009,
+        "t": 423.29,
+        "r": 254.05008999999995,
+        "b": 411.7
+      },
+      "content": "Install a replacement white backing",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2367",
+      "reading_order": 3192,
+      "section": "Install a replacement white backing",
+      "bbox": {
+        "l": 113.00007,
+        "t": 403.29,
+        "r": 461.4500600000001,
+        "b": 391.7
+      },
+      "content": "Verify that the springs are positioned correctly on the replacement retention clips."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0797",
+      "reading_order": 3193,
+      "section": "Install a replacement white backing",
+      "bbox": {
+        "l": 133.5022622084527,
+        "t": 365.9508361816406,
+        "r": 470.22056570765915,
+        "b": 148.2099609375
+      },
+      "image_path": "figures/figure_0797.png",
+      "caption": "Check the retention clip spring",
+      "figure_number": "Figure 1-442",
+      "image_hash": "3317609cf96723b35109c36fdbb03514e1dd05c11a29e4d648151a2a4a038e4c",
+      "width": 336,
+      "height": 218,
+      "previous_block_id": "txt_2367",
+      "next_block_id": "txt_2368",
+      "caption_id": "txt_2368"
+    },
+    {
+      "type": "caption",
+      "id": "txt_2368",
+      "reading_order": 3194,
+      "section": "Install a replacement white backing",
+      "bbox": {
+        "l": 135.00008,
+        "t": 382.29,
+        "r": 312.4400799999999,
+        "b": 370.7
+      },
+      "content": "Figure 1-442  Check the retention clip spring",
+      "caption_for": "fig_0797"
+    }
+  ],
+  "page_stats": {
+    "block_count": 17,
+    "text_blocks": 13,
+    "paragraphs": 2,
+    "headings": 1,
+    "list_items": 7,
+    "captions": 1,
+    "admonitions": 1,
+    "references": 1,
+    "figures": 4,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

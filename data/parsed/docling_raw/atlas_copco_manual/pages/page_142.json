@@ -1,0 +1,38 @@
+{
+  "page": 142,
+  "document_id": "doc_e02482e6",
+  "page_bbox": {
+    "width": 595.0,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0348",
+      "reading_order": 1518,
+      "section": "GA 75",
+      "bbox": {
+        "l": 26.608135223388672,
+        "t": 815.9388580322266,
+        "r": 74.05863952636719,
+        "b": 792.8064575195312
+      },
+      "image_path": "figures/figure_0348.png",
+      "previous_block_id": "txt_1045",
+      "next_block_id": "txt_1046"
+    },
+    {
+      "type": "table",
+      "id": "tbl_0127",
+      "reading_order": 1519,
+      "section": "GA 75",
+      "bbox": {
+        "l": 62.19289016723633,
+        "t": 760.6116104125977,
+        "r": 519.4613647460938,
+        "b": 115.2822265625
+      },
+      "markdown": "|                                                                                    | Units   | 7.5 bar    | 8 bar      | 10 bar     | 13 bar     |\n|------------------------------------------------------------------------------------|---------|------------|------------|------------|------------|\n| Reference working pressure, units without dryer                                    | bar(e)  | 7          | 8          | 9.5        | 12.5       |\n| Reference working pressure, Workplace Full- Feature units                          | bar(e)  | 7          | 7.75       | 9.5        | 12.5       |\n| Pressure drop over dryer, Full-Feature units                                       | bar(e)  | 0.23       | 0.23       | 0.14       | 0.08       |\n| Set point,thermostatic valve                                                       | 0 C     | 40         | 40         | 40         | 65         |\n| Temperature of air leaving outlet valve (approx),air- cooled units without dryer   | 0 C     | 30         | 30         | 30         | 30         |\n| Temperature of air leaving outlet valve (approx),water- cooled units without dryer | 0 C     | 32         | 32         | 32         | 32         |\n| Temperature of air leaving outlet valve (approx.),Full- Feature units              | 0 C     | 25         | 25         | 25         | 25         |\n| Pressure dewpoint,Full- Feature units                                              | 0 C     | 4          | 4          | 4          | 4          |\n| Drive motor, SIEMENS                                                               |         | 1LG6 228-2 | 1LG9 228-2 | 1LG9 228-2 | 1LG9 228-2 |\n| Motor shaft speed                                                                  | r/min   | 2965       | 2965       | 2965       | 2965       |\n| Nominal motor rating                                                               | kW      | 75         | 75         | 75         | 75         |\n| Power consumpation Dryer at full load, Full-Feature units                          | kW      | 2.7        | 2.7        | 2.7        | 2.7        |"
+    }
+  ]
+}

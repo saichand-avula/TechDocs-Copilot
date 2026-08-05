@@ -1,0 +1,120 @@
+{
+  "page": 41,
+  "document_id": "doc_37f23c38",
+  "page_bbox": {
+    "width": 612.0,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0019",
+      "reading_order": 335,
+      "section": "4.2.2.5 POWER CONTROL",
+      "bbox": {
+        "l": 112.06454467773438,
+        "t": 719.9611434936523,
+        "r": 522.902099609375,
+        "b": 549.998046875
+      },
+      "image_path": "figures/figure_0019.png",
+      "previous_block_id": "txt_0301",
+      "next_block_id": "txt_0302"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0302",
+      "reading_order": 336,
+      "section": "4.2.2.5 POWER CONTROL",
+      "bbox": {
+        "l": 155.16,
+        "t": 535.5112771800001,
+        "r": 492.5115147060013,
+        "b": 526.2982679300001
+      },
+      "content": "Figure 4-2. System Startup and Shutdown Timing, Battery Powered"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0303",
+      "reading_order": 337,
+      "section": "4.2.2.6",
+      "bbox": {
+        "l": 108.0004482511,
+        "t": 499.14230066500005,
+        "r": 135.4801158411,
+        "b": 489.8276746187604
+      },
+      "content": "4.2.2.6",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "id": "txt_0304",
+      "reading_order": 338,
+      "section": "BATTERY VOLTAGE MEASUREMENT",
+      "bbox": {
+        "l": 108.0,
+        "t": 487.18038,
+        "r": 368.4250320000003,
+        "b": 474.106249338843
+      },
+      "content": "BATTERY VOLTAGE MEASUREMENT",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0305",
+      "reading_order": 339,
+      "section": "BATTERY VOLTAGE MEASUREMENT",
+      "bbox": {
+        "l": 108.0,
+        "t": 459.12276681,
+        "r": 540.0081629427003,
+        "b": 414.22787478403274
+      },
+      "content": "The battery terminal voltage (BATPOS - BATNEG) is measured with a differential amplifier consisting of U1, R1, R2, R4, R7, and R8. It has a gain of 0.317 to generate a single ended VBATT signal. The VBATT signal is then provided to the CPU A/D converter as input for the battery management algorithms."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0306",
+      "reading_order": 340,
+      "section": "4.2.2.7",
+      "bbox": {
+        "l": 108.00000000000006,
+        "t": 391.14370655799996,
+        "r": 135.47966759000005,
+        "b": 381.8290805117603
+      },
+      "content": "4.2.2.7",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "id": "txt_0307",
+      "reading_order": 341,
+      "section": "BATTERY CHARGE/DISCHARGE CURRENT MEASUREMENT",
+      "bbox": {
+        "l": 108.0,
+        "t": 379.18038,
+        "r": 526.8185718000005,
+        "b": 366.106249338843
+      },
+      "content": "BATTERY CHARGE/DISCHARGE CURRENT MEASUREMENT",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0308",
+      "reading_order": 342,
+      "section": "BATTERY CHARGE/DISCHARGE CURRENT MEASUREMENT",
+      "bbox": {
+        "l": 107.99920319919994,
+        "t": 351.12276681,
+        "r": 540.1100538450011,
+        "b": 222.2291344480327
+      },
+      "content": "The battery management algorithms measure battery charge/discharge current for battery capacity estimation and charger control. The charge/discharge current is measured by integrating  the  voltage  across  current  sense  resistor  R57.  An  operational  amplifier (op-amp)  integrator  circuit,  consisting  of  U2,  C5,  R12,  R13,  R19,  and  R20,  provides a voltage proportional to the integration of battery current (IBATT) over a CPU controlled measurement period. The IBATT signal is fed to the CPU A/D converter, where it is sampled at  the  end  of  the  measurement  period.  The  battery  management  algorithm  further accumulates the charge/discharge current for battery capacity estimation. The op-amp integrator is reset by the CPU system at the beginning of each measurement period by parallel  analog  switches  U3,  controlled  by  the  CPU's  ITGRST  signal.  The  battery management algorithm periodically calibrates the op-amp integrator."
+    }
+  ]
+}

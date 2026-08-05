@@ -1,0 +1,138 @@
+{
+  "page": 642,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_1823",
+      "reading_order": 6671,
+      "section": "13. Remove the right cover.",
+      "bbox": {
+        "l": 133.64722875456224,
+        "t": 719.6078720092773,
+        "r": 424.03256169174404,
+        "b": 502.8437194824219
+      },
+      "image_path": "figures/figure_1823.png",
+      "caption": "Remove the sheet-metal plate",
+      "figure_number": "Figure 1-1072",
+      "image_hash": "eb655dd40cbf69d22a8d79290eecdfbd39c183237c525d0efd3b7e9bd65a4256",
+      "width": 290,
+      "height": 217,
+      "next_block_id": "txt_4805",
+      "caption_id": "txt_4805"
+    },
+    {
+      "type": "caption",
+      "id": "txt_4805",
+      "reading_order": 6672,
+      "section": "13. Remove the right cover.",
+      "bbox": {
+        "l": 135.0,
+        "t": 732.29,
+        "r": 319.27000999999984,
+        "b": 720.7
+      },
+      "content": "Figure 1-1072  Remove the sheet-metal plate",
+      "caption_for": "fig_1823"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_4806",
+      "reading_order": 6673,
+      "section": "13. Remove the right cover.",
+      "bbox": {
+        "l": 113.0,
+        "t": 491.41999999999996,
+        "r": 481.7300000000001,
+        "b": 479.83000000000004
+      },
+      "content": "Carefully pass all cables and wire harnesses through the opening in the formatter case."
+    },
+    {
+      "type": "figure",
+      "id": "fig_1824",
+      "reading_order": 6674,
+      "section": "13. Remove the right cover.",
+      "bbox": {
+        "l": 118.77824423230732,
+        "t": 470.173095703125,
+        "r": 132.2758650554579,
+        "b": 456.61602783203125
+      },
+      "image_path": "figures/figure_1824.png",
+      "decorative": true,
+      "width": 13,
+      "height": 13,
+      "image_hash": "0076b5a70b5666138600a48e88caca86d138380cc837f445c9e612f6b6a1f0a6",
+      "previous_block_id": "txt_4806",
+      "next_block_id": "txt_4807"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_4807",
+      "reading_order": 6675,
+      "section": "13. Remove the right cover.",
+      "bbox": {
+        "l": 134.99996,
+        "t": 467.92,
+        "r": 510.04000000000013,
+        "b": 444.33
+      },
+      "content": "NOTE: A SFP printer is shown in this section. However, the procedure is correct for all printer models.",
+      "severity": "note"
+    },
+    {
+      "type": "figure",
+      "id": "fig_1825",
+      "reading_order": 6676,
+      "section": "13. Remove the right cover.",
+      "bbox": {
+        "l": 133.6594757968059,
+        "t": 421.7600402832031,
+        "r": 424.1877010612365,
+        "b": 203.943603515625
+      },
+      "image_path": "figures/figure_1825.png",
+      "caption": "Pass all cables and wire harnesses through the opening",
+      "figure_number": "Figure 1-1073",
+      "image_hash": "22e27bb16522deb2a647fc7f53b7b85a585611b8b2d70a7c9888b15a3a6c35dd",
+      "width": 290,
+      "height": 218,
+      "previous_block_id": "txt_4807",
+      "next_block_id": "txt_4808",
+      "caption_id": "txt_4808"
+    },
+    {
+      "type": "caption",
+      "id": "txt_4808",
+      "reading_order": 6677,
+      "section": "13. Remove the right cover.",
+      "bbox": {
+        "l": 135.0,
+        "t": 433.42,
+        "r": 418.34001,
+        "b": 421.83
+      },
+      "content": "Figure 1-1073  Pass all cables and wire harnesses through the opening",
+      "caption_for": "fig_1825"
+    }
+  ],
+  "page_stats": {
+    "block_count": 7,
+    "text_blocks": 4,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 1,
+    "captions": 2,
+    "admonitions": 1,
+    "references": 0,
+    "figures": 3,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

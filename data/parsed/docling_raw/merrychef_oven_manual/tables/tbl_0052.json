@@ -1,0 +1,15 @@
+{
+  "id": "tbl_0052",
+  "page": 68,
+  "section": "Convection fan: motor speed controller LED status display",
+  "title": null,
+  "markdown": "| LED Drive Status                  | Flash rate      | Additional details                            | Recovery   |\n|-----------------------------------|-----------------|-----------------------------------------------|------------|\n| Normal Operation (Run)            | On Continuously | Fan motor operating normally                  | 10s        |\n| Overload (Hardware Current >10A)  | 1               | Fan motor off (switched off in less than 1ms) | 10s        |\n| Overload (Software Current >3.5A) | 2               | Fan motor off (switched off after 5s)         | 10s        |\n| Output Phase Missing              | 3               | Fan motor off (switched off after 2s)         | 10s        |\n| Lock Motor                        | 3               | Fan motor off (switched off after 2s)         | 10s        |\n| Over Voltage (>275VAC)            | 5               | Fan motor running in safe mode (1000rpm)      | 10s        |\n| Under Voltage (<150VAC)           | 6               | Fan motor running in safe mode (1000rpm)      | 10s        |\n| P1 - P2 link wire missing         | 7               | Fan motor off (switched off in 100ms)         | 10s        |\n| Onboard Fuse Blown                | 2 then 3        | Fan motor off (switched off after 55ms)       | 10s        |",
+  "block_id": "#/tables/51",
+  "reading_order": 1113,
+  "bbox": {
+    "l": 35.064263748192865,
+    "t": 791.9646685018535,
+    "r": 558.6079114110468,
+    "b": 631.7273570697043
+  }
+}

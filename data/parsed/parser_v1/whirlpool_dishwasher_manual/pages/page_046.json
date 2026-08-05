@@ -1,0 +1,229 @@
+{
+  "page": 46,
+  "document_id": "doc_16216d0c",
+  "page_bbox": {
+    "width": 612.0,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0848",
+      "reading_order": 948,
+      "section": "Removing the Control Panel",
+      "bbox": {
+        "l": 182.6177,
+        "t": 730.9101999999999,
+        "r": 411.75769999999994,
+        "b": 716.1365010526315
+      },
+      "content": "Removing the Control Panel",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_0849",
+      "reading_order": 949,
+      "severity": "warning",
+      "content": "WARNING: Electrical Shock Hazard Disconnect power before servicing. Failure to do so can result in death or electrical shock. Replace all parts and panels before operating.",
+      "section": "WARNING",
+      "bbox": {
+        "l": 120.0865,
+        "t": 701.684056,
+        "r": 225.810343,
+        "b": 684.1411281342547
+      },
+      "icon_path": "figures/figure_0085.png"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0851",
+      "reading_order": 952,
+      "section": "WARNING",
+      "bbox": {
+        "l": 56.1631,
+        "t": 44.86829999999998,
+        "r": 72.4687,
+        "b": 32.765719354838666
+      },
+      "content": "n"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0852",
+      "reading_order": 953,
+      "section": "Removing the Control Panel",
+      "bbox": {
+        "l": 303.0,
+        "t": 704.8846,
+        "r": 487.8799999999998,
+        "b": 692.7119613445378
+      },
+      "content": "Removing the Control Panel",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0853",
+      "reading_order": 954,
+      "section": "Removing the Control Panel",
+      "bbox": {
+        "l": 309.0,
+        "t": 675.0926000000001,
+        "r": 485.5500000000002,
+        "b": 667.4847008403361
+      },
+      "content": "Unplug dishwasher or disconnect power."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0854",
+      "reading_order": 955,
+      "section": "Removing the Control Panel",
+      "bbox": {
+        "l": 309.0,
+        "t": 662.0926000000001,
+        "r": 560.2600000000002,
+        "b": 644.4847008403361
+      },
+      "content": "Perform the procedures on page 4-2, 'Remove Outer Door Panel' prior to performing the following steps."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0855",
+      "reading_order": 956,
+      "section": "Removing the Control Panel",
+      "bbox": {
+        "l": 309.0,
+        "t": 639.0926000000001,
+        "r": 524.5000000000001,
+        "b": 631.4847008403361
+      },
+      "content": "Remove the eight (8) screws indicated in Figure 1."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0856",
+      "reading_order": 957,
+      "section": "Removing the Control Panel",
+      "bbox": {
+        "l": 309.0,
+        "t": 280.0926,
+        "r": 543.9300000000004,
+        "b": 262.48470084033613
+      },
+      "content": "Disconnect the User Interface harness and remove the handle cover. See Figure 2.",
+      "hyperlink_hint": true
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0857",
+      "reading_order": 958,
+      "section": "Removing the Control Panel",
+      "bbox": {
+        "l": 309.0,
+        "t": 257.09259999999995,
+        "r": 534.0200000000001,
+        "b": 239.48470084033613
+      },
+      "content": "Remove the two (2) screws (indicated in Figure 2) to remove the User Interface PCBA."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0086",
+      "reading_order": 959,
+      "section": "Removing the Control Panel",
+      "bbox": {
+        "l": 311.9587097167969,
+        "t": 626.7734832763672,
+        "r": 548.5418701171875,
+        "b": 313.4958801269531
+      },
+      "image_path": "figures/figure_0086.png",
+      "previous_block_id": "txt_0857",
+      "next_block_id": "txt_0858",
+      "image_hash": "9dcd0c4b3ef3034f4efa9a3aea7137ad8135a648457e681647463a5abd0cead6",
+      "width": 237,
+      "height": 314
+    },
+    {
+      "type": "caption",
+      "id": "txt_0858",
+      "reading_order": 960,
+      "section": "Removing the Control Panel",
+      "bbox": {
+        "l": 415.4883,
+        "t": 303.4606,
+        "r": 445.5122999999999,
+        "b": 296.61349075630255
+      },
+      "content": "Figure 1",
+      "caption_for": "fig_0087"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0859",
+      "reading_order": 961,
+      "section": "Disconnect UI Harness",
+      "bbox": {
+        "l": 305.0928,
+        "t": 228.9774,
+        "r": 395.9428000000002,
+        "b": 221.36950084033606
+      },
+      "content": "Disconnect UI Harness",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0087",
+      "reading_order": 962,
+      "section": "Disconnect UI Harness",
+      "bbox": {
+        "l": 303.18536376953125,
+        "t": 214.26519775390625,
+        "r": 559.7969360351562,
+        "b": 136.963134765625
+      },
+      "image_path": "figures/figure_0087.png",
+      "previous_block_id": "txt_0859",
+      "next_block_id": "txt_0860",
+      "caption_id": "txt_0860",
+      "caption": "Figure 2",
+      "figure_number": "Figure 2",
+      "image_hash": "6964fb0603992f54f6d4d76bbb3675a29bcda4b1d4dda87499492b1b9a463a7f",
+      "width": 257,
+      "height": 77
+    },
+    {
+      "type": "caption",
+      "id": "txt_0860",
+      "reading_order": 963,
+      "section": "Disconnect UI Harness",
+      "bbox": {
+        "l": 415.4883,
+        "t": 131.4606,
+        "r": 445.5122999999999,
+        "b": 124.61349075630255
+      },
+      "content": "Figure 2",
+      "caption_for": "fig_0087"
+    }
+  ],
+  "page_stats": {
+    "block_count": 14,
+    "text_blocks": 12,
+    "paragraphs": 1,
+    "headings": 3,
+    "list_items": 5,
+    "captions": 2,
+    "admonitions": 1,
+    "references": 0,
+    "figures": 2,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

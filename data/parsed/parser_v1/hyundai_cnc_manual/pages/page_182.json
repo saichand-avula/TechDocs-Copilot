@@ -1,0 +1,80 @@
+{
+  "page": 182,
+  "document_id": "doc_caa693b1",
+  "page_bbox": {
+    "width": 595.0,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_1257",
+      "reading_order": 1693,
+      "section": "3-9-6. Error Codes Serial Spindle)",
+      "bbox": {
+        "l": 70.92,
+        "t": 755.71466,
+        "r": 239.23195200000004,
+        "b": 746.8429409281769
+      },
+      "content": "3-9-6. Error Codes Serial Spindle)",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_1258",
+      "reading_order": 1694,
+      "severity": "note",
+      "content": "NOTE: Note that the meanings of the the SPM indictions differ depending on which LED, the redor yellow LED, is on.",
+      "section": "Note",
+      "bbox": {
+        "l": 70.92,
+        "t": 724.05794,
+        "r": 105.90355199999999,
+        "b": 711.6800325524862
+      }
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1260",
+      "reading_order": 1696,
+      "section": "Note",
+      "bbox": {
+        "l": 70.91999999999999,
+        "t": 653.234864,
+        "r": 516.5685180000012,
+        "b": 644.3631449281769
+      },
+      "content": "When the red LED is on, the SPM indicates the number of an alarm generated in thee serial spindle."
+    },
+    {
+      "type": "table",
+      "id": "tbl_0066",
+      "reading_order": 1697,
+      "section": "Note",
+      "bbox": {
+        "l": 64.49224853515625,
+        "t": 591.9892883300781,
+        "r": 525.0387573242188,
+        "b": 128.9515380859375
+      },
+      "markdown": "|   No. | Faulty location and remedy                                                                                                                             | Description                                                                                                                                                                                                                                                                                                                                                        |\n|-------|--------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n|    00 | Check the *EPS and MRDY sequence. (For MRDY, pay attention to the parameter setting regarding the use of the MRDY signal(bit 0 of parameter No.4001).) | Although neither *EPS (emergency stop signal; there are two types of signals including the PMC signal and PSM contact signal (*2)) nor MRDY (machine ready signal) is input, SFR (forward rotation signal)/SRF (reverse rotation signal)/ ORCM (orientation command) is input.                                                                                     |\n|    01 | Check the spindle motor speed detector parameter (bits 2, 1, and 0 of parameter No.4011)                                                               | When the spindle motor has a high-resolution magnetic pulse coder (Cs sensor) (bits 6 and 5 of parameter No.4001 are set to 0 and 1, respectively), 128 /rev is to be set for the speed detector (bit 2, 1. and 0 of parameter No.4011 are set to 0, 0. and 1, respectively). However, a value other than 128 /rev is set. In this case, the motor is not excited. |\n|    02 | Check the parameters for the detector for Cs contour control (bit 5 of parameter No.4001 and bit 4 of parameter No.4018)                               | Although use of a high-resolution magnetic pulse coder(bit 5 of parameter No.4001 = 1) or use of the Cs contour control function by the sensor (bit 4 of parameter No.4018 = 1) is not set. a Cs control command is input. In this case, the motor is not excited.                                                                                                 |\n|    03 | Check the position coder signal parameter (bit 2 of parameter No.4001)                                                                                 | Although use of the position coder signal (bit 2 of parameter No.4001 = 1) or use of the Cs contour function by the sensor (bit 4 of parameter No.4018 = l)is not set, a Cs control command is input. In this case, the motor is not excited.                                                                                                                      |",
+      "rows": 5,
+      "cols": 3
+    }
+  ],
+  "page_stats": {
+    "block_count": 4,
+    "text_blocks": 3,
+    "paragraphs": 1,
+    "headings": 1,
+    "list_items": 0,
+    "captions": 0,
+    "admonitions": 1,
+    "references": 0,
+    "figures": 0,
+    "tables": 1,
+    "toc_tables": 0
+  }
+}

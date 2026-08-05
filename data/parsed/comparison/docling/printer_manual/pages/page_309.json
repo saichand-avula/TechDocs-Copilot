@@ -1,0 +1,177 @@
+{
+  "page": 309,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_2551",
+      "reading_order": 3427,
+      "section": "Post service test",
+      "bbox": {
+        "l": 122.0,
+        "t": 732.29,
+        "r": 424.7900000000001,
+        "b": 720.7
+      },
+      "content": "Lift the front of the tray, and then pull it out of the printer to remove it."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2552",
+      "reading_order": 3428,
+      "section": "Post service test",
+      "bbox": {
+        "l": 144.0,
+        "t": 708.79,
+        "r": 546.6900400000002,
+        "b": 685.2
+      },
+      "content": "NOTE: If the tray has Fixed Tray Guides installed and are still required, move the hardware to new tray. If necessary, order new kit: 3GY19-67901 Kit-Fixed Tray Guide. Only one kit required per engine."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2553",
+      "reading_order": 3429,
+      "section": "Post service test",
+      "bbox": {
+        "l": 100.0,
+        "t": 433.42,
+        "r": 236.24999999999991,
+        "b": 421.83
+      },
+      "content": "Remove the formatter cover."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2554",
+      "reading_order": 3430,
+      "section": "Post service test",
+      "bbox": {
+        "l": 121.99998,
+        "t": 414.0,
+        "r": 239.10997999999995,
+        "b": 399.91
+      },
+      "content": "▲ Do one of the following:"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2555",
+      "reading_order": 3431,
+      "section": "Post service test",
+      "bbox": {
+        "l": 121.99997,
+        "t": 390.80953,
+        "r": 520.0199700000003,
+        "b": 367.21952999999996
+      },
+      "content": "M501: Remove one screw (callout 1), and then slide the cover toward the rear of the printer to remove it (callout 2)."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0846",
+      "reading_order": 3432,
+      "section": "Post service test",
+      "bbox": {
+        "l": 127.8624001197877,
+        "t": 710.7522888183594,
+        "r": 140.31454600490662,
+        "b": 697.7499465942383
+      },
+      "image_path": "figures/figure_0846.png",
+      "decorative": true,
+      "width": 12,
+      "height": 13,
+      "image_hash": "74ce7e8f2a5626463dd6444cf5bfde42178fe3c8175c4176382a6d973a8e84c7",
+      "previous_block_id": "txt_2555",
+      "next_block_id": "txt_2556"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0847",
+      "reading_order": 3433,
+      "section": "Post service test",
+      "bbox": {
+        "l": 142.8278739480881,
+        "t": 661.7781372070312,
+        "r": 432.73287270292644,
+        "b": 444.4489440917969
+      },
+      "image_path": "figures/figure_0847.png",
+      "caption": "Release and remove the tray",
+      "figure_number": "Figure 1-473",
+      "image_hash": "a3941565555ce0a71a482791d8523592f75d18371533630b9daad091bfe14c1e",
+      "width": 290,
+      "height": 218,
+      "previous_block_id": "txt_2555",
+      "next_block_id": "txt_2556",
+      "caption_id": "txt_2556"
+    },
+    {
+      "type": "caption",
+      "id": "txt_2556",
+      "reading_order": 3434,
+      "section": "Post service test",
+      "bbox": {
+        "l": 144.0,
+        "t": 674.29,
+        "r": 315.6599899999999,
+        "b": 662.7
+      },
+      "content": "Figure 1-473  Release and remove the tray",
+      "caption_for": "fig_0847"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0848",
+      "reading_order": 3435,
+      "section": "Post service test",
+      "bbox": {
+        "l": 142.77919081129886,
+        "t": 345.210693359375,
+        "r": 432.52828761618116,
+        "b": 127.697265625
+      },
+      "image_path": "figures/figure_0848.png",
+      "caption": "Remove the formatter cover (M501)",
+      "figure_number": "Figure 1-474",
+      "image_hash": "bef20161d2fd0bdf5b5157331cff7899795cf8d6fc6aef242bdb17c01a4d3047",
+      "width": 290,
+      "height": 217,
+      "previous_block_id": "txt_2556",
+      "next_block_id": "txt_2557",
+      "caption_id": "txt_2557"
+    },
+    {
+      "type": "caption",
+      "id": "txt_2557",
+      "reading_order": 3436,
+      "section": "Post service test",
+      "bbox": {
+        "l": 144.0,
+        "t": 357.80953,
+        "r": 344.67999000000003,
+        "b": 346.21952999999996
+      },
+      "content": "Figure 1-474  Remove the formatter cover (M501)",
+      "caption_for": "fig_0848"
+    }
+  ],
+  "page_stats": {
+    "block_count": 10,
+    "text_blocks": 7,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 5,
+    "captions": 2,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 3,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

@@ -1,0 +1,521 @@
+{
+  "page": 22,
+  "document_id": "doc_27a62e0f",
+  "page_bbox": {
+    "width": 594.9600219726562,
+    "height": 842.52001953125
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0030",
+      "reading_order": 386,
+      "section": "Process for carrying out modification / change:",
+      "bbox": {
+        "l": 34.204965561771175,
+        "t": 803.2051253602426,
+        "r": 153.4180663974502,
+        "b": 651.7682774796251
+      },
+      "image_path": "figures/figure_0030.png",
+      "next_block_id": "txt_0331",
+      "image_hash": "d3857bb197a3d8c322709c59b8000df304e5638579a6f388d9f5e1c0663af709",
+      "width": 119,
+      "height": 152
+    },
+    {
+      "type": "figure",
+      "id": "fig_0031",
+      "reading_order": 387,
+      "section": "Process for carrying out modification / change:",
+      "bbox": {
+        "l": 15.444219420647382,
+        "t": 635.7875744967698,
+        "r": 39.08491719699027,
+        "b": 615.476696796512
+      },
+      "image_path": "figures/figure_0031.png",
+      "next_block_id": "txt_0331",
+      "width": 23,
+      "height": 20,
+      "decorative": true,
+      "image_hash": "bdcf0832f8192330e006b752f613c0ec9bb920f707ccd9583a98836e6a30df9d"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0032",
+      "reading_order": 388,
+      "section": "Process for carrying out modification / change:",
+      "bbox": {
+        "l": 18.13027245322724,
+        "t": 602.0828074692159,
+        "r": 30.27366920681514,
+        "b": 589.9722599029487
+      },
+      "image_path": "figures/figure_0032.png",
+      "next_block_id": "txt_0331",
+      "width": 12,
+      "height": 12,
+      "decorative": true,
+      "image_hash": "7696c13530fa8cf85e55b47bf28745d00e25537356007583085b56f29f0057d0"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0331",
+      "reading_order": 389,
+      "section": "Process for carrying out modification / change:",
+      "bbox": {
+        "l": 299.1510000000002,
+        "t": 796.5060195312501,
+        "r": 471.64500000000015,
+        "b": 751.6983344167462
+      },
+      "content": "Re-test your proprietary voltage tester is working correctly and test to ensure the capacitor is discharged  (dead) at the magnetron(s) and the HV transformer(s)."
+    },
+    {
+      "type": "admonition",
+      "id": "txt_0332",
+      "reading_order": 390,
+      "section": "Process for carrying out modification / change:",
+      "bbox": {
+        "l": 299.8620000000002,
+        "t": 735.1890195312501,
+        "r": 483.64019999999994,
+        "b": 702.5217304760582
+      },
+      "content": "CAUTION: To ensure safety, this must be repeated  every time the oven is worked on.",
+      "severity": "caution"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_0333",
+      "reading_order": 391,
+      "section": "Process for carrying out modification / change:",
+      "bbox": {
+        "l": 299.88,
+        "t": 686.22591953125,
+        "r": 566.5860000000004,
+        "b": 665.8982344167462
+      },
+      "content": "Note: This is a generic HV capacitor discharge procedure  for the complete range of Merrychef equipment",
+      "severity": "note"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0033",
+      "reading_order": 392,
+      "section": "Process for carrying out modification / change:",
+      "bbox": {
+        "l": 155.62073821428882,
+        "t": 802.3289994248394,
+        "r": 288.19819448758386,
+        "b": 653.1449956099193
+      },
+      "image_path": "figures/figure_0033.png",
+      "previous_block_id": "txt_0333",
+      "next_block_id": "txt_0334",
+      "image_hash": "a1b6a3f43e8f62d39f0578a24244475e01fc254f459f61ddec9b1ae573e21100",
+      "width": 132,
+      "height": 149
+    },
+    {
+      "type": "heading",
+      "id": "txt_0334",
+      "reading_order": 393,
+      "section": "2.16 Safe working when replacing appliance parts",
+      "bbox": {
+        "l": 49.56,
+        "t": 630.0645795312499,
+        "r": 404.6765280000001,
+        "b": 617.2924086051509
+      },
+      "content": "2.16 Safe working when replacing appliance parts",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0335",
+      "reading_order": 394,
+      "section": "For your safety when replacing appliance parts",
+      "bbox": {
+        "l": 39.12,
+        "t": 599.44791953125,
+        "r": 302.40000000000003,
+        "b": 588.6643393785782
+      },
+      "content": "For your safety when replacing appliance parts",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0336",
+      "reading_order": 395,
+      "section": "For your safety when replacing appliance parts",
+      "bbox": {
+        "l": 36.0,
+        "t": 571.86591953125,
+        "r": 539.3420999999997,
+        "b": 550.9352344167462
+      },
+      "content": "Before starting service / repair work, it is essential that you familiarize yourself with the rules and hazard warning in this chapter and follow the instructions given."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0337",
+      "reading_order": 396,
+      "section": "For your safety when replacing appliance parts",
+      "bbox": {
+        "l": 39.11999999999989,
+        "t": 541.84801953125,
+        "r": 567.1892399999999,
+        "b": 503.22443937857827
+      },
+      "content": "Eligibility of personnel for removal / fitting of appliance parts Only qualified personnel from an authorized service company are permitted to remove and fit components of the microwave  combination oven."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0338",
+      "reading_order": 397,
+      "section": "Rules for setting up the appliance safely",
+      "bbox": {
+        "l": 36.0,
+        "t": 494.92801953125,
+        "r": 260.76,
+        "b": 484.1444393785783
+      },
+      "content": "Rules for setting up the appliance safely",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0339",
+      "reading_order": 398,
+      "section": "Rules for setting up the appliance safely",
+      "bbox": {
+        "l": 35.99700000000007,
+        "t": 476.34601953125,
+        "r": 560.943,
+        "b": 442.9413344167462
+      },
+      "content": "To  prevent  hazards  that  arise  from  the  installation  site  and  environment  of  the  appliances,  the  rules  for  setting  up  the appliance  safely  must  always  be  observed;  see  section  5  'Setting  up  the  appliance'  in  the  conneX ®   Installation  and  User manual."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0034",
+      "reading_order": 399,
+      "section": "Rules for setting up the appliance safely",
+      "bbox": {
+        "l": 34.34453214191981,
+        "t": 439.13035278043503,
+        "r": 46.93301121682758,
+        "b": 427.3985414759191
+      },
+      "image_path": "figures/figure_0034.png",
+      "previous_block_id": "txt_0339",
+      "next_block_id": "txt_0340",
+      "width": 12,
+      "height": 11,
+      "decorative": true,
+      "image_hash": "29c472cc0198d56266b3206738b8a7f4b3de8bb5f3d3658bc72a3693b7e28502"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0340",
+      "reading_order": 400,
+      "section": "DANGER",
+      "bbox": {
+        "l": 50.04,
+        "t": 434.58601953125003,
+        "r": 90.063,
+        "b": 426.3987304760583
+      },
+      "content": "DANGER",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0341",
+      "reading_order": 401,
+      "section": "Risk of electric shock from live parts.",
+      "bbox": {
+        "l": 36.0,
+        "t": 422.34601953125,
+        "r": 202.97070000000002,
+        "b": 414.1587304760583
+      },
+      "content": "Risk of electric shock from live parts.",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0342",
+      "reading_order": 402,
+      "section": "Risk of electric shock from live parts.",
+      "bbox": {
+        "l": 35.990999999999985,
+        "t": 410.34901953125,
+        "r": 560.5740000000001,
+        "b": 376.57533441674616
+      },
+      "content": "When the appliance is not connected to an equipotential bonding system, there is a risk of electric shock from touching live parts. When the covers of the microwave combination oven are removed, there is a risk of electric shock from touching live parts."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0343",
+      "reading_order": 403,
+      "section": "Risk of electric shock from live parts.",
+      "bbox": {
+        "l": 53.99099999999999,
+        "t": 369.54301953124997,
+        "r": 560.5163999999993,
+        "b": 348.37833441674616
+      },
+      "content": " Make sure that any work on the electrical system is performed solely by a qualified electrician from an authorized service company."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0344",
+      "reading_order": 404,
+      "section": "Risk of electric shock from live parts.",
+      "bbox": {
+        "l": 53.990999999999985,
+        "t": 343.74901953125,
+        "r": 58.112999999999985,
+        "b": 335.37030985383063
+      },
+      "content": ""
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0345",
+      "reading_order": 405,
+      "section": "Risk of electric shock from live parts.",
+      "bbox": {
+        "l": 71.99099999999999,
+        "t": 343.38901953124997,
+        "r": 505.737,
+        "b": 297.1413344167461
+      },
+      "content": "Before removing the covers: Switch the appliance off and disconnect the plug from the wall socket. Turn off the isolator switch to disconnect fixed wired appliances and lock-off. Take protective measures at every power switch to ensure that the power cannot be switched on again."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0346",
+      "reading_order": 406,
+      "section": "Risk of electric shock from live parts.",
+      "bbox": {
+        "l": 72.0,
+        "t": 292.38601953125,
+        "r": 556.632,
+        "b": 271.45533441674615
+      },
+      "content": "Always discharge the high voltage capacitors before working on the appliance using a suitable capacitor discharge tool. See how to discharge the conneX oven in section 2.15 'Process for discharging the capacitors'."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0347",
+      "reading_order": 407,
+      "section": "Risk of electric shock from live parts.",
+      "bbox": {
+        "l": 54.02699999999993,
+        "t": 266.8260195312499,
+        "r": 547.7399999999999,
+        "b": 258.37833441674616
+      },
+      "content": " Make sure that the electrical connections are intact and connected securely before putting the appliance into use."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0348",
+      "reading_order": 408,
+      "section": "Risk of electric shock from live parts.",
+      "bbox": {
+        "l": 53.99999999999983,
+        "t": 254.2260195312499,
+        "r": 560.4443999999992,
+        "b": 232.93533441674617
+      },
+      "content": " Before preparing the appliance for use, make sure that the appliance, including all metallic accessories, is connected to an equipotential bonding system."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0349",
+      "reading_order": 409,
+      "section": "Moving heavy loads",
+      "bbox": {
+        "l": 36.0,
+        "t": 223.84801953124997,
+        "r": 149.04000000000002,
+        "b": 213.0644393785783
+      },
+      "content": "Moving heavy loads",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0035",
+      "reading_order": 410,
+      "section": "Moving heavy loads",
+      "bbox": {
+        "l": 34.28249407420718,
+        "t": 209.55719076798766,
+        "r": 46.66314714805403,
+        "b": 198.17768729995157
+      },
+      "image_path": "figures/figure_0035.png",
+      "previous_block_id": "txt_0349",
+      "next_block_id": "txt_0350",
+      "width": 12,
+      "height": 11,
+      "image_hash": "7c0cda7999489cf74e99e92638af2ee9cab8a2586063e3e956c7e25f94f6075f"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0350",
+      "reading_order": 411,
+      "section": "WARNING",
+      "bbox": {
+        "l": 50.04,
+        "t": 205.14601953124998,
+        "r": 97.37999999999998,
+        "b": 196.95873047605824
+      },
+      "content": "WARNING",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0351",
+      "reading_order": 412,
+      "section": "Risk of injury from lifting incorrectly.",
+      "bbox": {
+        "l": 36.0,
+        "t": 192.90601953124997,
+        "r": 203.22,
+        "b": 184.71873047605823
+      },
+      "content": "Risk of injury from lifting incorrectly.",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0352",
+      "reading_order": 413,
+      "section": "Risk of injury from lifting incorrectly.",
+      "bbox": {
+        "l": 36.0,
+        "t": 180.78601953125008,
+        "r": 495.17999999999995,
+        "b": 172.69533441674616
+      },
+      "content": "When lifting the appliance, the weight of the appliance may lead to injuries, especially in the area of the torso."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0353",
+      "reading_order": 414,
+      "section": "Risk of injury from lifting incorrectly.",
+      "bbox": {
+        "l": 54.0,
+        "t": 165.66601953125007,
+        "r": 548.5680000000004,
+        "b": 157.2183344167462
+      },
+      "content": " Use a forklift truck or pallet truck to place the appliance in the installation position or to move it to a new position."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0354",
+      "reading_order": 415,
+      "section": "Risk of injury from lifting incorrectly.",
+      "bbox": {
+        "l": 53.9910000000001,
+        "t": 152.8230195312501,
+        "r": 558.8577000000005,
+        "b": 131.53233441674627
+      },
+      "content": " When shifting the appliance into the correct position, use enough people for the weight of the appliance when lifting it (value depending on age and gender). Observe the local occupational safety regulations."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0355",
+      "reading_order": 416,
+      "section": "Risk of injury from lifting incorrectly.",
+      "bbox": {
+        "l": 53.96400000000011,
+        "t": 127.02001953125011,
+        "r": 230.29200000000014,
+        "b": 118.57233441674623
+      },
+      "content": " Wear personal protective equipment."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0356",
+      "reading_order": 417,
+      "section": "Sharp-edged sheet-metal parts",
+      "bbox": {
+        "l": 36.0,
+        "t": 98.08801953124998,
+        "r": 211.92000000000002,
+        "b": 87.30443937857831
+      },
+      "content": "Sharp-edged sheet-metal parts",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0036",
+      "reading_order": 418,
+      "section": "Sharp-edged sheet-metal parts",
+      "bbox": {
+        "l": 34.005489371963506,
+        "t": 83.57061523421805,
+        "r": 46.75349599654403,
+        "b": 71.72226265680888
+      },
+      "image_path": "figures/figure_0036.png",
+      "previous_block_id": "txt_0356",
+      "next_block_id": "txt_0357",
+      "width": 12,
+      "height": 11,
+      "image_hash": "644fa85e22510beda275e215d72685c88297eea4bc700001abdedc56bf92e066"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_0357",
+      "reading_order": 419,
+      "severity": "warning",
+      "content": "WARNING: Risk of cuts from sharp-edged sheet-metal parts.",
+      "section": "WARNING",
+      "bbox": {
+        "l": 50.04,
+        "t": 79.38601953124999,
+        "r": 97.37999999999998,
+        "b": 71.19873047605824
+      }
+    }
+  ],
+  "page_stats": {
+    "block_count": 34,
+    "text_blocks": 27,
+    "paragraphs": 5,
+    "headings": 9,
+    "list_items": 10,
+    "captions": 0,
+    "admonitions": 3,
+    "references": 0,
+    "figures": 7,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

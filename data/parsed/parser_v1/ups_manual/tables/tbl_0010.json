@@ -1,0 +1,19 @@
+{
+  "id": "tbl_0010",
+  "page": 35,
+  "section": "3.6 Power Cables",
+  "title": "Table 3-4: Wiring terminal and wiring method of UPS",
+  "markdown": "Table 3-5: Rated current of UPS\n\n|       | Rated Current (A)                            | Rated Current (A)                            | Rated Current (A)                            | Rated Current (A)                      | Rated Current (A)                      | Rated Current (A)                      | Rated Current (A)                                          |\n|-------|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------|----------------------------------------|----------------------------------------|------------------------------------------------------------|\n|       | Input current in full load and full charging | Input current in full load and full charging | Input current in full load and full charging | Output current of full load (PF = 0.9) | Output current of full load (PF = 0.9) | Output current of full load (PF = 0.9) | Discharging current for the lowest battery voltage (495 V) |\n| (kVA) | R                                            | S                                            | T                                            | U                                      | V                                      | W                                      | Discharging current for the lowest battery voltage (495 V) |\n| 80    | 128                                          | 128                                          | 128                                          | 121                                    | 121                                    | 121                                    | 155                                                        |\n| 100   | 160                                          | 160                                          | 160                                          | 152                                    | 152                                    | 152                                    | 194                                                        |\n| 120   | 191                                          | 191                                          | 191                                          | 182                                    | 182                                    | 182                                    | 232                                                        |\n| 160   | 255                                          | 255                                          | 255                                          | 243                                    | 243                                    | 243                                    | 310                                                        |",
+  "block_id": "#/tables/9",
+  "reading_order": 332,
+  "bbox": {
+    "l": 76.72890494492673,
+    "t": 260.5234573100762,
+    "r": 507.40657006180027,
+    "b": 91.9376732655436
+  },
+  "table_number": "Table 3-4",
+  "rows": 7,
+  "cols": 7,
+  "type": "table"
+}

@@ -1,0 +1,317 @@
+{
+  "page": 296,
+  "document_id": "doc_229deb31",
+  "page_bbox": {
+    "width": 595.219970703125,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_2444",
+      "reading_order": 3203,
+      "section": "7.4.2 Indoor fan motor malfunction",
+      "bbox": {
+        "l": 56.6622,
+        "t": 775.7118495999999,
+        "r": 292.58054880000003,
+        "b": 762.775074
+      },
+      "content": "7.4.2 Indoor fan motor malfunction",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "heading",
+      "id": "txt_2445",
+      "reading_order": 3204,
+      "section": "Indoor Display      E14",
+      "bbox": {
+        "l": 56.6622,
+        "t": 741.802788,
+        "r": 165.0229722,
+        "b": 732.08627
+      },
+      "content": "Indoor Display      E14",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_2446",
+      "reading_order": 3205,
+      "section": "Indoor Display      E14",
+      "bbox": {
+        "l": 56.6622,
+        "t": 717.5353944000001,
+        "r": 141.51048859999997,
+        "b": 708.2629860000001
+      },
+      "content": "Method of"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_2447",
+      "reading_order": 3206,
+      "section": "Indoor Display      E14",
+      "bbox": {
+        "l": 141.9855,
+        "t": 717.5353944000001,
+        "r": 551.3097708200006,
+        "b": 696.7507860000001
+      },
+      "content": "The rotation speed detected by the Hall IC during fan motor operation is used to determine abnormal fan motor operation"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_2448",
+      "reading_order": 3207,
+      "section": "Indoor Display      E14",
+      "bbox": {
+        "l": 56.6622,
+        "t": 706.0231944000001,
+        "r": 139.77915350000006,
+        "b": 696.7507860000001
+      },
+      "content": "Malfunction"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_2449",
+      "reading_order": 3208,
+      "section": "Indoor Display      E14",
+      "bbox": {
+        "l": 56.66556000000003,
+        "t": 694.5067830600001,
+        "r": 104.43417440000003,
+        "b": 685.2343746600001
+      },
+      "content": "Detection"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_2450",
+      "reading_order": 3209,
+      "section": "Indoor Display      E14",
+      "bbox": {
+        "l": 56.66556000000003,
+        "t": 683.0514534600001,
+        "r": 134.80430640000006,
+        "b": 673.77904506
+      },
+      "content": "Malfunction"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_2451",
+      "reading_order": 3210,
+      "section": "Indoor Display      E14",
+      "bbox": {
+        "l": 137.0082,
+        "t": 683.0578944,
+        "r": 448.4526828800004,
+        "b": 673.785486
+      },
+      "content": "when the detected rotation feedback singal don't receiced in 2 minutes"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_2452",
+      "reading_order": 3211,
+      "section": "Indoor Display      E14",
+      "bbox": {
+        "l": 56.658083999999974,
+        "t": 671.482404,
+        "r": 120.51059359999994,
+        "b": 662.2099956
+      },
+      "content": "Decision"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_2453",
+      "reading_order": 3212,
+      "section": "Indoor Display      E14",
+      "bbox": {
+        "l": 56.658083999999974,
+        "t": 660.0270744,
+        "r": 111.0382405,
+        "b": 650.7546659999999
+      },
+      "content": "Conditions"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_2454",
+      "reading_order": 3213,
+      "section": "Indoor Display      E14",
+      "bbox": {
+        "l": 56.658083999999974,
+        "t": 648.5717447999999,
+        "r": 171.0598371,
+        "b": 639.2993363999999
+      },
+      "content": "Supposed    Causes g374"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_2455",
+      "reading_order": 3214,
+      "section": "Indoor Display      E14",
+      "bbox": {
+        "l": 173.2241,
+        "t": 648.5814944,
+        "r": 438.79249986000053,
+        "b": 639.309086
+      },
+      "content": "Operation halt due to breaking of wire inside the fan motor ."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2456",
+      "reading_order": 3215,
+      "section": "Indoor Display      E14",
+      "bbox": {
+        "l": 145.8822,
+        "t": 636.5597758,
+        "r": 429.55789641999996,
+        "b": 626.5203968859042
+      },
+      "content": "Ƶ Operation halt due to breaking of the fan motor lead wires"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2457",
+      "reading_order": 3216,
+      "section": "Indoor Display      E14",
+      "bbox": {
+        "l": 145.8822,
+        "t": 624.3878758000001,
+        "r": 390.6643708399999,
+        "b": 614.3484968859043
+      },
+      "content": "Ƶ Detection error due to faulty indoor unit PCB"
+    },
+    {
+      "type": "heading",
+      "id": "txt_2458",
+      "reading_order": 3217,
+      "section": "How to check Fan Motor (DC)",
+      "bbox": {
+        "l": 56.6622,
+        "t": 595.5850066,
+        "r": 249.66198489999988,
+        "b": 582.6482310000001
+      },
+      "content": "How to check Fan Motor (DC)",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2459",
+      "reading_order": 3218,
+      "section": "How to check Fan Motor (DC)",
+      "bbox": {
+        "l": 156.38218,
+        "t": 570.0797967,
+        "r": 313.8662676000001,
+        "b": 560.3632787
+      },
+      "content": "Check connector connection."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2460",
+      "reading_order": 3219,
+      "section": "How to check Fan Motor (DC)",
+      "bbox": {
+        "l": 156.38218,
+        "t": 557.4881967,
+        "r": 421.6061723199991,
+        "b": 547.7716787
+      },
+      "content": "Check motor power supply voltage output (pins 1-4)."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2461",
+      "reading_order": 3220,
+      "section": "How to check Fan Motor (DC)",
+      "bbox": {
+        "l": 155.84725120000002,
+        "t": 545.0120197,
+        "r": 358.7415495199994,
+        "b": 535.2955017
+      },
+      "content": "Check motor control voltage (pins 4-5)."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2462",
+      "reading_order": 3221,
+      "section": "How to check Fan Motor (DC)",
+      "bbox": {
+        "l": 155.84725120000002,
+        "t": 532.5358427,
+        "r": 413.4144195200002,
+        "b": 522.8193247
+      },
+      "content": "Check rotation command voltage output (pins 4-6)."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2463",
+      "reading_order": 3222,
+      "section": "How to check Fan Motor (DC)",
+      "bbox": {
+        "l": 155.84725120000002,
+        "t": 519.9442427,
+        "r": 349.38449104,
+        "b": 510.22772470000007
+      },
+      "content": "Check rotation pulse input (pins 4-7)."
+    },
+    {
+      "type": "heading",
+      "id": "txt_2464",
+      "reading_order": 3223,
+      "section": "Notes:the  a/c  is  electrifying,don't  pull  out  or  insert  the  terminals  of  the motor,else the motor would be damaged",
+      "bbox": {
+        "l": 59.5402,
+        "t": 379.38684,
+        "r": 552.9105801299993,
+        "b": 348.29758
+      },
+      "content": "Notes:the  a/c  is  electrifying,don't  pull  out  or  insert  the  terminals  of  the motor,else the motor would be damaged",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_2465",
+      "reading_order": 3224,
+      "section": "Notes:the  a/c  is  electrifying,don't  pull  out  or  insert  the  terminals  of  the motor,else the motor would be damaged",
+      "bbox": {
+        "l": 56.659349599999985,
+        "t": 331.865762,
+        "r": 563.1555873599984,
+        "b": 306.7250037
+      },
+      "content": "Troubleshooting        * Caution Be sure to turn off power switch before connect or disconnect connector, or else parts damage may be occurred."
+    }
+  ],
+  "page_stats": {
+    "block_count": 22,
+    "text_blocks": 22,
+    "paragraphs": 11,
+    "headings": 4,
+    "list_items": 7,
+    "captions": 0,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 0,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

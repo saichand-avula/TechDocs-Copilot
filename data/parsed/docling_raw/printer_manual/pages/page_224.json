@@ -1,0 +1,415 @@
+{
+  "page": 224,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0609",
+      "reading_order": 2585,
+      "section": "Post service test",
+      "bbox": {
+        "l": 119.1097455855913,
+        "t": 731.9362983703613,
+        "r": 132.38622570013425,
+        "b": 718.4664611816406
+      },
+      "image_path": "figures/figure_0609.png",
+      "width": 13,
+      "height": 13,
+      "image_hash": "df7bb5338f8fbe84a1d08fd6d1fe460d2b94766f18f6328775845c41b0730ec4",
+      "previous_block_id": "txt_1949",
+      "next_block_id": "txt_1950"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1950",
+      "reading_order": 2586,
+      "section": "Post service test",
+      "bbox": {
+        "l": 135.0,
+        "t": 729.79,
+        "r": 404.8599999999999,
+        "b": 718.2
+      },
+      "content": "NOTE: HP recommends responsible disposal of the defective part."
+    },
+    {
+      "type": "reference",
+      "id": "txt_1951",
+      "reading_order": 2587,
+      "section": "Post service test",
+      "bbox": {
+        "l": 134.99998,
+        "t": 708.79,
+        "r": 458.28998,
+        "b": 697.2
+      },
+      "content": "http://www8.hp.com/us/en/hp-information/environment/product-recycling.html"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1952",
+      "reading_order": 2588,
+      "section": "Post service test",
+      "bbox": {
+        "l": 113.0,
+        "t": 686.29,
+        "r": 333.5199999999998,
+        "b": 674.7
+      },
+      "content": "Unpack the replacement part from the packaging."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0610",
+      "reading_order": 2589,
+      "section": "Post service test",
+      "bbox": {
+        "l": 119.17965896248411,
+        "t": 664.8884201049805,
+        "r": 132.85423658218767,
+        "b": 651.2316436767578
+      },
+      "image_path": "figures/figure_0610.png",
+      "width": 13,
+      "height": 13,
+      "image_hash": "b9f093ada46ffbbb4a5818353bb4a0247027b5ab257e2cf1f44ac7a99d80ce7c",
+      "previous_block_id": "txt_1952",
+      "next_block_id": "txt_1953"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0611",
+      "reading_order": 2590,
+      "section": "Post service test",
+      "bbox": {
+        "l": 118.87663236370686,
+        "t": 548.8527069091797,
+        "r": 131.8181490096616,
+        "b": 535.6352233886719
+      },
+      "image_path": "figures/figure_0611.png",
+      "width": 12,
+      "height": 13,
+      "image_hash": "c69d9d63dffaaeca8c8d47fe0704314fd6788e252054b8a67210177dfc52d3a7",
+      "previous_block_id": "txt_1952",
+      "next_block_id": "txt_1953"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_1953",
+      "reading_order": 2591,
+      "severity": "caution",
+      "content": "CAUTION: Some parts are sensitive to electrostatic discharge (ESD). Always perform service",
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 135.0,
+        "t": 657.405,
+        "r": 172.75,
+        "b": 645.815
+      }
+    },
+    {
+      "type": "figure",
+      "id": "fig_0612",
+      "reading_order": 2593,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 181.79085511748968,
+        "t": 661.3565368652344,
+        "r": 202.1788861055788,
+        "b": 640.2818756103516
+      },
+      "image_path": "figures/figure_0612.png",
+      "width": 20,
+      "height": 21,
+      "image_hash": "db50a16dc14b8c6fb87164ac03515bd6d3e3e7f95b3c713328015cecca1de3fc",
+      "previous_block_id": "txt_1954",
+      "next_block_id": "txt_1955"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1955",
+      "reading_order": 2594,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 135.0,
+        "t": 638.79,
+        "r": 540.7700400000001,
+        "b": 603.2
+      },
+      "content": "work at an ESD-protected workstation or mat. If an ESD workstation or mat is not available, touch the sheet-metal chassis to provide a static ground before touching an ESD-sensitive assembly. Protect the ESD-sensitive assemblies by placing them in ESD pouches when they are out of the printer."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1956",
+      "reading_order": 2595,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 135.00004,
+        "t": 593.79,
+        "r": 539.6300400000002,
+        "b": 558.2
+      },
+      "content": "If the replacement part is a roller or pad, avoid touching the spongy part of it. Skin oils on the roller or pad can cause paper pickup and/or print-quality problems. HP recommends using disposable gloves when handling rollers or pads or washing your hands before touching rollers or pads."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1957",
+      "reading_order": 2596,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 135.0,
+        "t": 548.79,
+        "r": 532.73,
+        "b": 525.2
+      },
+      "content": "IMPORTANT: Make sure that all of the shipping materials (for example shipping tape) are removed from the replacement part prior to installation."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1958",
+      "reading_order": 2597,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 113.0,
+        "t": 514.29,
+        "r": 334.02,
+        "b": 502.70000000000005
+      },
+      "content": "To install an assembly, reverse the removal steps."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1959",
+      "reading_order": 2598,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 135.00002,
+        "t": 493.28999999999996,
+        "r": 542.6100400000003,
+        "b": 457.7
+      },
+      "content": "When applicable, special installation instructions are provided for an assembly at the end of the removal procedure. Always completely read the removal instructions and follow all special installation instructions."
+    },
+    {
+      "type": "heading",
+      "id": "txt_1960",
+      "reading_order": 2599,
+      "section": "Removal and replacement: Paper delivery tray (output bin)",
+      "bbox": {
+        "l": 45.00004,
+        "t": 444.29,
+        "r": 278.25003999999996,
+        "b": 432.7
+      },
+      "content": "Removal and replacement: Paper delivery tray (output bin)",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1961",
+      "reading_order": 2600,
+      "section": "Removal and replacement: Paper delivery tray (output bin)",
+      "bbox": {
+        "l": 91.00004,
+        "t": 424.29,
+        "r": 368.0400400000001,
+        "b": 412.7
+      },
+      "content": "Learn how to remove and replace the paper delivery tray (output bin)."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1962",
+      "reading_order": 2601,
+      "section": "Removal and replacement: Paper delivery tray (output bin)",
+      "bbox": {
+        "l": 91.00004,
+        "t": 403.29,
+        "r": 325.76003999999995,
+        "b": 391.7
+      },
+      "content": "To view a short video of this procedure, click the link below.",
+      "hyperlink_hint": true
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1963",
+      "reading_order": 2602,
+      "section": "Removal and replacement: Paper delivery tray (output bin)",
+      "bbox": {
+        "l": 91.0,
+        "t": 382.29,
+        "r": 405.37000000000006,
+        "b": 370.7
+      },
+      "content": "View a video of how to remove and replace the paper delivery tray (output bin).",
+      "hyperlink_hint": true
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1964",
+      "reading_order": 2603,
+      "section": "Removal and replacement: Paper delivery tray (output bin)",
+      "bbox": {
+        "l": 91.00002,
+        "t": 358.29,
+        "r": 213.25001999999998,
+        "b": 346.7
+      },
+      "content": "Mean time to repair: 8 minutes"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1965",
+      "reading_order": 2604,
+      "section": "Removal and replacement: Paper delivery tray (output bin)",
+      "bbox": {
+        "l": 91.00002,
+        "t": 337.29,
+        "r": 164.02002,
+        "b": 325.7
+      },
+      "content": "Service level: Easy"
+    },
+    {
+      "type": "heading",
+      "id": "txt_1966",
+      "reading_order": 2605,
+      "section": "Before performing service",
+      "bbox": {
+        "l": 91.00002,
+        "t": 312.29,
+        "r": 195.24001999999996,
+        "b": 300.7
+      },
+      "content": "Before performing service",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "heading",
+      "id": "txt_1967",
+      "reading_order": 2606,
+      "section": "Turn the printer power off",
+      "bbox": {
+        "l": 91.00004,
+        "t": 292.29,
+        "r": 193.98003,
+        "b": 280.7
+      },
+      "content": "Turn the printer power off",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1968",
+      "reading_order": 2607,
+      "section": "Turn the printer power off",
+      "bbox": {
+        "l": 91.00004,
+        "t": 271.28999999999996,
+        "r": 225.21003999999994,
+        "b": 259.70000000000005
+      },
+      "content": "Disconnect the power cable."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0613",
+      "reading_order": 2608,
+      "section": "Turn the printer power off",
+      "bbox": {
+        "l": 97.18867621433319,
+        "t": 250.09234619140625,
+        "r": 111.35503434913718,
+        "b": 237.00299072265625
+      },
+      "image_path": "figures/figure_0613.png",
+      "width": 14,
+      "height": 13,
+      "image_hash": "b38c78b05faac43b15a28ffcc6ade35beb5aaee1306e2881481098d20deef7f3",
+      "previous_block_id": "txt_1968",
+      "next_block_id": "txt_1969"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_1969",
+      "reading_order": 2609,
+      "section": "Turn the printer power off",
+      "bbox": {
+        "l": 113.0,
+        "t": 247.78999999999996,
+        "r": 524.0700000000002,
+        "b": 224.20000000000005
+      },
+      "content": "WARNING! To avoid damage to the printer, turn the printer off, wait 30 seconds, and then remove the power cord before attempting to service the printer.",
+      "severity": "warning"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1970",
+      "reading_order": 2610,
+      "section": "Turn the printer power off",
+      "bbox": {
+        "l": 91.0,
+        "t": 213.28999999999996,
+        "r": 470.47000000000025,
+        "b": 189.70000000000005
+      },
+      "content": "Use the table below to identify the correct part number for your printer . To order the part, go to www.hp.com/buy/parts."
+    },
+    {
+      "type": "heading",
+      "id": "txt_1971",
+      "reading_order": 2611,
+      "section": "Table 1-25  Part number",
+      "bbox": {
+        "l": 91.0,
+        "t": 178.66100000000006,
+        "r": 179.281,
+        "b": 168.22998000000007
+      },
+      "content": "Table 1-25  Part number",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "table",
+      "id": "tbl_0029",
+      "reading_order": 2612,
+      "section": "Table 1-25  Part number",
+      "bbox": {
+        "l": 89.65825514380093,
+        "t": 163.16522216796875,
+        "r": 541.1680322121861,
+        "b": 122.8782958984375
+      },
+      "markdown": "| Paper delivery tray (output bin) part number    |\n|-------------------------------------------------|\n| RC4-4439-000CN Paper delivery tray (output bin) |",
+      "title": "Table 1-25  Part number",
+      "table_number": "Table 1-25",
+      "rows": 2,
+      "cols": 1
+    }
+  ],
+  "page_stats": {
+    "block_count": 27,
+    "text_blocks": 21,
+    "paragraphs": 8,
+    "headings": 4,
+    "list_items": 6,
+    "captions": 0,
+    "admonitions": 2,
+    "references": 1,
+    "figures": 5,
+    "tables": 1,
+    "toc_tables": 0
+  }
+}

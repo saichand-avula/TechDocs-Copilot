@@ -1,0 +1,152 @@
+{
+  "page": 479,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_3780",
+      "reading_order": 5170,
+      "section": "13. Remove the right cover.",
+      "bbox": {
+        "l": 122.0,
+        "t": 732.29,
+        "r": 392.3300000000001,
+        "b": 720.7
+      },
+      "content": "At the top front of the printer, remove three screws (callout 1)."
+    },
+    {
+      "type": "figure",
+      "id": "fig_1351",
+      "reading_order": 5171,
+      "section": "13. Remove the right cover.",
+      "bbox": {
+        "l": 127.96838355260361,
+        "t": 710.5777740478516,
+        "r": 140.24149079650422,
+        "b": 697.6527862548828
+      },
+      "image_path": "figures/figure_1351.png",
+      "decorative": true,
+      "width": 12,
+      "height": 12,
+      "image_hash": "74ce7e8f2a5626463dd6444cf5bfde42178fe3c8175c4176382a6d973a8e84c7",
+      "previous_block_id": "txt_3780",
+      "next_block_id": "txt_3781"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_3781",
+      "reading_order": 5172,
+      "section": "13. Remove the right cover.",
+      "bbox": {
+        "l": 144.0,
+        "t": 708.79,
+        "r": 550.7800300000001,
+        "b": 673.2
+      },
+      "content": "NOTE: The screw (callout 2) on the lower-right portion of the cover is a different color than the other two screws, and is surrounded by sheet-metal. It might appear that this screw does not need to be removed. Remove this screw.",
+      "severity": "note"
+    },
+    {
+      "type": "figure",
+      "id": "fig_1352",
+      "reading_order": 5173,
+      "section": "13. Remove the right cover.",
+      "bbox": {
+        "l": 142.8508123684299,
+        "t": 649.6171875,
+        "r": 432.73689912777365,
+        "b": 432.4250793457031
+      },
+      "image_path": "figures/figure_1352.png",
+      "caption": "Remove three screws",
+      "figure_number": "Figure 1-777",
+      "image_hash": "59ce22cf3aa00852a7a439ecf8814cccbbca6624a239baed68ec55dfad6d7df7",
+      "width": 290,
+      "height": 218,
+      "previous_block_id": "txt_3781",
+      "next_block_id": "txt_3782",
+      "caption_id": "txt_3782"
+    },
+    {
+      "type": "caption",
+      "id": "txt_3782",
+      "reading_order": 5174,
+      "section": "13. Remove the right cover.",
+      "bbox": {
+        "l": 144.0,
+        "t": 662.29,
+        "r": 287.20998999999995,
+        "b": 650.7
+      },
+      "content": "Figure 1-777  Remove three screws",
+      "caption_for": "fig_1352"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_3783",
+      "reading_order": 5175,
+      "section": "13. Remove the right cover.",
+      "bbox": {
+        "l": 122.0,
+        "t": 421.42,
+        "r": 334.27,
+        "b": 409.83
+      },
+      "content": "At the front left of the printer, release one boss."
+    },
+    {
+      "type": "figure",
+      "id": "fig_1353",
+      "reading_order": 5176,
+      "section": "13. Remove the right cover.",
+      "bbox": {
+        "l": 142.98046629883257,
+        "t": 388.8152160644531,
+        "r": 432.89850517959655,
+        "b": 170.77532958984375
+      },
+      "image_path": "figures/figure_1353.png",
+      "caption": "Release one boss",
+      "figure_number": "Figure 1-778",
+      "image_hash": "889d87255dbbb5c06718e93c0cd9d075cd688e5856fcb69c5119357e96733fce",
+      "width": 290,
+      "height": 218,
+      "previous_block_id": "txt_3783",
+      "next_block_id": "txt_3784",
+      "caption_id": "txt_3784"
+    },
+    {
+      "type": "caption",
+      "id": "txt_3784",
+      "reading_order": 5177,
+      "section": "13. Remove the right cover.",
+      "bbox": {
+        "l": 143.99998,
+        "t": 400.42,
+        "r": 270.6799699999999,
+        "b": 388.83
+      },
+      "content": "Figure 1-778  Release one boss",
+      "caption_for": "fig_1353"
+    }
+  ],
+  "page_stats": {
+    "block_count": 8,
+    "text_blocks": 5,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 2,
+    "captions": 2,
+    "admonitions": 1,
+    "references": 0,
+    "figures": 3,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

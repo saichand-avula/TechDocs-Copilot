@@ -1,0 +1,505 @@
+{
+  "page": 35,
+  "document_id": "doc_16216d0c",
+  "page_bbox": {
+    "width": 612.0,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0575",
+      "reading_order": 646,
+      "section": "For Service Technician Use Only",
+      "bbox": {
+        "l": 184.9819,
+        "t": 731.505,
+        "r": 446.50389999999993,
+        "b": 716.7313010526316
+      },
+      "content": "For Service Technician Use Only",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0576",
+      "reading_order": 647,
+      "section": "DANGER",
+      "bbox": {
+        "l": 149.7443,
+        "t": 700.496944,
+        "r": 242.0131244,
+        "b": 682.9559012833168
+      },
+      "content": "DANGER",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0059",
+      "reading_order": 648,
+      "section": "DANGER",
+      "bbox": {
+        "l": 156.0961151123047,
+        "t": 674.7569732666016,
+        "r": 197.36627197265625,
+        "b": 629.7967681884766
+      },
+      "image_path": "figures/figure_0059.png",
+      "previous_block_id": "txt_0576",
+      "next_block_id": "txt_0577",
+      "width": 41,
+      "height": 44,
+      "decorative": true,
+      "image_hash": "95c6be1b3094ba052c7e900704ff94805a60df6592995f5f2d1961e4a6eda456"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0577",
+      "reading_order": 649,
+      "section": "Electrical Shock Hazard",
+      "bbox": {
+        "l": 126.6942,
+        "t": 615.3082318,
+        "r": 237.46759379999995,
+        "b": 606.6307174112267
+      },
+      "content": "Electrical Shock Hazard",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0578",
+      "reading_order": 650,
+      "section": "Electrical Shock Hazard",
+      "bbox": {
+        "l": 65.30866169999999,
+        "t": 600.1645768000001,
+        "r": 272.68880429999996,
+        "b": 581.2284574112267
+      },
+      "content": "Only authorized technicians should perform diagnostic voltage measurements."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0579",
+      "reading_order": 651,
+      "section": "Electrical Shock Hazard",
+      "bbox": {
+        "l": 65.30866169999999,
+        "t": 574.7623168000001,
+        "r": 256.4118177,
+        "b": 555.8261974112268
+      },
+      "content": "After performing voltage measurements, disconnect power before servicing."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0580",
+      "reading_order": 652,
+      "section": "Electrical Shock Hazard",
+      "bbox": {
+        "l": 65.30866169999999,
+        "t": 549.3600568000002,
+        "r": 290.0795823,
+        "b": 530.4239374112268
+      },
+      "content": "Failure to follow these instructions can result in death or electrical shock."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0581",
+      "reading_order": 653,
+      "section": "Turbidity Sensor",
+      "bbox": {
+        "l": 54.5625,
+        "t": 502.112,
+        "r": 162.62650000000002,
+        "b": 489.9393613445378
+      },
+      "content": "Turbidity Sensor",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0582",
+      "reading_order": 654,
+      "section": "Overview",
+      "bbox": {
+        "l": 54.5625,
+        "t": 468.584,
+        "r": 102.2025,
+        "b": 459.4545210084034
+      },
+      "content": "Overview",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0583",
+      "reading_order": 655,
+      "section": "Overview",
+      "bbox": {
+        "l": 54.5625,
+        "t": 454.32,
+        "r": 308.31249999999994,
+        "b": 416.7121008403361
+      },
+      "content": "The turbidity sensor is located under the tub and is attached to the sump with two snap clips (see Figure 1). During the prewash cycle, the turbidity sensor senses the water and chooses the appropriate wash cycle.",
+      "hyperlink_hint": true
+    },
+    {
+      "type": "admonition",
+      "id": "txt_0584",
+      "reading_order": 656,
+      "section": "Overview",
+      "bbox": {
+        "l": 54.5625,
+        "t": 411.32,
+        "r": 311.8125,
+        "b": 393.7121008403361
+      },
+      "content": "NOTE : If the turbidity sensor is not functioning, the dishwasher will continue to operate, but choose a default wash cycle.",
+      "severity": "note"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0060",
+      "reading_order": 657,
+      "section": "Overview",
+      "bbox": {
+        "l": 52.98775100708008,
+        "t": 383.04644775390625,
+        "r": 311.506103515625,
+        "b": 245.3292236328125
+      },
+      "image_path": "figures/figure_0060.png",
+      "previous_block_id": "txt_0584",
+      "next_block_id": "txt_0585",
+      "caption_id": "txt_0585",
+      "caption": "Turbidity Sensor Location",
+      "figure_number": "Figure 1",
+      "image_hash": "715b1e43e67e436d5bbe189c1936f857e89c07a0435fe41f3adfe375c8396745",
+      "width": 259,
+      "height": 138
+    },
+    {
+      "type": "caption",
+      "id": "txt_0585",
+      "reading_order": 658,
+      "section": "Overview",
+      "bbox": {
+        "l": 116.6499,
+        "t": 240.688,
+        "r": 247.48289999999994,
+        "b": 233.84089075630254
+      },
+      "content": "Figure 1 - Turbidity Sensor Location",
+      "caption_for": "fig_0060"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0586",
+      "reading_order": 659,
+      "section": "STRIP CIRCUIT - TURBIDITY SENSOR TURBIDITY SENSOR",
+      "bbox": {
+        "l": 38.78801109999999,
+        "t": 219.11854200000005,
+        "r": 229.30799999999996,
+        "b": 204.37682100840334
+      },
+      "content": "STRIP CIRCUIT - TURBIDITY SENSOR TURBIDITY SENSOR",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0061",
+      "reading_order": 660,
+      "section": "STRIP CIRCUIT - TURBIDITY SENSOR TURBIDITY SENSOR",
+      "bbox": {
+        "l": 103.56153106689453,
+        "t": 194.42962646484375,
+        "r": 524.8123168945312,
+        "b": 72.25152587890625
+      },
+      "image_path": "figures/figure_0061.png",
+      "previous_block_id": "txt_0586",
+      "next_block_id": "txt_0587",
+      "caption_id": "txt_0587",
+      "caption": "Turbidity Sensor Circuit",
+      "figure_number": "Figure 2",
+      "image_hash": "6b42387b03840045b5c9beb8b1624d6d9b17d1c1ec01e173a79ea05018868887",
+      "width": 421,
+      "height": 122
+    },
+    {
+      "type": "caption",
+      "id": "txt_0587",
+      "reading_order": 661,
+      "section": "STRIP CIRCUIT - TURBIDITY SENSOR TURBIDITY SENSOR",
+      "bbox": {
+        "l": 253.3972,
+        "t": 66.95450000000005,
+        "r": 376.30119999999994,
+        "b": 60.10739075630249
+      },
+      "content": "Figure 2 - Turbidity Sensor Circuit",
+      "caption_for": "fig_0061"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0588",
+      "reading_order": 662,
+      "section": "STRIP CIRCUIT - TURBIDITY SENSOR TURBIDITY SENSOR",
+      "bbox": {
+        "l": 321.0,
+        "t": 706.82,
+        "r": 577.5700000000004,
+        "b": 669.2121008403361
+      },
+      "content": "This test will check the wiring to the Turbidity Sensor, which measures the cloudiness or haziness of the water caused by the amount of suspended solids and particles in the water. The following items are part of the turbidity sensing circuit."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0589",
+      "reading_order": 663,
+      "section": "STRIP CIRCUIT - TURBIDITY SENSOR TURBIDITY SENSOR",
+      "bbox": {
+        "l": 321.0,
+        "t": 665.04,
+        "r": 416.8200000000001,
+        "b": 655.7303225806452
+      },
+      "content": "  Harness/Connection"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0590",
+      "reading_order": 664,
+      "section": "STRIP CIRCUIT - TURBIDITY SENSOR TURBIDITY SENSOR",
+      "bbox": {
+        "l": 321.0,
+        "t": 652.04,
+        "r": 399.70000000000005,
+        "b": 642.7303225806452
+      },
+      "content": "  Turbidity Sensor"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0591",
+      "reading_order": 665,
+      "section": "STRIP CIRCUIT - TURBIDITY SENSOR TURBIDITY SENSOR",
+      "bbox": {
+        "l": 321.0,
+        "t": 639.04,
+        "r": 390.37,
+        "b": 629.7303225806452
+      },
+      "content": "  Control Board"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0592",
+      "reading_order": 666,
+      "section": "Test Procedure",
+      "bbox": {
+        "l": 321.0,
+        "t": 608.084,
+        "r": 394.53600000000006,
+        "b": 598.9545210084034
+      },
+      "content": "Test Procedure",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0593",
+      "reading_order": 667,
+      "section": "Test Procedure",
+      "bbox": {
+        "l": 327.0,
+        "t": 580.82,
+        "r": 569.4700000000003,
+        "b": 553.2121008403361
+      },
+      "content": "Check the Turbidity Sensor and electrical connections by performing the 'Service Mode Test' on page 2-3. The following steps assume that this step was unsuccessful."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0594",
+      "reading_order": 668,
+      "section": "Test Procedure",
+      "bbox": {
+        "l": 327.0,
+        "t": 547.82,
+        "r": 503.5500000000002,
+        "b": 540.2121008403361
+      },
+      "content": "Unplug dishwasher or disconnect power."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0595",
+      "reading_order": 669,
+      "section": "Test Procedure",
+      "bbox": {
+        "l": 327.0,
+        "t": 534.82,
+        "r": 557.4100000000001,
+        "b": 517.2121008403361
+      },
+      "content": "Remove access panel. Remove control board cover to access control board."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0596",
+      "reading_order": 670,
+      "section": "Test Procedure",
+      "bbox": {
+        "l": 327.0,
+        "t": 511.82,
+        "r": 573.3900000000001,
+        "b": 484.2121008403361
+      },
+      "content": "Lay the dishwasher on its back. Use a small flat-blade screwdriver to unclip snaps around the drip-pan. Remove drip-pan/float switch to access under tub components."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0597",
+      "reading_order": 671,
+      "section": "Test Procedure",
+      "bbox": {
+        "l": 327.0,
+        "t": 478.82,
+        "r": 568.0800000000003,
+        "b": 451.2121008403361
+      },
+      "content": "Test for 5 VDC-With a voltmeter set to DC, connect the black lead to CN4-2 (GND) and the red lead to CN3-1 (+5V)."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0598",
+      "reading_order": 672,
+      "section": "Test Procedure",
+      "bbox": {
+        "l": 327.0,
+        "t": 445.82,
+        "r": 500.73000000000013,
+        "b": 438.2121008403361
+      },
+      "content": "Plug in dishwasher or reconnect power."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0599",
+      "reading_order": 673,
+      "section": "Test Procedure",
+      "bbox": {
+        "l": 327.0,
+        "t": 432.82,
+        "r": 556.6200000000001,
+        "b": 415.2121008403361
+      },
+      "content": "Measure for 5 VDC out of the control between CN4-2 (GND) and CN3-1 (+5V)."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0600",
+      "reading_order": 674,
+      "section": "Test Procedure",
+      "bbox": {
+        "l": 335.0,
+        "t": 411.04,
+        "r": 575.3400000000001,
+        "b": 392.2121008403361
+      },
+      "content": "¾ ¾ If 5 VDC is measured the control is functioning, replace the Turbidity Sensor and retest."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0601",
+      "reading_order": 675,
+      "section": "Test Procedure",
+      "bbox": {
+        "l": 335.0,
+        "t": 388.04,
+        "r": 562.0800000000002,
+        "b": 369.2121008403361
+      },
+      "content": "¾ ¾ If 5 VDC is measured, replace the control board and retest."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0602",
+      "reading_order": 676,
+      "section": "Test Procedure",
+      "bbox": {
+        "l": 327.0,
+        "t": 363.82,
+        "r": 505.92000000000013,
+        "b": 356.2121008403361
+      },
+      "content": "Unplug dishwasher or disconnect power."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0603",
+      "reading_order": 677,
+      "section": "Test Procedure",
+      "bbox": {
+        "l": 327.0,
+        "t": 350.82,
+        "r": 473.07000000000033,
+        "b": 343.2121008403361
+      },
+      "content": "Reassemble all parts and panels."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0604",
+      "reading_order": 678,
+      "section": "Test Procedure",
+      "bbox": {
+        "l": 322.0,
+        "t": 337.82,
+        "r": 568.6400000000002,
+        "b": 320.2121008403361
+      },
+      "content": "Plug in dishwasher or reconnect power and run 'Service Mode Test' to verify repair."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0605",
+      "reading_order": 679,
+      "section": "Test Procedure",
+      "bbox": {
+        "l": 540.0396,
+        "t": 44.86829999999998,
+        "r": 556.2451,
+        "b": 32.765719354838666
+      },
+      "content": "n"
+    }
+  ],
+  "page_stats": {
+    "block_count": 34,
+    "text_blocks": 31,
+    "paragraphs": 6,
+    "headings": 7,
+    "list_items": 15,
+    "captions": 2,
+    "admonitions": 1,
+    "references": 0,
+    "figures": 3,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "tbl_0006",
+  "page": 21,
+  "section": "3.3.4.4 Restoring Power-On Default Settings",
+  "title": null,
+  "markdown": "Table 2. Parameter Alarm Limit Factory Defaults\n\n| Factory Defaults              | Adult            | Pediatric        | Neonatal         |\n|-------------------------------|------------------|------------------|------------------|\n| Heart Rate Alarm Upper Limits | 120 BPM          | 160 BPM          | 200 BPM          |\n| Heart Rate Alarm Lower Limits | 50 BPM           | 75 BPM           | 100 BPM          |\n| NIBP SYS Alarm Upper Limits   | 160 mmHg         | 120 mmHg         | 90 mmHg          |\n| NIBP SYS Alarm Lower Limits   | 90 mmHg          | 70 mmHg          | 40 mmHg          |\n| NIBP DIA Alarm Upper Limits   | 90 mmHg          | 70 mmHg          | 60 mmHg          |\n| NIBP DIA Alarm Lower Limits   | 50 mmHg          | 40 mmHg          | 20 mmHg          |\n| NIBP MAP Alarm Upper Limits   | 110 mmHg         | 90 mmHg          | 70 mmHg          |\n| NIBP MAP Alarm Lower Limits   | 60 mmHg          | 50 mmHg          | 30 mmHg          |\n| %SpO 2 Alarm Upper Limits     | 100 %            | 100 %            | 95 %             |\n| %SpO 2 Alarm Lower Limits     | 90 %             | 90 %             | 80 %             |\n| RR Alarm Upper Limits         | 30 BPM           | 30 BPM           | 100 BPM          |\n| RR Alarm Lower Limits         | 8 BPM            | 8 BPM            | 30 BPM           |\n| T1/T2 Alarm Upper Limits      | 39.0ºC (102.2ºF) | 39.0ºC (102.2ºF) | 39.0ºC (102.2ºF) |\n| T1/T2 Alarm Lower Limits      | 36.0ºC (96.8ºF)  | 36.0ºC (96.8ºF)  | 36.0ºC (96.8ºF)  |",
+  "block_id": "#/tables/5",
+  "reading_order": 265,
+  "bbox": {
+    "l": 154.02377319335938,
+    "t": 500.1838684082031,
+    "r": 534.9761962890625,
+    "b": 282.21026611328125
+  }
+}

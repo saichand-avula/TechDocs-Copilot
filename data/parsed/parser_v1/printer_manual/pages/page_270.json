@@ -1,0 +1,104 @@
+{
+  "page": 270,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0747",
+      "reading_order": 3037,
+      "section": "Post service test",
+      "bbox": {
+        "l": 134.44902110548549,
+        "t": 720.4583206176758,
+        "r": 423.9813162845974,
+        "b": 502.1543884277344
+      },
+      "image_path": "figures/figure_0747.png",
+      "caption": "Release the fax PCA",
+      "figure_number": "Figure 1-407",
+      "image_hash": "8eecddb9489f7078a053e32e3fe293d0dd4f3d843f74b4a9f4ceb70f2ef2083b",
+      "width": 290,
+      "height": 218,
+      "next_block_id": "txt_2262",
+      "caption_id": "txt_2264"
+    },
+    {
+      "type": "caption",
+      "id": "txt_2262",
+      "reading_order": 3038,
+      "section": "Post service test",
+      "bbox": {
+        "l": 135.0,
+        "t": 732.29,
+        "r": 305.58998999999994,
+        "b": 720.7
+      },
+      "content": "Figure 1-406  Disconnect three connectors",
+      "caption_for": "fig_0747"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2263",
+      "reading_order": 3039,
+      "section": "Post service test",
+      "bbox": {
+        "l": 113.0,
+        "t": 491.41999999999996,
+        "r": 257.1699999999999,
+        "b": 479.83000000000004
+      },
+      "content": "Pinch the retainer to release it."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0748",
+      "reading_order": 3040,
+      "section": "Post service test",
+      "bbox": {
+        "l": 134.2692198838037,
+        "t": 459.8887023925781,
+        "r": 452.33369187855425,
+        "b": 141.3546142578125
+      },
+      "image_path": "figures/figure_0748.png",
+      "caption": "Release the fax PCA",
+      "figure_number": "Figure 1-407",
+      "image_hash": "15a3ca1280c6ff5d119454d2e4abbae5cdd416c2c6970e48dba10e295dc97f7b",
+      "width": 318,
+      "height": 319,
+      "previous_block_id": "txt_2263",
+      "next_block_id": "txt_2264"
+    },
+    {
+      "type": "caption",
+      "id": "txt_2264",
+      "reading_order": 3041,
+      "section": "Post service test",
+      "bbox": {
+        "l": 135.00001,
+        "t": 470.42,
+        "r": 271.28000999999995,
+        "b": 458.83
+      },
+      "content": "Figure 1-407  Release the fax PCA",
+      "caption_for": "fig_0747"
+    }
+  ],
+  "page_stats": {
+    "block_count": 5,
+    "text_blocks": 3,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 1,
+    "captions": 2,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 2,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

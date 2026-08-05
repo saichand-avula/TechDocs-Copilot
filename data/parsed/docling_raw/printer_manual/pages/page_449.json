@@ -1,0 +1,283 @@
+{
+  "page": 449,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_3605",
+      "reading_order": 4907,
+      "section": "Post service test",
+      "bbox": {
+        "l": 122.0,
+        "t": 732.29,
+        "r": 549.38001,
+        "b": 708.7
+      },
+      "content": "M507/E50154 only: If the formatter cover has not been removed, remove it now. Disconnect one flatflexible cable (FFC)."
+    },
+    {
+      "type": "figure",
+      "id": "fig_1263",
+      "reading_order": 4908,
+      "section": "Post service test",
+      "bbox": {
+        "l": 127.89609092466472,
+        "t": 698.6701812744141,
+        "r": 142.13156172687485,
+        "b": 685.3035049438477
+      },
+      "image_path": "figures/figure_1263.png",
+      "decorative": true,
+      "width": 14,
+      "height": 13,
+      "image_hash": "ced0fbc060a1844dc39891c7e44f57eb304665731bfdb2e8df57a2565f2d915a",
+      "previous_block_id": "txt_3605",
+      "next_block_id": "txt_3606"
+    },
+    {
+      "type": "figure",
+      "id": "fig_1264",
+      "reading_order": 4909,
+      "section": "Post service test",
+      "bbox": {
+        "l": 127.7102576915167,
+        "t": 663.737060546875,
+        "r": 140.15330599170616,
+        "b": 650.1124877929688
+      },
+      "image_path": "figures/figure_1264.png",
+      "decorative": true,
+      "width": 12,
+      "height": 13,
+      "image_hash": "90cfb1b8d8968e311a9d6557230d495ef39f3086aa2d63e6d9bed9d48215bc8f",
+      "previous_block_id": "txt_3605",
+      "next_block_id": "txt_3606"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_3606",
+      "reading_order": 4910,
+      "section": "Post service test",
+      "bbox": {
+        "l": 144.0,
+        "t": 691.405,
+        "r": 181.75,
+        "b": 679.815
+      },
+      "content": "CAUTION:",
+      "severity": "caution"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_3607",
+      "reading_order": 4911,
+      "section": "Post service test",
+      "bbox": {
+        "l": 210.61,
+        "t": 691.405,
+        "r": 287.09,
+        "b": 679.815
+      },
+      "content": "ESD sensitive part."
+    },
+    {
+      "type": "figure",
+      "id": "fig_1265",
+      "reading_order": 4912,
+      "section": "Post service test",
+      "bbox": {
+        "l": 190.93665038383403,
+        "t": 695.9026260375977,
+        "r": 210.58374294198643,
+        "b": 674.3461456298828
+      },
+      "image_path": "figures/figure_1265.png",
+      "decorative": true,
+      "width": 19,
+      "height": 21,
+      "image_hash": "b52ade145cf99cf0085510ea912f0b484855b41933131fe80c9d2108bff01086",
+      "previous_block_id": "txt_3607",
+      "next_block_id": "txt_3608"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_3608",
+      "reading_order": 4913,
+      "section": "Post service test",
+      "bbox": {
+        "l": 144.0,
+        "t": 663.79,
+        "r": 551.5600000000001,
+        "b": 640.2
+      },
+      "content": "NOTE: This connector is a zero-insertion force (ZIF) connector . Open the locking clip. The clip is easily dislodged and lost."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_3609",
+      "reading_order": 4914,
+      "section": "Post service test",
+      "bbox": {
+        "l": 122.0,
+        "t": 388.42,
+        "r": 529.2400000000002,
+        "b": 364.83
+      },
+      "content": "M507/E50145 only: Pass the FFC through the opening in the cover, and then remove the control panel."
+    },
+    {
+      "type": "figure",
+      "id": "fig_1266",
+      "reading_order": 4915,
+      "section": "Post service test",
+      "bbox": {
+        "l": 142.7694602845847,
+        "t": 617.1074676513672,
+        "r": 432.4724972294722,
+        "b": 399.7022399902344
+      },
+      "image_path": "figures/figure_1266.png",
+      "caption": "Disconnect one FFC (M507/E50145)",
+      "figure_number": "Figure 1-719",
+      "image_hash": "e3baac4d30eee999112e9e9ea7961e0b78d17171f1f60ab1e4964e67d871041d",
+      "width": 289,
+      "height": 217,
+      "previous_block_id": "txt_3609",
+      "next_block_id": "txt_3610",
+      "caption_id": "txt_3610"
+    },
+    {
+      "type": "caption",
+      "id": "txt_3610",
+      "reading_order": 4916,
+      "section": "Post service test",
+      "bbox": {
+        "l": 144.0,
+        "t": 629.29,
+        "r": 344.53999000000005,
+        "b": 617.7
+      },
+      "content": "Figure 1-719  Disconnect one FFC (M507/E50145)",
+      "caption_for": "fig_1266"
+    },
+    {
+      "type": "figure",
+      "id": "fig_1267",
+      "reading_order": 4917,
+      "section": "Post service test",
+      "bbox": {
+        "l": 127.8485059037429,
+        "t": 354.7307434082031,
+        "r": 142.12343261913406,
+        "b": 341.26123046875
+      },
+      "image_path": "figures/figure_1267.png",
+      "caption": "Disconnect one FFC (M507/E50145)",
+      "decorative": true,
+      "width": 14,
+      "height": 13,
+      "figure_number": "Figure 1-719",
+      "image_hash": "43e268cb41617f7727cc1e5dac737c067f0e36e5cb802650a24e1c1b286bdada",
+      "previous_block_id": "txt_3610",
+      "next_block_id": "txt_3611"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_3611",
+      "reading_order": 4918,
+      "section": "Post service test",
+      "bbox": {
+        "l": 144.0,
+        "t": 347.53499,
+        "r": 181.75,
+        "b": 335.94499
+      },
+      "content": "CAUTION:",
+      "severity": "caution"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_3612",
+      "reading_order": 4919,
+      "section": "Post service test",
+      "bbox": {
+        "l": 210.61,
+        "t": 347.53499999999997,
+        "r": 287.09,
+        "b": 335.945
+      },
+      "content": "ESD sensitive part."
+    },
+    {
+      "type": "figure",
+      "id": "fig_1268",
+      "reading_order": 4920,
+      "section": "Post service test",
+      "bbox": {
+        "l": 191.36226179211738,
+        "t": 351.5840759277344,
+        "r": 210.26635695308167,
+        "b": 330.1861572265625
+      },
+      "image_path": "figures/figure_1268.png",
+      "decorative": true,
+      "width": 18,
+      "height": 21,
+      "image_hash": "4ba9c20249715d148d17931bc09e532d0e9092e243a3b8bb25f55d6708b32477",
+      "previous_block_id": "txt_3612",
+      "next_block_id": "txt_3613"
+    },
+    {
+      "type": "caption",
+      "id": "txt_3613",
+      "reading_order": 4921,
+      "section": "Post service test",
+      "bbox": {
+        "l": 144.0,
+        "t": 318.42,
+        "r": 369.67999000000003,
+        "b": 306.83
+      },
+      "content": "Figure 1-720  Remove the control panel (M507/E50145)",
+      "caption_for": "fig_1269"
+    },
+    {
+      "type": "figure",
+      "id": "fig_1269",
+      "reading_order": 4922,
+      "section": "Post service test",
+      "bbox": {
+        "l": 142.9607459680467,
+        "t": 305.5692138671875,
+        "r": 432.7264670270331,
+        "b": 88.15020751953125
+      },
+      "image_path": "figures/figure_1269.png",
+      "caption": "Remove the control panel (M507/E50145)",
+      "figure_number": "Figure 1-720",
+      "image_hash": "96499e4032d0ad8f764a6d05c97c9542ecb1497e2e93e6e3e9eabf6f71cd5161",
+      "width": 290,
+      "height": 218,
+      "previous_block_id": "txt_3613",
+      "next_block_id": "txt_3614",
+      "caption_id": "txt_3613"
+    }
+  ],
+  "page_stats": {
+    "block_count": 16,
+    "text_blocks": 9,
+    "paragraphs": 2,
+    "headings": 0,
+    "list_items": 3,
+    "captions": 2,
+    "admonitions": 2,
+    "references": 0,
+    "figures": 7,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "page": 27,
+  "document_id": "doc_27a62e0f",
+  "page_bbox": {
+    "width": 594.9600219726562,
+    "height": 842.52001953125
+  },
+  "blocks": [
+    {
+      "type": "table",
+      "id": "tbl_0034",
+      "reading_order": 459,
+      "section": "Technical data, checks and verification",
+      "bbox": {
+        "l": 34.54502297302184,
+        "t": 794.4306822937768,
+        "r": 559.6236512644076,
+        "b": 69.6329988009636
+      },
+      "markdown": "| Description                  | Features                                                                                                                                                                                                                                                                                           | Function                                                                                                                                                                                                              | Rating                                                                                                                                                                                                               | Trouble shooting                                                                                                                                                                                                                                                                                                                                                                                           |\n|------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Cooling Fan                  | Supplies fresh air into the component chamber to cool down the electrical components. The fan should run counter clockwise (looking down from above). The fan will continue to run until the oven is switched off after cleaning cycle. Motor has internal Thermal Overload Protection on the Live | Supplies fresh air into the component chamber to keep the electrical components cool. Fan should run counter clockwise. Draws air in through the filter under the door and out the rear of the oven                   | 230VAC, 0.23A 52W @ 50Hz / 0.3A 70W @ 60Hz Resistance: 198 - 222 Ω (222 Ω across connection terminals). Capacitor 1.5 µ F                                                                                            | Check operation in Diagnostic View Check for opens, shorts or grounds Check for locked rotor (Power Off) Check IO connection X110 Check IO LED28 Check for Live supply potential on fan connection Check Event Log for IO & UI temperatures and E103 events                                                                                                                                                |\n| Cooling Fan Capacitor        | Connects to the cooling fan at the connection plug                                                                                                                                                                                                                                                 | Stores and discharges voltage to start and run the cooling fan motor                                                                                                                                                  | 400V, -25/70 o C, 1.5 µ F ± 5%                                                                                                                                                                                       | Check for proper microfarads. Check for opens, shorts, or grounds. Warning: Capacitor may have a stored charge, discharge before testing                                                                                                                                                                                                                                                                   |\n| Stirrer Motor(s)             | Mounts directly on the wave guide above the cavity, supply voltage connected directly from the IO Board. Driving the stirrer antennae in the horn area of the microwave launch on the cavity, through the gear assembly                                                                            | Drives a stirrer antenna to evenly distribute or scatter microwaves into the oven cavity                                                                                                                              | 230VAC 2.7W. Resistance 7 - 8k Ω                                                                                                                                                                                     | Check for opens, shorts or grounds Check for locked rotor (Power Off) Check IO Board spade connections X112 Check IO LED27 Check for Live supply potential at IO X112 pins 1-2 & 3-4                                                                                                                                                                                                                       |\n| VFD (Motor Speed Controller) | Takes 1PH AC supply voltage and produces a 3PH DC square wave frequency output. 3ph fan supply protected individually by 3x 5A ceramic on board fuses.                                                                                                                                             | Provides an DC, 3- phase switched mode drive to the AC convection motor and is controlled by a 0-10 VDC signal from the relay board (IO). The frequency output allows the Main Blower Motor to run at variable speeds | 1ph power supply. Control Signal Voltage 10VDC output to the IO Board, 2-10VDC return to determine speed percentage of convection fan motor (2-7.5VDC on 16A/13A ovens). Output 3ph DC square wave frequency voltage | Check electrical connection Check IO Board connections X113 & X519 Check IO LED29 Check VFD LED sequence. Check for 10VDC at pins P2 (Green) & P3 (Blue). Check for 1-10VDC at pins P1 (Red) & P3 (Blue) Check Live supply potential on VFD Check for consistent output voltage between each phase between Blue (U), Red (V) & Yellow (W) (Digital multi-meter should be set to VAC to conduct this check) |",
+      "rows": 5,
+      "cols": 5
+    }
+  ],
+  "page_stats": {
+    "block_count": 1,
+    "text_blocks": 0,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 0,
+    "captions": 0,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 0,
+    "tables": 1,
+    "toc_tables": 0
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "page": 74,
+  "document_id": "doc_1032c87b",
+  "page_bbox": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  },
+  "blocks": [
+    {
+      "type": "paragraph",
+      "id": "txt_0588",
+      "reading_order": 749,
+      "section": "7.2 SNMP Card",
+      "bbox": {
+        "l": 77.904,
+        "t": 691.6676629101563,
+        "r": 541.4687199999996,
+        "b": 604.196101363195
+      },
+      "content": "iStars provides users with convenient installation program. You can search for or set the IP address after PC is installed with iSearch software. Log in homepage of iStars through web browser, and then  operating  status  of  UPS  can  be  obtained:  such  as  working  voltage,  current,  frequency, temperature and humidity and so on of UPS. Parameters of equipment and system can be set in web interface: such as set to turn off or test UPS in a certain time; set user permission, user name and IP and so on."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0589",
+      "reading_order": 750,
+      "section": "7.2 SNMP Card",
+      "bbox": {
+        "l": 77.904,
+        "t": 598.0676629101563,
+        "r": 541.4985599999994,
+        "b": 572.996101363195
+      },
+      "content": "iStars provides different operating systems with shutdown softwares which shut down the system to avoid abnormal shutdown of host caused by abnormal main power."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0590",
+      "reading_order": 751,
+      "section": "7.2 SNMP Card",
+      "bbox": {
+        "l": 77.904,
+        "t": 566.8376629101563,
+        "r": 223.90568,
+        "b": 557.366101363195
+      },
+      "content": "Main functions are as follows:"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0591",
+      "reading_order": 752,
+      "section": "7.2 SNMP Card",
+      "bbox": {
+        "l": 77.904,
+        "t": 551.2376629101562,
+        "r": 302.40568,
+        "b": 541.7661013631949
+      },
+      "content": "Set different functions through the browser;"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0592",
+      "reading_order": 753,
+      "section": "7.2 SNMP Card",
+      "bbox": {
+        "l": 77.904,
+        "t": 535.6376629101563,
+        "r": 364.32568,
+        "b": 526.166101363195
+      },
+      "content": "Monitor the real-time status of UPS through the browser;"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0593",
+      "reading_order": 754,
+      "section": "7.2 SNMP Card",
+      "bbox": {
+        "l": 77.904,
+        "t": 520.0376629101563,
+        "r": 420.87568,
+        "b": 510.566101363195
+      },
+      "content": "Support TCP/IP, SNMP, FTP, NTP, HTTP, SMTP and other protocols;"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0594",
+      "reading_order": 755,
+      "section": "7.2 SNMP Card",
+      "bbox": {
+        "l": 77.904,
+        "t": 504.4376629101563,
+        "r": 423.75568,
+        "b": 494.966101363195
+      },
+      "content": "Provide software upgrading and configuration tool (iSearch software);"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0595",
+      "reading_order": 756,
+      "section": "7.2 SNMP Card",
+      "bbox": {
+        "l": 77.904,
+        "t": 488.83766291015627,
+        "r": 245.86568,
+        "b": 479.36610136319496
+      },
+      "content": "Send daily statement by Email;"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0596",
+      "reading_order": 757,
+      "section": "7.2 SNMP Card",
+      "bbox": {
+        "l": 77.904,
+        "t": 473.2376629101563,
+        "r": 541.1923199999997,
+        "b": 448.16610136319497
+      },
+      "content": "Send related information to the administrator by SMS, SNMP, Email and so on when UPS goes wrong;"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0597",
+      "reading_order": 758,
+      "section": "7.2 SNMP Card",
+      "bbox": {
+        "l": 77.904,
+        "t": 442.0376629101563,
+        "r": 497.21567999999996,
+        "b": 432.566101363195
+      },
+      "content": "SMS alarm can be realized by adding GPRS SMS module according to users' needs."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0598",
+      "reading_order": 759,
+      "section": "7.3 iStars Hardware Connection",
+      "bbox": {
+        "l": 80.784,
+        "t": 407.5488629101563,
+        "r": 325.50687999999997,
+        "b": 393.23388920849885
+      },
+      "content": "7.3 iStars Hardware Connection",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0599",
+      "reading_order": 760,
+      "section": "7.3.1 Hardware Port",
+      "bbox": {
+        "l": 74.664,
+        "t": 368.5459829101563,
+        "r": 196.10600000000002,
+        "b": 357.78284478860934
+      },
+      "content": "7.3.1 Hardware Port",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0121",
+      "reading_order": 761,
+      "section": "7.3.1 Hardware Port",
+      "bbox": {
+        "l": 68.85093671451048,
+        "t": 343.11231817028346,
+        "r": 252.79066983145827,
+        "b": 258.0784382227931
+      },
+      "image_path": "figures/figure_0121.png",
+      "previous_block_id": "txt_0599",
+      "next_block_id": "txt_0600",
+      "image_hash": "4f0cab7d90bea2af9166f535920e0891f28895d4682228d34869a779b6737923",
+      "width": 184,
+      "height": 85
+    },
+    {
+      "type": "caption",
+      "id": "txt_0600",
+      "reading_order": 762,
+      "section": "7.3.1 Hardware Port",
+      "bbox": {
+        "l": 72.384,
+        "t": 242.8176629101563,
+        "r": 448.83567999999997,
+        "b": 217.74610136319495
+      },
+      "content": "Figure 7-1 Front view of iStars                                  Figure 7-2 Back view of iStars (External card)                                                            (External card)",
+      "caption_for": "fig_0123"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0122",
+      "reading_order": 763,
+      "section": "7.3.1 Hardware Port",
+      "bbox": {
+        "l": 308.22525320123225,
+        "t": 341.8598126981943,
+        "r": 489.1381746595397,
+        "b": 257.074444288118
+      },
+      "image_path": "figures/figure_0122.png",
+      "previous_block_id": "txt_0600",
+      "next_block_id": "txt_0601",
+      "image_hash": "7b598e9f7c968670f0d36f3a19cbbd36fb1b8699625d66a10c3df479b0358ae2",
+      "width": 181,
+      "height": 85
+    },
+    {
+      "type": "figure",
+      "id": "fig_0123",
+      "reading_order": 764,
+      "section": "7.3.1 Hardware Port",
+      "bbox": {
+        "l": 221.25588114931085,
+        "t": 202.28308190101416,
+        "r": 354.8542609514121,
+        "b": 124.2755422183177
+      },
+      "image_path": "figures/figure_0123.png",
+      "previous_block_id": "txt_0600",
+      "next_block_id": "txt_0601",
+      "caption_id": "txt_0601",
+      "caption": "Front view of iStars (internal card)",
+      "figure_number": "Figure 7-3",
+      "image_hash": "d23f3ba91df383c338b260502758013d4d22394a4694d42fbb00938507618803",
+      "width": 134,
+      "height": 78
+    },
+    {
+      "type": "caption",
+      "id": "txt_0601",
+      "reading_order": 765,
+      "section": "7.3.1 Hardware Port",
+      "bbox": {
+        "l": 193.73,
+        "t": 116.5476629101563,
+        "r": 404.43568,
+        "b": 107.076101363195
+      },
+      "content": "Figure 7-3 Front view of iStars (internal card)",
+      "caption_for": "fig_0123"
+    }
+  ],
+  "page_stats": {
+    "block_count": 17,
+    "text_blocks": 14,
+    "paragraphs": 3,
+    "headings": 2,
+    "list_items": 7,
+    "captions": 2,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 3,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

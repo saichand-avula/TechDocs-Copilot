@@ -1,0 +1,103 @@
+{
+  "page": 70,
+  "document_id": "doc_27a62e0f",
+  "page_bbox": {
+    "width": 594.9600219726562,
+    "height": 842.52001953125
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0935",
+      "reading_order": 1169,
+      "section": "6.2 Overview",
+      "bbox": {
+        "l": 49.56,
+        "t": 798.54457953125,
+        "r": 159.774,
+        "b": 785.7724086051509
+      },
+      "content": "6.2 Overview",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0936",
+      "reading_order": 1170,
+      "section": "View: left hand side - X12",
+      "bbox": {
+        "l": 39.12,
+        "t": 767.92801953125,
+        "r": 183.24000000000004,
+        "b": 757.1444393785782
+      },
+      "content": "View: left hand side - X12",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0183",
+      "reading_order": 1171,
+      "section": "View: left hand side - X12",
+      "bbox": {
+        "l": 24.43975068230139,
+        "t": 741.6938004841275,
+        "r": 540.0076597803782,
+        "b": 476.8367463464839
+      },
+      "image_path": "figures/figure_0183.png",
+      "previous_block_id": "txt_0936",
+      "next_block_id": "txt_0937",
+      "image_hash": "9c57f5b03829bc63c80d4e5ff051dbe9016c21d2b52b345cccb936ac51bc7245",
+      "width": 516,
+      "height": 265
+    },
+    {
+      "type": "heading",
+      "id": "txt_0937",
+      "reading_order": 1172,
+      "section": "View: right hand side - X12",
+      "bbox": {
+        "l": 39.12,
+        "t": 432.04801953125,
+        "r": 191.28000000000006,
+        "b": 421.2644393785783
+      },
+      "content": "View: right hand side - X12",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0184",
+      "reading_order": 1173,
+      "section": "View: right hand side - X12",
+      "bbox": {
+        "l": 24.626744114079692,
+        "t": 405.82477240025787,
+        "r": 540.1964898654769,
+        "b": 123.7222405168651
+      },
+      "image_path": "figures/figure_0184.png",
+      "previous_block_id": "txt_0937",
+      "image_hash": "b3b449ca375542c86bf07f7625dd4aa6b15b0c5f5d03f792190f595685c36a4a",
+      "width": 515,
+      "height": 282
+    }
+  ],
+  "page_stats": {
+    "block_count": 5,
+    "text_blocks": 3,
+    "paragraphs": 0,
+    "headings": 3,
+    "list_items": 0,
+    "captions": 0,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 2,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

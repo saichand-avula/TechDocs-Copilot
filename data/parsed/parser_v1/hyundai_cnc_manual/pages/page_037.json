@@ -1,0 +1,68 @@
+{
+  "page": 37,
+  "document_id": "doc_caa693b1",
+  "page_bbox": {
+    "width": 595.0,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0239",
+      "reading_order": 305,
+      "section": "3. NC Device Specification (FANUC Oi-TA)",
+      "bbox": {
+        "l": 70.92,
+        "t": 764.6546599999999,
+        "r": 291.0523860000002,
+        "b": 755.7829409281768
+      },
+      "content": "3. NC Device Specification (FANUC Oi-TA)",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0240",
+      "reading_order": 306,
+      "section": "<Standard Specification>",
+      "bbox": {
+        "l": 99.299646,
+        "t": 730.694876,
+        "r": 213.85129199999994,
+        "b": 721.8231569281769
+      },
+      "content": "<Standard Specification>",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "table",
+      "id": "tbl_0007",
+      "reading_order": 307,
+      "section": "<Standard Specification>",
+      "bbox": {
+        "l": 64.42257690429688,
+        "t": 703.7841644287109,
+        "r": 523.4702758789062,
+        "b": 206.27252197265625
+      },
+      "markdown": "| Controlling Axis               | X, Z-axis, simultaneous 2-axis.                                 |\n|--------------------------------|-----------------------------------------------------------------|\n| Interpolation Function         | Positioning straight line and arc interpolation.                |\n| Command Method                 | Absolute/Incremental.                                           |\n| Least Input Increment          | 0,001 mm, 0.001 deg                                             |\n| Tape Code                      | EIARS244/ISO 840 auto-identification.                           |\n| M, S, T Function               | Preparation G2, 3 digits, Aux. M2 digits, Tool T4 digits        |\n| Spindle Speed Command          | S code rpm direct command.                                      |\n| Feed Command                   | F code feed rate direct command.                                |\n| Feed Rate Override             | 0 ~ 200% (10% interval)                                         |\n| Rapid Feed Override            | 1%, 5%, 25/50%, 100%                                            |\n| Manual Feed Function           | Rapid feed, Jog feed (0 ~ 2000 mm/min), Handle feed.            |\n| Manual Pulse Generator         | Multiply x1, x10, x100 three stage exchange                     |\n| Tool Position Offset           | No. of offset : 32                                              |\n| Character Display              | 9 inch 512 characters (16 x 32)                                 |\n| Tape Memory Edit               | 320 m                                                           |\n| Position Coder                 | 6.000 rpm                                                       |\n| Canned Cycle                   | G90, G92, G94                                                   |\n| Thread Cutting Function G32    |                                                                 |\n| Constant Surface Speed Control | G96 S x x x x                                                   |\n| Return to Reference            | Manual, Auto G27-~ G30                                          |\n| Run Hour display               | NC display                                                      |\n| Nose R Compensation            | Auto calculation (G40 ~ G42)                                    |\n| Spindle Max. Speed Setting     | G50 Sx x x x                                                    |\n| Auto Coordinate Setting        | T code coordinate setting                                       |\n| Workpiece Coordinate Shift     | Direct, increase/Decrease measured value G54 (workpiece length) |\n| Manual Absolute                | \"ON\" Fix                                                        |\n| Stored Stroke limit            | 1, 2, 3, G22, G23                                               |\n| Incremental Offset             | U, W                                                            |",
+      "rows": 28,
+      "cols": 2
+    }
+  ],
+  "page_stats": {
+    "block_count": 3,
+    "text_blocks": 2,
+    "paragraphs": 0,
+    "headings": 2,
+    "list_items": 0,
+    "captions": 0,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 0,
+    "tables": 1,
+    "toc_tables": 0
+  }
+}

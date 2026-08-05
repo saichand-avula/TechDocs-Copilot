@@ -1,0 +1,92 @@
+{
+  "page": 24,
+  "document_id": "doc_27a62e0f",
+  "page_bbox": {
+    "width": 594.9600219726562,
+    "height": 842.52001953125
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0380",
+      "reading_order": 445,
+      "section": "3 Technical data",
+      "bbox": {
+        "l": 36.0,
+        "t": 787.02447953125,
+        "r": 152.79876,
+        "b": 774.2523086051509
+      },
+      "content": "3 Technical data",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "id": "txt_0381",
+      "reading_order": 446,
+      "section": "3.1 Technical data charts",
+      "bbox": {
+        "l": 49.54859999999999,
+        "t": 761.21895953125,
+        "r": 241.47820799999997,
+        "b": 748.4467886051509
+      },
+      "content": "3.1 Technical data charts",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "id": "txt_0382",
+      "reading_order": 447,
+      "section": "Dimensions and weights",
+      "bbox": {
+        "l": 36.0,
+        "t": 742.84801953125,
+        "r": 175.56000000000003,
+        "b": 732.0644393785782
+      },
+      "content": "Dimensions and weights",
+      "level": 2
+    },
+    {
+      "type": "table",
+      "id": "tbl_0028",
+      "reading_order": 448,
+      "section": "Dimensions and weights",
+      "bbox": {
+        "l": 35.2084343585757,
+        "t": 719.1835684479123,
+        "r": 558.5592086289172,
+        "b": 399.06623257811526
+      },
+      "markdown": "| Width                                                |      |      |      |       |\n|------------------------------------------------------|------|------|------|-------|\n| conneX16 including packaging                         |  620 | [mm] | 24.4 | [in]  |\n| Appliance (X12) without packaging                    |  356 | [mm] |   14 |       |\n|                                                      |      |      |      | [in]  |\n| Appliance (X16) without packaging                    |  459 | [mm] | 18.1 | [in]  |\n| Height                                               |      |      |      |       |\n| conneX12 including packaging                         |  855 | [mm] | 33.7 | [in]  |\n| conneX16 including packaging                         |  855 | [mm] | 33.7 | [in]  |\n| Appliance (X12) without packaging                    |  619 | [mm] | 24.4 | [in]  |\n| Appliance (X16) without packaging                    |  619 | [mm] | 24.4 | [in]  |\n| Depth                                                |      |      |      |       |\n| conneX12 including packaging                         |  820 | [mm] | 32.3 | [in]  |\n| conneX16 including packaging                         |  820 | [mm] | 32.3 | [in]  |\n| Appliance (X12) without packaging, door closed       |  641 | [mm] | 25.2 | [in]  |\n| Appliance (X16) without packaging, door closed       |  683 | [mm] | 26.9 | [in]  |\n| Weight                                               |      |      |      |       |\n| conneX12 high power version, including packaging     | 68.7 | [kg] |  151 | [lbs] |\n| conneX16 high power version, including packaging     | 79.2 | [kg] |  175 | [lbs] |\n| conneX12 high power version, excluding packaging     | 58.7 | [kg] |  130 | [lbs] |\n| conneX16 high power version, excluding packaging     | 67.2 | [kg] |  148 | [lbs] |\n| conneX12 standard power version, including packaging | 60.0 | [kg] |  133 | [lbs] |\n| conneX12 standard power version, excluding packaging | 50.0 | [kg] |  111 | [lbs] |\n| Safety clearances                                    |      |      |      |       |\n| Right / Left                                         |    0 | [mm] |    0 | [in]  |\n| Top / Rear (for ventilation)                         |   50 | [mm] |    2 | [in]  |"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0383",
+      "reading_order": 449,
+      "section": "Electrical connected load ratings - X12 High power version",
+      "bbox": {
+        "l": 36.0,
+        "t": 375.64801953125,
+        "r": 363.48,
+        "b": 364.86443937857825
+      },
+      "content": "Electrical connected load ratings - X12 High power version",
+      "level": 2
+    },
+    {
+      "type": "table",
+      "id": "tbl_0029",
+      "reading_order": 450,
+      "section": "Electrical connected load ratings - X12 High power version",
+      "bbox": {
+        "l": 35.20277754263757,
+        "t": 352.1449348994952,
+        "r": 557.9994928207593,
+        "b": 199.28612565103379
+      },
+      "markdown": "| Electrical supply                           |              | 1N~ 220-230V 50Hz   | 2N~ 380-400V 50Hz   | 1N~ 220V 60Hz   | 2~ 200V 50/60Hz   |\n|---------------------------------------------|--------------|---------------------|---------------------|-----------------|-------------------|\n| Connections used                            |              | L + N + E           | L1 + L2 + N + E     | L + N + E       | 2P + E            |\n| Arrangement                                 |              | Single phase        | Twin phase          | Single phase    | Two pole          |\n| Max power input                             | [W]          | 6000                | 2500 + 3300         | 6000            | 6000              |\n| Rated current per phase                     | [A]          | 32                  | 16 / 32             | 32              | 32                |\n| Power output                                | Power output | Power output        | Power output        | Power output    | Power output      |\n| Rated power output convected heat           | [W]          | 2200                | 2200                | 2200            | 2000              |\n| Rated power output microwave (IEC 705) 100% | [W]          | 2000                | 2000                | 2000            | 2000              |\n| Rated power output combination mode         | [W]          | 2200 + 2000         | 2200 + 2000         | 2200 + 2000     | 2200 + 2000       |"
+    }
+  ]
+}

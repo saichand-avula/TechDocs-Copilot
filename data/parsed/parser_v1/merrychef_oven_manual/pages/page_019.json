@@ -1,0 +1,214 @@
+{
+  "page": 19,
+  "document_id": "doc_27a62e0f",
+  "page_bbox": {
+    "width": 594.9600219726562,
+    "height": 842.52001953125
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0259",
+      "reading_order": 305,
+      "section": "2.13 Electrical installation requirements",
+      "bbox": {
+        "l": 49.56,
+        "t": 787.02447953125,
+        "r": 339.04935599999993,
+        "b": 774.2523086051509
+      },
+      "content": "2.13 Electrical installation requirements",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0260",
+      "reading_order": 306,
+      "section": "Circuit Breakers (MCB ~ Miniature Circuit Breakers)",
+      "bbox": {
+        "l": 36.0,
+        "t": 756.28801953125,
+        "r": 322.68000000000006,
+        "b": 745.5044393785782
+      },
+      "content": "Circuit Breakers (MCB ~ Miniature Circuit Breakers)",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0261",
+      "reading_order": 307,
+      "section": "Circuit Breakers (MCB ~ Miniature Circuit Breakers)",
+      "bbox": {
+        "l": 35.990999999999985,
+        "t": 741.3059195312501,
+        "r": 560.5740000000001,
+        "b": 684.1412344167462
+      },
+      "content": "For over current protection, a Type 'D' circuit breaker (designed specifically for this type of equipment) must be fitted, as a recommend alternative a higher rated type 'C' type breaker can be used (see below). Establishments with standard (Type 'B') circuit breakers are sensitive to 'surges' which occur on switching on freezers, refrigerators and other catering equipment, including microwave combination ovens. An individual, suitably rated over current circuit breaker should be fitted for each appliance installed, along with a separate dedicated Residual Current Device (Ground Fault Circuit Interrupter)."
+    },
+    {
+      "type": "table",
+      "id": "tbl_0026",
+      "reading_order": 308,
+      "section": "Circuit Breakers (MCB ~ Miniature Circuit Breakers)",
+      "bbox": {
+        "l": 35.39262608347163,
+        "t": 671.9158113465986,
+        "r": 558.2475840605545,
+        "b": 607.0302757804645
+      },
+      "markdown": "| Model                             | Recommended Circuit Breaker (per phase)   | Alternative Recommended Circuit Breaker (per phase)   |\n|-----------------------------------|-------------------------------------------|-------------------------------------------------------|\n| conneX 12 standard power          | D16                                       | C20                                                   |\n| conneX 12 & 16 high power 1 phase | D32                                       | C40                                                   |\n| conneX 12 & 16 high power 3 phase | D16                                       | C20                                                   |",
+      "rows": 4,
+      "cols": 3
+    },
+    {
+      "type": "heading",
+      "id": "txt_0262",
+      "reading_order": 309,
+      "section": "Residual Current Device (RCD)",
+      "bbox": {
+        "l": 36.003,
+        "t": 591.4230195312501,
+        "r": 172.497,
+        "b": 583.2357304760583
+      },
+      "content": "Residual Current Device (RCD)",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0263",
+      "reading_order": 310,
+      "section": "Residual Current Device (RCD)",
+      "bbox": {
+        "l": 35.966999999999985,
+        "t": 579.4260195312502,
+        "r": 560.784,
+        "b": 546.8583344167463
+      },
+      "content": "The installation regulations require protection by a Residual Current Device (Ground Fault Circuit Interrupter). Suitable residual current devices, with a high immunity to nuisance tripping, meeting the relevant national regulations must be used. As long cable runs can be a factor in nuisance tripping, they should be avoided."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0264",
+      "reading_order": 311,
+      "section": "Residual Current Device (RCD)",
+      "bbox": {
+        "l": 35.97599999999994,
+        "t": 542.4630195312502,
+        "r": 556.5899999999998,
+        "b": 534.3753344167463
+      },
+      "content": "If the installation includes more than one appliance, one residual-current (GFCI) device must be provided for each appliance."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0265",
+      "reading_order": 312,
+      "section": "Low impedance electrical supply",
+      "bbox": {
+        "l": 36.0,
+        "t": 516.76801953125,
+        "r": 219.48000000000002,
+        "b": 505.98443937857826
+      },
+      "content": "Low impedance electrical supply",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0266",
+      "reading_order": 313,
+      "section": "Low impedance electrical supply",
+      "bbox": {
+        "l": 36.0,
+        "t": 501.78601953125,
+        "r": 560.583,
+        "b": 469.1013344167462
+      },
+      "content": "This commercial combination microwave oven complies with EN 61000-3-11. However, when connecting sensitive equipment to the same supply as the appliance, the user should determine in consultation with the supply authority, if necessary, that a low impedance supply is used."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0267",
+      "reading_order": 314,
+      "section": "Electrical supply",
+      "bbox": {
+        "l": 36.0,
+        "t": 451.72801953125,
+        "r": 128.64000000000001,
+        "b": 440.9444393785783
+      },
+      "content": "Electrical supply",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0023",
+      "reading_order": 315,
+      "section": "Electrical supply",
+      "bbox": {
+        "l": 45.523331159267954,
+        "t": 307.95175831357494,
+        "r": 197.91309293484738,
+        "b": 216.92512463158698
+      },
+      "image_path": "figures/figure_0023.png",
+      "previous_block_id": "txt_0267",
+      "image_hash": "405eab333ac6fe185f85d778a75a3a8e1106ef735b145752dd7c64fcb1925337",
+      "width": 152,
+      "height": 91
+    },
+    {
+      "type": "figure",
+      "id": "fig_0024",
+      "reading_order": 316,
+      "section": "Electrical supply",
+      "bbox": {
+        "l": 80.67887447954413,
+        "t": 199.11916754377978,
+        "r": 151.44134680509663,
+        "b": 96.25638136529278
+      },
+      "image_path": "figures/figure_0024.png",
+      "previous_block_id": "txt_0267",
+      "image_hash": "41e309a1e819823ab3e792a61788a0144c9cfc04976c89cc8589f5ab86332606",
+      "width": 70,
+      "height": 103
+    },
+    {
+      "type": "table",
+      "id": "tbl_0027",
+      "reading_order": 317,
+      "section": "Electrical supply",
+      "bbox": {
+        "l": 35.562067365189705,
+        "t": 428.25623766409757,
+        "r": 558.3089813021865,
+        "b": 59.09127488902038
+      },
+      "markdown": "| Illustration                                                                    | Phase                                                                           | Meaning                                                                                                                                                                                                                                                                                                                                                                                                                                                         |\n|---------------------------------------------------------------------------------|---------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n|                                                                                 | Single phase                                                                    | UK 13A models are fitted with a moulded plug to BS1363, fused at 13A. EU 16A models are fitted with a moulded plug to CEE 7/7 (Type F Schuko) rated at 16A 30A models are fitted with a blue 32A plug to IEC 60309 (EN 60309). Connected to a dedicated RCD (GFCI) protected supply, with appropriate circuit breaker as detailed above.                                                                                                                        |\n|                                                                                 | Twin phase                                                                      | Twin phase models should be connected as shown (the twin phase oven requires a three phase supply, utilising L1 & L2 as two separate single phases, L3 is not used). 30A models are fitted with a red 32A plug to IEC 60309 (EN 60309). EU 16A models are fitted with a red 16A 90 o plug to IEC 60309 (EN 60309). Connected to a dedicated RCD (GFCI) protected supply, with appropriate circuit breaker as detailed above.                                    |\n| L L                                                                             | Single phase 60Hz (two pole)                                                    | Single phase models, utilising L1 & L2 split phase supply (240V) or L1 & L2 from a three phase supply (208V). Neutral is not used. 15A models are fitted with HBL5666C NEMA 6-15P & 15A HBL4570C NEMA L6-15P plugs. 20A models are fitted with a HBL5466C NEMA 6-20P plug. 30A models are fitted with YP-91L NEMA 6-30P & HBL2621 NEMA L6- 30P plugs. Connected to a dedicated RCD (GFCI) protected supply, with appropriate circuit breaker as detailed above. |\n| Please refer to electrical installation data for other country specific models. | Please refer to electrical installation data for other country specific models. | Please refer to electrical installation data for other country specific models.                                                                                                                                                                                                                                                                                                                                                                                 |",
+      "rows": 5,
+      "cols": 3
+    }
+  ],
+  "page_stats": {
+    "block_count": 13,
+    "text_blocks": 9,
+    "paragraphs": 4,
+    "headings": 5,
+    "list_items": 0,
+    "captions": 0,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 2,
+    "tables": 2,
+    "toc_tables": 0
+  }
+}

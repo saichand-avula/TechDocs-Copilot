@@ -1,0 +1,182 @@
+{
+  "page": 130,
+  "document_id": "doc_b0587846",
+  "page_bbox": {
+    "width": 612.0,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "paragraph",
+      "id": "txt_1867",
+      "reading_order": 2177,
+      "section": "NOTICE:",
+      "bbox": {
+        "l": 144.0,
+        "t": 744.64184,
+        "r": 432.9300000000001,
+        "b": 733.40184
+      },
+      "content": "This table shows which brand of grease to use when lubricating the pump."
+    },
+    {
+      "type": "table",
+      "id": "tbl_0079",
+      "reading_order": 2178,
+      "section": "NOTICE:",
+      "bbox": {
+        "l": 142.75962829589844,
+        "t": 719.7840347290039,
+        "r": 558.8838500976562,
+        "b": 614.265869140625
+      },
+      "markdown": "Table 23: Lubricating-grease requirements\n\n|                  | Pumpage temperature less than 350°F (177°C)   | Pumpage temperature greater than 350°F (177°C)   |\n|------------------|-----------------------------------------------|--------------------------------------------------|\n| NGLI consistency | 2                                             | 3                                                |\n| Mobil            | Mobilux EP2                                   | SCH32                                            |\n| Exxon            | Unirex N2                                     | Unirex N3                                        |\n| Sunoco           | Mutipurpose 2EP                               | N/A                                              |\n| SKF              | LGMT 2                                        | LGMT 3                                           |"
+    },
+    {
+      "type": "caption",
+      "id": "txt_1868",
+      "reading_order": 2179,
+      "section": "NOTICE:",
+      "bbox": {
+        "l": 144.00301000000002,
+        "t": 729.55223,
+        "r": 325.3800100000001,
+        "b": 719.50823
+      },
+      "content": "Table 23: Lubricating-grease requirements"
+    },
+    {
+      "type": "heading",
+      "id": "txt_1869",
+      "reading_order": 2180,
+      "section": "Convert from greased-for-life or regreaseable to oil-lubricated bearings",
+      "bbox": {
+        "l": 54.0,
+        "t": 599.6367899999998,
+        "r": 527.0039999999997,
+        "b": 584.0127899999999
+      },
+      "content": "Convert from greased-for-life or regreaseable to oil-lubricated bearings",
+      "level": 2
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1870",
+      "reading_order": 2181,
+      "section": "Convert from greased-for-life or regreaseable to oil-lubricated bearings",
+      "bbox": {
+        "l": 144.00398,
+        "t": 580.7218199999999,
+        "r": 550.4539800000005,
+        "b": 557.4818199999999
+      },
+      "content": "Remove the plug from the oil-return slot in the frame located under the radial bearing. Use this table as a guide."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1871",
+      "reading_order": 2182,
+      "section": "Convert from greased-for-life or regreaseable to oil-lubricated bearings",
+      "bbox": {
+        "l": 143.99999999999997,
+        "t": 503.88180999999986,
+        "r": 435.7900000000002,
+        "b": 492.64180999999985
+      },
+      "content": "Remove the plug from the oil-return hole in the bearing housing (134)."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1872",
+      "reading_order": 2183,
+      "section": "Convert from greased-for-life or regreaseable to oil-lubricated bearings",
+      "bbox": {
+        "l": 143.99999999999997,
+        "t": 487.5618199999999,
+        "r": 403.35,
+        "b": 476.3218199999999
+      },
+      "content": "Replace both bearings with unshielded, oil-lubricated bearings."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1873",
+      "reading_order": 2184,
+      "section": "Convert from greased-for-life or regreaseable to oil-lubricated bearings",
+      "bbox": {
+        "l": 144.0,
+        "t": 367.18180999999987,
+        "r": 410.4799600000002,
+        "b": 341.42181999999985
+      },
+      "content": "Remove the grease fittings (193) to prevent accidental greasing. Two plugs (408H) are required to replace the two grease fittings."
+    },
+    {
+      "type": "table",
+      "id": "tbl_0080",
+      "reading_order": 2185,
+      "section": "Convert from greased-for-life or regreaseable to oil-lubricated bearings",
+      "bbox": {
+        "l": 160.7478790283203,
+        "t": 552.6248931884766,
+        "r": 558.8871459960938,
+        "b": 504.93017578125
+      },
+      "markdown": "| Pump model                  | Action                                                 |\n|-----------------------------|--------------------------------------------------------|\n| STi                         | Remove the epoxy from the return slot.                 |\n| MTi, LTi , XLT-i , and i-17 | Remove the set screw installed in the oil-return hole. |"
+    },
+    {
+      "type": "table",
+      "id": "tbl_0081",
+      "reading_order": 2186,
+      "section": "Convert from greased-for-life or regreaseable to oil-lubricated bearings",
+      "bbox": {
+        "l": 142.6634063720703,
+        "t": 460.4803466796875,
+        "r": 540.6452026367188,
+        "b": 368.1176452636719
+      },
+      "markdown": "Table 24: Bearing types\n\n| Frame      |   Inboard bearing | Outboard bearing   | Outboard bearing   |\n|------------|-------------------|--------------------|--------------------|\n|            |                   | Double row         | Duplex             |\n| STi        |              6207 | 3306               | 7306               |\n| MTi        |              6309 | 3309               | 7309               |\n| LTi        |              6311 | Not applicable     | 7310               |\n| XLT-i, i17 |              6313 | 3313               | 7313               |"
+    },
+    {
+      "type": "caption",
+      "id": "txt_1874",
+      "reading_order": 2187,
+      "section": "Convert from greased-for-life or regreaseable to oil-lubricated bearings",
+      "bbox": {
+        "l": 143.99697999999995,
+        "t": 470.8722099999999,
+        "r": 244.36497999999995,
+        "b": 460.8282099999999
+      },
+      "content": "Table 24: Bearing types"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0234",
+      "reading_order": 2188,
+      "section": "Convert from greased-for-life or regreaseable to oil-lubricated bearings",
+      "bbox": {
+        "l": 144.9400177001953,
+        "t": 322.8911437988281,
+        "r": 341.25177001953125,
+        "b": 118.46893310546875
+      },
+      "image_path": "figures/figure_0234.png",
+      "previous_block_id": "txt_1874",
+      "next_block_id": "txt_1875"
+    },
+    {
+      "type": "table",
+      "id": "tbl_0082",
+      "reading_order": 2189,
+      "section": "Convert from greased-for-life or regreaseable to oil-lubricated bearings",
+      "bbox": {
+        "l": 142.46229553222656,
+        "t": 109.31146240234375,
+        "r": 559.0421752929688,
+        "b": 65.01373291015625
+      },
+      "markdown": "|   Item Number | Size        | Description                        |   Quantity |\n|---------------|-------------|------------------------------------|------------|\n|           113 | 1/4\"-18 NPT | External hex/square head pipe plug |          2 |"
+    }
+  ]
+}

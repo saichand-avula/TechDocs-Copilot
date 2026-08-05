@@ -1,0 +1,132 @@
+{
+  "page": 18,
+  "document_id": "doc_e02482e6",
+  "page_bbox": {
+    "width": 595.0,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0034",
+      "reading_order": 173,
+      "section": "Flow diagrams",
+      "bbox": {
+        "l": 26.550310134887695,
+        "t": 816.2256088256836,
+        "r": 73.9728775024414,
+        "b": 792.8598327636719
+      },
+      "image_path": "figures/figure_0034.png",
+      "previous_block_id": "txt_0133",
+      "next_block_id": "txt_0134"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0035",
+      "reading_order": 174,
+      "section": "Flow diagrams",
+      "bbox": {
+        "l": 127.04650115966797,
+        "t": 766.2159805297852,
+        "r": 473.2937927246094,
+        "b": 410.6641540527344
+      },
+      "image_path": "figures/figure_0035.png",
+      "previous_block_id": "txt_0133",
+      "next_block_id": "txt_0134"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0134",
+      "reading_order": 175,
+      "section": "Flow diagrams",
+      "bbox": {
+        "l": 169.09,
+        "t": 405.79,
+        "r": 360.4279999999999,
+        "b": 394.71999999999997
+      },
+      "content": "Flow diagram, GA Workplace Full-Feature"
+    },
+    {
+      "type": "table",
+      "id": "tbl_0008",
+      "reading_order": 176,
+      "section": "Flow diagrams",
+      "bbox": {
+        "l": 60.999996185302734,
+        "t": 361.11492919921875,
+        "r": 536.3021850585938,
+        "b": 245.6156005859375
+      },
+      "markdown": "| Reference   | Description        |\n|-------------|--------------------|\n| A           | Intake air         |\n| B           | Air/oil mixture    |\n| C           | Oil                |\n| D           | Wet compressed air |\n| F           | Condensate         |\n| G           | Dry compressed air |"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0135",
+      "reading_order": 177,
+      "section": "Flow diagrams",
+      "bbox": {
+        "l": 62.23,
+        "t": 226.68100000000004,
+        "r": 373.24949999999967,
+        "b": 214.50400000000002
+      },
+      "content": "Note: The cooling fan is not provided on water-cooled compressors."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0136",
+      "reading_order": 178,
+      "section": "Description",
+      "bbox": {
+        "l": 28.21,
+        "t": 199.235,
+        "r": 89.711,
+        "b": 186.95900000000006
+      },
+      "content": "Description",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0137",
+      "reading_order": 179,
+      "section": "Description",
+      "bbox": {
+        "l": 62.2297,
+        "t": 179.88049999999998,
+        "r": 531.7801000000005,
+        "b": 141.30349999999999
+      },
+      "content": "Air drawn through filter (AF) and open inlet valve (IV) into compressor element (E) is compressed. A mix of compressed air and oil flows into the air receiver/oil separator (AR) via check valve (CV). The air is discharged through outlet valve (AV) via minimum pressure valve (Vp) and air cooler (Ca)."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0138",
+      "reading_order": 180,
+      "section": "Description",
+      "bbox": {
+        "l": 62.2297,
+        "t": 127.08050000000003,
+        "r": 296.2568999999998,
+        "b": 114.90350000000001
+      },
+      "content": "The air cooler is provided with a moisture trap (MT)."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0139",
+      "reading_order": 181,
+      "section": "Description",
+      "bbox": {
+        "l": 62.2297,
+        "t": 100.68050000000005,
+        "r": 519.8055000000011,
+        "b": 74.52359999999999
+      },
+      "content": "On Full-Feature compressors, the air flows through air dryer (DR) before it is discharged through outlet valve(AV). Also see section Air dryer."
+    }
+  ]
+}

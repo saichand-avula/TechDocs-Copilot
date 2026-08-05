@@ -1,0 +1,131 @@
+{
+  "page": 71,
+  "document_id": "doc_f7e949ab",
+  "page_bbox": {
+    "width": 612.0,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0097",
+      "reading_order": 858,
+      "section": "C. Side Connectors Wall Disassembly",
+      "bbox": {
+        "l": 137.32765197753906,
+        "t": 698.5321655273438,
+        "r": 322.3476257324219,
+        "b": 558.2176818847656
+      },
+      "image_path": "figures/figure_0097.png",
+      "next_block_id": "txt_0738",
+      "image_hash": "720e0247a17950a0e572c0401c9c7d2d04e718cae33ceb7a7f4c1224c6a5c262",
+      "width": 185,
+      "height": 141
+    },
+    {
+      "type": "caption",
+      "id": "txt_0738",
+      "reading_order": 859,
+      "section": "C. Side Connectors Wall Disassembly",
+      "bbox": {
+        "l": 139.5,
+        "t": 551.81625,
+        "r": 305.062875,
+        "b": 538.6875
+      },
+      "content": "C-4. NIBP Connector Disassembly",
+      "caption_for": "fig_0098"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0098",
+      "reading_order": 860,
+      "section": "C. Side Connectors Wall Disassembly",
+      "bbox": {
+        "l": 138.0004425048828,
+        "t": 533.8188171386719,
+        "r": 322.9146423339844,
+        "b": 393.8875732421875
+      },
+      "image_path": "figures/figure_0098.png",
+      "previous_block_id": "txt_0738",
+      "next_block_id": "txt_0739",
+      "caption_id": "txt_0738",
+      "caption": "C-4. NIBP Connector Disassembly",
+      "image_hash": "5a8485225e3c5821efe496037bb148c15e5641ec8060acc6db3c26b754d54207",
+      "width": 185,
+      "height": 140
+    },
+    {
+      "type": "figure",
+      "id": "fig_0099",
+      "reading_order": 861,
+      "section": "C. Side Connectors Wall Disassembly",
+      "bbox": {
+        "l": 135.8577423095703,
+        "t": 390.2115478515625,
+        "r": 322.4136657714844,
+        "b": 248.88568115234375
+      },
+      "image_path": "figures/figure_0099.png",
+      "previous_block_id": "txt_0738",
+      "next_block_id": "txt_0739",
+      "image_hash": "b35a0694c07e988f6f875aa4ec8eaa7b3c10d5d1dfacd9a97d3bdfb0d981264e",
+      "width": 186,
+      "height": 141
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0739",
+      "reading_order": 862,
+      "section": "C. Side Connectors Wall Disassembly",
+      "bbox": {
+        "l": 342.750375,
+        "t": 532.503375,
+        "r": 531.5658749999999,
+        "b": 501.745875
+      },
+      "content": "Remove the NIBP hose from the NIBP connector."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0740",
+      "reading_order": 863,
+      "section": "C. Side Connectors Wall Disassembly",
+      "bbox": {
+        "l": 342.7515000000001,
+        "t": 496.50337500000006,
+        "r": 535.3136999999998,
+        "b": 465.745875
+      },
+      "content": "Turn to the left a nut fastening the NIBP connector."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0741",
+      "reading_order": 864,
+      "section": "C. Side Connectors Wall Disassembly",
+      "bbox": {
+        "l": 342.750375,
+        "t": 388.503375,
+        "r": 526.3139250000005,
+        "b": 357.74587499999996
+      },
+      "content": "Remove the NIBP connector from the Side connectors wall."
+    }
+  ],
+  "page_stats": {
+    "block_count": 7,
+    "text_blocks": 4,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 3,
+    "captions": 1,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 3,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

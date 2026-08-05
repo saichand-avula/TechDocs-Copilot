@@ -1,0 +1,19 @@
+{
+  "id": "tbl_0012",
+  "page": 42,
+  "section": "3.9.6 Dry Contact Interface",
+  "title": "Table 3-6: Definitions of dry contact ports communication interface board",
+  "markdown": "Table 3-6: Definitions of dry contact ports communication interface board\n\n| Port Name            | Signal Definition           | Close Condition   |\n|----------------------|-----------------------------|-------------------|\n| IN-1 (customizable)  | Default function: power off | --                |\n| IN-2 (customizable)  | Default function: power on  | --                |\n| IN-3                 | Power off                   | --                |\n| IN-4                 | Manual bypass               | --                |\n| IN-5                 | EPO                         | --                |\n| OUT-1 (customizable) | Default function: fan fault | Fan fault         |\n| OUT-2                | Fault alarm                 | Fault alarm       |\n| OUT-3 (customizable) | Default function: power on  | Power on          |",
+  "block_id": "#/tables/11",
+  "reading_order": 432,
+  "bbox": {
+    "l": 77.39993520507808,
+    "t": 287.07623155397357,
+    "r": 498.79311431556505,
+    "b": 97.96163687359478
+  },
+  "table_number": "Table 3-6",
+  "rows": 9,
+  "cols": 3,
+  "type": "table"
+}

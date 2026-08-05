@@ -1,0 +1,69 @@
+{
+  "page": 27,
+  "document_id": "doc_e02482e6",
+  "page_bbox": {
+    "width": 595.0,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0052",
+      "reading_order": 253,
+      "section": "2.8    Electrical diagrams",
+      "bbox": {
+        "l": 519.39306640625,
+        "t": 815.7640895843506,
+        "r": 567.1134643554688,
+        "b": 793.2000122070312
+      },
+      "image_path": "figures/figure_0052.png",
+      "image_hash": "b28a1d23de5124d82d6f84120acacff249829ec0e42f4c826059a188d93e4d2e",
+      "width": 48,
+      "height": 23
+    },
+    {
+      "type": "table",
+      "id": "tbl_0014",
+      "reading_order": 254,
+      "section": "2.8    Electrical diagrams",
+      "bbox": {
+        "l": 91.69576263427734,
+        "t": 748.2625732421875,
+        "r": 561.2135009765625,
+        "b": 471.4940185546875
+      },
+      "markdown": "| Reference   | Designation                                                          |\n|-------------|----------------------------------------------------------------------|\n| (1)         | Emergency stop                                                       |\n| (2)         | Overload, compressor motor, fan motor and Phase Sequence Relay (PSR) |\n| (3)         | Remote start/stop                                                    |\n| (4)         | Fault, EWD                                                           |\n| (5)         | Remote pressure sensing                                              |\n| (6)         | Remote load/unload (closed = load)                                   |\n| (7)         | Pressure drop over DD filter                                         |\n| (8)         | Pressure drop over PD filter                                         |\n| (9)         | Remote pressure set selection                                        |\n| (10)        | ES 100 (if installed)                                                |\n| (11)        | Remote emergency stop                                                |\n| (12)        | Auxiliary contacts                                                   |\n| (13)        | Manual/automatic operation                                           |\n| (14)        | General warning                                                      |\n| (15)        | General shut-down                                                    |\n| (16)        | OSCi overflow contact (level switch)                                 |",
+      "rows": 17,
+      "cols": 2
+    },
+    {
+      "type": "table",
+      "id": "tbl_0015",
+      "reading_order": 255,
+      "section": "2.8    Electrical diagrams",
+      "bbox": {
+        "l": 91.39421844482422,
+        "t": 452.7447204589844,
+        "r": 560.3680419921875,
+        "b": 246.6517333984375
+      },
+      "markdown": "| Reference   | Sensors / solenoid valves / electronic water drain                                                            |\n|-------------|---------------------------------------------------------------------------------------------------------------|\n| A1          | Dryer (units with integrated refrigeration dryer)                                                             |\n| B1          | Electronic water drain (EWD)                                                                                  |\n| PDT01       | Pressure sensor, pressure difference across oil separator                                                     |\n| PT20        | Pressure sensor, air outlet                                                                                   |\n| TT01        | Temperature sensor, ambient air                                                                               |\n| TT11        | Temperature sensor, element outlet                                                                            |\n| TT51        | Temperature sensor, cooling water inlet (water-cooled compressors)                                            |\n| TT52        | Temperature sensor, cooling water outlet (water-cooled compressors)                                           |\n| TT53/54     | Temperature sensor, energy recovery water inlet/outlet (compressors equipped with the option Energy Recovery) |\n| TT90        | Temperature sensor, LAT dryer (compressors with integrated refrigeration dryer)                               |\n| Y1          | Loading solenoid valve                                                                                        |",
+      "rows": 12,
+      "cols": 2
+    }
+  ],
+  "page_stats": {
+    "block_count": 3,
+    "text_blocks": 0,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 0,
+    "captions": 0,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 1,
+    "tables": 2,
+    "toc_tables": 0
+  }
+}

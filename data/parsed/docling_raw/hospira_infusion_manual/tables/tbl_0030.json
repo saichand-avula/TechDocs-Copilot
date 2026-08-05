@@ -1,0 +1,15 @@
+{
+  "id": "tbl_0030",
+  "page": 81,
+  "section": "ERROR CODES REQUIRING TECHNICAL SERVICE",
+  "title": null,
+  "markdown": "| Table 6-3. Error Codes Requiring Technical Service   | Table 6-3. Error Codes Requiring Technical Service   | Table 6-3. Error Codes Requiring Technical Service       | Table 6-3. Error Codes Requiring Technical Service                                                                                                                                   |\n|------------------------------------------------------|------------------------------------------------------|----------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Error Code                                           | Malfunction                                          | Possible Cause                                           | Corrective Action                                                                                                                                                                    |\n| E300                                                 | ADC failure                                          | Analog to digital converter failure                      | Replace CPU PWA (see Section 7.2.12.4) Reset time and date, if required (see Section 1.9.2)                                                                                          |\n| E301                                                 | Audio alarm failure                                  | Piezo is off but sensed on or Piezo is on but sensed off | Turn power off, then on, to reset the infuser Replace piezo alarm (see Section 7.2.12.5) Replace CPU PWA (see Section 7.2.12.4) Reset time and date, if required (see Section 1.9.2) |\n| E302                                                 | Backlight failure                                    | Backlight (CCFT tube) is not at the expected range       | Turn power off, then on, to reset the infuser Replace display assembly (see Section 7.2.12.3) Reset time and date, if required (see Section 1.9.2)                                   |",
+  "block_id": "#/tables/29",
+  "reading_order": 824,
+  "bbox": {
+    "l": 106.71720886230469,
+    "t": 425.16790771484375,
+    "r": 540.9859619140625,
+    "b": 84.575439453125
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "page": 170,
+  "document_id": "doc_caa693b1",
+  "page_bbox": {
+    "width": 595.0,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "paragraph",
+      "id": "txt_1241",
+      "reading_order": 1590,
+      "section": "3-9-3. Alarm Indicator",
+      "bbox": {
+        "l": 70.92,
+        "t": 764.6546599999999,
+        "r": 174.23221200000003,
+        "b": 755.7829409281768
+      },
+      "content": "ALARM MESSAGE"
+    },
+    {
+      "type": "heading",
+      "id": "txt_1242",
+      "reading_order": 1591,
+      "section": "[ FANUC 0/-TB ]",
+      "bbox": {
+        "l": 70.92,
+        "t": 730.694876,
+        "r": 139.23636,
+        "b": 721.8231569281769
+      },
+      "content": "[ FANUC 0/-TB ]",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "table",
+      "id": "tbl_0051",
+      "reading_order": 1592,
+      "section": "[ FANUC 0/-TB ]",
+      "bbox": {
+        "l": 66.76131439208984,
+        "t": 703.9762573242188,
+        "r": 546.8326416015625,
+        "b": 136.51812744140625
+      },
+      "markdown": "|   AL-NO. | MESSAGE                         |\n|----------|---------------------------------|\n|     2000 | AL-O CP & FUSE TRIP             |\n|     2001 | AL-1 SPINDLE AMP ALARM          |\n|     2002 | AL-2 TAILSTOCK MOTOR OVERLOAD   |\n|     2003 | AL-3 LUB. OIL LACK/FAULT        |\n|     2004 | AL-4 HYD. PRESSURE DROP         |\n|     2005 | AL-5 AIR PRESSURE DROP          |\n|     2006 | AL-6 X-AXIS TORQUE ALARM        |\n|     2007 | AL-7 Z-AXIS TORQUE ALARM        |\n|     2010 | AL-10                           |\n|     2011 | AL-11                           |\n|     2012 | AL-12 POWER OFF NC ALARM        |\n|     2013 | AL-13 DOOR OPERATION INHIBIT    |\n|     2014 | AL-14 SPINDLE ROTATION INHIBIT  |\n|     2015 | AL-15 SPINDLE COMMAND TIME OVER |\n|     2016 | AL-16 Q-SETTER ARM DOWN         |\n|     2017 | AL-17 ROBOT FAULT               |\n|     2020 | AL-20 ZERO RETURN INCOMPLETED   |\n|     2021 | AL-21                           |\n|     2022 | AL-22                           |\n|     2023 | AL-23 TAIL-STOCK SET NG         |\n|     2024 | AL-24 POWER OFF PROGRAM END     |\n|     2025 | AL-25 SPINDLE ORIENTATION FAIL  |\n|     2026 | AL-26                           |\n|     2027 | AL-27 TOOL LIFE END             |\n|     2030 | AL-30 CHUCK CLAMP NG            |\n|     2031 | AL-31 DOOR CLOSE NG,            |\n|     2032 | AL-32 CENTER POSITION NG        |\n|     2033 | AL-33 SPINDLE STOP INCOMPLETED  |",
+      "rows": 29,
+      "cols": 2
+    }
+  ],
+  "page_stats": {
+    "block_count": 3,
+    "text_blocks": 2,
+    "paragraphs": 1,
+    "headings": 1,
+    "list_items": 0,
+    "captions": 0,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 0,
+    "tables": 1,
+    "toc_tables": 0
+  }
+}

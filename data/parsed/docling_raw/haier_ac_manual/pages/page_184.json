@@ -1,0 +1,294 @@
+{
+  "page": 184,
+  "document_id": "doc_229deb31",
+  "page_bbox": {
+    "width": 595.219970703125,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0364",
+      "reading_order": 1958,
+      "section": "5.1.3.4 Timed running",
+      "bbox": {
+        "l": 60.10113718493708,
+        "t": 812.9807243347168,
+        "r": 94.8195265603917,
+        "b": 802.2426338195801
+      },
+      "image_path": "figures/figure_0364.png",
+      "previous_block_id": "txt_1487",
+      "next_block_id": "txt_1488"
+    },
+    {
+      "type": "heading",
+      "id": "txt_1488",
+      "reading_order": 1959,
+      "section": "5.1.3.5 Sleeping function",
+      "bbox": {
+        "l": 64.5007,
+        "t": 796.5723856,
+        "r": 204.75880952000009,
+        "b": 785.491314
+      },
+      "content": "5.1.3.5 Sleeping function",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1489",
+      "reading_order": 1960,
+      "section": "5.1.3.5 Sleeping function",
+      "bbox": {
+        "l": 92.6824,
+        "t": 774.6196928,
+        "r": 547.7173182600002,
+        "b": 749.7061954000001
+      },
+      "content": "a.After setting the sleeping function, the refrigerating mode and dehumidification mode will run as per the following rules:"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1490",
+      "reading_order": 1961,
+      "section": "5.1.3.5 Sleeping function",
+      "bbox": {
+        "l": 125.03467920000001,
+        "t": 705.9161518799999,
+        "r": 141.8335722,
+        "b": 696.8164541758273
+      },
+      "content": "T"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0365",
+      "reading_order": 1962,
+      "section": "5.1.3.5 Sleeping function",
+      "bbox": {
+        "l": 133.7509673655033,
+        "t": 729.7929840087891,
+        "r": 449.5690977718149,
+        "b": 620.4489440917969
+      },
+      "image_path": "figures/figure_0365.png",
+      "previous_block_id": "txt_1490",
+      "next_block_id": "txt_1491"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1491",
+      "reading_order": 1963,
+      "section": "5.1.3.5 Sleeping function",
+      "bbox": {
+        "l": 101.71509440000001,
+        "t": 609.36595216,
+        "r": 509.0228333999999,
+        "b": 599.66999136
+      },
+      "content": "b.After setting the sleeping function, the heating mode will run as per the following rules:"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1492",
+      "reading_order": 1964,
+      "section": "5.1.3.5 Sleeping function",
+      "bbox": {
+        "l": 112.17227446000003,
+        "t": 550.79334404,
+        "r": 134.20865410000005,
+        "b": 541.09738324
+      },
+      "content": "Ts"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1493",
+      "reading_order": 1965,
+      "section": "5.1.3.5 Sleeping function",
+      "bbox": {
+        "l": 111.05234826000003,
+        "t": 486.17803724,
+        "r": 142.37469542000002,
+        "b": 476.48207643999996
+      },
+      "content": "Ts-8"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0366",
+      "reading_order": 1966,
+      "section": "5.1.3.5 Sleeping function",
+      "bbox": {
+        "l": 121.0334302273712,
+        "t": 574.1944885253906,
+        "r": 460.9182016376938,
+        "b": 454.40631103515625
+      },
+      "image_path": "figures/figure_0366.png",
+      "previous_block_id": "txt_1493",
+      "next_block_id": "txt_1494"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1494",
+      "reading_order": 1967,
+      "section": "5.1.3.5 Sleeping function",
+      "bbox": {
+        "l": 119.6628772,
+        "t": 421.3822152,
+        "r": 547.8889242500002,
+        "b": 348.6427140005319
+      },
+      "content": "As shown in the above diagram, after running for 1 hour under refrigerating mode and dehumidification mode, the setting temperature will increase about2 ̧ ; after another 1 hour, it will increase about2 ̧ again, and after 6 hours, it will cease; after running for 1 hour under heating mode, the setting temperature will decrease about4 ̧ , after another 1 hour, it will decrease the about 4 ̧ again, and after 3 hours, it will increase about 2 , and after other 3 hours, it will cease. ̧"
+    },
+    {
+      "type": "heading",
+      "id": "txt_1495",
+      "reading_order": 1968,
+      "section": "5.1.3.6 Trial running",
+      "bbox": {
+        "l": 56.9624,
+        "t": 313.0014856,
+        "r": 169.31386342000016,
+        "b": 301.92041399999994
+      },
+      "content": "5.1.3.6 Trial running",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1496",
+      "reading_order": 1969,
+      "section": "5.1.3.6 Trial running",
+      "bbox": {
+        "l": 101.777,
+        "t": 296.92771519999997,
+        "r": 417.5361290700002,
+        "b": 287.674938
+      },
+      "content": "The indicated frequency for trial running is 58Hz, wind volume is strong."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1497",
+      "reading_order": 1970,
+      "section": "5.1.3.6 Trial running",
+      "bbox": {
+        "l": 101.777,
+        "t": 281.3698598000001,
+        "r": 547.7845599000002,
+        "b": 256.5592272
+      },
+      "content": "The trial running will last for 30 minutes and then the unit will be powered off. The unit will exit the trial running if it receives any remote-control signal during the trial running period."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1498",
+      "reading_order": 1971,
+      "section": "5.1.3.6 Trial running",
+      "bbox": {
+        "l": 101.777,
+        "t": 250.25414899999998,
+        "r": 290.25422334000024,
+        "b": 241.00137180000002
+      },
+      "content": "There is no low-intense running protection."
+    },
+    {
+      "type": "heading",
+      "id": "txt_1499",
+      "reading_order": 1972,
+      "section": "5.1.3.7 Power failure compensation",
+      "bbox": {
+        "l": 56.9624,
+        "t": 204.1048856,
+        "r": 256.55532620000014,
+        "b": 193.02381400000002
+      },
+      "content": "5.1.3.7 Power failure compensation",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1500",
+      "reading_order": 1973,
+      "section": "5.1.3.7 Power failure compensation",
+      "bbox": {
+        "l": 101.777,
+        "t": 188.0331152,
+        "r": 489.59272410000005,
+        "b": 178.78033800000003
+      },
+      "content": "To enter into the function please press the sleep key 10 times with 4 beeps in 7 seconds"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1501",
+      "reading_order": 1974,
+      "section": "5.1.3.7 Power failure compensation",
+      "bbox": {
+        "l": 101.777,
+        "t": 172.4752598,
+        "r": 547.8644662999998,
+        "b": 147.66462720000004
+      },
+      "content": "Under the power failure compensation mode, unplug and plug again ,the indoor unit will resume original operation"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1502",
+      "reading_order": 1975,
+      "section": "5.1.3.7 Power failure compensation",
+      "bbox": {
+        "l": 101.777,
+        "t": 141.35954900000002,
+        "r": 533.9537608900015,
+        "b": 132.10677180000005
+      },
+      "content": "Under the power failure compensation mode, unplug and plug again, the unit will be on OFF state."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1503",
+      "reading_order": 1976,
+      "section": "5.1.3.7 Power failure compensation",
+      "bbox": {
+        "l": 101.777,
+        "t": 125.80169360000002,
+        "r": 547.939378550001,
+        "b": 100.99106100000006
+      },
+      "content": "Mode, Fan speed, Healthy, Set temperature can be memoried. Swing, Timer, Sleep cannot be memoried"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1504",
+      "reading_order": 1977,
+      "section": "5.1.3.7 Power failure compensation",
+      "bbox": {
+        "l": 101.777,
+        "t": 94.68598280000003,
+        "r": 393.01984672000106,
+        "b": 85.43320560000006
+      },
+      "content": "Press the sleep key for 10 times with 2 beeps in 7 seconds to exit."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0367",
+      "reading_order": 1978,
+      "section": "5.1.3.7 Power failure compensation",
+      "bbox": {
+        "l": 60.187552940499565,
+        "t": 59.58551025390625,
+        "r": 94.4417624413967,
+        "b": 48.85308837890625
+      },
+      "image_path": "figures/figure_0367.png",
+      "previous_block_id": "txt_1504",
+      "next_block_id": "txt_1505"
+    }
+  ]
+}

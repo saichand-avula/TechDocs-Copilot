@@ -1,0 +1,410 @@
+{
+  "page": 11,
+  "document_id": "doc_f7e949ab",
+  "page_bbox": {
+    "width": 612.0,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "paragraph",
+      "id": "txt_0061",
+      "reading_order": 85,
+      "section": "1.3 Description of the N5500 Patient Monitor",
+      "bbox": {
+        "l": 148.5,
+        "t": 689.19692406,
+        "r": 539.0622825,
+        "b": 666.1295774316628
+      },
+      "content": "The  physical  and  operational  characteristics  of  the  monitor  are  described  in  the operator's manual and in the Specifications section of this manual."
+    },
+    {
+      "type": "caption",
+      "id": "txt_0062",
+      "reading_order": 86,
+      "section": "1.3 Description of the N5500 Patient Monitor",
+      "bbox": {
+        "l": 148.5,
+        "t": 648.69692406,
+        "r": 538.3918085348995,
+        "b": 625.6295774316628
+      },
+      "content": "Figure 1 and 2 identify the displays, controls, indicators and symbols of the front and rear panels.",
+      "caption_for": "fig_0023"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0023",
+      "reading_order": 87,
+      "section": "1.3 Description of the N5500 Patient Monitor",
+      "bbox": {
+        "l": 169.83641052246094,
+        "t": 607.4019622802734,
+        "r": 493.05316162109375,
+        "b": 311.4214172363281
+      },
+      "image_path": "figures/figure_0023.png",
+      "previous_block_id": "txt_0062",
+      "next_block_id": "txt_0063",
+      "caption_id": "txt_0076",
+      "caption": ". N5500 Front Panel",
+      "figure_number": "Figure 1",
+      "image_hash": "6f8aa8065ccdf9509bf509b717a892cc3e97aa95ca72f0e3463f15c2e8c7faf6",
+      "width": 323,
+      "height": 296
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0063",
+      "reading_order": 88,
+      "section": "1.3 Description of the N5500 Patient Monitor",
+      "bbox": {
+        "l": 177.0,
+        "t": 298.44692406,
+        "r": 296.8122825,
+        "b": 288.8795774316629
+      },
+      "content": "Waveform Display Icon"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0064",
+      "reading_order": 89,
+      "section": "1.3 Description of the N5500 Patient Monitor",
+      "bbox": {
+        "l": 177.0,
+        "t": 284.94692406,
+        "r": 257.0622825,
+        "b": 275.37957743166294
+      },
+      "content": "Graphic Frame"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0065",
+      "reading_order": 90,
+      "section": "1.3 Description of the N5500 Patient Monitor",
+      "bbox": {
+        "l": 177.0,
+        "t": 271.44692406,
+        "r": 262.3122825,
+        "b": 261.87957743166294
+      },
+      "content": "Message Frame"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0066",
+      "reading_order": 91,
+      "section": "1.3 Description of the N5500 Patient Monitor",
+      "bbox": {
+        "l": 177.0,
+        "t": 257.94692406,
+        "r": 242.0622825,
+        "b": 248.37957743166294
+      },
+      "content": "Set-up Icon"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0067",
+      "reading_order": 92,
+      "section": "1.3 Description of the N5500 Patient Monitor",
+      "bbox": {
+        "l": 177.0,
+        "t": 244.44692406000001,
+        "r": 271.3122825,
+        "b": 234.87957743166294
+      },
+      "content": "Alarm/Limits Icon"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0068",
+      "reading_order": 93,
+      "section": "1.3 Description of the N5500 Patient Monitor",
+      "bbox": {
+        "l": 177.0,
+        "t": 230.94692406000001,
+        "r": 272.0622825,
+        "b": 221.37957743166294
+      },
+      "content": "Big Numbers Icon"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0069",
+      "reading_order": 94,
+      "section": "1.3 Description of the N5500 Patient Monitor",
+      "bbox": {
+        "l": 177.0,
+        "t": 217.44692406000001,
+        "r": 296.8122825,
+        "b": 207.87957743166294
+      },
+      "content": "NIBP Start/Stop Switch"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0070",
+      "reading_order": 95,
+      "section": "1.3 Description of the N5500 Patient Monitor",
+      "bbox": {
+        "l": 177.0,
+        "t": 203.94692406000001,
+        "r": 278.0622825,
+        "b": 194.37957743166294
+      },
+      "content": "Power On/Off Icon"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0071",
+      "reading_order": 96,
+      "section": "1.3 Description of the N5500 Patient Monitor",
+      "bbox": {
+        "l": 177.0,
+        "t": 190.44692406000001,
+        "r": 287.8122825,
+        "b": 180.87957743166294
+      },
+      "content": "Power On/Off Button"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0072",
+      "reading_order": 97,
+      "section": "1.3 Description of the N5500 Patient Monitor",
+      "bbox": {
+        "l": 177.0,
+        "t": 176.94692406000001,
+        "r": 302.8122825,
+        "b": 167.37957743166294
+      },
+      "content": "Power On/Off Indicator"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0073",
+      "reading_order": 98,
+      "section": "1.3 Description of the N5500 Patient Monitor",
+      "bbox": {
+        "l": 177.0,
+        "t": 163.44692406000001,
+        "r": 261.5622825,
+        "b": 153.87957743166294
+      },
+      "content": "Record Switch"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0074",
+      "reading_order": 99,
+      "section": "1.3 Description of the N5500 Patient Monitor",
+      "bbox": {
+        "l": 177.0,
+        "t": 149.94692406000001,
+        "r": 251.8122825,
+        "b": 140.37957743166294
+      },
+      "content": "Battery Icon"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0075",
+      "reading_order": 100,
+      "section": "1.3 Description of the N5500 Patient Monitor",
+      "bbox": {
+        "l": 177.0,
+        "t": 136.44692406000001,
+        "r": 291.5622825,
+        "b": 126.87957743166282
+      },
+      "content": "Patient Mode Display"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0076",
+      "reading_order": 101,
+      "section": "1.3 Description of the N5500 Patient Monitor",
+      "bbox": {
+        "l": 274.5,
+        "t": 109.44692406000001,
+        "r": 415.22403174659996,
+        "b": 99.90581438132733
+      },
+      "content": "Figure 1. N5500 Front Panel",
+      "caption_for": "fig_0023"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0077",
+      "reading_order": 102,
+      "section": "1.3 Description of the N5500 Patient Monitor",
+      "bbox": {
+        "l": 345.75,
+        "t": 298.44692406,
+        "r": 425.0622825,
+        "b": 288.8795774316629
+      },
+      "content": "Home Switch"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0078",
+      "reading_order": 103,
+      "section": "1.3 Description of the N5500 Patient Monitor",
+      "bbox": {
+        "l": 345.75,
+        "t": 284.94692406,
+        "r": 467.0622825,
+        "b": 275.37957743166294
+      },
+      "content": "Date and Time Display"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0079",
+      "reading_order": 104,
+      "section": "1.3 Description of the N5500 Patient Monitor",
+      "bbox": {
+        "l": 345.75,
+        "t": 271.44692406,
+        "r": 500.0622825,
+        "b": 261.87957743166294
+      },
+      "content": "Alarm Silence/Suspend Switch"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0080",
+      "reading_order": 105,
+      "section": "1.3 Description of the N5500 Patient Monitor",
+      "bbox": {
+        "l": 345.75,
+        "t": 257.94692406,
+        "r": 422.0622825,
+        "b": 248.37957743166294
+      },
+      "content": "Knob Switch"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0081",
+      "reading_order": 106,
+      "section": "1.3 Description of the N5500 Patient Monitor",
+      "bbox": {
+        "l": 345.75,
+        "t": 244.44692406000001,
+        "r": 463.3122825,
+        "b": 234.87957743166294
+      },
+      "content": "Low Battery Indicator"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0082",
+      "reading_order": 107,
+      "section": "1.3 Description of the N5500 Patient Monitor",
+      "bbox": {
+        "l": 345.75,
+        "t": 230.94692406000001,
+        "r": 536.8122825,
+        "b": 221.37957743166294
+      },
+      "content": "Battery Charging/ AC Power Indicator"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0083",
+      "reading_order": 108,
+      "section": "1.3 Description of the N5500 Patient Monitor",
+      "bbox": {
+        "l": 345.75,
+        "t": 217.44692406000001,
+        "r": 479.0622825,
+        "b": 207.87957743166294
+      },
+      "content": "Pulse Amplitude Indicator"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0084",
+      "reading_order": 109,
+      "section": "1.3 Description of the N5500 Patient Monitor",
+      "bbox": {
+        "l": 345.75,
+        "t": 203.94692406000001,
+        "r": 468.5622825,
+        "b": 194.37957743166294
+      },
+      "content": "Numeric Value Display"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0085",
+      "reading_order": 110,
+      "section": "1.3 Description of the N5500 Patient Monitor",
+      "bbox": {
+        "l": 345.75,
+        "t": 190.44692406000001,
+        "r": 458.0622825,
+        "b": 180.87957743166294
+      },
+      "content": "SatSeconds Indicator"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0086",
+      "reading_order": 111,
+      "section": "1.3 Description of the N5500 Patient Monitor",
+      "bbox": {
+        "l": 345.75,
+        "t": 176.94692406000001,
+        "r": 434.8122825,
+        "b": 167.37957743166294
+      },
+      "content": "Numeric Frame"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0087",
+      "reading_order": 112,
+      "section": "1.3 Description of the N5500 Patient Monitor",
+      "bbox": {
+        "l": 345.75,
+        "t": 163.44692406000001,
+        "r": 461.8122825,
+        "b": 153.87957743166294
+      },
+      "content": "Numeric Display Icon"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0088",
+      "reading_order": 113,
+      "section": "1.3 Description of the N5500 Patient Monitor",
+      "bbox": {
+        "l": 345.75,
+        "t": 149.94692406000001,
+        "r": 434.8122825,
+        "b": 140.37957743166294
+      },
+      "content": "Alarm Indicator"
+    }
+  ],
+  "page_stats": {
+    "block_count": 29,
+    "text_blocks": 28,
+    "paragraphs": 1,
+    "headings": 0,
+    "list_items": 25,
+    "captions": 2,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 1,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

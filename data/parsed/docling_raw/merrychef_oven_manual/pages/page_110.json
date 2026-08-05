@@ -1,0 +1,132 @@
+{
+  "page": 110,
+  "document_id": "doc_27a62e0f",
+  "page_bbox": {
+    "width": 594.9600219726562,
+    "height": 842.52001953125
+  },
+  "blocks": [
+    {
+      "type": "paragraph",
+      "id": "txt_1430",
+      "reading_order": 1870,
+      "section": "2000W Ovens",
+      "bbox": {
+        "l": 26.04,
+        "t": 792.44535953125,
+        "r": 42.7296,
+        "b": 791.5826731190363
+      },
+      "content": "7 CIRCUIT BOARDS AND DIAGRAMS"
+    },
+    {
+      "type": "heading",
+      "id": "txt_1431",
+      "reading_order": 1871,
+      "section": "IO BOARD",
+      "bbox": {
+        "l": 266.52,
+        "t": 761.10591953125,
+        "r": 311.34,
+        "b": 753.0182344167462
+      },
+      "content": "IO BOARD",
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "id": "fig_0374",
+      "reading_order": 1872,
+      "section": "IO BOARD",
+      "bbox": {
+        "l": 35.991088982863246,
+        "t": 751.5313738511957,
+        "r": 556.3296831477466,
+        "b": 398.8158259174366
+      },
+      "image_path": "figures/figure_0374.png",
+      "previous_block_id": "txt_1431",
+      "next_block_id": "txt_1432"
+    },
+    {
+      "type": "caption",
+      "id": "txt_1432",
+      "reading_order": 1873,
+      "section": "IO BOARD",
+      "bbox": {
+        "l": 36.0,
+        "t": 375.06601953125,
+        "r": 142.389,
+        "b": 366.9783344167462
+      },
+      "content": "IO Board LV Connections"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0375",
+      "reading_order": 1874,
+      "section": "IO BOARD",
+      "bbox": {
+        "l": 37.519810113785866,
+        "t": 346.9683490687559,
+        "r": 276.65313284961553,
+        "b": 115.03401389718056
+      },
+      "image_path": "figures/figure_0375.png",
+      "previous_block_id": "txt_1432",
+      "next_block_id": "txt_1433"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1433",
+      "reading_order": 1875,
+      "section": "IO BOARD",
+      "bbox": {
+        "l": 297.126,
+        "t": 375.54301953124997,
+        "r": 538.506,
+        "b": 367.45533441674615
+      },
+      "content": "Notes: Standard power versions (Centre Magnetron only)"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1434",
+      "reading_order": 1876,
+      "section": "IO BOARD",
+      "bbox": {
+        "l": 311.52599999999995,
+        "t": 360.30601953124994,
+        "r": 381.0689999999999,
+        "b": 352.21833441674613
+      },
+      "content": "X514. Link fitted"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1435",
+      "reading_order": 1877,
+      "section": "IO BOARD",
+      "bbox": {
+        "l": 311.52599999999995,
+        "t": 344.94301953124994,
+        "r": 419.8229999999999,
+        "b": 336.85533441674613
+      },
+      "content": "X112. Pins 1 & 2 not used"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1436",
+      "reading_order": 1878,
+      "section": "IO BOARD",
+      "bbox": {
+        "l": 311.52599999999995,
+        "t": 329.46301953125,
+        "r": 377.3429999999999,
+        "b": 321.3753344167461
+      },
+      "content": "X411. Not used"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "page": 255,
+  "document_id": "doc_caa693b1",
+  "page_bbox": {
+    "width": 595.0,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_1845",
+      "reading_order": 2364,
+      "section": "2-3. TOOL NO. SETTING",
+      "bbox": {
+        "l": 70.92,
+        "t": 761.16884,
+        "r": 263.52945,
+        "b": 749.7761
+      },
+      "content": "f Tool Post Home Position Setting ◄"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1846",
+      "reading_order": 2365,
+      "section": "2-3. TOOL NO. SETTING",
+      "bbox": {
+        "l": 120.53904,
+        "t": 747.554666,
+        "r": 241.82913600000006,
+        "b": 738.6829469281769
+      },
+      "content": "Select the MDI Mode."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1847",
+      "reading_order": 2366,
+      "section": "2-3. TOOL NO. SETTING",
+      "bbox": {
+        "l": 120.53904,
+        "t": 736.034672,
+        "r": 344.74154999999996,
+        "b": 727.1629529281769
+      },
+      "content": "Set the KEEP RELAY Parameter K5#0 = \"1\"."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1848",
+      "reading_order": 2367,
+      "section": "2-3. TOOL NO. SETTING",
+      "bbox": {
+        "l": 120.53904,
+        "t": 724.574798,
+        "r": 281.31294599999984,
+        "b": 715.7030789281769
+      },
+      "content": "Adjust in the following method."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0380",
+      "reading_order": 2368,
+      "section": "2-3. TOOL NO. SETTING",
+      "bbox": {
+        "l": 124.23145294189453,
+        "t": 703.1954040527344,
+        "r": 527.3348388671875,
+        "b": 30.6041259765625
+      },
+      "image_path": "figures/figure_0380.png",
+      "previous_block_id": "txt_1848",
+      "next_block_id": "txt_1849"
+    }
+  ]
+}

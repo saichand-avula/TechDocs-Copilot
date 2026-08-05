@@ -1,0 +1,78 @@
+{
+  "page": 82,
+  "document_id": "doc_f7e949ab",
+  "page_bbox": {
+    "width": 612.0,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0803",
+      "reading_order": 940,
+      "section": "9.7    Measurement Parameters",
+      "bbox": {
+        "l": 72.0,
+        "t": 695.1165,
+        "r": 260.061525,
+        "b": 678.1875
+      },
+      "content": "9.7    Measurement Parameters",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "id": "txt_0804",
+      "reading_order": 941,
+      "section": "ECG",
+      "bbox": {
+        "l": 72.0,
+        "t": 665.3025,
+        "r": 98.81212500000001,
+        "b": 651.9375
+      },
+      "content": "ECG",
+      "level": 2
+    },
+    {
+      "type": "table",
+      "id": "tbl_0034",
+      "reading_order": 942,
+      "section": "ECG",
+      "bbox": {
+        "l": 150.2039337158203,
+        "t": 653.8143157958984,
+        "r": 535.326171875,
+        "b": 350.277587890625
+      },
+      "markdown": "| Heart Rate                       | Heart Rate                                               |\n|----------------------------------|----------------------------------------------------------|\n| Measurement Range                | 20 BPM to 250 BPM                                        |\n| Accuracy                         | ±3 BPM or ±5%, whichever is greater                      |\n| ECG (Electrocardiograph)         | ECG (Electrocardiograph)                                 |\n| Leads                            | 3 / 5 Lead, user selectable I, II, III, V, aVR, aVL, aVF |\n| Lead Off Detection               | Detected and displayed                                   |\n| Input                            |                                                          |\n| Input Dynamic Range              | ±5 mV AC, ±300 mV DC                                     |\n| Voltage Range                    | ±0.5 mV to ±5 mV                                         |\n| Signal Width                     | 40ms to 120ms (Q to S)                                   |\n| ECG (Electrocardiograph) Output  | ECG (Electrocardiograph) Output                          |\n| Frequency Response (Bandwidth)   | Frequency Response (Bandwidth)                           |\n| Low Extend                       | 0.05 Hz to 40 Hz                                         |\n| Filter                           | 0.5 Hz to 30 Hz                                          |\n| Monitor                          | 0.5 Hz to 40 Hz                                          |\n| ECG Size (sensitivity)           | 1.25, 1.7, 2.5, 5.0, 7.5, 10.0, 15.0, 20.0 (mm per 1mV)  |\n| Display Sweep Speeds             | 12.5 mm/sec, 25.0 mm/sec, and 50.0 mm/sec                |\n| Pacemaker Detection              | Indicator on waveform display (user selectable)          |\n| Defibrillator Discharge Recovery | < 5 sec per IEC601-2-27                                  |"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0805",
+      "reading_order": 943,
+      "section": "Respiration rate",
+      "bbox": {
+        "l": 72.0,
+        "t": 335.3025,
+        "r": 154.31175000000002,
+        "b": 321.9375
+      },
+      "content": "Respiration rate",
+      "level": 2
+    },
+    {
+      "type": "table",
+      "id": "tbl_0035",
+      "reading_order": 944,
+      "section": "Respiration rate",
+      "bbox": {
+        "l": 151.4599151611328,
+        "t": 309.91839599609375,
+        "r": 535.2426147460938,
+        "b": 219.71282958984375
+      },
+      "markdown": "| Technique            | Trans-thoracic impedance         |\n|----------------------|----------------------------------|\n| Range                | 3 breaths/min to 120 breaths/min |\n| Accuracy             | ±3 breaths/min                   |\n| Leads                | RA to LA                         |\n| Display Sweep Speeds | 6.25 mm/s, 12.5 mm/s, 25.0 mm/s  |\n| Lead Off Condition   | Detected and displayed           |"
+    }
+  ]
+}

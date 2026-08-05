@@ -1,0 +1,214 @@
+{
+  "page": 42,
+  "document_id": "doc_e02482e6",
+  "page_bbox": {
+    "width": 595.0,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0121",
+      "reading_order": 427,
+      "section": "Function",
+      "bbox": {
+        "l": 26.578990936279297,
+        "t": 816.2604351043701,
+        "r": 73.97377014160156,
+        "b": 792.8102836608887
+      },
+      "image_path": "figures/figure_0121.png",
+      "next_block_id": "txt_0281",
+      "width": 47,
+      "height": 23,
+      "decorative": true,
+      "image_hash": "7577891dcf1743bd2e7a735ef2621e01244d960bde43e28868c27d7c1437ddb9"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0281",
+      "reading_order": 428,
+      "section": "Procedure",
+      "bbox": {
+        "l": 28.21,
+        "t": 772.475,
+        "r": 84.4288,
+        "b": 760.199
+      },
+      "content": "Procedure",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0282",
+      "reading_order": 429,
+      "section": "Procedure",
+      "bbox": {
+        "l": 62.2297,
+        "t": 753.1205,
+        "r": 281.1715,
+        "b": 740.9435
+      },
+      "content": "Starting from the Main screen (see Main screen):"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0283",
+      "reading_order": 430,
+      "section": "Procedure",
+      "bbox": {
+        "l": 62.22969999999998,
+        "t": 739.9205,
+        "r": 506.19299999999964,
+        "b": 727.7434999999999
+      },
+      "content": "Move the cursor to the action button Menu and press the enter key (2), following screen appears:"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0122",
+      "reading_order": 431,
+      "section": "Procedure",
+      "bbox": {
+        "l": 187.5933380126953,
+        "t": 710.0084228515625,
+        "r": 388.6251525878906,
+        "b": 541.8666381835938
+      },
+      "image_path": "figures/figure_0122.png",
+      "previous_block_id": "txt_0283",
+      "next_block_id": "txt_0284",
+      "image_hash": "dc475569f126e915ab50f784eb44ed61efd16f7b04ea52bab3aae6ff5a23bb25",
+      "width": 201,
+      "height": 168
+    },
+    {
+      "type": "heading",
+      "id": "txt_0284",
+      "reading_order": 432,
+      "section": "Text on figure",
+      "bbox": {
+        "l": 62.23,
+        "t": 527.701,
+        "r": 124.4614,
+        "b": 515.524
+      },
+      "content": "Text on figure",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "table",
+      "id": "tbl_0028",
+      "reading_order": 433,
+      "section": "Text on figure",
+      "bbox": {
+        "l": 61.8132209777832,
+        "t": 513.2822875976562,
+        "r": 533.0186157226562,
+        "b": 461.9481506347656
+      },
+      "markdown": "| (1)   | Configuration     |\n|-------|-------------------|\n| (2)   | Pressure Settings |\n| (3)   | Mainscreen        |",
+      "rows": 3,
+      "cols": 2
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0285",
+      "reading_order": 434,
+      "section": "Text on figure",
+      "bbox": {
+        "l": 62.23,
+        "t": 431.9405,
+        "r": 480.61059999999935,
+        "b": 419.7635
+      },
+      "content": "Using the scroll keys (1), move the cursor to the inputs icon (see above, section Menu icon)"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0286",
+      "reading_order": 435,
+      "section": "Text on figure",
+      "bbox": {
+        "l": 62.23,
+        "t": 412.8005,
+        "r": 369.6513999999999,
+        "b": 400.62350000000004
+      },
+      "content": "Press the enter key (2), a screen similar to the one below appears:"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0287",
+      "reading_order": 436,
+      "section": "Text on figure",
+      "bbox": {
+        "l": 62.23,
+        "t": 103.08100000000002,
+        "r": 431.91359999999946,
+        "b": 90.904
+      },
+      "content": "The screen shows a list of all inputs with their corresponding icons and readings."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0288",
+      "reading_order": 437,
+      "section": "Text on figure",
+      "bbox": {
+        "l": 62.23,
+        "t": 83.88049999999998,
+        "r": 489.78349999999926,
+        "b": 58.50350000000003
+      },
+      "content": "If an input is in warning or shutdown, the original icon is replaced by the warning or shutdown icon respectively."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0123",
+      "reading_order": 438,
+      "section": "Text on figure",
+      "bbox": {
+        "l": 173.7649688720703,
+        "t": 396.79083251953125,
+        "r": 376.5442199707031,
+        "b": 222.15728759765625
+      },
+      "image_path": "figures/figure_0123.png",
+      "previous_block_id": "txt_0288",
+      "image_hash": "2562d3d2103a75635c0d5e7e6b4a6005540f9538f2a4abb5cae516b069a84b4d",
+      "width": 203,
+      "height": 175
+    },
+    {
+      "type": "table",
+      "id": "tbl_0029",
+      "reading_order": 439,
+      "section": "Text on figure",
+      "bbox": {
+        "l": 61.386207580566406,
+        "t": 216.58056640625,
+        "r": 537.8682250976562,
+        "b": 113.25848388671875
+      },
+      "markdown": "| (1)   | Analog & Digital I/O   |\n|-------|------------------------|\n| (2)   | Element outlet         |\n| (3)   | Dryer PDP              |\n| (4)   | Compressor outlet      |\n| (5)   | Emergency stop         |\n| (6)   | Back                   |",
+      "rows": 6,
+      "cols": 2
+    }
+  ],
+  "page_stats": {
+    "block_count": 13,
+    "text_blocks": 8,
+    "paragraphs": 1,
+    "headings": 2,
+    "list_items": 5,
+    "captions": 0,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 3,
+    "tables": 2,
+    "toc_tables": 0
+  }
+}

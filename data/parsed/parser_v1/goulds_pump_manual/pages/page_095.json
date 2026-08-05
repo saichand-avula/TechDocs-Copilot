@@ -1,0 +1,152 @@
+{
+  "page": 95,
+  "document_id": "doc_b0587846",
+  "page_bbox": {
+    "width": 612.0,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0162",
+      "reading_order": 1605,
+      "section": "Inspection locations",
+      "bbox": {
+        "l": 143.16714477539062,
+        "t": 731.0032234191895,
+        "r": 248.8313751220703,
+        "b": 527.4539794921875
+      },
+      "image_path": "figures/figure_0162.png",
+      "next_block_id": "txt_1383",
+      "caption_id": "txt_1383",
+      "caption": ": LTi bearing housing",
+      "figure_number": "Figure 28",
+      "image_hash": "daa25a475b413616a4ebded4203fdd4595e63ee51f96ddaaaacff70aaf839efd",
+      "width": 106,
+      "height": 204
+    },
+    {
+      "type": "caption",
+      "id": "txt_1383",
+      "reading_order": 1606,
+      "section": "Inspection locations",
+      "bbox": {
+        "l": 144.0,
+        "t": 521.77361,
+        "r": 274.698,
+        "b": 511.72961
+      },
+      "content": "Figure 28: LTi bearing housing",
+      "caption_for": "fig_0162"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0163",
+      "reading_order": 1607,
+      "section": "Inspection locations",
+      "bbox": {
+        "l": 143.52017211914062,
+        "t": 490.8981018066406,
+        "r": 259.9659423828125,
+        "b": 299.6639709472656
+      },
+      "image_path": "figures/figure_0163.png",
+      "previous_block_id": "txt_1383",
+      "next_block_id": "txt_1384",
+      "caption_id": "txt_1384",
+      "caption": ": XLT-i and i17 bearing housing",
+      "figure_number": "Figure 29",
+      "image_hash": "c17f6649b74a70be8c6a087c22f8d818eceddbf9ff2286e5c88e0a551e9b6640",
+      "width": 116,
+      "height": 191
+    },
+    {
+      "type": "caption",
+      "id": "txt_1384",
+      "reading_order": 1608,
+      "section": "Inspection locations",
+      "bbox": {
+        "l": 144.0,
+        "t": 291.58082999999993,
+        "r": 316.88100000000003,
+        "b": 281.53682999999995
+      },
+      "content": "Figure 29: XLT-i and i17 bearing housing",
+      "caption_for": "fig_0163"
+    },
+    {
+      "type": "heading",
+      "id": "txt_1385",
+      "reading_order": 1609,
+      "section": "Bearing fits and tolerances",
+      "bbox": {
+        "l": 54.002979999999994,
+        "t": 268.6654,
+        "r": 233.72098,
+        "b": 253.04139999999995
+      },
+      "content": "Bearing fits and tolerances",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1386",
+      "reading_order": 1610,
+      "section": "Bearing fits and tolerances",
+      "bbox": {
+        "l": 144.00097,
+        "t": 249.75045,
+        "r": 480.39097000000015,
+        "b": 238.51045
+      },
+      "content": "This table references the bearing fits and tolerances according to the ABEC I standard."
+    },
+    {
+      "type": "table",
+      "id": "tbl_0063",
+      "reading_order": 1611,
+      "section": "Bearing fits and tolerances",
+      "bbox": {
+        "l": 142.8194580078125,
+        "t": 223.98590087890625,
+        "r": 558.942626953125,
+        "b": 79.46673583984375
+      },
+      "markdown": "Table 14: Bearing fits and tolerances table\n\n|                    | STi inches (millimeters)                  | MTi inches (millimeters)                  | LTi inches (millimeters)                  | XLT-i, i-17 inches (millimeters)          |\n|--------------------|-------------------------------------------|-------------------------------------------|-------------------------------------------|-------------------------------------------|\n| Shaft OD Inboard   | 1.3785 (35.014) 1.3781 (35.004)           | 1.7722 (45.014) 1.7718 (45.004)           | 2.1660 (55.016) 2.1655 (55.004)           | 2.5597 (65.016) 2.5592 (65.004)           |\n| Clearance          | 0.0010 (0.025) tight 0.0001 (0.003) tight | 0.0010 (0.025) tight 0.0001 (0.003) tight | 0.0012 (0.030) tight 0.0001 (0.003) tight | 0.0012 (0.030) tight 0.0001 (0.003) tight |\n| Bearing ID Inboard | 1.3780 (35.001) 1.3775 (34.989)           | 1.7717 (45.001) 1.7712 (44.988)           | 2.1654 (55.001) 2.1648 (54.986)           | 2.5591 (65.001) 2.5585 (64.986)           |\n| Inboard            | 2.8346 (72.000) 2.8353 (72.017)           | 3.9370 3.9379                             | 4.7253                                    | 5.5118 5.5128                             |\n| Frame ID           |                                           | (100.000) (100.023)                       | 4.7244 (120.000) (120.023)                | (140.000) (140.025)                       |",
+      "caption_id": "txt_1387",
+      "title": "Table 14: Bearing fits and tolerances table",
+      "table_number": "Table 14",
+      "rows": 6,
+      "cols": 4
+    },
+    {
+      "type": "caption",
+      "id": "txt_1387",
+      "reading_order": 1612,
+      "section": "Bearing fits and tolerances",
+      "bbox": {
+        "l": 143.99795999999998,
+        "t": 233.66084999999998,
+        "r": 323.8899600000001,
+        "b": 223.61685
+      },
+      "content": "Table 14: Bearing fits and tolerances table",
+      "caption_for": "tbl_0063"
+    }
+  ],
+  "page_stats": {
+    "block_count": 8,
+    "text_blocks": 5,
+    "paragraphs": 1,
+    "headings": 1,
+    "list_items": 0,
+    "captions": 3,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 2,
+    "tables": 1,
+    "toc_tables": 0
+  }
+}

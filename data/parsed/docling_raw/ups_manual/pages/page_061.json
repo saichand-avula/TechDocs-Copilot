@@ -1,0 +1,53 @@
+{
+  "page": 61,
+  "document_id": "doc_1032c87b",
+  "page_bbox": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0118",
+      "reading_order": 684,
+      "section": "5.1.6 Description of Menu Details",
+      "bbox": {
+        "l": 83.00551036728875,
+        "t": 327.759864932426,
+        "r": 109.43417601667564,
+        "b": 306.9989596559154
+      },
+      "image_path": "figures/figure_0118.png",
+      "previous_block_id": "txt_0537",
+      "next_block_id": "txt_0538"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0119",
+      "reading_order": 685,
+      "section": "5.1.6 Description of Menu Details",
+      "bbox": {
+        "l": 83.78695154003799,
+        "t": 203.5198417992691,
+        "r": 104.85237504929195,
+        "b": 183.57520415854242
+      },
+      "image_path": "figures/figure_0119.png",
+      "previous_block_id": "txt_0537",
+      "next_block_id": "txt_0538"
+    },
+    {
+      "type": "table",
+      "id": "tbl_0031",
+      "reading_order": 686,
+      "section": "5.1.6 Description of Menu Details",
+      "bbox": {
+        "l": 76.68918022222488,
+        "t": 727.3581857597262,
+        "r": 518.256182662047,
+        "b": 139.8229537337461
+      },
+      "markdown": "|                                         |                                                                                                   | parameters                                                                                        |\n|-----------------------------------------|---------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|\n|                                         |                                                                                                   | Main parameters                                                                                   |\n|                                         |                                                                                                   | Battery parameters                                                                                |\n|                                         |                                                                                                   | Output parameters                                                                                 |\n|                                         |                                                                                                   | Basic parameters                                                                                  |\n|                                         |                                                                                                   | Main parameters                                                                                   |\n|                                         |                                                                                                   | Bypass parameters                                                                                 |\n|                                         |                                                                                                   | Output parameters                                                                                 |\n|                                         | USB guide                                                                                         | USB guide                                                                                         |\n|                                         | Empty records                                                                                     | Empty records                                                                                     |\n|                                         | Communication debugging                                                                           | Communication debugging                                                                           |\n|                                         | The only code of the UPS is 892001602250001                                                       | The only code of the UPS is 892001602250001                                                       |\n| System information                      | number System model Provide system information, MODLE: 220V - 50 Hz - 200kVA                      | number System model Provide system information, MODLE: 220V - 50 Hz - 200kVA                      |\n|                                         | Master control software version V4.0                                                              | Master control software version V4.0                                                              |\n|                                         | Monitoring version Monitoring software version V3.0                                               | Monitoring version Monitoring software version V3.0                                               |\n|                                         | Manufactur er information Manufacturer name, telephone number, URL                                | Manufactur er information Manufacturer name, telephone number, URL                                |\n| Battery test (time)                     | Manual battery test: Stop testing according to the configured time                                | Manual battery test: Stop testing according to the configured time                                |\n| Battery test (voltage)                  | Manual battery test: Stop testing according to the configured voltage                             | Manual battery test: Stop testing according to the configured voltage                             |\n| Battery test (EOD)                      | Manual battery test: Stop testing according to the configured EOD voltage                         | Manual battery test: Stop testing according to the configured EOD voltage                         |\n| Stop testing                            | Stop manual maintenance of batteries, Stop manual self-test of batteries or system test           | Stop manual maintenance of batteries, Stop manual self-test of batteries or system test           |\n| Turn on the                             | Turn mutt on/off                                                                                  | Turn mutt on/off                                                                                  |\n| UPS                                     | Turn on the UPS (Open the rectifier, inverter and static switch) Close the rectifier and inverter | Turn on the UPS (Open the rectifier, inverter and static switch) Close the rectifier and inverter |\n| Turn off the UPS and cut off the output | Close the rectifier, inverter and static switch                                                   | Close the rectifier, inverter and static switch                                                   |"
+    }
+  ]
+}

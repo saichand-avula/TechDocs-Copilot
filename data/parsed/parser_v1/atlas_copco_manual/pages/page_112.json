@@ -1,0 +1,312 @@
+{
+  "page": 112,
+  "document_id": "doc_e02482e6",
+  "page_bbox": {
+    "width": 595.0,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0291",
+      "reading_order": 1229,
+      "section": "Procedure",
+      "bbox": {
+        "l": 26.568281173706055,
+        "t": 814.5017547607422,
+        "r": 73.94849395751953,
+        "b": 794.7351150512695
+      },
+      "image_path": "figures/figure_0291.png",
+      "next_block_id": "txt_0847",
+      "width": 47,
+      "height": 19,
+      "image_hash": "d40838ced87b7cde8682424bc98dd0ae3671489f6fb7d55d4863bc416a5ade97"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0847",
+      "reading_order": 1230,
+      "section": "Procedure",
+      "bbox": {
+        "l": 64.63,
+        "t": 773.21,
+        "r": 187.95430000000016,
+        "b": 758.8770000000001
+      },
+      "content": "(A): Air inlet temperature"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0848",
+      "reading_order": 1231,
+      "section": "Procedure",
+      "bbox": {
+        "l": 64.63,
+        "t": 746.81,
+        "r": 175.20420000000001,
+        "b": 732.477
+      },
+      "content": "(C): Working pressure"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0849",
+      "reading_order": 1232,
+      "section": "Procedure",
+      "bbox": {
+        "l": 64.63,
+        "t": 760.01,
+        "r": 211.17309999999998,
+        "b": 745.677
+      },
+      "content": "(B): Condensation temperature"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0850",
+      "reading_order": 1233,
+      "section": "Procedure",
+      "bbox": {
+        "l": 64.63,
+        "t": 733.6099999999999,
+        "r": 193.15949999999995,
+        "b": 719.2769999999999
+      },
+      "content": "(D): Relative air humidity"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0851",
+      "reading_order": 1234,
+      "section": "Procedure",
+      "bbox": {
+        "l": 63.61029999999998,
+        "t": 713.2809,
+        "r": 524.9239000000011,
+        "b": 662.4047999999998
+      },
+      "content": "Example: If operating at a pressure of 10 bar(e) in an ambient temperature of 20 °C and at a relative air humidity of 100%, the minimum temperature to prevent condensate from forming is 68 °C . Regulate the cooling water flow during loaded operation to obtain a temperature between 70 and approx. 75 °C  at the outlet of the compressor element."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0852",
+      "reading_order": 1235,
+      "section": "7.5    During operation",
+      "bbox": {
+        "l": 27.61,
+        "t": 637.2,
+        "r": 199.33800000000002,
+        "b": 619.344
+      },
+      "content": "7.5    During operation",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0853",
+      "reading_order": 1236,
+      "section": "Warnings",
+      "bbox": {
+        "l": 27.61,
+        "t": 600.455,
+        "r": 74.8913,
+        "b": 588.179
+      },
+      "content": "Warnings",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0292",
+      "reading_order": 1237,
+      "section": "Warnings",
+      "bbox": {
+        "l": 87.93938446044922,
+        "t": 569.1976623535156,
+        "r": 114.96224212646484,
+        "b": 546.45849609375
+      },
+      "image_path": "figures/figure_0292.png",
+      "previous_block_id": "txt_0853",
+      "next_block_id": "txt_0854",
+      "width": 27,
+      "height": 22,
+      "decorative": true,
+      "image_hash": "ce6a88be2e6ebd7d160bc4764fe897167f413acbc19affcdf7289982e69e1fb5"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0293",
+      "reading_order": 1238,
+      "section": "Warnings",
+      "bbox": {
+        "l": 89.31970977783203,
+        "t": 537.84619140625,
+        "r": 110.98866271972656,
+        "b": 513.3850402832031
+      },
+      "image_path": "figures/figure_0293.png",
+      "previous_block_id": "txt_0853",
+      "next_block_id": "txt_0854",
+      "width": 21,
+      "height": 24,
+      "decorative": true,
+      "image_hash": "31726b8e5a3cd0f17a7ad586ec070378b314a0e93b0f7bd30694f6f2bef73239"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0294",
+      "reading_order": 1239,
+      "section": "Warnings",
+      "bbox": {
+        "l": 88.02896118164062,
+        "t": 505.334228515625,
+        "r": 114.17807006835938,
+        "b": 481.8209533691406
+      },
+      "image_path": "figures/figure_0294.png",
+      "previous_block_id": "txt_0853",
+      "next_block_id": "txt_0854",
+      "width": 26,
+      "height": 23,
+      "decorative": true,
+      "image_hash": "969f001d39104c7641b849c94a378bb2a9385c7ab8daba9c3d85d23c9d859124"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0854",
+      "reading_order": 1240,
+      "section": "Checking the oil level",
+      "bbox": {
+        "l": 28.21,
+        "t": 442.835,
+        "r": 139.21100000000004,
+        "b": 430.55899999999997
+      },
+      "content": "Checking the oil level",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0295",
+      "reading_order": 1241,
+      "section": "Checking the oil level",
+      "bbox": {
+        "l": 81.82398223876953,
+        "t": 414.4193115234375,
+        "r": 108.9857177734375,
+        "b": 392.25286865234375
+      },
+      "image_path": "figures/figure_0295.png",
+      "previous_block_id": "txt_0854",
+      "next_block_id": "txt_0855",
+      "width": 27,
+      "height": 22,
+      "decorative": true,
+      "image_hash": "bb4576f0b7a93e68306e6256d0502ca51799a2d9aea233407879b29d848c7f4c"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0855",
+      "reading_order": 1242,
+      "section": "Checking the oil level",
+      "bbox": {
+        "l": 133.93,
+        "t": 412.805206,
+        "r": 506.93196039999907,
+        "b": 389.639344
+      },
+      "content": "When the automatic operation LED (8) is lit, the regulator is automatically controlling the compressor, i.e. loading, unloading, stopping of the motors and restarting!"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0296",
+      "reading_order": 1243,
+      "section": "Checking the oil level",
+      "bbox": {
+        "l": 144.29965209960938,
+        "t": 357.51922607421875,
+        "r": 391.5392150878906,
+        "b": 239.43035888671875
+      },
+      "image_path": "figures/figure_0296.png",
+      "previous_block_id": "txt_0855",
+      "next_block_id": "txt_0856",
+      "caption_id": "txt_0856",
+      "caption": "Control panel Elektronikon Graphic",
+      "image_hash": "fbe2e9b9290d03ec881c0a283950ce811c56cd05241716cd797634552ba0d925",
+      "width": 248,
+      "height": 119
+    },
+    {
+      "type": "caption",
+      "id": "txt_0856",
+      "reading_order": 1244,
+      "section": "Checking the oil level",
+      "bbox": {
+        "l": 208.21,
+        "t": 220.69000000000005,
+        "r": 360.4299999999996,
+        "b": 209.62
+      },
+      "content": "Control panel Elektronikon Graphic",
+      "caption_for": "fig_0296"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0857",
+      "reading_order": 1245,
+      "section": "Checking the oil level",
+      "bbox": {
+        "l": 140.11,
+        "t": 568.8675225999999,
+        "r": 512.50846094,
+        "b": 545.6987824
+      },
+      "content": "The operator must apply all relevant Safety precautions. Also consult section Problem solving."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0858",
+      "reading_order": 1246,
+      "section": "Checking the oil level",
+      "bbox": {
+        "l": 140.71,
+        "t": 536.3475225999999,
+        "r": 535.3751731400009,
+        "b": 513.1787824
+      },
+      "content": "Keep the doors closed during operation; they may be opened for short periods only to carry out checks."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0859",
+      "reading_order": 1247,
+      "section": "Checking the oil level",
+      "bbox": {
+        "l": 140.11,
+        "t": 503.2875226,
+        "r": 530.3888297399998,
+        "b": 480.1187824
+      },
+      "content": "When the motors are stopped and LED (8) (automatic operation) is alight, the motors may start automatically."
+    }
+  ],
+  "page_stats": {
+    "block_count": 19,
+    "text_blocks": 13,
+    "paragraphs": 5,
+    "headings": 3,
+    "list_items": 4,
+    "captions": 1,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 6,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

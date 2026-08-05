@@ -1,0 +1,328 @@
+{
+  "page": 299,
+  "document_id": "doc_229deb31",
+  "page_bbox": {
+    "width": 595.219970703125,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0588",
+      "reading_order": 3249,
+      "section": "Check the IPM module method:",
+      "bbox": {
+        "l": 55.282732797866416,
+        "t": 813.1925582885742,
+        "r": 88.0110411643982,
+        "b": 802.8154830932617
+      },
+      "image_path": "figures/figure_0588.png",
+      "next_block_id": "txt_2485",
+      "width": 32,
+      "height": 10,
+      "image_hash": "76d48daf3b421bbf9f98e4b4857692e9ebd340039165c55370f8ecb75677db4a"
+    },
+    {
+      "type": "table",
+      "id": "tbl_0179",
+      "reading_order": 3250,
+      "section": "Check the IPM module method:",
+      "bbox": {
+        "l": 82.56758507271962,
+        "t": 792.0341186523438,
+        "r": 498.2208361521363,
+        "b": 765.065299987793
+      },
+      "markdown": "| resistance Normal       | k Several Ω to several MΩ (   |\n|-------------------------|-------------------------------|\n| Unacceptable resistance | Short (0 Ω) or open           |",
+      "rows": 2,
+      "cols": 2
+    },
+    {
+      "type": "heading",
+      "id": "txt_2485",
+      "reading_order": 3251,
+      "section": "7.3.4 The IPM and outdoor PCB don't communicate or Related Abnormality",
+      "bbox": {
+        "l": 56.6623,
+        "t": 751.0786400000001,
+        "r": 552.5648103499999,
+        "b": 737.1979
+      },
+      "content": "7.3.4 The IPM and outdoor PCB don't communicate or Related Abnormality",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "heading",
+      "id": "txt_2486",
+      "reading_order": 3252,
+      "section": "outdoor display",
+      "bbox": {
+        "l": 56.6623,
+        "t": 722.9315944,
+        "r": 149.39138348,
+        "b": 713.659186
+      },
+      "content": "outdoor display",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_2487",
+      "reading_order": 3253,
+      "section": "outdoor display",
+      "bbox": {
+        "l": 151.5814402,
+        "t": 722.9315944,
+        "r": 357.34946979999995,
+        "b": 713.659186
+      },
+      "content": "LED1 flash    4 times          Indoor Display      F3"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_2488",
+      "reading_order": 3254,
+      "section": "outdoor display",
+      "bbox": {
+        "l": 56.65708440000003,
+        "t": 687.8546542,
+        "r": 145.59760997999996,
+        "b": 655.54942312
+      },
+      "content": "Method of Malfunction Detection"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_2489",
+      "reading_order": 3255,
+      "section": "outdoor display",
+      "bbox": {
+        "l": 139.28468140000004,
+        "t": 687.8546542,
+        "r": 486.77601650000037,
+        "b": 678.5822458
+      },
+      "content": "Communication is detected by checking the IPM module and the outdoor PCB"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_2490",
+      "reading_order": 3256,
+      "section": "outdoor display",
+      "bbox": {
+        "l": 56.65708440000003,
+        "t": 641.32038172,
+        "r": 149.10289009999997,
+        "b": 609.0257956
+      },
+      "content": "Malfunction Decision                 ■ Conditions"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2491",
+      "reading_order": 3257,
+      "section": "outdoor display",
+      "bbox": {
+        "l": 142.6473,
+        "t": 641.3258944,
+        "r": 398.36116948000034,
+        "b": 632.053486
+      },
+      "content": "■ The outdoor PCB broken leads to communication fault"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2492",
+      "reading_order": 3258,
+      "section": "outdoor display",
+      "bbox": {
+        "l": 159.0738,
+        "t": 629.8736944000001,
+        "r": 395.0854426000005,
+        "b": 620.6012860000001
+      },
+      "content": "The IPM module broken leads to communication fault"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_2493",
+      "reading_order": 3259,
+      "section": "outdoor display",
+      "bbox": {
+        "l": 56.65761920000001,
+        "t": 594.540988,
+        "r": 152.75522914000004,
+        "b": 572.8690524000001
+      },
+      "content": "Supposed               ■ Causes"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2494",
+      "reading_order": 3260,
+      "section": "outdoor display",
+      "bbox": {
+        "l": 163.2115,
+        "t": 594.1975944000001,
+        "r": 283.67663087999995,
+        "b": 584.925186
+      },
+      "content": "The outdoor PCB is broken"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2495",
+      "reading_order": 3261,
+      "section": "outdoor display",
+      "bbox": {
+        "l": 144.2008,
+        "t": 582.4890879999999,
+        "r": 310.31248559999995,
+        "b": 572.77257
+      },
+      "content": "■ The IPM module is broken"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2496",
+      "reading_order": 3262,
+      "section": "outdoor display",
+      "bbox": {
+        "l": 145.8822,
+        "t": 570.057641,
+        "r": 326.6782803999997,
+        "b": 559.5374178045213
+      },
+      "content": "Ƶ Communication wiring disconnected"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_2497",
+      "reading_order": 3263,
+      "section": "outdoor display",
+      "bbox": {
+        "l": 56.66470600000001,
+        "t": 543.7103907400001,
+        "r": 135.00727886000004,
+        "b": 534.4379823400001
+      },
+      "content": "Troubleshooting"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_2498",
+      "reading_order": 3264,
+      "section": "outdoor display",
+      "bbox": {
+        "l": 155.7759,
+        "t": 543.7123944000001,
+        "r": 206.71615400000005,
+        "b": 534.4399860000001
+      },
+      "content": "* Caution"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_2499",
+      "reading_order": 3265,
+      "section": "outdoor display",
+      "bbox": {
+        "l": 208.9602,
+        "t": 543.7123944000001,
+        "r": 552.4617882600008,
+        "b": 534.4399860000001
+      },
+      "content": "Be sure to turn off power switch before connect or disconnect connector,      or"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_2500",
+      "reading_order": 3266,
+      "section": "outdoor display",
+      "bbox": {
+        "l": 202.72434379999999,
+        "t": 528.2416914000001,
+        "r": 367.44103208000024,
+        "b": 518.9692830000001
+      },
+      "content": "else parts damage may be occurred."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2501",
+      "reading_order": 3267,
+      "section": "outdoor display",
+      "bbox": {
+        "l": 64.2768,
+        "t": 488.0080944,
+        "r": 348.76496774000066,
+        "b": 463.14482219999996
+      },
+      "content": "Check  whether  Terminal  CN23  and  CN22  on  the  outdoor mainboard CN10 and CN11 on IPM module"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2502",
+      "reading_order": 3268,
+      "section": "outdoor display",
+      "bbox": {
+        "l": 64.2768,
+        "t": 456.82636679999996,
+        "r": 345.74613270000066,
+        "b": 447.55395839999994
+      },
+      "content": "Check whether the connected wire between IPM and outdoor"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0589",
+      "reading_order": 3269,
+      "section": "outdoor display",
+      "bbox": {
+        "l": 29.528093858914715,
+        "t": 443.8477478027344,
+        "r": 533.970101190039,
+        "b": 63.40478515625
+      },
+      "image_path": "figures/figure_0589.png",
+      "previous_block_id": "txt_2502",
+      "image_hash": "fb7fc23d16415cb421e16735e748fadc42b4f4ff952ce98cc3365864905dd94b",
+      "width": 504,
+      "height": 381
+    },
+    {
+      "type": "figure",
+      "id": "fig_0590",
+      "reading_order": 3270,
+      "section": "outdoor display",
+      "bbox": {
+        "l": 55.61324968923415,
+        "t": 62.22662353515625,
+        "r": 88.01792542242578,
+        "b": 52.01947021484375
+      },
+      "image_path": "figures/figure_0590.png",
+      "previous_block_id": "txt_2502",
+      "width": 32,
+      "height": 10,
+      "decorative": true,
+      "image_hash": "94999f07086a3008817d2cc3bb1f30a0eab22bdc27921adef7de776233c7e95e"
+    }
+  ],
+  "page_stats": {
+    "block_count": 22,
+    "text_blocks": 18,
+    "paragraphs": 9,
+    "headings": 2,
+    "list_items": 7,
+    "captions": 0,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 3,
+    "tables": 1,
+    "toc_tables": 0
+  }
+}

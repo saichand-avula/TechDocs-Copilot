@@ -1,0 +1,449 @@
+{
+  "page": 37,
+  "document_id": "doc_16216d0c",
+  "page_bbox": {
+    "width": 612.0,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0634",
+      "reading_order": 712,
+      "section": "For Service Technician Use Only",
+      "bbox": {
+        "l": 184.0444,
+        "t": 731.505,
+        "r": 445.56639999999993,
+        "b": 716.7313010526316
+      },
+      "content": "For Service Technician Use Only",
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "id": "fig_0065",
+      "reading_order": 713,
+      "section": "For Service Technician Use Only",
+      "bbox": {
+        "l": 53.651668548583984,
+        "t": 708.5094451904297,
+        "r": 309.2828674316406,
+        "b": 539.5996704101562
+      },
+      "image_path": "figures/figure_0065.png",
+      "previous_block_id": "txt_0634",
+      "next_block_id": "txt_0635"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0635",
+      "reading_order": 714,
+      "section": "Overflow Switch",
+      "bbox": {
+        "l": 54.625,
+        "t": 486.992,
+        "r": 163.457,
+        "b": 474.8193613445378
+      },
+      "content": "Overflow Switch",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0636",
+      "reading_order": 715,
+      "section": "Overflow Switch",
+      "bbox": {
+        "l": 54.625,
+        "t": 457.2,
+        "r": 311.8349999999999,
+        "b": 439.5921008403361
+      },
+      "content": "The overflow switch is located under the tub and is attached to the drip pan (see Figure 1)."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0066",
+      "reading_order": 716,
+      "section": "Overflow Switch",
+      "bbox": {
+        "l": 53.32114791870117,
+        "t": 436.9131774902344,
+        "r": 310.8587341308594,
+        "b": 275.72601318359375
+      },
+      "image_path": "figures/figure_0066.png",
+      "previous_block_id": "txt_0636",
+      "next_block_id": "txt_0637"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0637",
+      "reading_order": 717,
+      "section": "Overflow Switch",
+      "bbox": {
+        "l": 114.5723,
+        "t": 268.568,
+        "r": 249.6803,
+        "b": 261.72089075630254
+      },
+      "content": "Figure 1 - Overflow Switch Assembly"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0638",
+      "reading_order": 718,
+      "section": "Overflow Switch",
+      "bbox": {
+        "l": 54.625,
+        "t": 250.20000000000005,
+        "r": 308.27500000000003,
+        "b": 232.59210084033612
+      },
+      "content": "The overflow switch is a normally closed switch that is used to detect a possible overflow condition.  If water drips onto the"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0639",
+      "reading_order": 719,
+      "section": "Overflow Switch",
+      "bbox": {
+        "l": 20.9993,
+        "t": 217.95608000000004,
+        "r": 118.00529999999999,
+        "b": 207.14100652840398
+      },
+      "content": "OVERFLOW SWITCH"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0640",
+      "reading_order": 720,
+      "section": "STRIP CIRCUIT - OVERFLOW SWITCH",
+      "bbox": {
+        "l": 54.625,
+        "t": 206.8139,
+        "r": 232.62099999999998,
+        "b": 197.68442100840332
+      },
+      "content": "STRIP CIRCUIT - OVERFLOW SWITCH",
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "id": "fig_0067",
+      "reading_order": 721,
+      "section": "STRIP CIRCUIT - OVERFLOW SWITCH",
+      "bbox": {
+        "l": 84.45047760009766,
+        "t": 184.2445068359375,
+        "r": 545.2740478515625,
+        "b": 73.792724609375
+      },
+      "image_path": "figures/figure_0067.png",
+      "previous_block_id": "txt_0640",
+      "next_block_id": "txt_0641"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0641",
+      "reading_order": 722,
+      "section": "STRIP CIRCUIT - OVERFLOW SWITCH",
+      "bbox": {
+        "l": 266.3079,
+        "t": 61.93799999999999,
+        "r": 363.32789999999994,
+        "b": 55.09089075630254
+      },
+      "content": "Figure 2 - Overflow Circuit"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0642",
+      "reading_order": 723,
+      "section": "STRIP CIRCUIT - OVERFLOW SWITCH",
+      "bbox": {
+        "l": 321.0,
+        "t": 706.82,
+        "r": 577.5300000000003,
+        "b": 669.2121008403361
+      },
+      "content": "drip pan, the water will lift the foam float and open the switch. This will signal the control to shut off the water inlet valve and activate the drain pump. An 'E4' Overflow Error Code will be generated."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0643",
+      "reading_order": 724,
+      "section": "STRIP CIRCUIT - OVERFLOW SWITCH",
+      "bbox": {
+        "l": 321.0,
+        "t": 663.82,
+        "r": 556.06,
+        "b": 646.2121008403361
+      },
+      "content": "NOTE : If the overflow switch is disconnected or open, the dishwasher will not start a cycle or perform diagnostics."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0644",
+      "reading_order": 725,
+      "section": "Test Procedure",
+      "bbox": {
+        "l": 321.0,
+        "t": 624.084,
+        "r": 394.53600000000006,
+        "b": 614.9545210084034
+      },
+      "content": "Test Procedure",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0645",
+      "reading_order": 726,
+      "section": "Test Procedure",
+      "bbox": {
+        "l": 321.0,
+        "t": 609.82,
+        "r": 563.5000000000002,
+        "b": 582.2121008403361
+      },
+      "content": "This test will check the wiring to the Overflow Switch, the switch itself, and the control board. The following items are part of the Overflow circuit."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0646",
+      "reading_order": 727,
+      "section": "Test Procedure",
+      "bbox": {
+        "l": 321.0,
+        "t": 578.04,
+        "r": 416.8200000000001,
+        "b": 568.7303225806452
+      },
+      "content": "  Harness/Connection"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0647",
+      "reading_order": 728,
+      "section": "Test Procedure",
+      "bbox": {
+        "l": 321.0,
+        "t": 565.04,
+        "r": 400.09999999999997,
+        "b": 555.7303225806452
+      },
+      "content": "  Overflow Switch"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0648",
+      "reading_order": 729,
+      "section": "Test Procedure",
+      "bbox": {
+        "l": 321.0,
+        "t": 552.04,
+        "r": 390.37,
+        "b": 542.7303225806452
+      },
+      "content": "  Control Board"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0649",
+      "reading_order": 730,
+      "section": "Test Procedure",
+      "bbox": {
+        "l": 327.0,
+        "t": 524.82,
+        "r": 503.5500000000002,
+        "b": 517.2121008403361
+      },
+      "content": "Unplug dishwasher or disconnect power."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0650",
+      "reading_order": 731,
+      "section": "Test Procedure",
+      "bbox": {
+        "l": 327.0,
+        "t": 511.82,
+        "r": 557.4100000000001,
+        "b": 494.2121008403361
+      },
+      "content": "Remove access panel. Remove control board cover to access control board."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0651",
+      "reading_order": 732,
+      "section": "Test Procedure",
+      "bbox": {
+        "l": 327.0,
+        "t": 488.82,
+        "r": 569.5000000000001,
+        "b": 461.2121008403361
+      },
+      "content": "Lay the dishwasher on its back. Use a small flat-blade screwdriver to unclip snaps around the drip-pan. Pull away drip-pan but keep float switch harness connected."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0652",
+      "reading_order": 733,
+      "section": "Test Procedure",
+      "bbox": {
+        "l": 327.0,
+        "t": 455.82,
+        "r": 506.45959999999997,
+        "b": 448.2121008403361
+      },
+      "content": "Disconnect CN4 from the Control Board."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0653",
+      "reading_order": 734,
+      "section": "Test Procedure",
+      "bbox": {
+        "l": 327.0,
+        "t": 442.82,
+        "r": 575.0800000000002,
+        "b": 415.2121008403361
+      },
+      "content": "Check the overflow switch-using an ohmmeter, measure the resistance between CN4-2 and CN4-3 with the overflow switch closed/float down (normal position)."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0654",
+      "reading_order": 735,
+      "section": "Test Procedure",
+      "bbox": {
+        "l": 335.0,
+        "t": 411.04,
+        "r": 523.0200000000002,
+        "b": 401.7303225806452
+      },
+      "content": "¾ ¾ If 3 ohms or less is measured, go to step 6."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0655",
+      "reading_order": 736,
+      "section": "Test Procedure",
+      "bbox": {
+        "l": 335.0,
+        "t": 398.04,
+        "r": 574.5000000000002,
+        "b": 359.2121008403361
+      },
+      "content": "¾ ¾ If an open circuit or high resistance is measured, check connections and harness continuity between the control board and overflow switch. If harness is good, replace switch and retest."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0656",
+      "reading_order": 737,
+      "section": "Test Procedure",
+      "bbox": {
+        "l": 327.0,
+        "t": 353.82,
+        "r": 572.0399999999998,
+        "b": 336.2121008403361
+      },
+      "content": "Using an ohmmeter; measure the resistance between CN4-2 and CN4-3 with the overflow switch open/float up."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0657",
+      "reading_order": 738,
+      "section": "Test Procedure",
+      "bbox": {
+        "l": 335.0,
+        "t": 332.04,
+        "r": 483.5700000000001,
+        "b": 322.7303225806452
+      },
+      "content": "¾ ¾ If reading is infinite, go to step 7."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0658",
+      "reading_order": 739,
+      "section": "Test Procedure",
+      "bbox": {
+        "l": 335.0,
+        "t": 319.04,
+        "r": 572.5900000000001,
+        "b": 300.2121008403361
+      },
+      "content": "¾ ¾ If 3 ohms or less is measured, or float/overflow switch is damaged, replace switch and retest."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0659",
+      "reading_order": 740,
+      "section": "Test Procedure",
+      "bbox": {
+        "l": 327.0,
+        "t": 294.82,
+        "r": 573.0500000000002,
+        "b": 277.2121008403361
+      },
+      "content": "If the preceding steps did not correct the overflow switch problem, replace the control board and retest."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0660",
+      "reading_order": 741,
+      "section": "Test Procedure",
+      "bbox": {
+        "l": 327.0,
+        "t": 271.81999999999994,
+        "r": 505.8100000000002,
+        "b": 264.2121008403361
+      },
+      "content": "Unplug dishwasher or disconnect power."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0661",
+      "reading_order": 742,
+      "section": "Test Procedure",
+      "bbox": {
+        "l": 327.0,
+        "t": 258.81999999999994,
+        "r": 473.07000000000033,
+        "b": 251.21210084033612
+      },
+      "content": "Reassemble all parts and panels."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0662",
+      "reading_order": 743,
+      "section": "Test Procedure",
+      "bbox": {
+        "l": 322.0,
+        "t": 245.81999999999994,
+        "r": 564.4600000000003,
+        "b": 228.21210084033612
+      },
+      "content": "Plug in dishwasher or reconnect power and run Service Mode Test on page 2-3 to verify repair."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0663",
+      "reading_order": 744,
+      "section": "Test Procedure",
+      "bbox": {
+        "l": 539.6313,
+        "t": 44.86829999999998,
+        "r": 555.8369,
+        "b": 32.765719354838666
+      },
+      "content": "n"
+    }
+  ]
+}

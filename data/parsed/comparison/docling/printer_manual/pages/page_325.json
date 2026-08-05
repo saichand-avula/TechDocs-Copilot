@@ -1,0 +1,176 @@
+{
+  "page": 325,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_2696",
+      "reading_order": 3624,
+      "section": "Post service test",
+      "bbox": {
+        "l": 122.0,
+        "t": 732.29,
+        "r": 542.0400000000002,
+        "b": 708.7
+      },
+      "content": "M506/E50045/M507/E50145/M527/E52545/M528/E52645: Slide the cover toward the rear of the printer to remove it."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2697",
+      "reading_order": 3625,
+      "section": "Post service test",
+      "bbox": {
+        "l": 100.0,
+        "t": 459.0623,
+        "r": 395.6900000000001,
+        "b": 447.47229999999996
+      },
+      "content": "Remove the wireless PCA (WiFi) (M527z/E52545z/M528z/E52645z)."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2698",
+      "reading_order": 3626,
+      "section": "Post service test",
+      "bbox": {
+        "l": 121.99998,
+        "t": 439.6423,
+        "r": 521.8299800000002,
+        "b": 414.47229999999996
+      },
+      "content": "▲ Disconnect one connector (callout 1) release one tab (callout 2), and then remove the WiFi PCA (callout 3)."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2699",
+      "reading_order": 3627,
+      "section": "Post service test",
+      "bbox": {
+        "l": 100.0,
+        "t": 164.19233999999994,
+        "r": 262.63999999999993,
+        "b": 152.60234000000003
+      },
+      "content": "Unpack the replacement assembly."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2700",
+      "reading_order": 3628,
+      "section": "Post service test",
+      "bbox": {
+        "l": 122.0,
+        "t": 143.19233999999994,
+        "r": 261.1099999999999,
+        "b": 131.60234000000003
+      },
+      "content": "Dispose of the defective part."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0896",
+      "reading_order": 3629,
+      "section": "Post service test",
+      "bbox": {
+        "l": 142.44371641380008,
+        "t": 664.5293884277344,
+        "r": 340.55513559160363,
+        "b": 471.9811096191406
+      },
+      "image_path": "figures/figure_0896.png",
+      "caption": "Remove the formatter cover (M506/E50045/M507/E50145/M527/E52545/M528/ E52645)",
+      "figure_number": "Figure 1-499",
+      "image_hash": "09ef64a11a9f73fe461fa9a4bfc3ee44beeb84258ebbff2a4cd7060ad5908949",
+      "width": 199,
+      "height": 193,
+      "previous_block_id": "txt_2700",
+      "next_block_id": "txt_2701",
+      "caption_id": "txt_2701"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0897",
+      "reading_order": 3630,
+      "section": "Post service test",
+      "bbox": {
+        "l": 367.590748247642,
+        "t": 665.7740478515625,
+        "r": 575.7863789585521,
+        "b": 478.6764221191406
+      },
+      "image_path": "figures/figure_0897.png",
+      "image_hash": "54af5da7170c9febc66c7cabb94c95bb9e889779b9ab67f930c2d07dd9772812",
+      "width": 208,
+      "height": 187,
+      "previous_block_id": "txt_2700",
+      "next_block_id": "txt_2701"
+    },
+    {
+      "type": "caption",
+      "id": "txt_2701",
+      "reading_order": 3631,
+      "section": "Post service test",
+      "bbox": {
+        "l": 143.99996000000002,
+        "t": 699.29,
+        "r": 530.3799900000001,
+        "b": 675.7
+      },
+      "content": "Figure 1-499  Remove the formatter cover (M506/E50045/M507/E50145/M527/E52545/M528/ E52645)",
+      "caption_for": "fig_0896"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0898",
+      "reading_order": 3632,
+      "section": "Post service test",
+      "bbox": {
+        "l": 144.7780819738096,
+        "t": 392.5121765136719,
+        "r": 434.8132532137658,
+        "b": 175.28375244140625
+      },
+      "image_path": "figures/figure_0898.png",
+      "caption": "Remove the WiFi PCA",
+      "figure_number": "Figure 1-500",
+      "image_hash": "2461f76cf81b02225c517f03adc29723362b8621217c71c6591d45a3d99336d8",
+      "width": 290,
+      "height": 218,
+      "previous_block_id": "txt_2701",
+      "next_block_id": "txt_2702",
+      "caption_id": "txt_2702"
+    },
+    {
+      "type": "caption",
+      "id": "txt_2702",
+      "reading_order": 3633,
+      "section": "Post service test",
+      "bbox": {
+        "l": 144.00001,
+        "t": 405.0623,
+        "r": 285.64000999999996,
+        "b": 393.47229999999996
+      },
+      "content": "Figure 1-500  Remove the WiFi PCA",
+      "caption_for": "fig_0898"
+    }
+  ],
+  "page_stats": {
+    "block_count": 10,
+    "text_blocks": 7,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 5,
+    "captions": 2,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 3,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

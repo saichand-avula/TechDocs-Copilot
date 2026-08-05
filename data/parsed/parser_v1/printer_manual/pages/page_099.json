@@ -1,0 +1,119 @@
+{
+  "page": 99,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_0944",
+      "reading_order": 1207,
+      "section": "Post service test",
+      "bbox": {
+        "l": 122.0,
+        "t": 732.29,
+        "r": 288.17999999999995,
+        "b": 720.7
+      },
+      "content": "Disconnect one flat cable (callout 1)."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0945",
+      "reading_order": 1208,
+      "section": "Post service test",
+      "bbox": {
+        "l": 122.0,
+        "t": 470.42,
+        "r": 412.45000000000016,
+        "b": 458.83
+      },
+      "content": "Locate two tabs (callout 1) along the rear edge of the control panel."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0248",
+      "reading_order": 1209,
+      "section": "Post service test",
+      "bbox": {
+        "l": 142.98618565230873,
+        "t": 698.5552825927734,
+        "r": 432.7843926390398,
+        "b": 481.6146545410156
+      },
+      "image_path": "figures/figure_0248.png",
+      "caption": "Disconnect one flat cable",
+      "figure_number": "Figure 1-113",
+      "image_hash": "02fbbcaeac87dc22664b64a3ba3a15ebe4b06c639b98acf0ffaa3bddb4390b59",
+      "width": 290,
+      "height": 217,
+      "previous_block_id": "txt_0945",
+      "next_block_id": "txt_0946",
+      "caption_id": "txt_0946"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0946",
+      "reading_order": 1210,
+      "section": "Post service test",
+      "bbox": {
+        "l": 143.99999,
+        "t": 711.29,
+        "r": 300.76000999999997,
+        "b": 699.7
+      },
+      "content": "Figure 1-113  Disconnect one flat cable",
+      "caption_for": "fig_0248"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0249",
+      "reading_order": 1211,
+      "section": "Post service test",
+      "bbox": {
+        "l": 142.84536754392056,
+        "t": 437.59954833984375,
+        "r": 432.8512861972972,
+        "b": 219.6712646484375
+      },
+      "image_path": "figures/figure_0249.png",
+      "caption": "Locate two tabs",
+      "figure_number": "Figure 1-114",
+      "image_hash": "f8f7b23cdef142e565d90cf8d472e046f1406a98d65fe5c62fb452c199bd21d4",
+      "width": 290,
+      "height": 218,
+      "previous_block_id": "txt_0946",
+      "next_block_id": "txt_0947",
+      "caption_id": "txt_0947"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0947",
+      "reading_order": 1212,
+      "section": "Post service test",
+      "bbox": {
+        "l": 144.00004,
+        "t": 449.42,
+        "r": 264.4700399999999,
+        "b": 437.83
+      },
+      "content": "Figure 1-114  Locate two tabs",
+      "caption_for": "fig_0249"
+    }
+  ],
+  "page_stats": {
+    "block_count": 6,
+    "text_blocks": 4,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 2,
+    "captions": 2,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 2,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

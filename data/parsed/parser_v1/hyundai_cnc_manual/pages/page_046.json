@@ -1,0 +1,99 @@
+{
+  "page": 46,
+  "document_id": "doc_caa693b1",
+  "page_bbox": {
+    "width": 595.0,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0267",
+      "reading_order": 344,
+      "section": "4-2. SUPER KIA TURN 200",
+      "bbox": {
+        "l": 70.92,
+        "t": 741.9146599999999,
+        "r": 206.59080000000006,
+        "b": 733.0429409281768
+      },
+      "content": "4-2. SUPER KIA TURN 200",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0268",
+      "reading_order": 345,
+      "section": "4-2. SUPER KIA TURN 200",
+      "bbox": {
+        "l": 99.299646,
+        "t": 707.8947559999999,
+        "r": 221.91238200000006,
+        "b": 699.0230369281768
+      },
+      "content": "The Head Stock is A2-6"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0065",
+      "reading_order": 346,
+      "section": "4-2. SUPER KIA TURN 200",
+      "bbox": {
+        "l": 71.87838745117188,
+        "t": 680.3571319580078,
+        "r": 511.1571960449219,
+        "b": 430.87353515625
+      },
+      "image_path": "figures/figure_0065.png",
+      "previous_block_id": "txt_0268",
+      "next_block_id": "txt_0269",
+      "image_hash": "ba4c503484de52cf2221f158f0784649fb1b611bcba5393bb8f734645c5896f4",
+      "width": 439,
+      "height": 249
+    },
+    {
+      "type": "caption",
+      "id": "txt_0269",
+      "reading_order": 347,
+      "section": "4-2. SUPER KIA TURN 200",
+      "bbox": {
+        "l": 193.55979,
+        "t": 418.87587200000013,
+        "r": 397.48382399999986,
+        "b": 410.0041529281769
+      },
+      "content": "Fig. 3-4  Head Stock (SUPER KIATURN 200)",
+      "caption_for": "tbl_0015"
+    },
+    {
+      "type": "table",
+      "id": "tbl_0015",
+      "reading_order": 348,
+      "section": "4-2. SUPER KIA TURN 200",
+      "bbox": {
+        "l": 64.24382019042969,
+        "t": 392.01123046875,
+        "r": 523.7836303710938,
+        "b": 268.10357666015625
+      },
+      "markdown": "|   No. | Part Name    |   No. | Part Name      |\n|-------|--------------|-------|----------------|\n|     1 | Spindle      |     7 | Collar \"B\"     |\n|     2 | Head Body    |     8 | Rear Flange    |\n|     3 | Bearing      |     9 | O-Ring         |\n|     4 | Labyrinth    |    10 | Hex. Bolt      |\n|     5 | Front Flange |    11 | Spindle Pulley |\n|     6 | Collar \"A\"   |    12 | Key            |",
+      "caption_id": "txt_0269",
+      "rows": 7,
+      "cols": 4
+    }
+  ],
+  "page_stats": {
+    "block_count": 5,
+    "text_blocks": 3,
+    "paragraphs": 0,
+    "headings": 1,
+    "list_items": 1,
+    "captions": 1,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 1,
+    "tables": 1,
+    "toc_tables": 0
+  }
+}

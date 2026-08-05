@@ -1,0 +1,201 @@
+{
+  "page": 80,
+  "document_id": "doc_e02482e6",
+  "page_bbox": {
+    "width": 595.0,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0230",
+      "reading_order": 831,
+      "section": "Overflow warning",
+      "bbox": {
+        "l": 26.53293800354004,
+        "t": 816.0592708587646,
+        "r": 74.04412841796875,
+        "b": 792.7211112976074
+      },
+      "image_path": "figures/figure_0230.png",
+      "next_block_id": "txt_0536",
+      "width": 47,
+      "height": 23,
+      "decorative": true,
+      "image_hash": "7577891dcf1743bd2e7a735ef2621e01244d960bde43e28868c27d7c1437ddb9"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0231",
+      "reading_order": 832,
+      "section": "Overflow warning",
+      "bbox": {
+        "l": 203.90501403808594,
+        "t": 770.6035385131836,
+        "r": 350.1257019042969,
+        "b": 651.4789886474609
+      },
+      "image_path": "figures/figure_0231.png",
+      "next_block_id": "txt_0536",
+      "image_hash": "58027b7201e3096b700387d9a2110e137d589cf01a7b2df462fce0ccd4d33796",
+      "width": 146,
+      "height": 120
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0536",
+      "reading_order": 833,
+      "section": "Overflow warning",
+      "bbox": {
+        "l": 62.23,
+        "t": 643.6210000000001,
+        "r": 531.7270000000001,
+        "b": 605.044
+      },
+      "content": "In this display you can see that an overflow warning is issued (blinking 'Yes'), indicating that the water level in the OSCi is too high. By fixing the problem (see section Problem solving, fault 2 or 3), this warning will disappear automatically."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0232",
+      "reading_order": 834,
+      "section": "Overflow warning",
+      "bbox": {
+        "l": 199.04612731933594,
+        "t": 577.5741882324219,
+        "r": 354.2695617675781,
+        "b": 453.2531433105469
+      },
+      "image_path": "figures/figure_0232.png",
+      "previous_block_id": "txt_0536",
+      "next_block_id": "txt_0537",
+      "image_hash": "c87b5047023b28d8861f35ab3551f7116af35acbac0eaff86047ea8fe313535c",
+      "width": 155,
+      "height": 125
+    },
+    {
+      "type": "table",
+      "id": "tbl_0068",
+      "reading_order": 835,
+      "section": "Overflow warning",
+      "bbox": {
+        "l": 61.87443161010742,
+        "t": 416.9009094238281,
+        "r": 539.2405395507812,
+        "b": 364.5228271484375
+      },
+      "markdown": "| Reference   | Description   | Reference   | Description   |\n|-------------|---------------|-------------|---------------|\n| (1)         | Protections   | (3)         | Reset         |\n| (2)         | OSCi overflow | (4)         | Warning       |",
+      "rows": 3,
+      "cols": 4
+    },
+    {
+      "type": "heading",
+      "id": "txt_0537",
+      "reading_order": 836,
+      "section": "4.8    Maintenance",
+      "bbox": {
+        "l": 28.21,
+        "t": 331.14000000000004,
+        "r": 163.21800000000002,
+        "b": 313.2840000000001
+      },
+      "content": "4.8    Maintenance",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0538",
+      "reading_order": 837,
+      "section": "Oleophilic filter",
+      "bbox": {
+        "l": 28.21,
+        "t": 291.03499999999997,
+        "r": 110.7199000000001,
+        "b": 278.759
+      },
+      "content": "Oleophilic filter",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0539",
+      "reading_order": 838,
+      "section": "Oleophilic filter",
+      "bbox": {
+        "l": 62.2297,
+        "t": 271.741,
+        "r": 534.8215999999995,
+        "b": 193.56400000000008
+      },
+      "content": "Initially, the oleophilic filter (3 - Condensate flow scheme) will float almost completely on the condensate and only the bottom part will act as filtration medium. By absorbing more and more oil, the filter will sink and new filter material will be exposed to the condensate. When the top of the filter reaches the surface of the condensate in the first vessel, the filter is saturated and needs to be replaced. This is automatically transmitted to the Elektronikon® regulator via the level sensor (1 - View of OSCi inlet), but the customer can also check this visually through the sight-glass."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0540",
+      "reading_order": 839,
+      "section": "Quality check of the condensate",
+      "bbox": {
+        "l": 28.21,
+        "t": 172.35490000000004,
+        "r": 199.2226000000001,
+        "b": 160.0789000000001
+      },
+      "content": "Quality check of the condensate",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0541",
+      "reading_order": 840,
+      "section": "Quality check of the condensate",
+      "bbox": {
+        "l": 60.78980000000001,
+        "t": 153.06090000000006,
+        "r": 396.49769999999984,
+        "b": 140.88390000000004
+      },
+      "content": "Every week, a test sample should be collected during compressor operation."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0542",
+      "reading_order": 841,
+      "section": "Quality check of the condensate",
+      "bbox": {
+        "l": 62.22970000000001,
+        "t": 133.92090000000007,
+        "r": 518.9199999999987,
+        "b": 95.34390000000008
+      },
+      "content": "Open the condensate sample valve at the side of the compressor (drain plate) for 5 seconds and dispose of the collected condensate according to local regulations for oil-containing water (this is the water that remains in the test outlet tube between the OSCi and the compressor back panel)."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0543",
+      "reading_order": 842,
+      "section": "Quality check of the condensate",
+      "bbox": {
+        "l": 62.22970000000001,
+        "t": 88.38090000000011,
+        "r": 372.6364999999997,
+        "b": 76.20390000000009
+      },
+      "content": "Re-open the test valve and collect the condensate in the test bottle."
+    }
+  ],
+  "page_stats": {
+    "block_count": 12,
+    "text_blocks": 8,
+    "paragraphs": 3,
+    "headings": 3,
+    "list_items": 2,
+    "captions": 0,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 3,
+    "tables": 1,
+    "toc_tables": 0
+  }
+}

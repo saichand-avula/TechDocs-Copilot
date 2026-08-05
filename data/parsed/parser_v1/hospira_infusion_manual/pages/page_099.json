@@ -1,0 +1,83 @@
+{
+  "page": 99,
+  "document_id": "doc_37f23c38",
+  "page_bbox": {
+    "width": 612.0,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0038",
+      "reading_order": 945,
+      "section": "7.2.6 PERIPHERAL ASSEMBLY REPLACEMENT",
+      "bbox": {
+        "l": 123.00228118896484,
+        "t": 595.6514739990234,
+        "r": 534.2101440429688,
+        "b": 266.15216064453125
+      },
+      "image_path": "figures/figure_0038.png",
+      "next_block_id": "txt_0870",
+      "caption_id": "txt_0872",
+      "caption": ". Rear View",
+      "figure_number": "Figure 7-4",
+      "image_hash": "e30bda063f270c2e0aef03e42246594cba4a8d9aac6810eaf08e0b4e880210aa",
+      "width": 411,
+      "height": 330
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0870",
+      "reading_order": 946,
+      "section": "7.2.6 PERIPHERAL ASSEMBLY REPLACEMENT",
+      "bbox": {
+        "l": 506.3692,
+        "t": 253.70914300000004,
+        "r": 533.7325120799998,
+        "b": 248.1649582
+      },
+      "content": "05K01038"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0871",
+      "reading_order": 947,
+      "section": "7.2.6 PERIPHERAL ASSEMBLY REPLACEMENT",
+      "bbox": {
+        "l": 240.16715747,
+        "t": 271.9740034,
+        "r": 272.04353654,
+        "b": 264.5808022
+      },
+      "content": "SCREW"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0872",
+      "reading_order": 948,
+      "section": "7.2.6 PERIPHERAL ASSEMBLY REPLACEMENT",
+      "bbox": {
+        "l": 267.84,
+        "t": 229.45128,
+        "r": 379.9477680000002,
+        "b": 220.23828000000003
+      },
+      "content": "Figure 7-4. Rear View",
+      "caption_for": "fig_0038"
+    }
+  ],
+  "page_stats": {
+    "block_count": 4,
+    "text_blocks": 3,
+    "paragraphs": 2,
+    "headings": 0,
+    "list_items": 0,
+    "captions": 1,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 1,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

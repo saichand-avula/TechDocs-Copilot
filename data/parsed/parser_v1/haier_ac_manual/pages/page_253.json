@@ -1,0 +1,56 @@
+{
+  "page": 253,
+  "document_id": "doc_229deb31",
+  "page_bbox": {
+    "width": 595.219970703125,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0508",
+      "reading_order": 2660,
+      "section": "Note: Other designations",
+      "bbox": {
+        "l": 18.05596822576065,
+        "t": 741.2161483764648,
+        "r": 556.0041230342217,
+        "b": 325.2972412109375
+      },
+      "image_path": "figures/figure_0508.png",
+      "next_block_id": "txt_2004",
+      "caption_id": "txt_2004",
+      "caption": "PCB(1)",
+      "image_hash": "8bd93b2531eb2ed009f6a69970bb830473ab398cf89d7a7d5a7bc62dfd33209e",
+      "width": 538,
+      "height": 416
+    },
+    {
+      "type": "caption",
+      "id": "txt_2004",
+      "reading_order": 2661,
+      "section": "Note: Other designations",
+      "bbox": {
+        "l": 277.7342,
+        "t": 780.39914,
+        "r": 327.7354743000001,
+        "b": 766.5183999999999
+      },
+      "content": "PCB(1)",
+      "caption_for": "fig_0508"
+    }
+  ],
+  "page_stats": {
+    "block_count": 2,
+    "text_blocks": 1,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 0,
+    "captions": 1,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 1,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

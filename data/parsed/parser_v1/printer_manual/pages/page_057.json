@@ -1,0 +1,232 @@
+{
+  "page": 57,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0581",
+      "reading_order": 730,
+      "section": "After performing service",
+      "bbox": {
+        "l": 100.0,
+        "t": 733.29,
+        "r": 197.32999999999996,
+        "b": 721.7
+      },
+      "content": "After performing service",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0582",
+      "reading_order": 731,
+      "section": "Turn the printer power on",
+      "bbox": {
+        "l": 100.00002,
+        "t": 713.29,
+        "r": 202.35002,
+        "b": 701.7
+      },
+      "content": "Turn the printer power on",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0583",
+      "reading_order": 732,
+      "section": "Turn the printer power on",
+      "bbox": {
+        "l": 100.00002,
+        "t": 692.29,
+        "r": 222.84001999999998,
+        "b": 680.7
+      },
+      "content": "Connect the power cable."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0584",
+      "reading_order": 733,
+      "section": "Turn the printer power on",
+      "bbox": {
+        "l": 100.00001,
+        "t": 671.04086,
+        "r": 294.29002,
+        "b": 659.45086
+      },
+      "content": "Use the power switch to turn the power on."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0585",
+      "reading_order": 734,
+      "section": "Post service test",
+      "bbox": {
+        "l": 100.0,
+        "t": 645.79171,
+        "r": 165.89,
+        "b": 634.20171
+      },
+      "content": "Post service test",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0586",
+      "reading_order": 735,
+      "section": "Post service test",
+      "bbox": {
+        "l": 100.0,
+        "t": 625.79171,
+        "r": 311.99999999999994,
+        "b": 614.20171
+      },
+      "content": "Make sure that the printer initializes to a Ready state."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0587",
+      "reading_order": 736,
+      "section": "Post service test",
+      "bbox": {
+        "l": 100.0,
+        "t": 604.7917,
+        "r": 415.64000000000004,
+        "b": 593.2017000000001
+      },
+      "content": "Print a configuration page to make sure that the printer is functioning correctly."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0588",
+      "reading_order": 737,
+      "section": "Post service test",
+      "bbox": {
+        "l": 100.00002,
+        "t": 583.7917,
+        "r": 227.31001999999998,
+        "b": 572.2017000000001
+      },
+      "content": "Remove the control panel."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0589",
+      "reading_order": 738,
+      "section": "Post service test",
+      "bbox": {
+        "l": 122.00001,
+        "t": 562.7917,
+        "r": 252.71000999999993,
+        "b": 551.2017000000001
+      },
+      "content": "Open the document feeder."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0590",
+      "reading_order": 739,
+      "section": "Post service test",
+      "bbox": {
+        "l": 144.0,
+        "t": 539.29171,
+        "r": 481.59000000000015,
+        "b": 527.70171
+      },
+      "content": "NOTE: If the control panel is not fully tilted forward, tilt it forward now until it stops."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0139",
+      "reading_order": 740,
+      "section": "Post service test",
+      "bbox": {
+        "l": 127.8035670370294,
+        "t": 541.4813079833984,
+        "r": 140.4015564357909,
+        "b": 527.6324768066406
+      },
+      "image_path": "figures/figure_0139.png",
+      "decorative": true,
+      "width": 12,
+      "height": 13,
+      "image_hash": "3198f81f061a752093c4147616809d67515f7b97cb1ca12f36dcd6c3604d0985",
+      "previous_block_id": "txt_0590",
+      "next_block_id": "txt_0591"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0140",
+      "reading_order": 741,
+      "section": "Post service test",
+      "bbox": {
+        "l": 143.8988724542328,
+        "t": 538.9010467529297,
+        "r": 168.21977491829108,
+        "b": 529.1947937011719
+      },
+      "image_path": "figures/figure_0140.png",
+      "decorative": true,
+      "width": 24,
+      "height": 9,
+      "image_hash": "c3e63a78abbad36fa3033d29da991bdd2484437cd4716312b4fff32bd9baee7e",
+      "previous_block_id": "txt_0590",
+      "next_block_id": "txt_0591"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0141",
+      "reading_order": 742,
+      "section": "Post service test",
+      "bbox": {
+        "l": 142.8831915349097,
+        "t": 504.9092102050781,
+        "r": 468.7215460389665,
+        "b": 287.0399169921875
+      },
+      "image_path": "figures/figure_0141.png",
+      "caption": "Open the document feeder",
+      "figure_number": "Figure 1-54",
+      "image_hash": "949d2e86488d63aa12c04854520faa280e51f02df1a2fdc87afeb4a302e5dba3",
+      "width": 326,
+      "height": 218,
+      "previous_block_id": "txt_0590",
+      "next_block_id": "txt_0591",
+      "caption_id": "txt_0591"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0591",
+      "reading_order": 743,
+      "section": "Post service test",
+      "bbox": {
+        "l": 144.0,
+        "t": 516.7917,
+        "r": 303.1099999999999,
+        "b": 505.2017
+      },
+      "content": "Figure 1-54  Open the document feeder",
+      "caption_for": "fig_0141"
+    }
+  ],
+  "page_stats": {
+    "block_count": 14,
+    "text_blocks": 11,
+    "paragraphs": 2,
+    "headings": 3,
+    "list_items": 5,
+    "captions": 1,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 3,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

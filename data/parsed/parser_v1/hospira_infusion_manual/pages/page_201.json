@@ -1,0 +1,87 @@
+{
+  "page": 201,
+  "document_id": "doc_37f23c38",
+  "page_bbox": {
+    "width": 1224.0,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0100",
+      "reading_order": 1514,
+      "section": "HOSPIRA INC.",
+      "bbox": {
+        "l": 550.307373046875,
+        "t": 490.99981689453125,
+        "r": 695.3603515625,
+        "b": 409.53369140625
+      },
+      "image_path": "figures/figure_0100.png",
+      "next_block_id": "txt_1371",
+      "image_hash": "7e255757953856a980c8c5157781a2c8785af34c8fa867d2e919c5b4a090d388",
+      "width": 145,
+      "height": 81
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1371",
+      "reading_order": 1515,
+      "section": "HOSPIRA INC.",
+      "bbox": {
+        "l": 647.89235688,
+        "t": 409.71553096,
+        "r": 669.3274840800001,
+        "b": 408.54146296000005
+      },
+      "content": "DIODES"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0101",
+      "reading_order": 1516,
+      "section": "HOSPIRA INC.",
+      "bbox": {
+        "l": 409.8608703613281,
+        "t": 384.1758117675781,
+        "r": 782.034423828125,
+        "b": 255.921630859375
+      },
+      "image_path": "figures/figure_0101.png",
+      "previous_block_id": "txt_1371",
+      "image_hash": "94392ac077b3634a2cfcbd988fbdf0c2ffe7771391b33ddebaf88dc9d8865591",
+      "width": 372,
+      "height": 128
+    },
+    {
+      "type": "figure",
+      "id": "fig_0102",
+      "reading_order": 1517,
+      "section": "HOSPIRA INC.",
+      "bbox": {
+        "l": 974.6612548828125,
+        "t": 184.154296875,
+        "r": 1112.349365234375,
+        "b": 116.4534912109375
+      },
+      "image_path": "figures/figure_0102.png",
+      "previous_block_id": "txt_1371",
+      "image_hash": "6d077ae3e74e7ec083c1c1591f9a075a9e9974ee2b6ebf31b373c3a819d35d1a",
+      "width": 137,
+      "height": 68
+    }
+  ],
+  "page_stats": {
+    "block_count": 4,
+    "text_blocks": 1,
+    "paragraphs": 1,
+    "headings": 0,
+    "list_items": 0,
+    "captions": 0,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 3,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

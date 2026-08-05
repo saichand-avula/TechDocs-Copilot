@@ -1,0 +1,15 @@
+{
+  "id": "tbl_0069",
+  "page": 185,
+  "section": "Note",
+  "title": null,
+  "markdown": "|   No. | Faulty location and remedy                                                                    | Description                                                                                                                                      |\n|-------|-----------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|\n|    24 | Check the PMC signal (INCMD). Perform orientation by specifying an absolute position first.   | Orientation is performed in incremental operation mode (INCMD = 1) fist, then the absolute position command (INCMD = 0) is input.                |\n|    25 | Check the spindle amplifier specifications and parameter setting (bit 4 of parameter No.4018) | Although the spindle amplifier SPM type 4 is not used, the use of the Cs control function by the sensor is set (bit 4 of parameter No.4018 = 1). |",
+  "block_id": "#/tables/68",
+  "reading_order": 1700,
+  "bbox": {
+    "l": 64.21771240234375,
+    "t": 731.8251495361328,
+    "r": 525.2717895507812,
+    "b": 593.2413177490234
+  }
+}

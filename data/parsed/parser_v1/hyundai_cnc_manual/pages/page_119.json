@@ -1,0 +1,162 @@
+{
+  "page": 119,
+  "document_id": "doc_caa693b1",
+  "page_bbox": {
+    "width": 595.0,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0744",
+      "reading_order": 974,
+      "section": "2-5. Monthly Check and Repair",
+      "bbox": {
+        "l": 70.92,
+        "t": 755.6546599999999,
+        "r": 234.74900400000007,
+        "b": 746.7829409281768
+      },
+      "content": "2-5. Monthly Check and Repair",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0745",
+      "reading_order": 975,
+      "section": "2-5-1. Inside of the Machine",
+      "bbox": {
+        "l": 70.92,
+        "t": 721.694876,
+        "r": 210.89338800000002,
+        "b": 712.8231569281769
+      },
+      "content": "2-5-1. Inside of the Machine",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0746",
+      "reading_order": 976,
+      "section": "2-5-1. Inside of the Machine",
+      "bbox": {
+        "l": 106.379778,
+        "t": 687.674972,
+        "r": 118.071114,
+        "b": 678.8032529281769
+      },
+      "content": "1)"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0747",
+      "reading_order": 977,
+      "section": "2-5-1. Inside of the Machine",
+      "bbox": {
+        "l": 127.62117600000002,
+        "t": 687.674972,
+        "r": 268.61059199999994,
+        "b": 661.823360928177
+      },
+      "content": "Cleaning the nozzle of coolant Used tool: - and + screwdrivers"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0748",
+      "reading_order": 978,
+      "section": "2-5-1. Inside of the Machine",
+      "bbox": {
+        "l": 127.62117600000002,
+        "t": 653.655068,
+        "r": 392.1541859999999,
+        "b": 644.7833489281769
+      },
+      "content": "Remove chips around the coolant nozzle attached at turret."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0192",
+      "reading_order": 979,
+      "section": "2-5-1. Inside of the Machine",
+      "bbox": {
+        "l": 73.8011245727539,
+        "t": 626.9741973876953,
+        "r": 530.0115356445312,
+        "b": 459.3922119140625
+      },
+      "image_path": "figures/figure_0192.png",
+      "previous_block_id": "txt_0748",
+      "next_block_id": "txt_0749",
+      "caption_id": "txt_0749",
+      "caption": "Removing Turret Nozzle Chip",
+      "figure_number": "Fig. 5-18",
+      "image_hash": "405c0c911dc00f9414f410d2ebb6f4abc3977ca6ea301f861e11737131c2ea72",
+      "width": 456,
+      "height": 168
+    },
+    {
+      "type": "caption",
+      "id": "txt_0749",
+      "reading_order": 980,
+      "section": "2-5-1. Inside of the Machine",
+      "bbox": {
+        "l": 209.639886,
+        "t": 449.65588400000024,
+        "r": 388.4978879999994,
+        "b": 440.784164928177
+      },
+      "content": "Fig. 5-18  Removing Turret Nozzle Chip",
+      "caption_for": "fig_0192"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0193",
+      "reading_order": 981,
+      "section": "2-5-1. Inside of the Machine",
+      "bbox": {
+        "l": 73.01355743408203,
+        "t": 409.5647277832031,
+        "r": 528.2384033203125,
+        "b": 112.2332763671875
+      },
+      "image_path": "figures/figure_0193.png",
+      "previous_block_id": "txt_0749",
+      "next_block_id": "txt_0750",
+      "caption_id": "txt_0750",
+      "caption": "Coolant Supplying Route",
+      "figure_number": "Fig. 5-19",
+      "image_hash": "ec9e277e8665c80c9adaf3334a2545bdc2cd216ffb5faf1ed96baac8e90e0970",
+      "width": 455,
+      "height": 298
+    },
+    {
+      "type": "caption",
+      "id": "txt_0750",
+      "reading_order": 982,
+      "section": "2-5-1. Inside of the Machine",
+      "bbox": {
+        "l": 219.900366,
+        "t": 92.65731200000016,
+        "r": 378.230394,
+        "b": 83.78559292817704
+      },
+      "content": "Fig. 5-19  Coolant Supplying Route",
+      "caption_for": "fig_0193"
+    }
+  ],
+  "page_stats": {
+    "block_count": 9,
+    "text_blocks": 7,
+    "paragraphs": 1,
+    "headings": 2,
+    "list_items": 2,
+    "captions": 2,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 2,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

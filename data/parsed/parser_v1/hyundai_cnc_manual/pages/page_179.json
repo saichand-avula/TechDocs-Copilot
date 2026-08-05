@@ -1,0 +1,150 @@
+{
+  "page": 179,
+  "document_id": "doc_caa693b1",
+  "page_bbox": {
+    "width": 595.0,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0345",
+      "reading_order": 1656,
+      "section": "[ Servo Alarm ]",
+      "bbox": {
+        "l": 101.97911071777344,
+        "t": 680.9261474609375,
+        "r": 128.460205078125,
+        "b": 641.3245849609375
+      },
+      "image_path": "figures/figure_0345.png",
+      "width": 26,
+      "height": 39,
+      "image_hash": "64e7f785953daf518adc6ff75143657df3b0ff29dfa7c66c0dc54b79f8284309"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0346",
+      "reading_order": 1657,
+      "section": "[ Servo Alarm ]",
+      "bbox": {
+        "l": 102.96256256103516,
+        "t": 522.6345825195312,
+        "r": 129.84371948242188,
+        "b": 482.9554443359375
+      },
+      "image_path": "figures/figure_0346.png",
+      "width": 26,
+      "height": 39,
+      "image_hash": "bd837018ca5fd9bfdac0947a63c75ba118216894b591f1a3465273aad1f12a84"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0347",
+      "reading_order": 1658,
+      "section": "[ Servo Alarm ]",
+      "bbox": {
+        "l": 103.46394348144531,
+        "t": 425.2998962402344,
+        "r": 129.8477020263672,
+        "b": 404.35498046875
+      },
+      "image_path": "figures/figure_0347.png",
+      "width": 26,
+      "height": 20,
+      "image_hash": "eff472a7494231e7ae33a8f48dfe7d782f474ffe91f5aa90ac6beb5666720b3a"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0348",
+      "reading_order": 1659,
+      "section": "[ Servo Alarm ]",
+      "bbox": {
+        "l": 102.7093276977539,
+        "t": 405.8929748535156,
+        "r": 128.17515563964844,
+        "b": 385.77166748046875
+      },
+      "image_path": "figures/figure_0348.png",
+      "width": 25,
+      "height": 20,
+      "image_hash": "df075cff9aeae9fef51cb0fc2d6432cc17dc4307b7c059978bd06da4ad6213e6"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0349",
+      "reading_order": 1660,
+      "section": "[ Servo Alarm ]",
+      "bbox": {
+        "l": 106.141845703125,
+        "t": 367.8221740722656,
+        "r": 131.3318328857422,
+        "b": 347.0509338378906
+      },
+      "image_path": "figures/figure_0349.png",
+      "width": 25,
+      "height": 20,
+      "image_hash": "b52f50bba06eab952e0b5844d94b033f0a869ecd8b465972a83770cdbfa6c472"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0350",
+      "reading_order": 1661,
+      "section": "[ Servo Alarm ]",
+      "bbox": {
+        "l": 105.19503021240234,
+        "t": 348.1917419433594,
+        "r": 130.62440490722656,
+        "b": 329.5150146484375
+      },
+      "image_path": "figures/figure_0350.png",
+      "width": 25,
+      "height": 18,
+      "image_hash": "9335424ed96837a9bb10bb5a7adfa05345e3a071235a05b644722ac7f9f1b89b"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0351",
+      "reading_order": 1662,
+      "section": "[ Servo Alarm ]",
+      "bbox": {
+        "l": 105.27262115478516,
+        "t": 297.48388671875,
+        "r": 131.7678680419922,
+        "b": 257.6802978515625
+      },
+      "image_path": "figures/figure_0351.png",
+      "width": 26,
+      "height": 39,
+      "image_hash": "7f19d1ce9cf614617f7bd0a583de50ecbcaaf0a0cd8a8d2c1aeea89181c443b4"
+    },
+    {
+      "type": "table",
+      "id": "tbl_0061",
+      "reading_order": 1663,
+      "section": "[ Servo Alarm ]",
+      "bbox": {
+        "l": 64.47674560546875,
+        "t": 737.5054702758789,
+        "r": 545.0220947265625,
+        "b": 204.4747314453125
+      },
+      "markdown": "|   No. | LED   | Description                                                                                                                                                                                                                                                                                                                                                                                          | Countermeasure                                                                                                                                                                                                                                                                                                                                                                                       |\n|-------|-------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n|   414 |       | A DC link low voltage alarm is issued.                                                                                                                                                                                                                                                                                                                                                               | This alarm is issued when the DC voltage of the main circuit power is too low.                                                                                                                                                                                                                                                                                                                       |\n|   414 |       | 1) The external circuit breaker may be turned off. Check the circuit breaker. 2) The supply voltage for dynamic power is lower than the rated value. Check the voltage. If the voltage is too low, increase it to an appropriate level. 3) The external magnetic contactor may not be connected properly. Check the connection. If (1) to (3) are not the cause of the alarm, replace the servo AMP. | 1) The external circuit breaker may be turned off. Check the circuit breaker. 2) The supply voltage for dynamic power is lower than the rated value. Check the voltage. If the voltage is too low, increase it to an appropriate level. 3) The external magnetic contactor may not be connected properly. Check the connection. If (1) to (3) are not the cause of the alarm, replace the servo AMP. |\n|   417 |       | A parameter has been specified incorrectly                                                                                                                                                                                                                                                                                                                                                           | Check the following parameter : No. 30: Is the specified motor type correct? No. 31: Is the specified direction of rotation of the motor correct? No. 106: Is the denominator of the number of pulses per single revolution of the motor \"0\"? No. 180: Is the specified reference counter capacity 0 or a negative value?                                                                            |\n|   418 |       | A DO alarm is issued.                                                                                                                                                                                                                                                                                                                                                                                | Replace the servo unit                                                                                                                                                                                                                                                                                                                                                                               |\n|   423 |       | The specified speed exceeds 32767000 detection units per second.                                                                                                                                                                                                                                                                                                                                     | Re-examine the CMR and speed settings.                                                                                                                                                                                                                                                                                                                                                               |\n|   425 |       | The cooling fan has stopped.                                                                                                                                                                                                                                                                                                                                                                         | This alarm is issued when the fan motor built into the servo AMP has failed.                                                                                                                                                                                                                                                                                                                         |\n|   425 |       | 1) Check that the fan is not clogged with foreign matter. 2) Check that the power connector of the fan is connected properly. 3) Replace the fan or servo unit.                                                                                                                                                                                                                                      | 1) Check that the fan is not clogged with foreign matter. 2) Check that the power connector of the fan is connected properly. 3) Replace the fan or servo unit.                                                                                                                                                                                                                                      |",
+      "rows": 8,
+      "cols": 4
+    }
+  ],
+  "page_stats": {
+    "block_count": 8,
+    "text_blocks": 0,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 0,
+    "captions": 0,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 7,
+    "tables": 1,
+    "toc_tables": 0
+  }
+}

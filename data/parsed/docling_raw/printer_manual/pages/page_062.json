@@ -1,0 +1,300 @@
+{
+  "page": 62,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_0607",
+      "reading_order": 767,
+      "section": "Post service test",
+      "bbox": {
+        "l": 113.0,
+        "t": 732.29,
+        "r": 538.2400000000006,
+        "b": 708.7
+      },
+      "content": "Lift the front of the control panel off of the printer (callout 1), and then slide it toward the front of the printer (callout 2) to remove it."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0608",
+      "reading_order": 768,
+      "section": "Post service test",
+      "bbox": {
+        "l": 91.0,
+        "t": 458.42,
+        "r": 253.63999999999993,
+        "b": 446.83
+      },
+      "content": "Unpack the replacement assembly."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0609",
+      "reading_order": 769,
+      "section": "Post service test",
+      "bbox": {
+        "l": 113.0,
+        "t": 437.42,
+        "r": 252.10999999999987,
+        "b": 425.83
+      },
+      "content": "Dispose of the defective part."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0610",
+      "reading_order": 770,
+      "section": "Post service test",
+      "bbox": {
+        "l": 135.0,
+        "t": 413.92,
+        "r": 404.8599999999999,
+        "b": 402.33
+      },
+      "content": "NOTE: HP recommends responsible disposal of the defective part."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0150",
+      "reading_order": 771,
+      "section": "Post service test",
+      "bbox": {
+        "l": 133.4982205319962,
+        "t": 686.5210113525391,
+        "r": 424.18532181019043,
+        "b": 469.2940979003906
+      },
+      "image_path": "figures/figure_0150.png",
+      "caption": "Remove the control panel",
+      "figure_number": "Figure 1-61",
+      "image_hash": "f60f55a4b95e0cb07236bf3ba93993d24c9ab0252a85fd6637db038028f7453e",
+      "width": 291,
+      "height": 218,
+      "previous_block_id": "txt_0610",
+      "next_block_id": "txt_0611",
+      "caption_id": "txt_0611"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0611",
+      "reading_order": 772,
+      "section": "Post service test",
+      "bbox": {
+        "l": 135.00005,
+        "t": 699.29,
+        "r": 289.31003999999996,
+        "b": 687.7
+      },
+      "content": "Figure 1-61  Remove the control panel",
+      "caption_for": "fig_0150"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0151",
+      "reading_order": 773,
+      "section": "Post service test",
+      "bbox": {
+        "l": 119.0161998401349,
+        "t": 416.3106384277344,
+        "r": 131.74134190537882,
+        "b": 402.60931396484375
+      },
+      "image_path": "figures/figure_0151.png",
+      "caption": "Remove the control panel",
+      "decorative": true,
+      "width": 12,
+      "height": 13,
+      "figure_number": "Figure 1-61",
+      "image_hash": "0076b5a70b5666138600a48e88caca86d138380cc837f445c9e612f6b6a1f0a6",
+      "previous_block_id": "txt_0611",
+      "next_block_id": "txt_0612"
+    },
+    {
+      "type": "reference",
+      "id": "txt_0612",
+      "reading_order": 774,
+      "section": "Post service test",
+      "bbox": {
+        "l": 134.99998,
+        "t": 392.92,
+        "r": 458.28998,
+        "b": 381.33
+      },
+      "content": "http://www8.hp.com/us/en/hp-information/environment/product-recycling.html"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0613",
+      "reading_order": 775,
+      "section": "Post service test",
+      "bbox": {
+        "l": 113.0,
+        "t": 370.42,
+        "r": 333.5199999999998,
+        "b": 358.83
+      },
+      "content": "Unpack the replacement part from the packaging."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0152",
+      "reading_order": 776,
+      "section": "Post service test",
+      "bbox": {
+        "l": 119.15638500673838,
+        "t": 349.0487976074219,
+        "r": 132.70042410270162,
+        "b": 335.4346008300781
+      },
+      "image_path": "figures/figure_0152.png",
+      "decorative": true,
+      "width": 13,
+      "height": 13,
+      "image_hash": "e74cc3e880652ef92931752383a51245b6772e33b3144d7db90aed6357b629ee",
+      "previous_block_id": "txt_0613",
+      "next_block_id": "txt_0614"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_0614",
+      "reading_order": 777,
+      "severity": "caution",
+      "content": "CAUTION: Some parts are sensitive to electrostatic discharge (ESD). Always perform service",
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 135.0,
+        "t": 341.53499,
+        "r": 172.75,
+        "b": 329.94499
+      }
+    },
+    {
+      "type": "figure",
+      "id": "fig_0153",
+      "reading_order": 779,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 181.75894875089725,
+        "t": 345.7154541015625,
+        "r": 202.29040587255966,
+        "b": 324.32659912109375
+      },
+      "image_path": "figures/figure_0153.png",
+      "decorative": true,
+      "width": 20,
+      "height": 21,
+      "image_hash": "6d7a27f32c7f865ed8aec6fda3f2131c62d6741aadd1b3a5ab3da7c77e3ba1a6",
+      "previous_block_id": "txt_0615",
+      "next_block_id": "txt_0616"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0616",
+      "reading_order": 780,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 135.0,
+        "t": 322.92,
+        "r": 540.7700400000001,
+        "b": 287.33
+      },
+      "content": "work at an ESD-protected workstation or mat. If an ESD workstation or mat is not available, touch the sheet-metal chassis to provide a static ground before touching an ESD-sensitive assembly. Protect the ESD-sensitive assemblies by placing them in ESD pouches when they are out of the printer."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0617",
+      "reading_order": 781,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 135.00004,
+        "t": 277.9200000000001,
+        "r": 539.6300400000002,
+        "b": 242.32999999999993
+      },
+      "content": "If the replacement part is a roller or pad, avoid touching the spongy part of it. Skin oils on the roller or pad can cause paper pickup and/or print-quality problems. HP recommends using disposable gloves when handling rollers or pads or washing your hands before touching rollers or pads."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0618",
+      "reading_order": 782,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 135.0,
+        "t": 232.91999999999996,
+        "r": 532.73,
+        "b": 209.32999999999993
+      },
+      "content": "IMPORTANT: Make sure that all of the shipping materials (for example shipping tape) are removed from the replacement part prior to installation."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0619",
+      "reading_order": 783,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 113.0,
+        "t": 198.41999999999996,
+        "r": 334.02,
+        "b": 186.83000000000004
+      },
+      "content": "To install an assembly, reverse the removal steps."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0620",
+      "reading_order": 784,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 135.00002,
+        "t": 177.41999999999996,
+        "r": 542.6100400000003,
+        "b": 141.83000000000004
+      },
+      "content": "When applicable, special installation instructions are provided for an assembly at the end of the removal procedure. Always completely read the removal instructions and follow all special installation instructions."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0621",
+      "reading_order": 785,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 91.00004,
+        "t": 132.41999999999996,
+        "r": 209.43004,
+        "b": 120.83000000000004
+      },
+      "content": "Install the control panel."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0622",
+      "reading_order": 786,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 113.00004,
+        "t": 111.41999999999996,
+        "r": 375.96004,
+        "b": 99.83000000000004
+      },
+      "content": "Tilt the replacement control panel away from the base plate."
+    }
+  ],
+  "page_stats": {
+    "block_count": 19,
+    "text_blocks": 15,
+    "paragraphs": 3,
+    "headings": 0,
+    "list_items": 9,
+    "captions": 1,
+    "admonitions": 1,
+    "references": 1,
+    "figures": 4,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "page": 172,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0452",
+      "reading_order": 2097,
+      "section": "Post service test",
+      "bbox": {
+        "l": 133.6242140761741,
+        "t": 719.7782516479492,
+        "r": 424.00904371024995,
+        "b": 502.5718078613281
+      },
+      "image_path": "figures/figure_0452.png",
+      "caption": "Pull the tray out until it stops",
+      "figure_number": "Figure 1-224",
+      "image_hash": "903c4216394adb8fcda357326b05f3a95af425e26cb465498433fdc1319fb1e4",
+      "width": 290,
+      "height": 217,
+      "next_block_id": "txt_1620",
+      "caption_id": "txt_1620"
+    },
+    {
+      "type": "caption",
+      "id": "txt_1620",
+      "reading_order": 2098,
+      "section": "Post service test",
+      "bbox": {
+        "l": 135.0,
+        "t": 732.29,
+        "r": 306.8299899999999,
+        "b": 720.7
+      },
+      "content": "Figure 1-224  Pull the tray out until it stops",
+      "caption_for": "fig_0452"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1621",
+      "reading_order": 2099,
+      "section": "Post service test",
+      "bbox": {
+        "l": 113.0,
+        "t": 491.41999999999996,
+        "r": 415.7900000000001,
+        "b": 479.83000000000004
+      },
+      "content": "Lift the front of the tray, and then pull it out of the printer to remove it."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0453",
+      "reading_order": 2100,
+      "section": "Post service test",
+      "bbox": {
+        "l": 118.72271312295592,
+        "t": 470.1546325683594,
+        "r": 132.27295199808736,
+        "b": 456.68231201171875
+      },
+      "image_path": "figures/figure_0453.png",
+      "decorative": true,
+      "width": 13,
+      "height": 13,
+      "image_hash": "0076b5a70b5666138600a48e88caca86d138380cc837f445c9e612f6b6a1f0a6",
+      "previous_block_id": "txt_1621",
+      "next_block_id": "txt_1622"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_1622",
+      "reading_order": 2101,
+      "section": "Post service test",
+      "bbox": {
+        "l": 135.0,
+        "t": 467.92,
+        "r": 537.6900400000002,
+        "b": 444.33
+      },
+      "content": "NOTE: If the tray has Fixed Tray Guides installed and are still required, move the hardware to new tray. If necessary, order new kit: 3GY19-67901 Kit-Fixed Tray Guide. Only one kit required per engine.",
+      "severity": "note"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0454",
+      "reading_order": 2102,
+      "section": "Post service test",
+      "bbox": {
+        "l": 133.6530548693033,
+        "t": 421.4595642089844,
+        "r": 423.95770679344776,
+        "b": 204.1026611328125
+      },
+      "image_path": "figures/figure_0454.png",
+      "caption": "Release and remove the tray",
+      "figure_number": "Figure 1-225",
+      "image_hash": "3f226aa2c7c8a226b81f4e83d58d4cf6fa55fbf6d00954106378945aca5c6407",
+      "width": 290,
+      "height": 217,
+      "previous_block_id": "txt_1622",
+      "next_block_id": "txt_1623",
+      "caption_id": "txt_1623"
+    },
+    {
+      "type": "caption",
+      "id": "txt_1623",
+      "reading_order": 2103,
+      "section": "Post service test",
+      "bbox": {
+        "l": 135.0,
+        "t": 433.42,
+        "r": 306.6599899999999,
+        "b": 421.83
+      },
+      "content": "Figure 1-225  Release and remove the tray",
+      "caption_for": "fig_0454"
+    },
+    {
+      "type": "heading",
+      "id": "txt_1624",
+      "reading_order": 2104,
+      "section": "2. Remove the formatter cover.",
+      "bbox": {
+        "l": 91.0,
+        "t": 192.54999999999995,
+        "r": 227.24999999999991,
+        "b": 180.96000000000004
+      },
+      "content": "2. Remove the formatter cover.",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1625",
+      "reading_order": 2105,
+      "section": "2. Remove the formatter cover.",
+      "bbox": {
+        "l": 112.99998,
+        "t": 173.13,
+        "r": 230.10997999999995,
+        "b": 159.03999999999996
+      },
+      "content": "▲ Do one of the following:"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1626",
+      "reading_order": 2106,
+      "section": "2. Remove the formatter cover.",
+      "bbox": {
+        "l": 112.99997,
+        "t": 149.93953,
+        "r": 511.0199700000003,
+        "b": 126.34953000000007
+      },
+      "content": "M501: Remove one screw (callout 1), and then slide the cover toward the rear of the printer to remove it (callout 2)."
+    }
+  ],
+  "page_stats": {
+    "block_count": 10,
+    "text_blocks": 7,
+    "paragraphs": 0,
+    "headings": 1,
+    "list_items": 3,
+    "captions": 2,
+    "admonitions": 1,
+    "references": 0,
+    "figures": 3,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

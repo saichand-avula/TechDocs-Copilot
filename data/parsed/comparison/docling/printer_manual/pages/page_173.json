@@ -1,0 +1,198 @@
+{
+  "page": 173,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0455",
+      "reading_order": 2107,
+      "section": "2. Remove the formatter cover.",
+      "bbox": {
+        "l": 142.7341528091251,
+        "t": 719.8012771606445,
+        "r": 432.75474351061933,
+        "b": 502.69921875
+      },
+      "image_path": "figures/figure_0455.png",
+      "caption": "Remove the formatter cover (M501)",
+      "figure_number": "Figure 1-226",
+      "image_hash": "b71d8ca4f7ce1860ec3c8634419db687214fb78006b2299080f41c1ba2f17097",
+      "width": 290,
+      "height": 217,
+      "previous_block_id": "txt_1626",
+      "next_block_id": "txt_1627",
+      "caption_id": "txt_1627"
+    },
+    {
+      "type": "caption",
+      "id": "txt_1627",
+      "reading_order": 2108,
+      "section": "2. Remove the formatter cover.",
+      "bbox": {
+        "l": 144.0,
+        "t": 732.29,
+        "r": 344.67999000000003,
+        "b": 720.7
+      },
+      "content": "Figure 1-226  Remove the formatter cover (M501)",
+      "caption_for": "fig_0455"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1628",
+      "reading_order": 2109,
+      "section": "2. Remove the formatter cover.",
+      "bbox": {
+        "l": 122.0,
+        "t": 491.41999999999996,
+        "r": 542.0400000000002,
+        "b": 467.83
+      },
+      "content": "M506/E50045/M507/E50145/M527/E52545/M528/E52645: Slide the cover toward the rear of the printer to remove it."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1629",
+      "reading_order": 2110,
+      "section": "2. Remove the formatter cover.",
+      "bbox": {
+        "l": 143.99996000000002,
+        "t": 458.42,
+        "r": 530.3799900000001,
+        "b": 434.83
+      },
+      "content": "Figure 1-227  Remove the formatter cover (M506/E50045/M507/E50145/M527/E52545/M528/ E52645)"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1630",
+      "reading_order": 2111,
+      "section": "2. Remove the formatter cover.",
+      "bbox": {
+        "l": 100.0,
+        "t": 218.19233999999994,
+        "r": 379.3400000000003,
+        "b": 206.60234000000003
+      },
+      "content": "Remove the fax PCA (M527/E52545/M528/E52645 fax models)."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0456",
+      "reading_order": 2112,
+      "section": "2. Remove the formatter cover.",
+      "bbox": {
+        "l": 142.12311233533939,
+        "t": 424.5451965332031,
+        "r": 341.6849748063113,
+        "b": 229.70135498046875
+      },
+      "image_path": "figures/figure_0456.png",
+      "image_hash": "97af6a00a99a92d198510591f91bbb5fb356fd2224b44f61eec8904ad524e078",
+      "width": 200,
+      "height": 195,
+      "previous_block_id": "txt_1630",
+      "next_block_id": "txt_1631"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0457",
+      "reading_order": 2113,
+      "section": "2. Remove the formatter cover.",
+      "bbox": {
+        "l": 367.48276685401174,
+        "t": 425.0598449707031,
+        "r": 575.7672229373093,
+        "b": 238.2039794921875
+      },
+      "image_path": "figures/figure_0457.png",
+      "image_hash": "dedf8c01c7942e028f1ab66c7ec9644e2be0d4b003508516eb9d69a3f55d78b9",
+      "width": 209,
+      "height": 187,
+      "previous_block_id": "txt_1630",
+      "next_block_id": "txt_1631"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0458",
+      "reading_order": 2114,
+      "section": "2. Remove the formatter cover.",
+      "bbox": {
+        "l": 106.11059310820596,
+        "t": 196.780517578125,
+        "r": 120.33165113965613,
+        "b": 183.11505126953125
+      },
+      "image_path": "figures/figure_0458.png",
+      "decorative": true,
+      "width": 14,
+      "height": 13,
+      "image_hash": "a767938e0c408b2d09eaf67deb0e9a61a89d5fea8124e1291a8bc44c4fd30c3e",
+      "previous_block_id": "txt_1630",
+      "next_block_id": "txt_1631"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_1631",
+      "reading_order": 2115,
+      "severity": "caution",
+      "content": "CAUTION: ESD-sensitive part.",
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 122.0,
+        "t": 189.30732999999998,
+        "r": 159.75,
+        "b": 177.71732999999995
+      }
+    },
+    {
+      "type": "figure",
+      "id": "fig_0459",
+      "reading_order": 2117,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 169.25317820758568,
+        "t": 193.5546875,
+        "r": 188.39609831810594,
+        "b": 172.1895751953125
+      },
+      "image_path": "figures/figure_0459.png",
+      "decorative": true,
+      "width": 19,
+      "height": 21,
+      "image_hash": "ea5bdbead1c15ce28bda06cd752f791911cc5e38d72cb46e4e61f16fece2ca5a",
+      "previous_block_id": "txt_1632",
+      "next_block_id": "txt_1633"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1633",
+      "reading_order": 2118,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 122.0,
+        "t": 160.19233999999994,
+        "r": 302.0099999999999,
+        "b": 148.60234000000003
+      },
+      "content": "Disconnect three connectors (callout 1)."
+    }
+  ],
+  "page_stats": {
+    "block_count": 11,
+    "text_blocks": 6,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 4,
+    "captions": 1,
+    "admonitions": 1,
+    "references": 0,
+    "figures": 5,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

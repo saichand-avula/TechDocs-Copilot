@@ -1,0 +1,204 @@
+{
+  "page": 176,
+  "document_id": "doc_caa693b1",
+  "page_bbox": {
+    "width": 595.0,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0331",
+      "reading_order": 1637,
+      "section": "[ Pulse Coder Alarm ]",
+      "bbox": {
+        "l": 118.28013610839844,
+        "t": 728.9390640258789,
+        "r": 146.68321228027344,
+        "b": 688.6190643310547
+      },
+      "image_path": "figures/figure_0331.png",
+      "next_block_id": "txt_1252",
+      "width": 28,
+      "height": 40,
+      "image_hash": "cebe15f9b7fc44454eab2b5804bbd9bafc495623bcad34bbb52569586ad04f90"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0332",
+      "reading_order": 1638,
+      "section": "[ Pulse Coder Alarm ]",
+      "bbox": {
+        "l": 117.64690399169922,
+        "t": 660.9698791503906,
+        "r": 145.6234588623047,
+        "b": 619.5194091796875
+      },
+      "image_path": "figures/figure_0332.png",
+      "next_block_id": "txt_1252",
+      "width": 27,
+      "height": 41,
+      "image_hash": "39ecee9a939f6de38ff880d4f2a0b2643bb39cc7df435176b18cbdb1e8198336"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0333",
+      "reading_order": 1639,
+      "section": "[ Pulse Coder Alarm ]",
+      "bbox": {
+        "l": 116.77243041992188,
+        "t": 596.5720367431641,
+        "r": 143.43838500976562,
+        "b": 556.9668273925781
+      },
+      "image_path": "figures/figure_0333.png",
+      "next_block_id": "txt_1252",
+      "width": 26,
+      "height": 39,
+      "image_hash": "109864a1fa71e1d21c80f018626aac7b7aa9b0d9db6865d3162f0f37f04197b3"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0334",
+      "reading_order": 1640,
+      "section": "[ Pulse Coder Alarm ]",
+      "bbox": {
+        "l": 114.6149673461914,
+        "t": 540.2441711425781,
+        "r": 140.10716247558594,
+        "b": 519.1735229492188
+      },
+      "image_path": "figures/figure_0334.png",
+      "next_block_id": "txt_1252",
+      "width": 25,
+      "height": 21,
+      "image_hash": "e7dbf401f5700bedee9f6c35391f5f6de8d4103f5a5992f051bf8b6be2d7440a"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0335",
+      "reading_order": 1641,
+      "section": "[ Pulse Coder Alarm ]",
+      "bbox": {
+        "l": 113.57748413085938,
+        "t": 520.955322265625,
+        "r": 138.69679260253906,
+        "b": 499.9443664550781
+      },
+      "image_path": "figures/figure_0335.png",
+      "next_block_id": "txt_1252",
+      "width": 25,
+      "height": 21,
+      "image_hash": "8d6fe7f0c5635c72fd94a5cbd20cdffe1b97a70f83e6e6e03c1bcfb6094bbd8a"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0336",
+      "reading_order": 1642,
+      "section": "[ Pulse Coder Alarm ]",
+      "bbox": {
+        "l": 110.04624938964844,
+        "t": 461.4583740234375,
+        "r": 137.3626251220703,
+        "b": 420.579833984375
+      },
+      "image_path": "figures/figure_0336.png",
+      "next_block_id": "txt_1252",
+      "width": 27,
+      "height": 40,
+      "image_hash": "0b032b52133b4e16eb6a86c93eeea1cfa14a8997142070e68684a8a64ebfecd1"
+    },
+    {
+      "type": "table",
+      "id": "tbl_0057",
+      "reading_order": 1643,
+      "section": "[ Pulse Coder Alarm ]",
+      "bbox": {
+        "l": 64.33265686035156,
+        "t": 760.1795425415039,
+        "r": 546.96484375,
+        "b": 386.6174011230469
+      },
+      "markdown": "|   No. | LED                                                                                                            | Description                                                                                                                          | Countermeasure   |\n|-------|----------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|------------------|\n|   308 | A soft phase alarm (SPHAL)was detected.                                                                        | Turn the power off. This alarm may be caused by noise.                                                                               |                  |\n|   319 | When the absolute pulse coder used, the motor has not rotated through more than turn after the first power-up. | Cause the motor rotate through more than one turn in jog feed mode, then turn the power off then back on.                            | is yet one       |\n|   350 | The battery voltage of absolute pulse coder is low.                                                            | Replace the battery. Restart the operation from reference position                                                                   | the return.      |\n|   351 | The battery voltage of the absolute pulse coder is low.                                                        | Replace the                                                                                                                          | battery.         |\n|   401 | Communication error of Serial Pulse Coder was detected.                                                        | Check if the signal cable of pulse coder being connected. If the cable being ok, there could be an error in the pulse coder or Servo |                  |",
+      "rows": 6,
+      "cols": 4
+    },
+    {
+      "type": "heading",
+      "id": "txt_1252",
+      "reading_order": 1644,
+      "section": "[ Servo Alarm ]",
+      "bbox": {
+        "l": 70.92,
+        "t": 366.01468400000005,
+        "r": 135.384672,
+        "b": 357.1429649281768
+      },
+      "content": "[ Servo Alarm ]",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0337",
+      "reading_order": 1645,
+      "section": "[ Servo Alarm ]",
+      "bbox": {
+        "l": 113.65357971191406,
+        "t": 313.246826171875,
+        "r": 142.59666442871094,
+        "b": 271.196533203125
+      },
+      "image_path": "figures/figure_0337.png",
+      "previous_block_id": "txt_1252",
+      "width": 28,
+      "height": 42,
+      "image_hash": "9bc2d0f2dba5e0308b3d707453bb76a5166879337361024acb166c79decc35ce"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0338",
+      "reading_order": 1646,
+      "section": "[ Servo Alarm ]",
+      "bbox": {
+        "l": 117.5254135131836,
+        "t": 246.54541015625,
+        "r": 144.89540100097656,
+        "b": 206.296142578125
+      },
+      "image_path": "figures/figure_0338.png",
+      "previous_block_id": "txt_1252",
+      "width": 27,
+      "height": 40,
+      "image_hash": "bddc05fcc7dedba9e41e20a3136cedc6c743fece8129d4ce24b602b05e3472f3"
+    },
+    {
+      "type": "table",
+      "id": "tbl_0058",
+      "reading_order": 1647,
+      "section": "[ Servo Alarm ]",
+      "bbox": {
+        "l": 64.3841323852539,
+        "t": 340.8724670410156,
+        "r": 544.8670043945312,
+        "b": 176.3099365234375
+      },
+      "markdown": "|   No. |                                                  | LED                                              | Description                                                                         | Countermeasure                                                                                                                                |\n|-------|--------------------------------------------------|--------------------------------------------------|-------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|\n|   400 | The servo motor has overheated (estimated value) | The servo motor has overheated (estimated value) | The servo motor has overheated (estimated value)                                    | Turn the power off. After a while, turn the power back on. Possible causes include an excessively high ACC/DEC frequency.                     |\n|   403 |                                                  | SVU-12 SVU-20 SVU-40 SVU-80                      | The cooling fans have overheated. (Hardware detection) This alarm was not occurred. | The load on the motor may be too high. Re-examine the load conditions. The load on the motor may be too high. Re-examine the load conditions. |",
+      "rows": 3,
+      "cols": 4
+    }
+  ],
+  "page_stats": {
+    "block_count": 11,
+    "text_blocks": 1,
+    "paragraphs": 0,
+    "headings": 1,
+    "list_items": 0,
+    "captions": 0,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 8,
+    "tables": 2,
+    "toc_tables": 0
+  }
+}

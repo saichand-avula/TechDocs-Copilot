@@ -1,0 +1,132 @@
+{
+  "page": 364,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_3040",
+      "reading_order": 4093,
+      "section": "NOTE: Stapler models only.",
+      "bbox": {
+        "l": 113.0,
+        "t": 732.29,
+        "r": 208.13999999999993,
+        "b": 720.7
+      },
+      "content": "Remove the cover."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_3041",
+      "reading_order": 4094,
+      "section": "NOTE: Stapler models only.",
+      "bbox": {
+        "l": 91.0,
+        "t": 470.42,
+        "r": 243.30999999999997,
+        "b": 458.83
+      },
+      "content": "Remove the rear door assembly."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_3042",
+      "reading_order": 4095,
+      "section": "NOTE: Stapler models only.",
+      "bbox": {
+        "l": 113.00001,
+        "t": 449.42,
+        "r": 358.2400100000001,
+        "b": 437.83
+      },
+      "content": "At the rear of the printer, remove two screws (callout 1)."
+    },
+    {
+      "type": "figure",
+      "id": "fig_1016",
+      "reading_order": 4096,
+      "section": "NOTE: Stapler models only.",
+      "bbox": {
+        "l": 133.9064756089305,
+        "t": 698.6946105957031,
+        "r": 423.8395373248253,
+        "b": 481.8649597167969
+      },
+      "image_path": "figures/figure_1016.png",
+      "caption": "Remove the cover",
+      "figure_number": "Figure 1-564",
+      "image_hash": "f90d6d9551ee2b06807e48766d5cd659910e969a0ea79169421a6f2516c6ed14",
+      "width": 290,
+      "height": 217,
+      "previous_block_id": "txt_3042",
+      "next_block_id": "txt_3043",
+      "caption_id": "txt_3043"
+    },
+    {
+      "type": "caption",
+      "id": "txt_3043",
+      "reading_order": 4097,
+      "section": "NOTE: Stapler models only.",
+      "bbox": {
+        "l": 135.0,
+        "t": 711.29,
+        "r": 263.8999899999999,
+        "b": 699.7
+      },
+      "content": "Figure 1-564  Remove the cover",
+      "caption_for": "fig_1016"
+    },
+    {
+      "type": "figure",
+      "id": "fig_1017",
+      "reading_order": 4098,
+      "section": "NOTE: Stapler models only.",
+      "bbox": {
+        "l": 133.60043681732247,
+        "t": 416.4215087890625,
+        "r": 423.9510265885876,
+        "b": 198.30126953125
+      },
+      "image_path": "figures/figure_1017.png",
+      "caption": "Remove two screws",
+      "figure_number": "Figure 1-565",
+      "image_hash": "0bbe5af6eda55bd82c47ad6ece7933cea06dbbd81ad2d87c52c696cfecbce82b",
+      "width": 290,
+      "height": 218,
+      "previous_block_id": "txt_3043",
+      "next_block_id": "txt_3044",
+      "caption_id": "txt_3044"
+    },
+    {
+      "type": "caption",
+      "id": "txt_3044",
+      "reading_order": 4099,
+      "section": "NOTE: Stapler models only.",
+      "bbox": {
+        "l": 135.0,
+        "t": 428.42,
+        "r": 272.05998999999997,
+        "b": 416.83
+      },
+      "content": "Figure 1-565  Remove two screws",
+      "caption_for": "fig_1017"
+    }
+  ],
+  "page_stats": {
+    "block_count": 7,
+    "text_blocks": 5,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 3,
+    "captions": 2,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 2,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

@@ -1,0 +1,466 @@
+{
+  "page": 116,
+  "document_id": "doc_27a62e0f",
+  "page_bbox": {
+    "width": 594.9600219726562,
+    "height": 842.52001953125
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_1472",
+      "reading_order": 1934,
+      "section": "Task B",
+      "bbox": {
+        "l": 36.0,
+        "t": 787.60801953125,
+        "r": 75.36000000000001,
+        "b": 776.8244393785782
+      },
+      "content": "Task B",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0395",
+      "reading_order": 1935,
+      "section": "Task B",
+      "bbox": {
+        "l": 35.10280867405588,
+        "t": 774.3246935148273,
+        "r": 179.97553176039187,
+        "b": 664.8371871516798
+      },
+      "image_path": "figures/figure_0395.png",
+      "previous_block_id": "txt_1472",
+      "next_block_id": "txt_1473",
+      "image_hash": "fa40799494aa1a94028ec68e97c70de7b400b7075f75e77e3559578d2b2dcd0f",
+      "width": 145,
+      "height": 110
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1473",
+      "reading_order": 1936,
+      "section": "Task B",
+      "bbox": {
+        "l": 38.15100000000001,
+        "t": 647.94601953125,
+        "r": 164.69100000000003,
+        "b": 578.5413344167462
+      },
+      "content": "Switch the oven on and record the Serial Number. Check the firmware is correct, update if older version is observed (select the 'cog' to enter settings)."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0396",
+      "reading_order": 1937,
+      "section": "Task B",
+      "bbox": {
+        "l": 186.18715050673316,
+        "t": 775.8674318711555,
+        "r": 292.5796139475835,
+        "b": 651.5471357630295
+      },
+      "image_path": "figures/figure_0396.png",
+      "previous_block_id": "txt_1473",
+      "next_block_id": "txt_1474",
+      "image_hash": "2d45321a525bfc3ada735c65ee0a855f3a4e4a73fc9d75aaacf89c2478ba79ce",
+      "width": 107,
+      "height": 124
+    },
+    {
+      "type": "caption",
+      "id": "txt_1474",
+      "reading_order": 1938,
+      "section": "Task B",
+      "bbox": {
+        "l": 186.47999999999996,
+        "t": 647.94901953125,
+        "r": 280.503,
+        "b": 578.5443344167461
+      },
+      "content": "9. Enter the password MANAGER to access the settings menu. Use the displayed oven serial number if this is invalid.",
+      "caption_for": "fig_0398"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0397",
+      "reading_order": 1939,
+      "section": "Task B",
+      "bbox": {
+        "l": 34.956074759350436,
+        "t": 563.6538336110674,
+        "r": 142.91619332996393,
+        "b": 497.1574756120766
+      },
+      "image_path": "figures/figure_0397.png",
+      "previous_block_id": "txt_1474",
+      "next_block_id": "txt_1475",
+      "caption_id": "txt_1475",
+      "caption": "12. Check the 'Event Log' for details of any logged appliance errors. Refer to the fault-finding section 5.3 to reference any errors logged.",
+      "image_hash": "4e6f30c78a566f8997d652979fc85221dfa24d647e02f66f87094220d3ecabf7",
+      "width": 108,
+      "height": 66
+    },
+    {
+      "type": "caption",
+      "id": "txt_1475",
+      "reading_order": 1940,
+      "section": "Task B",
+      "bbox": {
+        "l": 37.079999999999984,
+        "t": 484.62601953125,
+        "r": 154.017,
+        "b": 415.33833441674614
+      },
+      "content": "12. Check the 'Event Log' for details of any logged appliance errors. Refer to the fault-finding section 5.3 to reference any errors logged.",
+      "caption_for": "fig_0397"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0398",
+      "reading_order": 1941,
+      "section": "Task B",
+      "bbox": {
+        "l": 164.24445684373129,
+        "t": 562.5253566270903,
+        "r": 275.8469431246279,
+        "b": 496.9989050604483
+      },
+      "image_path": "figures/figure_0398.png",
+      "previous_block_id": "txt_1475",
+      "next_block_id": "txt_1476",
+      "caption_id": "txt_1476",
+      "caption": "13. Select the oven statistics and reference the service check sheet for recommended replacements, advise the customer on actions required.",
+      "image_hash": "1528826ac3ca0e1e8008a4264a2cb1531d32d2e607454f0000a89d9adbfe2527",
+      "width": 112,
+      "height": 66
+    },
+    {
+      "type": "caption",
+      "id": "txt_1476",
+      "reading_order": 1942,
+      "section": "Task B",
+      "bbox": {
+        "l": 166.2,
+        "t": 484.86601953125,
+        "r": 279.897,
+        "b": 403.2213344167461
+      },
+      "content": "13. Select the oven statistics and reference the service check sheet for recommended replacements, advise the customer on actions required.",
+      "caption_for": "fig_0398"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_1477",
+      "reading_order": 1943,
+      "section": "Task B",
+      "bbox": {
+        "l": 26.03099999999995,
+        "t": 347.1090195312499,
+        "r": 261.04799999999994,
+        "b": 326.6643344167461
+      },
+      "content": "Note: ensure a bowl of cold  water is in the cavity for the microwave current draw checks.",
+      "severity": "note"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1478",
+      "reading_order": 1944,
+      "section": "Task B",
+      "bbox": {
+        "l": 43.56299999999996,
+        "t": 304.87201953124986,
+        "r": 299.0639999999999,
+        "b": 247.94133441674603
+      },
+      "content": "Exit out of visual view, place a bowl with 275 ml of cold water in the cavity and select tests / Microwave Leakage. While the test is running hold the test probe at right angles to the oven, ensuring the sensor is about 50mm away from the   surface."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1479",
+      "reading_order": 1945,
+      "section": "Task B",
+      "bbox": {
+        "l": 58.763999999999925,
+        "t": 243.67201953124993,
+        "r": 290.9054999999998,
+        "b": 211.10433441674604
+      },
+      "content": "Test all around the front and rear of the oven, refer to section 5.6 for further details. Level must be 5mW/cm2 or lower &  record."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0399",
+      "reading_order": 1946,
+      "section": "Task B",
+      "bbox": {
+        "l": 423.4725215480107,
+        "t": 774.938441460159,
+        "r": 547.5636706128716,
+        "b": 651.1546896603555
+      },
+      "image_path": "figures/figure_0399.png",
+      "previous_block_id": "txt_1479",
+      "next_block_id": "txt_1480",
+      "image_hash": "2c635f2f18e00c6e3923d595f33a1475c0d1a586ac5285e276ebaf784abb45d0",
+      "width": 125,
+      "height": 123
+    },
+    {
+      "type": "caption",
+      "id": "txt_1480",
+      "reading_order": 1947,
+      "section": "Task B",
+      "bbox": {
+        "l": 425.2770000000001,
+        "t": 646.26901953125,
+        "r": 551.4660000000001,
+        "b": 589.2213344167461
+      },
+      "content": "11. Enter the service settings, password SERVICE to access the service screen. Use the displayed oven serial number if this is invalid.",
+      "caption_for": "fig_0400"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0400",
+      "reading_order": 1948,
+      "section": "Task B",
+      "bbox": {
+        "l": 430.6167253348664,
+        "t": 562.6863366946984,
+        "r": 551.1204384536553,
+        "b": 495.235810367733
+      },
+      "image_path": "figures/figure_0400.png",
+      "previous_block_id": "txt_1480",
+      "next_block_id": "txt_1481",
+      "caption_id": "txt_1480",
+      "caption": "11. Enter the service settings, password SERVICE to access the service screen. Use the displayed oven serial number if this is invalid.",
+      "image_hash": "9e93df47a6d8c0fb6e0bdc3ef20fdb4e4297104b4d9efe9551b85d795c428ff5",
+      "width": 120,
+      "height": 67
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1481",
+      "reading_order": 1949,
+      "section": "Task B",
+      "bbox": {
+        "l": 431.75999999999993,
+        "t": 481.86601953125,
+        "r": 545.097,
+        "b": 400.2213344167461
+      },
+      "content": "In diagnostic view select/operate each component to check operation, as detailed in the visual view section 5.2. Check all speed ranges of the fans."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1482",
+      "reading_order": 1950,
+      "section": "Task B",
+      "bbox": {
+        "l": 431.7599999999999,
+        "t": 396.0690195312499,
+        "r": 533.343,
+        "b": 363.5013344167461
+      },
+      "content": "Record microwave (individual & combined) current draws."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1483",
+      "reading_order": 1951,
+      "section": "Task B",
+      "bbox": {
+        "l": 431.751,
+        "t": 359.1060195312499,
+        "r": 541.731,
+        "b": 351.0183344167461
+      },
+      "content": "Record displayed Voltage."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0401",
+      "reading_order": 1952,
+      "section": "Task B",
+      "bbox": {
+        "l": 310.12189223462354,
+        "t": 308.4540966450461,
+        "r": 556.784608633954,
+        "b": 209.2980000490537
+      },
+      "image_path": "figures/figure_0401.png",
+      "previous_block_id": "txt_1483",
+      "next_block_id": "txt_1484",
+      "image_hash": "22965465a2a99f05cc104702f2083e4ff8d17967c63aecdfbb60f56e6ecd40e1",
+      "width": 247,
+      "height": 99
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1484",
+      "reading_order": 1953,
+      "section": "Task B",
+      "bbox": {
+        "l": 43.56,
+        "t": 194.70601953125004,
+        "r": 316.26,
+        "b": 137.52168579079193
+      },
+      "content": "Finally, remove the bowl of water from inside the cavity and select the recommission test (if the recommission test is greyed out, it means the oven is above the desired temperature and the function is disabled). Follow the onscreen instructions and record result."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1485",
+      "reading_order": 1954,
+      "section": "Task B",
+      "bbox": {
+        "l": 43.31099999999998,
+        "t": 121.02901953125001,
+        "r": 178.86,
+        "b": 76.22133441674623
+      },
+      "content": "Come out of the service and setting modes. Pre-heat the oven and cook one item of food from the operators' menu."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0402",
+      "reading_order": 1955,
+      "section": "Task B",
+      "bbox": {
+        "l": 193.60750456105825,
+        "t": 122.59489204037232,
+        "r": 312.6142784709721,
+        "b": 53.26890827551006
+      },
+      "image_path": "figures/figure_0402.png",
+      "previous_block_id": "txt_1485",
+      "next_block_id": "txt_1486",
+      "image_hash": "0c20104aee87080b4d8714ceaa246468a8631a4becc72c5f465078623e9cdf95",
+      "width": 119,
+      "height": 69
+    },
+    {
+      "type": "figure",
+      "id": "fig_0403",
+      "reading_order": 1956,
+      "section": "Task B",
+      "bbox": {
+        "l": 327.4381114928318,
+        "t": 199.8627624752471,
+        "r": 517.5879626469139,
+        "b": 101.04979315484968
+      },
+      "image_path": "figures/figure_0403.png",
+      "previous_block_id": "txt_1485",
+      "next_block_id": "txt_1486",
+      "image_hash": "4395a01d448f2590d9ac2c03cc6201610b0f7eb07b792722ca1e924d889b350f",
+      "width": 191,
+      "height": 98
+    },
+    {
+      "type": "figure",
+      "id": "fig_0404",
+      "reading_order": 1957,
+      "section": "Task B",
+      "bbox": {
+        "l": 304.8365418145731,
+        "t": 774.5592629454748,
+        "r": 411.9592570898538,
+        "b": 713.7086830138718
+      },
+      "image_path": "figures/figure_0404.png",
+      "previous_block_id": "txt_1485",
+      "next_block_id": "txt_1486",
+      "image_hash": "b995d8f4c9813d0cfb6d592df9e07587bad41e229a887e468d7bc058e07fa657",
+      "width": 107,
+      "height": 61
+    },
+    {
+      "type": "caption",
+      "id": "txt_1486",
+      "reading_order": 1958,
+      "section": "Task B",
+      "bbox": {
+        "l": 305.52,
+        "t": 646.86601953125,
+        "r": 417.057,
+        "b": 577.5783344167461
+      },
+      "content": "10. Check the date, time, and the time zone, correct if necessary. Refer to the Installation and User manual for details on the procedure.",
+      "caption_for": "fig_0405"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0405",
+      "reading_order": 1959,
+      "section": "Task B",
+      "bbox": {
+        "l": 304.6523195741495,
+        "t": 710.1900424285044,
+        "r": 409.23202335271014,
+        "b": 651.374702869467
+      },
+      "image_path": "figures/figure_0405.png",
+      "previous_block_id": "txt_1486",
+      "next_block_id": "txt_1487",
+      "caption_id": "txt_1486",
+      "caption": "10. Check the date, time, and the time zone, correct if necessary. Refer to the Installation and User manual for details on the procedure.",
+      "image_hash": "fda67a2f08ce1b2986c59753cab37496aa74e1e6040493e6bf369881221e1b67",
+      "width": 104,
+      "height": 59
+    },
+    {
+      "type": "figure",
+      "id": "fig_0406",
+      "reading_order": 1960,
+      "section": "Task B",
+      "bbox": {
+        "l": 300.0761195011594,
+        "t": 562.028965835063,
+        "r": 408.9965960568897,
+        "b": 495.3926119076294
+      },
+      "image_path": "figures/figure_0406.png",
+      "previous_block_id": "txt_1486",
+      "next_block_id": "txt_1487",
+      "caption_id": "txt_1487",
+      "caption": "14. Select the diagnostic view to perform individual component checks.",
+      "image_hash": "83c2450e08164217649f24ca14ba7efcc126e2d305e5758723cd1753daeb5486",
+      "width": 109,
+      "height": 67
+    },
+    {
+      "type": "caption",
+      "id": "txt_1487",
+      "reading_order": 1961,
+      "section": "Task B",
+      "bbox": {
+        "l": 301.68,
+        "t": 482.58601953125003,
+        "r": 405.18,
+        "b": 437.7783344167462
+      },
+      "content": "14. Select the diagnostic view to perform individual component checks.",
+      "caption_for": "fig_0406"
+    }
+  ],
+  "page_stats": {
+    "block_count": 28,
+    "text_blocks": 16,
+    "paragraphs": 2,
+    "headings": 1,
+    "list_items": 6,
+    "captions": 6,
+    "admonitions": 1,
+    "references": 0,
+    "figures": 12,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "page": 120,
+  "document_id": "doc_b0587846",
+  "page_bbox": {
+    "width": 612.0,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_1759",
+      "reading_order": 2046,
+      "section": "Seal the shaft with a conventional outside-component mechanical seal",
+      "bbox": {
+        "l": 54.0,
+        "t": 740.80297,
+        "r": 456.78000000000026,
+        "b": 727.41097
+      },
+      "content": "Seal the shaft with a conventional outside-component mechanical seal",
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "id": "fig_0220",
+      "reading_order": 2047,
+      "section": "Seal the shaft with a conventional outside-component mechanical seal",
+      "bbox": {
+        "l": 70.62722778320312,
+        "t": 717.1991806030273,
+        "r": 121.05421447753906,
+        "b": 673.3191604614258
+      },
+      "image_path": "figures/figure_0220.png",
+      "previous_block_id": "txt_1759",
+      "next_block_id": "txt_1760"
+    },
+    {
+      "type": "heading",
+      "id": "txt_1760",
+      "reading_order": 2048,
+      "section": "WARNING:",
+      "bbox": {
+        "l": 144.0,
+        "t": 713.64184,
+        "r": 197.11,
+        "b": 702.40184
+      },
+      "content": "WARNING:",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1761",
+      "reading_order": 2049,
+      "section": "WARNING:",
+      "bbox": {
+        "l": 144.00002,
+        "t": 699.12184,
+        "r": 535.9600200000002,
+        "b": 675.88184
+      },
+      "content": "The mechanical seal used in an Ex-classified environment must be properly certified. Prior to startup, make sure that all areas that could leak pumped fluid to the work environment are closed."
+    },
+    {
+      "type": "heading",
+      "id": "txt_1762",
+      "reading_order": 2050,
+      "section": "NOTICE:",
+      "bbox": {
+        "l": 144.00008,
+        "t": 651.9863799999999,
+        "r": 187.45007999999999,
+        "b": 640.74638
+      },
+      "content": "NOTICE:",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1763",
+      "reading_order": 2051,
+      "section": "NOTICE:",
+      "bbox": {
+        "l": 144.00008,
+        "t": 637.46638,
+        "r": 542.4101000000003,
+        "b": 614.22638
+      },
+      "content": "The mechanical seal must have an appropriate seal-flush system. Otherwise, excess heat generation and seal failure can occur."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1764",
+      "reading_order": 2052,
+      "section": "NOTICE:",
+      "bbox": {
+        "l": 144.00008,
+        "t": 604.66639,
+        "r": 268.69007999999997,
+        "b": 593.42639
+      },
+      "content": "Assemble the seal chamber."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1765",
+      "reading_order": 2053,
+      "section": "NOTICE:",
+      "bbox": {
+        "l": 162.00008,
+        "t": 589.66639,
+        "r": 476.8400800000002,
+        "b": 578.42639
+      },
+      "content": "Install the seal-chamber cover or backplate (184) and fasten with nuts (370H)."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0221",
+      "reading_order": 2054,
+      "section": "NOTICE:",
+      "bbox": {
+        "l": 177.71725463867188,
+        "t": 560.3157196044922,
+        "r": 376.4159851074219,
+        "b": 364.5925598144531
+      },
+      "image_path": "figures/figure_0221.png",
+      "previous_block_id": "txt_1765",
+      "next_block_id": "txt_1766"
+    },
+    {
+      "type": "caption",
+      "id": "txt_1766",
+      "reading_order": 2055,
+      "section": "NOTICE:",
+      "bbox": {
+        "l": 162.0,
+        "t": 353.49456,
+        "r": 323.4199999999999,
+        "b": 342.25455999999997
+      },
+      "content": "b) Check the seal-chamber cover runout."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0222",
+      "reading_order": 2056,
+      "section": "NOTICE:",
+      "bbox": {
+        "l": 186.43357849121094,
+        "t": 305.8902893066406,
+        "r": 379.9160461425781,
+        "b": 131.98681640625
+      },
+      "image_path": "figures/figure_0222.png",
+      "previous_block_id": "txt_1766",
+      "next_block_id": "txt_1767"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1767",
+      "reading_order": 2057,
+      "section": "NOTICE:",
+      "bbox": {
+        "l": 176.17,
+        "t": 112.82273999999995,
+        "r": 541.9300000000003,
+        "b": 89.58273999999994
+      },
+      "content": "Rotate the indicator through 360 degrees. If  the total indicator reading is greater than 0.005 in. (0.13 mm), determine the cause and correct the issue before you proceed."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1768",
+      "reading_order": 2058,
+      "section": "NOTICE:",
+      "bbox": {
+        "l": 162.00000999999997,
+        "t": 87.32273999999995,
+        "r": 286.22000999999983,
+        "b": 76.08273999999994
+      },
+      "content": "Install the shaft sleeve (126)."
+    }
+  ]
+}

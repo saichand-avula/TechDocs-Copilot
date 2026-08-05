@@ -1,0 +1,314 @@
+{
+  "page": 58,
+  "document_id": "doc_27a62e0f",
+  "page_bbox": {
+    "width": 594.9600219726562,
+    "height": 842.52001953125
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0649",
+      "reading_order": 832,
+      "section": "Microwave power test: measuring the microwave power output of the magnetron(s)",
+      "bbox": {
+        "l": 39.12,
+        "t": 787.00791953125,
+        "r": 509.28,
+        "b": 776.2243393785782
+      },
+      "content": "Microwave power test: measuring the microwave power output of the magnetron(s)",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0650",
+      "reading_order": 833,
+      "section": "Microwave power test: measuring the microwave power output of the magnetron(s)",
+      "bbox": {
+        "l": 36.0,
+        "t": 759.5459195312501,
+        "r": 265.743,
+        "b": 751.4582344167462
+      },
+      "content": "Check that the following requirements have been met:"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0651",
+      "reading_order": 834,
+      "section": "Microwave power test: measuring the microwave power output of the magnetron(s)",
+      "bbox": {
+        "l": 54.00000000000003,
+        "t": 747.54891953125,
+        "r": 447.29999999999995,
+        "b": 739.0982344167462
+      },
+      "content": " The appliance is cool. This test will not operate at a cavity temperature of 100 o C or above."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0135",
+      "reading_order": 835,
+      "section": "Microwave power test: measuring the microwave power output of the magnetron(s)",
+      "bbox": {
+        "l": 24.81888704114895,
+        "t": 726.8382652133023,
+        "r": 236.77402234444506,
+        "b": 597.1562775468292
+      },
+      "image_path": "figures/figure_0135.png",
+      "previous_block_id": "txt_0651",
+      "next_block_id": "txt_0652",
+      "image_hash": "76c36a2ed2f6ba1304f1747199152142ca18bfdefd3417b4f76f0938c2995310",
+      "width": 212,
+      "height": 129
+    },
+    {
+      "type": "admonition",
+      "id": "txt_0652",
+      "reading_order": 836,
+      "severity": "note",
+      "content": "NOTE: The power output is established under IEC 705 standard method which is only workable in laboratory-controlled conditions. The power output is also affected by line voltage under load, so this test is an approximation only.",
+      "section": "NOTE:",
+      "bbox": {
+        "l": 36.0,
+        "t": 582.5460195312501,
+        "r": 65.7,
+        "b": 574.3587304760582
+      }
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0654",
+      "reading_order": 838,
+      "section": "NOTE:",
+      "bbox": {
+        "l": 53.98200000000012,
+        "t": 533.4690195312502,
+        "r": 283.9680000000001,
+        "b": 525.2817304760583
+      },
+      "content": "Ensure the cavity is close to ambient temperature."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0655",
+      "reading_order": 839,
+      "section": "NOTE:",
+      "bbox": {
+        "l": 53.9910000000001,
+        "t": 521.2290195312502,
+        "r": 212.45400000000006,
+        "b": 513.0417304760583
+      },
+      "content": "Enter the Service Settings / Tests."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0656",
+      "reading_order": 840,
+      "section": "NOTE:",
+      "bbox": {
+        "l": 53.99100000000004,
+        "t": 508.9890195312501,
+        "r": 542.4390000000001,
+        "b": 500.80173047605837
+      },
+      "content": "Fill a microwave safe container (glass or plastic) with one litre (1.78 pints) of cool tap water, ideally at 20°C (68°F)."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0657",
+      "reading_order": 841,
+      "section": "NOTE:",
+      "bbox": {
+        "l": 53.982000000000085,
+        "t": 496.9920195312501,
+        "r": 526.623,
+        "b": 476.6583344167462
+      },
+      "content": "Measure and record the water temperature in the container using a thermometer capable of reading ±0.1 o C increments."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0658",
+      "reading_order": 842,
+      "section": "NOTE:",
+      "bbox": {
+        "l": 54.00600000000003,
+        "t": 472.26301953125,
+        "r": 255.63299999999998,
+        "b": 464.07573047605825
+      },
+      "content": "Place the container centrally into the cavity."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0659",
+      "reading_order": 843,
+      "section": "NOTE:",
+      "bbox": {
+        "l": 53.97,
+        "t": 460.26601953125,
+        "r": 551.787,
+        "b": 439.82133441674614
+      },
+      "content": "Select 'Microwave Power' from the service settings tests (microwave power 100% for 60 seconds, convection fan at 10%)."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0660",
+      "reading_order": 844,
+      "section": "NOTE:",
+      "bbox": {
+        "l": 54.0,
+        "t": 292.50601953125,
+        "r": 555.057,
+        "b": 272.06133441674615
+      },
+      "content": "When the countdown has finished, remove the container from the cavity. Immediately stir with a plastic implement and measure the water temperature."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0661",
+      "reading_order": 845,
+      "section": "NOTE:",
+      "bbox": {
+        "l": 54.00899999999999,
+        "t": 255.55201953124993,
+        "r": 457.27199999999993,
+        "b": 247.46433441674617
+      },
+      "content": "Calculate the temperature rise of the water (end temperature minus the start temperature)."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0662",
+      "reading_order": 846,
+      "section": "NOTE:",
+      "bbox": {
+        "l": 54.00899999999996,
+        "t": 243.42901953125,
+        "r": 452.34000000000003,
+        "b": 234.9813344167461
+      },
+      "content": " The temperature rise should be 14.3°C (25.7°F) ±10% for the 1000W (1 magnetron) variant."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0663",
+      "reading_order": 847,
+      "section": "NOTE:",
+      "bbox": {
+        "l": 54.00000000000006,
+        "t": 231.18901953124998,
+        "r": 456.5340000000001,
+        "b": 222.7413344167461
+      },
+      "content": " The temperature rise should be 28.5°C (51.4°F) ±10% for the 2000W (2 magnetrons) variant."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0664",
+      "reading_order": 848,
+      "section": "NOTE:",
+      "bbox": {
+        "l": 53.991000000000156,
+        "t": 219.19201953125003,
+        "r": 559.7460000000002,
+        "b": 186.26433441674612
+      },
+      "content": " If the temperature rise is outside these limits repeat test and/or check the microwave circuit and components. A low reading could be caused by the water container absorbing the energy, in which case an alternative container should be used."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0665",
+      "reading_order": 849,
+      "section": "NOTE:",
+      "bbox": {
+        "l": 54.0,
+        "t": 182.34601953125002,
+        "r": 450.40500000000003,
+        "b": 173.89833441674614
+      },
+      "content": " Replace the faulty HV component if required (see High voltage components in section 5.8)."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0136",
+      "reading_order": 850,
+      "section": "NOTE:",
+      "bbox": {
+        "l": 54.0634792017997,
+        "t": 425.4102027894021,
+        "r": 461.959010175578,
+        "b": 306.68660992320326
+      },
+      "image_path": "figures/figure_0136.png",
+      "previous_block_id": "txt_0665",
+      "next_block_id": "txt_0666",
+      "image_hash": "7b735f64aab7285fa50063071d5196c307b80da3c1d2192787ea3cd1a8e070be",
+      "width": 408,
+      "height": 119
+    },
+    {
+      "type": "admonition",
+      "id": "txt_0666",
+      "reading_order": 851,
+      "section": "NOTE:",
+      "bbox": {
+        "l": 50.4,
+        "t": 157.50601953125,
+        "r": 417.16799999999995,
+        "b": 149.31873047605825
+      },
+      "content": "Note: Opening the door during the test will stop the test. Reselect the test to run again.",
+      "severity": "note"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0667",
+      "reading_order": 852,
+      "section": "NOTE:",
+      "bbox": {
+        "l": 54.0,
+        "t": 133.02601953124997,
+        "r": 368.45099999999996,
+        "b": 124.93833441674622
+      },
+      "content": "On completion of the test, specify the result by selecting 'Pass' or 'Fail'."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0137",
+      "reading_order": 853,
+      "section": "NOTE:",
+      "bbox": {
+        "l": 378.55815062964604,
+        "t": 139.34273611085132,
+        "r": 537.3037399063592,
+        "b": 45.802702760180296
+      },
+      "image_path": "figures/figure_0137.png",
+      "previous_block_id": "txt_0667",
+      "image_hash": "80f3d169ffe878841e16165d6dbb378e079127c6cddf16b6258d9ccf93396fe5",
+      "width": 158,
+      "height": 94
+    }
+  ],
+  "page_stats": {
+    "block_count": 21,
+    "text_blocks": 18,
+    "paragraphs": 1,
+    "headings": 1,
+    "list_items": 14,
+    "captions": 0,
+    "admonitions": 2,
+    "references": 0,
+    "figures": 3,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

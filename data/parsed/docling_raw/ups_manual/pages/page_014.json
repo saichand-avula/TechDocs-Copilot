@@ -1,0 +1,80 @@
+{
+  "page": 14,
+  "document_id": "doc_1032c87b",
+  "page_bbox": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0130",
+      "reading_order": 147,
+      "section": "(1) The model of 80 ~120 kVA UPS",
+      "bbox": {
+        "l": 77.904,
+        "t": 730.3076629101563,
+        "r": 244.18568,
+        "b": 720.836101363195
+      },
+      "content": "(1) The model of 80 ~120 kVA UPS",
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "id": "fig_0013",
+      "reading_order": 148,
+      "section": "(1) The model of 80 ~120 kVA UPS",
+      "bbox": {
+        "l": 158.510559505794,
+        "t": 717.6699509626242,
+        "r": 457.0507054675809,
+        "b": 378.0209266835903
+      },
+      "image_path": "figures/figure_0013.png",
+      "previous_block_id": "txt_0130",
+      "next_block_id": "txt_0131"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0131",
+      "reading_order": 149,
+      "section": "(1) The model of 80 ~120 kVA UPS",
+      "bbox": {
+        "l": 201.89,
+        "t": 357.5376629101563,
+        "r": 411.99568,
+        "b": 348.066101363195
+      },
+      "content": "Figure 2- 8: The model of 80 ~ 120 kVA UPS"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0014",
+      "reading_order": 150,
+      "section": "(1) The model of 80 ~120 kVA UPS",
+      "bbox": {
+        "l": 194.87503173032448,
+        "t": 342.3248563905063,
+        "r": 421.1075565222213,
+        "b": 146.3448558569644
+      },
+      "image_path": "figures/figure_0014.png",
+      "previous_block_id": "txt_0131",
+      "next_block_id": "txt_0132"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0132",
+      "reading_order": 151,
+      "section": "(1) The model of 80 ~120 kVA UPS",
+      "bbox": {
+        "l": 105.98,
+        "t": 125.06766291015629,
+        "r": 508.01568,
+        "b": 115.59610136319498
+      },
+      "content": "Figure 2- 9: Rectifier, inverter and STS module, bus capacitance of 80 ~ 120 kVA UPS"
+    }
+  ]
+}

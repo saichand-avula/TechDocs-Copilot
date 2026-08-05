@@ -1,0 +1,138 @@
+{
+  "page": 38,
+  "document_id": "doc_27a62e0f",
+  "page_bbox": {
+    "width": 594.9600219726562,
+    "height": 842.52001953125
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0471",
+      "reading_order": 593,
+      "section": "Automatic updates",
+      "bbox": {
+        "l": 39.120000000000005,
+        "t": 766.6079195312499,
+        "r": 147.96,
+        "b": 755.8243393785781
+      },
+      "content": "Automatic updates",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0085",
+      "reading_order": 594,
+      "section": "Automatic updates",
+      "bbox": {
+        "l": 93.36572798671389,
+        "t": 733.8016825191773,
+        "r": 216.67214737140708,
+        "b": 649.0768328801611
+      },
+      "image_path": "figures/figure_0085.png",
+      "previous_block_id": "txt_0471",
+      "next_block_id": "txt_0472",
+      "image_hash": "62a88e48b4eb2c7b49781c36e4f09053bf62ae5829feca20351d0fb8d0a73b28",
+      "width": 124,
+      "height": 84
+    },
+    {
+      "type": "figure",
+      "id": "fig_0086",
+      "reading_order": 595,
+      "section": "Automatic updates",
+      "bbox": {
+        "l": 96.1474700851225,
+        "t": 640.3191420497949,
+        "r": 208.23022499794,
+        "b": 576.3653724130645
+      },
+      "image_path": "figures/figure_0086.png",
+      "previous_block_id": "txt_0471",
+      "next_block_id": "txt_0472",
+      "image_hash": "db72223d31b58397b01e20e3d9ce2003a3d5eaacc03c269c1a62d44c8e451214",
+      "width": 112,
+      "height": 64
+    },
+    {
+      "type": "figure",
+      "id": "fig_0087",
+      "reading_order": 596,
+      "section": "Automatic updates",
+      "bbox": {
+        "l": 43.82684710064801,
+        "t": 563.5047181221444,
+        "r": 231.79750432197724,
+        "b": 460.4589307300066
+      },
+      "image_path": "figures/figure_0087.png",
+      "previous_block_id": "txt_0471",
+      "next_block_id": "txt_0472",
+      "image_hash": "27747d0eec0848ea50f21f10a5849939a2b12281261a9838b46a05cd89e89df2",
+      "width": 188,
+      "height": 103
+    },
+    {
+      "type": "figure",
+      "id": "fig_0088",
+      "reading_order": 597,
+      "section": "Automatic updates",
+      "bbox": {
+        "l": 76.44765244663826,
+        "t": 388.3481564966173,
+        "r": 224.84870671642898,
+        "b": 307.6570043587883
+      },
+      "image_path": "figures/figure_0088.png",
+      "previous_block_id": "txt_0471",
+      "next_block_id": "txt_0472",
+      "image_hash": "a226d9962d92488fe510aeece886f8e3c7ee90935eb4f050340d8b89e15fb12d",
+      "width": 149,
+      "height": 81
+    },
+    {
+      "type": "table",
+      "id": "tbl_0040",
+      "reading_order": 598,
+      "section": "Automatic updates",
+      "bbox": {
+        "l": 19.297031745707866,
+        "t": 739.0174916100424,
+        "r": 583.1508789584041,
+        "b": 194.5550562749271
+      },
+      "markdown": "| 1. Load the USB stick with the required files, keeping to the correct file structure on the ROOT directory of the USB memory stick.                                                                                                        |\n|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| 2. With the oven switched OFF, open the cover of the USB port and 38 insert the USB memory stick into the slot. Wait until the USB key stops flashing (or 2 minutes) and switch oven on.                                                   |\n| 3.The screen prompts 'New UI Firmware found, update?' Select 'Update UI Firmware', the firmware then starts downloading. Download progress from the USB memory stick is displayed - 'Updating…'. DO NOT SWITCH THE OVEN OFF UNTIL COMPLETE |\n| 4. Once loaded, the oven will reboot.                                                                                                                                                                                                      |\n| 5 The main firmware file contains firmware for both boards. If a newer IO Firmware version is available, a prompt will appear. Select the tick.                                                                                            |\n| The IO firmware starts downloading. Download progress from the USB memory stick is displayed - 'Updating…'. DO NOT SWITCH THE OVEN OFF UNTIL COMPLETE                                                                                      |",
+      "rows": 6,
+      "cols": 1
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0472",
+      "reading_order": 599,
+      "section": "Automatic updates",
+      "bbox": {
+        "l": 36.0,
+        "t": 169.98601953125,
+        "r": 454.8690000000001,
+        "b": 161.89833441674614
+      },
+      "content": "Once completed you will be prompted to confirm / alter the language, time & date and Wifi settings."
+    }
+  ],
+  "page_stats": {
+    "block_count": 7,
+    "text_blocks": 2,
+    "paragraphs": 1,
+    "headings": 1,
+    "list_items": 0,
+    "captions": 0,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 4,
+    "tables": 1,
+    "toc_tables": 0
+  }
+}

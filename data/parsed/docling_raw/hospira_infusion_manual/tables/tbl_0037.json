@@ -1,0 +1,15 @@
+{
+  "id": "tbl_0037",
+  "page": 87,
+  "section": "6.4 TROUBLESHOOTING PROCEDURES",
+  "title": null,
+  "markdown": "| Table 6-4. Troubleshooting with the PVT              | Table 6-4. Troubleshooting with the PVT   | Table 6-4. Troubleshooting with the PVT             |\n|------------------------------------------------------|-------------------------------------------|-----------------------------------------------------|\n| Test Failure                                         | Probable Cause                            | Corrective Action                                   |\n| Self test (Section 5.2.4)                            | Cassette not properly installed           | Reseat cassette                                     |\n| Self test (Section 5.2.4)                            | Defective CPU PWA                         | Replace CPU PWA (see Section 7.2.12.4)              |\n| Cassette alarm test (Section 5.2.5)                  | Cassette not properly seated              | Reseat cassette                                     |\n| Cassette alarm test (Section 5.2.5)                  | Defective cassette                        | Replace cassette                                    |\n| Free flow test (Section 5.2.6)                       | Cassette not properly seated              | Reseat cassette                                     |\n| Free flow test (Section 5.2.6)                       | Defective cassette                        | Replace cassette                                    |\n| Free flow test (Section 5.2.6)                       | Defective or dirty valve pins             | Clean valve pins                                    |\n| Free flow test (Section 5.2.6)                       |                                           | Replace mechanism assembly (see Section 7.2.12.6)   |\n| Display test (Section 5.2.7)                         | Defective display assembly                | Replace display assembly (see Section 7.2.12.3)     |\n| Keypad verification/ functional test (Section 5.2.8) | Defective keypad                          | Replace keypad (see Section 7.2.12.2)               |\n| Alarm loudness test (Section 5.2.9)                  | Defective CPU                             | Replace CPU PWA (see Section 7.2.12.4)              |\n| Alarm loudness test (Section 5.2.9)                  | Defective peripheral PWA                  | Replace peripheral assembly (see Section 7.2.6)     |\n| Alarm loudness test (Section 5.2.9)                  | Defective piezo alarm assembly            | Replace piezo alarm assembly (see Section 7.2.12.5) |",
+  "block_id": "#/tables/36",
+  "reading_order": 840,
+  "bbox": {
+    "l": 106.52885437011719,
+    "t": 511.8613586425781,
+    "r": 542.7620239257812,
+    "b": 75.66131591796875
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "page": 681,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_5191",
+      "reading_order": 7180,
+      "section": "Post service test",
+      "bbox": {
+        "l": 122.0,
+        "t": 732.29,
+        "r": 236.97999999999993,
+        "b": 720.7
+      },
+      "content": "Dispose of the old part."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_5192",
+      "reading_order": 7181,
+      "section": "Post service test",
+      "bbox": {
+        "l": 144.0,
+        "t": 708.79,
+        "r": 413.8599999999999,
+        "b": 697.2
+      },
+      "content": "NOTE: HP recommends responsible disposal of the defective part."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_5193",
+      "reading_order": 7182,
+      "section": "Post service test",
+      "bbox": {
+        "l": 122.0,
+        "t": 686.29,
+        "r": 342.5199999999998,
+        "b": 674.7
+      },
+      "content": "Unpack the replacement part from the packaging."
+    },
+    {
+      "type": "figure",
+      "id": "fig_1942",
+      "reading_order": 7183,
+      "section": "Post service test",
+      "bbox": {
+        "l": 127.92022659633419,
+        "t": 711.0777359008789,
+        "r": 140.360072058577,
+        "b": 697.68408203125
+      },
+      "image_path": "figures/figure_1942.png",
+      "decorative": true,
+      "width": 12,
+      "height": 13,
+      "image_hash": "74ce7e8f2a5626463dd6444cf5bfde42178fe3c8175c4176382a6d973a8e84c7",
+      "previous_block_id": "txt_5193",
+      "next_block_id": "txt_5194"
+    },
+    {
+      "type": "reference",
+      "id": "txt_5194",
+      "reading_order": 7184,
+      "section": "Post service test",
+      "bbox": {
+        "l": 144.00002,
+        "t": 665.29,
+        "r": 467.29003000000006,
+        "b": 653.7
+      },
+      "content": "http://www8.hp.com/us/en/hp-information/environment/product-recycling.html"
+    },
+    {
+      "type": "caption",
+      "id": "txt_5195",
+      "reading_order": 7185,
+      "section": "Post service test",
+      "bbox": {
+        "l": 144.00004,
+        "t": 644.29,
+        "r": 285.07003999999995,
+        "b": 632.7
+      },
+      "content": "Figure 1-1131  Recycle and unpack",
+      "caption_for": "fig_1943"
+    },
+    {
+      "type": "figure",
+      "id": "fig_1943",
+      "reading_order": 7186,
+      "section": "Post service test",
+      "bbox": {
+        "l": 144.38908967938306,
+        "t": 633.6103668212891,
+        "r": 305.1248236709314,
+        "b": 365.7319030761719
+      },
+      "image_path": "figures/figure_1943.png",
+      "caption": "Recycle and unpack",
+      "figure_number": "Figure 1-1131",
+      "image_hash": "14bbcd467ec083a1e30bf3744b344f6bfa0399698e242e1e41293e88c142c7e8",
+      "width": 161,
+      "height": 268,
+      "previous_block_id": "txt_5195",
+      "next_block_id": "txt_5196",
+      "caption_id": "txt_5195"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_5196",
+      "reading_order": 7187,
+      "section": "Post service test",
+      "bbox": {
+        "l": 100.0,
+        "t": 355.02049,
+        "r": 271.17999999999995,
+        "b": 343.43048999999996
+      },
+      "content": "Install the internal USB ports module."
+    },
+    {
+      "type": "figure",
+      "id": "fig_1944",
+      "reading_order": 7188,
+      "section": "Post service test",
+      "bbox": {
+        "l": 105.88743918717472,
+        "t": 333.9459533691406,
+        "r": 120.50581689171274,
+        "b": 320.0258483886719
+      },
+      "image_path": "figures/figure_1944.png",
+      "decorative": true,
+      "width": 14,
+      "height": 13,
+      "image_hash": "3d4b59928fd7e8c1c3c9d9607b4fc93ce44feb82e3c9a16b777944c76360f2e3",
+      "previous_block_id": "txt_5196",
+      "next_block_id": "txt_5197"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_5197",
+      "reading_order": 7189,
+      "severity": "caution",
+      "content": "CAUTION: ESD-sensitive part.",
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 122.0,
+        "t": 326.13552,
+        "r": 159.75,
+        "b": 314.54552
+      }
+    },
+    {
+      "type": "figure",
+      "id": "fig_1945",
+      "reading_order": 7191,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 169.29048364385963,
+        "t": 330.4978942871094,
+        "r": 188.4513243952719,
+        "b": 308.8724365234375
+      },
+      "image_path": "figures/figure_1945.png",
+      "decorative": true,
+      "width": 19,
+      "height": 21,
+      "image_hash": "ed360dee302d96feb4bee483543143c559e9a65d4fa443d871e5f465cfce0749",
+      "next_block_id": "txt_5199"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_5199",
+      "reading_order": 7192,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 122.0,
+        "t": 297.02049,
+        "r": 542.6200000000002,
+        "b": 273.43048999999996
+      },
+      "content": "Position the notches on the internal USB ports PCA over the clips on the PCA holder and press down to attach the PCA to the holder. Make sure that the clips snap into place."
+    }
+  ],
+  "page_stats": {
+    "block_count": 12,
+    "text_blocks": 8,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 5,
+    "captions": 1,
+    "admonitions": 1,
+    "references": 1,
+    "figures": 4,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

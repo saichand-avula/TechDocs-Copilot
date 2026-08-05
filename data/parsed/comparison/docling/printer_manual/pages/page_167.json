@@ -1,0 +1,125 @@
+{
+  "page": 167,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0438",
+      "reading_order": 2031,
+      "section": "Post service test",
+      "bbox": {
+        "l": 142.7796636111862,
+        "t": 718.1957015991211,
+        "r": 348.69174712417384,
+        "b": 567.1673736572266
+      },
+      "image_path": "figures/figure_0438.png",
+      "caption": "Release the lower hinge",
+      "figure_number": "Figure 1-218",
+      "image_hash": "b7ff5c4dd70560706d3a443a7bdfb22d540d2ea97bf3e12560d90f6119237a9e",
+      "width": 206,
+      "height": 151,
+      "previous_block_id": "txt_1568",
+      "next_block_id": "txt_1569",
+      "caption_id": "txt_1571"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0439",
+      "reading_order": 2032,
+      "section": "Post service test",
+      "bbox": {
+        "l": 363.57774481656924,
+        "t": 719.5828323364258,
+        "r": 569.0318682580122,
+        "b": 567.0624847412109
+      },
+      "image_path": "figures/figure_0439.png",
+      "caption": "Release the upper hinge or remove the cover",
+      "figure_number": "Figure 1-217",
+      "image_hash": "7b09b115ce2e922cdbf7c2d2e352abef39ebe012d8f808b88ca96bc30ed0384c",
+      "width": 205,
+      "height": 153,
+      "previous_block_id": "txt_1568",
+      "next_block_id": "txt_1569"
+    },
+    {
+      "type": "caption",
+      "id": "txt_1569",
+      "reading_order": 2033,
+      "section": "Post service test",
+      "bbox": {
+        "l": 144.0,
+        "t": 732.29,
+        "r": 380.27998999999994,
+        "b": 720.7
+      },
+      "content": "Figure 1-217  Release the upper hinge or remove the cover",
+      "caption_for": "fig_0438"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1570",
+      "reading_order": 2034,
+      "section": "Post service test",
+      "bbox": {
+        "l": 122.0,
+        "t": 555.7872,
+        "r": 453.23999000000003,
+        "b": 544.1972000000001
+      },
+      "content": "Stapler models: Use a small flat-blade screwdriver to release the lower hinge."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0440",
+      "reading_order": 2035,
+      "section": "Post service test",
+      "bbox": {
+        "l": 142.96285069012592,
+        "t": 522.4362182617188,
+        "r": 432.78549075490724,
+        "b": 305.1322326660156
+      },
+      "image_path": "figures/figure_0440.png",
+      "caption": "Release the lower hinge",
+      "figure_number": "Figure 1-218",
+      "image_hash": "19b1cf641dbdd3101f6c8481f7374f0bb68dc8d587fe3fbb649b3cae0ca7a59e",
+      "width": 290,
+      "height": 217,
+      "previous_block_id": "txt_1570",
+      "next_block_id": "txt_1571"
+    },
+    {
+      "type": "caption",
+      "id": "txt_1571",
+      "reading_order": 2036,
+      "section": "Post service test",
+      "bbox": {
+        "l": 144.00002,
+        "t": 534.7872,
+        "r": 296.4300199999999,
+        "b": 523.1972000000001
+      },
+      "content": "Figure 1-218  Release the lower hinge",
+      "caption_for": "fig_0438"
+    }
+  ],
+  "page_stats": {
+    "block_count": 6,
+    "text_blocks": 3,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 1,
+    "captions": 2,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 3,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

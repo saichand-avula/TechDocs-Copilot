@@ -1,0 +1,132 @@
+{
+  "page": 586,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_1668",
+      "reading_order": 6149,
+      "section": "20. Remove the DC controller (DCC).",
+      "bbox": {
+        "l": 133.54374658566658,
+        "t": 719.5554046630859,
+        "r": 424.0738935528652,
+        "b": 502.1902770996094
+      },
+      "image_path": "figures/figure_1668.png",
+      "caption": "Disconnect all connectors and FFCs",
+      "figure_number": "Figure 1-973",
+      "image_hash": "fcfe4a664293918e952b4d8d9b0bb56881ee0cd938efc94d9ce0cbf6d403fd70",
+      "width": 290,
+      "height": 218,
+      "previous_block_id": "txt_4439",
+      "next_block_id": "txt_4440",
+      "caption_id": "txt_4440"
+    },
+    {
+      "type": "caption",
+      "id": "txt_4440",
+      "reading_order": 6150,
+      "section": "20. Remove the DC controller (DCC).",
+      "bbox": {
+        "l": 135.0,
+        "t": 732.29,
+        "r": 331.69998999999996,
+        "b": 720.7
+      },
+      "content": "Figure 1-973  Disconnect all connectors and FFCs",
+      "caption_for": "fig_1668"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_4441",
+      "reading_order": 6151,
+      "section": "20. Remove the DC controller (DCC).",
+      "bbox": {
+        "l": 113.0,
+        "t": 491.41999999999996,
+        "r": 413.64000000000004,
+        "b": 479.83000000000004
+      },
+      "content": "Remove three screws (callout 1), and then remove the DCC (callout 2)."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_4442",
+      "reading_order": 6152,
+      "section": "20. Remove the DC controller (DCC).",
+      "bbox": {
+        "l": 91.0,
+        "t": 229.54999999999995,
+        "r": 253.63999999999993,
+        "b": 217.96000000000004
+      },
+      "content": "Unpack the replacement assembly."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_4443",
+      "reading_order": 6153,
+      "section": "20. Remove the DC controller (DCC).",
+      "bbox": {
+        "l": 113.0,
+        "t": 208.54999999999995,
+        "r": 252.10999999999987,
+        "b": 196.96000000000004
+      },
+      "content": "Dispose of the defective part."
+    },
+    {
+      "type": "figure",
+      "id": "fig_1669",
+      "reading_order": 6154,
+      "section": "20. Remove the DC controller (DCC).",
+      "bbox": {
+        "l": 133.60780334459977,
+        "t": 457.7007141113281,
+        "r": 423.82825113396564,
+        "b": 240.5648193359375
+      },
+      "image_path": "figures/figure_1669.png",
+      "caption": "Remove the DCC",
+      "figure_number": "Figure 1-974",
+      "image_hash": "b480f7441777e5a3f6046b40b77a945a2061212dd629e4f3297b6ae7f9ea3e5d",
+      "width": 290,
+      "height": 217,
+      "previous_block_id": "txt_4443",
+      "next_block_id": "txt_4444",
+      "caption_id": "txt_4444"
+    },
+    {
+      "type": "caption",
+      "id": "txt_4444",
+      "reading_order": 6155,
+      "section": "20. Remove the DC controller (DCC).",
+      "bbox": {
+        "l": 134.99998,
+        "t": 470.42,
+        "r": 258.1699699999999,
+        "b": 458.83
+      },
+      "content": "Figure 1-974  Remove the DCC",
+      "caption_for": "fig_1669"
+    }
+  ],
+  "page_stats": {
+    "block_count": 7,
+    "text_blocks": 5,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 3,
+    "captions": 2,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 2,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

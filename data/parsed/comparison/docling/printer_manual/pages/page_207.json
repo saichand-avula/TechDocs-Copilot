@@ -1,0 +1,106 @@
+{
+  "page": 207,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0558",
+      "reading_order": 2436,
+      "section": "Post service test",
+      "bbox": {
+        "l": 142.75555081693065,
+        "t": 719.8527374267578,
+        "r": 432.67470306517134,
+        "b": 502.50762939453125
+      },
+      "image_path": "figures/figure_0558.png",
+      "caption": "Disconnect one flat cable",
+      "figure_number": "Figure 1-291",
+      "image_hash": "fe78e2752f5898937189aecd8bcaef872f753d9374ab753f11b2093eb7837f01",
+      "width": 290,
+      "height": 217,
+      "previous_block_id": "txt_1851",
+      "next_block_id": "txt_1852",
+      "caption_id": "txt_1852"
+    },
+    {
+      "type": "caption",
+      "id": "txt_1852",
+      "reading_order": 2437,
+      "section": "Post service test",
+      "bbox": {
+        "l": 144.0,
+        "t": 732.29,
+        "r": 300.76000999999997,
+        "b": 720.7
+      },
+      "content": "Figure 1-291  Disconnect one flat cable",
+      "caption_for": "fig_0558"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1853",
+      "reading_order": 2438,
+      "section": "Post service test",
+      "bbox": {
+        "l": 122.0,
+        "t": 491.41999999999996,
+        "r": 412.45000000000016,
+        "b": 479.83000000000004
+      },
+      "content": "Locate two tabs (callout 1) along the rear edge of the control panel."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0559",
+      "reading_order": 2439,
+      "section": "Post service test",
+      "bbox": {
+        "l": 142.9571008334312,
+        "t": 457.80999755859375,
+        "r": 432.6104632869269,
+        "b": 240.57293701171875
+      },
+      "image_path": "figures/figure_0559.png",
+      "caption": "Locate two tabs",
+      "figure_number": "Figure 1-292",
+      "image_hash": "0c8d05689e0cfa50e05001b572320a86f5099d76142cbb6b75b75e96fa5e85b9",
+      "width": 290,
+      "height": 217,
+      "previous_block_id": "txt_1853",
+      "next_block_id": "txt_1854",
+      "caption_id": "txt_1854"
+    },
+    {
+      "type": "caption",
+      "id": "txt_1854",
+      "reading_order": 2440,
+      "section": "Post service test",
+      "bbox": {
+        "l": 144.00004,
+        "t": 470.42,
+        "r": 264.4700399999999,
+        "b": 458.83
+      },
+      "content": "Figure 1-292  Locate two tabs",
+      "caption_for": "fig_0559"
+    }
+  ],
+  "page_stats": {
+    "block_count": 5,
+    "text_blocks": 3,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 1,
+    "captions": 2,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 2,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

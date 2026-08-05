@@ -1,0 +1,417 @@
+{
+  "page": 307,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0840",
+      "reading_order": 3387,
+      "section": "Post service test",
+      "bbox": {
+        "l": 127.81142161580335,
+        "t": 732.080379486084,
+        "r": 140.43114455777433,
+        "b": 718.3900756835938
+      },
+      "image_path": "figures/figure_0840.png",
+      "width": 12,
+      "height": 13,
+      "image_hash": "78596d107f706ac66b95175dd5da3c7340e7a8313dc4d5205668ef5b2c7e5290",
+      "previous_block_id": "txt_2517",
+      "next_block_id": "txt_2518"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2518",
+      "reading_order": 3388,
+      "section": "Post service test",
+      "bbox": {
+        "l": 144.0,
+        "t": 729.79,
+        "r": 413.8599999999999,
+        "b": 718.2
+      },
+      "content": "NOTE: HP recommends responsible disposal of the defective part."
+    },
+    {
+      "type": "reference",
+      "id": "txt_2519",
+      "reading_order": 3389,
+      "section": "Post service test",
+      "bbox": {
+        "l": 143.99998,
+        "t": 708.79,
+        "r": 467.28998,
+        "b": 697.2
+      },
+      "content": "http://www8.hp.com/us/en/hp-information/environment/product-recycling.html"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2520",
+      "reading_order": 3390,
+      "section": "Post service test",
+      "bbox": {
+        "l": 122.0,
+        "t": 686.29,
+        "r": 342.5199999999998,
+        "b": 674.7
+      },
+      "content": "Unpack the replacement part from the packaging."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0841",
+      "reading_order": 3391,
+      "section": "Post service test",
+      "bbox": {
+        "l": 128.06027449845422,
+        "t": 665.1995010375977,
+        "r": 142.58368043206914,
+        "b": 650.7207489013672
+      },
+      "image_path": "figures/figure_0841.png",
+      "width": 14,
+      "height": 14,
+      "image_hash": "d9f32829a97c067c8684ca19538226d4f913b14a5d840921f4929daaae70d97d",
+      "previous_block_id": "txt_2520",
+      "next_block_id": "txt_2521"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0842",
+      "reading_order": 3392,
+      "section": "Post service test",
+      "bbox": {
+        "l": 127.66201685139629,
+        "t": 549.0344085693359,
+        "r": 140.1095338731018,
+        "b": 535.6786804199219
+      },
+      "image_path": "figures/figure_0842.png",
+      "width": 12,
+      "height": 13,
+      "image_hash": "7a31dbac93603d3b69c712753810cb987bbf98104910025d3614d64e7a45f0ac",
+      "previous_block_id": "txt_2520",
+      "next_block_id": "txt_2521"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_2521",
+      "reading_order": 3393,
+      "severity": "caution",
+      "content": "CAUTION: Some parts are sensitive to electrostatic discharge (ESD). Always perform service",
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 144.0,
+        "t": 657.405,
+        "r": 181.75,
+        "b": 645.815
+      }
+    },
+    {
+      "type": "figure",
+      "id": "fig_0843",
+      "reading_order": 3395,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 191.0789784015399,
+        "t": 661.1435699462891,
+        "r": 210.463712777033,
+        "b": 640.3086700439453
+      },
+      "image_path": "figures/figure_0843.png",
+      "width": 19,
+      "height": 20,
+      "image_hash": "be2730fe1181a0588ffae5c6f05c15167e8e1f48318236509bde5d200972608b",
+      "previous_block_id": "txt_2522",
+      "next_block_id": "txt_2523"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_2523",
+      "reading_order": 3396,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 144.0,
+        "t": 638.79,
+        "r": 549.7700400000001,
+        "b": 603.2
+      },
+      "content": "work at an ESD-protected workstation or mat. If an ESD workstation or mat is not available, touch the sheet-metal chassis to provide a static ground before touching an ESD-sensitive assembly. Protect the ESD-sensitive assemblies by placing them in ESD pouches when they are out of the printer."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_2524",
+      "reading_order": 3397,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 144.00004,
+        "t": 593.79,
+        "r": 548.6300400000002,
+        "b": 558.2
+      },
+      "content": "If the replacement part is a roller or pad, avoid touching the spongy part of it. Skin oils on the roller or pad can cause paper pickup and/or print-quality problems. HP recommends using disposable gloves when handling rollers or pads or washing your hands before touching rollers or pads."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2525",
+      "reading_order": 3398,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 144.0,
+        "t": 548.79,
+        "r": 541.73,
+        "b": 525.2
+      },
+      "content": "IMPORTANT: Make sure that all of the shipping materials (for example shipping tape) are removed from the replacement part prior to installation."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2526",
+      "reading_order": 3399,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 122.0,
+        "t": 514.29,
+        "r": 343.02,
+        "b": 502.70000000000005
+      },
+      "content": "To install an assembly, reverse the removal steps."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_2527",
+      "reading_order": 3400,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 144.00002,
+        "t": 493.28999999999996,
+        "r": 551.6100400000003,
+        "b": 457.7
+      },
+      "content": "When applicable, special installation instructions are provided for an assembly at the end of the removal procedure. Always completely read the removal instructions and follow all special installation instructions."
+    },
+    {
+      "type": "heading",
+      "id": "txt_2528",
+      "reading_order": 3401,
+      "section": "Removal and replacement: Wireless printed-circuit board (WiFi) (M506x/E50045x)",
+      "bbox": {
+        "l": 54.00004,
+        "t": 444.29,
+        "r": 380.74004,
+        "b": 432.7
+      },
+      "content": "Removal and replacement: Wireless printed-circuit board (WiFi) (M506x/E50045x)",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_2529",
+      "reading_order": 3402,
+      "section": "Removal and replacement: Wireless printed-circuit board (WiFi) (M506x/E50045x)",
+      "bbox": {
+        "l": 100.00005999999999,
+        "t": 424.29,
+        "r": 304.3700599999999,
+        "b": 412.7
+      },
+      "content": "Learn how to remove and replace the wireless PCA."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_2530",
+      "reading_order": 3403,
+      "section": "Removal and replacement: Wireless printed-circuit board (WiFi) (M506x/E50045x)",
+      "bbox": {
+        "l": 100.00008,
+        "t": 403.29,
+        "r": 334.76007999999996,
+        "b": 391.7
+      },
+      "content": "To view a short video of this procedure, click the link below.",
+      "hyperlink_hint": true
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_2531",
+      "reading_order": 3404,
+      "section": "Removal and replacement: Wireless printed-circuit board (WiFi) (M506x/E50045x)",
+      "bbox": {
+        "l": 100.0,
+        "t": 382.29,
+        "r": 341.69999999999993,
+        "b": 370.7
+      },
+      "content": "View a video of how to remove and replace the wireless PCA.",
+      "hyperlink_hint": true
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_2532",
+      "reading_order": 3405,
+      "section": "Removal and replacement: Wireless printed-circuit board (WiFi) (M506x/E50045x)",
+      "bbox": {
+        "l": 100.00004,
+        "t": 358.29,
+        "r": 222.25003999999998,
+        "b": 346.7
+      },
+      "content": "Mean time to repair: 8 minutes"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_2533",
+      "reading_order": 3406,
+      "section": "Removal and replacement: Wireless printed-circuit board (WiFi) (M506x/E50045x)",
+      "bbox": {
+        "l": 100.00005,
+        "t": 337.29,
+        "r": 173.02004999999997,
+        "b": 325.7
+      },
+      "content": "Service level: Easy"
+    },
+    {
+      "type": "heading",
+      "id": "txt_2534",
+      "reading_order": 3407,
+      "section": "Before performing service",
+      "bbox": {
+        "l": 100.00005,
+        "t": 312.29,
+        "r": 204.24004999999997,
+        "b": 300.7
+      },
+      "content": "Before performing service",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "heading",
+      "id": "txt_2535",
+      "reading_order": 3408,
+      "section": "Turn the printer power off",
+      "bbox": {
+        "l": 100.00007,
+        "t": 292.29,
+        "r": 202.98006,
+        "b": 280.7
+      },
+      "content": "Turn the printer power off",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2536",
+      "reading_order": 3409,
+      "section": "Turn the printer power off",
+      "bbox": {
+        "l": 100.00007,
+        "t": 271.28999999999996,
+        "r": 234.21006999999994,
+        "b": 259.70000000000005
+      },
+      "content": "Disconnect the power cable."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0844",
+      "reading_order": 3410,
+      "section": "Turn the printer power off",
+      "bbox": {
+        "l": 106.20044033841442,
+        "t": 249.82550048828125,
+        "r": 120.09631880862295,
+        "b": 236.7669677734375
+      },
+      "image_path": "figures/figure_0844.png",
+      "caption": "Part number",
+      "width": 13,
+      "height": 13,
+      "figure_number": "Table 1-29",
+      "image_hash": "dd3ccaafe8241dd04c92da398bccb04c42ae02ea919dd6112ad760af8c27d480",
+      "previous_block_id": "txt_2536",
+      "next_block_id": "txt_2537",
+      "caption_id": "txt_2539"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_2537",
+      "reading_order": 3411,
+      "section": "Turn the printer power off",
+      "bbox": {
+        "l": 122.0,
+        "t": 247.78999999999996,
+        "r": 533.0700000000002,
+        "b": 224.20000000000005
+      },
+      "content": "WARNING! To avoid damage to the printer, turn the printer off, wait 30 seconds, and then remove the power cord before attempting to service the printer.",
+      "severity": "warning"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_2538",
+      "reading_order": 3412,
+      "section": "Turn the printer power off",
+      "bbox": {
+        "l": 100.0,
+        "t": 213.28999999999996,
+        "r": 479.47000000000025,
+        "b": 189.70000000000005
+      },
+      "content": "Use the table below to identify the correct part number for your printer . To order the part, go to www.hp.com/buy/parts."
+    },
+    {
+      "type": "caption",
+      "id": "txt_2539",
+      "reading_order": 3413,
+      "section": "Turn the printer power off",
+      "bbox": {
+        "l": 100.0,
+        "t": 178.66100000000006,
+        "r": 188.281,
+        "b": 168.22998000000007
+      },
+      "content": "Table 1-29  Part number",
+      "caption_for": "fig_0844"
+    },
+    {
+      "type": "table",
+      "id": "tbl_0032",
+      "reading_order": 3414,
+      "section": "Turn the printer power off",
+      "bbox": {
+        "l": 99.34471995876007,
+        "t": 165.9658203125,
+        "r": 550.3183267032649,
+        "b": 122.6802978515625
+      },
+      "markdown": "| Wireless PCA part number   |\n|----------------------------|\n| 1150-7968                  |",
+      "title": "Table 1-29  Part number",
+      "table_number": "Table 1-29",
+      "rows": 2,
+      "cols": 1
+    }
+  ],
+  "page_stats": {
+    "block_count": 27,
+    "text_blocks": 21,
+    "paragraphs": 9,
+    "headings": 3,
+    "list_items": 5,
+    "captions": 1,
+    "admonitions": 2,
+    "references": 1,
+    "figures": 5,
+    "tables": 1,
+    "toc_tables": 0
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "page": 549,
+  "document_id": "doc_7e4fe272",
+  "blocks": [
+    {
+      "type": "caption",
+      "id": "txt_2194",
+      "reading_order": 2820,
+      "section": "/page/547/SectionHeader/2",
+      "content": "Figure 1-904 Remove the fax PCA",
+      "caption_for": "fig_0602"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0602",
+      "reading_order": 2821,
+      "section": "/page/548/SectionHeader/2",
+      "image_path": "figures/figure_0602.png",
+      "previous_text_id": "txt_2194",
+      "next_text_id": "txt_2195",
+      "caption": "Figure 1-904 Remove the fax PCA",
+      "caption_id": "txt_2194"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_2195",
+      "reading_order": 2822,
+      "section": "/page/548/SectionHeader/2",
+      "content": "CAUTION: Never remove and then install a replacement DCC and formatter at the same time. Doing so will cause the printer to become unstable.",
+      "severity": "caution"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_2196",
+      "reading_order": 2823,
+      "section": "/page/548/SectionHeader/2",
+      "content": "If a replacement DCC and formatter must be installed, first remove and install the formatter. Test operate the printer, and then if necessary install a replacement DCC."
+    },
+    {
+      "type": "admonition",
+      "id": "txt_2197",
+      "reading_order": 2824,
+      "section": "/page/548/SectionHeader/2",
+      "content": "IMPORTANT: Take note of all empty connectors on the PCA before disconnecting any wire harnesses or flat-flexible cables (FFCs). Some empty connectors might not be visible until other items—like the harddisk drive—are removed, so pay close attention while removing the formatter and accessory items.",
+      "severity": "important"
+    }
+  ]
+}

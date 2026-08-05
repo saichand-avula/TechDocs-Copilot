@@ -1,0 +1,15 @@
+{
+  "id": "tbl_0135",
+  "page": 227,
+  "section": "7.3.9 Power Supply Over or under voltagve fault",
+  "title": null,
+  "markdown": "| Indoor display outdoor display:          | F19 LED1                                                                                 | flash 6 times                                                                                                  |\n|------------------------------------------|------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|\n| Method of circuit. Malfunction Detection | An abnormal voltage rise or fall is detected by checking the specified voltage detection | An abnormal voltage rise or fall is detected by checking the specified voltage detection                       |\n| Malfunction Decision Conditions          | An voltage signal is fed from the voltage detection circuit to the microcomputer         | An voltage signal is fed from the voltage detection circuit to the microcomputer                               |\n| Supposed Causes                          | Ƶ Supply voltage not as specified Ƶ the IPM module is broken Ƶ the outdoor PCB is broken | Ƶ Supply voltage not as specified Ƶ the IPM module is broken Ƶ the outdoor PCB is broken                       |\n| T roubleshooting                         | * Caution                                                                                | Be sure to turn off power switch before connect or disconnect connector, or else parts damage may be occurred. |",
+  "block_id": "#/tables/134",
+  "reading_order": 2504,
+  "bbox": {
+    "l": 55.50587968709213,
+    "t": 739.9126663208008,
+    "r": 538.6821697401149,
+    "b": 524.6697387695312
+  }
+}

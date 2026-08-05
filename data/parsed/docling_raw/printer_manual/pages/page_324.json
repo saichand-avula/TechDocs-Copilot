@@ -1,0 +1,209 @@
+{
+  "page": 324,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_2684",
+      "reading_order": 3611,
+      "section": "Required tools",
+      "bbox": {
+        "l": 91.0,
+        "t": 733.29,
+        "r": 149.23999999999998,
+        "b": 721.7
+      },
+      "content": "Required tools",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2685",
+      "reading_order": 3612,
+      "section": "Required tools",
+      "bbox": {
+        "l": 91.0,
+        "t": 713.29,
+        "r": 366.3800000000001,
+        "b": 701.7
+      },
+      "content": "No special tools are required to remove or install this assembly."
+    },
+    {
+      "type": "heading",
+      "id": "txt_2686",
+      "reading_order": 3613,
+      "section": "After performing service",
+      "bbox": {
+        "l": 91.00004,
+        "t": 688.04086,
+        "r": 188.33003999999994,
+        "b": 676.45086
+      },
+      "content": "After performing service",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "heading",
+      "id": "txt_2687",
+      "reading_order": 3614,
+      "section": "Turn the printer power on",
+      "bbox": {
+        "l": 91.00005,
+        "t": 668.04086,
+        "r": 193.35005,
+        "b": 656.45086
+      },
+      "content": "Turn the printer power on",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2688",
+      "reading_order": 3615,
+      "section": "Turn the printer power on",
+      "bbox": {
+        "l": 91.00005,
+        "t": 647.04086,
+        "r": 213.84004999999996,
+        "b": 635.45086
+      },
+      "content": "Connect the power cable."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2689",
+      "reading_order": 3616,
+      "section": "Turn the printer power on",
+      "bbox": {
+        "l": 91.00004,
+        "t": 625.7917199999999,
+        "r": 285.29004,
+        "b": 614.20172
+      },
+      "content": "Use the power switch to turn the power on."
+    },
+    {
+      "type": "heading",
+      "id": "txt_2690",
+      "reading_order": 3617,
+      "section": "Post service test",
+      "bbox": {
+        "l": 91.00004,
+        "t": 600.54257,
+        "r": 156.89003999999997,
+        "b": 588.95257
+      },
+      "content": "Post service test",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_2691",
+      "reading_order": 3618,
+      "section": "Post service test",
+      "bbox": {
+        "l": 91.00004,
+        "t": 580.54257,
+        "r": 294.80003999999985,
+        "b": 568.95257
+      },
+      "content": "Use a wireless device to print a job from the printer ."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2692",
+      "reading_order": 3619,
+      "section": "Post service test",
+      "bbox": {
+        "l": 91.00004,
+        "t": 559.54257,
+        "r": 227.2500399999999,
+        "b": 547.95257
+      },
+      "content": "Remove the formatter cover."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2693",
+      "reading_order": 3620,
+      "section": "Post service test",
+      "bbox": {
+        "l": 113.00003,
+        "t": 540.12257,
+        "r": 230.11002999999997,
+        "b": 526.03257
+      },
+      "content": "▲ Do one of the following:"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2694",
+      "reading_order": 3621,
+      "section": "Post service test",
+      "bbox": {
+        "l": 113.00002,
+        "t": 516.9321,
+        "r": 511.0200200000003,
+        "b": 493.3421
+      },
+      "content": "M501: Remove one screw (callout 1), and then slide the cover toward the rear of the printer to remove it (callout 2)."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0895",
+      "reading_order": 3622,
+      "section": "Post service test",
+      "bbox": {
+        "l": 133.66275489279892,
+        "t": 471.40155029296875,
+        "r": 424.0169440438517,
+        "b": 254.425048828125
+      },
+      "image_path": "figures/figure_0895.png",
+      "caption": "Remove the formatter cover (M501)",
+      "figure_number": "Figure 1-498",
+      "image_hash": "1d6a33effec039e8229e567c9935a88d7f64ee93f561501eb93478bdec53c755",
+      "width": 290,
+      "height": 217,
+      "previous_block_id": "txt_2694",
+      "next_block_id": "txt_2695",
+      "caption_id": "txt_2695"
+    },
+    {
+      "type": "caption",
+      "id": "txt_2695",
+      "reading_order": 3623,
+      "section": "Post service test",
+      "bbox": {
+        "l": 135.00004,
+        "t": 483.93211999999994,
+        "r": 335.68004,
+        "b": 472.34211999999997
+      },
+      "content": "Figure 1-498  Remove the formatter cover (M501)",
+      "caption_for": "fig_0895"
+    }
+  ],
+  "page_stats": {
+    "block_count": 13,
+    "text_blocks": 12,
+    "paragraphs": 1,
+    "headings": 4,
+    "list_items": 6,
+    "captions": 1,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 1,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

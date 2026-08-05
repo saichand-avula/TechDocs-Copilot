@@ -1,0 +1,171 @@
+{
+  "page": 57,
+  "document_id": "doc_e02482e6",
+  "page_bbox": {
+    "width": 595.0,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0401",
+      "reading_order": 609,
+      "section": "Text on figure",
+      "bbox": {
+        "l": 90.57,
+        "t": 585.181,
+        "r": 152.8014,
+        "b": 573.004
+      },
+      "content": "Text on figure",
+      "level": 2
+    },
+    {
+      "type": "table",
+      "id": "tbl_0042",
+      "reading_order": 610,
+      "section": "Text on figure",
+      "bbox": {
+        "l": 92.47045135498047,
+        "t": 566.6387939453125,
+        "r": 553.7913208007812,
+        "b": 517.3547973632812
+      },
+      "markdown": "| (1)   | Configuration     |\n|-------|-------------------|\n| (2)   | Pressure Settings |\n| (3)   | Main screen       |"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0402",
+      "reading_order": 611,
+      "section": "Text on figure",
+      "bbox": {
+        "l": 90.57,
+        "t": 494.0405,
+        "r": 517.9573999999988,
+        "b": 481.86350000000004
+      },
+      "content": "Using the scroll keys (1), move the cursor to the settings icon (see above, section menu icon)."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0403",
+      "reading_order": 612,
+      "section": "Text on figure",
+      "bbox": {
+        "l": 90.57,
+        "t": 474.9005,
+        "r": 209.75390000000002,
+        "b": 462.72350000000006
+      },
+      "content": "Press the enter key (2)."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0404",
+      "reading_order": 613,
+      "section": "Text on figure",
+      "bbox": {
+        "l": 90.57,
+        "t": 455.76050000000004,
+        "r": 518.0112999999994,
+        "b": 430.3835000000001
+      },
+      "content": "Navigate to the settings icon (see above) using the scroll keys (1) and press the enter key (2), following screen appears:"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0405",
+      "reading_order": 614,
+      "section": "Text on figure",
+      "bbox": {
+        "l": 90.57,
+        "t": 209.94100000000003,
+        "r": 445.9998000000006,
+        "b": 197.764
+      },
+      "content": "Select the modify button using the scroll keys (1) and press the enter key (2)."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0406",
+      "reading_order": 615,
+      "section": "Text on figure",
+      "bbox": {
+        "l": 90.57,
+        "t": 190.80099999999993,
+        "r": 556.9238000000009,
+        "b": 152.22400000000005
+      },
+      "content": "A screen similar to the one above is shown, a red selection bar is covering the first item (Language), if necessary, use the arrow down key of scroll keys (1) to select the general setting to be modified and pressthe enter key."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0407",
+      "reading_order": 616,
+      "section": "Text on figure",
+      "bbox": {
+        "l": 90.57,
+        "t": 145.26099999999997,
+        "r": 546.5298999999995,
+        "b": 119.88400000000001
+      },
+      "content": "A pop-up screen appears, use the arrow up or arrow down key to select the required parameter and press the enter key."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0408",
+      "reading_order": 617,
+      "section": "Text on figure",
+      "bbox": {
+        "l": 90.57,
+        "t": 112.92100000000005,
+        "r": 332.7581000000002,
+        "b": 100.74400000000003
+      },
+      "content": "The new parameter is programmed in the regulator."
+    },
+    {
+      "type": "table",
+      "id": "tbl_0043",
+      "reading_order": 618,
+      "section": "Text on figure",
+      "bbox": {
+        "l": 228.47325134277344,
+        "t": 413.4272766113281,
+        "r": 429.5362243652344,
+        "b": 236.3663330078125
+      },
+      "markdown": ""
+    },
+    {
+      "type": "figure",
+      "id": "fig_0169",
+      "reading_order": 619,
+      "section": "Text on figure",
+      "bbox": {
+        "l": 226.7623748779297,
+        "t": 770.9781646728516,
+        "r": 427.8053894042969,
+        "b": 603.6072845458984
+      },
+      "image_path": "figures/figure_0169.png",
+      "previous_block_id": "txt_0408",
+      "next_block_id": "txt_0409"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0170",
+      "reading_order": 620,
+      "section": "Text on figure",
+      "bbox": {
+        "l": 519.3885498046875,
+        "t": 816.2939205169678,
+        "r": 567.2092895507812,
+        "b": 792.751636505127
+      },
+      "image_path": "figures/figure_0170.png",
+      "previous_block_id": "txt_0408",
+      "next_block_id": "txt_0409"
+    }
+  ]
+}

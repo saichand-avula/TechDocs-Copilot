@@ -1,0 +1,152 @@
+{
+  "page": 295,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_2432",
+      "reading_order": 3269,
+      "section": "Post service test",
+      "bbox": {
+        "l": 122.0,
+        "t": 732.29,
+        "r": 542.0400000000002,
+        "b": 708.7
+      },
+      "content": "M506/E50045/M507/E50145/M527/E52545/M528/E52645: Slide the cover toward the rear of the printer to remove it."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2433",
+      "reading_order": 3270,
+      "section": "Post service test",
+      "bbox": {
+        "l": 100.0,
+        "t": 459.0623,
+        "r": 353.72000000000014,
+        "b": 447.47229999999996
+      },
+      "content": "Remove the top-left cover (M527/E52545M528/E52645)."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2434",
+      "reading_order": 3271,
+      "section": "Post service test",
+      "bbox": {
+        "l": 121.99996,
+        "t": 438.0623,
+        "r": 550.5999600000005,
+        "b": 414.47229999999996
+      },
+      "content": "Open the toner-cartridge door, release two tabs (callout 1), and then rotate the rear edge of the cover away from the printer."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0809",
+      "reading_order": 3272,
+      "section": "Post service test",
+      "bbox": {
+        "l": 142.30001575125993,
+        "t": 664.8187942504883,
+        "r": 341.5351124936261,
+        "b": 470.86224365234375
+      },
+      "image_path": "figures/figure_0809.png",
+      "caption": "Remove the formatter cover (M506/E50045/M507/E50145/M527/E52545/M528/ E52645)",
+      "figure_number": "Figure 1-451",
+      "image_hash": "74662baf0374757db5f95258541936d64a55b778aaefdc4eabcfce11f68c2d1e",
+      "width": 200,
+      "height": 194,
+      "previous_block_id": "txt_2434",
+      "next_block_id": "txt_2435",
+      "caption_id": "txt_2435"
+    },
+    {
+      "type": "caption",
+      "id": "txt_2435",
+      "reading_order": 3273,
+      "section": "Post service test",
+      "bbox": {
+        "l": 143.99996000000002,
+        "t": 699.29,
+        "r": 530.3799900000001,
+        "b": 675.7
+      },
+      "content": "Figure 1-451  Remove the formatter cover (M506/E50045/M507/E50145/M527/E52545/M528/ E52645)",
+      "caption_for": "fig_0809"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0810",
+      "reading_order": 3274,
+      "section": "Post service test",
+      "bbox": {
+        "l": 142.86023786295863,
+        "t": 392.47186279296875,
+        "r": 432.74873437656703,
+        "b": 175.221923828125
+      },
+      "image_path": "figures/figure_0810.png",
+      "caption": "Release two tabs",
+      "figure_number": "Figure 1-452",
+      "image_hash": "a06f5a5c11cd934a62d7bd6feda3f7d89732e59bd9505e576e12beb39877f119",
+      "width": 290,
+      "height": 217,
+      "previous_block_id": "txt_2435",
+      "next_block_id": "txt_2436",
+      "caption_id": "txt_2436"
+    },
+    {
+      "type": "caption",
+      "id": "txt_2436",
+      "reading_order": 3275,
+      "section": "Post service test",
+      "bbox": {
+        "l": 143.99998,
+        "t": 405.0623,
+        "r": 269.40996999999993,
+        "b": 393.47229999999996
+      },
+      "content": "Figure 1-452  Release two tabs",
+      "caption_for": "fig_0810"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0811",
+      "reading_order": 3276,
+      "section": "Post service test",
+      "bbox": {
+        "l": 367.5101587442603,
+        "t": 665.8807373046875,
+        "r": 575.699261766403,
+        "b": 478.73968505859375
+      },
+      "image_path": "figures/figure_0811.png",
+      "caption": "Release two tabs",
+      "figure_number": "Figure 1-452",
+      "image_hash": "54af5da7170c9febc66c7cabb94c95bb9e889779b9ab67f930c2d07dd9772812",
+      "width": 208,
+      "height": 187,
+      "previous_block_id": "txt_2436",
+      "next_block_id": "txt_2437"
+    }
+  ],
+  "page_stats": {
+    "block_count": 8,
+    "text_blocks": 5,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 3,
+    "captions": 2,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 3,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

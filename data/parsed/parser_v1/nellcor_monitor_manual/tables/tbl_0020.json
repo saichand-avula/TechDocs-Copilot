@@ -1,0 +1,19 @@
+{
+  "id": "tbl_0020",
+  "page": 47,
+  "section": "5.5.2 Display",
+  "title": "Table 15 lists  symptoms  of problems relating to non-functioning displays,  and recommended actions. If the action requires replacement of a PCB assembly or module, refer to Disassembly Guide.",
+  "markdown": "Table 15. Display\n\n| Symptom                                                                      | Recommended Action                                                                                                                                                                                                                                                                                                                                                                                 |\n|------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| 1. LCD screen is totally black after system powers-up.                       | 1. Ensure backlight wire is connected to backlight inverter. 2. Ensure backlight inverter wire is connected to Main PCB assembly. 3. Ensure Booting Mode Selector is set to 'NORMAL'. 4. If the problem persists, replace LCD cable. 5. If the problem persists, replace backlight inverter. 6. If the problem persists, replace Main PCB assembly. 7. If the problem persists, replace LCD panel. |\n| 2. LCD screen is illuminated, but no data is visible after system powers-up. | 1. Ensure backlight wire is connected to Main PCB assembly and backlight inverter. 2. Ensure LCD cable is connected to Main PCB assembly and LCD panel. 3. If the problem persists, replace LCD cable. 4. If the problem persists, replace Main PCB assembly. 5. If the problem persists, replace backlight inverter. 6. If the problem persists, replace LCD panel.                               |\n| 3. LCD screen has data, but is not illuminated after system powers- up.      | 1. Ensure backlight wire is connected to Main PCB assembly and backlight inverter. 2. Ensure LCD cable is connected to Main PCB assembly and LCD panel. 3. If the problem persists, replace Main PCB assembly. 4. If the problem persists, replace backlight inverter. 5. If the problem persists, replace LCD panel.                                                                              |\n| 4. Display values are missing or erratic                                     | 1. If the measurement cables are connected, ensure that the cables are properly connected. 2. If the problem persists, replace the measurement cables. 3. If the problem persists, replace LCD cable. 4. If the problem still persists, replace Main PCB assembly. 5. If the problem still persists, replace ECG PCB assembly. 6. If the problem still persists, replace SpO 2 PCB assembly.       |\n| 5. Display pixels do not light.                                              | 1. Check the connection of Main PCB assembly. 2. If the problem persists, replace LCD cable. 3. If the problem still persists, replace Main PCB assembly. 4. If the problem still persists, replace LCD panel.                                                                                                                                                                                     |",
+  "block_id": "#/tables/19",
+  "reading_order": 637,
+  "bbox": {
+    "l": 136.89642333984375,
+    "t": 637.785888671875,
+    "r": 542.1873168945312,
+    "b": 152.93280029296875
+  },
+  "table_number": "Table 15",
+  "rows": 6,
+  "cols": 2,
+  "type": "table"
+}

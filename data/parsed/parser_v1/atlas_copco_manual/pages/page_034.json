@@ -1,0 +1,134 @@
+{
+  "page": 34,
+  "document_id": "doc_e02482e6",
+  "page_bbox": {
+    "width": 595.0,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0065",
+      "reading_order": 316,
+      "section": "Automatic restart after voltage failure",
+      "bbox": {
+        "l": 26.60141372680664,
+        "t": 815.907564163208,
+        "r": 74.01866149902344,
+        "b": 793.0619163513184
+      },
+      "image_path": "figures/figure_0065.png",
+      "next_block_id": "txt_0233",
+      "width": 47,
+      "height": 22,
+      "decorative": true,
+      "image_hash": "7577891dcf1743bd2e7a735ef2621e01244d960bde43e28868c27d7c1437ddb9"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0233",
+      "reading_order": 317,
+      "section": "3.2    Control panel",
+      "bbox": {
+        "l": 28.27,
+        "t": 773.1,
+        "r": 167.00760000000002,
+        "b": 755.244
+      },
+      "content": "3.2    Control panel",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0234",
+      "reading_order": 318,
+      "section": "Elektronikon regulator",
+      "bbox": {
+        "l": 28.27,
+        "t": 740.315,
+        "r": 148.26570000000004,
+        "b": 728.039
+      },
+      "content": "Elektronikon regulator",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0235",
+      "reading_order": 319,
+      "section": "Parts and functions",
+      "bbox": {
+        "l": 28.21,
+        "t": 465.815,
+        "r": 131.72,
+        "b": 453.539
+      },
+      "content": "Parts and functions",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "table",
+      "id": "tbl_0021",
+      "reading_order": 320,
+      "section": "Parts and functions",
+      "bbox": {
+        "l": 65.92683410644531,
+        "t": 393.1280822753906,
+        "r": 535.9259033203125,
+        "b": 88.56671142578125
+      },
+      "markdown": "Control panel\n\n|   Reference | Designation             | Function                                                                                                                                       |\n|-------------|-------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|\n|           1 | Display                 | Shows the compressor operating condition and a number of icons to navigate through the menu.                                                   |\n|           2 | Pictograph              | Automatic operation                                                                                                                            |\n|           3 | Pictograph              | General alarm                                                                                                                                  |\n|           4 | General alarm LED       | Flashes if a shut-down warning condition exists.                                                                                               |\n|           5 | Pictograph              | Service                                                                                                                                        |\n|           6 | Service LED             | Lights up if service is needed                                                                                                                 |\n|           7 | Automatic operation LED | Indicates that the regulator is automatically controlling the compressor.                                                                      |\n|           8 | Voltage on LED          | Indicates that the voltage is switched on.                                                                                                     |\n|           9 | Pictograph              | Voltage on                                                                                                                                     |\n|          10 | Enter key               | Key to select the parameter indicated by the horizontal arrow. Only the parameters followed by an arrow pointing to the right can be modified. |\n|          11 | Escape key              | To go to previous screen or to end the current action                                                                                          |\n|          12 | Scroll keys             | Keys to scroll through the menu.                                                                                                               |\n|          13 | Stop button             | Button to stop the compressor. LED (7) goes out.                                                                                               |\n|          14 | Start button            | Button to start the compressor. LED (7) lights up indicating that the Elektronikon regulator is operative.                                     |",
+      "rows": 15,
+      "cols": 3
+    },
+    {
+      "type": "caption",
+      "id": "txt_0236",
+      "reading_order": 321,
+      "section": "Parts and functions",
+      "bbox": {
+        "l": 254.11,
+        "t": 492.97,
+        "r": 312.6159999999999,
+        "b": 481.9
+      },
+      "content": "Control panel",
+      "caption_for": "fig_0066"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0066",
+      "reading_order": 322,
+      "section": "Parts and functions",
+      "bbox": {
+        "l": 174.4514923095703,
+        "t": 702.9212493896484,
+        "r": 390.4655456542969,
+        "b": 508.9609069824219
+      },
+      "image_path": "figures/figure_0066.png",
+      "previous_block_id": "txt_0236",
+      "caption_id": "txt_0236",
+      "caption": "Control panel",
+      "image_hash": "08704a89aeff038391627243549adc44f92b622c8f4d3b189ef2915f483e705a",
+      "width": 216,
+      "height": 194
+    }
+  ],
+  "page_stats": {
+    "block_count": 7,
+    "text_blocks": 4,
+    "paragraphs": 0,
+    "headings": 3,
+    "list_items": 0,
+    "captions": 1,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 2,
+    "tables": 1,
+    "toc_tables": 0
+  }
+}

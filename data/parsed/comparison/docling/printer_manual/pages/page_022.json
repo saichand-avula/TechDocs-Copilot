@@ -1,0 +1,219 @@
+{
+  "page": 22,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "table",
+      "id": "tbl_0007",
+      "reading_order": 213,
+      "section": "Table 1-1  Part number",
+      "bbox": {
+        "l": 90.53018964575604,
+        "t": 719.2048950195312,
+        "r": 541.5995307416475,
+        "b": 441.7461853027344
+      },
+      "markdown": "Table 1-1  Part number (continued)\n\n| Toner cartridge part number   |                                                                                                                                                       |\n|-------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|\n| CF287X CF287-67902 (service)  | HP 872X High Yield Black Original LaserJet Toner Cartridge (M501/M506/E50045/ M527/E52545 only.) High-capacity replacement black toner cartridge      |\n| CF289A CF289-67901 (service)  | HP 89A Black Original LaserJet Toner Cartridge (M507/M528/E52545/E52645 only) Standard-capacity replacement black toner cartridge                     |\n| CF289X CF289-67902 (service)  | HP 89X High Yield Black Original LaserJet Toner Cartridge (M507/M528/E52545/ E52645 only) High-capacity replacement black toner cartridge             |\n| CF289Y CF289-67903 (service)  | HP 89Y Extra High Yield Black Original LaserJet Toner Cartridge (M507/M528/E52545/ E52645 only) Extra High-capacity replacement black toner cartridge |\n| CF289YC CF289-67904 (service) | HP Black contract LaserJet Toner Cartridge (M507/M528/E52545/E52645 only)                                                                             |\n| CF289A CF289-67905 (service)  | HP Black managed LaserJet Toner Cartridge (M507/M528/E52545/E52645 only)                                                                              |",
+      "title": "Table 1-1  Part number (continued)",
+      "table_number": "Table 1-1",
+      "rows": 7,
+      "cols": 1,
+      "caption_id": "txt_0187"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0187",
+      "reading_order": 214,
+      "section": "Table 1-1  Part number",
+      "bbox": {
+        "l": 91.0,
+        "t": 732.661,
+        "r": 217.05400000000003,
+        "b": 722.23
+      },
+      "content": "Table 1-1  Part number (continued)",
+      "caption_for": "tbl_0007"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0188",
+      "reading_order": 215,
+      "section": "Required tools",
+      "bbox": {
+        "l": 91.0,
+        "t": 419.165,
+        "r": 149.23999999999998,
+        "b": 407.575
+      },
+      "content": "Required tools",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0189",
+      "reading_order": 216,
+      "section": "Required tools",
+      "bbox": {
+        "l": 91.0,
+        "t": 399.165,
+        "r": 344.38,
+        "b": 387.575
+      },
+      "content": "No special tools are required to remove or install this assembly."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0190",
+      "reading_order": 217,
+      "section": "After performing service",
+      "bbox": {
+        "l": 91.00004,
+        "t": 374.165,
+        "r": 188.33003999999994,
+        "b": 362.575
+      },
+      "content": "After performing service",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0191",
+      "reading_order": 218,
+      "section": "Turn the printer power on",
+      "bbox": {
+        "l": 91.00005,
+        "t": 354.165,
+        "r": 193.35005,
+        "b": 342.575
+      },
+      "content": "Turn the printer power on",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0192",
+      "reading_order": 219,
+      "section": "Turn the printer power on",
+      "bbox": {
+        "l": 91.00005,
+        "t": 333.165,
+        "r": 213.84004999999996,
+        "b": 321.575
+      },
+      "content": "Connect the power cable."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0193",
+      "reading_order": 220,
+      "section": "Turn the printer power on",
+      "bbox": {
+        "l": 91.00004,
+        "t": 311.91585000000003,
+        "r": 285.29004,
+        "b": 300.32585
+      },
+      "content": "Use the power switch to turn the power on."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0194",
+      "reading_order": 221,
+      "section": "Post service test",
+      "bbox": {
+        "l": 91.00004,
+        "t": 286.6667,
+        "r": 156.89003999999997,
+        "b": 275.07669999999996
+      },
+      "content": "Post service test",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0195",
+      "reading_order": 222,
+      "section": "Post service test",
+      "bbox": {
+        "l": 91.00004,
+        "t": 266.6667,
+        "r": 303.0000299999999,
+        "b": 255.07669999999996
+      },
+      "content": "Make sure that the printer initializes to a Ready state."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0196",
+      "reading_order": 223,
+      "section": "Post service test",
+      "bbox": {
+        "l": 91.00005,
+        "t": 245.6667,
+        "r": 406.64004000000006,
+        "b": 234.07669999999996
+      },
+      "content": "Print a configuration page to make sure that the printer is functioning correctly."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0197",
+      "reading_order": 224,
+      "section": "Post service test",
+      "bbox": {
+        "l": 91.00004,
+        "t": 224.6667,
+        "r": 225.16003999999995,
+        "b": 213.07670000000007
+      },
+      "content": "Remove the toner cartridge."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0198",
+      "reading_order": 225,
+      "section": "Post service test",
+      "bbox": {
+        "l": 113.00005,
+        "t": 203.6667,
+        "r": 493.0100500000004,
+        "b": 192.07670000000007
+      },
+      "content": "An MFP printer is shown in this section. However, the procedure is correct for all printer models."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0199",
+      "reading_order": 226,
+      "section": "Post service test",
+      "bbox": {
+        "l": 113.00004,
+        "t": 182.6667,
+        "r": 297.07003999999995,
+        "b": 171.07670000000007
+      },
+      "content": "Press the cartridge-door-release button."
+    }
+  ],
+  "page_stats": {
+    "block_count": 14,
+    "text_blocks": 13,
+    "paragraphs": 4,
+    "headings": 4,
+    "list_items": 4,
+    "captions": 1,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 0,
+    "tables": 1,
+    "toc_tables": 0
+  }
+}

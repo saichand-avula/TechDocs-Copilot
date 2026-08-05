@@ -1,0 +1,204 @@
+{
+  "page": 606,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_4599",
+      "reading_order": 6364,
+      "section": "Post service test",
+      "bbox": {
+        "l": 91.0,
+        "t": 732.29,
+        "r": 181.53,
+        "b": 720.7
+      },
+      "content": "Remove the tray."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_4600",
+      "reading_order": 6365,
+      "section": "Post service test",
+      "bbox": {
+        "l": 113.0,
+        "t": 711.29,
+        "r": 340.0600000000001,
+        "b": 699.7
+      },
+      "content": "Pull the tray straight out of the printer until it stops."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_4601",
+      "reading_order": 6366,
+      "section": "Post service test",
+      "bbox": {
+        "l": 113.0,
+        "t": 449.42,
+        "r": 415.7900000000001,
+        "b": 437.83
+      },
+      "content": "Lift the front of the tray, and then pull it out of the printer to remove it."
+    },
+    {
+      "type": "figure",
+      "id": "fig_1722",
+      "reading_order": 6367,
+      "section": "Post service test",
+      "bbox": {
+        "l": 133.62419882456484,
+        "t": 678.1028442382812,
+        "r": 423.8410319825337,
+        "b": 460.6971130371094
+      },
+      "image_path": "figures/figure_1722.png",
+      "caption": "Pull the tray out until it stops",
+      "figure_number": "Figure 1-1004",
+      "image_hash": "b87dc800898576f70cb5aca152bc15101c18183434d6f43756377bb900dddeef",
+      "width": 290,
+      "height": 217,
+      "previous_block_id": "txt_4601",
+      "next_block_id": "txt_4602",
+      "caption_id": "txt_4602"
+    },
+    {
+      "type": "caption",
+      "id": "txt_4602",
+      "reading_order": 6368,
+      "section": "Post service test",
+      "bbox": {
+        "l": 135.00006000000002,
+        "t": 690.29,
+        "r": 312.1900699999999,
+        "b": 678.7
+      },
+      "content": "Figure 1-1004  Pull the tray out until it stops",
+      "caption_for": "fig_1722"
+    },
+    {
+      "type": "figure",
+      "id": "fig_1723",
+      "reading_order": 6369,
+      "section": "Post service test",
+      "bbox": {
+        "l": 118.83016071026175,
+        "t": 428.0650939941406,
+        "r": 132.0121952344014,
+        "b": 414.83013916015625
+      },
+      "image_path": "figures/figure_1723.png",
+      "decorative": true,
+      "width": 13,
+      "height": 13,
+      "image_hash": "b2017d54d81e182ea318ea736a6e675211f4f0e07d38707457717cc61a773456",
+      "previous_block_id": "txt_4602",
+      "next_block_id": "txt_4603"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_4603",
+      "reading_order": 6370,
+      "section": "Post service test",
+      "bbox": {
+        "l": 135.0,
+        "t": 425.92,
+        "r": 537.6900400000002,
+        "b": 402.33
+      },
+      "content": "NOTE: If the tray has Fixed Tray Guides installed and are still required, move the hardware to new tray. If necessary, order new kit: 3GY19-67901 Kit-Fixed Tray Guide. Only one kit required per engine.",
+      "severity": "note"
+    },
+    {
+      "type": "figure",
+      "id": "fig_1724",
+      "reading_order": 6371,
+      "section": "Post service test",
+      "bbox": {
+        "l": 133.46074732802026,
+        "t": 379.46173095703125,
+        "r": 423.8484747678574,
+        "b": 161.9893798828125
+      },
+      "image_path": "figures/figure_1724.png",
+      "caption": "Release and remove the tray",
+      "figure_number": "Figure 1-1005",
+      "image_hash": "ec86456d04d6aac62aa77768a3fab7efa31f3ccc1070d1f7cdc24abc09c8657b",
+      "width": 291,
+      "height": 217,
+      "previous_block_id": "txt_4603",
+      "next_block_id": "txt_4604",
+      "caption_id": "txt_4604"
+    },
+    {
+      "type": "caption",
+      "id": "txt_4604",
+      "reading_order": 6372,
+      "section": "Post service test",
+      "bbox": {
+        "l": 135.0,
+        "t": 391.42,
+        "r": 312.0200099999998,
+        "b": 379.83
+      },
+      "content": "Figure 1-1005  Release and remove the tray",
+      "caption_for": "fig_1724"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_4605",
+      "reading_order": 6373,
+      "section": "Post service test",
+      "bbox": {
+        "l": 91.0,
+        "t": 150.54999999999995,
+        "r": 227.24999999999991,
+        "b": 138.96000000000004
+      },
+      "content": "Remove the formatter cover."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_4606",
+      "reading_order": 6374,
+      "section": "Post service test",
+      "bbox": {
+        "l": 112.99998,
+        "t": 131.13,
+        "r": 230.10997999999995,
+        "b": 117.03999999999996
+      },
+      "content": "▲ Do one of the following:"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_4607",
+      "reading_order": 6375,
+      "section": "Post service test",
+      "bbox": {
+        "l": 112.99997,
+        "t": 107.93952999999999,
+        "r": 511.0199700000003,
+        "b": 84.34953000000007
+      },
+      "content": "M501: Remove one screw (callout 1), and then slide the cover toward the rear of the printer to remove it (callout 2)."
+    }
+  ],
+  "page_stats": {
+    "block_count": 12,
+    "text_blocks": 9,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 6,
+    "captions": 2,
+    "admonitions": 1,
+    "references": 0,
+    "figures": 3,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

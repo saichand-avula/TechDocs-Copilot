@@ -1,0 +1,38 @@
+{
+  "page": 82,
+  "document_id": "doc_37f23c38",
+  "page_bbox": {
+    "width": 612.0,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "table",
+      "id": "tbl_0031",
+      "reading_order": 825,
+      "section": "ERROR CODES REQUIRING TECHNICAL SERVICE",
+      "bbox": {
+        "l": 70.7205810546875,
+        "t": 739.040584564209,
+        "r": 505.1893615722656,
+        "b": 66.78778076171875
+      },
+      "markdown": "| Table 6-3. Error Codes Requiring Technical Service   | Table 6-3. Error Codes Requiring Technical Service   | Table 6-3. Error Codes Requiring Technical Service                   | Table 6-3. Error Codes Requiring Technical Service                                                                                                         |\n|------------------------------------------------------|------------------------------------------------------|----------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Error Code                                           | Malfunction                                          | Possible Cause                                                       | Corrective Action                                                                                                                                          |\n| E320                                                 | Battery charge current out of range                  | Battery charge current is out of range after 8 hours                 | Replace battery (see Section 7.2.4) Replace power supply PWA (see Section 7.2.12.1) Reset time and date, if required (see Section 1.9.2)                   |\n| E321                                                 | Battery not charging                                 | Battery charging timed out Complete battery discharge has occurred   | Charge battery for additional 8 hours Replace battery (see Section 7.2.4) Replace power supply PWA (see Section 7.2.12.1) Reset time and date, if required |\n| E322                                                 | Battery current calibration value out of range       | Battery integrator calibration value is out of range                 | (see Section 1.9.2)                                                                                                                                        |\n| E323                                                 | Battery trickle charge current out of range          | Battery trickle charge current is out of range                       | (see Section 1.9.2)                                                                                                                                        |\n| E324                                                 | Supply overvoltage                                   | An overvoltage condition is detected in the charging circuit         | (see Section 1.9.2)                                                                                                                                        |\n| E325                                                 | Battery overvoltage                                  | An overvoltage condition is detected in the battery                  | (see Section 1.9.2)                                                                                                                                        |\n| E326                                                 | Battery disconnected                                 | Battery disconnected while the infuser is on                         | Check for loose battery connections Replace battery (see Section 7.2.4) Reset time and date, if required (see Section 1.9.2)                               |\n| E327                                                 | Brownout condition                                   | Brownout condition detected                                          | Replace power supply PWA (see Section 7.2.12.1) Reset time and date, if required (see Section 1.9.2)                                                       |\n| E340                                                 | Critical instruction failure                         | Power-up CPU register test failed (no malfunction message displayed) | Replace CPU PWA (see Section 7.2.12.4) Reset time and date, if required (see Section 1.9.2)                                                                |\n| E341                                                 | Critical data memory failure                         | Critical data memory failure                                         | Replace mechanism assembly (see Section 7.2.12.6) Reset time and date, if required (see Section 1.9.2)                                                     |",
+      "rows": 12,
+      "cols": 4
+    }
+  ],
+  "page_stats": {
+    "block_count": 1,
+    "text_blocks": 0,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 0,
+    "captions": 0,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 0,
+    "tables": 1,
+    "toc_tables": 0
+  }
+}

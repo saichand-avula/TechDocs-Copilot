@@ -1,0 +1,38 @@
+{
+  "page": 95,
+  "document_id": "doc_e02482e6",
+  "page_bbox": {
+    "width": 595.0,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0257",
+      "reading_order": 1020,
+      "section": "6.1     Dimension drawings",
+      "bbox": {
+        "l": 519.434814453125,
+        "t": 815.7213706970215,
+        "r": 567.1466674804688,
+        "b": 793.071216583252
+      },
+      "image_path": "figures/figure_0257.png",
+      "previous_block_id": "txt_0684",
+      "next_block_id": "txt_0685"
+    },
+    {
+      "type": "table",
+      "id": "tbl_0081",
+      "reading_order": 1021,
+      "section": "6.1     Dimension drawings",
+      "bbox": {
+        "l": 83.1141357421875,
+        "t": 762.9103927612305,
+        "r": 561.6968383789062,
+        "b": 528.7237854003906
+      },
+      "markdown": "|   Reference | Designation                                              |\n|-------------|----------------------------------------------------------|\n|           1 | Electric cable passage                                   |\n|           2 | Cooling water outlet                                     |\n|           3 | Cooling water inlet                                      |\n|           4 | Dryer cooling air outlet                                 |\n|           5 | Compressor cooling air outlet                            |\n|           6 | Compressed air outlet                                    |\n|           7 | Dryer Cooling air inlet                                  |\n|           8 | Compressor cooling air inlet                             |\n|           9 | Cubicle cooling air inlet                                |\n|          10 | Energy recovery inlet                                    |\n|          11 | Energy recovery outlet                                   |\n|          12 | Compressed air, dryer bypass outlet                      |\n|          13 | Automatic drain, aftercooler                             |\n|          14 | Automatic drain, dryer (On Workplace Full-Feature units) |\n|          15 | Drain,optional DD/PD filter                              |"
+    }
+  ]
+}

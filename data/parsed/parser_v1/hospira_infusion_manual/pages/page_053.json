@@ -1,0 +1,173 @@
+{
+  "page": 53,
+  "document_id": "doc_37f23c38",
+  "page_bbox": {
+    "width": 612.0,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0447",
+      "reading_order": 490,
+      "section": "4.4.2 SEALED LEAD ACID BATTERY",
+      "bbox": {
+        "l": 108.0,
+        "t": 738.19196,
+        "r": 350.03403045030007,
+        "b": 709.2828958877272
+      },
+      "content": "4.4.2 SEALED LEAD ACID BATTERY",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0448",
+      "reading_order": 491,
+      "section": "4.4.2 SEALED LEAD ACID BATTERY",
+      "bbox": {
+        "l": 107.99941885499999,
+        "t": 695.10277681,
+        "r": 539.9691361590988,
+        "b": 674.2075248800329
+      },
+      "content": "The infuser uses a nominal 6 V DC  rechargeable sealed lead acid battery with a 4 amp-hour capacity."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0449",
+      "reading_order": 492,
+      "section": "4.5 MECHANICAL OVERVIEW",
+      "bbox": {
+        "l": 108.0,
+        "t": 651.18877681,
+        "r": 372.89703780000013,
+        "b": 613.7010044628099
+      },
+      "content": "4.5 MECHANICAL OVERVIEW",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0450",
+      "reading_order": 493,
+      "section": "4.5 MECHANICAL OVERVIEW",
+      "bbox": {
+        "l": 107.99999999999994,
+        "t": 600.24272681,
+        "r": 540.0690186037999,
+        "b": 519.3483746400332
+      },
+      "content": "The principal mechanical elements of the infuser include the cassette and the mechanism assembly. When a cassette is locked into the operating position and the ON/OFF key is pressed, the infuser performs a self test to verify the integrity of the internal systems. The operation of the mechanism assembly moves a plunger, causing a pumping action. A valve motor selects the A or B valve, depending on the command. An additional valve motor alternately opens and closes an inlet valve and outlet valve to control fluid flow through the cassette pumping chamber."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0451",
+      "reading_order": 494,
+      "section": "4.5 MECHANICAL OVERVIEW",
+      "bbox": {
+        "l": 107.99999999999994,
+        "t": 504.24406682590035,
+        "r": 458.7318917401009,
+        "b": 495.3486349439331
+      },
+      "content": "The following sections detail the cassette and the mechanism assembly."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0452",
+      "reading_order": 495,
+      "section": "4.5.1 CASSETTE",
+      "bbox": {
+        "l": 108.0,
+        "t": 472.27201,
+        "r": 192.40451288499995,
+        "b": 443.42290588772727
+      },
+      "content": "4.5.1 CASSETTE",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0453",
+      "reading_order": 496,
+      "section": "4.5.1 CASSETTE",
+      "bbox": {
+        "l": 107.99890439889998,
+        "t": 429.24275681,
+        "r": 539.9865497210002,
+        "b": 396.34768483203277
+      },
+      "content": "The cassette  operates  on  a  fluid  displacement  principle  to  volumetrically  deliver  fluid (see Figure 4-6 and Figure 4-7) . See the system operating manual for a description of the major cassette functions.",
+      "hyperlink_hint": true
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0454",
+      "reading_order": 497,
+      "section": "4.5.1 CASSETTE",
+      "bbox": {
+        "l": 107.99880479879994,
+        "t": 381.2433770179,
+        "r": 540.0410309757007,
+        "b": 312.34884489593276
+      },
+      "content": "The pumping cycle begins when the outlet valve is opened and the inlet valve is closed. The plunger extends to deflect the cassette diaphragm and expel fluid. At the end of the pumping stroke, the outlet valve is closed, the inlet opens, the appropriate A or B valve opens, and the plunger retracts to allow fluid to refill the pumping chamber. After the pumping chamber is filled, the inlet and outlet valves are reversed, the A and B valves are closed, and the cycle repeats."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0455",
+      "reading_order": 498,
+      "section": "4.5.1 CASSETTE",
+      "bbox": {
+        "l": 107.99870519869995,
+        "t": 297.2445370818,
+        "r": 539.9952149296995,
+        "b": 240.3498250078328
+      },
+      "content": "The cassette contains two chambers: an upper air trap chamber and a pumping chamber. The two chambers are separated by an inlet valve and operate together to detect air. The air trap chamber receives fluid from the intravenous (IV) container through either the A or B valve. The air trap chamber collects air bubbles from the IV line and container to prevent them from entering the pumping chamber and can collect a substantial amount of air."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0456",
+      "reading_order": 499,
+      "section": "4.5.1 CASSETTE",
+      "bbox": {
+        "l": 107.99780879780002,
+        "t": 225.24551719369992,
+        "r": 540.0494969841995,
+        "b": 168.35080511973274
+      },
+      "content": "A proximal air-in-line sensor (bubble detector) is located between the A/B valves and the upper air-trap chamber. The proximal air-in-line sensor detects air entering the upper air-trap  chamber  and  initiates  an  audible  alarm  if  the  predetermined  air  collection threshold is exceeded. Similarly, a second air-in-line sensor located distal to the pumping chamber initiates an audible alarm if a predetermined amount of air is detected."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0457",
+      "reading_order": 500,
+      "section": "4.5.1 CASSETTE",
+      "bbox": {
+        "l": 107.99780879780008,
+        "t": 153.24649730559997,
+        "r": 540.0481025827996,
+        "b": 84.35196518363273
+      },
+      "content": "The pumping chamber receives fluid from the upper air-trap chamber through an inlet valve. A pressure sensor located in the upper air-trap chamber monitors pressure on the proximal side of the cassette. When the diaphragm covering the pumping chamber is deflected  by  the  plunger,  the  pumping  chamber  expels  fluid  through  an  outlet  valve. A pressure sensor located distal to the pumping chamber monitors pressure on the distal side of the cassette."
+    }
+  ],
+  "page_stats": {
+    "block_count": 11,
+    "text_blocks": 11,
+    "paragraphs": 8,
+    "headings": 3,
+    "list_items": 0,
+    "captions": 0,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 0,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

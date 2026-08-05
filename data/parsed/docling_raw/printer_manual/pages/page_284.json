@@ -1,0 +1,152 @@
+{
+  "page": 284,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_2333",
+      "reading_order": 3143,
+      "section": "d. Remove the cover.",
+      "bbox": {
+        "l": 113.0,
+        "t": 732.29,
+        "r": 515.4000000000005,
+        "b": 720.7
+      },
+      "content": "Tilt the document feeder back until it stops (callout 1), and then lift it up until it stops (callout 2)."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2334",
+      "reading_order": 3144,
+      "section": "d. Remove the cover.",
+      "bbox": {
+        "l": 113.0,
+        "t": 470.42,
+        "r": 539.9199800000002,
+        "b": 446.83
+      },
+      "content": "Support the document feeder, and then use a small flat-blade screwdriver to release two tabs on the document feeder hinges."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0782",
+      "reading_order": 3145,
+      "section": "d. Remove the cover.",
+      "bbox": {
+        "l": 133.54492095958037,
+        "t": 698.4708251953125,
+        "r": 423.9176255642867,
+        "b": 481.39508056640625
+      },
+      "image_path": "figures/figure_0782.png",
+      "caption": "Raise the document feeder",
+      "figure_number": "Figure 1-434",
+      "image_hash": "33344de8a663f1af61f85c20c1df9a926c8026dbd8e85c0ab0a65137f8934945",
+      "width": 290,
+      "height": 217,
+      "previous_block_id": "txt_2334",
+      "next_block_id": "txt_2335",
+      "caption_id": "txt_2335"
+    },
+    {
+      "type": "caption",
+      "id": "txt_2335",
+      "reading_order": 3146,
+      "section": "d. Remove the cover.",
+      "bbox": {
+        "l": 135.00004,
+        "t": 711.29,
+        "r": 299.9000399999999,
+        "b": 699.7
+      },
+      "content": "Figure 1-434  Raise the document feeder",
+      "caption_for": "fig_0782"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0783",
+      "reading_order": 3147,
+      "section": "d. Remove the cover.",
+      "bbox": {
+        "l": 118.80087762046371,
+        "t": 437.10369873046875,
+        "r": 132.01054806060026,
+        "b": 423.82025146484375
+      },
+      "image_path": "figures/figure_0783.png",
+      "decorative": true,
+      "width": 13,
+      "height": 13,
+      "image_hash": "468c4ba106e84a62763eac96911df844706e17e4d5c68772da1433bc8b208991",
+      "previous_block_id": "txt_2335",
+      "next_block_id": "txt_2336"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_2336",
+      "reading_order": 3148,
+      "section": "d. Remove the cover.",
+      "bbox": {
+        "l": 135.0,
+        "t": 434.92,
+        "r": 538.0100500000001,
+        "b": 411.33
+      },
+      "content": "NOTE: The tabs are located on the front side (scanner flatbed glass) of the hinges. Use the figure to locate the tabs.",
+      "severity": "note"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0784",
+      "reading_order": 3149,
+      "section": "d. Remove the cover.",
+      "bbox": {
+        "l": 133.55998954953893,
+        "t": 388.130615234375,
+        "r": 423.9819568521868,
+        "b": 170.46142578125
+      },
+      "image_path": "figures/figure_0784.png",
+      "caption": "Release two tabs",
+      "figure_number": "Figure 1-435",
+      "image_hash": "c92d61c67462e047b09232e8b6d6e393023d5be7a1e41ba19e9daf3e7ff6c950",
+      "width": 290,
+      "height": 218,
+      "previous_block_id": "txt_2336",
+      "next_block_id": "txt_2337",
+      "caption_id": "txt_2337"
+    },
+    {
+      "type": "caption",
+      "id": "txt_2337",
+      "reading_order": 3150,
+      "section": "d. Remove the cover.",
+      "bbox": {
+        "l": 135.0,
+        "t": 400.42,
+        "r": 260.40998999999994,
+        "b": 388.83
+      },
+      "content": "Figure 1-435  Release two tabs",
+      "caption_for": "fig_0784"
+    }
+  ],
+  "page_stats": {
+    "block_count": 8,
+    "text_blocks": 5,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 2,
+    "captions": 2,
+    "admonitions": 1,
+    "references": 0,
+    "figures": 3,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

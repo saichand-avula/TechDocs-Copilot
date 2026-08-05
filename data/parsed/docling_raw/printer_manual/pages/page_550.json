@@ -1,0 +1,191 @@
+{
+  "page": 550,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_1563",
+      "reading_order": 5845,
+      "section": "6. Remove the formatter.",
+      "bbox": {
+        "l": 133.72845882553327,
+        "t": 719.230712890625,
+        "r": 424.08768100764513,
+        "b": 502.41741943359375
+      },
+      "image_path": "figures/figure_1563.png",
+      "caption": "Remove the formatter (M501)",
+      "figure_number": "Figure 1-905",
+      "image_hash": "b6b5fdd8bbb9df34563b1d7f8b01b41e3ebf7a492593d93f92e8da85b090341d",
+      "width": 290,
+      "height": 217,
+      "previous_block_id": "txt_4240",
+      "next_block_id": "txt_4241",
+      "caption_id": "txt_4241"
+    },
+    {
+      "type": "caption",
+      "id": "txt_4241",
+      "reading_order": 5846,
+      "section": "6. Remove the formatter.",
+      "bbox": {
+        "l": 135.0,
+        "t": 732.29,
+        "r": 311.82998999999995,
+        "b": 720.7
+      },
+      "content": "Figure 1-905  Remove the formatter (M501)",
+      "caption_for": "fig_1563"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_4242",
+      "reading_order": 5847,
+      "section": "6. Remove the formatter.",
+      "bbox": {
+        "l": 113.0,
+        "t": 491.41999999999996,
+        "r": 529.4900000000004,
+        "b": 467.83
+      },
+      "content": "M506/E50045/M507/E50145/M527/E52545/M528/E52645: Disconnect all of the connectors and FFCs, remove four screws (callout 1), and then remove the formatter."
+    },
+    {
+      "type": "figure",
+      "id": "fig_1564",
+      "reading_order": 5848,
+      "section": "6. Remove the formatter.",
+      "bbox": {
+        "l": 118.62747444887059,
+        "t": 458.2895812988281,
+        "r": 131.69397040698678,
+        "b": 445.2060852050781
+      },
+      "image_path": "figures/figure_1564.png",
+      "decorative": true,
+      "width": 13,
+      "height": 13,
+      "image_hash": "16e660d7a305da4c1d48634bf67d0ed19d10f1cffb09a493908741ec87759208",
+      "previous_block_id": "txt_4242",
+      "next_block_id": "txt_4243"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_4243",
+      "reading_order": 5849,
+      "section": "6. Remove the formatter.",
+      "bbox": {
+        "l": 135.0,
+        "t": 455.92,
+        "r": 539.6000100000001,
+        "b": 408.33
+      },
+      "content": "IMPORTANT: Take note of all empty connectors on the formatter before disconnecting any wire harnesses or flat-flexible cables (FFCs). Some empty connectors might not be visible until other items -like the hard-disk drive-are removed, so pay close attention while removing the formatter and accessories items.",
+      "severity": "important"
+    },
+    {
+      "type": "figure",
+      "id": "fig_1565",
+      "reading_order": 5850,
+      "section": "6. Remove the formatter.",
+      "bbox": {
+        "l": 132.624303320836,
+        "t": 383.0637512207031,
+        "r": 546.5606352113689,
+        "b": 233.02899169921875
+      },
+      "image_path": "figures/figure_1565.png",
+      "caption": "Remove the formatter (M506/E50045/M507/E50145/M527/E52545/M528/E52645)",
+      "figure_number": "Figure 1-906",
+      "image_hash": "7aa78afea5746398606ee2ac726bf1b85d46bc27cc28ce70ee9dd64c06706282",
+      "width": 414,
+      "height": 150,
+      "previous_block_id": "txt_4243",
+      "next_block_id": "txt_4244",
+      "caption_id": "txt_4244"
+    },
+    {
+      "type": "caption",
+      "id": "txt_4244",
+      "reading_order": 5851,
+      "section": "6. Remove the formatter.",
+      "bbox": {
+        "l": 135.0,
+        "t": 397.42,
+        "r": 532.2099900000002,
+        "b": 385.83
+      },
+      "content": "Figure 1-906  Remove the formatter (M506/E50045/M507/E50145/M527/E52545/M528/E52645)",
+      "caption_for": "fig_1565"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_4245",
+      "reading_order": 5852,
+      "section": "6. Remove the formatter.",
+      "bbox": {
+        "l": 91.0,
+        "t": 219.7732699999999,
+        "r": 430.85000000000014,
+        "b": 208.18327
+      },
+      "content": "Remove the stapler door or stapler blank cover (M527/E52545/M528/E52645)."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_4246",
+      "reading_order": 5853,
+      "section": "6. Remove the formatter.",
+      "bbox": {
+        "l": 113.0,
+        "t": 198.7732699999999,
+        "r": 230.10999999999996,
+        "b": 187.18327
+      },
+      "content": "Do one of the following:"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_4247",
+      "reading_order": 5854,
+      "section": "6. Remove the formatter.",
+      "bbox": {
+        "l": 134.99998,
+        "t": 177.7732699999999,
+        "r": 310.4899699999999,
+        "b": 166.18327
+      },
+      "content": "Stapler models: Open the stapler door."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_4248",
+      "reading_order": 5855,
+      "section": "6. Remove the formatter.",
+      "bbox": {
+        "l": 135.0,
+        "t": 156.52413,
+        "r": 542.5299700000005,
+        "b": 132.9341300000001
+      },
+      "content": "Non-stapler models: Use a small flat-blade screw driver to release two tabs (callout 1), and then rotate the cover away from the printer (callout 2)."
+    }
+  ],
+  "page_stats": {
+    "block_count": 11,
+    "text_blocks": 8,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 5,
+    "captions": 2,
+    "admonitions": 1,
+    "references": 0,
+    "figures": 3,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

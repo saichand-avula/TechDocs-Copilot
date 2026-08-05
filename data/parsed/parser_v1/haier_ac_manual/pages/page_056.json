@@ -1,0 +1,304 @@
+{
+  "page": 56,
+  "document_id": "doc_229deb31",
+  "page_bbox": {
+    "width": 595.219970703125,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "paragraph",
+      "id": "txt_0496",
+      "reading_order": 689,
+      "section": "7. 3 .3    IPM protection",
+      "bbox": {
+        "l": 144.3796016,
+        "t": 781.9357152,
+        "r": 517.4066487199999,
+        "b": 772.682938
+      },
+      "content": "IPM protection is detected by checking the compressor running condition and so on."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0497",
+      "reading_order": 690,
+      "section": "Method of Malfunction Detection",
+      "bbox": {
+        "l": 56.96199999999999,
+        "t": 781.9357152,
+        "r": 145.74999636000004,
+        "b": 749.700878
+      },
+      "content": "Method of Malfunction Detection",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0498",
+      "reading_order": 691,
+      "section": "Malfunction Decision Conditions",
+      "bbox": {
+        "l": 56.95890610000001,
+        "t": 733.1130152000001,
+        "r": 141.03211862999993,
+        "b": 698.01462418
+      },
+      "content": "Malfunction Decision Conditions",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0499",
+      "reading_order": 692,
+      "section": "Malfunction Decision Conditions",
+      "bbox": {
+        "l": 142.7023,
+        "t": 733.3228514,
+        "r": 405.45223267000017,
+        "b": 723.3047274875
+      },
+      "content": "Ƶ The system leads to IPM protection due to over current"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0500",
+      "reading_order": 693,
+      "section": "Malfunction Decision Conditions",
+      "bbox": {
+        "l": 143.1812,
+        "t": 720.3981514,
+        "r": 369.41490436000004,
+        "b": 710.3800274875
+      },
+      "content": "Ƶ The compressor faulty leads to IPM protection"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0501",
+      "reading_order": 694,
+      "section": "Malfunction Decision Conditions",
+      "bbox": {
+        "l": 143.78,
+        "t": 707.4735513999999,
+        "r": 433.07776270000096,
+        "b": 697.4554274875
+      },
+      "content": "Ƶ circuit component of IPM is broken and led to IPM protection"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0502",
+      "reading_order": 695,
+      "section": "Supposed Causes",
+      "bbox": {
+        "l": 56.95948659999999,
+        "t": 680.7575152000001,
+        "r": 147.67391862999992,
+        "b": 658.5848234000001
+      },
+      "content": "Supposed Causes",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0503",
+      "reading_order": 696,
+      "section": "Supposed Causes",
+      "bbox": {
+        "l": 149.8229,
+        "t": 680.9673514000001,
+        "r": 375.39548007,
+        "b": 670.9492274875
+      },
+      "content": "Ƶ IPM protection dues to the compressor faulty"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0504",
+      "reading_order": 697,
+      "section": "Supposed Causes",
+      "bbox": {
+        "l": 147.0708,
+        "t": 668.0426514000001,
+        "r": 426.3394820399994,
+        "b": 658.0245274875
+      },
+      "content": "Ƶ IPM protection dues to faulty PCB of IPM module"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0505",
+      "reading_order": 698,
+      "section": "Supposed Causes",
+      "bbox": {
+        "l": 145.9932,
+        "t": 655.1138795999999,
+        "r": 311.50185887999976,
+        "b": 644.6159140005319
+      },
+      "content": "Ƶ Compressor wiring disconnected"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0506",
+      "reading_order": 699,
+      "section": "Troubleshooting        * Caution",
+      "bbox": {
+        "l": 56.964017,
+        "t": 628.8229152,
+        "r": 205.98339103999993,
+        "b": 619.56762378
+      },
+      "content": "Troubleshooting        * Caution",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0507",
+      "reading_order": 700,
+      "section": "Troubleshooting        * Caution",
+      "bbox": {
+        "l": 208.2194,
+        "t": 628.8229152,
+        "r": 551.7929480800011,
+        "b": 619.570138
+      },
+      "content": "Be sure to turn off power switch before connect or disconnect connector,      or"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0508",
+      "reading_order": 701,
+      "section": "Troubleshooting        * Caution",
+      "bbox": {
+        "l": 202.71584670000001,
+        "t": 613.38396698,
+        "r": 367.11027991000066,
+        "b": 604.13118978
+      },
+      "content": "else parts damage may be occurred."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0154",
+      "reading_order": 702,
+      "section": "Troubleshooting        * Caution",
+      "bbox": {
+        "l": 71.69085426431681,
+        "t": 594.8698577880859,
+        "r": 464.38908883801525,
+        "b": 268.89031982421875
+      },
+      "image_path": "figures/figure_0154.png",
+      "previous_block_id": "txt_0508",
+      "next_block_id": "txt_0509",
+      "image_hash": "9ef954d04b21a9c8b7cad41a52b70736fe3d1eed7990890c26a0006a3e85b98c",
+      "width": 392,
+      "height": 326
+    },
+    {
+      "type": "heading",
+      "id": "txt_0509",
+      "reading_order": 703,
+      "section": "Check the IPM module method:",
+      "bbox": {
+        "l": 202.17847616,
+        "t": 255.46336297999994,
+        "r": 353.49722583999954,
+        "b": 246.21058577999997
+      },
+      "content": "Check the IPM module method:",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0510",
+      "reading_order": 704,
+      "section": "Check the IPM module method:",
+      "bbox": {
+        "l": 109.31725105999999,
+        "t": 242.1237759799999,
+        "r": 443.4378720199991,
+        "b": 232.87099877999992
+      },
+      "content": "Disconnect the compressor harness connector from the outdoor unit PCB."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0511",
+      "reading_order": 705,
+      "section": "Check the IPM module method:",
+      "bbox": {
+        "l": 109.31725105999999,
+        "t": 230.6337451999999,
+        "r": 406.69291397999933,
+        "b": 221.38096799999994
+      },
+      "content": "To disengage the connector, press the protrusion on the connector."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0512",
+      "reading_order": 706,
+      "section": "Check the IPM module method:",
+      "bbox": {
+        "l": 109.31725105999999,
+        "t": 219.14371441999992,
+        "r": 508.2809167899994,
+        "b": 186.9688304199999
+      },
+      "content": "Then, to measure resistance between P (+) andN (-) and the U, V and W terminals of the compressor connector with a multi-tester. Evaluate the measurement results for a pass/fail judgment."
+    },
+    {
+      "type": "table",
+      "id": "tbl_0042",
+      "reading_order": 707,
+      "section": "Check the IPM module method:",
+      "bbox": {
+        "l": 82.99411904625595,
+        "t": 175.19622802734375,
+        "r": 497.33784992183956,
+        "b": 100.93896484375
+      },
+      "markdown": "| N(-)terminal of tester(P(+)for digital tester)   | P(+)                    |     | UVW   | P(-)   | UVW   |\n|--------------------------------------------------|-------------------------|-----|-------|--------|-------|\n| P(+)terminal of tester(N(-)for tester)           | digital                 | UVW | P(+)  | UVW    | P(-)  |\n| Normal resistance                                | Normal resistance       | Several k  to several M  ( и )     | Several k  to several M  ( и )       | Several k  to several M  ( и )        | Several k  to several M  ( и )       |\n| Unacceptable resistance                          | Unacceptable resistance | Short (0  ) or open     | Short (0  ) or open       | Short (0  ) or open        | Short (0  ) or open       |",
+      "rows": 4,
+      "cols": 5
+    },
+    {
+      "type": "figure",
+      "id": "fig_0155",
+      "reading_order": 708,
+      "section": "Check the IPM module method:",
+      "bbox": {
+        "l": 60.53769988912556,
+        "t": 63.08660888671875,
+        "r": 92.45554714942617,
+        "b": 52.4210205078125
+      },
+      "image_path": "figures/figure_0155.png",
+      "previous_block_id": "txt_0512",
+      "width": 31,
+      "height": 10,
+      "image_hash": "c4a410541d6982cfb16dcf56a476d42816ee2a9c49e4eb87df272e770ae5186a"
+    }
+  ],
+  "page_stats": {
+    "block_count": 20,
+    "text_blocks": 17,
+    "paragraphs": 6,
+    "headings": 5,
+    "list_items": 6,
+    "captions": 0,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 2,
+    "tables": 1,
+    "toc_tables": 0
+  }
+}

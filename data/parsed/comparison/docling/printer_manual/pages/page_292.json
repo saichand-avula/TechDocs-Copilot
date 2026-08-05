@@ -1,0 +1,71 @@
+{
+  "page": 292,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_2383",
+      "reading_order": 3217,
+      "section": "Install a replacement white backing",
+      "bbox": {
+        "l": 113.0,
+        "t": 732.29,
+        "r": 244.0399999999999,
+        "b": 720.7
+      },
+      "content": "Close the document feeder."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0806",
+      "reading_order": 3218,
+      "section": "Install a replacement white backing",
+      "bbox": {
+        "l": 133.69188546650426,
+        "t": 698.6819763183594,
+        "r": 423.99116882418576,
+        "b": 505.9227600097656
+      },
+      "image_path": "figures/figure_0806.png",
+      "caption": "Close the document feeder",
+      "figure_number": "Figure 1-449",
+      "image_hash": "70a289ba89f0e41fd52b5955431e9b5486343df2be7fcb0c2b505f62c0e86f0b",
+      "width": 290,
+      "height": 193,
+      "previous_block_id": "txt_2383",
+      "next_block_id": "txt_2384",
+      "caption_id": "txt_2384"
+    },
+    {
+      "type": "caption",
+      "id": "txt_2384",
+      "reading_order": 3219,
+      "section": "Install a replacement white backing",
+      "bbox": {
+        "l": 134.99998,
+        "t": 711.29,
+        "r": 299.79996999999986,
+        "b": 699.7
+      },
+      "content": "Figure 1-449  Close the document feeder",
+      "caption_for": "fig_0806"
+    }
+  ],
+  "page_stats": {
+    "block_count": 3,
+    "text_blocks": 2,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 1,
+    "captions": 1,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 1,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

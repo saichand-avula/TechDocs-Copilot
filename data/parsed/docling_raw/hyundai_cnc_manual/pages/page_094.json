@@ -1,0 +1,94 @@
+{
+  "page": 94,
+  "document_id": "doc_caa693b1",
+  "page_bbox": {
+    "width": 595.0,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_0543",
+      "reading_order": 714,
+      "section": "1-3-2. Reference Point Adjusting Method 2",
+      "bbox": {
+        "l": 127.62,
+        "t": 755.71466,
+        "r": 272.39797799999997,
+        "b": 746.8429409281769
+      },
+      "content": "Set the coordinate \"X\" to \"0"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0544",
+      "reading_order": 715,
+      "section": "1-3-2. Reference Point Adjusting Method 2",
+      "bbox": {
+        "l": 127.62,
+        "t": 517.6955720000002,
+        "r": 527.3218079999987,
+        "b": 491.84396092817695
+      },
+      "content": "Set the mode to Handle Z, move the turret head in the + direction of Z-axis and make it not to be interfered with Tail Stock."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0545",
+      "reading_order": 716,
+      "section": "1-3-2. Reference Point Adjusting Method 2",
+      "bbox": {
+        "l": 127.61999999999999,
+        "t": 296.71649600000023,
+        "r": 396.7341539999993,
+        "b": 287.844776928177
+      },
+      "content": "Move the X-axis to reference point by means of handle."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0136",
+      "reading_order": 717,
+      "section": "1-3-2. Reference Point Adjusting Method 2",
+      "bbox": {
+        "l": 74.51773071289062,
+        "t": 722.0740203857422,
+        "r": 529.3964233398438,
+        "b": 548.2251892089844
+      },
+      "image_path": "figures/figure_0136.png",
+      "previous_block_id": "txt_0545",
+      "next_block_id": "txt_0546"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0137",
+      "reading_order": 718,
+      "section": "1-3-2. Reference Point Adjusting Method 2",
+      "bbox": {
+        "l": 79.96295166015625,
+        "t": 470.4124755859375,
+        "r": 533.9773559570312,
+        "b": 324.464111328125
+      },
+      "image_path": "figures/figure_0137.png",
+      "previous_block_id": "txt_0545",
+      "next_block_id": "txt_0546"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0138",
+      "reading_order": 719,
+      "section": "1-3-2. Reference Point Adjusting Method 2",
+      "bbox": {
+        "l": 81.62188720703125,
+        "t": 269.2667236328125,
+        "r": 537.4951782226562,
+        "b": 101.9888916015625
+      },
+      "image_path": "figures/figure_0138.png",
+      "previous_block_id": "txt_0545",
+      "next_block_id": "txt_0546"
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "page": 59,
+  "document_id": "doc_f7e949ab",
+  "page_bbox": {
+    "width": 612.0,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0049",
+      "reading_order": 734,
+      "section": "A1-1. Main PCB Disassembly",
+      "bbox": {
+        "l": 136.58961486816406,
+        "t": 699.3029479980469,
+        "r": 324.35052490234375,
+        "b": 557.1185150146484
+      },
+      "image_path": "figures/figure_0049.png",
+      "next_block_id": "txt_0662",
+      "image_hash": "891f78a82190e9a8a86833075ac49d518840e91fd8d5c70a4ef758f203708af0",
+      "width": 187,
+      "height": 142
+    },
+    {
+      "type": "caption",
+      "id": "txt_0662",
+      "reading_order": 735,
+      "section": "A1-1. Main PCB Disassembly",
+      "bbox": {
+        "l": 139.5,
+        "t": 551.81625,
+        "r": 309.5625,
+        "b": 538.6875
+      },
+      "content": "A1-2. TFT LCD Panel Disassembly",
+      "caption_for": "fig_0050"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0050",
+      "reading_order": 736,
+      "section": "A1-1. Main PCB Disassembly",
+      "bbox": {
+        "l": 137.5101318359375,
+        "t": 533.7239990234375,
+        "r": 323.986083984375,
+        "b": 393.5426330566406
+      },
+      "image_path": "figures/figure_0050.png",
+      "previous_block_id": "txt_0662",
+      "next_block_id": "txt_0663",
+      "caption_id": "txt_0662",
+      "caption": "A1-2. TFT LCD Panel Disassembly",
+      "image_hash": "853896a82dee929c93cefc6cba87d43355e8720886e4f74e93c897bf8a922707",
+      "width": 186,
+      "height": 140
+    },
+    {
+      "type": "figure",
+      "id": "fig_0051",
+      "reading_order": 737,
+      "section": "A1-1. Main PCB Disassembly",
+      "bbox": {
+        "l": 136.8636932373047,
+        "t": 389.6041259765625,
+        "r": 322.8611145019531,
+        "b": 249.856201171875
+      },
+      "image_path": "figures/figure_0051.png",
+      "previous_block_id": "txt_0662",
+      "next_block_id": "txt_0663",
+      "image_hash": "7d71eebda009246055478945a8293b7296ff5640e3a493522b9cfafbe22604b3",
+      "width": 186,
+      "height": 140
+    },
+    {
+      "type": "figure",
+      "id": "fig_0052",
+      "reading_order": 738,
+      "section": "A1-1. Main PCB Disassembly",
+      "bbox": {
+        "l": 137.11627197265625,
+        "t": 245.48382568359375,
+        "r": 324.3456726074219,
+        "b": 104.7431640625
+      },
+      "image_path": "figures/figure_0052.png",
+      "previous_block_id": "txt_0662",
+      "next_block_id": "txt_0663",
+      "image_hash": "759e642c3bebf03b337e0020f181c946be674e107be2fdb9aaa6ce8e0689c0cb",
+      "width": 187,
+      "height": 140
+    },
+    {
+      "type": "figure",
+      "id": "fig_0053",
+      "reading_order": 739,
+      "section": "A1-1. Main PCB Disassembly",
+      "bbox": {
+        "l": 341.2775573730469,
+        "t": 684.680061340332,
+        "r": 362.01727294921875,
+        "b": 664.7939758300781
+      },
+      "image_path": "figures/figure_0053.png",
+      "previous_block_id": "txt_0662",
+      "next_block_id": "txt_0663",
+      "width": 20,
+      "height": 19,
+      "decorative": true,
+      "image_hash": "5976623e0ea95f30d274b13bc46d7297eccd5edb1c41e2d0da6472c40dad17b0"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_0663",
+      "reading_order": 740,
+      "severity": "caution",
+      "content": "CAUTION: Be careful of disconnecting the LCD cable because the LCD connector cover is weak.",
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 369.0,
+        "t": 681.0525,
+        "r": 435.5625,
+        "b": 667.6875
+      }
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0665",
+      "reading_order": 742,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 337.5,
+        "t": 532.50375,
+        "r": 533.0628499999993,
+        "b": 501.74625
+      },
+      "content": "Remove the LCD window from the LCD panel."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0666",
+      "reading_order": 743,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 339.75,
+        "t": 388.50375,
+        "r": 533.4373499999999,
+        "b": 357.74625
+      },
+      "content": "Disconnect the LCD backlight wire from the LCD panel."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0667",
+      "reading_order": 744,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 339.75,
+        "t": 352.50375,
+        "r": 517.3125,
+        "b": 339.74625
+      },
+      "content": "Remove 4 screws on the LCD panel."
+    }
+  ],
+  "page_stats": {
+    "block_count": 10,
+    "text_blocks": 5,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 3,
+    "captions": 1,
+    "admonitions": 1,
+    "references": 0,
+    "figures": 5,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

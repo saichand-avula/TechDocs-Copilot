@@ -1,0 +1,18 @@
+{
+  "id": "tbl_0051",
+  "page": 67,
+  "section": "Parameters",
+  "title": null,
+  "markdown": "|                              |            |   Minimum setting |   Factory setting |   Maximum setting |\n|------------------------------|------------|-------------------|-------------------|-------------------|\n| Motor running time in star   | sec        |                 5 |                10 |                10 |\n| Load delay time (star-delta) | sec        |                 0 |                 0 |                10 |\n| Number of motor starts       | starts/day |                 0 |               240 |               240 |\n| Minimum stop time            | sec        |                10 |                20 |                30 |\n| Programmed stop time         | sec        |                 0 |                 3 |                20 |\n| Power recovery time (ARAVF)  | sec        |                10 |                10 |              3600 |\n| Restart delay                | sec        |                 0 |                 0 |              1200 |\n| Communication time-out       | sec        |                10 |                30 |                60 |",
+  "block_id": "#/tables/50",
+  "reading_order": 721,
+  "bbox": {
+    "l": 90.68367004394531,
+    "t": 756.3576889038086,
+    "r": 566.5789184570312,
+    "b": 597.3914794921875
+  },
+  "rows": 9,
+  "cols": 3,
+  "type": "table"
+}

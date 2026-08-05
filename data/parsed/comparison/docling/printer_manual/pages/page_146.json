@@ -1,0 +1,106 @@
+{
+  "page": 146,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0371",
+      "reading_order": 1760,
+      "section": "Post service test",
+      "bbox": {
+        "l": 133.6364001119807,
+        "t": 720.2677459716797,
+        "r": 423.8238281672774,
+        "b": 502.657470703125
+      },
+      "image_path": "figures/figure_0371.png",
+      "caption": "Locate the tabs and bosses",
+      "figure_number": "Figure 1-184",
+      "image_hash": "7cb41a24dbe1a2b0652e4a75c286e542c295a4f034525e734a8a4b60e35e9324",
+      "width": 290,
+      "height": 217,
+      "previous_block_id": "txt_1366",
+      "next_block_id": "txt_1367",
+      "caption_id": "txt_1367"
+    },
+    {
+      "type": "caption",
+      "id": "txt_1367",
+      "reading_order": 1761,
+      "section": "Post service test",
+      "bbox": {
+        "l": 135.0,
+        "t": 732.29,
+        "r": 300.7599899999999,
+        "b": 720.7
+      },
+      "content": "Figure 1-184  Locate the tabs and bosses",
+      "caption_for": "fig_0371"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1368",
+      "reading_order": 1762,
+      "section": "Post service test",
+      "bbox": {
+        "l": 113.0,
+        "t": 491.41999999999996,
+        "r": 259.47999999999996,
+        "b": 479.83000000000004
+      },
+      "content": "Remove two screws (callout 1)."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0372",
+      "reading_order": 1763,
+      "section": "Post service test",
+      "bbox": {
+        "l": 133.7280317804737,
+        "t": 458.3158264160156,
+        "r": 423.7861566923809,
+        "b": 240.35919189453125
+      },
+      "image_path": "figures/figure_0372.png",
+      "caption": "Remove two screws",
+      "figure_number": "Figure 1-185",
+      "image_hash": "4e3930f58fa8fa8c1bf919751fd7aad8214e3f8a355d294eddd66aea5242fe91",
+      "width": 290,
+      "height": 218,
+      "previous_block_id": "txt_1368",
+      "next_block_id": "txt_1369",
+      "caption_id": "txt_1369"
+    },
+    {
+      "type": "caption",
+      "id": "txt_1369",
+      "reading_order": 1764,
+      "section": "Post service test",
+      "bbox": {
+        "l": 134.99996,
+        "t": 470.42,
+        "r": 272.05995999999993,
+        "b": 458.83
+      },
+      "content": "Figure 1-185  Remove two screws",
+      "caption_for": "fig_0372"
+    }
+  ],
+  "page_stats": {
+    "block_count": 5,
+    "text_blocks": 3,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 1,
+    "captions": 2,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 2,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "page": 173,
+  "document_id": "doc_229deb31",
+  "page_bbox": {
+    "width": 595.219970703125,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_1363",
+      "reading_order": 1821,
+      "section": "PCB(1)",
+      "bbox": {
+        "l": 277.5063,
+        "t": 789.7992428,
+        "r": 327.40179140000015,
+        "b": 775.947857
+      },
+      "content": "PCB(1)",
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "id": "fig_0355",
+      "reading_order": 1822,
+      "section": "PCB(1)",
+      "bbox": {
+        "l": 18.49546742471201,
+        "t": 749.5206604003906,
+        "r": 555.1579851384673,
+        "b": 336.214599609375
+      },
+      "image_path": "figures/figure_0355.png",
+      "previous_block_id": "txt_1363",
+      "next_block_id": "txt_1364"
+    }
+  ]
+}

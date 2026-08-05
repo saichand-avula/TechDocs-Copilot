@@ -1,0 +1,54 @@
+{
+  "page": 68,
+  "document_id": "doc_229deb31",
+  "page_bbox": {
+    "width": 595.219970703125,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0610",
+      "reading_order": 825,
+      "section": "10.Wiring Diagrams 10.1.INDOORUNIT",
+      "bbox": {
+        "l": 42.8415,
+        "t": 773.9689988,
+        "r": 223.49229914999998,
+        "b": 736.0431540000001
+      },
+      "content": "10.Wiring Diagrams 10.1.INDOORUNIT",
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "id": "fig_0173",
+      "reading_order": 826,
+      "section": "10.Wiring Diagrams 10.1.INDOORUNIT",
+      "bbox": {
+        "l": 49.429850342816536,
+        "t": 734.1273727416992,
+        "r": 481.1900365999767,
+        "b": 93.69891357421875
+      },
+      "image_path": "figures/figure_0173.png",
+      "previous_block_id": "txt_0610",
+      "next_block_id": "txt_0611"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0174",
+      "reading_order": 827,
+      "section": "10.Wiring Diagrams 10.1.INDOORUNIT",
+      "bbox": {
+        "l": 46.552715132944286,
+        "t": 62.937744140625,
+        "r": 78.33410983543311,
+        "b": 52.35882568359375
+      },
+      "image_path": "figures/figure_0174.png",
+      "previous_block_id": "txt_0610",
+      "next_block_id": "txt_0611"
+    }
+  ]
+}

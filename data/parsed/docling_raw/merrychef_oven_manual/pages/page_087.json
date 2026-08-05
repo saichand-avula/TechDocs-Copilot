@@ -1,0 +1,351 @@
+{
+  "page": 87,
+  "document_id": "doc_27a62e0f",
+  "page_bbox": {
+    "width": 594.9600219726562,
+    "height": 842.52001953125
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_1188",
+      "reading_order": 1502,
+      "section": "6.10 Replacing the IO Board (Input Output Board)",
+      "bbox": {
+        "l": 49.56,
+        "t": 787.02447953125,
+        "r": 402.27288,
+        "b": 774.2523086051509
+      },
+      "content": "6.10 Replacing the IO Board (Input Output Board)",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "id": "txt_1189",
+      "reading_order": 1503,
+      "section": "Component",
+      "bbox": {
+        "l": 36.0,
+        "t": 753.28801953125,
+        "r": 105.36,
+        "b": 742.5044393785782
+      },
+      "content": "Component",
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "id": "fig_0262",
+      "reading_order": 1504,
+      "section": "Component",
+      "bbox": {
+        "l": 34.981234811897934,
+        "t": 739.2624616096656,
+        "r": 240.14812423671526,
+        "b": 560.6948259871449
+      },
+      "image_path": "figures/figure_0262.png",
+      "previous_block_id": "txt_1189",
+      "next_block_id": "txt_1190"
+    },
+    {
+      "type": "heading",
+      "id": "txt_1190",
+      "reading_order": 1505,
+      "section": "Requirements",
+      "bbox": {
+        "l": 36.0,
+        "t": 540.52801953125,
+        "r": 117.84,
+        "b": 529.7444393785782
+      },
+      "content": "Requirements",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1191",
+      "reading_order": 1506,
+      "section": "Requirements",
+      "bbox": {
+        "l": 36.0,
+        "t": 521.94601953125,
+        "r": 265.743,
+        "b": 513.8583344167462
+      },
+      "content": "Check that the following requirements have been met:"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1192",
+      "reading_order": 1507,
+      "section": "Requirements",
+      "bbox": {
+        "l": 54.0,
+        "t": 506.94601953125004,
+        "r": 558.765,
+        "b": 485.6553344167462
+      },
+      "content": " The appliance has been disconnected from the power supply and protective measures have been taken to ensure the power cannot be switched on again."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1193",
+      "reading_order": 1508,
+      "section": "Requirements",
+      "bbox": {
+        "l": 53.98200000000003,
+        "t": 481.02601953125003,
+        "r": 163.59300000000002,
+        "b": 472.5783344167462
+      },
+      "content": " The appliance is cool."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1194",
+      "reading_order": 1509,
+      "section": "Requirements",
+      "bbox": {
+        "l": 53.97300000000001,
+        "t": 468.54301953125,
+        "r": 331.452,
+        "b": 460.0953344167462
+      },
+      "content": " The side and top panels of the appliance have been removed."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1195",
+      "reading_order": 1510,
+      "section": "Requirements",
+      "bbox": {
+        "l": 53.95500000000004,
+        "t": 455.70001953125,
+        "r": 363.96000000000004,
+        "b": 447.2523344167462
+      },
+      "content": " The high voltage capacitors are discharged before commencing work."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1196",
+      "reading_order": 1511,
+      "section": "Requirements",
+      "bbox": {
+        "l": 53.93700000000007,
+        "t": 442.98301953125,
+        "r": 241.81200000000007,
+        "b": 434.5353344167462
+      },
+      "content": " Anti-static precautions have been taken."
+    },
+    {
+      "type": "heading",
+      "id": "txt_1197",
+      "reading_order": 1512,
+      "section": "Removing the IO Board",
+      "bbox": {
+        "l": 36.0,
+        "t": 410.56801953125,
+        "r": 168.60000000000002,
+        "b": 399.78443937857827
+      },
+      "content": "Removing the IO Board",
+      "level": 2
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1198",
+      "reading_order": 1513,
+      "section": "Removing the IO Board",
+      "bbox": {
+        "l": 54.0,
+        "t": 391.86601953125,
+        "r": 374.09399999999994,
+        "b": 383.7783344167462
+      },
+      "content": "Disconnect all the cables connecting the IO board to other components."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1199",
+      "reading_order": 1514,
+      "section": "Removing the IO Board",
+      "bbox": {
+        "l": 53.99099999999993,
+        "t": 379.14901953125,
+        "r": 532.251,
+        "b": 358.2183344167462
+      },
+      "content": "Loosen the two M7 hex nuts under the IO board on either side to remove the assembly from the frame of the cavity."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1200",
+      "reading_order": 1515,
+      "section": "Removing the IO Board",
+      "bbox": {
+        "l": 53.99099999999993,
+        "t": 149.34301953124998,
+        "r": 528.399,
+        "b": 141.25533441674622
+      },
+      "content": "Remove the PM (Personality Module) from the IO Board and place safety aside to refit to the replacement IO."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0263",
+      "reading_order": 1516,
+      "section": "Removing the IO Board",
+      "bbox": {
+        "l": 65.53804615645537,
+        "t": 355.44722230002407,
+        "r": 216.6805086259832,
+        "b": 154.96024268501458
+      },
+      "image_path": "figures/figure_0263.png",
+      "previous_block_id": "txt_1200",
+      "next_block_id": "txt_1201"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0264",
+      "reading_order": 1517,
+      "section": "Removing the IO Board",
+      "bbox": {
+        "l": 376.9859906451135,
+        "t": 355.11818611788016,
+        "r": 527.5292502137042,
+        "b": 155.76648503195497
+      },
+      "image_path": "figures/figure_0264.png",
+      "previous_block_id": "txt_1200",
+      "next_block_id": "txt_1201"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0265",
+      "reading_order": 1518,
+      "section": "Removing the IO Board",
+      "bbox": {
+        "l": 221.63711526665932,
+        "t": 354.4919864649698,
+        "r": 372.691509923389,
+        "b": 155.2529226260466
+      },
+      "image_path": "figures/figure_0265.png",
+      "previous_block_id": "txt_1200",
+      "next_block_id": "txt_1201"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0266",
+      "reading_order": 1519,
+      "section": "Removing the IO Board",
+      "bbox": {
+        "l": 64.92042713458142,
+        "t": 137.06180898390915,
+        "r": 201.05289660582022,
+        "b": 50.969498025989196
+      },
+      "image_path": "figures/figure_0266.png",
+      "previous_block_id": "txt_1200",
+      "next_block_id": "txt_1201"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1201",
+      "reading_order": 1520,
+      "section": "Removing the IO Board",
+      "bbox": {
+        "l": 216.0,
+        "t": 132.78601953125008,
+        "r": 499.66799999999995,
+        "b": 124.59873047605822
+      },
+      "content": "NOTICE: Do not use tools to remove or refit the Personality Module."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1202",
+      "reading_order": 1521,
+      "section": "Removing the IO Board",
+      "bbox": {
+        "l": 248.64,
+        "t": 734.58601953125,
+        "r": 552.4170000000003,
+        "b": 713.8983344167461
+      },
+      "content": "The IO Board extends over the width of the oven behind the front panel, above the cavity. It is mounted to the cavity frame."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1203",
+      "reading_order": 1522,
+      "section": "Removing the IO Board",
+      "bbox": {
+        "l": 248.64,
+        "t": 691.1460195312501,
+        "r": 539.457,
+        "b": 670.2153344167463
+      },
+      "content": "The IO board supplies the control voltages to the UI and switches the oven components as required."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1204",
+      "reading_order": 1523,
+      "section": "Removing the IO Board",
+      "bbox": {
+        "l": 248.63999999999993,
+        "t": 647.46601953125,
+        "r": 554.937,
+        "b": 626.5353344167462
+      },
+      "content": "Unused connections may require link connectors fitted, ensure positions are noted before removal of the board from the oven."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0267",
+      "reading_order": 1524,
+      "section": "Removing the IO Board",
+      "bbox": {
+        "l": 306.8396725961078,
+        "t": 607.1259396649004,
+        "r": 318.7117081128468,
+        "b": 595.8033648244109
+      },
+      "image_path": "figures/figure_0267.png",
+      "previous_block_id": "txt_1204",
+      "next_block_id": "txt_1205"
+    },
+    {
+      "type": "caption",
+      "id": "txt_1205",
+      "reading_order": 1525,
+      "section": "Removing the IO Board",
+      "bbox": {
+        "l": 325.92,
+        "t": 606.76801953125,
+        "r": 463.97099999999995,
+        "b": 580.0983344167462
+      },
+      "content": "Tools required M7 hex socket wrench / spanner"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1206",
+      "reading_order": 1526,
+      "section": "Removing the IO Board",
+      "bbox": {
+        "l": 325.91099999999994,
+        "t": 572.9490195312501,
+        "r": 390.171,
+        "b": 564.8613344167462
+      },
+      "content": "Discharge Tool"
+    }
+  ]
+}

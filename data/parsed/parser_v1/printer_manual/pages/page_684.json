@@ -1,0 +1,146 @@
+{
+  "page": 684,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_5209",
+      "reading_order": 7209,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 113.0,
+        "t": 732.29,
+        "r": 400.87000000000006,
+        "b": 720.7
+      },
+      "content": "Pass the wire harness through the provided opening in the chassis."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_5210",
+      "reading_order": 7210,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 113.0,
+        "t": 450.0248,
+        "r": 296.7100099999999,
+        "b": 438.4348
+      },
+      "content": "Connect one connector on the formatter."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_5211",
+      "reading_order": 7211,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 91.0,
+        "t": 188.1547999999999,
+        "r": 361.4600000000003,
+        "b": 176.5648
+      },
+      "content": "Install the fax PCA (M527/E52545/M528/E52645 fax models)."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_5212",
+      "reading_order": 7212,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 113.0,
+        "t": 130.1547999999999,
+        "r": 534.2400000000002,
+        "b": 106.56479999999999
+      },
+      "content": "Before proceeding, take note of the location of the slots (callout 1) in the sheet-metal where the fax PCA cradle mounting tab and fax port (callout 2) must be installed."
+    },
+    {
+      "type": "figure",
+      "id": "fig_1953",
+      "reading_order": 7213,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 134.47658076343606,
+        "t": 700.4098663330078,
+        "r": 286.47942630640165,
+        "b": 461.52679443359375
+      },
+      "image_path": "figures/figure_1953.png",
+      "caption": "Install the wire harness",
+      "figure_number": "Figure 1-1136",
+      "image_hash": "e77dbf9f174fb4b73ce15731282e727e9e1dbac87e72e4339828b60e5bf944ce",
+      "width": 152,
+      "height": 238,
+      "previous_block_id": "txt_5212",
+      "next_block_id": "txt_5213",
+      "caption_id": "txt_5213"
+    },
+    {
+      "type": "caption",
+      "id": "txt_5213",
+      "reading_order": 7214,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 135.00006000000002,
+        "t": 711.29,
+        "r": 289.63006999999993,
+        "b": 699.7
+      },
+      "content": "Figure 1-1136  Install the wire harness",
+      "caption_for": "fig_1953"
+    },
+    {
+      "type": "figure",
+      "id": "fig_1954",
+      "reading_order": 7215,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 133.9879192024313,
+        "t": 428.1072998046875,
+        "r": 289.1283258043824,
+        "b": 199.70660400390625
+      },
+      "image_path": "figures/figure_1954.png",
+      "caption": "Install the wire harness",
+      "figure_number": "Figure 1-1136",
+      "image_hash": "97637b5f11bcc787cb0d128cdec7395cf56d05e0ffe16ee5d99d6c55a5897d9d",
+      "width": 155,
+      "height": 228,
+      "previous_block_id": "txt_5213"
+    },
+    {
+      "type": "figure",
+      "id": "fig_1955",
+      "reading_order": 7216,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 96.28289839140837,
+        "t": 168.30609130859375,
+        "r": 541.0198475765205,
+        "b": 138.137451171875
+      },
+      "image_path": "figures/figure_1955.png",
+      "image_hash": "916afb087b6139a7b445b4e709cf7b8e09f308ab5c655c0ec805ff9e3143de74",
+      "width": 445,
+      "height": 30,
+      "previous_block_id": "txt_5213"
+    }
+  ],
+  "page_stats": {
+    "block_count": 8,
+    "text_blocks": 5,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 4,
+    "captions": 1,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 3,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

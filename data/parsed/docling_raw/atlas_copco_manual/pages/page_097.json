@@ -1,0 +1,468 @@
+{
+  "page": 97,
+  "document_id": "doc_e02482e6",
+  "page_bbox": {
+    "width": 595.0,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "table",
+      "id": "tbl_0082",
+      "reading_order": 1027,
+      "section": "Compressor room example",
+      "bbox": {
+        "l": 73.67668151855469,
+        "t": 750.9905395507812,
+        "r": 506.44873046875,
+        "b": 703.4552154541016
+      },
+      "markdown": "|   1 | Minimum free area to be reserved for the compressor installation   |\n|-----|--------------------------------------------------------------------|\n|   2 | Ventilation proposals (on air-cooled compressors)                  |\n|   3 | Cooling systems (on water-cooled compressors)                      |"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0688",
+      "reading_order": 1028,
+      "section": "Description",
+      "bbox": {
+        "l": 56.55,
+        "t": 689.975,
+        "r": 115.77400000000006,
+        "b": 677.699
+      },
+      "content": "Description",
+      "level": 2
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0689",
+      "reading_order": 1029,
+      "section": "Description",
+      "bbox": {
+        "l": 92.19,
+        "t": 666.5521914999999,
+        "r": 433.45867969999995,
+        "b": 655.032196
+      },
+      "content": "1 Install the compressor unit on a solid, level floor suitable for taking the weight."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0690",
+      "reading_order": 1030,
+      "section": "Description",
+      "bbox": {
+        "l": 92.19,
+        "t": 652.6917741499999,
+        "r": 284.93398975000025,
+        "b": 641.17177865
+      },
+      "content": "2 Position of the compressed air outlet valve."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0691",
+      "reading_order": 1031,
+      "section": "Description",
+      "bbox": {
+        "l": 92.18981635,
+        "t": 638.8332568,
+        "r": 545.3889124000002,
+        "b": 627.3113612999999
+      },
+      "content": "The maximum total pipe length (including interconnecting piping between compressor and receiver) can 3"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0692",
+      "reading_order": 1032,
+      "section": "Description",
+      "bbox": {
+        "l": 100.9501917,
+        "t": 621.5213125,
+        "r": 243.29119565000005,
+        "b": 607.15084885
+      },
+      "content": "dp = (L x 450 x Qc 1.85 ) / (d 5 x p)"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0693",
+      "reading_order": 1033,
+      "section": "Description",
+      "bbox": {
+        "l": 100.94900735000003,
+        "t": 603.43187225,
+        "r": 287.1660402999998,
+        "b": 591.91187675
+      },
+      "content": "d = Inner diameter of the outlet pipe in mm"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0694",
+      "reading_order": 1034,
+      "section": "Description",
+      "bbox": {
+        "l": 100.94900735000003,
+        "t": 589.5714548999999,
+        "r": 342.72842509999975,
+        "b": 578.0514594
+      },
+      "content": "dp = Pressure drop (recommended maximum = 0.1 bar)"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0695",
+      "reading_order": 1035,
+      "section": "Description",
+      "bbox": {
+        "l": 100.94900735000003,
+        "t": 575.7110375499999,
+        "r": 231.61302134999994,
+        "b": 564.19104205
+      },
+      "content": "L = Length of outlet pipe in m"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0696",
+      "reading_order": 1036,
+      "section": "Description",
+      "bbox": {
+        "l": 100.94900735000003,
+        "t": 560.4114012499999,
+        "r": 343.5057906500002,
+        "b": 548.89140575
+      },
+      "content": "p = Absolute pressure at the compressor outlet in bar(a)"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0697",
+      "reading_order": 1037,
+      "section": "Description",
+      "bbox": {
+        "l": 100.94900735000003,
+        "t": 543.7911800999999,
+        "r": 298.87543409999995,
+        "b": 532.2711846
+      },
+      "content": "Qc = Free air delivery of the compressor in l/s"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0698",
+      "reading_order": 1038,
+      "section": "Description",
+      "bbox": {
+        "l": 92.18981635,
+        "t": 526.45242265,
+        "r": 540.2323479500006,
+        "b": 501.01109925
+      },
+      "content": "Ventilation: the inlet grids and ventilation fan should be installed in such a way that any recirculation of cooling air to the compressor or dryer is avoided. The maximum air velocity through the grids is 5m/s. 4"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0699",
+      "reading_order": 1039,
+      "section": "Description",
+      "bbox": {
+        "l": 100.94900735000003,
+        "t": 495.73084114999995,
+        "r": 529.2389213500011,
+        "b": 470.3504283
+      },
+      "content": "The maximum air temperature at the compressor intake is 46 °C (minimum 0 °C). For air-cooled compressors ventilation alternatives 1 and 3, the ventilation capacity required to limit the"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0700",
+      "reading_order": 1040,
+      "section": "Description",
+      "bbox": {
+        "l": 100.95,
+        "t": 468.6721915,
+        "r": 324.4722541500001,
+        "b": 452.47219600000005
+      },
+      "content": "b l l Qv = 1.06 N/dT for GA Workplace compressors"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0701",
+      "reading_order": 1041,
+      "section": "Description",
+      "bbox": {
+        "l": 325.53183165000013,
+        "t": 468.6721915,
+        "r": 331.31784565000015,
+        "b": 457.152196
+      },
+      "content": "d"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0702",
+      "reading_order": 1042,
+      "section": "Description",
+      "bbox": {
+        "l": 347.4302296000002,
+        "t": 468.6721915,
+        "r": 350.8955941000002,
+        "b": 457.152196
+      },
+      "content": "f"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0703",
+      "reading_order": 1043,
+      "section": "Description",
+      "bbox": {
+        "l": 356.24973835000026,
+        "t": 468.6721915,
+        "r": 362.0243052000003,
+        "b": 457.152196
+      },
+      "content": "ll"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0704",
+      "reading_order": 1044,
+      "section": "Description",
+      "bbox": {
+        "l": 100.95,
+        "t": 446.65184055000003,
+        "r": 403.44093875,
+        "b": 435.13184505000004
+      },
+      "content": "Qv = (1.06 N + 8)/dT for GA Workplace Full-Feature compressors"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0705",
+      "reading_order": 1045,
+      "section": "Description",
+      "bbox": {
+        "l": 100.95,
+        "t": 432.07129340000006,
+        "r": 316.4592491500004,
+        "b": 420.55129790000007
+      },
+      "content": "The cooling air of the dryer can be ducted outside"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0706",
+      "reading_order": 1046,
+      "section": "Description",
+      "bbox": {
+        "l": 100.95,
+        "t": 416.14131249999997,
+        "r": 281.2711994000001,
+        "b": 401.83104505000006
+      },
+      "content": "Qv= Required ventilation capacity in m 3 /s"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0707",
+      "reading_order": 1047,
+      "section": "Description",
+      "bbox": {
+        "l": 100.94944870000006,
+        "t": 397.39174245,
+        "r": 262.30847510000035,
+        "b": 385.87174695
+      },
+      "content": "N = Shaft input of compressor in kW"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0708",
+      "reading_order": 1048,
+      "section": "Description",
+      "bbox": {
+        "l": 100.94944870000006,
+        "t": 382.8111953,
+        "r": 333.97595929999994,
+        "b": 371.2911998
+      },
+      "content": "dT = Temperature increase in compressor room in °C"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0709",
+      "reading_order": 1049,
+      "section": "Description",
+      "bbox": {
+        "l": 100.94944870000006,
+        "t": 366.6707138,
+        "r": 548.3123959000006,
+        "b": 340.75124425
+      },
+      "content": "For ventilation alternatives 2 and 4: the fan capacity should match the compressor fan capacity at a pressure head equal to the pressure drop over the air ducts."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0710",
+      "reading_order": 1050,
+      "section": "Description",
+      "bbox": {
+        "l": 100.94944870000006,
+        "t": 337.57101785000003,
+        "r": 550.4478097000015,
+        "b": 312.8514177500001
+      },
+      "content": "For water-cooled compressors, the ventilation capacity required to limit the compressor room temperature can be calculated from:"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0711",
+      "reading_order": 1051,
+      "section": "Description",
+      "bbox": {
+        "l": 100.94944870000006,
+        "t": 307.8708668500001,
+        "r": 324.4717028500001,
+        "b": 296.35087135000003
+      },
+      "content": "Qv = 0.13 N/dT for GA Workplace compressors"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0712",
+      "reading_order": 1052,
+      "section": "Description",
+      "bbox": {
+        "l": 100.94944870000006,
+        "t": 292.6305476,
+        "r": 403.44038745,
+        "b": 281.11055210000006
+      },
+      "content": "Qv = (0.13 N + 8)/dT for GA Workplace Full-Feature compressors"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0713",
+      "reading_order": 1053,
+      "section": "Description",
+      "bbox": {
+        "l": 100.94944870000006,
+        "t": 276.67009855000003,
+        "r": 442.7998517500006,
+        "b": 265.1501030500001
+      },
+      "content": "Max. allowable pressure drop in ducting before or after the compressor = 30 Pa"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0714",
+      "reading_order": 1054,
+      "section": "Description",
+      "bbox": {
+        "l": 92.18925700000005,
+        "t": 261.42977930000006,
+        "r": 545.3704783499999,
+        "b": 222.12963205000005
+      },
+      "content": "5 The drain pipes to the drain collector must not dip into the water of the drain collector. Atlas Copco has oil/water separators (type OSD or OSCi) to separate the major part of the oil from the condensate to ensure that the condensate meets the requiremen"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0715",
+      "reading_order": 1055,
+      "section": "Description",
+      "bbox": {
+        "l": 92.18925700000005,
+        "t": 219.78921019999996,
+        "r": 263.0400520500001,
+        "b": 208.26921470000002
+      },
+      "content": "6 Control module with monitoring panel."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0716",
+      "reading_order": 1056,
+      "section": "Description",
+      "bbox": {
+        "l": 92.18981635,
+        "t": 202.45124840000005,
+        "r": 401.3112175500006,
+        "b": 190.92886375
+      },
+      "content": "Power supply cable to be sized and installed by a qualified electrician. 7"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0717",
+      "reading_order": 1057,
+      "section": "Description",
+      "bbox": {
+        "l": 100.94944870000006,
+        "t": 184.38837850000004,
+        "r": 540.2307080000008,
+        "b": 159.00796564999996
+      },
+      "content": "To preserve the protection degree of the electric cubicle and to protect its components from dust from the environment, it is mandatory to use a proper cable gland when connecting the supply cable to the"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0718",
+      "reading_order": 1058,
+      "section": "Description",
+      "bbox": {
+        "l": 92.18925700000005,
+        "t": 153.84738229999994,
+        "r": 264.4782303499997,
+        "b": 142.3273868
+      },
+      "content": "8 Provision for energy recovery system."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0719",
+      "reading_order": 1059,
+      "section": "Description",
+      "bbox": {
+        "l": 92.18925700000005,
+        "t": 135.84725924999998,
+        "r": 542.4187136499999,
+        "b": 93.79177864999997
+      },
+      "content": "9 Filter, type DD for general purposes. The filter traps solid particles down to 1 micron with a max. oil carry-over of 0.5 mg/m 3 . A high-efficiency filter, type PD, maybe installed downstream of a DD filter. This filter traps solid particles down to 0.01 m"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0720",
+      "reading_order": 1060,
+      "section": "Description",
+      "bbox": {
+        "l": 87.0895907,
+        "t": 88.63119529999994,
+        "r": 153.87538575000002,
+        "b": 77.11119980000001
+      },
+      "content": "10 Safety valve"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0260",
+      "reading_order": 1061,
+      "section": "Description",
+      "bbox": {
+        "l": 519.3340454101562,
+        "t": 816.0547275543213,
+        "r": 567.2824096679688,
+        "b": 793.032901763916
+      },
+      "image_path": "figures/figure_0260.png",
+      "previous_block_id": "txt_0720",
+      "next_block_id": "txt_0721"
+    }
+  ]
+}

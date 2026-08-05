@@ -1,0 +1,247 @@
+{
+  "page": 254,
+  "document_id": "doc_caa693b1",
+  "page_bbox": {
+    "width": 595.0,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "table",
+      "id": "tbl_0141",
+      "reading_order": 2346,
+      "section": "2-2. Home Position Setting Method",
+      "bbox": {
+        "l": 238.43197631835938,
+        "t": 639.7532653808594,
+        "r": 506.0254821777344,
+        "b": 584.5921630859375
+      },
+      "markdown": ""
+    },
+    {
+      "type": "figure",
+      "id": "fig_0379",
+      "reading_order": 2347,
+      "section": "2-2. Home Position Setting Method",
+      "bbox": {
+        "l": 64.30327606201172,
+        "t": 771.2949676513672,
+        "r": 530.6544189453125,
+        "b": 403.19671630859375
+      },
+      "image_path": "figures/figure_0379.png",
+      "previous_block_id": "txt_1828",
+      "next_block_id": "txt_1829"
+    },
+    {
+      "type": "heading",
+      "id": "txt_1829",
+      "reading_order": 2348,
+      "section": "2-3. TOOL NO. SETTING",
+      "bbox": {
+        "l": 70.92,
+        "t": 388.27459400000004,
+        "r": 204.18299400000004,
+        "b": 379.4028749281768
+      },
+      "content": "2-3. TOOL NO. SETTING",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1830",
+      "reading_order": 2349,
+      "section": "2-3. TOOL NO. SETTING",
+      "bbox": {
+        "l": 106.379778,
+        "t": 369.07427,
+        "r": 393.14316000000065,
+        "b": 360.2025509281768
+      },
+      "content": "Select the PMM (Power Mate CNC Manager) parameter screen."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1831",
+      "reading_order": 2350,
+      "section": "2-3. TOOL NO. SETTING",
+      "bbox": {
+        "l": 106.37977799999999,
+        "t": 349.81482800000003,
+        "r": 289.6185239999998,
+        "b": 340.9431089281768
+      },
+      "content": "Set the basic parameter for turret."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1832",
+      "reading_order": 2351,
+      "section": "2-3. TOOL NO. SETTING",
+      "bbox": {
+        "l": 134.69930399999998,
+        "t": 330.554384,
+        "r": 301.77779400000026,
+        "b": 321.6826649281768
+      },
+      "content": "(Set PMM Parameter No.11#0 = \"0\")"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1833",
+      "reading_order": 2352,
+      "section": "2-3. TOOL NO. SETTING",
+      "bbox": {
+        "l": 106.37977799999996,
+        "t": 311.35406,
+        "r": 238.49448,
+        "b": 302.48234092817677
+      },
+      "content": "Press the \"MDI\" mode."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1834",
+      "reading_order": 2353,
+      "section": "2-3. TOOL NO. SETTING",
+      "bbox": {
+        "l": 106.37977799999996,
+        "t": 292.093616,
+        "r": 340.2806459999996,
+        "b": 283.22189692817676
+      },
+      "content": "Set the KEEP RELAY PARAMETER K5#0=1\""
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1835",
+      "reading_order": 2354,
+      "section": "2-3. TOOL NO. SETTING",
+      "bbox": {
+        "l": 134.69930399999996,
+        "t": 272.833172,
+        "r": 455.4505259999999,
+        "b": 263.96145292817675
+      },
+      "content": "=> The Alarm Message \" AL-75 TURRET ADJUST MODE \" is displayed."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1836",
+      "reading_order": 2355,
+      "section": "2-3. TOOL NO. SETTING",
+      "bbox": {
+        "l": 134.6983019999999,
+        "t": 253.57272799999998,
+        "r": 298.42410000000024,
+        "b": 244.70100892817675
+      },
+      "content": "=> Unclamp the Turret compulsorily."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1837",
+      "reading_order": 2356,
+      "section": "2-3. TOOL NO. SETTING",
+      "bbox": {
+        "l": 106.3787759999999,
+        "t": 234.31228399999998,
+        "r": 340.246578,
+        "b": 225.44056492817674
+      },
+      "content": "Turn the Turret by hand and set the No.1 tool."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1838",
+      "reading_order": 2357,
+      "section": "2-3. TOOL NO. SETTING",
+      "bbox": {
+        "l": 106.3787759999999,
+        "t": 215.11195999999995,
+        "r": 273.57149399999975,
+        "b": 206.24024092817672
+      },
+      "content": "Clamp the Turret compulsorily."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1839",
+      "reading_order": 2358,
+      "section": "2-3. TOOL NO. SETTING",
+      "bbox": {
+        "l": 134.6983019999999,
+        "t": 195.85151599999995,
+        "r": 360.97996199999955,
+        "b": 186.9797969281767
+      },
+      "content": "=> Set the KEEP RELAY PARAMETER K5#0=\"0\""
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1840",
+      "reading_order": 2359,
+      "section": "2-3. TOOL NO. SETTING",
+      "bbox": {
+        "l": 106.3777739999999,
+        "t": 176.59107199999994,
+        "r": 309.61944599999987,
+        "b": 167.7193529281767
+      },
+      "content": "Set the PMM Parameter No.11#0='1'."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1841",
+      "reading_order": 2360,
+      "section": "2-3. TOOL NO. SETTING",
+      "bbox": {
+        "l": 134.6983019999999,
+        "t": 157.33062799999993,
+        "r": 479.9975219999999,
+        "b": 148.4589089281767
+      },
+      "content": "=> The Alarm Message \" AL-133 POWER UNIT OFF REQUIRE \" is displayed."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1842",
+      "reading_order": 2361,
+      "section": "2-3. TOOL NO. SETTING",
+      "bbox": {
+        "l": 106.37777399999993,
+        "t": 138.07018399999993,
+        "r": 301.9912200000002,
+        "b": 129.1984649281767
+      },
+      "content": "Turn off and then re-apply the power."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1843",
+      "reading_order": 2362,
+      "section": "2-3. TOOL NO. SETTING",
+      "bbox": {
+        "l": 134.69729999999993,
+        "t": 118.8698599999999,
+        "r": 457.7370899999999,
+        "b": 109.99814092817678
+      },
+      "content": "=> The Alarm Message \" AL-61 TURRET SET UP ERROR \" is displayed."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1844",
+      "reading_order": 2363,
+      "section": "2-3. TOOL NO. SETTING",
+      "bbox": {
+        "l": 106.3767719999999,
+        "t": 99.6094159999999,
+        "r": 520.8680999999996,
+        "b": 73.45720492817668
+      },
+      "content": "Press   the   Spindle   [STOP],   mode   select   [SELECT]   and   [FEEDHOLD]   switch simultaneously."
+    }
+  ]
+}

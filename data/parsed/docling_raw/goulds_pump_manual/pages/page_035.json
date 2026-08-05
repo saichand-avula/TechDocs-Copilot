@@ -1,0 +1,276 @@
+{
+  "page": 35,
+  "document_id": "doc_b0587846",
+  "page_bbox": {
+    "width": 612.0,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0519",
+      "reading_order": 592,
+      "section": "Illustration",
+      "bbox": {
+        "l": 54.0,
+        "t": 743.64184,
+        "r": 100.88000000000001,
+        "b": 732.40184
+      },
+      "content": "Illustration",
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "id": "fig_0044",
+      "reading_order": 593,
+      "section": "Illustration",
+      "bbox": {
+        "l": 146.9151611328125,
+        "t": 722.5703582763672,
+        "r": 339.4712219238281,
+        "b": 529.5697021484375
+      },
+      "image_path": "figures/figure_0044.png",
+      "previous_block_id": "txt_0519",
+      "next_block_id": "txt_0520"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0520",
+      "reading_order": 594,
+      "section": "Illustration",
+      "bbox": {
+        "l": 143.99683,
+        "t": 519.89519,
+        "r": 342.0508300000001,
+        "b": 509.85119
+      },
+      "content": "Figure 15: Example of the C-face adapter (340)"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0521",
+      "reading_order": 595,
+      "section": "Alignment requirements",
+      "bbox": {
+        "l": 54.00084,
+        "t": 502.5848,
+        "r": 157.44083999999998,
+        "b": 491.34479999999996
+      },
+      "content": "Alignment requirements",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0522",
+      "reading_order": 596,
+      "section": "Alignment requirements",
+      "bbox": {
+        "l": 144.00083,
+        "t": 488.06480999999997,
+        "r": 550.8608300000005,
+        "b": 452.82480999999996
+      },
+      "content": "When you use a C-face adapter, you do not have to align the shaft. The rabbeted fittings of  the drive unit to the adapter and the adapter to the bearing frame automatically align the shaft to within the specified limits."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0523",
+      "reading_order": 597,
+      "section": "Specified limits",
+      "bbox": {
+        "l": 54.00084,
+        "t": 446.06480999999997,
+        "r": 119.31084,
+        "b": 434.82480999999996
+      },
+      "content": "Specified limits",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0524",
+      "reading_order": 598,
+      "section": "Specified limits",
+      "bbox": {
+        "l": 144.00074999999998,
+        "t": 431.54481999999996,
+        "r": 550.5907500000003,
+        "b": 396.30481999999995
+      },
+      "content": "A C-face adapter can attain a nominal alignment of  0.007 in. Total Indicated Runout (T.I.R.). However, because of the stack-up of the machining tolerances of  the various parts, the alignment can be as high as 0.015 inches TIR."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0525",
+      "reading_order": 599,
+      "section": "Specified limits",
+      "bbox": {
+        "l": 144.00074999999998,
+        "t": 392.54481999999996,
+        "r": 544.5907499999998,
+        "b": 369.30481999999995
+      },
+      "content": "If  high reliability (with shaft alignments of  less than 0.002 in. (0.05mm)) is required for the pump, use a foot-mounted drive unit on a precision-machined baseplate and perform a conventional alignment."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0526",
+      "reading_order": 600,
+      "section": "Grout the baseplate",
+      "bbox": {
+        "l": 53.9987,
+        "t": 351.17360999999994,
+        "r": 204.2547,
+        "b": 333.31760999999995
+      },
+      "content": "Grout the baseplate",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0527",
+      "reading_order": 601,
+      "section": "Grout the baseplate",
+      "bbox": {
+        "l": 144.0047,
+        "t": 326.54481999999996,
+        "r": 224.7147,
+        "b": 315.30481999999995
+      },
+      "content": "Required equipment:"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0528",
+      "reading_order": 602,
+      "section": "Grout the baseplate",
+      "bbox": {
+        "l": 153.00468999999998,
+        "t": 311.54481999999996,
+        "r": 546.5346900000004,
+        "b": 288.30481999999995
+      },
+      "content": "Cleaners: Do not use an oil-based cleaner because the grout will not bond to it. See the instructions provided by the grout manufacturer."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0529",
+      "reading_order": 603,
+      "section": "Grout the baseplate",
+      "bbox": {
+        "l": 153.00468,
+        "t": 285.74483,
+        "r": 328.08468,
+        "b": 274.50482999999997
+      },
+      "content": "Grout: Non-shrink grout is recommended."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0530",
+      "reading_order": 604,
+      "section": "Grout the baseplate",
+      "bbox": {
+        "l": 144.00466,
+        "t": 271.94484,
+        "r": 462.4246600000003,
+        "b": 260.70484
+      },
+      "content": "Clean all the areas of  the baseplate that will come into contact with the grout."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0531",
+      "reading_order": 605,
+      "section": "Grout the baseplate",
+      "bbox": {
+        "l": 144.00464,
+        "t": 258.14485,
+        "r": 300.63464,
+        "b": 246.90485
+      },
+      "content": "Build a dam around the foundation."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0532",
+      "reading_order": 606,
+      "section": "Grout the baseplate",
+      "bbox": {
+        "l": 144.00464,
+        "t": 244.34486000000004,
+        "r": 449.8646400000003,
+        "b": 233.10486000000003
+      },
+      "content": "Thoroughly wet the foundation that will come into contact with the grout."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0533",
+      "reading_order": 607,
+      "section": "Grout the baseplate",
+      "bbox": {
+        "l": 144.00464,
+        "t": 230.54484000000002,
+        "r": 471.47464000000025,
+        "b": 219.30484
+      },
+      "content": "Pour grout through the grout hole into the baseplate up to the level of  the dam."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0534",
+      "reading_order": 608,
+      "section": "Grout the baseplate",
+      "bbox": {
+        "l": 162.00462,
+        "t": 216.02481999999998,
+        "r": 493.4746200000003,
+        "b": 204.78481999999997
+      },
+      "content": "When you pour the grout, remove air bubbles from it by using one of these methods:"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0535",
+      "reading_order": 609,
+      "section": "Grout the baseplate",
+      "bbox": {
+        "l": 171.00457999999998,
+        "t": 202.22483,
+        "r": 268.15457999999995,
+        "b": 190.98483
+      },
+      "content": "Puddle with a vibrator."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0536",
+      "reading_order": 610,
+      "section": "Grout the baseplate",
+      "bbox": {
+        "l": 171.00459999999998,
+        "t": 188.42484000000002,
+        "r": 283.7045999999999,
+        "b": 177.18484
+      },
+      "content": "Pump the grout into place."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0537",
+      "reading_order": 611,
+      "section": "Grout the baseplate",
+      "bbox": {
+        "l": 144.00459999999998,
+        "t": 174.62485000000004,
+        "r": 249.10459999999992,
+        "b": 163.38485000000003
+      },
+      "content": "Allow the grout to set."
+    }
+  ]
+}

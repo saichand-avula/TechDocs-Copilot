@@ -1,0 +1,294 @@
+{
+  "page": 46,
+  "document_id": "doc_b0587846",
+  "page_bbox": {
+    "width": 612.0,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "table",
+      "id": "tbl_0038",
+      "reading_order": 728,
+      "section": "Table 8: Impeller clearances",
+      "bbox": {
+        "l": 142.6721649169922,
+        "t": 744.9331474304199,
+        "r": 558.974853515625,
+        "b": 677.4428787231445
+      },
+      "markdown": "| Service temperature   | STi in. (mm)   | MTi/LTi in. (mm)   | XLT-i/i17 in. (mm)   |\n|-----------------------|----------------|--------------------|----------------------|\n| Up to 650°F (343°C)   | 0.016 (0.40)   | 0.019 (0.48)       | 0.026 (0.66)         |\n| Up to 700°F (371°C)   | 0.017 (0.43)   | 0.020 (0.50)       | 0.027 (0.69)         |"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0633",
+      "reading_order": 729,
+      "section": "Impeller-clearance setting",
+      "bbox": {
+        "l": 54.0,
+        "t": 660.6906199999999,
+        "r": 251.40800000000004,
+        "b": 642.8346199999999
+      },
+      "content": "Impeller-clearance setting",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0634",
+      "reading_order": 730,
+      "section": "Impeller-clearance setting",
+      "bbox": {
+        "l": 53.99801,
+        "t": 636.0618299999999,
+        "r": 233.40800999999996,
+        "b": 624.8218299999999
+      },
+      "content": "Importance of  a proper impeller clearance"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0635",
+      "reading_order": 731,
+      "section": "Impeller-clearance setting",
+      "bbox": {
+        "l": 143.99801,
+        "t": 621.5418299999999,
+        "r": 443.32801,
+        "b": 610.3018299999999
+      },
+      "content": "A proper impeller clearance ensures that the pump runs at high performance."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0060",
+      "reading_order": 732,
+      "section": "Impeller-clearance setting",
+      "bbox": {
+        "l": 70.35460662841797,
+        "t": 600.2367248535156,
+        "r": 121.01671600341797,
+        "b": 556.4793853759766
+      },
+      "image_path": "figures/figure_0060.png",
+      "previous_block_id": "txt_0635",
+      "next_block_id": "txt_0636"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0636",
+      "reading_order": 733,
+      "section": "WARNING:",
+      "bbox": {
+        "l": 144.0,
+        "t": 596.5418299999999,
+        "r": 197.11,
+        "b": 585.3018299999999
+      },
+      "content": "WARNING:",
+      "level": 2
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0637",
+      "reading_order": 734,
+      "section": "WARNING:",
+      "bbox": {
+        "l": 153.00002,
+        "t": 582.9796199999998,
+        "r": 544.4700200000004,
+        "b": 547.7396199999998
+      },
+      "content": "The impeller clearance setting procedure must be followed. Improperly setting the clearance or not following any of  the proper procedures can result in sparks, unexpected heat generation, and equipment damage."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0638",
+      "reading_order": 735,
+      "section": "WARNING:",
+      "bbox": {
+        "l": 153.00005000000002,
+        "t": 545.4174099999999,
+        "r": 546.0900500000004,
+        "b": 510.1774099999999
+      },
+      "content": "If  you use a cartridge mechanical seal, you must install the centering clips and loosen the set screws before you set the impeller clearance. Failure to do so could result in sparks, heat generation, and mechanical seal damage."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0639",
+      "reading_order": 736,
+      "section": "Impeller clearance methods",
+      "bbox": {
+        "l": 54.0,
+        "t": 496.41740999999985,
+        "r": 171.51999999999998,
+        "b": 485.17740999999984
+      },
+      "content": "Impeller clearance methods",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0640",
+      "reading_order": 737,
+      "section": "Impeller clearance methods",
+      "bbox": {
+        "l": 144.0,
+        "t": 481.8974199999999,
+        "r": 392.44999999999993,
+        "b": 470.6574199999999
+      },
+      "content": "You can set the impeller clearance with either of  these methods:"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0641",
+      "reading_order": 738,
+      "section": "Impeller clearance methods",
+      "bbox": {
+        "l": 152.99998,
+        "t": 467.2937199999999,
+        "r": 247.60997999999995,
+        "b": 456.0537199999999
+      },
+      "content": "Dial indicator method"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0642",
+      "reading_order": 739,
+      "section": "Impeller clearance methods",
+      "bbox": {
+        "l": 152.99998,
+        "t": 453.7314899999999,
+        "r": 242.75997999999996,
+        "b": 442.4914899999999
+      },
+      "content": "Feeler gauge method"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0643",
+      "reading_order": 740,
+      "section": "Set the impeller clearance - dial indicator method (all except CV 3196)",
+      "bbox": {
+        "l": 53.99798,
+        "t": 434.5642299999999,
+        "r": 516.1519799999996,
+        "b": 418.9402299999999
+      },
+      "content": "Set the impeller clearance - dial indicator method (all except CV 3196)",
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "id": "fig_0061",
+      "reading_order": 741,
+      "section": "Set the impeller clearance - dial indicator method (all except CV 3196)",
+      "bbox": {
+        "l": 70.50794982910156,
+        "t": 408.7857971191406,
+        "r": 120.97731018066406,
+        "b": 364.90936279296875
+      },
+      "image_path": "figures/figure_0061.png",
+      "previous_block_id": "txt_0643",
+      "next_block_id": "txt_0644"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0644",
+      "reading_order": 742,
+      "section": "WARNING:",
+      "bbox": {
+        "l": 144.0,
+        "t": 405.16926999999987,
+        "r": 197.11,
+        "b": 393.92926999999986
+      },
+      "content": "WARNING:",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0645",
+      "reading_order": 743,
+      "section": "WARNING:",
+      "bbox": {
+        "l": 144.0,
+        "t": 390.64927999999986,
+        "r": 544.6800200000005,
+        "b": 367.40927999999985
+      },
+      "content": "Always disconnect and lock out power to the driver before you perform any installation or maintenance tasks. Failure to disconnect and lock out driver power will result in serious physical injury."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0646",
+      "reading_order": 744,
+      "section": "WARNING:",
+      "bbox": {
+        "l": 144.00004,
+        "t": 350.51380999999986,
+        "r": 270.6000399999999,
+        "b": 339.27380999999986
+      },
+      "content": "Remove the coupling guard."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0647",
+      "reading_order": 745,
+      "section": "WARNING:",
+      "bbox": {
+        "l": 144.00004,
+        "t": 336.95157999999986,
+        "r": 517.5600400000004,
+        "b": 325.71157999999986
+      },
+      "content": "Set the indicator so that the button contacts either the shaft end or the face of  the coupling."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0648",
+      "reading_order": 746,
+      "section": "WARNING:",
+      "bbox": {
+        "l": 144.0,
+        "t": 96.7575599999999,
+        "r": 539.1700000000003,
+        "b": 85.51755999999989
+      },
+      "content": "Loosen the jam nuts (423) on the jack bolts (370D) , and then back the bolts out about two turns."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0649",
+      "reading_order": 747,
+      "section": "WARNING:",
+      "bbox": {
+        "l": 144.0,
+        "t": 83.19536999999991,
+        "r": 554.5500000000003,
+        "b": 59.9553699999999
+      },
+      "content": "Tighten the locking bolts evenly (370C), bringing the bearing housing (134A) towards the frame (228) until the impeller contacts the casing."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0062",
+      "reading_order": 748,
+      "section": "WARNING:",
+      "bbox": {
+        "l": 168.66766357421875,
+        "t": 312.85198974609375,
+        "r": 356.7695617675781,
+        "b": 149.69818115234375
+      },
+      "image_path": "figures/figure_0062.png",
+      "previous_block_id": "txt_0649",
+      "next_block_id": "txt_0650"
+    }
+  ]
+}

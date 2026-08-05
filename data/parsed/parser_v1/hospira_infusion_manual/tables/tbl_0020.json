@@ -1,0 +1,18 @@
+{
+  "id": "tbl_0020",
+  "page": 51,
+  "section": "DRIVER PWA",
+  "title": null,
+  "markdown": "| Table 4-8. Driver PWA Interface Connections   | Table 4-8. Driver PWA Interface Connections   | Table 4-8. Driver PWA Interface Connections   |\n|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|\n| Connector                                     | Type                                          | Interface                                     |\n| J7                                            | 6 pin header                                  | Plunger motor                                 |\n| J8                                            | 6 pin header                                  | Input/output motor                            |\n| J9                                            | 6 pin header                                  | Line select motor                             |\n| J10                                           | 20 pin SMT                                    | Flat flex cable to APP PWA                    |\n| J11                                           | 50 pin header                                 | Ribbon cable to CPU PWA                       |\n| J12                                           | 6 pin SMT                                     | FSR flex circuit                              |\n| J13                                           | 4 pin header                                  | Motor power from power supply                 |\n| J14                                           | 8 pin SMT                                     | Flat flex cable to switch PWA                 |",
+  "block_id": "#/tables/19",
+  "reading_order": 472,
+  "bbox": {
+    "l": 106.5180892944336,
+    "t": 315.763427734375,
+    "r": 541.04833984375,
+    "b": 113.170166015625
+  },
+  "rows": 10,
+  "cols": 3,
+  "type": "table"
+}

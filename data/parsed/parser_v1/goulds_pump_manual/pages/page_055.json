@@ -1,0 +1,297 @@
+{
+  "page": 55,
+  "document_id": "doc_b0587846",
+  "page_bbox": {
+    "width": 612.0,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0777",
+      "reading_order": 899,
+      "section": "Connection of sealing liquid for a packed stuffing box",
+      "bbox": {
+        "l": 54.0,
+        "t": 738.0368,
+        "r": 411.83999999999975,
+        "b": 722.4128
+      },
+      "content": "Connection of sealing liquid for a packed stuffing box",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0080",
+      "reading_order": 900,
+      "section": "Connection of sealing liquid for a packed stuffing box",
+      "bbox": {
+        "l": 70.4886474609375,
+        "t": 712.2426605224609,
+        "r": 121.28804779052734,
+        "b": 668.3533325195312
+      },
+      "image_path": "figures/figure_0080.png",
+      "previous_block_id": "txt_0777",
+      "next_block_id": "txt_0778",
+      "image_hash": "f7c5af41dd5c0fa664e06481f314d2ac65a1c5d8107c062173f9e3391478264f",
+      "width": 51,
+      "height": 44
+    },
+    {
+      "type": "admonition",
+      "id": "txt_0778",
+      "reading_order": 901,
+      "severity": "warning",
+      "content": "WARNING: Packed stuffing boxes are not allowed in an ATEX-classified environment.",
+      "section": "WARNING:",
+      "bbox": {
+        "l": 144.0,
+        "t": 708.64184,
+        "r": 197.11,
+        "b": 697.40184
+      }
+    },
+    {
+      "type": "admonition",
+      "id": "txt_0780",
+      "reading_order": 903,
+      "severity": "note",
+      "content": "NOTICE: Make sure to lubricate the packing. Failure to do so may result in shortening the life of  the packing and the pump.",
+      "section": "NOTICE:",
+      "bbox": {
+        "l": 144.00004,
+        "t": 646.9863799999999,
+        "r": 187.45004,
+        "b": 635.74638
+      }
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0782",
+      "reading_order": 905,
+      "section": "NOTICE:",
+      "bbox": {
+        "l": 144.00004,
+        "t": 598.94639,
+        "r": 387.2500400000001,
+        "b": 587.7063899999999
+      },
+      "content": "You must use an external sealing liquid under these conditions:"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0783",
+      "reading_order": 906,
+      "section": "NOTICE:",
+      "bbox": {
+        "l": 153.00004,
+        "t": 583.94639,
+        "r": 336.54004,
+        "b": 572.7063899999999
+      },
+      "content": "The pumped fluid includes abrasive particles."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0784",
+      "reading_order": 907,
+      "section": "NOTICE:",
+      "bbox": {
+        "l": 153.00008,
+        "t": 570.1463899999999,
+        "r": 556.4300800000003,
+        "b": 534.90639
+      },
+      "content": "The stuffing-box pressure is below atmospheric pressure when the pump is running with a suction lift or when the suction source is in a vacuum. Under these conditions, packing is not cooled and lubricated and air is drawn into pump."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0785",
+      "reading_order": 908,
+      "section": "Conditions for application of  an external liquid",
+      "bbox": {
+        "l": 54.00008,
+        "t": 528.1463899999999,
+        "r": 253.98008,
+        "b": 516.90639
+      },
+      "content": "Conditions for application of  an external liquid",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "table",
+      "id": "tbl_0045",
+      "reading_order": 909,
+      "section": "Conditions for application of  an external liquid",
+      "bbox": {
+        "l": 143.53309631347656,
+        "t": 517.1495056152344,
+        "r": 558.5565185546875,
+        "b": 393.6694030761719
+      },
+      "markdown": "| Condition                                                                                 | Action                                                                                                                                                                              |\n|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| The stuffing box pressure is above atmospheric pressure and the pumped fluid is clean.    | Normal gland leaks of 40 to 60 drops per minute is usually sufficient to lubricate and cool the packing. You do not need sealing liquid.                                            |\n| The stuffing box pressure is below atmospheric pressure or the pumped fluid is not clean. | An outside source of clean compatible liquid is required.                                                                                                                           |\n| An outside source of clean compatible liquid is required.                                 | You must connect the piping to the lantern ring connection with a 40 to 60 drops-per-minute leak rate. The pressure must be 15 psi (1.01 kg/cm 2 ) above the stuffing box pressure. |",
+      "rows": 4,
+      "cols": 2
+    },
+    {
+      "type": "heading",
+      "id": "txt_0786",
+      "reading_order": 910,
+      "section": "Dynamic-seal option",
+      "bbox": {
+        "l": 54.0,
+        "t": 378.98135,
+        "r": 190.92000000000002,
+        "b": 363.35735
+      },
+      "content": "Dynamic-seal option",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0081",
+      "reading_order": 911,
+      "section": "Dynamic-seal option",
+      "bbox": {
+        "l": 70.42058563232422,
+        "t": 353.0650634765625,
+        "r": 121.16048431396484,
+        "b": 309.2945556640625
+      },
+      "image_path": "figures/figure_0081.png",
+      "previous_block_id": "txt_0786",
+      "next_block_id": "txt_0787",
+      "image_hash": "03f2c1b887ca0aeb5abecafc27e9b78647b008f4df666f311eecd04b6f446345",
+      "width": 51,
+      "height": 44
+    },
+    {
+      "type": "admonition",
+      "id": "txt_0787",
+      "reading_order": 912,
+      "severity": "warning",
+      "content": "WARNING: Dynamic seals are not allowed in an ATEX-classified environment.",
+      "section": "WARNING:",
+      "bbox": {
+        "l": 144.0,
+        "t": 349.58639,
+        "r": 197.11,
+        "b": 338.34639
+      }
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0789",
+      "reading_order": 914,
+      "section": "WARNING:",
+      "bbox": {
+        "l": 144.0,
+        "t": 294.93093,
+        "r": 297.2999999999999,
+        "b": 283.69093
+      },
+      "content": "The dynamic seal consists of  two parts:"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0790",
+      "reading_order": 915,
+      "section": "WARNING:",
+      "bbox": {
+        "l": 152.99999,
+        "t": 279.93093,
+        "r": 210.30998999999997,
+        "b": 268.69093
+      },
+      "content": "Repeller seal"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0791",
+      "reading_order": 916,
+      "section": "WARNING:",
+      "bbox": {
+        "l": 152.99999,
+        "t": 266.13094,
+        "r": 309.4899899999998,
+        "b": 254.89094
+      },
+      "content": "Secondary seal (one of the following):"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0792",
+      "reading_order": 917,
+      "section": "WARNING:",
+      "bbox": {
+        "l": 161.99996,
+        "t": 252.33095000000003,
+        "r": 237.93995999999993,
+        "b": 241.09095000000002
+      },
+      "content": "Graphite packing"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0793",
+      "reading_order": 918,
+      "section": "WARNING:",
+      "bbox": {
+        "l": 161.99993999999998,
+        "t": 238.53098999999997,
+        "r": 231.50994,
+        "b": 227.29098999999997
+      },
+      "content": "Diaphragm seal"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0794",
+      "reading_order": 919,
+      "section": "Table 9: Dynamic seal part function",
+      "bbox": {
+        "l": 144.00294,
+        "t": 222.44135999999992,
+        "r": 294.86994,
+        "b": 212.39735999999994
+      },
+      "content": "Table 9: Dynamic seal part function",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "table",
+      "id": "tbl_0046",
+      "reading_order": 920,
+      "section": "Table 9: Dynamic seal part function",
+      "bbox": {
+        "l": 143.04579162597656,
+        "t": 213.23480224609375,
+        "r": 558.7865600585938,
+        "b": 141.97607421875
+      },
+      "markdown": "| Part          | Function                                                                                                                                                                                                                                                                                                                                             |\n|---------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Repeller seal | A repeller seal prevents liquid from entering the stuffing box during operation. The repeller normally does not require a flush. However, for services that allow a build-up of solids on the repeller, you must install a flush connection. If a danger of freezing exists, then you must install a drain connection to drain the repeller chamber. |",
+      "title": "Table 9: Dynamic seal part function",
+      "table_number": "Table 9",
+      "rows": 2,
+      "cols": 2
+    }
+  ],
+  "page_stats": {
+    "block_count": 19,
+    "text_blocks": 15,
+    "paragraphs": 2,
+    "headings": 4,
+    "list_items": 6,
+    "captions": 0,
+    "admonitions": 3,
+    "references": 0,
+    "figures": 2,
+    "tables": 2,
+    "toc_tables": 0
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "page": 549,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_4234",
+      "reading_order": 5837,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 122.0,
+        "t": 732.29,
+        "r": 549.3000000000004,
+        "b": 708.7
+      },
+      "content": "Rotate the connector end of the fax PCA out and away from the formatter (callout 1), and then slide it as shown (callout 2) to remove it."
+    },
+    {
+      "type": "figure",
+      "id": "fig_1562",
+      "reading_order": 5838,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 142.7845746293711,
+        "t": 686.4618682861328,
+        "r": 432.469263888307,
+        "b": 469.9416809082031
+      },
+      "image_path": "figures/figure_1562.png",
+      "caption": "Remove the fax PCA",
+      "figure_number": "Figure 1-904",
+      "image_hash": "7780ab47e48662a2497256fb4ee0333294ed52835a21879f36b18356278c868b",
+      "width": 289,
+      "height": 216,
+      "previous_block_id": "txt_4234",
+      "next_block_id": "txt_4235",
+      "caption_id": "txt_4235"
+    },
+    {
+      "type": "caption",
+      "id": "txt_4235",
+      "reading_order": 5839,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 144.00002999999998,
+        "t": 699.29,
+        "r": 281.5900199999999,
+        "b": 687.7
+      },
+      "content": "Figure 1-904  Remove the fax PCA",
+      "caption_for": "fig_1562"
+    },
+    {
+      "type": "heading",
+      "id": "txt_4236",
+      "reading_order": 5840,
+      "section": "6. Remove the formatter.",
+      "bbox": {
+        "l": 100.0,
+        "t": 458.42,
+        "r": 212.39999999999995,
+        "b": 446.83
+      },
+      "content": "6. Remove the formatter.",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_4237",
+      "reading_order": 5841,
+      "section": "6. Remove the formatter.",
+      "bbox": {
+        "l": 122.0,
+        "t": 434.92,
+        "r": 537.1300000000001,
+        "b": 411.33
+      },
+      "content": "CAUTION: Never remove and then install a replacement DCC and formatter at the same time. Doing so will cause the printer to become unstable."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_4238",
+      "reading_order": 5842,
+      "section": "6. Remove the formatter.",
+      "bbox": {
+        "l": 122.00002,
+        "t": 401.92,
+        "r": 542.7700100000002,
+        "b": 378.33
+      },
+      "content": "If a replacement DCC and formatter must be installed, first remove and install the formatter. Test operate the printer, and then if necessary install a replacement DCC."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_4239",
+      "reading_order": 5843,
+      "section": "6. Remove the formatter.",
+      "bbox": {
+        "l": 122.0,
+        "t": 368.92,
+        "r": 538.72,
+        "b": 333.33
+      },
+      "content": "IMPORTANT: Take note of all empty connectors on the PCA before disconnecting any wire harnesses or flat-flexible cables (FFCs). Some empty connectors might not be visible until other items-like the harddisk drive-are removed, so pay close attention while removing the formatter and accessory items."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_4240",
+      "reading_order": 5844,
+      "section": "6. Remove the formatter.",
+      "bbox": {
+        "l": 122.0,
+        "t": 322.42,
+        "r": 537.2900000000003,
+        "b": 298.83
+      },
+      "content": "M501: Disconnect all of the connectors and FFCs, remove four screws (callout 1), and then remove the formatter."
+    }
+  ],
+  "page_stats": {
+    "block_count": 8,
+    "text_blocks": 7,
+    "paragraphs": 1,
+    "headings": 1,
+    "list_items": 4,
+    "captions": 1,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 1,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

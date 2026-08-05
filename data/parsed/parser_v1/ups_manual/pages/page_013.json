@@ -1,0 +1,111 @@
+{
+  "page": 13,
+  "document_id": "doc_1032c87b",
+  "page_bbox": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0125",
+      "reading_order": 141,
+      "section": "2. Fault protection",
+      "bbox": {
+        "l": 77.904,
+        "t": 730.3076629101563,
+        "r": 170.14568,
+        "b": 720.836101363195
+      },
+      "content": "2. Fault protection",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0126",
+      "reading_order": 142,
+      "section": "2. Fault protection",
+      "bbox": {
+        "l": 90.264,
+        "t": 714.7076629101563,
+        "r": 541.2125599999995,
+        "b": 689.756101363195
+      },
+      "content": "UPS will give sound and light alarm if any fault, and it can inquire the type and time of faults in menu of historical record."
+    },
+    {
+      "type": "table",
+      "id": "tbl_0006",
+      "reading_order": 143,
+      "section": "2. Fault protection",
+      "bbox": {
+        "l": 78.50999845936347,
+        "t": 672.430933882938,
+        "r": 505.4396008752286,
+        "b": 261.0736369539335
+      },
+      "markdown": "Table 2-3: Fault protection\n\n| Fault Protection Item                    | UPS Motion Method                                                                                                                                                                                            |\n|------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Fault of low output voltage in phase A   | switch, convert the output to bypass; after troubleshooting, press button 'FAULT CLEAR' on panel to exit the UPS from fault mode, recover the normal working status, and the load will not power down again. |\n| Fault of high output voltage in phase A  | switch, convert the output to bypass; after troubleshooting, press button 'FAULT CLEAR' on panel to exit the UPS from fault mode, recover the normal working status, and the load will not power down again. |\n| Fault of low output voltage in phase B   | switch, convert the output to bypass; after troubleshooting, press button 'FAULT CLEAR' on panel to exit the UPS from fault mode, recover the normal working status, and the load will not power down again. |\n| Fault of high output voltage in phase B  | switch, convert the output to bypass; after troubleshooting, press button 'FAULT CLEAR' on panel to exit the UPS from fault mode, recover the normal working status, and the load will not power down again. |\n| Fault of low output voltage in phase C   | switch, convert the output to bypass; after troubleshooting, press button 'FAULT CLEAR' on panel to exit the UPS from fault mode, recover the normal working status, and the load will not power down again. |\n| Fault of high output voltage in phase C  | switch, convert the output to bypass; after troubleshooting, press button 'FAULT CLEAR' on panel to exit the UPS from fault mode, recover the normal working status, and the load will not power down again. |\n| Fault of overvoltage of bus              | switch, convert the output to bypass; after troubleshooting, press button 'FAULT CLEAR' on panel to exit the UPS from fault mode, recover the normal working status, and the load will not power down again. |\n| Fault of low voltage of bus              | switch, convert the output to bypass; after troubleshooting, press button 'FAULT CLEAR' on panel to exit the UPS from fault mode, recover the normal working status, and the load will not power down again. |\n| Fault of over-temperature of radiator    | switch, convert the output to bypass; after troubleshooting, press button 'FAULT CLEAR' on panel to exit the UPS from fault mode, recover the normal working status, and the load will not power down again. |\n| Fault of input soft -start               | switch, convert the output to bypass; after troubleshooting, press button 'FAULT CLEAR' on panel to exit the UPS from fault mode, recover the normal working status, and the load will not power down again. |\n| Fault of rectifier                       | switch, convert the output to bypass; after troubleshooting, press button 'FAULT CLEAR' on panel to exit the UPS from fault mode, recover the normal working status, and the load will not power down again. |\n| Fault of short circuit of bus            | switch, convert the output to bypass; after troubleshooting, press button 'FAULT CLEAR' on panel to exit the UPS from fault mode, recover the normal working status, and the load will not power down again. |\n| Fault of fuse                            | switch, convert the output to bypass; after troubleshooting, press button 'FAULT CLEAR' on panel to exit the UPS from fault mode, recover the normal working status, and the load will not power down again. |\n| Fault of over-temperature of inverter    | switch, convert the output to bypass; after troubleshooting, press button 'FAULT CLEAR' on panel to exit the UPS from fault mode, recover the normal working status, and the load will not power down again. |\n| Fault of inverter IGBT over-current      | switch, convert the output to bypass; after troubleshooting, press button 'FAULT CLEAR' on panel to exit the UPS from fault mode, recover the normal working status, and the load will not power down again. |\n| Fault of rectification IGBT over-current | switch, convert the output to bypass; after troubleshooting, press button 'FAULT CLEAR' on panel to exit the UPS from fault mode, recover the normal working status, and the load will not power down again. |\n| Fault of inverter soft-start             | switch, convert the output to bypass; after troubleshooting, press button 'FAULT CLEAR' on panel to exit the UPS from fault mode, recover the normal working status, and the load will not power down again. |\n| Fault of inverter SCR                    | switch, convert the output to bypass; after troubleshooting, press button 'FAULT CLEAR' on panel to exit the UPS from fault mode, recover the normal working status, and the load will not power down again. |\n| Fault of charger                         | switch, convert the output to bypass; after troubleshooting, press button 'FAULT CLEAR' on panel to exit the UPS from fault mode, recover the normal working status, and the load will not power down again. |\n| Fault of bypass SCR                      | Power off (ECO mode, output to inverter)                                                                                                                                                                     |\n| Fault of bypass overload delay           | Power off                                                                                                                                                                                                    |\n| Fault of output short circuit            | Switch to bypass                                                                                                                                                                                             |\n| Fault of main power                      | Forbid to start the rectifier                                                                                                                                                                                |\n| Fault of bypass                          | Forbid to switch                                                                                                                                                                                             |",
+      "caption_id": "txt_0127",
+      "title": "Table 2-3: Fault protection",
+      "table_number": "Table 2-3",
+      "rows": 25,
+      "cols": 2
+    },
+    {
+      "type": "caption",
+      "id": "txt_0127",
+      "reading_order": 144,
+      "section": "2. Fault protection",
+      "bbox": {
+        "l": 244.73,
+        "t": 683.6276629101563,
+        "r": 369.12568,
+        "b": 674.156101363195
+      },
+      "content": "Table 2-3: Fault protection",
+      "caption_for": "tbl_0006"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0128",
+      "reading_order": 145,
+      "section": "2.6 Product Structure",
+      "bbox": {
+        "l": 80.784,
+        "t": 238.5888629101563,
+        "r": 255.64688,
+        "b": 224.27388920849887
+      },
+      "content": "2.6 Product Structure",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0129",
+      "reading_order": 146,
+      "section": "2.6 Product Structure",
+      "bbox": {
+        "l": 77.904,
+        "t": 199.22766291015625,
+        "r": 541.3401599999992,
+        "b": 158.556101363195
+      },
+      "content": "It considers operability of site maintenance for structure design, it uses advanced front maintenance design concept, realize modular design by functions for internal of UPS, and it is convenient for installation and maintenance."
+    }
+  ],
+  "page_stats": {
+    "block_count": 6,
+    "text_blocks": 5,
+    "paragraphs": 2,
+    "headings": 2,
+    "list_items": 0,
+    "captions": 1,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 0,
+    "tables": 1,
+    "toc_tables": 0
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "page": 50,
+  "document_id": "doc_1032c87b",
+  "page_bbox": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0442",
+      "reading_order": 542,
+      "section": "4.7 Turn Off the UPS (Completely Turn Off the UPS & Load)",
+      "bbox": {
+        "l": 80.784,
+        "t": 716.9588629101563,
+        "r": 531.83688,
+        "b": 702.6438892084989
+      },
+      "content": "4.7 Turn Off the UPS (Completely Turn Off the UPS & Load)",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0443",
+      "reading_order": 543,
+      "section": "4.7 Turn Off the UPS (Completely Turn Off the UPS & Load)",
+      "bbox": {
+        "l": 77.904,
+        "t": 677.6276629101563,
+        "r": 541.2451199999995,
+        "b": 636.956101363195
+      },
+      "content": "It shall follow following steps to completely power off UPS and disconnect power supply of load. All power supply switches and breakers are disconnected, and UPS does not provide power supply to the load."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0444",
+      "reading_order": 544,
+      "section": "4.7 Turn Off the UPS (Completely Turn Off the UPS & Load)",
+      "bbox": {
+        "l": 77.904,
+        "t": 630.8276629101563,
+        "r": 289.08567999999997,
+        "b": 621.356101363195
+      },
+      "content": "Shut down or cut off all loads of the UPS."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0445",
+      "reading_order": 545,
+      "section": "4.7 Turn Off the UPS (Completely Turn Off the UPS & Load)",
+      "bbox": {
+        "l": 77.904,
+        "t": 602.1476629101563,
+        "r": 541.6147199999999,
+        "b": 574.556101363195
+      },
+      "content": "It can power off the UPS by clicking On/Off icon ' ' in main interface, selecting 'OFF', and then pressing 'YES'. Or use button operation: power off UPS by pressing 'OFF' on panel for"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0446",
+      "reading_order": 546,
+      "section": "4.7 Turn Off the UPS (Completely Turn Off the UPS & Load)",
+      "bbox": {
+        "l": 90.264,
+        "t": 554.5976629101563,
+        "r": 541.5630399999997,
+        "b": 514.7661013631949
+      },
+      "content": "more than 1 s, pressing switch button ' ' to switch it to button operation mode, pressing up ' ' and down ' ' to select 'OFF', and then pressing ' '. This operation can power"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0085",
+      "reading_order": 547,
+      "section": "4.7 Turn Off the UPS (Completely Turn Off the UPS & Load)",
+      "bbox": {
+        "l": 89.25456649598611,
+        "t": 536.753704298635,
+        "r": 122.47041933701976,
+        "b": 517.9602328844483
+      },
+      "image_path": "figures/figure_0085.png",
+      "previous_block_id": "txt_0446",
+      "next_block_id": "txt_0447",
+      "width": 33,
+      "height": 18,
+      "image_hash": "6a1eee9f90895b6cefe009727d913edb21f3cdb9ac47f876b91411a9605da662"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0086",
+      "reading_order": 548,
+      "section": "4.7 Turn Off the UPS (Completely Turn Off the UPS & Load)",
+      "bbox": {
+        "l": 379.8229438060347,
+        "t": 538.516994965318,
+        "r": 411.4451971063062,
+        "b": 516.1939822940019
+      },
+      "image_path": "figures/figure_0086.png",
+      "previous_block_id": "txt_0446",
+      "next_block_id": "txt_0447",
+      "width": 31,
+      "height": 22,
+      "image_hash": "686aa1fc5a54bf2a7c4de4964e877c18a84df2d26dbd57e030d56a218e4021a7"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0087",
+      "reading_order": 549,
+      "section": "4.7 Turn Off the UPS (Completely Turn Off the UPS & Load)",
+      "bbox": {
+        "l": 177.19383551505777,
+        "t": 538.3181918383225,
+        "r": 208.33746850145434,
+        "b": 517.0335021144014
+      },
+      "image_path": "figures/figure_0087.png",
+      "previous_block_id": "txt_0446",
+      "next_block_id": "txt_0447",
+      "width": 31,
+      "height": 21,
+      "image_hash": "c2e25e31f3a4bb48cff76836e1c3371bb701c42f2adede1bba03170ac4fff1b1"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0447",
+      "reading_order": 550,
+      "section": "4.7 Turn Off the UPS (Completely Turn Off the UPS & Load)",
+      "bbox": {
+        "l": 90.264,
+        "t": 505.9976629101563,
+        "r": 534.17568,
+        "b": 496.526101363195
+      },
+      "content": "off the rectifier and inverter, disconnect static switch, and disconnect power supply of the load."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0448",
+      "reading_order": 551,
+      "section": "4.7 Turn Off the UPS (Completely Turn Off the UPS & Load)",
+      "bbox": {
+        "l": 77.904,
+        "t": 490.39766291015627,
+        "r": 465.39567999999997,
+        "b": 480.92610136319496
+      },
+      "content": "Disconnect the rectifier switch, bypass switch, output switch and battery switch."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0449",
+      "reading_order": 552,
+      "section": "4.7 Turn Off the UPS (Completely Turn Off the UPS & Load)",
+      "bbox": {
+        "l": 77.904,
+        "t": 474.7976629101563,
+        "r": 304.44568,
+        "b": 465.326101363195
+      },
+      "content": "Ensure maintenance switch is disconnected."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0450",
+      "reading_order": 553,
+      "section": "4.7 Turn Off the UPS (Completely Turn Off the UPS & Load)",
+      "bbox": {
+        "l": 77.904,
+        "t": 459.1976629101563,
+        "r": 541.4687199999994,
+        "b": 434.126101363195
+      },
+      "content": "Along with all internal power supplies power off, all LED indicator lights on panel are off, and LCD display is off."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0451",
+      "reading_order": 554,
+      "section": "4.7 Turn Off the UPS (Completely Turn Off the UPS & Load)",
+      "bbox": {
+        "l": 77.904,
+        "t": 427.9976629101563,
+        "r": 541.61568,
+        "b": 402.92610136319496
+      },
+      "content": "To ensure complete power off of the UPS, must disconnect its distribution switches of external mains power and external output switches, and paste them with warning labels."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0088",
+      "reading_order": 555,
+      "section": "4.7 Turn Off the UPS (Completely Turn Off the UPS & Load)",
+      "bbox": {
+        "l": 77.83188431322684,
+        "t": 396.376573498217,
+        "r": 97.79822917157126,
+        "b": 376.8649696526084
+      },
+      "image_path": "figures/figure_0088.png",
+      "previous_block_id": "txt_0451",
+      "next_block_id": "txt_0452",
+      "width": 19,
+      "height": 19,
+      "image_hash": "ec11dd98080d2d2e5f0eb8ac17f59ccd8362c11cb23bf06f7c356ef68b730f21"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_0452",
+      "reading_order": 556,
+      "section": "4.7 Turn Off the UPS (Completely Turn Off the UPS & Load)",
+      "bbox": {
+        "l": 77.904,
+        "t": 384.1776629101563,
+        "r": 541.3920799999995,
+        "b": 340.506101363195
+      },
+      "content": "Note: if you want to completely power off UPS, please disconnect all power switches, circuit breakers, and external distribution switch for main power and external output switch and then paste them with warning labels.",
+      "severity": "note"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0453",
+      "reading_order": 557,
+      "section": "4.8 Emergency Power Off (EPO)",
+      "bbox": {
+        "l": 80.784,
+        "t": 315.50886291015627,
+        "r": 335.10688,
+        "b": 301.19388920849883
+      },
+      "content": "4.8 Emergency Power Off (EPO)",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0454",
+      "reading_order": 558,
+      "section": "4.8 Emergency Power Off (EPO)",
+      "bbox": {
+        "l": 77.904,
+        "t": 276.1776629101563,
+        "r": 541.55824,
+        "b": 157.47610136319497
+      },
+      "content": "For this model of UPS, when execute EPO function, it will turn to two modes, the default is bypass mode, press the red EPO button on the panel, the UPS will execute EPO function. EPO function is used to turn off the UPS in case of emergency (e.g. fire, flood, etc.). The system will switch off the rectifier and inverter, and rapidly switch the output to bypass status, and batteries stop charging or discharging. If need the action mode of EPO to be 'cutting off the output', please set the action mode of EPO to be 'cutting off the output' before turning on the UPS. At this time, if press EPO button, the UPS will switch off the rectifier and inverter and disconnect the output, and the load will power off."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0455",
+      "reading_order": 559,
+      "section": "4.8 Emergency Power Off (EPO)",
+      "bbox": {
+        "l": 77.904,
+        "t": 151.34766291015626,
+        "r": 541.5782400000002,
+        "b": 110.6761013631949
+      },
+      "content": "If  the  UPS still has main power input, the control circuit of UPS still has electricity, but the UPS output  has  been  cut  off.  If  it  needs  to  cut  off  main  power  supply  of  UPS  completely,  it  shall disconnect the UPS external mains power input switch."
+    }
+  ],
+  "page_stats": {
+    "block_count": 18,
+    "text_blocks": 14,
+    "paragraphs": 4,
+    "headings": 2,
+    "list_items": 7,
+    "captions": 0,
+    "admonitions": 1,
+    "references": 0,
+    "figures": 4,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

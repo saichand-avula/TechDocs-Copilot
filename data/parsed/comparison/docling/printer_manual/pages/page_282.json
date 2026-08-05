@@ -1,0 +1,191 @@
+{
+  "page": 282,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_2322",
+      "reading_order": 3127,
+      "section": "d. Remove the cover.",
+      "bbox": {
+        "l": 113.0,
+        "t": 732.29,
+        "r": 291.6400099999999,
+        "b": 720.7
+      },
+      "content": "Slide the SCB straight out of the printer ."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2323",
+      "reading_order": 3128,
+      "section": "d. Remove the cover.",
+      "bbox": {
+        "l": 113.0,
+        "t": 470.42,
+        "r": 203.23,
+        "b": 458.83
+      },
+      "content": "Remove the SCB."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0777",
+      "reading_order": 3129,
+      "section": "d. Remove the cover.",
+      "bbox": {
+        "l": 133.649928289403,
+        "t": 698.3578872680664,
+        "r": 423.7201477274612,
+        "b": 481.8963623046875
+      },
+      "image_path": "figures/figure_0777.png",
+      "caption": "Slide the SCB out",
+      "figure_number": "Figure 1-430",
+      "image_hash": "102e8535ef736a97e6a37e97f66ee6984ca1d6613bb17969b38a15949c8a6512",
+      "width": 290,
+      "height": 216,
+      "previous_block_id": "txt_2323",
+      "next_block_id": "txt_2324",
+      "caption_id": "txt_2324"
+    },
+    {
+      "type": "caption",
+      "id": "txt_2324",
+      "reading_order": 3130,
+      "section": "d. Remove the cover.",
+      "bbox": {
+        "l": 134.99998,
+        "t": 711.29,
+        "r": 259.70996999999994,
+        "b": 699.7
+      },
+      "content": "Figure 1-430  Slide the SCB out",
+      "caption_for": "fig_0777"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_2325",
+      "reading_order": 3131,
+      "section": "d. Remove the cover.",
+      "bbox": {
+        "l": 134.99998,
+        "t": 449.42,
+        "r": 294.2999799999999,
+        "b": 437.83
+      },
+      "content": "For a replacement SCB, do the following"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0778",
+      "reading_order": 3132,
+      "section": "d. Remove the cover.",
+      "bbox": {
+        "l": 133.3692224207921,
+        "t": 416.5481262207031,
+        "r": 423.9139041716249,
+        "b": 198.5404052734375
+      },
+      "image_path": "figures/figure_0778.png",
+      "caption": "Remove the SCB",
+      "figure_number": "Figure 1-431",
+      "image_hash": "b48c810731194c9fb5c0617ab876cab5f40c72bfab59601f82c23ac62818b268",
+      "width": 291,
+      "height": 218,
+      "previous_block_id": "txt_2325",
+      "next_block_id": "txt_2326",
+      "caption_id": "txt_2326"
+    },
+    {
+      "type": "caption",
+      "id": "txt_2326",
+      "reading_order": 3133,
+      "section": "d. Remove the cover.",
+      "bbox": {
+        "l": 134.99999,
+        "t": 428.42,
+        "r": 257.78999,
+        "b": 416.83
+      },
+      "content": "Figure 1-431  Remove the SCB",
+      "caption_for": "fig_0778"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2327",
+      "reading_order": 3134,
+      "section": "d. Remove the cover.",
+      "bbox": {
+        "l": 91.0,
+        "t": 187.54999999999995,
+        "r": 407.11000000000007,
+        "b": 175.96000000000004
+      },
+      "content": "Remove the sub-scanner assembly (SSA) (M527/E52545/M528/E52645)."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0779",
+      "reading_order": 3135,
+      "section": "d. Remove the cover.",
+      "bbox": {
+        "l": 96.98518924345537,
+        "t": 166.05999755859375,
+        "r": 109.78290609140967,
+        "b": 152.7781982421875
+      },
+      "image_path": "figures/figure_0779.png",
+      "decorative": true,
+      "width": 12,
+      "height": 13,
+      "image_hash": "c1de408d038c058ed8b358c538e5e092188ed4409e1d4fc38f057d486689e4fd",
+      "previous_block_id": "txt_2327",
+      "next_block_id": "txt_2328"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_2328",
+      "reading_order": 3136,
+      "section": "d. Remove the cover.",
+      "bbox": {
+        "l": 113.0,
+        "t": 164.05000999999993,
+        "r": 535.5600000000002,
+        "b": 140.46001
+      },
+      "content": "NOTE: The SCB is shown installed in the following steps, but was previously removed. The procedure for removing the document feeder (below) is correct for the printer.",
+      "severity": "note"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2329",
+      "reading_order": 3137,
+      "section": "d. Remove the cover.",
+      "bbox": {
+        "l": 113.0,
+        "t": 129.54999999999995,
+        "r": 432.1800000000002,
+        "b": 117.96000000000004
+      },
+      "content": "Remove one screw (callout 1), and then remove the cable cover (callout 2)."
+    }
+  ],
+  "page_stats": {
+    "block_count": 11,
+    "text_blocks": 8,
+    "paragraphs": 1,
+    "headings": 0,
+    "list_items": 4,
+    "captions": 2,
+    "admonitions": 1,
+    "references": 0,
+    "figures": 3,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

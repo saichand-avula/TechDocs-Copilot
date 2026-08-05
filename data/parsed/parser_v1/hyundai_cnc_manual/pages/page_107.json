@@ -1,0 +1,336 @@
+{
+  "page": 107,
+  "document_id": "doc_caa693b1",
+  "page_bbox": {
+    "width": 595.0,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0162",
+      "reading_order": 824,
+      "section": "1-5. Q-Setter Position Adjustment",
+      "bbox": {
+        "l": 224.46238708496094,
+        "t": 739.0692901611328,
+        "r": 340.7840270996094,
+        "b": 708.2551422119141
+      },
+      "image_path": "figures/figure_0162.png",
+      "next_block_id": "txt_0626",
+      "image_hash": "9fb007518a5bea385faf2bb7f2220b5dedf3ccaad2d0f583239a650344d05da1",
+      "width": 117,
+      "height": 31
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0626",
+      "reading_order": 825,
+      "section": "1-5. Q-Setter Position Adjustment",
+      "bbox": {
+        "l": 102.48,
+        "t": 683.23466,
+        "r": 507.13569599999875,
+        "b": 674.3629409281768
+      },
+      "content": "After changing the data, always press the RESET key, turn off and then re-apply the power."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0627",
+      "reading_order": 826,
+      "section": "1-5. Q-Setter Position Adjustment",
+      "bbox": {
+        "l": 99.299646,
+        "t": 646.7546479999999,
+        "r": 450.1228919999989,
+        "b": 637.8829289281767
+      },
+      "content": "Adjusting Method according to Cutting. [(fine adjustment following data 5)]"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0628",
+      "reading_order": 827,
+      "section": "1-5. Q-Setter Position Adjustment",
+      "bbox": {
+        "l": 120.540042,
+        "t": 629.7747559999999,
+        "r": 292.4782319999999,
+        "b": 620.9030369281768
+      },
+      "content": "Call the tool to be used in cutting."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0629",
+      "reading_order": 828,
+      "section": "1-5. Q-Setter Position Adjustment",
+      "bbox": {
+        "l": 120.540042,
+        "t": 612.794864,
+        "r": 300.54032399999977,
+        "b": 552.9233489281769
+      },
+      "content": "When the desired value is assumed at 50 mm by chucking the workpiece,  cut it with the  work coordinate set to 50.0."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0630",
+      "reading_order": 829,
+      "section": "1-5. Q-Setter Position Adjustment",
+      "bbox": {
+        "l": 120.54004200000001,
+        "t": 544.755056,
+        "r": 300.5182800000003,
+        "b": 518.9034449281769
+      },
+      "content": "Measure  the  workpiece  has  been cut."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0631",
+      "reading_order": 830,
+      "section": "1-5. Q-Setter Position Adjustment",
+      "bbox": {
+        "l": 120.54004200000001,
+        "t": 510.79527200000007,
+        "r": 258.461334,
+        "b": 501.92355292817683
+      },
+      "content": "Calculate new parameter."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0163",
+      "reading_order": 831,
+      "section": "1-5. Q-Setter Position Adjustment",
+      "bbox": {
+        "l": 341.158203125,
+        "t": 626.2098083496094,
+        "r": 534.8531494140625,
+        "b": 505.9796142578125
+      },
+      "image_path": "figures/figure_0163.png",
+      "previous_block_id": "txt_0631",
+      "next_block_id": "txt_0632",
+      "image_hash": "9d093ce16c298491c2819d4b2c42cd0a64089bec118b107833de5ba853e8ce64",
+      "width": 194,
+      "height": 120
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0632",
+      "reading_order": 832,
+      "section": "1-5. Q-Setter Position Adjustment",
+      "bbox": {
+        "l": 120.54004200000001,
+        "t": 493.7552600000001,
+        "r": 461.7751500000011,
+        "b": 484.88354092817684
+      },
+      "content": "New parameter = (old parameter) + (measured value - desired value) x 1000"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0633",
+      "reading_order": 833,
+      "section": "1-5. Q-Setter Position Adjustment",
+      "bbox": {
+        "l": 120.54004200000001,
+        "t": 476.77536800000007,
+        "r": 148.94774400000003,
+        "b": 467.90364892817684
+      },
+      "content": "Ex. 1:"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0634",
+      "reading_order": 834,
+      "section": "1-5. Q-Setter Position Adjustment",
+      "bbox": {
+        "l": 156.06394800000004,
+        "t": 476.77536800000007,
+        "r": 455.978580000001,
+        "b": 467.90364892817684
+      },
+      "content": "#5015 = (-60482) + (49.8-50.0) x 1000 = (-60482) + (-200) =-60682"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0635",
+      "reading_order": 835,
+      "section": "1-5. Q-Setter Position Adjustment",
+      "bbox": {
+        "l": 120.54004200000001,
+        "t": 459.79547600000006,
+        "r": 148.94774400000003,
+        "b": 450.92375692817683
+      },
+      "content": "Ex. 2:"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0636",
+      "reading_order": 836,
+      "section": "1-5. Q-Setter Position Adjustment",
+      "bbox": {
+        "l": 156.06394800000004,
+        "t": 459.79547600000006,
+        "r": 451.01968200000124,
+        "b": 450.92375692817683
+      },
+      "content": "#5015 = (-140657) + (50.25-50.0)x1000=(-140657)+250 = 140407"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0637",
+      "reading_order": 837,
+      "section": "2. General Check and Repair",
+      "bbox": {
+        "l": 70.92000000000002,
+        "t": 408.79568000000006,
+        "r": 229.3171620000002,
+        "b": 399.9239609281768
+      },
+      "content": "2. General Check and Repair",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0638",
+      "reading_order": 838,
+      "section": "2-1. General",
+      "bbox": {
+        "l": 70.92000000000002,
+        "t": 391.75566800000007,
+        "r": 139.32553800000005,
+        "b": 382.88394892817684
+      },
+      "content": "2-1. General",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0639",
+      "reading_order": 839,
+      "section": "2-1. General",
+      "bbox": {
+        "l": 99.29964600000001,
+        "t": 374.77577600000006,
+        "r": 527.4241859999997,
+        "b": 348.9241649281768
+      },
+      "content": "General check and repair are essential to maintain the high integriy for a long time. So, general check and repair take precedence of any other job."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0164",
+      "reading_order": 840,
+      "section": "2-1. General",
+      "bbox": {
+        "l": 217.83843994140625,
+        "t": 326.12646484375,
+        "r": 249.70474243164062,
+        "b": 294.4788818359375
+      },
+      "image_path": "figures/figure_0164.png",
+      "previous_block_id": "txt_0639",
+      "next_block_id": "txt_0640",
+      "width": 31,
+      "height": 31,
+      "decorative": true,
+      "image_hash": "e7764010a49a61d5b44a3ce0931da2479bbee4fd79722128477d4c3d40160bf7"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0640",
+      "reading_order": 841,
+      "section": "CAUTION",
+      "bbox": {
+        "l": 268.38,
+        "t": 309.30276000000003,
+        "r": 345.726162,
+        "b": 295.1186342983426
+      },
+      "content": "CAUTION",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0641",
+      "reading_order": 842,
+      "section": "CAUTION",
+      "bbox": {
+        "l": 78.0,
+        "t": 270.37476000000004,
+        "r": 536.1043800000001,
+        "b": 244.52314892817685
+      },
+      "content": "When doing the general check and repair, open the necessary cover or door and the door of electric control panel remains closed."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0642",
+      "reading_order": 843,
+      "section": "CAUTION",
+      "bbox": {
+        "l": 76.31964600000003,
+        "t": 234.435024,
+        "r": 528.7286580000012,
+        "b": 208.52329292817683
+      },
+      "content": "Never use compressed air. It may result in penetration of foreign matters into the spindle bearing and guide-way."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0165",
+      "reading_order": 844,
+      "section": "CAUTION",
+      "bbox": {
+        "l": 212.99432373046875,
+        "t": 177.6053466796875,
+        "r": 244.31553649902344,
+        "b": 146.4044189453125
+      },
+      "image_path": "figures/figure_0165.png",
+      "previous_block_id": "txt_0642",
+      "next_block_id": "txt_0643",
+      "width": 31,
+      "height": 31,
+      "image_hash": "60e579b96e03e6e5940e589b5ad6ed4a7a69ee881d0bfbea39be01646dead400"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_0643",
+      "reading_order": 845,
+      "severity": "warning",
+      "content": "WARNING: Prior to performing the general check and repair, place the main break of electric control panel to OFF as shown in Fig. 5-7.",
+      "section": "WARNING",
+      "bbox": {
+        "l": 265.68,
+        "t": 166.38266,
+        "r": 348.3944639999998,
+        "b": 152.19853429834257
+      }
+    }
+  ],
+  "page_stats": {
+    "block_count": 22,
+    "text_blocks": 18,
+    "paragraphs": 6,
+    "headings": 3,
+    "list_items": 8,
+    "captions": 0,
+    "admonitions": 1,
+    "references": 0,
+    "figures": 4,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

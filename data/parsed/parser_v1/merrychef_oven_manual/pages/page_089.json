@@ -1,0 +1,381 @@
+{
+  "page": 89,
+  "document_id": "doc_27a62e0f",
+  "page_bbox": {
+    "width": 594.9600219726562,
+    "height": 842.52001953125
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_1228",
+      "reading_order": 1549,
+      "section": "6.12 Replacing the stirrer motor and stirrer assembly",
+      "bbox": {
+        "l": 49.56,
+        "t": 787.02447953125,
+        "r": 429.2718,
+        "b": 774.2523086051509
+      },
+      "content": "6.12 Replacing the stirrer motor and stirrer assembly",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "heading",
+      "id": "txt_1229",
+      "reading_order": 1550,
+      "section": "Component",
+      "bbox": {
+        "l": 36.0,
+        "t": 753.28801953125,
+        "r": 105.36,
+        "b": 742.5044393785782
+      },
+      "content": "Component",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0269",
+      "reading_order": 1551,
+      "section": "Component",
+      "bbox": {
+        "l": 35.32101376895879,
+        "t": 739.3559447296388,
+        "r": 124.18448843506063,
+        "b": 649.5279003716078
+      },
+      "image_path": "figures/figure_0269.png",
+      "previous_block_id": "txt_1229",
+      "next_block_id": "txt_1230",
+      "caption_id": "txt_1236",
+      "caption": "Tools required M5.5 hex socket wrench M7 hex socket wrench Discharge Tool",
+      "image_hash": "cbf00b4c624c776709111dcc54f029fab10b806312ccd6b838d1370840ab5b9a",
+      "width": 89,
+      "height": 90
+    },
+    {
+      "type": "heading",
+      "id": "txt_1230",
+      "reading_order": 1552,
+      "section": "Requirements",
+      "bbox": {
+        "l": 187.8,
+        "t": 751.0080195312499,
+        "r": 269.64,
+        "b": 740.2244393785782
+      },
+      "content": "Requirements",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1231",
+      "reading_order": 1553,
+      "section": "Requirements",
+      "bbox": {
+        "l": 187.8,
+        "t": 732.4259195312501,
+        "r": 417.54299999999995,
+        "b": 724.3382344167462
+      },
+      "content": "Check that the following requirements have been met:"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1232",
+      "reading_order": 1554,
+      "section": "Requirements",
+      "bbox": {
+        "l": 205.79999999999998,
+        "t": 717.4229195312499,
+        "r": 550.257,
+        "b": 696.1322344167462
+      },
+      "content": " The appliance has been disconnected from the power supply and protective measures have been taken to ensure the power cannot be switched on again."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1233",
+      "reading_order": 1555,
+      "section": "Requirements",
+      "bbox": {
+        "l": 205.7999999999999,
+        "t": 691.50291953125,
+        "r": 315.41099999999983,
+        "b": 683.0552344167462
+      },
+      "content": " The appliance is cool."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1234",
+      "reading_order": 1556,
+      "section": "Requirements",
+      "bbox": {
+        "l": 205.79099999999985,
+        "t": 678.90291953125,
+        "r": 538.8089999999999,
+        "b": 670.4552344167462
+      },
+      "content": " The top and side panels of the casing of the appliance have been removed."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1235",
+      "reading_order": 1557,
+      "section": "Requirements",
+      "bbox": {
+        "l": 205.7459999999998,
+        "t": 666.18591953125,
+        "r": 515.7509999999999,
+        "b": 657.7382344167462
+      },
+      "content": " The high voltage capacitors are discharged before commencing work."
+    },
+    {
+      "type": "caption",
+      "id": "txt_1236",
+      "reading_order": 1558,
+      "section": "Requirements",
+      "bbox": {
+        "l": 35.915999999999855,
+        "t": 643.48801953125,
+        "r": 139.30799999999985,
+        "b": 585.8552344167462
+      },
+      "content": "Tools required M5.5 hex socket wrench M7 hex socket wrench Discharge Tool",
+      "caption_for": "fig_0269"
+    },
+    {
+      "type": "caption",
+      "id": "txt_1237",
+      "reading_order": 1559,
+      "section": "Requirements",
+      "bbox": {
+        "l": 179.91599999999983,
+        "t": 624.9029195312501,
+        "r": 284.9819999999998,
+        "b": 601.3352344167462
+      },
+      "content": "Pozidriv PZ1 screwdriver Torque wrench",
+      "caption_for": "fig_0274"
+    },
+    {
+      "type": "heading",
+      "id": "txt_1238",
+      "reading_order": 1560,
+      "section": "Removing the stirrer motor",
+      "bbox": {
+        "l": 36.0,
+        "t": 562.12791953125,
+        "r": 191.04000000000002,
+        "b": 551.3443393785782
+      },
+      "content": "Removing the stirrer motor",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1239",
+      "reading_order": 1561,
+      "section": "Removing the stirrer motor",
+      "bbox": {
+        "l": 54.0,
+        "t": 543.5460195312501,
+        "r": 331.60499999999996,
+        "b": 535.4583344167462
+      },
+      "content": "Unplug the stirrer motor from the IO Board, connection X112."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1240",
+      "reading_order": 1562,
+      "section": "Removing the stirrer motor",
+      "bbox": {
+        "l": 53.98199999999997,
+        "t": 530.7030195312501,
+        "r": 415.84499999999997,
+        "b": 509.89833441674625
+      },
+      "content": "Unfasten the two M3 x 8 Poszi screws holding the motor to the waveguide and lift out."
+    },
+    {
+      "type": "heading",
+      "id": "txt_1241",
+      "reading_order": 1563,
+      "section": "Removing the microwave stirrer",
+      "bbox": {
+        "l": 36.0,
+        "t": 488.68801953125,
+        "r": 217.08,
+        "b": 477.9044393785783
+      },
+      "content": "Removing the microwave stirrer",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1242",
+      "reading_order": 1564,
+      "section": "Removing the microwave stirrer",
+      "bbox": {
+        "l": 54.0,
+        "t": 457.14601953125003,
+        "r": 367.245,
+        "b": 449.0583344167462
+      },
+      "content": "Unfasten the two M7 Hex screws at the front of the jet/impinger plate."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1243",
+      "reading_order": 1565,
+      "section": "Removing the microwave stirrer",
+      "bbox": {
+        "l": 53.98200000000003,
+        "t": 444.18601953125005,
+        "r": 485.54999999999995,
+        "b": 436.09833441674624
+      },
+      "content": "Drop down the jet/impinger plate slightly at the front and slide forward to release to two rear tabs."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1244",
+      "reading_order": 1566,
+      "section": "Removing the microwave stirrer",
+      "bbox": {
+        "l": 53.97300000000001,
+        "t": 431.46901953125007,
+        "r": 300.63599999999997,
+        "b": 423.38133441674626
+      },
+      "content": "The plate will then drop down and forward to remove."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0270",
+      "reading_order": 1567,
+      "section": "Removing the microwave stirrer",
+      "bbox": {
+        "l": 35.10248063213364,
+        "t": 410.78791781547585,
+        "r": 217.25903725693738,
+        "b": 273.423699326009
+      },
+      "image_path": "figures/figure_0270.png",
+      "previous_block_id": "txt_1244",
+      "image_hash": "000c7060895fb2121ded1b3557943f83e64114f48c933dfb56b1849db10c49f4",
+      "width": 182,
+      "height": 137
+    },
+    {
+      "type": "figure",
+      "id": "fig_0271",
+      "reading_order": 1568,
+      "section": "Removing the microwave stirrer",
+      "bbox": {
+        "l": 35.71649500730393,
+        "t": 261.0226220829702,
+        "r": 217.55203209566972,
+        "b": 124.36969881076129
+      },
+      "image_path": "figures/figure_0271.png",
+      "previous_block_id": "txt_1244",
+      "image_hash": "f79ed3d84d027804190e6343cb9ef8b5eb1766032e67624619535d7b003d2575",
+      "width": 182,
+      "height": 137
+    },
+    {
+      "type": "figure",
+      "id": "fig_0272",
+      "reading_order": 1569,
+      "section": "Removing the microwave stirrer",
+      "bbox": {
+        "l": 225.48138515119825,
+        "t": 410.1367994973067,
+        "r": 407.0540996287957,
+        "b": 274.22731865555363
+      },
+      "image_path": "figures/figure_0272.png",
+      "previous_block_id": "txt_1244",
+      "image_hash": "6da67284de742b58e756a87f4f1c54606d7974ec7d925a173088f01973c2e5e7",
+      "width": 182,
+      "height": 136
+    },
+    {
+      "type": "figure",
+      "id": "fig_0273",
+      "reading_order": 1570,
+      "section": "Removing the microwave stirrer",
+      "bbox": {
+        "l": 229.63604372523005,
+        "t": 246.6930780504805,
+        "r": 403.70145015246356,
+        "b": 135.1198001046481
+      },
+      "image_path": "figures/figure_0273.png",
+      "previous_block_id": "txt_1244",
+      "image_hash": "845222cd05ece70b4d2709aa5c0bf81983b23799439e9fd0011b844fab8e7554",
+      "width": 174,
+      "height": 111
+    },
+    {
+      "type": "figure",
+      "id": "fig_0274",
+      "reading_order": 1571,
+      "section": "Removing the microwave stirrer",
+      "bbox": {
+        "l": 423.08372321022097,
+        "t": 625.2796753091498,
+        "r": 552.4891819308723,
+        "b": 496.49199169863584
+      },
+      "image_path": "figures/figure_0274.png",
+      "previous_block_id": "txt_1244",
+      "caption_id": "txt_1237",
+      "caption": "Pozidriv PZ1 screwdriver Torque wrench",
+      "image_hash": "8ed59948f4f6ab003fe18171f759260417fa73f4e19f9f2d240c4dc82dcf956f",
+      "width": 129,
+      "height": 129
+    },
+    {
+      "type": "figure",
+      "id": "fig_0275",
+      "reading_order": 1572,
+      "section": "Removing the microwave stirrer",
+      "bbox": {
+        "l": 169.35740979032263,
+        "t": 755.4435661715695,
+        "r": 181.5127819812927,
+        "b": 743.2575382297221
+      },
+      "image_path": "figures/figure_0275.png",
+      "previous_block_id": "txt_1244",
+      "width": 12,
+      "height": 12,
+      "decorative": true,
+      "image_hash": "9be29e3af4f4bd9be7b59ba66d1e050c040c1927eed7caff0e4c477a6e071d4b"
+    }
+  ],
+  "page_stats": {
+    "block_count": 24,
+    "text_blocks": 17,
+    "paragraphs": 1,
+    "headings": 5,
+    "list_items": 9,
+    "captions": 2,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 7,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

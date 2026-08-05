@@ -1,0 +1,147 @@
+{
+  "page": 24,
+  "document_id": "doc_e02482e6",
+  "page_bbox": {
+    "width": 595.0,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0047",
+      "reading_order": 237,
+      "section": "Unloading",
+      "bbox": {
+        "l": 26.526836395263672,
+        "t": 816.2034072875977,
+        "r": 73.94950103759766,
+        "b": 793.2389259338379
+      },
+      "image_path": "figures/figure_0047.png",
+      "previous_block_id": "txt_0180",
+      "next_block_id": "txt_0181"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0181",
+      "reading_order": 238,
+      "section": "2.7    Electrical system",
+      "bbox": {
+        "l": 28.21,
+        "t": 773.0401,
+        "r": 201.43240000000006,
+        "b": 755.1841000000001
+      },
+      "content": "2.7    Electrical system",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "id": "txt_0182",
+      "reading_order": 239,
+      "section": "General",
+      "bbox": {
+        "l": 28.21,
+        "t": 732.9350000000001,
+        "r": 70.92960000000001,
+        "b": 720.659
+      },
+      "content": "General",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0183",
+      "reading_order": 240,
+      "section": "General",
+      "bbox": {
+        "l": 62.2297,
+        "t": 712.8611000000001,
+        "r": 364.47819999999956,
+        "b": 700.6841000000001
+      },
+      "content": "Also consult sections Electrical diagrams and Electrical connections."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0184",
+      "reading_order": 241,
+      "section": "Electrical components",
+      "bbox": {
+        "l": 28.210399999999993,
+        "t": 679.0548000000001,
+        "r": 146.72000000000008,
+        "b": 666.7788
+      },
+      "content": "Electrical components",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0185",
+      "reading_order": 242,
+      "section": "Electrical components",
+      "bbox": {
+        "l": 62.23009999999999,
+        "t": 658.9204000000001,
+        "r": 305.2585999999998,
+        "b": 646.7434000000001
+      },
+      "content": "The electrical system comprises following components:"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0048",
+      "reading_order": 243,
+      "section": "Electrical components",
+      "bbox": {
+        "l": 80.38697052001953,
+        "t": 620.814208984375,
+        "r": 444.5993957519531,
+        "b": 348.729248046875
+      },
+      "image_path": "figures/figure_0048.png",
+      "previous_block_id": "txt_0185",
+      "next_block_id": "txt_0186"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0186",
+      "reading_order": 244,
+      "section": "Electrical components",
+      "bbox": {
+        "l": 244.21,
+        "t": 328.99,
+        "r": 309.4449999999997,
+        "b": 317.91999999999996
+      },
+      "content": "Electric  cubicle"
+    },
+    {
+      "type": "table",
+      "id": "tbl_0012",
+      "reading_order": 245,
+      "section": "Electrical components",
+      "bbox": {
+        "l": 66.58558654785156,
+        "t": 278.908935546875,
+        "r": 535.24365234375,
+        "b": 119.7193603515625
+      },
+      "markdown": "| Reference   | Designation                                                            |\n|-------------|------------------------------------------------------------------------|\n| F1/2/3      | Fuses (F3 is only provided in case a phase sequence relay is provided) |\n| F15         | Overload relay fan motor                                               |\n| F16/17/18   | Fuses                                                                  |\n| F21         | Overload relay, compressor motor                                       |\n| K21         | Line contactor                                                         |\n| K22         | Star contactor                                                         |\n| K23         | Delta contactor                                                        |\n| K25         | Phase sequence relay                                                   |"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0187",
+      "reading_order": 246,
+      "section": "Electrical components",
+      "bbox": {
+        "l": 110.42871569999997,
+        "t": 355.53886830000005,
+        "r": 169.8125452,
+        "b": 346.3462983075472
+      },
+      "content": "X108 X108A"
+    }
+  ]
+}

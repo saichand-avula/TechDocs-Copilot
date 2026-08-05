@@ -1,0 +1,66 @@
+{
+  "page": 15,
+  "document_id": "doc_1032c87b",
+  "page_bbox": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0015",
+      "reading_order": 152,
+      "section": "(1) The model of 80 ~120 kVA UPS",
+      "bbox": {
+        "l": 198.7920542722787,
+        "t": 728.7224359825533,
+        "r": 417.1872057752136,
+        "b": 522.4817758078095
+      },
+      "image_path": "figures/figure_0015.png",
+      "previous_block_id": "txt_0132",
+      "next_block_id": "txt_0133"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0133",
+      "reading_order": 153,
+      "section": "(1) The model of 80 ~120 kVA UPS",
+      "bbox": {
+        "l": 77.904,
+        "t": 497.9576629101563,
+        "r": 472.71567999999996,
+        "b": 472.886101363195
+      },
+      "content": "Figure 2-10: Output filter capacitor and switch of 80 ~ 120 kVA UPS (2) The model of 160 kVA UPS"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0016",
+      "reading_order": 154,
+      "section": "(1) The model of 80 ~120 kVA UPS",
+      "bbox": {
+        "l": 179.0209590214031,
+        "t": 467.4890470607604,
+        "r": 434.6330459854182,
+        "b": 130.24457940601712
+      },
+      "image_path": "figures/figure_0016.png",
+      "previous_block_id": "txt_0133",
+      "next_block_id": "txt_0134"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0134",
+      "reading_order": 155,
+      "section": "(1) The model of 80 ~120 kVA UPS",
+      "bbox": {
+        "l": 211.25,
+        "t": 109.46766291015626,
+        "r": 402.75568,
+        "b": 99.99610136319495
+      },
+      "content": "Figure 2- 11: The model of 160 kVA UPS"
+    }
+  ]
+}

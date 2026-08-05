@@ -1,0 +1,120 @@
+{
+  "page": 70,
+  "document_id": "doc_e02482e6",
+  "page_bbox": {
+    "width": 595.0,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0202",
+      "reading_order": 743,
+      "section": "4.1    Introduction",
+      "bbox": {
+        "l": 26.519947052001953,
+        "t": 816.0025959014893,
+        "r": 73.95223236083984,
+        "b": 793.060920715332
+      },
+      "image_path": "figures/figure_0202.png",
+      "previous_block_id": "txt_0487",
+      "next_block_id": "txt_0488"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0488",
+      "reading_order": 744,
+      "section": "4.2    Operation",
+      "bbox": {
+        "l": 29.2899,
+        "t": 772.6800000000001,
+        "r": 142.52190000000004,
+        "b": 754.8240000000001
+      },
+      "content": "4.2    Operation",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "id": "txt_0489",
+      "reading_order": 745,
+      "section": "General",
+      "bbox": {
+        "l": 29.2899,
+        "t": 739.7750000000001,
+        "r": 72.0095,
+        "b": 727.499
+      },
+      "content": "General",
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "id": "fig_0203",
+      "reading_order": 746,
+      "section": "General",
+      "bbox": {
+        "l": 151.12713623046875,
+        "t": 722.2800903320312,
+        "r": 454.1088562011719,
+        "b": 508.51116943359375
+      },
+      "image_path": "figures/figure_0203.png",
+      "previous_block_id": "txt_0489",
+      "next_block_id": "txt_0490"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0490",
+      "reading_order": 747,
+      "section": "General",
+      "bbox": {
+        "l": 233.59,
+        "t": 498.73,
+        "r": 334.1039999999995,
+        "b": 487.65999999999997
+      },
+      "content": "Condensate flow scheme"
+    },
+    {
+      "type": "table",
+      "id": "tbl_0056",
+      "reading_order": 748,
+      "section": "General",
+      "bbox": {
+        "l": 60.64715576171875,
+        "t": 476.6092834472656,
+        "r": 537.2839965820312,
+        "b": 327.904541015625
+      },
+      "markdown": "|   1 | Condensate inlet          |\n|-----|---------------------------|\n|   2 | Foam cover                |\n|   3 | Oleophilic filter         |\n|   4 | Service drains with valve |\n|   5 | Air injection connection  |\n|   6 | OGC filter                |\n|   7 | Activated carbon filter   |\n|   8 | Condensate test outlet    |\n|   9 | Condensate outlet         |"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0491",
+      "reading_order": 749,
+      "section": "General",
+      "bbox": {
+        "l": 62.23,
+        "t": 312.18100000000004,
+        "r": 537.7808999999996,
+        "b": 181.20400000000006
+      },
+      "content": "The OSCi 3790 housing consists of 3 interconnected vessels. The oil-containing condensate is injected (1) in discontinuous bursts at a downward angle into the first vessel which acts as expansion chamber. The specially designed cover has a combination of pressure-relieving holes and a foam (2). Since the pressure is relieved here, the entire OSCi device is pressure less. In the first vessel, a floating filter (3) made of special synthetic fibres takes up most of the directly separable hydrocarbons from the condensate. The filter sinks as it saturates with hydrocarbons and hence the lifetime progress of the filter can be measured by an indicator that rests on the bag. A conventional sight glass is installed for visual inspection of the filter position and the condensate level. On top of that, an electronic position sensor (8 - View of OSCi, 1 - View of OSCi inlet) is connected to the Elektronikon® regulator of the compressor to keep track of the filter lifetime without the need to open the compressor canopy."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0492",
+      "reading_order": 750,
+      "section": "General",
+      "bbox": {
+        "l": 62.23,
+        "t": 174.18050000000005,
+        "r": 535.5313999999987,
+        "b": 56.40350000000012
+      },
+      "content": "The outlet of the first vessel is situated at the bottom and is connected to the upper half of the second vessel.In the second vessel, the pre-filtered condensate is brought in contact with a filter bag (6), filled with Oleophilic Granular Clay (OGC). Through a connection (5) at the bottom of the second vessel, air is injected into the condensate. This airflow breaks stable emulsions by enhancing the absorption process of oil onto the OGC. The air supply also prevents the formation of certain an aerobic bacteria. Also the cover of the second vessel is equipped with ventilation holes to prevent pressure build up. The airflow is taken from the aftercooler (on aircooled units) or from the water separator (WSD) (on water cooled units). An integrated nozzle with strainer limits the airflow (approximately 450 l/h at reference conditions), while a solenoid valve makes sure nocompressed air is used when the compressor is not delivering air."
+    }
+  ]
+}

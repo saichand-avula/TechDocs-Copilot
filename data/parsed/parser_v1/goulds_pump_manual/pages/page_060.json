@@ -1,0 +1,410 @@
+{
+  "page": 60,
+  "document_id": "doc_b0587846",
+  "page_bbox": {
+    "width": 612.0,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0872",
+      "reading_order": 1006,
+      "section": "i-ALERT ™  Condition Monitor routine operation",
+      "bbox": {
+        "l": 54.0,
+        "t": 726.27062,
+        "r": 408.6613300000001,
+        "b": 708.41462
+      },
+      "content": "i-ALERT ™  Condition Monitor routine operation",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0873",
+      "reading_order": 1007,
+      "section": "Measurement interval",
+      "bbox": {
+        "l": 54.001329999999996,
+        "t": 701.64183,
+        "r": 146.57133,
+        "b": 690.40183
+      },
+      "content": "Measurement interval",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0874",
+      "reading_order": 1008,
+      "section": "Measurement interval",
+      "bbox": {
+        "l": 144.00133,
+        "t": 689.64183,
+        "r": 553.6013300000005,
+        "b": 666.40183
+      },
+      "content": "This table shows the measurement intervals for the condition monitor during normal operation and when the monitor is in alarm mode."
+    },
+    {
+      "type": "table",
+      "id": "tbl_0048",
+      "reading_order": 1009,
+      "section": "Measurement interval",
+      "bbox": {
+        "l": 142.66099548339844,
+        "t": 666.5542449951172,
+        "r": 558.7608642578125,
+        "b": 619.5875549316406
+      },
+      "markdown": "| Mode                  | Measurement interval   |\n|-----------------------|------------------------|\n| Normal operating mode | Five minutes           |\n| Alarm mode            | Two minutes            |",
+      "rows": 3,
+      "cols": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0875",
+      "reading_order": 1010,
+      "section": "Measurement interval",
+      "bbox": {
+        "l": 144.0,
+        "t": 610.10183,
+        "r": 557.0700000000005,
+        "b": 574.8618299999999
+      },
+      "content": "When the condition monitor measures a reading beyond the specified temperature and vibration limits, the appropriate red LED flashes. After the process or pump condition that causes the alarm is corrected, the condition monitor returns to normal mode after one normal-level measurement."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0876",
+      "reading_order": 1011,
+      "section": "Alarm mode",
+      "bbox": {
+        "l": 54.00004,
+        "t": 568.10183,
+        "r": 106.61004,
+        "b": 556.8618299999999
+      },
+      "content": "Alarm mode",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0877",
+      "reading_order": 1012,
+      "section": "Alarm mode",
+      "bbox": {
+        "l": 144.00002999999998,
+        "t": 553.58183,
+        "r": 557.2100300000004,
+        "b": 530.34183
+      },
+      "content": "When the condition monitor is in alarm mode, you should investigate the cause of the condition and make necessary corrections in a timely manner."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0878",
+      "reading_order": 1013,
+      "section": "Magnetic device considerations",
+      "bbox": {
+        "l": 54.000029999999995,
+        "t": 523.58183,
+        "r": 188.06002999999998,
+        "b": 512.34183
+      },
+      "content": "Magnetic device considerations",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0879",
+      "reading_order": 1014,
+      "section": "Magnetic device considerations",
+      "bbox": {
+        "l": 143.99996,
+        "t": 509.06182999999993,
+        "r": 548.0700400000004,
+        "b": 473.82183
+      },
+      "content": "Be careful when you use magnetic devices in close proximity of  the condition monitor, such as magnetic vibration-monitoring probes or dial indicators. These magnetic devices can accidentally activate or deactivate the condition monitor resulting in improper alarm levels or loss of  monitoring."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0880",
+      "reading_order": 1015,
+      "section": "Pump operation precautions",
+      "bbox": {
+        "l": 53.993930000000006,
+        "t": 455.69061999999997,
+        "r": 270.9219300000001,
+        "b": 437.83462
+      },
+      "content": "Pump operation precautions",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0881",
+      "reading_order": 1016,
+      "section": "General considerations",
+      "bbox": {
+        "l": 54.00193000000001,
+        "t": 431.06183,
+        "r": 151.20193,
+        "b": 419.82183
+      },
+      "content": "General considerations",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0089",
+      "reading_order": 1017,
+      "section": "General considerations",
+      "bbox": {
+        "l": 70.43585205078125,
+        "t": 409.5407409667969,
+        "r": 121.15510559082031,
+        "b": 365.7685852050781
+      },
+      "image_path": "figures/figure_0089.png",
+      "previous_block_id": "txt_0881",
+      "next_block_id": "txt_0882",
+      "image_hash": "b6b9a9b9fc4855bc67aed8ab446f26a5e7bef1816ad84bee65feb1e71277594e",
+      "width": 51,
+      "height": 44
+    },
+    {
+      "type": "heading",
+      "id": "txt_0882",
+      "reading_order": 1018,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 144.0,
+        "t": 406.06182,
+        "r": 194.52999999999997,
+        "b": 394.82182
+      },
+      "content": "CAUTION:",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0883",
+      "reading_order": 1019,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 153.00002,
+        "t": 392.26183000000003,
+        "r": 535.2500200000004,
+        "b": 357.02183
+      },
+      "content": "Vary the capacity with the regulating valve in the discharge line. Never throttle the flow from the suction side since this can result in decreased performance, unexpected heat generation, and equipment damage."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0884",
+      "reading_order": 1020,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 152.99987000000002,
+        "t": 354.46184000000005,
+        "r": 550.2498700000004,
+        "b": 331.22184000000004
+      },
+      "content": "Do not overload the driver. Driver overload can result in unexpected heat generation and equipment damage. The driver can overload in these circumstances:"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0885",
+      "reading_order": 1021,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 161.99983000000003,
+        "t": 328.6618500000001,
+        "r": 424.70983000000007,
+        "b": 317.42185000000006
+      },
+      "content": "The specific gravity of  the pumped fluid is greater than expected."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0886",
+      "reading_order": 1022,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 161.99985000000004,
+        "t": 314.8618600000001,
+        "r": 349.10985,
+        "b": 303.6218600000001
+      },
+      "content": "The pumped fluid exceeds the rated flow rate."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0887",
+      "reading_order": 1023,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 152.99987000000002,
+        "t": 301.0618700000001,
+        "r": 542.8898700000003,
+        "b": 277.8218700000001
+      },
+      "content": "Make sure to operate the pump at or near the rated conditions. Failure to do so can result in pump damage from cavitation or recirculation."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0888",
+      "reading_order": 1024,
+      "section": "Operation at reduced capacity",
+      "bbox": {
+        "l": 53.99986,
+        "t": 264.06188,
+        "r": 181.72985999999997,
+        "b": 252.82187999999996
+      },
+      "content": "Operation at reduced capacity",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0090",
+      "reading_order": 1025,
+      "section": "Operation at reduced capacity",
+      "bbox": {
+        "l": 70.557861328125,
+        "t": 242.333251953125,
+        "r": 121.16407012939453,
+        "b": 198.7548828125
+      },
+      "image_path": "figures/figure_0090.png",
+      "previous_block_id": "txt_0888",
+      "next_block_id": "txt_0889",
+      "image_hash": "c200b63ae6cf4fed6565f3671c3bdf16b2c04e0916cc98e80095d74e78a55009",
+      "width": 50,
+      "height": 43
+    },
+    {
+      "type": "figure",
+      "id": "fig_0091",
+      "reading_order": 1026,
+      "section": "Operation at reduced capacity",
+      "bbox": {
+        "l": 70.34822845458984,
+        "t": 171.99346923828125,
+        "r": 121.15521240234375,
+        "b": 128.221435546875
+      },
+      "image_path": "figures/figure_0091.png",
+      "previous_block_id": "txt_0888",
+      "next_block_id": "txt_0889",
+      "image_hash": "4ceafe957d9cdffc50fadce8c641e0ffe52df87b545773d59c3bfe9c0d19765f",
+      "width": 51,
+      "height": 44
+    },
+    {
+      "type": "admonition",
+      "id": "txt_0889",
+      "reading_order": 1027,
+      "severity": "warning",
+      "content": "WARNING: Never operate any pumping system with a blocked suction and discharge. Operation, even for a brief period under these conditions, can cause confined pumped fluid to overheat, which results in a violent explosion. You must take all necessary measures to avoid this condition.",
+      "section": "WARNING:",
+      "bbox": {
+        "l": 144.0,
+        "t": 239.06187999999997,
+        "r": 197.11,
+        "b": 227.82187999999996
+      }
+    },
+    {
+      "type": "heading",
+      "id": "txt_0891",
+      "reading_order": 1029,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 143.99998,
+        "t": 168.54186000000004,
+        "r": 194.52997999999997,
+        "b": 157.30186000000003
+      },
+      "content": "CAUTION:",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0892",
+      "reading_order": 1030,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 153.0,
+        "t": 154.74187000000006,
+        "r": 545.6600000000003,
+        "b": 131.50187000000005
+      },
+      "content": "Avoid excessive vibration levels. Excessive vibration levels can damage the bearings, stuffing box or seal chamber, and the mechanical seal, which can result in decreased performance."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0893",
+      "reading_order": 1031,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 153.00002,
+        "t": 128.94188000000008,
+        "r": 496.64002000000016,
+        "b": 117.70188000000007
+      },
+      "content": "Avoid increased radial load. Failure to do so can cause stress on the shaft and bearings."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0894",
+      "reading_order": 1032,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 153.0,
+        "t": 115.1418900000001,
+        "r": 465.2600000000001,
+        "b": 103.9018900000001
+      },
+      "content": "Avoid heat build-up. Failure to do so can cause rotating parts to score or seize."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0895",
+      "reading_order": 1033,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 153.0,
+        "t": 101.34190000000012,
+        "r": 506.6800000000001,
+        "b": 90.10190000000011
+      },
+      "content": "Avoid cavitation. Failure to do so can cause damage to the internal surfaces of  the pump."
+    }
+  ],
+  "page_stats": {
+    "block_count": 27,
+    "text_blocks": 23,
+    "paragraphs": 4,
+    "headings": 9,
+    "list_items": 9,
+    "captions": 0,
+    "admonitions": 1,
+    "references": 0,
+    "figures": 3,
+    "tables": 1,
+    "toc_tables": 0
+  }
+}

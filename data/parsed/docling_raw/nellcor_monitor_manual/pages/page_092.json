@@ -1,0 +1,174 @@
+{
+  "page": 92,
+  "document_id": "doc_f7e949ab",
+  "page_bbox": {
+    "width": 612.0,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_0868",
+      "reading_order": 1023,
+      "section": "Unit Description",
+      "bbox": {
+        "l": 135.0,
+        "t": 705.8025,
+        "r": 405.1687499999998,
+        "b": 692.24625
+      },
+      "content": "l NIBP unit : measures non-invasive blood pressure data."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0869",
+      "reading_order": 1024,
+      "section": "Unit Description",
+      "bbox": {
+        "l": 135.0,
+        "t": 611.3025,
+        "r": 417.08349999999945,
+        "b": 597.74625
+      },
+      "content": "l ECG unit : measures electrocardiographic waveform data."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0870",
+      "reading_order": 1025,
+      "section": "Unit Description",
+      "bbox": {
+        "l": 135.0,
+        "t": 408.8025,
+        "r": 378.8086499999995,
+        "b": 395.24625
+      },
+      "content": "l Respiration unit : measures respiration rate data."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0871",
+      "reading_order": 1026,
+      "section": "Unit Description",
+      "bbox": {
+        "l": 135.0,
+        "t": 224.3025,
+        "r": 358.6006500000006,
+        "b": 210.74625000000003
+      },
+      "content": "l SpO2 unit : measures oxygen saturation data."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0115",
+      "reading_order": 1027,
+      "section": "Unit Description",
+      "bbox": {
+        "l": 164.01211547851562,
+        "t": 692.5324630737305,
+        "r": 509.8292236328125,
+        "b": 641.2071838378906
+      },
+      "image_path": "figures/figure_0115.png",
+      "previous_block_id": "txt_0871",
+      "next_block_id": "txt_0872"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0872",
+      "reading_order": 1028,
+      "section": "Unit Description",
+      "bbox": {
+        "l": 235.5,
+        "t": 638.3025,
+        "r": 416.9375,
+        "b": 624.9375
+      },
+      "content": "Figure 19. NIBP Unit Block Diagram"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0116",
+      "reading_order": 1029,
+      "section": "Unit Description",
+      "bbox": {
+        "l": 157.83261108398438,
+        "t": 590.3557434082031,
+        "r": 505.212646484375,
+        "b": 443.3812255859375
+      },
+      "image_path": "figures/figure_0116.png",
+      "previous_block_id": "txt_0872",
+      "next_block_id": "txt_0873"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0873",
+      "reading_order": 1030,
+      "section": "Unit Description",
+      "bbox": {
+        "l": 236.25,
+        "t": 435.8025,
+        "r": 414.17744999999996,
+        "b": 422.4375
+      },
+      "content": "Figure 20. ECG Unit Block Diagram"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0117",
+      "reading_order": 1031,
+      "section": "Unit Description",
+      "bbox": {
+        "l": 140.2749786376953,
+        "t": 388.57977294921875,
+        "r": 524.02392578125,
+        "b": 261.052490234375
+      },
+      "image_path": "figures/figure_0117.png",
+      "previous_block_id": "txt_0873",
+      "next_block_id": "txt_0874"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0874",
+      "reading_order": 1032,
+      "section": "Unit Description",
+      "bbox": {
+        "l": 217.5,
+        "t": 251.3025,
+        "r": 428.20875000000046,
+        "b": 237.9375
+      },
+      "content": "Figure 21. Respiration Unit Block Diagram"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0118",
+      "reading_order": 1033,
+      "section": "Unit Description",
+      "bbox": {
+        "l": 197.52392578125,
+        "t": 209.8287353515625,
+        "r": 482.31048583984375,
+        "b": 105.66107177734375
+      },
+      "image_path": "figures/figure_0118.png",
+      "previous_block_id": "txt_0874",
+      "next_block_id": "txt_0875"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0875",
+      "reading_order": 1034,
+      "section": "Unit Description",
+      "bbox": {
+        "l": 227.25,
+        "t": 102.80250000000001,
+        "r": 407.9727500000003,
+        "b": 89.4375
+      },
+      "content": "Figure 22. SpO2 Unit Block Diagram"
+    }
+  ]
+}

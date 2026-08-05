@@ -1,0 +1,132 @@
+{
+  "page": 647,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_4828",
+      "reading_order": 6707,
+      "section": "20. Remove the LVPS.",
+      "bbox": {
+        "l": 122.0,
+        "t": 732.29,
+        "r": 534.3000000000002,
+        "b": 720.7
+      },
+      "content": "Disconnect one connector (callout 1), and then release the wire harness from the guide (callout 2)."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_4829",
+      "reading_order": 6708,
+      "section": "20. Remove the LVPS.",
+      "bbox": {
+        "l": 122.0,
+        "t": 470.42,
+        "r": 295.8599999999999,
+        "b": 458.83
+      },
+      "content": "Disconnect two connectors (callout 1)."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_4830",
+      "reading_order": 6709,
+      "section": "20. Remove the LVPS.",
+      "bbox": {
+        "l": 144.0,
+        "t": 446.92,
+        "r": 416.74999999999994,
+        "b": 435.33
+      },
+      "content": "TIP: Squeeze the locking lever on the lower connector to release it."
+    },
+    {
+      "type": "figure",
+      "id": "fig_1836",
+      "reading_order": 6710,
+      "section": "20. Remove the LVPS.",
+      "bbox": {
+        "l": 143.12531083206795,
+        "t": 698.7215423583984,
+        "r": 432.4512974925872,
+        "b": 481.95172119140625
+      },
+      "image_path": "figures/figure_1836.png",
+      "caption": "Disconnect one connector",
+      "figure_number": "Figure 1-1082",
+      "image_hash": "393a4ac3fe34ef72b905848ef419e1ac1e7f4cb325f242168062b29aaad76d9a",
+      "width": 289,
+      "height": 217,
+      "previous_block_id": "txt_4830",
+      "next_block_id": "txt_4831",
+      "caption_id": "txt_4831"
+    },
+    {
+      "type": "caption",
+      "id": "txt_4831",
+      "reading_order": 6711,
+      "section": "20. Remove the LVPS.",
+      "bbox": {
+        "l": 144.0,
+        "t": 711.29,
+        "r": 309.35000999999994,
+        "b": 699.7
+      },
+      "content": "Figure 1-1082  Disconnect one connector",
+      "caption_for": "fig_1836"
+    },
+    {
+      "type": "figure",
+      "id": "fig_1837",
+      "reading_order": 6712,
+      "section": "20. Remove the LVPS.",
+      "bbox": {
+        "l": 143.0400543362497,
+        "t": 412.0083923339844,
+        "r": 432.6370010870564,
+        "b": 194.580322265625
+      },
+      "image_path": "figures/figure_1837.png",
+      "caption": "Disconnect two connectors",
+      "figure_number": "Figure 1-1083",
+      "image_hash": "201d44505e9b81d386b9cef478f1219d98fbf627b2f1d4891733e487aa52c913",
+      "width": 290,
+      "height": 217,
+      "previous_block_id": "txt_4831",
+      "next_block_id": "txt_4832",
+      "caption_id": "txt_4832"
+    },
+    {
+      "type": "caption",
+      "id": "txt_4832",
+      "reading_order": 6713,
+      "section": "20. Remove the LVPS.",
+      "bbox": {
+        "l": 144.0,
+        "t": 424.42,
+        "r": 313.80001,
+        "b": 412.83
+      },
+      "content": "Figure 1-1083  Disconnect two connectors",
+      "caption_for": "fig_1837"
+    }
+  ],
+  "page_stats": {
+    "block_count": 7,
+    "text_blocks": 5,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 3,
+    "captions": 2,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 2,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

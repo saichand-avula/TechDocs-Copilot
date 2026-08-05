@@ -1,0 +1,324 @@
+{
+  "page": 245,
+  "document_id": "doc_caa693b1",
+  "page_bbox": {
+    "width": 595.0,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_1652",
+      "reading_order": 2161,
+      "section": "1-25. Alarm AL-39",
+      "bbox": {
+        "l": 70.92,
+        "t": 738.674768,
+        "r": 168.59796599999996,
+        "b": 729.8030489281768
+      },
+      "content": "1-25. Alarm AL-39",
+      "level": 2
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1653",
+      "reading_order": 2162,
+      "section": "1-25. Alarm AL-39",
+      "bbox": {
+        "l": 99.299646,
+        "t": 704.654864,
+        "r": 114.317622,
+        "b": 695.7831449281769
+      },
+      "content": "(1)"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1654",
+      "reading_order": 2163,
+      "section": "1-25. Alarm AL-39",
+      "bbox": {
+        "l": 142.9137,
+        "t": 704.654864,
+        "r": 184.05982800000004,
+        "b": 695.7831449281769
+      },
+      "content": "Meaning"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1655",
+      "reading_order": 2164,
+      "section": "1-25. Alarm AL-39",
+      "bbox": {
+        "l": 141.839556,
+        "t": 687.674972,
+        "r": 489.1026959999987,
+        "b": 678.8032529281769
+      },
+      "content": "The Cs contouring control one-rotation signal has not been detected correctly."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1656",
+      "reading_order": 2165,
+      "section": "1-25. Alarm AL-39",
+      "bbox": {
+        "l": 99.29964599999998,
+        "t": 653.655068,
+        "r": 269.683734,
+        "b": 644.7833489281769
+      },
+      "content": "Cause and corrective action"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1657",
+      "reading_order": 2166,
+      "section": "1-25. Alarm AL-39",
+      "bbox": {
+        "l": 106.37977799999999,
+        "t": 619.6952840000001,
+        "r": 118.08313799999999,
+        "b": 610.823564928177
+      },
+      "content": "a)"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1658",
+      "reading_order": 2167,
+      "section": "1-25. Alarm AL-39",
+      "bbox": {
+        "l": 106.379628,
+        "t": 534.674756,
+        "r": 118.07898,
+        "b": 525.8030369281769
+      },
+      "content": "b)"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1659",
+      "reading_order": 2168,
+      "section": "1-25. Alarm AL-39",
+      "bbox": {
+        "l": 141.839556,
+        "t": 619.6952840000001,
+        "r": 379.2053399999999,
+        "b": 576.803660928177
+      },
+      "content": "Feedback signal cable not shielded properly Check whether there is noise on the feedback signal. Also check whether the cable is shielded properly."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1660",
+      "reading_order": 2169,
+      "section": "1-25. Alarm AL-39",
+      "bbox": {
+        "l": 141.84,
+        "t": 573.5603,
+        "r": 260.56438199999997,
+        "b": 558.8723
+      },
+      "content": "⇒ Shield it correctly."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1661",
+      "reading_order": 2170,
+      "section": "1-25. Alarm AL-39",
+      "bbox": {
+        "l": 141.839406,
+        "t": 534.674756,
+        "r": 379.67312400000077,
+        "b": 508.8231449281768
+      },
+      "content": "Feedback signal level insufficient Check the feedback signal level with an oscilloscope."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1662",
+      "reading_order": 2171,
+      "section": "1-25. Alarm AL-39",
+      "bbox": {
+        "l": 141.84,
+        "t": 505.5203,
+        "r": 469.7134259999992,
+        "b": 490.83230000000003
+      },
+      "content": "⇒ Adjust so that the feedback signal level becomes the rated value."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1663",
+      "reading_order": 2172,
+      "section": "1-25. Alarm AL-39",
+      "bbox": {
+        "l": 106.37920799999998,
+        "t": 466.694876,
+        "r": 265.15713000000005,
+        "b": 457.8231569281768
+      },
+      "content": "(c) Incorrect parameter setting"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1664",
+      "reading_order": 2173,
+      "section": "1-25. Alarm AL-39",
+      "bbox": {
+        "l": 141.83898599999998,
+        "t": 449.65486400000003,
+        "r": 418.69859999999983,
+        "b": 440.7831449281768
+      },
+      "content": "Check the parameter correctly according to the detector used."
+    },
+    {
+      "type": "table",
+      "id": "tbl_0135",
+      "reading_order": 2174,
+      "section": "1-25. Alarm AL-39",
+      "bbox": {
+        "l": 64.64682006835938,
+        "t": 440.1277160644531,
+        "r": 530.7515869140625,
+        "b": 386.89324951171875
+      },
+      "markdown": "| FS 0I/16/18/21   | Description                                                         |\n|------------------|---------------------------------------------------------------------|\n| 4003#7,6,4       | Parameter set to specify use of the Cs contouring control detector. |"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1665",
+      "reading_order": 2175,
+      "section": "1-25. Alarm AL-39",
+      "bbox": {
+        "l": 141.84,
+        "t": 368.0603,
+        "r": 442.34221199999894,
+        "b": 353.3723
+      },
+      "content": "⇒ Set the parameter correctly according to the detector used."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1666",
+      "reading_order": 2176,
+      "section": "1-25. Alarm AL-39",
+      "bbox": {
+        "l": 106.379628,
+        "t": 329.174756,
+        "r": 259.674606,
+        "b": 320.30303692817677
+      },
+      "content": "Detection circuit defective"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1667",
+      "reading_order": 2177,
+      "section": "1-25. Alarm AL-39",
+      "bbox": {
+        "l": 141.84,
+        "t": 317.0603,
+        "r": 329.05008000000043,
+        "b": 302.3723
+      },
+      "content": "⇒ Replace the printed-circuit board."
+    },
+    {
+      "type": "heading",
+      "id": "txt_1668",
+      "reading_order": 2178,
+      "section": "1-26. Alarm AL-40",
+      "bbox": {
+        "l": 70.91985,
+        "t": 278.174756,
+        "r": 158.2050720000001,
+        "b": 269.30303692817677
+      },
+      "content": "1-26. Alarm AL-40",
+      "level": 2
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1669",
+      "reading_order": 2179,
+      "section": "1-26. Alarm AL-40",
+      "bbox": {
+        "l": 99.29949599999999,
+        "t": 244.154852,
+        "r": 114.31747199999998,
+        "b": 235.28313292817677
+      },
+      "content": "(1)"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1670",
+      "reading_order": 2180,
+      "section": "1-26. Alarm AL-40",
+      "bbox": {
+        "l": 142.91355,
+        "t": 244.154852,
+        "r": 184.05967800000002,
+        "b": 235.28313292817677
+      },
+      "content": "Meaning"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1671",
+      "reading_order": 2181,
+      "section": "1-26. Alarm AL-40",
+      "bbox": {
+        "l": 141.839406,
+        "t": 227.17495999999994,
+        "r": 420.8212559999991,
+        "b": 218.30324092817682
+      },
+      "content": "The Cs contouring control one rotation signal is not generated."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1672",
+      "reading_order": 2182,
+      "section": "1-26. Alarm AL-40",
+      "bbox": {
+        "l": 99.29949599999999,
+        "t": 193.15505599999995,
+        "r": 269.68358400000005,
+        "b": 184.28333692817682
+      },
+      "content": "Cause and corrective action"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1673",
+      "reading_order": 2183,
+      "section": "1-26. Alarm AL-40",
+      "bbox": {
+        "l": 106.379628,
+        "t": 176.175164,
+        "r": 444.1167539999999,
+        "b": 167.30344492817676
+      },
+      "content": "Feedback signal cable defective Check the connection of the cable."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1674",
+      "reading_order": 2184,
+      "section": "1-26. Alarm AL-40",
+      "bbox": {
+        "l": 141.84,
+        "t": 164.06029999999998,
+        "r": 305.5848240000002,
+        "b": 149.3723
+      },
+      "content": "⇒ Connect the cable correctly."
+    }
+  ]
+}

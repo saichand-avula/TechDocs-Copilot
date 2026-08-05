@@ -1,0 +1,72 @@
+{
+  "page": 152,
+  "document_id": "doc_229deb31",
+  "page_bbox": {
+    "width": 595.219970703125,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_1280",
+      "reading_order": 1680,
+      "section": "FOR18K",
+      "bbox": {
+        "l": 42.303,
+        "t": 761.565914,
+        "r": 96.60430950000001,
+        "b": 748.6329350000001
+      },
+      "content": "FOR18K",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0313",
+      "reading_order": 1681,
+      "section": "FOR18K",
+      "bbox": {
+        "l": 17.75729675193184,
+        "t": 737.9129638671875,
+        "r": 556.7177656756979,
+        "b": 392.6873474121094
+      },
+      "image_path": "figures/figure_0313.png",
+      "previous_block_id": "txt_1280",
+      "image_hash": "3088823fe462b689c3196b5e3be3b452f19bab8be31a5be481d2927d84b7f19b",
+      "width": 539,
+      "height": 345
+    },
+    {
+      "type": "figure",
+      "id": "fig_0314",
+      "reading_order": 1682,
+      "section": "FOR18K",
+      "bbox": {
+        "l": 46.342478135574076,
+        "t": 39.18603515625,
+        "r": 80.68896874934434,
+        "b": 28.29595947265625
+      },
+      "image_path": "figures/figure_0314.png",
+      "previous_block_id": "txt_1280",
+      "width": 34,
+      "height": 10,
+      "image_hash": "ab0b40421b85faa1d04a587516b5e7f8b2272f0db543d415bee6a58d3687b736"
+    }
+  ],
+  "page_stats": {
+    "block_count": 3,
+    "text_blocks": 1,
+    "paragraphs": 0,
+    "headings": 1,
+    "list_items": 0,
+    "captions": 0,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 2,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

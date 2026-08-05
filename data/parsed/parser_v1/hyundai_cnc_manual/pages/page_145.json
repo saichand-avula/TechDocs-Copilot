@@ -1,0 +1,91 @@
+{
+  "page": 145,
+  "document_id": "doc_caa693b1",
+  "page_bbox": {
+    "width": 595.0,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0255",
+      "reading_order": 1312,
+      "section": "CAUTION",
+      "bbox": {
+        "l": 101.86886596679688,
+        "t": 729.0029830932617,
+        "r": 523.9642333984375,
+        "b": 493.444580078125
+      },
+      "image_path": "figures/figure_0255.png",
+      "next_block_id": "txt_1017",
+      "caption_id": "txt_1017",
+      "caption": "Oiling After Changing Pump",
+      "figure_number": "Fig. 5-50",
+      "image_hash": "5efcfe2c1118f8c8d54a471549af06b55c952cf46088440be7feac20df0d886c",
+      "width": 422,
+      "height": 236
+    },
+    {
+      "type": "caption",
+      "id": "txt_1017",
+      "reading_order": 1313,
+      "section": "CAUTION",
+      "bbox": {
+        "l": 221.639838,
+        "t": 469.87566800000013,
+        "r": 390.6652140000007,
+        "b": 461.0039489281769
+      },
+      "content": "Fig. 5-50 Oiling After Changing Pump",
+      "caption_for": "fig_0255"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0256",
+      "reading_order": 1314,
+      "section": "CAUTION",
+      "bbox": {
+        "l": 102.992919921875,
+        "t": 434.1750793457031,
+        "r": 525.9799194335938,
+        "b": 170.57049560546875
+      },
+      "image_path": "figures/figure_0256.png",
+      "previous_block_id": "txt_1017",
+      "next_block_id": "txt_1018",
+      "caption_id": "txt_1018",
+      "caption": "Fig.5-51 Hydraulic Tank",
+      "image_hash": "78dfbc4ae1a92e45045b3f18fc89bdbe14fe412e71691fcc7bef279a990da503",
+      "width": 423,
+      "height": 263
+    },
+    {
+      "type": "caption",
+      "id": "txt_1018",
+      "reading_order": 1315,
+      "section": "CAUTION",
+      "bbox": {
+        "l": 243.059592,
+        "t": 146.89700000000005,
+        "r": 369.2184059999995,
+        "b": 138.02528092817693
+      },
+      "content": "Fig.5-51 Hydraulic Tank",
+      "caption_for": "fig_0256"
+    }
+  ],
+  "page_stats": {
+    "block_count": 4,
+    "text_blocks": 2,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 0,
+    "captions": 2,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 2,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

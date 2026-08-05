@@ -1,0 +1,140 @@
+{
+  "page": 17,
+  "document_id": "doc_1032c87b",
+  "page_bbox": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0019",
+      "reading_order": 160,
+      "section": "(1) The model of 80 ~120 kVA UPS",
+      "bbox": {
+        "l": 116.40384197392336,
+        "t": 728.8932647785169,
+        "r": 219.17082175132546,
+        "b": 506.3355747665126
+      },
+      "image_path": "figures/figure_0019.png",
+      "next_block_id": "txt_0137",
+      "caption_id": "txt_0137",
+      "caption": ": Communication interface module of 160 kVA UPS",
+      "figure_number": "Figure 2-14",
+      "image_hash": "0bf4c3330ac3313f8a688eb02697f80966071b775fb75d557837b50387d9f28a",
+      "width": 103,
+      "height": 223
+    },
+    {
+      "type": "caption",
+      "id": "txt_0137",
+      "reading_order": 161,
+      "section": "(1) The model of 80 ~120 kVA UPS",
+      "bbox": {
+        "l": 56.664,
+        "t": 482.3576629101563,
+        "r": 235.40552,
+        "b": 457.286101363195
+      },
+      "content": "Figure 2-14: Communication interface module of 160 kVA UPS",
+      "caption_for": "fig_0019"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0138",
+      "reading_order": 162,
+      "section": "(1) The model of 80 ~120 kVA UPS",
+      "bbox": {
+        "l": 77.904,
+        "t": 451.1576629101563,
+        "r": 252.94567999999998,
+        "b": 441.686101363195
+      },
+      "content": "(3) The model of 200 ~ 300 kVA UPS"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0020",
+      "reading_order": 163,
+      "section": "(1) The model of 80 ~120 kVA UPS",
+      "bbox": {
+        "l": 157.0010811111068,
+        "t": 435.27952284354166,
+        "r": 453.1454385122832,
+        "b": 147.9358301371327
+      },
+      "image_path": "figures/figure_0020.png",
+      "previous_block_id": "txt_0138",
+      "next_block_id": "txt_0139",
+      "caption_id": "txt_0139",
+      "caption": ": Physical model of interior door of 200 ~ 300 kVA UPS",
+      "figure_number": "Figure 2-16",
+      "image_hash": "6a6b2fe9c5105cdb39058014abc752e34b43413aeb76aeee087fd1313e5953cd",
+      "width": 296,
+      "height": 287
+    },
+    {
+      "type": "caption",
+      "id": "txt_0139",
+      "reading_order": 164,
+      "section": "(1) The model of 80 ~120 kVA UPS",
+      "bbox": {
+        "l": 151.58,
+        "t": 125.06766291015629,
+        "r": 462.27567999999997,
+        "b": 115.59610136319498
+      },
+      "content": "Figure 2-16: Physical model of interior door of 200 ~ 300 kVA UPS",
+      "caption_for": "fig_0020"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0021",
+      "reading_order": 165,
+      "section": "(1) The model of 80 ~120 kVA UPS",
+      "bbox": {
+        "l": 270.101733003995,
+        "t": 712.9466907605208,
+        "r": 469.6555645586156,
+        "b": 510.25368993295325
+      },
+      "image_path": "figures/figure_0021.png",
+      "previous_block_id": "txt_0139",
+      "next_block_id": "txt_0140",
+      "caption_id": "txt_0140",
+      "caption": ": Output filter  capacitor  and  isolation switch of 160 kVA UPS",
+      "figure_number": "Figure 2-15",
+      "image_hash": "42c0bf09423fd12971336e81e793edec1939a055992f1b7a0159b16de113daeb",
+      "width": 200,
+      "height": 203
+    },
+    {
+      "type": "caption",
+      "id": "txt_0140",
+      "reading_order": 166,
+      "section": "(1) The model of 80 ~120 kVA UPS",
+      "bbox": {
+        "l": 308.35,
+        "t": 482.3576629101563,
+        "r": 541.61568,
+        "b": 457.286101363195
+      },
+      "content": "Figure 2-15: Output filter  capacitor  and  isolation switch of 160 kVA UPS",
+      "caption_for": "fig_0021"
+    }
+  ],
+  "page_stats": {
+    "block_count": 7,
+    "text_blocks": 4,
+    "paragraphs": 1,
+    "headings": 0,
+    "list_items": 0,
+    "captions": 3,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 3,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

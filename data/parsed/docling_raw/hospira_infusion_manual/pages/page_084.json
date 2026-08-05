@@ -1,0 +1,23 @@
+{
+  "page": 84,
+  "document_id": "doc_37f23c38",
+  "page_bbox": {
+    "width": 612.0,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "table",
+      "id": "tbl_0033",
+      "reading_order": 827,
+      "section": "ERROR CODES REQUIRING TECHNICAL SERVICE",
+      "bbox": {
+        "l": 70.85294342041016,
+        "t": 738.9530410766602,
+        "r": 505.07427978515625,
+        "b": 106.92236328125
+      },
+      "markdown": "| Table 6-3. Error Codes Requiring Technical Service   | Table 6-3. Error Codes Requiring Technical Service   | Table 6-3. Error Codes Requiring Technical Service                    | Table 6-3. Error Codes Requiring Technical Service                                                                                                 |\n|------------------------------------------------------|------------------------------------------------------|-----------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|\n| Error Code                                           | Malfunction                                          | Possible Cause                                                        | Corrective Action                                                                                                                                  |\n| E430                                                 | Proximal air sensor failure 1                        | Proximal air sensor ongoing test detects liquid with cassette removed | Replace mechanism assembly (see Section 7.2.12.6)                                                                                                  |\n| E431                                                 | Proximal air sensor failure 2                        | Proximal air sensor self test detects liquid with cassette removed    | Reset time and date, if required (see Section 1.9.2)                                                                                               |\n| E432                                                 | Proximal pressure sensor 1                           | Proximal pressure sensor failed while the infuser is off              | Reset time and date, if required (see Section 1.9.2)                                                                                               |\n| E433                                                 | Proximal pressure sensor 2                           | Proximal pressure sensor failed while the infuser is on               | Reset time and date, if required (see Section 1.9.2)                                                                                               |\n| E434                                                 | RAM failure                                          | RAM failure                                                           | Turn power off, then on, to reset the infuser Replace peripheral assembly (see Section 7.2.6) Reset time and date, if required (see Section 1.9.2) |\n| E435                                                 | RTC failure                                          | Real-time clock failure                                               | Turn power off, then on, to reset the infuser Replace CPU PWA (see Section 7.2.12.4) Reset time and date, if required (see Section 1.9.2)          |\n| E436                                                 | ROM failure                                          | ROM checksum failure                                                  | Turn power off, then on, to reset the infuser Replace peripheral assembly (see Section 7.2.6) Reset time and date, if required (see Section 1.9.2) |\n| E437                                                 | Software failure                                     | Generic software failure                                              | Turn power off, then on, to reset the infuser Replace CPU PWA (see Section 7.2.12.4) Reset time and date,                                          |\n| E438                                                 | Stack out-of-range failure                           | Stack out-of-range failure                                            | if required (see Section 1.9.2)                                                                                                                    |"
+    }
+  ]
+}

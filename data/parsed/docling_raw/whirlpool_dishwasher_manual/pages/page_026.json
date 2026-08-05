@@ -1,0 +1,384 @@
+{
+  "page": 26,
+  "document_id": "doc_16216d0c",
+  "page_bbox": {
+    "width": 612.0,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0262",
+      "reading_order": 311,
+      "section": "For Service Technician Use Only",
+      "bbox": {
+        "l": 166.0444,
+        "t": 736.005,
+        "r": 427.56639999999993,
+        "b": 721.2313010526316
+      },
+      "content": "For Service Technician Use Only",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "id": "txt_0263",
+      "reading_order": 312,
+      "section": "DANGER",
+      "bbox": {
+        "l": 131.1818,
+        "t": 690.666644,
+        "r": 223.4506244,
+        "b": 673.1256012833169
+      },
+      "content": "DANGER",
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "id": "fig_0038",
+      "reading_order": 313,
+      "section": "DANGER",
+      "bbox": {
+        "l": 137.57958984375,
+        "t": 664.8818283081055,
+        "r": 178.90899658203125,
+        "b": 619.7218627929688
+      },
+      "image_path": "figures/figure_0038.png",
+      "previous_block_id": "txt_0263",
+      "next_block_id": "txt_0264"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0264",
+      "reading_order": 314,
+      "section": "Electrical Shock Hazard",
+      "bbox": {
+        "l": 108.1317,
+        "t": 605.4779318,
+        "r": 218.90509379999995,
+        "b": 596.8004174112266
+      },
+      "content": "Electrical Shock Hazard",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0265",
+      "reading_order": 315,
+      "section": "Electrical Shock Hazard",
+      "bbox": {
+        "l": 46.746161699999995,
+        "t": 590.3342768,
+        "r": 254.1263043,
+        "b": 571.3981574112266
+      },
+      "content": "Only authorized technicians should perform diagnostic voltage measurements."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0266",
+      "reading_order": 316,
+      "section": "Electrical Shock Hazard",
+      "bbox": {
+        "l": 46.746161699999995,
+        "t": 564.9320168,
+        "r": 237.84931769999994,
+        "b": 545.9958974112267
+      },
+      "content": "After performing voltage measurements, disconnect power before servicing."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0267",
+      "reading_order": 317,
+      "section": "Electrical Shock Hazard",
+      "bbox": {
+        "l": 46.746161699999995,
+        "t": 539.5297568000001,
+        "r": 271.51708229999997,
+        "b": 520.5936374112267
+      },
+      "content": "Failure to follow these instructions can result in death or electrical shock."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0268",
+      "reading_order": 318,
+      "section": "Voltage Measurement Safety Information",
+      "bbox": {
+        "l": 161.9901,
+        "t": 489.9196,
+        "r": 433.4780999999994,
+        "b": 476.1932188605108
+      },
+      "content": "Voltage Measurement Safety Information",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0269",
+      "reading_order": 319,
+      "section": "Voltage Measurement Safety Information",
+      "bbox": {
+        "l": 53.0,
+        "t": 473.0556,
+        "r": 403.18999999999994,
+        "b": 463.251042043222
+      },
+      "content": "When performing live voltage measurements, you must do the following:"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0270",
+      "reading_order": 320,
+      "section": "Voltage Measurement Safety Information",
+      "bbox": {
+        "l": 53.0,
+        "t": 458.4356,
+        "r": 485.6999999999996,
+        "b": 448.5824787276342
+      },
+      "content": "  Verify the controls are in the off position so that the appliance does not start when energized."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0271",
+      "reading_order": 321,
+      "section": "Voltage Measurement Safety Information",
+      "bbox": {
+        "l": 53.0,
+        "t": 443.4356,
+        "r": 427.6099999999998,
+        "b": 433.5824787276342
+      },
+      "content": "  Allow enough space to perform the voltage measurements without obstructions."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0272",
+      "reading_order": 322,
+      "section": "Voltage Measurement Safety Information",
+      "bbox": {
+        "l": 53.0,
+        "t": 428.4356,
+        "r": 453.43999999999966,
+        "b": 418.5824787276342
+      },
+      "content": "  Keep other people a safe distance away from the appliance to prevent potential injury."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0273",
+      "reading_order": 323,
+      "section": "Voltage Measurement Safety Information",
+      "bbox": {
+        "l": 53.0,
+        "t": 413.4356,
+        "r": 256.8,
+        "b": 403.5824787276342
+      },
+      "content": "  Always use the proper testing equipment."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0274",
+      "reading_order": 324,
+      "section": "Voltage Measurement Safety Information",
+      "bbox": {
+        "l": 53.0,
+        "t": 398.4356,
+        "r": 389.62999999999994,
+        "b": 388.5824787276342
+      },
+      "content": "  After voltage measurements, always disconnect power before servicing."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0275",
+      "reading_order": 325,
+      "section": "Voltage Measurement Safety Information",
+      "bbox": {
+        "l": 53.0,
+        "t": 360.82520000000005,
+        "r": 396.0899999999996,
+        "b": 351.02064204322204
+      },
+      "content": "IMPORTANT: Electrostatic Discharge (ESD) Sensitive Electronics"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0276",
+      "reading_order": 326,
+      "section": "Voltage Measurement Safety Information",
+      "bbox": {
+        "l": 53.0,
+        "t": 348.82520000000005,
+        "r": 540.0199999999998,
+        "b": 303.02064204322204
+      },
+      "content": "ESD problems are present everywhere. Most people begin to feel an ESD discharge at approximately 3000V. It takes as little as 10V to destroy, damage, or weaken the main control assembly. The new main control assembly may appear to work well after repair is finished, but a malfunction may occur at a later date due to ESD stress."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0277",
+      "reading_order": 327,
+      "section": "Voltage Measurement Safety Information",
+      "bbox": {
+        "l": 53.0,
+        "t": 299.20520000000005,
+        "r": 543.3399999999999,
+        "b": 277.0206420432221
+      },
+      "content": "  Use an anti-static wrist strap. Connect wrist strap to green ground connection point or unpainted metal in the appliance"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0278",
+      "reading_order": 328,
+      "section": "Voltage Measurement Safety Information",
+      "bbox": {
+        "l": 233.0,
+        "t": 268.8252,
+        "r": 257.88,
+        "b": 259.0206420432221
+      },
+      "content": "-OR-"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0279",
+      "reading_order": 329,
+      "section": "Voltage Measurement Safety Information",
+      "bbox": {
+        "l": 53.0,
+        "t": 251.2052,
+        "r": 532.5799999999999,
+        "b": 229.02064204322198
+      },
+      "content": "  Touch your finger repeatedly to a green ground connection point or unpainted metal in the appliance."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0280",
+      "reading_order": 330,
+      "section": "Voltage Measurement Safety Information",
+      "bbox": {
+        "l": 53.0,
+        "t": 225.2052,
+        "r": 524.6028,
+        "b": 203.02064204322198
+      },
+      "content": "  Before removing the part from its package, touch the anti-static bag to a green ground connection point or unpainted metal in the appliance."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0281",
+      "reading_order": 331,
+      "section": "Voltage Measurement Safety Information",
+      "bbox": {
+        "l": 53.0,
+        "t": 199.2052,
+        "r": 523.7964999999999,
+        "b": 177.02064204322198
+      },
+      "content": "  Avoid touching electronic parts or terminal contacts; handle electronic control assembly by edges only."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0282",
+      "reading_order": 332,
+      "section": "Voltage Measurement Safety Information",
+      "bbox": {
+        "l": 53.0,
+        "t": 173.2052,
+        "r": 496.82999999999925,
+        "b": 163.02064204322198
+      },
+      "content": "  When repackaging main control assembly in anti-static bag, observe above instructions."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0283",
+      "reading_order": 333,
+      "section": "IMPORTANT SAFETY NOTICE - 'For Technicians  only'",
+      "bbox": {
+        "l": 148.5098,
+        "t": 131.6608,
+        "r": 448.5568,
+        "b": 120.87578624754417
+      },
+      "content": "IMPORTANT SAFETY NOTICE - 'For Technicians  only'",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0284",
+      "reading_order": 334,
+      "section": "IMPORTANT SAFETY NOTICE - 'For Technicians  only'",
+      "bbox": {
+        "l": 52.25,
+        "t": 118.94479999999999,
+        "r": 534.0999999999993,
+        "b": 61.140242043221974
+      },
+      "content": "This service data sheet is intended for use by persons having electrical, electronic, and mechanical experience and knowledge at a level generally considered acceptable in the appliance repair trade. Any attempt to repair a major appliance may result in personal injury and property damage.  The manufacturer or seller cannot be responsible, nor assume any liability for injury or damage of any kind arising from the use of this data sheet."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0285",
+      "reading_order": 335,
+      "section": "IMPORTANT SAFETY NOTICE - 'For Technicians  only'",
+      "bbox": {
+        "l": 56.1631,
+        "t": 44.86829999999998,
+        "r": 72.4687,
+        "b": 32.765719354838666
+      },
+      "content": "n"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0286",
+      "reading_order": 336,
+      "section": "WARNING",
+      "bbox": {
+        "l": 386.7115,
+        "t": 692.621556,
+        "r": 492.43534300000005,
+        "b": 675.0786281342547
+      },
+      "content": "WARNING",
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "id": "fig_0039",
+      "reading_order": 337,
+      "section": "WARNING",
+      "bbox": {
+        "l": 399.2557373046875,
+        "t": 665.9074172973633,
+        "r": 440.7940368652344,
+        "b": 620.6002655029297
+      },
+      "image_path": "figures/figure_0039.png",
+      "previous_block_id": "txt_0286",
+      "next_block_id": "txt_0287"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0287",
+      "reading_order": 338,
+      "section": "WARNING",
+      "bbox": {
+        "l": 314.1846,
+        "t": 603.8814216,
+        "r": 528.1617096,
+        "b": 541.0754102237006
+      },
+      "content": "Electrical Shock Hazard Disconnect power before servicing. Failure to do so can result in death or electrical shock. Replace all parts and panels before operating."
+    }
+  ]
+}

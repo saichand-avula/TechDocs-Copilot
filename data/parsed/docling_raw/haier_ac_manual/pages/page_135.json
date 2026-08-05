@@ -1,0 +1,247 @@
+{
+  "page": 135,
+  "document_id": "doc_229deb31",
+  "page_bbox": {
+    "width": 595.219970703125,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_1171",
+      "reading_order": 1546,
+      "section": "7.3.2 Indoor fan motor malfunction",
+      "bbox": {
+        "l": 56.962,
+        "t": 785.121856,
+        "r": 269.6343200199998,
+        "b": 772.21249
+      },
+      "content": "7.3.2 Indoor fan motor malfunction",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1172",
+      "reading_order": 1547,
+      "section": "7.3.2 Indoor fan motor malfunction",
+      "bbox": {
+        "l": 56.962,
+        "t": 750.9420152,
+        "r": 119.00033013000004,
+        "b": 741.689238
+      },
+      "content": "Indoor display"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1173",
+      "reading_order": 1548,
+      "section": "7.3.2 Indoor fan motor malfunction",
+      "bbox": {
+        "l": 134.506,
+        "t": 752.3556856,
+        "r": 155.75476388000004,
+        "b": 741.274614
+      },
+      "content": "E14"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1174",
+      "reading_order": 1549,
+      "section": "7.3.2 Indoor fan motor malfunction",
+      "bbox": {
+        "l": 56.95637889999999,
+        "t": 725.5126152,
+        "r": 107.98296919999999,
+        "b": 658.9399380000001
+      },
+      "content": "Method of Malfunction Detection Malfunction Decision Conditions"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1175",
+      "reading_order": 1550,
+      "section": "7.3.2 Indoor fan motor malfunction",
+      "bbox": {
+        "l": 56.962,
+        "t": 655.8723326,
+        "r": 128.93369448000007,
+        "b": 646.6195554000001
+      },
+      "content": "Supports curses The rotation speed detected by the Hall IC during fan motor operation is used to determine abnormal fan motor operation when the detected rotation feedback singal don't receiced in 2 minutes"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1176",
+      "reading_order": 1551,
+      "section": "7.3.2 Indoor fan motor malfunction",
+      "bbox": {
+        "l": 143.72,
+        "t": 656.0766514,
+        "r": 433.6181791099999,
+        "b": 646.0585274875
+      },
+      "content": "Ƶ Operation halt due to breaking of wire inside the fan motor ."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1177",
+      "reading_order": 1552,
+      "section": "7.3.2 Indoor fan motor malfunction",
+      "bbox": {
+        "l": 145.9932,
+        "t": 643.2739514,
+        "r": 429.07214052000086,
+        "b": 633.2558274875
+      },
+      "content": "Ƶ Operation halt due to breaking of the fan motor lead wires"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1178",
+      "reading_order": 1553,
+      "section": "7.3.2 Indoor fan motor malfunction",
+      "bbox": {
+        "l": 145.9932,
+        "t": 631.1269514,
+        "r": 390.2556090600006,
+        "b": 621.1088274875
+      },
+      "content": "Ƶ Detection error due to faulty indoor unit PCB"
+    },
+    {
+      "type": "heading",
+      "id": "txt_1179",
+      "reading_order": 1554,
+      "section": "How to check Fan Motor (DC)",
+      "bbox": {
+        "l": 56.962,
+        "t": 602.393956,
+        "r": 249.5533989999998,
+        "b": 589.48459
+      },
+      "content": "How to check Fan Motor (DC)",
+      "level": 2
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1180",
+      "reading_order": 1555,
+      "section": "How to check Fan Motor (DC)",
+      "bbox": {
+        "l": 156.4717,
+        "t": 576.8719928,
+        "r": 313.6224656999995,
+        "b": 567.1760320000001
+      },
+      "content": "Check connector connection."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1181",
+      "reading_order": 1556,
+      "section": "How to check Fan Motor (DC)",
+      "bbox": {
+        "l": 156.4717,
+        "t": 564.3698576,
+        "r": 421.1353809000007,
+        "b": 554.6738968000001
+      },
+      "content": "Check motor power supply voltage output (pins 1-4)."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1182",
+      "reading_order": 1557,
+      "section": "How to check Fan Motor (DC)",
+      "bbox": {
+        "l": 155.9379034,
+        "t": 551.9200764000001,
+        "r": 358.4027671400005,
+        "b": 542.2241156000001
+      },
+      "content": "Check motor control voltage (pins 4-5)."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1183",
+      "reading_order": 1558,
+      "section": "How to check Fan Motor (DC)",
+      "bbox": {
+        "l": 155.9379034,
+        "t": 539.41689412,
+        "r": 412.95991963999984,
+        "b": 529.7209333200001
+      },
+      "content": "Check rotation command voltage output (pins 4-6)."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1184",
+      "reading_order": 1559,
+      "section": "How to check Fan Motor (DC)",
+      "bbox": {
+        "l": 155.9379034,
+        "t": 526.91371184,
+        "r": 346.13381862000034,
+        "b": 517.21775104
+      },
+      "content": "Check rotation pulse input (pins 4-7)."
+    },
+    {
+      "type": "heading",
+      "id": "txt_1185",
+      "reading_order": 1560,
+      "section": "Notes:the  a/c  is  electrifying,don't  pull  out  or  insert  the  terminals  of  the motor,else the motor would be damaged",
+      "bbox": {
+        "l": 59.8341,
+        "t": 386.6447428,
+        "r": 552.0455717999998,
+        "b": 355.56139540000004
+      },
+      "content": "Notes:the  a/c  is  electrifying,don't  pull  out  or  insert  the  terminals  of  the motor,else the motor would be damaged",
+      "level": 2
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1186",
+      "reading_order": 1561,
+      "section": "Notes:the  a/c  is  electrifying,don't  pull  out  or  insert  the  terminals  of  the motor,else the motor would be damaged",
+      "bbox": {
+        "l": 215.7589,
+        "t": 339.2133928,
+        "r": 562.2881394600012,
+        "b": 329.517432
+      },
+      "content": "Be sure to turn off power switch before connect or disconnect connector,"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1187",
+      "reading_order": 1562,
+      "section": "Notes:the  a/c  is  electrifying,don't  pull  out  or  insert  the  terminals  of  the motor,else the motor would be damaged",
+      "bbox": {
+        "l": 56.9593,
+        "t": 339.2153928,
+        "r": 391.93061787999983,
+        "b": 314.13687387999994
+      },
+      "content": "Troubleshooting * Caution or else parts damage may be occurred."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1188",
+      "reading_order": 1563,
+      "section": "Notes:the  a/c  is  electrifying,don't  pull  out  or  insert  the  terminals  of  the motor,else the motor would be damaged",
+      "bbox": {
+        "l": 91.4857,
+        "t": 196.70821520000004,
+        "r": 231.7633828600001,
+        "b": 171.89758259999996
+      },
+      "content": "Turn off power supply and rotate fan by hand"
+    }
+  ]
+}

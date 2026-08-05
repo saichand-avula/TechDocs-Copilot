@@ -1,0 +1,155 @@
+{
+  "page": 49,
+  "document_id": "doc_f7e949ab",
+  "page_bbox": {
+    "width": 612.0,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0592",
+      "reading_order": 647,
+      "section": "5.5.5 Operational Performance",
+      "bbox": {
+        "l": 72.0,
+        "t": 702.8025,
+        "r": 224.81212499999998,
+        "b": 689.4375
+      },
+      "content": "5.5.5 Operational Performance",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0593",
+      "reading_order": 648,
+      "section": "5.5.5 Operational Performance",
+      "bbox": {
+        "l": 144.0,
+        "t": 675.00375,
+        "r": 538.3963124999989,
+        "b": 635.24625
+      },
+      "content": "Table 18 lists symptoms of problems relating to operational performance (no error codes displayed) and  recommended  actions. If the action requires replacement of a PCB or module, refer to Disassembly Guide."
+    },
+    {
+      "type": "table",
+      "id": "tbl_0023",
+      "reading_order": 649,
+      "section": "5.5.5 Operational Performance",
+      "bbox": {
+        "l": 136.61514282226562,
+        "t": 610.3480987548828,
+        "r": 542.108154296875,
+        "b": 372.6405334472656
+      },
+      "markdown": "Table 18. Operational Performance Problems\n\n| Symptom                                                                                    | Recommended Action                                                                                                                                                                                                                                                                                                                           |\n|--------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| 1. Monitor appears to be operational, but physiological values are suspect or nonexistent. | 1. Replace each patient cable (or hose) with a known serviceable cable. 2. Ensure internal ECG, temperature, and SpO 2 cables are connected to main PCB assembly. Ensure hoses in pneumatic system are properly connected, and NIBP pump motor is connected to power supply PCB assembly. 3. If problem persists, replace main PCB assembly. |\n| 2. Printer paper will not advance.                                                         | 1. Open printer door and check paper is present. 2. If problem persists, ensure printer wire is connected to SpO 2 PCB assembly. 3. If problem persists, replace printer.                                                                                                                                                                    |\n| 3. Printer paper will advance, but paper remains blank when printing should be present.    | 1. Open printer door and check paper is oriented correctly. 2. If problem persists, replace printer.                                                                                                                                                                                                                                         |"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0594",
+      "reading_order": 650,
+      "section": "5.5.5 Operational Performance",
+      "bbox": {
+        "l": 234.001125,
+        "t": 621.8025,
+        "r": 458.06287499999996,
+        "b": 608.4375
+      },
+      "content": "Table 18. Operational Performance Problems"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0595",
+      "reading_order": 651,
+      "section": "5.5.6 Error Codes",
+      "bbox": {
+        "l": 72.0,
+        "t": 354.0525,
+        "r": 162.9375,
+        "b": 340.6875
+      },
+      "content": "5.5.6 Error Codes",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0596",
+      "reading_order": 652,
+      "section": "5.5.6 Error Codes",
+      "bbox": {
+        "l": 145.5,
+        "t": 326.25375,
+        "r": 538.5634125000001,
+        "b": 299.99625
+      },
+      "content": "When the N5500 detects an error condition, the monitor will attempt to show an error code on the display screen."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0597",
+      "reading_order": 653,
+      "section": "5.5.6 Error Codes",
+      "bbox": {
+        "l": 145.5,
+        "t": 285.75375,
+        "r": 536.3507624999995,
+        "b": 245.99625000000003
+      },
+      "content": "If  such  an  error  occurs  during  monitoring operation,  the  monitor  will  sound  a  lowpriority  alarm.  Audible  alarm  can  be  terminated  by  pressing  Alarm  silence/suspend switch, but it depends on error codes and conditions."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0598",
+      "reading_order": 654,
+      "section": "5.5.6 Error Codes",
+      "bbox": {
+        "l": 145.50000000000003,
+        "t": 231.75374999999997,
+        "r": 476.06325000000004,
+        "b": 218.99625000000003
+      },
+      "content": "Table 19 provides a complete list of error codes and problem identification."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0599",
+      "reading_order": 655,
+      "section": "5.5.6 Error Codes",
+      "bbox": {
+        "l": 144.00037500000005,
+        "t": 204.75374999999997,
+        "r": 368.06325000000004,
+        "b": 191.99625000000003
+      },
+      "content": "If an error code occurs, take the following actions:"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0600",
+      "reading_order": 656,
+      "section": "5.5.6 Error Codes",
+      "bbox": {
+        "l": 155.25037500000005,
+        "t": 177.75374999999997,
+        "r": 308.8128750000001,
+        "b": 164.99625000000003
+      },
+      "content": "Turn monitor off, then on again."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0601",
+      "reading_order": 657,
+      "section": "5.5.6 Error Codes",
+      "bbox": {
+        "l": 153.00037500000008,
+        "t": 150.75374999999997,
+        "r": 539.0644874999999,
+        "b": 110.99625000000003
+      },
+      "content": "Note:  If  error  code  still  appears,  take  monitor  out  of  service  and  contact  Nellcor Technical Services or your local Nellcor representative for advice on remedial action."
+    }
+  ]
+}

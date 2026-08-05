@@ -1,0 +1,155 @@
+{
+  "page": 111,
+  "document_id": "doc_b0587846",
+  "page_bbox": {
+    "width": 612.0,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "paragraph",
+      "id": "txt_1642",
+      "reading_order": 1903,
+      "section": "Assemble the frame",
+      "bbox": {
+        "l": 161.99996,
+        "t": 743.64184,
+        "r": 540.6300000000003,
+        "b": 720.40184
+      },
+      "content": "If  the total indicator reading is greater than the values in this table, then disassemble the shaft and determine the cause."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1643",
+      "reading_order": 1904,
+      "section": "Assemble the frame",
+      "bbox": {
+        "l": 161.99996,
+        "t": 719.64184,
+        "r": 368.39995999999996,
+        "b": 708.40184
+      },
+      "content": "Use this table as a reference for shaft-end play values."
+    },
+    {
+      "type": "table",
+      "id": "tbl_0065",
+      "reading_order": 1905,
+      "section": "Assemble the frame",
+      "bbox": {
+        "l": 142.73814392089844,
+        "t": 693.3136672973633,
+        "r": 540.93115234375,
+        "b": 561.1944580078125
+      },
+      "markdown": "Table 15: Shaft-end play\n\n| Frame                      | Double row bearing            | Duplex bearing                |\n|----------------------------|-------------------------------|-------------------------------|\n| STi inches (millimeters)   | 0.0011 (0.028) 0.0019 (0.048) | 0.0007 (0.018) 0.0010 (0.025) |\n| MTi inches (millimeters)   | 0.0013 (0.033) 0.0021 (0.053) | 0.0009 (0.023) 0.0012 (0.030) |\n| LTi inches (millimeters)   | Not applicable                | 0.0010 (0.025) 0.0015 (0.038) |\n| XLT-i inches (millimeters) | 0.0014 (0.036) 0.0023 (0.058) | 0.0010 (0.025) 0.0015 (0.038) |"
+    },
+    {
+      "type": "caption",
+      "id": "txt_1644",
+      "reading_order": 1906,
+      "section": "Assemble the frame",
+      "bbox": {
+        "l": 144.00293,
+        "t": 702.95223,
+        "r": 246.85493000000002,
+        "b": 692.90823
+      },
+      "content": "Table 15: Shaft-end play"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0199",
+      "reading_order": 1907,
+      "section": "Assemble the frame",
+      "bbox": {
+        "l": 167.1644287109375,
+        "t": 543.4327392578125,
+        "r": 363.26513671875,
+        "b": 335.7808837890625
+      },
+      "image_path": "figures/figure_0199.png",
+      "previous_block_id": "txt_1644",
+      "next_block_id": "txt_1645"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1645",
+      "reading_order": 1908,
+      "section": "Assemble the frame",
+      "bbox": {
+        "l": 144.0,
+        "t": 330.1100099999999,
+        "r": 302.2499999999999,
+        "b": 318.87000999999987
+      },
+      "content": "Check the shaft-sleeve (126) runout."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1646",
+      "reading_order": 1909,
+      "section": "Assemble the frame",
+      "bbox": {
+        "l": 162.0,
+        "t": 315.1100099999999,
+        "r": 263.6199999999999,
+        "b": 303.87000999999987
+      },
+      "content": "Install the shaft sleeve."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1647",
+      "reading_order": 1910,
+      "section": "Assemble the frame",
+      "bbox": {
+        "l": 162.0,
+        "t": 301.6100099999999,
+        "r": 365.68000000000006,
+        "b": 290.37000999999987
+      },
+      "content": "Thread the impeller on the shaft until hand tight."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1648",
+      "reading_order": 1911,
+      "section": "Assemble the frame",
+      "bbox": {
+        "l": 162.0,
+        "t": 288.1100099999999,
+        "r": 259.5799999999999,
+        "b": 276.87000999999987
+      },
+      "content": "Rotate the shaft 360º."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1649",
+      "reading_order": 1912,
+      "section": "Assemble the frame",
+      "bbox": {
+        "l": 162.0,
+        "t": 274.6100099999999,
+        "r": 558.3100000000002,
+        "b": 251.37000999999987
+      },
+      "content": "If  the total indicator reading is greater than 0.002 in. (0.051 mm), then disassemble the shaft sleeve and determine the cause."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1650",
+      "reading_order": 1913,
+      "section": "Assemble the frame",
+      "bbox": {
+        "l": 162.00002999999998,
+        "t": 249.11000999999987,
+        "r": 321.8000299999999,
+        "b": 237.87000999999987
+      },
+      "content": "Remove the impeller and shaft sleeve."
+    }
+  ]
+}

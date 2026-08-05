@@ -1,0 +1,152 @@
+{
+  "page": 119,
+  "document_id": "doc_e02482e6",
+  "page_bbox": {
+    "width": 595.0,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0310",
+      "reading_order": 1324,
+      "section": "Check list",
+      "bbox": {
+        "l": 519.4338989257812,
+        "t": 815.9898490905762,
+        "r": 567.1636962890625,
+        "b": 792.8320045471191
+      },
+      "image_path": "figures/figure_0310.png",
+      "next_block_id": "txt_0920",
+      "image_hash": "b28a1d23de5124d82d6f84120acacff249829ec0e42f4c826059a188d93e4d2e",
+      "width": 48,
+      "height": 23
+    },
+    {
+      "type": "table",
+      "id": "tbl_0097",
+      "reading_order": 1325,
+      "section": "Check list",
+      "bbox": {
+        "l": 89.99933624267578,
+        "t": 769.1051406860352,
+        "r": 535.2887573242188,
+        "b": 498.1635437011719
+      },
+      "markdown": "| hours Running   | Operation                                                                                                                                                                                                                                                                                                                                                                                                     |\n|-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| (1) 4000        | Copco Atlas If . filter oil and oil change used, is Fluid Roto-Foodgrade Copco Atlas If . filter oil and oil change used, is Fluid Roto-Inject above is temperature air/oil (If 100 0 change) oil for Copco Atlas consult C, .                                                                                                                                                                                |\n| (1) 4000        | element. filter air the Replace environment) dusty for frequently (More . applicable). (where cabinet electric the of element filter the Replace coolers. Clean readings. temperature and pressure Check test. display LED/ a out Carry leakages. for Check section See drain. automatic the of filter the clean to (Dm) valve drain manual the Open system Condensate . function. shut-down temperature Test |\n| (1) 4000        | leakage. water possible for Check units: water-cooled On                                                                                                                                                                                                                                                                                                                                                      |\n| (2 8000 )       | . filter oil and oil change used, is Fluid Duty Roto-Xtend Copco Atlas If replaced. element separator oil the Have                                                                                                                                                                                                                                                                                            |",
+      "rows": 5,
+      "cols": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0920",
+      "reading_order": 1326,
+      "section": "Check list",
+      "bbox": {
+        "l": 101.01,
+        "t": 486.961,
+        "r": 261.46149999999983,
+        "b": 474.78400000000005
+      },
+      "content": "(1): or yearly, whichever comes first"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0921",
+      "reading_order": 1327,
+      "section": "Check list",
+      "bbox": {
+        "l": 101.01,
+        "t": 467.3414,
+        "r": 295.2524000000001,
+        "b": 455.16440000000006
+      },
+      "content": "(2): or every 2 years, whichever comes first"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_0922",
+      "reading_order": 1328,
+      "severity": "important",
+      "content": "IMPORTANT: Always consult Atlas Copco if a timer setting has to be changed. For the change interval of oil and oil filter in extreme conditions of temperature, humidity or cooling air, consult your Atlas Copco Customer Centre. Any leakage should be attended to immediately. Damaged hoses or flexible joints must be replaced.",
+      "section": "Important",
+      "bbox": {
+        "l": 66.9903,
+        "t": 437.3158,
+        "r": 115.71369999999997,
+        "b": 425.0398
+      },
+      "icon_path": "figures/figure_0311.png"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0924",
+      "reading_order": 1331,
+      "section": "8.2 Drive motor",
+      "bbox": {
+        "l": 56.55,
+        "t": 295.68000000000006,
+        "r": 183.26679999999996,
+        "b": 277.82400000000007
+      },
+      "content": "8.2 Drive motor",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0925",
+      "reading_order": 1332,
+      "section": "Bearing maintenance",
+      "bbox": {
+        "l": 56.55,
+        "t": 258.93499999999995,
+        "r": 165.27180000000004,
+        "b": 246.659
+      },
+      "content": "Bearing maintenance",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0926",
+      "reading_order": 1333,
+      "section": "Bearing maintenance",
+      "bbox": {
+        "l": 90.5697,
+        "t": 239.58050000000003,
+        "r": 338.84409999999974,
+        "b": 227.4035
+      },
+      "content": "The bearing at the non-drive end side is greased for life."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0927",
+      "reading_order": 1334,
+      "section": "Bearing maintenance",
+      "bbox": {
+        "l": 90.5697,
+        "t": 220.38,
+        "r": 371.8352999999995,
+        "b": 208.20299999999997
+      },
+      "content": "The bearing at the drive end side is lubricated by the oil system."
+    }
+  ],
+  "page_stats": {
+    "block_count": 9,
+    "text_blocks": 7,
+    "paragraphs": 4,
+    "headings": 2,
+    "list_items": 0,
+    "captions": 0,
+    "admonitions": 1,
+    "references": 0,
+    "figures": 1,
+    "tables": 1,
+    "toc_tables": 0
+  }
+}

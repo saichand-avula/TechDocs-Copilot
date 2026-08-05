@@ -1,0 +1,214 @@
+{
+  "page": 18,
+  "document_id": "doc_16216d0c",
+  "page_bbox": {
+    "width": 612.0,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0212",
+      "reading_order": 247,
+      "section": "For Service Technician Use Only",
+      "bbox": {
+        "l": 165.5444,
+        "t": 730.505,
+        "r": 427.06639999999993,
+        "b": 715.7313010526316
+      },
+      "content": "For Service Technician Use Only",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "id": "txt_0213",
+      "reading_order": 248,
+      "section": "Service Error Codes",
+      "bbox": {
+        "l": 36.0,
+        "t": 705.112,
+        "r": 167.90400000000002,
+        "b": 692.9393613445378
+      },
+      "content": "Service Error Codes",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "id": "txt_0214",
+      "reading_order": 249,
+      "section": "DANGER",
+      "bbox": {
+        "l": 130.1818,
+        "t": 673.996944,
+        "r": 222.4506244,
+        "b": 656.4559012833168
+      },
+      "content": "DANGER",
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "id": "fig_0031",
+      "reading_order": 250,
+      "section": "DANGER",
+      "bbox": {
+        "l": 136.11500549316406,
+        "t": 648.5076293945312,
+        "r": 177.98008728027344,
+        "b": 603.1244812011719
+      },
+      "image_path": "figures/figure_0031.png",
+      "previous_block_id": "txt_0214",
+      "next_block_id": "txt_0215"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0215",
+      "reading_order": 251,
+      "section": "Electrical Shock Hazard",
+      "bbox": {
+        "l": 107.1317,
+        "t": 588.8082318,
+        "r": 217.90509379999995,
+        "b": 580.1307174112267
+      },
+      "content": "Electrical Shock Hazard",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0216",
+      "reading_order": 252,
+      "section": "Electrical Shock Hazard",
+      "bbox": {
+        "l": 45.746161699999995,
+        "t": 573.6645768000001,
+        "r": 253.1263043,
+        "b": 554.7284574112267
+      },
+      "content": "Only authorized technicians should perform diagnostic voltage measurements."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0217",
+      "reading_order": 253,
+      "section": "Electrical Shock Hazard",
+      "bbox": {
+        "l": 45.746161699999995,
+        "t": 548.2623168000001,
+        "r": 236.84931769999994,
+        "b": 529.3261974112268
+      },
+      "content": "After performing voltage measurements, disconnect power before servicing."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0218",
+      "reading_order": 254,
+      "section": "Electrical Shock Hazard",
+      "bbox": {
+        "l": 45.746161699999995,
+        "t": 522.8600568000002,
+        "r": 270.51708229999997,
+        "b": 503.9239374112268
+      },
+      "content": "Failure to follow these instructions can result in death or electrical shock."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0219",
+      "reading_order": 255,
+      "section": "Failure Solutions:",
+      "bbox": {
+        "l": 36.1875,
+        "t": 486.992,
+        "r": 150.68350000000004,
+        "b": 474.8193613445378
+      },
+      "content": "Failure Solutions:",
+      "level": 2
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0220",
+      "reading_order": 256,
+      "section": "Failure Solutions:",
+      "bbox": {
+        "l": 42.1875,
+        "t": 470.2,
+        "r": 553.1775,
+        "b": 452.5921008403361
+      },
+      "content": "If an alarm occurs, the machine will enter a failure solving process: The buzzer sounds once per second for 30 seconds. The error code will be displayed. During that time, the drain pump will turn on for 2 minutes."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0221",
+      "reading_order": 257,
+      "section": "Failure Solutions:",
+      "bbox": {
+        "l": 42.1875,
+        "t": 447.2,
+        "r": 324.27750000000003,
+        "b": 439.5921008403361
+      },
+      "content": "During the drain, if the door is opened, the drain timing will pause."
+    },
+    {
+      "type": "table",
+      "id": "tbl_0007",
+      "reading_order": 258,
+      "section": "Failure Solutions:",
+      "bbox": {
+        "l": 35.94942092895508,
+        "t": 433.8149719238281,
+        "r": 558.7784423828125,
+        "b": 63.820556640625
+      },
+      "markdown": "| ERROR CODE SSD*   | ERROR CODE NON-SSD*                      | ERROR                     | CAUSES                                                                                                            | WHAT TO CHECK                                                                                                                                                                                       |\n|-------------------|------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| E1                | 'QUICK' INDICATOR FLASHES                | WATER INLET FAILURE       | DURING THE WATER INLET STEP, IF THE FLOW METER CAN'T DETECT A CORRECT FILL AFTER 4 MINUTES, E1 WILL BE DISPLAYED. | 1. CHECK THE WATER SUPPLY. 2. CHECK THE INLET VALVE. 3. CHECK THE INLET. 4. CHECK THE FLOW METER. 5. CHECK THE PRESSURE SWITCH. 6. CHECK THE DRAIN. 7. CHECK THE CONTROL.                           |\n| E3                | 'QUICK' & 'GLASS' INDICTORS FLASH        | HEATER FAILURE            | WHEN THE TEMPERATURE DOESN'T REACH THE CORRECT VALUE AFTER 90 MINUTES, E3 WILL BE DISPLAYED.                      | 1. CHECK THE HEATER. 2. CHECK THE THERMISTOR. 3. CHECK THE CONTROL.                                                                                                                                 |\n| E4                | 'LIGHT' INDICATOR FLASHES                | OVERFLOW                  | IF WATER FLOWS INTO THE BASE AND ACTIVATES THE OVERFLOW SWITCH, THE DISHWASHER WILL DISPLAY E4 .                  | 1. CHECK THE USE OF THE DETERGENT. 2. CHECK WHETHER THE APPLIANCE IS LEVEL. 3. CHECK THE OVERFLOW SWITCH. 4. CHECK THE DRAIN PUMP. 5. CHECK THE AMOUNT OF WATER IN SUMP. 6. LOCATE LEAK AND REPAIR. |\n| E6                | 'LIGHT' & 'GLASS' INDICATORS FLASH       | NTC OPEN CIRCUIT FAILURE  | TEMPERATURE SENSOR OPEN CIRCUIT, E6 WILL BE DISPLAYED.                                                            | 1. CHECK THE INLET WATER TEMPERATURE. 2. CHECK THE THERMISTOR. 3. CHECK THE CONTROL.                                                                                                                |\n| E7                | 'LIGHT, GLASS, & QUICK' INDICATORS FLASH | NTC SHORT CIRCUIT FAILURE | TEMPERATURE SENSOR SHORT CIRCUIT, E7 WILL BE DISPLAYED.                                                           | 1. CHECK THE INLET WATER TEMPERATURE. 2. CHECK THE THERMISTOR. 3. CHECK THE CONTROL.                                                                                                                |"
+    },
+    {
+      "type": "footnote",
+      "id": "txt_0222",
+      "reading_order": 259,
+      "section": "Failure Solutions:",
+      "bbox": {
+        "l": 36.5625,
+        "t": 61.10000000000002,
+        "r": 356.7925,
+        "b": 53.49210084033609
+      },
+      "content": "*SSD: Seven Segment Display (Not available on 24' Front Display Dishwashers.)"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0032",
+      "reading_order": 260,
+      "section": "Failure Solutions:",
+      "bbox": {
+        "l": 56.179962158203125,
+        "t": 44.94085693359375,
+        "r": 64.97257232666016,
+        "b": 35.44244384765625
+      },
+      "image_path": "figures/figure_0032.png",
+      "previous_block_id": "txt_0222",
+      "next_block_id": "txt_0223"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0223",
+      "reading_order": 261,
+      "section": "Failure Solutions:",
+      "bbox": {
+        "l": 56.1631,
+        "t": 44.86829999999998,
+        "r": 72.4687,
+        "b": 32.765719354838666
+      },
+      "content": "n"
+    }
+  ]
+}

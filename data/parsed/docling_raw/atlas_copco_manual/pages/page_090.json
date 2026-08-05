@@ -1,0 +1,225 @@
+{
+  "page": 90,
+  "document_id": "doc_e02482e6",
+  "page_bbox": {
+    "width": 595.0,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0249",
+      "reading_order": 946,
+      "section": "Detailed description",
+      "bbox": {
+        "l": 26.456403732299805,
+        "t": 816.0454025268555,
+        "r": 73.95747375488281,
+        "b": 792.7467269897461
+      },
+      "image_path": "figures/figure_0249.png",
+      "previous_block_id": "txt_0622",
+      "next_block_id": "txt_0623"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0623",
+      "reading_order": 947,
+      "section": "Detailed description",
+      "bbox": {
+        "l": 244.21,
+        "t": 600.55,
+        "r": 279.4369999999999,
+        "b": 589.48
+      },
+      "content": "ER label"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0250",
+      "reading_order": 948,
+      "section": "Detailed description",
+      "bbox": {
+        "l": 87.09825897216797,
+        "t": 545.4170532226562,
+        "r": 111.14257049560547,
+        "b": 519.528076171875
+      },
+      "image_path": "figures/figure_0250.png",
+      "previous_block_id": "txt_0623",
+      "next_block_id": "txt_0624"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0251",
+      "reading_order": 949,
+      "section": "Detailed description",
+      "bbox": {
+        "l": 211.87939453125,
+        "t": 769.3833084106445,
+        "r": 325.7422790527344,
+        "b": 608.4682769775391
+      },
+      "image_path": "figures/figure_0251.png",
+      "previous_block_id": "txt_0623",
+      "next_block_id": "txt_0624"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0624",
+      "reading_order": 950,
+      "section": "Detailed description",
+      "bbox": {
+        "l": 139.57,
+        "t": 543.4165806999999,
+        "r": 536.8079964500001,
+        "b": 519.1996168
+      },
+      "content": "Attention: It is only allowed to turn the handle completely in or out. No in-between position is allowed!"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0625",
+      "reading_order": 951,
+      "section": "Detailed description",
+      "bbox": {
+        "l": 62.23,
+        "t": 493.26099999999997,
+        "r": 528.7487999999995,
+        "b": 454.684
+      },
+      "content": "The oil cooler bypass valve (BV1) starts closing the bypass line and opening the oil supply line from the main oil cooler (Co) at the lower limit of its temperature range. At the upper limit of its temperature range, the bypass line is completely closed and all the oil flows through the main oil cooler."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0626",
+      "reading_order": 952,
+      "section": "Detailed description",
+      "bbox": {
+        "l": 62.23,
+        "t": 447.721,
+        "r": 537.0108999999993,
+        "b": 395.9440000000001
+      },
+      "content": "BV1 must have a higher opening temperature (set point) than BV2 in order to prevent the heat from being dissipated in the compressor oil cooler (Co) before the warm oil is fed to the oil/water heat exchanger when using the compression heat as source for energy recovery. Thermostat BV1 starts to open at 75 °C and is completely open at 90 °C."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0627",
+      "reading_order": 953,
+      "section": "Energy recovery system in use (see drawing)",
+      "bbox": {
+        "l": 28.210299999999997,
+        "t": 379.05460000000005,
+        "r": 257.71210000000025,
+        "b": 366.77860000000004
+      },
+      "content": "Energy recovery system in use (see drawing)",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0628",
+      "reading_order": 954,
+      "section": "Energy recovery system in use (see drawing)",
+      "bbox": {
+        "l": 62.23,
+        "t": 362.88020000000006,
+        "r": 427.45199999999977,
+        "b": 350.7032000000001
+      },
+      "content": "The handle (V1) of BV2 (bypass valve of the HE) is totally turned in clockwise."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0629",
+      "reading_order": 955,
+      "section": "Energy recovery system in use (see drawing)",
+      "bbox": {
+        "l": 62.23000000000002,
+        "t": 349.7891000000001,
+        "r": 165.43310000000005,
+        "b": 335.45610000000005
+      },
+      "content": "Compressor start-up"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0630",
+      "reading_order": 956,
+      "section": "Energy recovery system in use (see drawing)",
+      "bbox": {
+        "l": 62.23000000000002,
+        "t": 329.88020000000006,
+        "r": 536.2365000000001,
+        "b": 277.32330000000013
+      },
+      "content": "When the compressor is started up from cold, the oil temperature will be low. Bypass valve (BV2) shuts off the oil supply from the heat exchanger (HE) and bypass valve (BV1) shuts off the oil supply from the oil cooler (Co) to prevent the compressor oil from being cooled. The oil flows from the oil separator vessel (AR) through the oil filter(s) (OF) back to compressor element (E)."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0631",
+      "reading_order": 957,
+      "section": "Energy recovery system in use (see drawing)",
+      "bbox": {
+        "l": 62.23000000000002,
+        "t": 269.10080000000016,
+        "r": 449.26169999999945,
+        "b": 256.92380000000014
+      },
+      "content": "All energy input is used to rapidly warm up the compressor oil. No energy is recovered."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0632",
+      "reading_order": 958,
+      "section": "Energy recovery system in use (see drawing)",
+      "bbox": {
+        "l": 62.23000000000002,
+        "t": 250.01030000000014,
+        "r": 199.22840000000002,
+        "b": 235.67730000000006
+      },
+      "content": "Maximum energy recovery"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0633",
+      "reading_order": 959,
+      "section": "Energy recovery system in use (see drawing)",
+      "bbox": {
+        "l": 62.23000000000002,
+        "t": 229.08170000000018,
+        "r": 531.0499999999993,
+        "b": 136.92480000000023
+      },
+      "content": "As soon the oil temperature reaches the set point (opening temperature) of bypass valve (BV2), the valve starts closing off the bypass over the heat exchanger (HE) oil line, while gradually allowing the oil to flow through the heat exchanger (HE). As the oil temperature rises to approx. 15 °C  above the set point, all the oil passes through the heat exchanger. The exchange of heat between the compressor oil and the heat recovery water is maximum. The oil from the heat exchanger outlet flows via oil filter (OF), oil stop valve (Vs - if present), compressor element (E) and separator (AR) back to the inlet of heat exchanger (HE). Bypass valve (BV1) bypasses the oil cooler (Co) as long as the oil temperature remains below its set point."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0634",
+      "reading_order": 960,
+      "section": "Energy recovery system in use (see drawing)",
+      "bbox": {
+        "l": 62.23000000000002,
+        "t": 128.70230000000015,
+        "r": 217.47520000000026,
+        "b": 116.52530000000024
+      },
+      "content": "Operation principle at different loads:"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0635",
+      "reading_order": 961,
+      "section": "Energy recovery system in use (see drawing)",
+      "bbox": {
+        "l": 62.23000000000002,
+        "t": 109.61180000000024,
+        "r": 250.93719999999982,
+        "b": 95.27880000000016
+      },
+      "content": "Low consumption of recovered energy"
+    }
+  ]
+}

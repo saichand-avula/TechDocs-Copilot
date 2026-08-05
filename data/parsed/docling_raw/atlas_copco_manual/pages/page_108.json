@@ -1,0 +1,66 @@
+{
+  "page": 108,
+  "document_id": "doc_e02482e6",
+  "page_bbox": {
+    "width": 595.0,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0281",
+      "reading_order": 1203,
+      "section": "Procedure",
+      "bbox": {
+        "l": 26.591245651245117,
+        "t": 815.9948863983154,
+        "r": 73.98344421386719,
+        "b": 792.9308967590332
+      },
+      "image_path": "figures/figure_0281.png",
+      "previous_block_id": "txt_0834",
+      "next_block_id": "txt_0835"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0282",
+      "reading_order": 1204,
+      "section": "Procedure",
+      "bbox": {
+        "l": 93.64225769042969,
+        "t": 760.0719146728516,
+        "r": 472.1939392089844,
+        "b": 479.9243469238281
+      },
+      "image_path": "figures/figure_0282.png",
+      "previous_block_id": "txt_0834",
+      "next_block_id": "txt_0835"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0835",
+      "reading_order": 1205,
+      "section": "Procedure",
+      "bbox": {
+        "l": 169.09,
+        "t": 447.43,
+        "r": 352.08799999999997,
+        "b": 436.35999999999996
+      },
+      "content": "Electric cubicle ,GA 37 + up to GA 75"
+    },
+    {
+      "type": "table",
+      "id": "tbl_0090",
+      "reading_order": 1206,
+      "section": "Procedure",
+      "bbox": {
+        "l": 52.61082458496094,
+        "t": 409.9721374511719,
+        "r": 504.19000244140625,
+        "b": 80.18438720703125
+      },
+      "markdown": "| -   | Consult the sections Electric cable size, Installation proposal and Dimension drawings                                                                                                                                                                                                                       |\n|-----|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| -   | The following transport fixtures, painted red, must be removed: Bolts (1) Bushes (2) Supports (3)                                                                                                                                                                                                            |\n| -   | Check that the electrical connections correspond to the applicable codes and that all wires are clamped tight to their terminals. The installation must be earthed and protected against short circuits by fuses of the inert type in all phases. An isolating switch must be installed near the compressor. |\n| -   | Check transformer (T1) for correct connection. Check the settings of drive motor overload relay (F21). Check that the motor overload relay is set for manual                                                                                                                                                 |\n| -   | On air-cooled compressors, check the setting of circuit breaker (Q15). Also check that the switch on the circuit breaker is in position I.                                                                                                                                                                   |\n|     | Fit air outlet valve (AV); see section Introduction for the location of the valve. Close the valve. Connect the air net to the valve. On compressors equipped with a dryer bypass, fit the air outlet valve to the dryer bypass                                                                              |\n| -   | i Connect the condensate drain outlet(s) to a drain collector. See section Condensate system.                                                                                                                                                                                                                |\n| -   | For compressors with a DD or a DD and PD filter connect the automatic drain of the filters to a suitable drain collector.                                                                                                                                                                                    |\n| -   | On water-cooled compressors, drain valves, shut-off valves and a regulating valve should be fitted by the customer in the cooling water piping.                                                                                                                                                              |"
+    }
+  ]
+}

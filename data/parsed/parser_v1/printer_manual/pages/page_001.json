@@ -1,0 +1,151 @@
+{
+  "page": 1,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0001",
+      "reading_order": 0,
+      "bbox": {
+        "l": 34.441935194844476,
+        "t": 792.0,
+        "r": 100.87838365790913,
+        "b": 727.0519409179688
+      },
+      "image_path": "figures/figure_0001.png",
+      "image_hash": "50a1692c7d5fd1079c3119c585baf2a7f17d5a06b55cafb7506a070667c974a5",
+      "width": 67,
+      "height": 65,
+      "next_block_id": "txt_0001"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0001",
+      "reading_order": 1,
+      "bbox": {
+        "l": 132.08615,
+        "t": 788.35978,
+        "r": 421.86815000000036,
+        "b": 684.4047800000001
+      },
+      "content": "HP LaserJet Pro M501 HP LaserJet Enterprise M506, M507 HP LaserJet Enterprise MFP M527, M528 HP LaserJet Managed E50145, MFP E52645 HP LaserJet Managed E50045, MFP E52545"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0002",
+      "reading_order": 2,
+      "section": "Service Manual: Repair",
+      "bbox": {
+        "l": 132.08615,
+        "t": 661.29648,
+        "r": 282.43415,
+        "b": 638.94148
+      },
+      "content": "Service Manual: Repair",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0002",
+      "reading_order": 3,
+      "section": "Service Manual: Repair",
+      "bbox": {
+        "l": 33.649911499658536,
+        "t": 580.4913024902344,
+        "r": 144.3952818327466,
+        "b": 498.5242919921875
+      },
+      "image_path": "figures/figure_0002.png",
+      "image_hash": "3adf4eadf37517742b83f13e228464bc5471093d65428f87692b25ebb7956bc6",
+      "width": 110,
+      "height": 81,
+      "previous_block_id": "txt_0002"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0003",
+      "reading_order": 4,
+      "section": "Service Manual: Repair",
+      "bbox": {
+        "l": 173.57235769474988,
+        "t": 609.0746154785156,
+        "r": 283.899220056572,
+        "b": 497.8294372558594
+      },
+      "image_path": "figures/figure_0003.png",
+      "image_hash": "f4f56a06b5d022ff9e7d791f3a1c2341c058ad4363659f9262689e5514a5647b",
+      "width": 110,
+      "height": 111,
+      "previous_block_id": "txt_0002"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0004",
+      "reading_order": 5,
+      "section": "Service Manual: Repair",
+      "bbox": {
+        "l": 81.62787106979498,
+        "t": 134.9281005859375,
+        "r": 119.12604955590072,
+        "b": 97.716552734375
+      },
+      "image_path": "figures/figure_0004.png",
+      "width": 37,
+      "height": 37,
+      "image_hash": "eeb65f848ab947e104898f309e969948ad99cafcd38d9a3fa9be6ac322fcba64",
+      "previous_block_id": "txt_0002"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0005",
+      "reading_order": 6,
+      "section": "Service Manual: Repair",
+      "bbox": {
+        "l": 316.2179596604545,
+        "t": 609.0194396972656,
+        "r": 427.8867653670995,
+        "b": 499.6556396484375
+      },
+      "image_path": "figures/figure_0005.png",
+      "image_hash": "6e476ec2900039cd3e77473251f499e6a9d7cdff3cce847d5e9cfc9d64d41ad0",
+      "width": 112,
+      "height": 109,
+      "previous_block_id": "txt_0002"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0006",
+      "reading_order": 7,
+      "section": "Service Manual: Repair",
+      "bbox": {
+        "l": 457.33503009352927,
+        "t": 601.8584747314453,
+        "r": 573.2446067640824,
+        "b": 498.6185607910156
+      },
+      "image_path": "figures/figure_0006.png",
+      "image_hash": "e48b01e9f174ab68577c48259f0edc56942ad3b65b57a82bf1044db4453d5ee9",
+      "width": 116,
+      "height": 103,
+      "previous_block_id": "txt_0002"
+    }
+  ],
+  "page_stats": {
+    "block_count": 8,
+    "text_blocks": 2,
+    "paragraphs": 1,
+    "headings": 1,
+    "list_items": 0,
+    "captions": 0,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 6,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

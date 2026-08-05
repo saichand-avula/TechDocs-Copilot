@@ -1,0 +1,72 @@
+{
+  "page": 12,
+  "document_id": "doc_229deb31",
+  "page_bbox": {
+    "width": 595.219970703125,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0038",
+      "reading_order": 100,
+      "section": "Note: Other designations",
+      "bbox": {
+        "l": 55.998684184412866,
+        "t": 63.24945068359375,
+        "r": 88.14547500131386,
+        "b": 52.35333251953125
+      },
+      "image_path": "figures/figure_0038.png",
+      "next_block_id": "txt_0050",
+      "width": 32,
+      "height": 10,
+      "image_hash": "4932c2d5d0b7074cda725139f9d9564f1f04035ce7b4f980001f49bec2498beb"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0050",
+      "reading_order": 101,
+      "section": "PCB(1)",
+      "bbox": {
+        "l": 277.5663,
+        "t": 787.1667428,
+        "r": 331.54075156000016,
+        "b": 773.315357
+      },
+      "content": "PCB(1)",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0039",
+      "reading_order": 102,
+      "section": "PCB(1)",
+      "bbox": {
+        "l": 9.014519931402589,
+        "t": 734.9972381591797,
+        "r": 557.2079370588064,
+        "b": 61.78021240234375
+      },
+      "image_path": "figures/figure_0039.png",
+      "previous_block_id": "txt_0050",
+      "image_hash": "ed10b5ab5070512e4126aeb2da4781fe9923048711f069a58a3530e61f39a092",
+      "width": 548,
+      "height": 673
+    }
+  ],
+  "page_stats": {
+    "block_count": 3,
+    "text_blocks": 1,
+    "paragraphs": 0,
+    "headings": 1,
+    "list_items": 0,
+    "captions": 0,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 2,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

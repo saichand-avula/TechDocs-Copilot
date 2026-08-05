@@ -1,0 +1,191 @@
+{
+  "page": 636,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_4771",
+      "reading_order": 6619,
+      "section": "13. Remove the right cover.",
+      "bbox": {
+        "l": 113.0,
+        "t": 732.29,
+        "r": 367.89000000000004,
+        "b": 720.7
+      },
+      "content": "Rotate the front of the cover up and away from the printer."
+    },
+    {
+      "type": "figure",
+      "id": "fig_1805",
+      "reading_order": 6620,
+      "section": "13. Remove the right cover.",
+      "bbox": {
+        "l": 119.21492068311592,
+        "t": 710.4676513671875,
+        "r": 132.6938201558878,
+        "b": 698.1741333007812
+      },
+      "image_path": "figures/figure_1805.png",
+      "decorative": true,
+      "width": 13,
+      "height": 12,
+      "image_hash": "111d9a6612656c7b60693e24057e67ae062ec55dd7b00e2263d58eb58c489cfa",
+      "previous_block_id": "txt_4771",
+      "next_block_id": "txt_4772"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_4772",
+      "reading_order": 6621,
+      "section": "13. Remove the right cover.",
+      "bbox": {
+        "l": 135.0,
+        "t": 708.79,
+        "r": 527.6,
+        "b": 685.2
+      },
+      "content": "CAUTION: As the cover is rotated up, carefully pass the cables and wire harnesses the hole in the cover (callout 1).",
+      "severity": "caution"
+    },
+    {
+      "type": "figure",
+      "id": "fig_1806",
+      "reading_order": 6622,
+      "section": "13. Remove the right cover.",
+      "bbox": {
+        "l": 133.68264299128674,
+        "t": 661.9928436279297,
+        "r": 423.74644150184236,
+        "b": 444.56304931640625
+      },
+      "image_path": "figures/figure_1806.png",
+      "caption": "Rotate the front of the cover up",
+      "figure_number": "Figure 1-1062",
+      "image_hash": "89e8feeb579b9609e7c70e678051dc2bfdb40f8d402101159ac4c1eb3eb53c15",
+      "width": 290,
+      "height": 217,
+      "previous_block_id": "txt_4772",
+      "next_block_id": "txt_4773",
+      "caption_id": "txt_4773"
+    },
+    {
+      "type": "caption",
+      "id": "txt_4773",
+      "reading_order": 6623,
+      "section": "13. Remove the right cover.",
+      "bbox": {
+        "l": 135.0,
+        "t": 674.29,
+        "r": 322.7900099999999,
+        "b": 662.7
+      },
+      "content": "Figure 1-1062  Rotate the front of the cover up",
+      "caption_for": "fig_1806"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_4774",
+      "reading_order": 6624,
+      "section": "13. Remove the right cover.",
+      "bbox": {
+        "l": 113.0,
+        "t": 433.42,
+        "r": 208.14000999999993,
+        "b": 421.83
+      },
+      "content": "Remove the cover."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_4775",
+      "reading_order": 6625,
+      "section": "13. Remove the right cover.",
+      "bbox": {
+        "l": 91.0,
+        "t": 171.54999999999995,
+        "r": 356.90000000000015,
+        "b": 159.96000000000004
+      },
+      "content": "Remove the top cover (M501/M506/E50045/M507/E50145)."
+    },
+    {
+      "type": "figure",
+      "id": "fig_1807",
+      "reading_order": 6626,
+      "section": "13. Remove the right cover.",
+      "bbox": {
+        "l": 133.55745778240015,
+        "t": 400.1945495605469,
+        "r": 423.6661875338646,
+        "b": 182.52508544921875
+      },
+      "image_path": "figures/figure_1807.png",
+      "caption": "Remove the cover",
+      "figure_number": "Figure 1-1063",
+      "image_hash": "b7f27bcd4244d4b95392ad8caac479714211ffd62741fd52c2a712c76c047ace",
+      "width": 290,
+      "height": 217,
+      "previous_block_id": "txt_4775",
+      "next_block_id": "txt_4776",
+      "caption_id": "txt_4776"
+    },
+    {
+      "type": "caption",
+      "id": "txt_4776",
+      "reading_order": 6627,
+      "section": "13. Remove the right cover.",
+      "bbox": {
+        "l": 135.00002,
+        "t": 412.42,
+        "r": 269.2600099999999,
+        "b": 400.83
+      },
+      "content": "Figure 1-1063  Remove the cover",
+      "caption_for": "fig_1807"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_4777",
+      "reading_order": 6628,
+      "section": "13. Remove the right cover.",
+      "bbox": {
+        "l": 113.0,
+        "t": 150.54999999999995,
+        "r": 519.2500000000005,
+        "b": 126.96000000000004
+      },
+      "content": "The M506x/E50045x is shown in this procedure. However, the steps are correct for all M506/E50045/ M507/E50145 models and the M501 printer."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_4778",
+      "reading_order": 6629,
+      "section": "13. Remove the right cover.",
+      "bbox": {
+        "l": 113.0,
+        "t": 117.54999999999995,
+        "r": 259.47999999999996,
+        "b": 105.96000000000004
+      },
+      "content": "Remove two screws (callout 1)."
+    }
+  ],
+  "page_stats": {
+    "block_count": 11,
+    "text_blocks": 8,
+    "paragraphs": 1,
+    "headings": 0,
+    "list_items": 4,
+    "captions": 2,
+    "admonitions": 1,
+    "references": 0,
+    "figures": 3,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

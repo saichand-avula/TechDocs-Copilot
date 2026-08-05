@@ -1,0 +1,119 @@
+{
+  "page": 197,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_1765",
+      "reading_order": 2316,
+      "section": "12. Remove the right cover.",
+      "bbox": {
+        "l": 122.0,
+        "t": 732.29,
+        "r": 548.8500000000001,
+        "b": 708.7
+      },
+      "content": "At the front right of the printer, remove one screw (callout 1), and then remove the sheet-metal plate (callout 2)."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1766",
+      "reading_order": 2317,
+      "section": "12. Remove the right cover.",
+      "bbox": {
+        "l": 122.0,
+        "t": 458.42,
+        "r": 388.82000000000005,
+        "b": 446.83
+      },
+      "content": "At the top rear of the printer, remove three screws (callout 1)."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0526",
+      "reading_order": 2318,
+      "section": "12. Remove the right cover.",
+      "bbox": {
+        "l": 143.00686683447861,
+        "t": 686.3665161132812,
+        "r": 432.5321005184986,
+        "b": 469.6184997558594
+      },
+      "image_path": "figures/figure_0526.png",
+      "caption": "Remove one screw and the plate",
+      "figure_number": "Figure 1-274",
+      "image_hash": "86fc06a851addadfd6debfd03a22d4ed7cc455d438625f2dfe5caca9b8319089",
+      "width": 290,
+      "height": 216,
+      "previous_block_id": "txt_1766",
+      "next_block_id": "txt_1767",
+      "caption_id": "txt_1767"
+    },
+    {
+      "type": "caption",
+      "id": "txt_1767",
+      "reading_order": 2319,
+      "section": "12. Remove the right cover.",
+      "bbox": {
+        "l": 144.00001,
+        "t": 699.29,
+        "r": 331.4900099999999,
+        "b": 687.7
+      },
+      "content": "Figure 1-274  Remove one screw and the plate",
+      "caption_for": "fig_0526"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0527",
+      "reading_order": 2320,
+      "section": "12. Remove the right cover.",
+      "bbox": {
+        "l": 142.97546377099206,
+        "t": 425.6249084472656,
+        "r": 432.6889785714479,
+        "b": 207.8193359375
+      },
+      "image_path": "figures/figure_0527.png",
+      "caption": "Remove three screws",
+      "figure_number": "Figure 1-275",
+      "image_hash": "15cbaa497da3659232c5ad1024b085d7540823de84b2b13558a15f804d650d78",
+      "width": 290,
+      "height": 218,
+      "previous_block_id": "txt_1767",
+      "next_block_id": "txt_1768",
+      "caption_id": "txt_1768"
+    },
+    {
+      "type": "caption",
+      "id": "txt_1768",
+      "reading_order": 2321,
+      "section": "12. Remove the right cover.",
+      "bbox": {
+        "l": 144.0,
+        "t": 437.42,
+        "r": 287.20998999999995,
+        "b": 425.83
+      },
+      "content": "Figure 1-275  Remove three screws",
+      "caption_for": "fig_0527"
+    }
+  ],
+  "page_stats": {
+    "block_count": 6,
+    "text_blocks": 4,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 2,
+    "captions": 2,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 2,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

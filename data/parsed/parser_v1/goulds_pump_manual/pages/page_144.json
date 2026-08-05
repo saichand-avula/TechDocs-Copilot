@@ -1,0 +1,106 @@
+{
+  "page": 144,
+  "document_id": "doc_b0587846",
+  "page_bbox": {
+    "width": 612.0,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "paragraph",
+      "id": "txt_1893",
+      "reading_order": 2228,
+      "section": "Table 29: Material-code reference",
+      "bbox": {
+        "l": 451.3663576357822,
+        "t": 721.938309563984,
+        "r": 469.5083424824256,
+        "b": 708.55746516824
+      },
+      "content": "372T"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0237",
+      "reading_order": 2229,
+      "section": "Table 29: Material-code reference",
+      "bbox": {
+        "l": 152.24716186523438,
+        "t": 718.7226867675781,
+        "r": 525.6527709960938,
+        "b": 458.4519958496094
+      },
+      "image_path": "figures/figure_0237.png",
+      "previous_block_id": "txt_1893",
+      "next_block_id": "txt_1894",
+      "caption_id": "txt_1894",
+      "caption": ": MTi bearing-frame exploded view",
+      "figure_number": "Figure 32",
+      "image_hash": "9473d27e5f088265ee29046cb3ec336cec9f19f30ec0e92e210ade067de7093f",
+      "width": 374,
+      "height": 261
+    },
+    {
+      "type": "caption",
+      "id": "txt_1894",
+      "reading_order": 2230,
+      "section": "Table 29: Material-code reference",
+      "bbox": {
+        "l": 144.00288999999998,
+        "t": 440.64323999999993,
+        "r": 331.39189000000005,
+        "b": 430.59923999999995
+      },
+      "content": "Figure 32: MTi bearing-frame exploded view",
+      "caption_for": "fig_0237"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0238",
+      "reading_order": 2231,
+      "section": "Table 29: Material-code reference",
+      "bbox": {
+        "l": 146.66258239746094,
+        "t": 406.4698486328125,
+        "r": 525.95947265625,
+        "b": 131.29217529296875
+      },
+      "image_path": "figures/figure_0238.png",
+      "previous_block_id": "txt_1894",
+      "next_block_id": "txt_1895",
+      "caption_id": "txt_1895",
+      "caption": ": LTi bearing-frame exploded view",
+      "figure_number": "Figure 33",
+      "image_hash": "cfff569df00e4312e8c2901117366bbbc32046764b35fd9590749607dcc73e07",
+      "width": 379,
+      "height": 275
+    },
+    {
+      "type": "caption",
+      "id": "txt_1895",
+      "reading_order": 2232,
+      "section": "Table 29: Material-code reference",
+      "bbox": {
+        "l": 144.0,
+        "t": 126.33425,
+        "r": 328.725,
+        "b": 116.29025000000001
+      },
+      "content": "Figure 33: LTi bearing-frame exploded view",
+      "caption_for": "fig_0238"
+    }
+  ],
+  "page_stats": {
+    "block_count": 5,
+    "text_blocks": 3,
+    "paragraphs": 1,
+    "headings": 0,
+    "list_items": 0,
+    "captions": 2,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 2,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

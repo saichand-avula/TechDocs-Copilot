@@ -1,0 +1,132 @@
+{
+  "page": 268,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_2247",
+      "reading_order": 3015,
+      "section": "Post service test",
+      "bbox": {
+        "l": 113.0,
+        "t": 732.29,
+        "r": 265.6299999999999,
+        "b": 720.7
+      },
+      "content": "Remove three screws (callout 1)."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2248",
+      "reading_order": 3016,
+      "section": "Post service test",
+      "bbox": {
+        "l": 135.0,
+        "t": 708.79,
+        "r": 529.5900000000004,
+        "b": 685.2
+      },
+      "content": "TIP: The screwdriver (supplied with the kit) has a reversible shaft. Simply pull the shaft out of the handle, and then reinstall it with the desired end facing out."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2249",
+      "reading_order": 3017,
+      "section": "Post service test",
+      "bbox": {
+        "l": 113.0,
+        "t": 355.10649,
+        "r": 538.2400000000006,
+        "b": 331.51649
+      },
+      "content": "Lift the front of the control panel off of the printer (callout 1), and then slide it toward the front of the printer (callout 2) to remove it."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0740",
+      "reading_order": 3018,
+      "section": "Post service test",
+      "bbox": {
+        "l": 135.90515324891146,
+        "t": 661.9331207275391,
+        "r": 492.5764050785672,
+        "b": 365.8533020019531
+      },
+      "image_path": "figures/figure_0740.png",
+      "caption": "Remove three screws",
+      "figure_number": "Figure 1-402",
+      "image_hash": "00ed6194cbbb1299bae6afa1c42b78b81a16a7a4975d54516fb008a33ee26d47",
+      "width": 357,
+      "height": 296,
+      "previous_block_id": "txt_2249",
+      "next_block_id": "txt_2250",
+      "caption_id": "txt_2250"
+    },
+    {
+      "type": "caption",
+      "id": "txt_2250",
+      "reading_order": 3019,
+      "section": "Post service test",
+      "bbox": {
+        "l": 135.0,
+        "t": 674.29,
+        "r": 278.20998999999995,
+        "b": 662.7
+      },
+      "content": "Figure 1-402  Remove three screws",
+      "caption_for": "fig_0740"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0741",
+      "reading_order": 3020,
+      "section": "Post service test",
+      "bbox": {
+        "l": 133.37433170989752,
+        "t": 310.03192138671875,
+        "r": 424.26508772667154,
+        "b": 91.94635009765625
+      },
+      "image_path": "figures/figure_0741.png",
+      "caption": "Remove the control panel",
+      "figure_number": "Figure 1-403",
+      "image_hash": "8d30e2bad9c4025f1f352b0f01d9e0156114e15fcbe5028f581c3b5daa370776",
+      "width": 291,
+      "height": 218,
+      "previous_block_id": "txt_2250",
+      "next_block_id": "txt_2251",
+      "caption_id": "txt_2251"
+    },
+    {
+      "type": "caption",
+      "id": "txt_2251",
+      "reading_order": 3021,
+      "section": "Post service test",
+      "bbox": {
+        "l": 135.00005,
+        "t": 322.10649,
+        "r": 294.67004999999995,
+        "b": 310.51649
+      },
+      "content": "Figure 1-403  Remove the control panel",
+      "caption_for": "fig_0741"
+    }
+  ],
+  "page_stats": {
+    "block_count": 7,
+    "text_blocks": 5,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 3,
+    "captions": 2,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 2,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

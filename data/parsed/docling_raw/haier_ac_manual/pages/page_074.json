@@ -1,0 +1,54 @@
+{
+  "page": 74,
+  "document_id": "doc_229deb31",
+  "page_bbox": {
+    "width": 595.219970703125,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0616",
+      "reading_order": 843,
+      "section": "12",
+      "bbox": {
+        "l": 39.3104,
+        "t": 746.4941284,
+        "r": 59.2706888,
+        "b": 729.872521
+      },
+      "content": "12",
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "id": "fig_0185",
+      "reading_order": 844,
+      "section": "12",
+      "bbox": {
+        "l": 67.32845564942275,
+        "t": 674.8420257568359,
+        "r": 464.3505614161491,
+        "b": 445.646240234375
+      },
+      "image_path": "figures/figure_0185.png",
+      "previous_block_id": "txt_0616",
+      "next_block_id": "txt_0617"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0186",
+      "reading_order": 845,
+      "section": "12",
+      "bbox": {
+        "l": 36.247160222700664,
+        "t": 31.83160400390625,
+        "r": 73.95581331646868,
+        "b": 20.345947265625
+      },
+      "image_path": "figures/figure_0186.png",
+      "previous_block_id": "txt_0616",
+      "next_block_id": "txt_0617"
+    }
+  ]
+}

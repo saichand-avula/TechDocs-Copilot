@@ -1,0 +1,115 @@
+{
+  "page": 56,
+  "document_id": "doc_37f23c38",
+  "page_bbox": {
+    "width": 612.0,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0468",
+      "reading_order": 513,
+      "section": "4.5.2.2",
+      "bbox": {
+        "l": 72.0,
+        "t": 738.12273681,
+        "r": 99.47966758999999,
+        "b": 728.8081107637603
+      },
+      "content": "4.5.2.2",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0469",
+      "reading_order": 514,
+      "section": "A/B VALVE SUBSYSTEM",
+      "bbox": {
+        "l": 72.0,
+        "t": 726.2203900000001,
+        "r": 240.17939999999996,
+        "b": 713.146259338843
+      },
+      "content": "A/B VALVE SUBSYSTEM",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0470",
+      "reading_order": 515,
+      "section": "A/B VALVE SUBSYSTEM",
+      "bbox": {
+        "l": 72.0,
+        "t": 698.10277681,
+        "r": 504.0069677415008,
+        "b": 641.2080647360331
+      },
+      "content": "The A/B valve subsystem includes a motor designed to rotate a cam. When the cam is positioned at top-dead-center (home position), both valves are closed. Clockwise rotation (when viewed from the motor side) from the home position opens the A valve, while the B valve remains closed. Counterclockwise rotation opens the B valve, while the A valve remains closed (see Figure 4-8) .",
+      "hyperlink_hint": true
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0471",
+      "reading_order": 516,
+      "section": "A/B VALVE SUBSYSTEM",
+      "bbox": {
+        "l": 71.99910359909998,
+        "t": 626.1037569219002,
+        "r": 504.0922254270995,
+        "b": 545.2094047519333
+      },
+      "content": "The A/B valve subsystem consists of a stepper motor with attached cam and integral cam flag, A and B rockers and valve pins, and a pin detector assembly. The cam flag passes through  an  interrupter  module  as  it  rotates  with  the  cam.  Valve  home  position  is determined  by  this  cam  flag/interrupter  module  combination  through  predetermined factory calibration data. During operation, if the cam flag passes through the interrupter module at the incorrect time sequence, a motor phase loss is detected. The rocker is the connecting link between the cam and the valve pin."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0026",
+      "reading_order": 517,
+      "section": "A/B VALVE SUBSYSTEM",
+      "bbox": {
+        "l": 109.09174346923828,
+        "t": 467.56024169921875,
+        "r": 465.79034423828125,
+        "b": 252.54547119140625
+      },
+      "image_path": "figures/figure_0026.png",
+      "previous_block_id": "txt_0471",
+      "next_block_id": "txt_0472",
+      "caption_id": "txt_0472",
+      "caption": ". Mechanism Valve Pins and Sensor Locations",
+      "figure_number": "Figure 4-8",
+      "image_hash": "485097323a5dcb89229f157d75518e4718cd7da523868c2a6e823d5216980b0e",
+      "width": 357,
+      "height": 215
+    },
+    {
+      "type": "caption",
+      "id": "txt_0472",
+      "reading_order": 518,
+      "section": "A/B VALVE SUBSYSTEM",
+      "bbox": {
+        "l": 145.55875745409998,
+        "t": 227.59270121080044,
+        "r": 430.2222176604997,
+        "b": 218.37969196080053
+      },
+      "content": "Figure 4-8. Mechanism Valve Pins and Sensor Locations",
+      "caption_for": "fig_0026"
+    }
+  ],
+  "page_stats": {
+    "block_count": 6,
+    "text_blocks": 5,
+    "paragraphs": 2,
+    "headings": 2,
+    "list_items": 0,
+    "captions": 1,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 1,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

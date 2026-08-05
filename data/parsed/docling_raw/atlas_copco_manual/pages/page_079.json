@@ -1,0 +1,147 @@
+{
+  "page": 79,
+  "document_id": "doc_e02482e6",
+  "page_bbox": {
+    "width": 595.0,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0531",
+      "reading_order": 821,
+      "section": "Overflow warning",
+      "bbox": {
+        "l": 57.09,
+        "t": 447.635,
+        "r": 151.60090000000005,
+        "b": 435.359
+      },
+      "content": "Overflow warning",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0532",
+      "reading_order": 822,
+      "section": "Overflow warning",
+      "bbox": {
+        "l": 91.10950000000003,
+        "t": 428.341,
+        "r": 566.7167000000005,
+        "b": 363.36400000000003
+      },
+      "content": "This is a protection alarm, indicating that the water level in the OSCi is too high. The warning LED will light up at the right side of the Elektronikon® Graphic. In this case consult section Maintenance, fault 2. If the problem is not solved in time, water can escape from the OSCi and leak onto the compressor frame and outside of the compressor. To consult the warning, navigate the cursor to the warning symbol as shown here:"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0227",
+      "reading_order": 823,
+      "section": "Overflow warning",
+      "bbox": {
+        "l": 228.35655212402344,
+        "t": 350.88922119140625,
+        "r": 372.97796630859375,
+        "b": 233.76904296875
+      },
+      "image_path": "figures/figure_0227.png",
+      "previous_block_id": "txt_0532",
+      "next_block_id": "txt_0533"
+    },
+    {
+      "type": "table",
+      "id": "tbl_0066",
+      "reading_order": 824,
+      "section": "Overflow warning",
+      "bbox": {
+        "l": 90.08810424804688,
+        "t": 215.185791015625,
+        "r": 566.748291015625,
+        "b": 162.9136962890625
+      },
+      "markdown": "| Reference   | Description       |\n|-------------|-------------------|\n| (1)         | Compressor outlet |\n| (2)         | Warning           |"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0533",
+      "reading_order": 825,
+      "section": "Overflow warning",
+      "bbox": {
+        "l": 90.57,
+        "t": 148.50099999999998,
+        "r": 539.1389999999992,
+        "b": 123.12400000000002
+      },
+      "content": "Press the enter button to go into the submenus. Press the down arrow a few times until you reach the following display:"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0228",
+      "reading_order": 826,
+      "section": "Overflow warning",
+      "bbox": {
+        "l": 519.4669189453125,
+        "t": 815.9620952606201,
+        "r": 567.1188354492188,
+        "b": 792.8846397399902
+      },
+      "image_path": "figures/figure_0228.png",
+      "previous_block_id": "txt_0533",
+      "next_block_id": "txt_0534"
+    },
+    {
+      "type": "table",
+      "id": "tbl_0067",
+      "reading_order": 827,
+      "section": "Overflow warning",
+      "bbox": {
+        "l": 90.1608657836914,
+        "t": 765.1624603271484,
+        "r": 566.5433349609375,
+        "b": 697.0447998046875
+      },
+      "markdown": "| Reference   | Description   | Reference   | Description   |\n|-------------|---------------|-------------|---------------|\n| (1)         | Protections   | (4)         | Low           |\n| (2)         | Service       | (5)         | Reset         |\n| (3)         | Level         |             |               |"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0534",
+      "reading_order": 828,
+      "section": "Overflow warning",
+      "bbox": {
+        "l": 91.11,
+        "t": 683.581,
+        "r": 562.8219000000006,
+        "b": 631.8039999999999
+      },
+      "content": "Once the filter has reached a lifetime below 10%, this warning will remain active until new filters are inserted correctly (sensor arm in tower 1 should rest on the filter edge!). When the new filters are installed correctly and the percentage is above 10% (normally between 90% and 100%), press enter to reset the status."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0535",
+      "reading_order": 829,
+      "section": "Overflow warning",
+      "bbox": {
+        "l": 91.11,
+        "t": 624.8409999999999,
+        "r": 424.8291000000004,
+        "b": 612.6639999999999
+      },
+      "content": "The following display will be shown, and the service warning will disappear."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0229",
+      "reading_order": 830,
+      "section": "Overflow warning",
+      "bbox": {
+        "l": 227.5091552734375,
+        "t": 593.6683349609375,
+        "r": 373.04010009765625,
+        "b": 476.2281799316406
+      },
+      "image_path": "figures/figure_0229.png",
+      "previous_block_id": "txt_0535",
+      "next_block_id": "txt_0536"
+    }
+  ]
+}

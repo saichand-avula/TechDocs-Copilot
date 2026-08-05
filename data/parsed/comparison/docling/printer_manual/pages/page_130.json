@@ -1,0 +1,176 @@
+{
+  "page": 130,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_1226",
+      "reading_order": 1574,
+      "section": "Post service test",
+      "bbox": {
+        "l": 113.0,
+        "t": 732.29,
+        "r": 415.7900000000001,
+        "b": 720.7
+      },
+      "content": "Lift the front of the tray, and then pull it out of the printer to remove it."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1227",
+      "reading_order": 1575,
+      "section": "Post service test",
+      "bbox": {
+        "l": 135.0,
+        "t": 708.79,
+        "r": 537.6900400000002,
+        "b": 685.2
+      },
+      "content": "NOTE: If the tray has Fixed Tray Guides installed and are still required, move the hardware to new tray. If necessary, order new kit: 3GY19-67901 Kit-Fixed Tray Guide. Only one kit required per engine."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1228",
+      "reading_order": 1576,
+      "section": "Post service test",
+      "bbox": {
+        "l": 91.0,
+        "t": 433.42,
+        "r": 262.97999999999996,
+        "b": 421.83
+      },
+      "content": "Remove the cartridge door assembly."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1229",
+      "reading_order": 1577,
+      "section": "Post service test",
+      "bbox": {
+        "l": 113.0,
+        "t": 409.92,
+        "r": 477.43,
+        "b": 398.33
+      },
+      "content": "NOTE: If the toner cartridge was not removed prior to servicing the printer, remove it now."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1230",
+      "reading_order": 1578,
+      "section": "Post service test",
+      "bbox": {
+        "l": 113.0,
+        "t": 387.42,
+        "r": 512.1700000000005,
+        "b": 375.83
+      },
+      "content": "Release the support shaft (callout 1), and then slide it toward the center of the door (callout 2)."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1231",
+      "reading_order": 1579,
+      "section": "Post service test",
+      "bbox": {
+        "l": 135.0,
+        "t": 363.92,
+        "r": 500.31,
+        "b": 352.33
+      },
+      "content": "TIP: It might be easier to release the support shaft by using a small flat-blade screwdriver ."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0328",
+      "reading_order": 1580,
+      "section": "Post service test",
+      "bbox": {
+        "l": 119.01027458993359,
+        "t": 710.3077011108398,
+        "r": 131.46644689989972,
+        "b": 697.9665603637695
+      },
+      "image_path": "figures/figure_0328.png",
+      "decorative": true,
+      "width": 12,
+      "height": 12,
+      "image_hash": "159a5d381c9808a3a15aed7c6aefb573e56eaf276b9dc157b58556572414e985",
+      "previous_block_id": "txt_1231",
+      "next_block_id": "txt_1232"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0329",
+      "reading_order": 1581,
+      "section": "Post service test",
+      "bbox": {
+        "l": 133.52843396995968,
+        "t": 662.0270233154297,
+        "r": 424.0019974667673,
+        "b": 444.4527282714844
+      },
+      "image_path": "figures/figure_0329.png",
+      "caption": "Release and remove the tray",
+      "figure_number": "Figure 1-159",
+      "image_hash": "5d153ebc41cded30c1871322d3c792d5a3463fe70da7e4f32fe3b64c7385f623",
+      "width": 290,
+      "height": 218,
+      "previous_block_id": "txt_1231",
+      "next_block_id": "txt_1232",
+      "caption_id": "txt_1232"
+    },
+    {
+      "type": "caption",
+      "id": "txt_1232",
+      "reading_order": 1582,
+      "section": "Post service test",
+      "bbox": {
+        "l": 135.0,
+        "t": 674.29,
+        "r": 306.6599899999999,
+        "b": 662.7
+      },
+      "content": "Figure 1-159  Release and remove the tray",
+      "caption_for": "fig_0329"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0330",
+      "reading_order": 1583,
+      "section": "Post service test",
+      "bbox": {
+        "l": 97.11265456792782,
+        "t": 412.0787353515625,
+        "r": 110.11502513486909,
+        "b": 398.12249755859375
+      },
+      "image_path": "figures/figure_0330.png",
+      "caption": "Release and remove the tray",
+      "decorative": true,
+      "width": 13,
+      "height": 13,
+      "figure_number": "Figure 1-159",
+      "image_hash": "64a5d789e6f8b790cdd9e9c26862a53e85404658cdf4449a425f61ca83134b5e",
+      "previous_block_id": "txt_1232",
+      "next_block_id": "txt_1233"
+    }
+  ],
+  "page_stats": {
+    "block_count": 10,
+    "text_blocks": 7,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 6,
+    "captions": 1,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 3,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

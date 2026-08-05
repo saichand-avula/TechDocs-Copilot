@@ -1,0 +1,207 @@
+{
+  "page": 20,
+  "document_id": "doc_f7e949ab",
+  "page_bbox": {
+    "width": 612.0,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_0209",
+      "reading_order": 241,
+      "section": "3.3.4.2 QRS Volume Control",
+      "bbox": {
+        "l": 150.0,
+        "t": 699.75375,
+        "r": 538.6879500000002,
+        "b": 673.49625
+      },
+      "content": "Set QRS volume to Off and  return to the monitoring  screen. Verify beeping pulse rate tone is no longer audible."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0210",
+      "reading_order": 242,
+      "section": "3.3.4.2 QRS Volume Control",
+      "bbox": {
+        "l": 150.0,
+        "t": 659.25375,
+        "r": 359.8125,
+        "b": 646.49625
+      },
+      "content": "Return QRS volume to a comfortable level."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0211",
+      "reading_order": 243,
+      "section": "3.3.4.3 LED Excitation Test",
+      "bbox": {
+        "l": 72.0,
+        "t": 633.0525,
+        "r": 211.6875,
+        "b": 619.6875
+      },
+      "content": "3.3.4.3 LED Excitation Test",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0212",
+      "reading_order": 244,
+      "section": "3.3.4.3 LED Excitation Test",
+      "bbox": {
+        "l": 149.25,
+        "t": 620.25,
+        "r": 539.0624000000003,
+        "b": 565.49625
+      },
+      "content": "This  procedure  uses  normal  system  components  to  test  circuit  operation.  A Nellcor OXIMAX oxygen transducer, model  MAX-A, is used to examine LED intensity control. The red LED is used to verify intensity modulation caused by the LED intensity control circuit."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0213",
+      "reading_order": 245,
+      "section": "3.3.4.3 LED Excitation Test",
+      "bbox": {
+        "l": 149.25,
+        "t": 551.25375,
+        "r": 361.3125,
+        "b": 538.49625
+      },
+      "content": "Connect the monitor to an AC power source."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0214",
+      "reading_order": 246,
+      "section": "3.3.4.3 LED Excitation Test",
+      "bbox": {
+        "l": 149.25,
+        "t": 524.25375,
+        "r": 403.3125,
+        "b": 511.49625
+      },
+      "content": "Press the Power On/Off switch to turn the monitor on."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0215",
+      "reading_order": 247,
+      "section": "3.3.4.3 LED Excitation Test",
+      "bbox": {
+        "l": 149.25,
+        "t": 497.25375,
+        "r": 400.3125,
+        "b": 484.49625
+      },
+      "content": "Connect DOC-10 pulse oximetry cable to the monitor."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0216",
+      "reading_order": 248,
+      "section": "3.3.4.3 LED Excitation Test",
+      "bbox": {
+        "l": 149.25,
+        "t": 470.25375,
+        "r": 403.3125,
+        "b": 457.49625
+      },
+      "content": "Connect a MAX-A sensor to the pulse oximetry cable."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0217",
+      "reading_order": 249,
+      "section": "3.3.4.3 LED Excitation Test",
+      "bbox": {
+        "l": 149.25,
+        "t": 443.25375,
+        "r": 447.5625,
+        "b": 430.49625
+      },
+      "content": "Leave the sensor open with the LEDs and photo detector visible."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0218",
+      "reading_order": 250,
+      "section": "3.3.4.3 LED Excitation Test",
+      "bbox": {
+        "l": 149.25,
+        "t": 416.25375,
+        "r": 539.0625,
+        "b": 389.99625
+      },
+      "content": "After monitor completes its normal power-up sequence, verify that the sensor LED is brightly lit."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0219",
+      "reading_order": 251,
+      "section": "3.3.4.3 LED Excitation Test",
+      "bbox": {
+        "l": 149.25,
+        "t": 375.75375,
+        "r": 539.0625,
+        "b": 335.99625
+      },
+      "content": "Slowly move sensor LED in proximity of photodetector element of the sensor (close the  sensor  slowly).  Verify;  as  LED  approaches  the  optical sensor,  that the  LED intensity decreases."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0220",
+      "reading_order": 252,
+      "section": "3.3.4.3 LED Excitation Test",
+      "bbox": {
+        "l": 149.25,
+        "t": 321.75375,
+        "r": 429.5625,
+        "b": 308.99625
+      },
+      "content": "Open the sensor and notice that the LED intensity increases."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0221",
+      "reading_order": 253,
+      "section": "3.3.4.3 LED Excitation Test",
+      "bbox": {
+        "l": 149.25,
+        "t": 294.75375,
+        "r": 539.0618999999998,
+        "b": 268.4962499999999
+      },
+      "content": "Repeat step  7 and intensity will  again decrease. This variation is an  indication that the microprocessor is in proper control of LED intensity."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0222",
+      "reading_order": 254,
+      "section": "3.3.4.3 LED Excitation Test",
+      "bbox": {
+        "l": 149.25,
+        "t": 254.25374999999997,
+        "r": 443.8125,
+        "b": 241.49625000000003
+      },
+      "content": "Press the Power On/Off switch to turn the N5500 monitor off."
+    }
+  ],
+  "page_stats": {
+    "block_count": 14,
+    "text_blocks": 14,
+    "paragraphs": 1,
+    "headings": 1,
+    "list_items": 12,
+    "captions": 0,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 0,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

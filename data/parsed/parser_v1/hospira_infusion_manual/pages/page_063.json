@@ -1,0 +1,57 @@
+{
+  "page": 63,
+  "document_id": "doc_37f23c38",
+  "page_bbox": {
+    "width": 612.0,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0028",
+      "reading_order": 588,
+      "section": "CAUTION: Do not place the infuser in service if the self test fails.",
+      "bbox": {
+        "l": 106.31822967529297,
+        "t": 631.6190643310547,
+        "r": 539.0166015625,
+        "b": 189.78369140625
+      },
+      "image_path": "figures/figure_0028.png",
+      "next_block_id": "txt_0539",
+      "caption_id": "txt_0539",
+      "caption": ". Display and Keypad",
+      "figure_number": "Figure 5-1",
+      "image_hash": "31bf03e4c0f23b4a560191fa19864a0df2a773316426d532ff444187e370e38c",
+      "width": 433,
+      "height": 442
+    },
+    {
+      "type": "caption",
+      "id": "txt_0539",
+      "reading_order": 589,
+      "section": "CAUTION: Do not place the infuser in service if the self test fails.",
+      "bbox": {
+        "l": 243.48,
+        "t": 175.45128718,
+        "r": 404.3323686981998,
+        "b": 166.23827792999998
+      },
+      "content": "Figure 5-1. Display and Keypad",
+      "caption_for": "fig_0028"
+    }
+  ],
+  "page_stats": {
+    "block_count": 2,
+    "text_blocks": 1,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 0,
+    "captions": 1,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 1,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

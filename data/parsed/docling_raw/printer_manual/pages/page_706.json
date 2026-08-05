@@ -1,0 +1,248 @@
+{
+  "page": 706,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_5387",
+      "reading_order": 7458,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 113.0,
+        "t": 732.29,
+        "r": 394.8400000000002,
+        "b": 720.7
+      },
+      "content": "M528/E52645 only: Push the TPM onto the formatter to install it."
+    },
+    {
+      "type": "figure",
+      "id": "fig_2022",
+      "reading_order": 7459,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 118.7621842877462,
+        "t": 710.5380554199219,
+        "r": 131.150250536518,
+        "b": 698.2244491577148
+      },
+      "image_path": "figures/figure_2022.png",
+      "decorative": true,
+      "width": 12,
+      "height": 12,
+      "image_hash": "4c5c3f0a43b7ab8dd1a51d94e44a6758c1fa7926301de6ae2ec20eb4ad451298",
+      "previous_block_id": "txt_5387",
+      "next_block_id": "txt_5388"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_5388",
+      "reading_order": 7460,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 135.0,
+        "t": 708.79,
+        "r": 520.3800000000001,
+        "b": 685.2
+      },
+      "content": "IMPORTANT: Press on the TPM at the connector to make sure it is fully seated on the formatter connector.",
+      "severity": "important"
+    },
+    {
+      "type": "figure",
+      "id": "fig_2023",
+      "reading_order": 7461,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 133.53360426550216,
+        "t": 662.5839996337891,
+        "r": 423.81226744745084,
+        "b": 444.3575134277344
+      },
+      "image_path": "figures/figure_2023.png",
+      "caption": "Install the TPM (M528/E52645)",
+      "figure_number": "Figure 1-1173",
+      "image_hash": "bf2970bb7bcaeec3fe03c9873d3231087d54780fd767f309eef392fc1bd67276",
+      "width": 290,
+      "height": 219,
+      "previous_block_id": "txt_5388",
+      "next_block_id": "txt_5389",
+      "caption_id": "txt_5389"
+    },
+    {
+      "type": "caption",
+      "id": "txt_5389",
+      "reading_order": 7462,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 135.0,
+        "t": 674.29,
+        "r": 322.00001000000003,
+        "b": 662.7
+      },
+      "content": "Figure 1-1173  Install the TPM (M528/E52645)",
+      "caption_for": "fig_2023"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_5390",
+      "reading_order": 7463,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 91.0,
+        "t": 433.42,
+        "r": 232.28999999999994,
+        "b": 421.83
+      },
+      "content": "Install the HDD (HDD models)."
+    },
+    {
+      "type": "figure",
+      "id": "fig_2024",
+      "reading_order": 7464,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 112.18513368686521,
+        "t": 411.25042724609375,
+        "r": 131.75743235315846,
+        "b": 389.4930419921875
+      },
+      "image_path": "figures/figure_2024.png",
+      "decorative": true,
+      "width": 19,
+      "height": 21,
+      "image_hash": "8e9c097000c25b80fe2663a9009913ae79ece17748a40632718921eed243f5af",
+      "previous_block_id": "txt_5390",
+      "next_block_id": "txt_5391"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_5391",
+      "reading_order": 7465,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 131.86001,
+        "t": 407.03499,
+        "r": 208.34000999999995,
+        "b": 395.44498999999996
+      },
+      "content": "ESD sensitive part."
+    },
+    {
+      "type": "figure",
+      "id": "fig_2025",
+      "reading_order": 7466,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 111.78712006555558,
+        "t": 377.0476989746094,
+        "r": 120.66447175714195,
+        "b": 368.8031311035156
+      },
+      "image_path": "figures/figure_2025.png",
+      "decorative": true,
+      "width": 8,
+      "height": 8,
+      "image_hash": "4ec565832b4db8c13fd979a4dfa84ad4172dcf84302fa84b32090f65548f851b",
+      "previous_block_id": "txt_5391",
+      "next_block_id": "txt_5392"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_5392",
+      "reading_order": 7467,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 113.00001,
+        "t": 379.42,
+        "r": 535.3400100000003,
+        "b": 355.83
+      },
+      "content": "Before proceeding, take note of the location of the slot (callout 1) in the sheet-metal where the HDD cradle mounting tab (callout 2) must be installed."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_5393",
+      "reading_order": 7468,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 135.0,
+        "t": 343.92,
+        "r": 523.7200000000003,
+        "b": 320.33
+      },
+      "content": "CAUTION: This portion of the sheet-metal is a knock-out plate (callout 1). Do not push on it with sufficient force to detach it when installing the HDD."
+    },
+    {
+      "type": "figure",
+      "id": "fig_2026",
+      "reading_order": 7469,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 119.16708401064115,
+        "t": 346.1044616699219,
+        "r": 132.72551299995047,
+        "b": 333.4660339355469
+      },
+      "image_path": "figures/figure_2026.png",
+      "decorative": true,
+      "width": 13,
+      "height": 12,
+      "image_hash": "8c46ebc1307e9c410a9c2d0e7e1932283021fb8616dc223f7df045c2898f1cb5",
+      "previous_block_id": "txt_5393",
+      "next_block_id": "txt_5394"
+    },
+    {
+      "type": "figure",
+      "id": "fig_2027",
+      "reading_order": 7470,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 133.23021925390705,
+        "t": 295.264404296875,
+        "r": 555.7235580349231,
+        "b": 77.44390869140625
+      },
+      "image_path": "figures/figure_2027.png",
+      "caption": "Locate the slot in the sheet-metal",
+      "figure_number": "Figure 1-1174",
+      "image_hash": "18aa7ac2b904b3acaacbd2786f112e0eb9aa792fd58ab036da40607a8f294c60",
+      "width": 423,
+      "height": 218,
+      "previous_block_id": "txt_5393",
+      "next_block_id": "txt_5394",
+      "caption_id": "txt_5394"
+    },
+    {
+      "type": "caption",
+      "id": "txt_5394",
+      "reading_order": 7471,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 135.0,
+        "t": 309.42,
+        "r": 332.00000999999986,
+        "b": 297.83
+      },
+      "content": "Figure 1-1174  Locate the slot in the sheet-metal",
+      "caption_for": "fig_2027"
+    }
+  ],
+  "page_stats": {
+    "block_count": 14,
+    "text_blocks": 8,
+    "paragraphs": 1,
+    "headings": 0,
+    "list_items": 4,
+    "captions": 2,
+    "admonitions": 1,
+    "references": 0,
+    "figures": 6,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

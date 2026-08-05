@@ -1,0 +1,373 @@
+{
+  "page": 47,
+  "document_id": "doc_b0587846",
+  "page_bbox": {
+    "width": 612.0,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_0650",
+      "reading_order": 749,
+      "section": "WARNING:",
+      "bbox": {
+        "l": 144.0,
+        "t": 743.64184,
+        "r": 477.36000000000035,
+        "b": 732.40184
+      },
+      "content": "Turn the shaft to ensure that there is contact between the impeller and the casing."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0651",
+      "reading_order": 750,
+      "section": "WARNING:",
+      "bbox": {
+        "l": 144.00004,
+        "t": 729.8418399999999,
+        "r": 454.23004000000026,
+        "b": 718.6018399999999
+      },
+      "content": "Set the indicator to zero and loosen the locking bolt (370C) about one turn."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0652",
+      "reading_order": 751,
+      "section": "WARNING:",
+      "bbox": {
+        "l": 144.00004,
+        "t": 716.04184,
+        "r": 488.1600400000003,
+        "b": 704.80184
+      },
+      "content": "Thread in the jack bolts (370D) until the jack bolts evenly contact the bearing frame."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0653",
+      "reading_order": 752,
+      "section": "WARNING:",
+      "bbox": {
+        "l": 144.00008,
+        "t": 702.24184,
+        "r": 549.9600800000003,
+        "b": 679.00184
+      },
+      "content": "Tighten the jack bolts evenly about one flat at a time, moving the bearing housing (134A) away from the bearing frame until the indicator shows the correct clearance."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0654",
+      "reading_order": 753,
+      "section": "WARNING:",
+      "bbox": {
+        "l": 162.00002,
+        "t": 675.72185,
+        "r": 437.92002000000014,
+        "b": 664.48185
+      },
+      "content": "Refer to the impeller clearance table to determine the correct clearance."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0655",
+      "reading_order": 754,
+      "section": "WARNING:",
+      "bbox": {
+        "l": 144.00002,
+        "t": 661.92185,
+        "r": 307.5800199999999,
+        "b": 650.6818499999999
+      },
+      "content": "Tighten the bolts evenly in this order:"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0656",
+      "reading_order": 755,
+      "section": "WARNING:",
+      "bbox": {
+        "l": 162.00002999999998,
+        "t": 646.92185,
+        "r": 304.0700299999998,
+        "b": 635.6818499999999
+      },
+      "content": "Tighten the locking bolts (370C)."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0657",
+      "reading_order": 756,
+      "section": "WARNING:",
+      "bbox": {
+        "l": 162.00002999999998,
+        "t": 633.42185,
+        "r": 292.48002999999983,
+        "b": 622.1818499999999
+      },
+      "content": "Tighten the jack bolts (370D)."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0658",
+      "reading_order": 757,
+      "section": "WARNING:",
+      "bbox": {
+        "l": 162.00002999999998,
+        "t": 618.42184,
+        "r": 397.77003000000013,
+        "b": 607.18184
+      },
+      "content": "Make sure to keep the indicator reading at the proper setting."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0659",
+      "reading_order": 758,
+      "section": "WARNING:",
+      "bbox": {
+        "l": 144.00002,
+        "t": 604.62184,
+        "r": 285.6500199999999,
+        "b": 593.38184
+      },
+      "content": "Make sure the shaft turns freely."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0660",
+      "reading_order": 759,
+      "section": "Set the impeller clearance - feeler gauge method (all except CV 3196)",
+      "bbox": {
+        "l": 54.00604,
+        "t": 585.2167999999999,
+        "r": 511.49803999999966,
+        "b": 569.5928
+      },
+      "content": "Set the impeller clearance - feeler gauge method (all except CV 3196)",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0063",
+      "reading_order": 760,
+      "section": "Set the impeller clearance - feeler gauge method (all except CV 3196)",
+      "bbox": {
+        "l": 70.572265625,
+        "t": 559.2314300537109,
+        "r": 121.09730529785156,
+        "b": 515.5855102539062
+      },
+      "image_path": "figures/figure_0063.png",
+      "previous_block_id": "txt_0660",
+      "next_block_id": "txt_0661",
+      "image_hash": "4540d6eac29586913bfddea94ae8008f2dc78fd5603a45c51fafe3d0683dc794",
+      "width": 50,
+      "height": 43
+    },
+    {
+      "type": "admonition",
+      "id": "txt_0661",
+      "reading_order": 761,
+      "severity": "warning",
+      "content": "WARNING: Always disconnect and lock out power to the driver before you perform any installation or maintenance tasks. Failure to disconnect and lock out driver power will result in serious physical injury.",
+      "section": "WARNING:",
+      "bbox": {
+        "l": 144.0,
+        "t": 555.82183,
+        "r": 197.11,
+        "b": 544.58183
+      }
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0663",
+      "reading_order": 763,
+      "section": "WARNING:",
+      "bbox": {
+        "l": 144.00004,
+        "t": 501.16637,
+        "r": 388.35004000000015,
+        "b": 489.92637
+      },
+      "content": "Lock out the driver power and remove the coupling guard."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0664",
+      "reading_order": 764,
+      "section": "WARNING:",
+      "bbox": {
+        "l": 144.00004,
+        "t": 487.36638,
+        "r": 541.8800400000002,
+        "b": 476.12638
+      },
+      "content": "Loosen the jam nuts (423B) on the jack bolts (371A), and then back the bolts out about two turns."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0665",
+      "reading_order": 765,
+      "section": "WARNING:",
+      "bbox": {
+        "l": 144.00348,
+        "t": 321.20225999999997,
+        "r": 553.7134800000003,
+        "b": 297.96225999999996
+      },
+      "content": "Evenly tighten the locking bolts (370C), bringing the bearing housing (134A) towards the frame (228) until the impeller contacts the casing."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0666",
+      "reading_order": 766,
+      "section": "WARNING:",
+      "bbox": {
+        "l": 144.00344,
+        "t": 295.40227,
+        "r": 477.36344000000037,
+        "b": 284.16227
+      },
+      "content": "Turn the shaft to ensure that there is contact between the impeller and the casing."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0667",
+      "reading_order": 767,
+      "section": "WARNING:",
+      "bbox": {
+        "l": 144.00348,
+        "t": 281.60228,
+        "r": 534.9034800000004,
+        "b": 243.84229000000005
+      },
+      "content": "Use a feeler gauge to set the gap between the three locking bolts (370C) and the bearing housing (134A) to the correct impeller clearance. Refer to the impeller clearance table to determine the correct clearance."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0668",
+      "reading_order": 768,
+      "section": "WARNING:",
+      "bbox": {
+        "l": 144.00339,
+        "t": 241.28230000000008,
+        "r": 533.3733900000004,
+        "b": 218.04233
+      },
+      "content": "Use the three jack bolts (370D) to evenly loosen the bearing housing (134A) until it contacts the locking bolts (370C)."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0669",
+      "reading_order": 769,
+      "section": "WARNING:",
+      "bbox": {
+        "l": 144.00338,
+        "t": 215.48234000000002,
+        "r": 299.15337999999986,
+        "b": 204.24234
+      },
+      "content": "Evenly tighten the jam nuts (423B)."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0670",
+      "reading_order": 770,
+      "section": "WARNING:",
+      "bbox": {
+        "l": 144.00338,
+        "t": 201.68235000000004,
+        "r": 441.07338000000027,
+        "b": 190.44235000000003
+      },
+      "content": "Set the indicator to zero and turn back the locking bolt (370C) one turn."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0671",
+      "reading_order": 771,
+      "section": "WARNING:",
+      "bbox": {
+        "l": 144.00336,
+        "t": 187.88236000000006,
+        "r": 467.52336000000037,
+        "b": 176.64236000000005
+      },
+      "content": "Thread the adjuster bolts (371A) in until they evenly contact the bearing frame."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0672",
+      "reading_order": 772,
+      "section": "WARNING:",
+      "bbox": {
+        "l": 144.00333999999998,
+        "t": 174.08237000000008,
+        "r": 552.4233400000003,
+        "b": 138.84237000000007
+      },
+      "content": "Tighten the adjuster bolts evenly (about one flat at a time) and back the bearing housing (134A) away from the bearing frame until the indicator shows the proper clearance per the Cold temperature axial clearance (open and closed impeller) table."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0673",
+      "reading_order": 773,
+      "section": "WARNING:",
+      "bbox": {
+        "l": 144.00336,
+        "t": 136.2823800000001,
+        "r": 555.4233600000005,
+        "b": 113.0423800000001
+      },
+      "content": "Evenly tighten the locking bolts (370C) and then the adjuster bolts (371A) while keeping the indicator reading at the proper setting."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0674",
+      "reading_order": 774,
+      "section": "WARNING:",
+      "bbox": {
+        "l": 144.00338,
+        "t": 110.48239000000012,
+        "r": 285.64337999999987,
+        "b": 99.24239000000011
+      },
+      "content": "Make sure the shaft turns freely."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0064",
+      "reading_order": 775,
+      "section": "WARNING:",
+      "bbox": {
+        "l": 177.7309112548828,
+        "t": 462.8440856933594,
+        "r": 283.0166320800781,
+        "b": 332.84906005859375
+      },
+      "image_path": "figures/figure_0064.png",
+      "previous_block_id": "txt_0674",
+      "image_hash": "b53b5fa5ffdc41b01c82713db7f0b8cdbee7ff9ae0be4d6033456462852f219d",
+      "width": 105,
+      "height": 130
+    }
+  ],
+  "page_stats": {
+    "block_count": 26,
+    "text_blocks": 24,
+    "paragraphs": 0,
+    "headings": 1,
+    "list_items": 22,
+    "captions": 0,
+    "admonitions": 1,
+    "references": 0,
+    "figures": 2,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

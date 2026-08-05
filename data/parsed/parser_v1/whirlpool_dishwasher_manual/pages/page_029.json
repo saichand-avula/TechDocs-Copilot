@@ -1,0 +1,562 @@
+{
+  "page": 29,
+  "document_id": "doc_16216d0c",
+  "page_bbox": {
+    "width": 612.0,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0379",
+      "reading_order": 434,
+      "section": "For Service Technician Use Only",
+      "bbox": {
+        "l": 184.5444,
+        "t": 730.505,
+        "r": 446.06639999999993,
+        "b": 715.7313010526316
+      },
+      "content": "For Service Technician Use Only",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0380",
+      "reading_order": 435,
+      "section": "DANGER",
+      "bbox": {
+        "l": 149.1818,
+        "t": 700.496944,
+        "r": 241.4506244,
+        "b": 682.9559012833168
+      },
+      "content": "DANGER",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0044",
+      "reading_order": 436,
+      "section": "DANGER",
+      "bbox": {
+        "l": 155.3195343017578,
+        "t": 674.8794021606445,
+        "r": 196.69522094726562,
+        "b": 629.6602935791016
+      },
+      "image_path": "figures/figure_0044.png",
+      "previous_block_id": "txt_0380",
+      "next_block_id": "txt_0381",
+      "width": 41,
+      "height": 45,
+      "image_hash": "ed780dc9f05d730bbe4e5772a6ce386ae3350677da29cad6623f019ae6ed105c"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0381",
+      "reading_order": 437,
+      "section": "Electrical Shock Hazard",
+      "bbox": {
+        "l": 126.1317,
+        "t": 615.3082318,
+        "r": 236.90509379999995,
+        "b": 606.6307174112267
+      },
+      "content": "Electrical Shock Hazard",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0382",
+      "reading_order": 438,
+      "section": "Electrical Shock Hazard",
+      "bbox": {
+        "l": 64.74616169999999,
+        "t": 600.1645768000001,
+        "r": 272.12630429999996,
+        "b": 581.2284574112267
+      },
+      "content": "Only authorized technicians should perform diagnostic voltage measurements."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0383",
+      "reading_order": 439,
+      "section": "Electrical Shock Hazard",
+      "bbox": {
+        "l": 64.74616169999999,
+        "t": 574.7623168000001,
+        "r": 255.84931769999997,
+        "b": 555.8261974112268
+      },
+      "content": "After performing voltage measurements, disconnect power before servicing."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0384",
+      "reading_order": 440,
+      "section": "Electrical Shock Hazard",
+      "bbox": {
+        "l": 64.74616169999999,
+        "t": 549.3600568000002,
+        "r": 289.5170823,
+        "b": 530.4239374112268
+      },
+      "content": "Failure to follow these instructions can result in death or electrical shock."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0385",
+      "reading_order": 441,
+      "section": "Door Switch Circuit",
+      "bbox": {
+        "l": 54.6563,
+        "t": 502.112,
+        "r": 181.36030000000005,
+        "b": 489.9393613445378
+      },
+      "content": "Door Switch Circuit",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0386",
+      "reading_order": 442,
+      "section": "Door Switch Circuit",
+      "bbox": {
+        "l": 54.6563,
+        "t": 472.32,
+        "r": 306.3162999999999,
+        "b": 434.7121008403361
+      },
+      "content": "Perform the following checks if the dishwasher does not detect the door open or closed. This test will check the wiring to the door switch and the door switch itself. The following items are part of the door switch circuit."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0387",
+      "reading_order": 443,
+      "section": "Door Switch Circuit",
+      "bbox": {
+        "l": 54.6563,
+        "t": 430.54,
+        "r": 150.47629999999998,
+        "b": 421.2303225806452
+      },
+      "content": "  Harness/Connection"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0388",
+      "reading_order": 444,
+      "section": "Door Switch Circuit",
+      "bbox": {
+        "l": 54.6563,
+        "t": 417.54,
+        "r": 183.15629999999996,
+        "b": 408.2303225806452
+      },
+      "content": "  Door Switch/Latch Assembly"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0389",
+      "reading_order": 445,
+      "section": "Door Switch Circuit",
+      "bbox": {
+        "l": 54.6563,
+        "t": 404.54,
+        "r": 124.02629999999999,
+        "b": 395.2303225806452
+      },
+      "content": "  Control Board"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0390",
+      "reading_order": 446,
+      "section": "Test Procedure",
+      "bbox": {
+        "l": 54.6563,
+        "t": 373.584,
+        "r": 128.19230000000002,
+        "b": 364.4545210084034
+      },
+      "content": "Test Procedure",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0391",
+      "reading_order": 447,
+      "section": "Test Procedure",
+      "bbox": {
+        "l": 60.6563,
+        "t": 359.32,
+        "r": 298.3463,
+        "b": 311.7121008403361
+      },
+      "content": "Check for improper installation of the dishwasher or leveling. Check door latch mechanism for obstructions or binding. Verify door seal is seated properly. Check for interference between dish racks and door. Repair as necessary."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0392",
+      "reading_order": 448,
+      "section": "Test Procedure",
+      "bbox": {
+        "l": 60.6563,
+        "t": 306.32,
+        "r": 239.46629999999996,
+        "b": 298.7121008403361
+      },
+      "content": "Unplug dishwasher or disconnect power."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0393",
+      "reading_order": 449,
+      "section": "Test Procedure",
+      "bbox": {
+        "l": 60.6563,
+        "t": 293.32,
+        "r": 292.5691,
+        "b": 275.7121008403361
+      },
+      "content": "Remove the access panel and the control board cover. Remove or fold back plastic cover over door switch."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0394",
+      "reading_order": 450,
+      "section": "STRIP CIRCUIT - DOOR SWITCH DOOR SWITCH ASSEMBLY",
+      "bbox": {
+        "l": 54.3215807,
+        "t": 250.5136,
+        "r": 206.37229999999994,
+        "b": 240.57337672299366
+      },
+      "content": "STRIP CIRCUIT - DOOR SWITCH DOOR SWITCH ASSEMBLY",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0045",
+      "reading_order": 451,
+      "section": "STRIP CIRCUIT - DOOR SWITCH DOOR SWITCH ASSEMBLY",
+      "bbox": {
+        "l": 52.78947448730469,
+        "t": 225.199951171875,
+        "r": 570.7222290039062,
+        "b": 78.5531005859375
+      },
+      "image_path": "figures/figure_0045.png",
+      "previous_block_id": "txt_0394",
+      "next_block_id": "txt_0395",
+      "caption_id": "txt_0395",
+      "caption": "Door Switch Strip Circuit",
+      "figure_number": "Figure 1",
+      "image_hash": "dc827d170b79c57ec5ce13349b310465b9a6d8ceb9fdf5388636dbe14cc0feaa",
+      "width": 518,
+      "height": 146
+    },
+    {
+      "type": "caption",
+      "id": "txt_0395",
+      "reading_order": 452,
+      "section": "STRIP CIRCUIT - DOOR SWITCH DOOR SWITCH ASSEMBLY",
+      "bbox": {
+        "l": 251.7896,
+        "t": 61.93799999999999,
+        "r": 378.8516,
+        "b": 55.09089075630254
+      },
+      "content": "Figure 1 - Door Switch Strip Circuit",
+      "caption_for": "fig_0045"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0396",
+      "reading_order": 453,
+      "section": "STRIP CIRCUIT - DOOR SWITCH DOOR SWITCH ASSEMBLY",
+      "bbox": {
+        "l": 327.6875,
+        "t": 706.82,
+        "r": 575.4375,
+        "b": 669.2121008403361
+      },
+      "content": "Check door switch contacts and all connections in the door switch circuit. Visually check that the CN6 connector on the control and the door latch terminals are securely installed."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0397",
+      "reading_order": 454,
+      "section": "STRIP CIRCUIT - DOOR SWITCH DOOR SWITCH ASSEMBLY",
+      "bbox": {
+        "l": 335.6875,
+        "t": 665.04,
+        "r": 491.9175000000002,
+        "b": 655.7303225806452
+      },
+      "content": "¾ ¾ If visual check passes, go to step 5."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0398",
+      "reading_order": 455,
+      "section": "STRIP CIRCUIT - DOOR SWITCH DOOR SWITCH ASSEMBLY",
+      "bbox": {
+        "l": 335.6875,
+        "t": 652.04,
+        "r": 555.3575000000002,
+        "b": 633.2121008403361
+      },
+      "content": "¾ ¾ If any of the connectors are not inserted properly, reconnect and retest door latch/switch."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0399",
+      "reading_order": 456,
+      "section": "STRIP CIRCUIT - DOOR SWITCH DOOR SWITCH ASSEMBLY",
+      "bbox": {
+        "l": 327.6875,
+        "t": 627.82,
+        "r": 544.6604,
+        "b": 620.2121008403361
+      },
+      "content": "Disconnect connector CN6 from the control board."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0400",
+      "reading_order": 457,
+      "section": "STRIP CIRCUIT - DOOR SWITCH DOOR SWITCH ASSEMBLY",
+      "bbox": {
+        "l": 327.6875,
+        "t": 614.82,
+        "r": 554.5175,
+        "b": 587.2121008403361
+      },
+      "content": "Using an ohmmeter, measure across CN6, pins 1 and 3 (12V & IS respectively) with the door closed, strike completely in latch mechanism (switch closed)."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0401",
+      "reading_order": 458,
+      "section": "STRIP CIRCUIT - DOOR SWITCH DOOR SWITCH ASSEMBLY",
+      "bbox": {
+        "l": 335.6875,
+        "t": 583.04,
+        "r": 547.0775000000001,
+        "b": 573.7303225806452
+      },
+      "content": "¾ ¾ If 3 ohms or less is measured, proceed to step 7."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0402",
+      "reading_order": 459,
+      "section": "STRIP CIRCUIT - DOOR SWITCH DOOR SWITCH ASSEMBLY",
+      "bbox": {
+        "l": 335.6875,
+        "t": 570.04,
+        "r": 559.1775000000001,
+        "b": 551.2121008403361
+      },
+      "content": "¾ ¾ If high resistance is measured when door is closed, check for loose connections and repair as needed."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0403",
+      "reading_order": 460,
+      "section": "STRIP CIRCUIT - DOOR SWITCH DOOR SWITCH ASSEMBLY",
+      "bbox": {
+        "l": 327.6875,
+        "t": 545.82,
+        "r": 578.9175,
+        "b": 518.2121008403361
+      },
+      "content": "Using an ohmmeter, measure across CN6, pins 1 and 3 (12V & IS respectively) with the door open, strike removed from latch mechanism (switch open)."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0404",
+      "reading_order": 461,
+      "section": "STRIP CIRCUIT - DOOR SWITCH DOOR SWITCH ASSEMBLY",
+      "bbox": {
+        "l": 335.6875,
+        "t": 514.04,
+        "r": 484.2575000000001,
+        "b": 504.7303225806452
+      },
+      "content": "¾ ¾ If reading is infinite, go to step 8."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0405",
+      "reading_order": 462,
+      "section": "STRIP CIRCUIT - DOOR SWITCH DOOR SWITCH ASSEMBLY",
+      "bbox": {
+        "l": 335.6875,
+        "t": 501.04,
+        "r": 576.6674999999999,
+        "b": 482.2121008403361
+      },
+      "content": "¾ ¾ If reading shows continuity, or door switch is damaged, replace door switch and retest."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0406",
+      "reading_order": 463,
+      "section": "STRIP CIRCUIT - DOOR SWITCH DOOR SWITCH ASSEMBLY",
+      "bbox": {
+        "l": 327.6875,
+        "t": 476.82,
+        "r": 556.7275000000001,
+        "b": 449.2121008403361
+      },
+      "content": "Set voltmeter to DC and connect red lead to CN6, pin 1 (12V) and black lead to CN4, pin 2 (DC GND) on the control board."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0407",
+      "reading_order": 464,
+      "section": "STRIP CIRCUIT - DOOR SWITCH DOOR SWITCH ASSEMBLY",
+      "bbox": {
+        "l": 327.6875,
+        "t": 443.82,
+        "r": 575.1075000000003,
+        "b": 416.2121008403361
+      },
+      "content": "Plug in dishwasher or reconnect power and with door open, verify that 12 VDC is present across CN6-1 and CN42."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0408",
+      "reading_order": 465,
+      "section": "STRIP CIRCUIT - DOOR SWITCH DOOR SWITCH ASSEMBLY",
+      "bbox": {
+        "l": 335.6875,
+        "t": 412.04,
+        "r": 576.6875000000001,
+        "b": 402.7303225806452
+      },
+      "content": "¾ ¾ If 12 VDC is not present, replace the control and retest."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0409",
+      "reading_order": 466,
+      "section": "STRIP CIRCUIT - DOOR SWITCH DOOR SWITCH ASSEMBLY",
+      "bbox": {
+        "l": 335.6875,
+        "t": 399.04,
+        "r": 516.3075,
+        "b": 389.7303225806452
+      },
+      "content": "¾ ¾ If 12 VDC is present, proceed to step 10."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0410",
+      "reading_order": 467,
+      "section": "STRIP CIRCUIT - DOOR SWITCH DOOR SWITCH ASSEMBLY",
+      "bbox": {
+        "l": 322.6875,
+        "t": 384.82,
+        "r": 553.3274999999999,
+        "b": 367.2121008403361
+      },
+      "content": "Reconnect CN6 & CN4 to control board and perform Diagnostic Cycle to verify operation."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0411",
+      "reading_order": 468,
+      "section": "STRIP CIRCUIT - DOOR SWITCH DOOR SWITCH ASSEMBLY",
+      "bbox": {
+        "l": 322.6875,
+        "t": 361.82,
+        "r": 506.4975000000002,
+        "b": 354.2121008403361
+      },
+      "content": "Unplug dishwasher or disconnect power."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0412",
+      "reading_order": 469,
+      "section": "STRIP CIRCUIT - DOOR SWITCH DOOR SWITCH ASSEMBLY",
+      "bbox": {
+        "l": 322.6875,
+        "t": 348.82,
+        "r": 473.75750000000033,
+        "b": 341.2121008403361
+      },
+      "content": "Reassemble all parts and panels."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0413",
+      "reading_order": 470,
+      "section": "STRIP CIRCUIT - DOOR SWITCH DOOR SWITCH ASSEMBLY",
+      "bbox": {
+        "l": 322.6875,
+        "t": 335.82,
+        "r": 501.41750000000013,
+        "b": 328.2121008403361
+      },
+      "content": "Plug in dishwasher or reconnect power."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0046",
+      "reading_order": 471,
+      "section": "STRIP CIRCUIT - DOOR SWITCH DOOR SWITCH ASSEMBLY",
+      "bbox": {
+        "l": 545.18603515625,
+        "t": 45.064697265625,
+        "r": 553.8579711914062,
+        "b": 35.63189697265625
+      },
+      "image_path": "figures/figure_0046.png",
+      "previous_block_id": "txt_0413",
+      "next_block_id": "txt_0414",
+      "width": 8,
+      "height": 9,
+      "decorative": true,
+      "image_hash": "1096ac0afdaa8a807e48b33de68bd01cf75763c22aa2468df19b1df392ca6deb"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0414",
+      "reading_order": 472,
+      "section": "STRIP CIRCUIT - DOOR SWITCH DOOR SWITCH ASSEMBLY",
+      "bbox": {
+        "l": 545.1313,
+        "t": 44.86829999999998,
+        "r": 561.3369,
+        "b": 32.765719354838666
+      },
+      "content": "n"
+    }
+  ],
+  "page_stats": {
+    "block_count": 39,
+    "text_blocks": 36,
+    "paragraphs": 5,
+    "headings": 6,
+    "list_items": 24,
+    "captions": 1,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 3,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "page": 40,
+  "document_id": "doc_37f23c38",
+  "page_bbox": {
+    "width": 612.0,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0293",
+      "reading_order": 326,
+      "section": "4.2.2.3",
+      "bbox": {
+        "l": 72.0,
+        "t": 738.12273681,
+        "r": 99.47966758999999,
+        "b": 728.8081107637603
+      },
+      "content": "4.2.2.3",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0294",
+      "reading_order": 327,
+      "section": "SYSTEM POWER",
+      "bbox": {
+        "l": 72.0,
+        "t": 726.2203900000001,
+        "r": 186.578682,
+        "b": 713.146259338843
+      },
+      "content": "SYSTEM POWER",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0295",
+      "reading_order": 328,
+      "section": "SYSTEM POWER",
+      "bbox": {
+        "l": 71.99923547189988,
+        "t": 698.10277681,
+        "r": 504.0777160852001,
+        "b": 581.2083046880331
+      },
+      "content": "Along  with  the  unregulated  VMOT  supply,  a  secondary  switching  regulator  provides system  power.  The  secondary  switching  regulator  includes  IC  U4,  transformer  T1, and transistors Q4 and Q5. The regulator is a triple output, wide supply range, fly-back converter that provides regulated 3.3 V DC , 5 V DC , and 12 V DC  outputs from the five winding transformer T1. The regulator operates over an input range of 4 to 10 V DC  and provides output  current  limit  as  well  as  voltage  overshoot  limit.  Primary  feedback  is  metered through a bias arrangement on transistor Q3. A Schottky rectifier diode CR4 provides feedback in the event of V3_3 or V12_0 failure, and transistor Q10 provides feedback in the event of V5_0 failure. The positive terminal of the battery provides the raw DC voltage, VMOT, for the motors and backlight of the display."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0296",
+      "reading_order": 329,
+      "section": "4.2.2.4 AUXILIARY SUPPLIES",
+      "bbox": {
+        "l": 71.99923547189991,
+        "t": 558.1241364620003,
+        "r": 223.94722199999995,
+        "b": 533.146259338843
+      },
+      "content": "4.2.2.4 AUXILIARY SUPPLIES",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0297",
+      "reading_order": 330,
+      "section": "4.2.2.4 AUXILIARY SUPPLIES",
+      "bbox": {
+        "l": 71.99960251799996,
+        "t": 518.10274681,
+        "r": 504.0309722839991,
+        "b": 437.20767483203275
+      },
+      "content": "The power supply subsystem provides full time 5 V DC  and 2.7 V DC  supplies, which are active when battery or AC voltage is present. The full time 5 V DC  supply (VSC) uses a linear low dropout voltage regulator U6, whose power source is directly from the battery and is backed up by a 0.1 F capacitor. VSC is used for the ON/OFF switch and a power failure alarm latch. The full time 2.7 V DC  supply (V2_7) is derived from VSC and is used to supply the ultra-low current needed to power the real-time clock and non-volatile SRAM during shutdown."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0298",
+      "reading_order": 331,
+      "section": "4.2.2.5 POWER CONTROL",
+      "bbox": {
+        "l": 72.0,
+        "t": 414.123506606,
+        "r": 201.38503980000002,
+        "b": 389.08622933884294
+      },
+      "content": "4.2.2.5 POWER CONTROL",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0299",
+      "reading_order": 332,
+      "section": "4.2.2.5 POWER CONTROL",
+      "bbox": {
+        "l": 71.99999999999997,
+        "t": 374.10274681,
+        "r": 504.08445661930034,
+        "b": 305.20821468803274
+      },
+      "content": "The infuser will operate in one of three modes: normal, standby, or shutdown. During normal operation, the user interface is active and either on battery or AC line power. During standby  mode  the  user  interface  is  inactive  while  the  CPU  is  still  operating, servicing the battery management and waiting for a startup interrupt. Shutdown mode is when  system  power  is  off.  Shutdown  mode  only  occurs  during  battery  operation; otherwise, +BUSS holds the system power on."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0300",
+      "reading_order": 333,
+      "section": "4.2.2.5 POWER CONTROL",
+      "bbox": {
+        "l": 71.99999999999997,
+        "t": 290.1039068739,
+        "r": 504.1637382988996,
+        "b": 221.20937475193273
+      },
+      "content": "The infuser is activated when the ON/OFF key is pressed or the AC line is plugged in. The ON/OFF key activates the STRTUP signal, triggering a three second one-shot circuit (C3, R10, CR1, and Q1) that will temporarily turn the system power on. This three second one-shot period allows the CPU enough time to power up, initialize, and turn on the PWRHLD signal. The CPU monitors the STRTUP signal, via interrupt, to signal a user request for turning off the infuser."
+    },
+    {
+      "type": "caption",
+      "id": "txt_0301",
+      "reading_order": 334,
+      "section": "4.2.2.5 POWER CONTROL",
+      "bbox": {
+        "l": 71.99999999999997,
+        "t": 206.10506693779996,
+        "r": 503.9428252771008,
+        "b": 185.20981500783273
+      },
+      "content": "Figure  4-2 illustrates  the  system  startup/shutdown  sequence  while  battery  powered. System power is always on while AC powered."
+    }
+  ],
+  "page_stats": {
+    "block_count": 9,
+    "text_blocks": 9,
+    "paragraphs": 4,
+    "headings": 4,
+    "list_items": 0,
+    "captions": 1,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 0,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

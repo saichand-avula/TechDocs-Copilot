@@ -1,0 +1,263 @@
+{
+  "page": 26,
+  "document_id": "doc_f7e949ab",
+  "page_bbox": {
+    "width": 612.0,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0327",
+      "reading_order": 361,
+      "section": "3.3.5.2.1 Pressure Sensor Accuracy Test",
+      "bbox": {
+        "l": 146.25,
+        "t": 700.5525,
+        "r": 348.1875,
+        "b": 687.1875
+      },
+      "content": "3.3.5.2.1 Pressure Sensor Accuracy Test",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0328",
+      "reading_order": 362,
+      "section": "3.3.5.2.1 Pressure Sensor Accuracy Test",
+      "bbox": {
+        "l": 148.5,
+        "t": 686.25375,
+        "r": 538.3126999999998,
+        "b": 659.99625
+      },
+      "content": "The pressure sensor accuracy test verifies the pressure accuracy of the N5500 pressure sensor."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0329",
+      "reading_order": 363,
+      "section": "3.3.5.2.1 Pressure Sensor Accuracy Test",
+      "bbox": {
+        "l": 148.5,
+        "t": 645.75375,
+        "r": 411.5625,
+        "b": 632.99625
+      },
+      "content": "Ensure Bio-Tek simulator is in Static pressure test mode."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0330",
+      "reading_order": 364,
+      "section": "3.3.5.2.1 Pressure Sensor Accuracy Test",
+      "bbox": {
+        "l": 148.5,
+        "t": 618.75375,
+        "r": 539.0625,
+        "b": 592.49625
+      },
+      "content": "NIBP Test screen is active on N5500, then select 'Pressure Sensor Accuracy Test' by the knob."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0331",
+      "reading_order": 365,
+      "section": "3.3.5.2.1 Pressure Sensor Accuracy Test",
+      "bbox": {
+        "l": 148.5,
+        "t": 578.25375,
+        "r": 537.9377,
+        "b": 551.99625
+      },
+      "content": "Press Select button on simulator until simulator displays 'Pressure Source  Set Test Pressure'. Adjust pressure on the simulator for 250, 150, 50 and 0 mmHg."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0332",
+      "reading_order": 366,
+      "section": "3.3.5.2.1 Pressure Sensor Accuracy Test",
+      "bbox": {
+        "l": 148.5,
+        "t": 537.75375,
+        "r": 539.0624999999998,
+        "b": 511.49625
+      },
+      "content": "Press Start Pump button on simulator. The simulator will begin to pressurize. Allow 15-20 seconds for pressure to stabilize."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0333",
+      "reading_order": 367,
+      "section": "3.3.5.2.1 Pressure Sensor Accuracy Test",
+      "bbox": {
+        "l": 148.5,
+        "t": 497.25375,
+        "r": 539.0624999999999,
+        "b": 443.99625
+      },
+      "content": "The  current  pressure  in  mmHg  will  be  displayed  on  both  the  simulator  and  N5500 displays. Ensure N5500 pressure sensor accuracy meets the performance standard of ANSI/AAMI SP-10:1992+A1:1996 (within the specification by more than ±3 mmHg or 2 percent of reading, whichever is greater) to successfully complete the test."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0334",
+      "reading_order": 368,
+      "section": "3.3.5.2.2 Over Pressure Test",
+      "bbox": {
+        "l": 147.75,
+        "t": 430.5525,
+        "r": 293.4375,
+        "b": 417.1875
+      },
+      "content": "3.3.5.2.2 Over Pressure Test",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0335",
+      "reading_order": 369,
+      "section": "3.3.5.2.2 Over Pressure Test",
+      "bbox": {
+        "l": 147.75,
+        "t": 416.25375,
+        "r": 512.8125,
+        "b": 403.49625
+      },
+      "content": "The over-pressure test verifies the functionality of the over-pressure relief system."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0336",
+      "reading_order": 370,
+      "section": "3.3.5.2.2 Over Pressure Test",
+      "bbox": {
+        "l": 147.75,
+        "t": 391.50375,
+        "r": 410.0625,
+        "b": 378.74625
+      },
+      "content": "Ensure Bio-Tek simulator is in Pressure relief test mode."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0337",
+      "reading_order": 371,
+      "section": "3.3.5.2.2 Over Pressure Test",
+      "bbox": {
+        "l": 147.75,
+        "t": 364.50375,
+        "r": 539.0625000000003,
+        "b": 338.24625
+      },
+      "content": "Ensure NIBP Test screen is active on N5500, then select 'Over Pressure Test' by the knob."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0338",
+      "reading_order": 372,
+      "section": "3.3.5.2.2 Over Pressure Test",
+      "bbox": {
+        "l": 147.75,
+        "t": 324.00375,
+        "r": 537.7759500000011,
+        "b": 297.74625
+      },
+      "content": "Press  Start  Test  button  on  simulator.  The  simulator  will  pressurize  the  system  until the monitor's over-pressure relief system activates."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0339",
+      "reading_order": 373,
+      "section": "3.3.5.2.2 Over Pressure Test",
+      "bbox": {
+        "l": 147.75,
+        "t": 283.50375,
+        "r": 537.7482000000006,
+        "b": 257.2462499999999
+      },
+      "content": "Ensure  the  monitor  activates  over-pressure  relief  system  at  the  point  of  protection pressure."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0340",
+      "reading_order": 374,
+      "section": "3.3.5.2.2 Over Pressure Test",
+      "bbox": {
+        "l": 148.5,
+        "t": 246.75374999999997,
+        "r": 538.1861499999995,
+        "b": 179.99625000000003
+      },
+      "content": "Note:  The  test  will  have  been  successfully  completed  if  the  simulator  displays  a pressure reading, approximately, of  320±10 mmHg in adult/pediatric mode and 160±5 mmHg in neonatal mode. However, the motor's inflation pressure speed may cause a slight difference between over-pressure relief values in test and the specified relief values."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0341",
+      "reading_order": 375,
+      "section": "3.3.5.2.3 Air Leakage Test",
+      "bbox": {
+        "l": 144.0,
+        "t": 166.5525,
+        "r": 278.8125,
+        "b": 153.1875
+      },
+      "content": "3.3.5.2.3 Air Leakage Test",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0342",
+      "reading_order": 376,
+      "section": "3.3.5.2.3 Air Leakage Test",
+      "bbox": {
+        "l": 147.75,
+        "t": 152.25374999999997,
+        "r": 440.8125,
+        "b": 139.49625000000003
+      },
+      "content": "The air leakage test verifies the integrity of the pneumatic system."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0343",
+      "reading_order": 377,
+      "section": "3.3.5.2.3 Air Leakage Test",
+      "bbox": {
+        "l": 147.75,
+        "t": 127.50374999999997,
+        "r": 373.3125,
+        "b": 114.74625000000003
+      },
+      "content": "Ensure the monitor is set up with Rigid cuff can."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0344",
+      "reading_order": 378,
+      "section": "3.3.5.2.3 Air Leakage Test",
+      "bbox": {
+        "l": 147.75,
+        "t": 100.50374999999997,
+        "r": 538.5625000000003,
+        "b": 74.24625000000003
+      },
+      "content": "Ensure NIBP Test screen is active on N5500, then select 'Air Leakage Test' by the knob."
+    }
+  ],
+  "page_stats": {
+    "block_count": 18,
+    "text_blocks": 18,
+    "paragraphs": 3,
+    "headings": 3,
+    "list_items": 12,
+    "captions": 0,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 0,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

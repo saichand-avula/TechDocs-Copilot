@@ -1,0 +1,105 @@
+{
+  "page": 511,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_1444",
+      "reading_order": 5473,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 142.91428956621084,
+        "t": 719.5236358642578,
+        "r": 432.76188126375763,
+        "b": 502.73016357421875
+      },
+      "image_path": "figures/figure_1444.png",
+      "caption": "Remove two screws",
+      "figure_number": "Figure 1-835",
+      "image_hash": "f13b0102d59d5f19116c2fe1487ef6cdddb115a0bd9342f5d17d0fa65bf8413a",
+      "width": 290,
+      "height": 217,
+      "next_block_id": "txt_3989",
+      "caption_id": "txt_3989"
+    },
+    {
+      "type": "caption",
+      "id": "txt_3989",
+      "reading_order": 5474,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 144.0,
+        "t": 732.29,
+        "r": 281.05998999999997,
+        "b": 720.7
+      },
+      "content": "Figure 1-835  Remove two screws",
+      "caption_for": "fig_1444"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_3990",
+      "reading_order": 5475,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 122.0,
+        "t": 491.41999999999996,
+        "r": 446.54,
+        "b": 479.83000000000004
+      },
+      "content": "Rotate the bottom edge of the assembly away from the printer to release it."
+    },
+    {
+      "type": "figure",
+      "id": "fig_1445",
+      "reading_order": 5476,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 143.00415204802857,
+        "t": 458.08380126953125,
+        "r": 432.60350855309986,
+        "b": 240.59814453125
+      },
+      "image_path": "figures/figure_1445.png",
+      "caption": "Rotate the bottom of the cover",
+      "figure_number": "Figure 1-836",
+      "image_hash": "b1c4f861231c5dd1d59b5b93a387a80fcca40f1b58361ad0e668fb744a48548c",
+      "width": 290,
+      "height": 217,
+      "previous_block_id": "txt_3990",
+      "next_block_id": "txt_3991",
+      "caption_id": "txt_3991"
+    },
+    {
+      "type": "caption",
+      "id": "txt_3991",
+      "reading_order": 5477,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 144.00008,
+        "t": 470.42,
+        "r": 324.0500799999998,
+        "b": 458.83
+      },
+      "content": "Figure 1-836  Rotate the bottom of the cover",
+      "caption_for": "fig_1445"
+    }
+  ],
+  "page_stats": {
+    "block_count": 5,
+    "text_blocks": 3,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 1,
+    "captions": 2,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 2,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

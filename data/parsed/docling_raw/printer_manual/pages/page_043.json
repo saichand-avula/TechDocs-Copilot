@@ -1,0 +1,231 @@
+{
+  "page": 43,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0091",
+      "reading_order": 547,
+      "section": "Post service test",
+      "bbox": {
+        "l": 143.59550269424696,
+        "t": 715.5197601318359,
+        "r": 568.6136081253969,
+        "b": 493.3907165527344
+      },
+      "image_path": "figures/figure_0091.png",
+      "caption": "Release the HDD",
+      "figure_number": "Figure 1-30",
+      "image_hash": "436ec1c18c94c26be9c96e31f1167e6e20fb48e1542ead57163bc15f9951243b",
+      "width": 425,
+      "height": 223,
+      "previous_block_id": "txt_0447",
+      "next_block_id": "txt_0448",
+      "caption_id": "txt_0448"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0448",
+      "reading_order": 548,
+      "section": "Post service test",
+      "bbox": {
+        "l": 144.0,
+        "t": 732.29,
+        "r": 262.4099999999999,
+        "b": 720.7
+      },
+      "content": "Figure 1-30  Release the HDD",
+      "caption_for": "fig_0091"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0449",
+      "reading_order": 549,
+      "section": "Post service test",
+      "bbox": {
+        "l": 122.0,
+        "t": 482.74672,
+        "r": 548.0800000000004,
+        "b": 459.15672
+      },
+      "content": "Rotate the connector end of the HDD out and away from the formatter (callout 1), and then slide it as shown (callout 2) to remove it."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0450",
+      "reading_order": 550,
+      "section": "Post service test",
+      "bbox": {
+        "l": 100.0,
+        "t": 208.87672999999995,
+        "r": 317.97,
+        "b": 197.28673000000003
+      },
+      "content": "Remove the dual in-line memory module (DIMM)."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0092",
+      "reading_order": 551,
+      "section": "Post service test",
+      "bbox": {
+        "l": 142.36652801928557,
+        "t": 439.1385498046875,
+        "r": 432.8374987425173,
+        "b": 219.13604736328125
+      },
+      "image_path": "figures/figure_0092.png",
+      "caption": "Remove the HDD",
+      "figure_number": "Figure 1-31",
+      "image_hash": "02987f758b271d08a61d3a37467dff2f08de01bcee7f9d77b775ed9948553ea5",
+      "width": 291,
+      "height": 220,
+      "previous_block_id": "txt_0450",
+      "next_block_id": "txt_0451",
+      "caption_id": "txt_0451"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0451",
+      "reading_order": 552,
+      "section": "Post service test",
+      "bbox": {
+        "l": 144.00001,
+        "t": 449.74672000000004,
+        "r": 263.7199999999999,
+        "b": 438.15672
+      },
+      "content": "Figure 1-31  Remove the HDD",
+      "caption_for": "fig_0092"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0093",
+      "reading_order": 553,
+      "section": "Post service test",
+      "bbox": {
+        "l": 106.06741580236313,
+        "t": 187.75250244140625,
+        "r": 120.19317415329088,
+        "b": 173.9580078125
+      },
+      "image_path": "figures/figure_0093.png",
+      "caption": "Remove the HDD",
+      "decorative": true,
+      "width": 14,
+      "height": 13,
+      "figure_number": "Figure 1-31",
+      "image_hash": "d2a6e7e6c33eb8a2e44bb2d31540353f1fc06dfb41898c4090e70219947f39b0",
+      "previous_block_id": "txt_0451",
+      "next_block_id": "txt_0452"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0094",
+      "reading_order": 554,
+      "section": "Post service test",
+      "bbox": {
+        "l": 105.87577170608331,
+        "t": 152.1068115234375,
+        "r": 118.24814404891649,
+        "b": 138.42510986328125
+      },
+      "image_path": "figures/figure_0094.png",
+      "decorative": true,
+      "width": 12,
+      "height": 13,
+      "image_hash": "74fa60fa7b4fbeee23edcf31aa53fe971c01ac55eead8aa0021f7a5c7782a955",
+      "previous_block_id": "txt_0451",
+      "next_block_id": "txt_0452"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_0452",
+      "reading_order": 555,
+      "section": "Post service test",
+      "bbox": {
+        "l": 122.0,
+        "t": 179.99172,
+        "r": 159.75,
+        "b": 168.40171999999995
+      },
+      "content": "CAUTION:",
+      "severity": "caution"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0453",
+      "reading_order": 556,
+      "section": "Post service test",
+      "bbox": {
+        "l": 188.61,
+        "t": 179.99172999999996,
+        "r": 265.09,
+        "b": 168.40173000000004
+      },
+      "content": "ESD sensitive part."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0095",
+      "reading_order": 557,
+      "section": "Post service test",
+      "bbox": {
+        "l": 168.89307246111616,
+        "t": 184.30645751953125,
+        "r": 188.97451559966353,
+        "b": 162.5096435546875
+      },
+      "image_path": "figures/figure_0095.png",
+      "decorative": true,
+      "width": 20,
+      "height": 21,
+      "image_hash": "e6846aa5390dcd0aa0e6ba848a80280e1d072eee434832b9112509a97aef2b7d",
+      "previous_block_id": "txt_0453",
+      "next_block_id": "txt_0454"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0454",
+      "reading_order": 558,
+      "section": "Post service test",
+      "bbox": {
+        "l": 122.0,
+        "t": 152.37672999999995,
+        "r": 517.2500000000002,
+        "b": 140.78673000000003
+      },
+      "content": "NOTE: The M506/E50045/M507/E50145 printers use a Slim dual in-line memory module (DIMM)."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0455",
+      "reading_order": 559,
+      "section": "Post service test",
+      "bbox": {
+        "l": 122.0,
+        "t": 129.87672999999995,
+        "r": 536.6899900000005,
+        "b": 106.28673000000003
+      },
+      "content": "M506/E50045/M507/E50145 only: Locate the DIMM component on the formatter, and then pull it straight off of the formatter to remove it."
+    }
+  ],
+  "page_stats": {
+    "block_count": 13,
+    "text_blocks": 8,
+    "paragraphs": 1,
+    "headings": 0,
+    "list_items": 4,
+    "captions": 2,
+    "admonitions": 1,
+    "references": 0,
+    "figures": 5,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

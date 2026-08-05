@@ -1,0 +1,111 @@
+{
+  "page": 55,
+  "document_id": "doc_27a62e0f",
+  "page_bbox": {
+    "width": 594.9600219726562,
+    "height": 842.52001953125
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0613",
+      "reading_order": 782,
+      "section": "Warning Event / Error Codes generated during operations:",
+      "bbox": {
+        "l": 36.0,
+        "t": 788.94601953125,
+        "r": 296.811,
+        "b": 780.7587304760582
+      },
+      "content": "Warning Event / Error Codes generated during operations:",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "table",
+      "id": "tbl_0047",
+      "reading_order": 783,
+      "section": "Warning Event / Error Codes generated during operations:",
+      "bbox": {
+        "l": 35.190010608756964,
+        "t": 768.3157266637979,
+        "r": 558.5925926161664,
+        "b": 556.6872824094085
+      },
+      "markdown": "| Error                                                              | Problem                                                                                  | Solution                                                                                                                                                                                                                                 |\n|--------------------------------------------------------------------|------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| E84: Invalid date Event log only                                   | Invalid date detected at start-up                                                        | Enter correct date and time in settings. For repeated events, download the up to date firmware from merrycheftechnical.com and load on to the oven.                                                                                      |\n| E98: Incomplete cleaning Event log only                            | Cleaning sequence not completed by operator                                              | Complete cleaning process as instructed.                                                                                                                                                                                                 |\n| E99: Air Filter Override Event log only (for display see solution) | Operator selected continue when filter was removed (filter microswitch was open circuit) | Check filter magnet, filter microswitch & connections Operator warning message = ' Air filter removed . Please replace the air filter to continue. (By selecting cancel and overriding the air filter monitoring this will be logged.) ' |",
+      "rows": 4,
+      "cols": 3
+    },
+    {
+      "type": "heading",
+      "id": "txt_0614",
+      "reading_order": 784,
+      "section": "Information Event Codes:",
+      "bbox": {
+        "l": 36.0,
+        "t": 545.34591953125,
+        "r": 151.848,
+        "b": 537.1586304760582
+      },
+      "content": "Information Event Codes:",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "table",
+      "id": "tbl_0048",
+      "reading_order": 785,
+      "section": "Information Event Codes:",
+      "bbox": {
+        "l": 35.282602348529245,
+        "t": 524.7665942137352,
+        "r": 558.4523432510866,
+        "b": 238.4103821202459
+      },
+      "markdown": "| Error                                           | Problem                                                     | Solution                                                          |\n|-------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------------|\n| E81: Firmware updated Event log only            | UI or IO Firmware has been updated                          | Solution not required                                             |\n| E82: menu updated Event log only                | Menu file has been updated                                  | Solution not required                                             |\n| E86: Soft Power On Event log only               | Touch screen on switch used.                                | Solution not required if events correspond with normal operation. |\n| E87: Completed Cleaning Sequence Event log only | Cleaning sequence completed.                                | Solution not required if events correspond with normal operation. |\n| E100: Main Power On Event log only              | IO board supplied with 12V once mains power is switched on. | Solution not required if events correspond with normal operation. |",
+      "rows": 6,
+      "cols": 3
+    },
+    {
+      "type": "heading",
+      "id": "txt_0615",
+      "reading_order": 786,
+      "section": "Error Codes generated during recommission test:",
+      "bbox": {
+        "l": 36.0,
+        "t": 227.22601953125002,
+        "r": 257.45399999999995,
+        "b": 219.03873047605828
+      },
+      "content": "Error Codes generated during recommission test:",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0616",
+      "reading_order": 787,
+      "section": "Error Codes generated during recommission test:",
+      "bbox": {
+        "l": 35.99100000000033,
+        "t": 202.74591953125002,
+        "r": 548.2260000000006,
+        "b": 59.78423441674613
+      },
+      "content": "E89: Recommission Cooling Test Failed User input 'X' (to confirm not working) or timed out E90: Recommission Convection Fan Test Failed User input 'X' (to confirm not working) or timed out E92: Recommission Heater Test Failed <12K cavity temperature rise in 45 seconds E93: Recommission Magnetron Test Failed         <1.25A current draw recorded on either magnetron E94: Recommission Filter In Test Failed No user action registered within 10 seconds. Filter microswitch signal remained open circuit, check filter microswitch & connections E95: Recommission Filter Out Failed No user action registered within 10 seconds. Filter microswitch signal remained closed circuit, check filter microswitch & connections E96: Recommission Door Close Failed No user action registered within 10 seconds. Door switch circuit remained open circuit, check door switches & connections E97: Recommission Door Open Failed No user action registered within 10 seconds. Door switch circuit remained closed circuit, check door switches & connections"
+    }
+  ],
+  "page_stats": {
+    "block_count": 6,
+    "text_blocks": 4,
+    "paragraphs": 1,
+    "headings": 3,
+    "list_items": 0,
+    "captions": 0,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 0,
+    "tables": 2,
+    "toc_tables": 0
+  }
+}

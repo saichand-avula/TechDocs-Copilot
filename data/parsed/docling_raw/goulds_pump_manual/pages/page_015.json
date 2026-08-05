@@ -1,0 +1,105 @@
+{
+  "page": 15,
+  "document_id": "doc_b0587846",
+  "page_bbox": {
+    "width": 612.0,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0214",
+      "reading_order": 241,
+      "section": "Product Description",
+      "bbox": {
+        "l": 54.0,
+        "t": 744.2059399999999,
+        "r": 283.36799999999994,
+        "b": 717.42194
+      },
+      "content": "Product Description",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "id": "txt_0215",
+      "reading_order": 242,
+      "section": "General description 3196",
+      "bbox": {
+        "l": 53.992,
+        "t": 698.27063,
+        "r": 244.29600000000005,
+        "b": 680.41463
+      },
+      "content": "General description 3196",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0216",
+      "reading_order": 243,
+      "section": "General description 3196",
+      "bbox": {
+        "l": 143.99601,
+        "t": 677.12184,
+        "r": 554.8460100000002,
+        "b": 650.88184
+      },
+      "content": "The 3196 is a horizontal overhung, open impeller, centrifugal pump. This pump is ANSI B73.1 compliant. The model is based on 5 power ends and 29 hydraulic sizes."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0020",
+      "reading_order": 244,
+      "section": "General description 3196",
+      "bbox": {
+        "l": 151.9264678955078,
+        "t": 620.9679870605469,
+        "r": 338.9288024902344,
+        "b": 451.7129821777344
+      },
+      "image_path": "figures/figure_0020.png",
+      "previous_block_id": "txt_0216",
+      "next_block_id": "txt_0217"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0217",
+      "reading_order": 245,
+      "section": "General description 3196",
+      "bbox": {
+        "l": 144.0,
+        "t": 426.31739999999996,
+        "r": 231.52499999999998,
+        "b": 416.2734
+      },
+      "content": "Figure 5: 3196 pump"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0218",
+      "reading_order": 246,
+      "section": "General description 3196",
+      "bbox": {
+        "l": 144.00499000000002,
+        "t": 409.60702,
+        "r": 479.95499000000024,
+        "b": 398.36701999999997
+      },
+      "content": "This table shows the number of hydraulic sizes available for each drive-unit size group."
+    },
+    {
+      "type": "table",
+      "id": "tbl_0010",
+      "reading_order": 247,
+      "section": "General description 3196",
+      "bbox": {
+        "l": 142.47296142578125,
+        "t": 390.4666442871094,
+        "r": 558.8709106445312,
+        "b": 284.55206298828125
+      },
+      "markdown": "| Drive-unit size group   |   Number of hydraulic sizes |\n|-------------------------|-----------------------------|\n| STi                     |                           5 |\n| MTi                     |                          15 |\n| LTi                     |                          15 |\n| XLT-i                   |                           5 |\n| i-17                    |                           4 |"
+    }
+  ]
+}

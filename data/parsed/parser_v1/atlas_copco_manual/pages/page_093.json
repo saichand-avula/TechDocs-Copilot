@@ -1,0 +1,100 @@
+{
+  "page": 93,
+  "document_id": "doc_e02482e6",
+  "page_bbox": {
+    "width": 595.0,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0679",
+      "reading_order": 1009,
+      "section": "Data for low temperature rise/high water flow systems",
+      "bbox": {
+        "l": 56.55,
+        "t": 749.5550000000001,
+        "r": 329.5579000000004,
+        "b": 737.279
+      },
+      "content": "Data for low temperature rise/high water flow systems",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "table",
+      "id": "tbl_0079",
+      "reading_order": 1010,
+      "section": "Data for low temperature rise/high water flow systems",
+      "bbox": {
+        "l": 75.32194519042969,
+        "t": 720.9089889526367,
+        "r": 517.7244262695312,
+        "b": 629.3016052246094
+      },
+      "markdown": "| Parameter             | Unit   |   GA37+ |   GA45+ |   GA55 |   GA75 |\n|-----------------------|--------|---------|---------|--------|--------|\n| Recoverable energy    | kW     |    32.5 |    39.6 |   48.4 |     66 |\n| Water flow            | l/min  |    46.6 |    56.7 |   69.3 |   94.5 |\n| Temperature at inlet  | °C     |      50 |      50 |     50 |     50 |\n| Temperature at outlet | °C     |      60 |      60 |     60 |     60 |",
+      "rows": 5,
+      "cols": 6
+    },
+    {
+      "type": "heading",
+      "id": "txt_0680",
+      "reading_order": 1011,
+      "section": "Data for high temperature rise/low water flow systems",
+      "bbox": {
+        "l": 56.55,
+        "t": 607.9553000000001,
+        "r": 329.5579000000005,
+        "b": 595.6793
+      },
+      "content": "Data for high temperature rise/low water flow systems",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "table",
+      "id": "tbl_0080",
+      "reading_order": 1012,
+      "section": "Data for high temperature rise/low water flow systems",
+      "bbox": {
+        "l": 76.66077423095703,
+        "t": 576.7021484375,
+        "r": 515.8233642578125,
+        "b": 492.1068420410156
+      },
+      "markdown": "| Parameter             | Unit   |   GA37+ |   GA45+ |   GA55 |   GA75 |\n|-----------------------|--------|---------|---------|--------|--------|\n| Recoverable energy    | kW     |    32.5 |    39.6 |   48.4 |     66 |\n| Water flow            | l/min  |    46.6 |    56.7 |   69.3 |   94.5 |\n| Temperature at inlet  | °C     |      50 |      50 |     50 |     50 |\n| Temperature at outlet | °C     |      60 |      60 |     60 |     60 |",
+      "rows": 5,
+      "cols": 6
+    },
+    {
+      "type": "figure",
+      "id": "fig_0254",
+      "reading_order": 1013,
+      "section": "Data for high temperature rise/low water flow systems",
+      "bbox": {
+        "l": 519.415771484375,
+        "t": 815.8791999816895,
+        "r": 567.2098388671875,
+        "b": 793.1644630432129
+      },
+      "image_path": "figures/figure_0254.png",
+      "previous_block_id": "txt_0680",
+      "image_hash": "b28a1d23de5124d82d6f84120acacff249829ec0e42f4c826059a188d93e4d2e",
+      "width": 48,
+      "height": 23
+    }
+  ],
+  "page_stats": {
+    "block_count": 5,
+    "text_blocks": 2,
+    "paragraphs": 0,
+    "headings": 2,
+    "list_items": 0,
+    "captions": 0,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 1,
+    "tables": 2,
+    "toc_tables": 0
+  }
+}

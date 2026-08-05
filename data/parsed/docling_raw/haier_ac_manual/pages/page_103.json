@@ -1,0 +1,239 @@
+{
+  "page": 103,
+  "document_id": "doc_229deb31",
+  "page_bbox": {
+    "width": 595.219970703125,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0845",
+      "reading_order": 1133,
+      "section": "5.2 Main functions and control specification of outdoor unit",
+      "bbox": {
+        "l": 56.962,
+        "t": 790.6745416,
+        "r": 494.0547490100005,
+        "b": 774.994954
+      },
+      "content": "5.2 Main functions and control specification of outdoor unit",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0846",
+      "reading_order": 1134,
+      "section": "5.2 Main functions and control specification of outdoor unit",
+      "bbox": {
+        "l": 101.778,
+        "t": 764.9420152,
+        "r": 550.6931540299993,
+        "b": 740.1313826
+      },
+      "content": "Sensor  Code  Definition:  Tai=  Indoor  Ambient  Temperature,  Tao=Outdoor  Ambient  Temperature, Tc1=Indoor Coil, Td= Air Discharge, Te= Outdoor Coil, Ts=Air Intake"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0847",
+      "reading_order": 1135,
+      "section": "5.2.1 Outdoor Unit Operation Frequency and Control",
+      "bbox": {
+        "l": 56.962,
+        "t": 711.8873560000001,
+        "r": 386.05204515999986,
+        "b": 698.9779900000001
+      },
+      "content": "5.2.1 Outdoor Unit Operation Frequency and Control",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "id": "txt_0848",
+      "reading_order": 1136,
+      "section": "Compressor Operation Frequency Range",
+      "bbox": {
+        "l": 92.9798098,
+        "t": 672.56271662,
+        "r": 290.68222702000025,
+        "b": 663.30993942
+      },
+      "content": "Compressor Operation Frequency Range",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "id": "txt_0849",
+      "reading_order": 1137,
+      "section": "Compressor Operation Frequency Range:",
+      "bbox": {
+        "l": 56.961999999999996,
+        "t": 643.06574222,
+        "r": 250.4793195200001,
+        "b": 633.81296502
+      },
+      "content": "Compressor Operation Frequency Range:",
+      "level": 2
+    },
+    {
+      "type": "table",
+      "id": "tbl_0063",
+      "reading_order": 1138,
+      "section": "Compressor Operation Frequency Range:",
+      "bbox": {
+        "l": 50.732936589313404,
+        "t": 632.6065063476562,
+        "r": 524.1608119866678,
+        "b": 550.7427978515625
+      },
+      "markdown": "| Outdoor Temperature   | İ 4      | 4 ī 18   | ı 18    |\n|-----------------------|----------|----------|---------|\n| Heating ˄ Hz ˅        | 20 ī 110 | 20 ī 90  | 20 ī 53 |\n| Defrosting ˄ Hz ˅     | 80       | 80       | 80      |\n| Outdoor Temperature   | İ 23     | 23 ī 32  | ı 32    |\n| Cooling ˄ Hz ˅        | 20 ī 50  | 20 ī 70  | 20 ī 95 |"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0850",
+      "reading_order": 1139,
+      "section": "Compressor Startup",
+      "bbox": {
+        "l": 97.1642,
+        "t": 516.5763152,
+        "r": 195.83362155,
+        "b": 507.323538
+      },
+      "content": "Compressor Startup",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0851",
+      "reading_order": 1140,
+      "section": "Compressor Startup",
+      "bbox": {
+        "l": 119.7777112,
+        "t": 503.6564006,
+        "r": 550.7319041700001,
+        "b": 442.54410539999986
+      },
+      "content": "Regardless of target frequency of indoor unit, each time when compressor is from off to on, it must maintain 60Hz,90Hz for one minute (Frequency will be immediately decreased under the condition that outdoor unit air discharge temperature overheating protection is activated or over current of compressor) then the compressor will operate towards target frequency. This process does not exist in normal operation of unit."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0852",
+      "reading_order": 1141,
+      "section": "Heating",
+      "bbox": {
+        "l": 96.9344691,
+        "t": 422.1800017999999,
+        "r": 136.33132079000004,
+        "b": 412.9272245999999
+      },
+      "content": "Heating",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0853",
+      "reading_order": 1142,
+      "section": "Heating",
+      "bbox": {
+        "l": 110.748288,
+        "t": 406.7420527999999,
+        "r": 526.6820754300002,
+        "b": 397.48927559999987
+      },
+      "content": "When completing compressor startup operation, it will operate as per frequency of indoor unit."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0854",
+      "reading_order": 1143,
+      "section": "Heating",
+      "bbox": {
+        "l": 110.68835820000001,
+        "t": 391.1841973999999,
+        "r": 538.5272004000012,
+        "b": 381.9314201999999
+      },
+      "content": "After 2 minutes, compressor operation frequency will be compensated as per relevant conditions."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0855",
+      "reading_order": 1144,
+      "section": "Cooling & Dehumidification:",
+      "bbox": {
+        "l": 98.905,
+        "t": 347.0527928,
+        "r": 242.52873185999965,
+        "b": 337.356832
+      },
+      "content": "Cooling & Dehumidification:",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0856",
+      "reading_order": 1145,
+      "section": "Cooling & Dehumidification:",
+      "bbox": {
+        "l": 108.2398,
+        "t": 331.57211520000004,
+        "r": 524.1735874300002,
+        "b": 322.319338
+      },
+      "content": "When completing compressor startup operation, it will operate as per frequency of indoor unit."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0857",
+      "reading_order": 1146,
+      "section": "Cooling & Dehumidification:",
+      "bbox": {
+        "l": 110.69692180000001,
+        "t": 316.0142598,
+        "r": 538.5357640000012,
+        "b": 306.7614826
+      },
+      "content": "After 2 minutes, compressor operation frequency will be compensated as per relevant conditions."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0858",
+      "reading_order": 1147,
+      "section": "Compressor Frequency Increase/Decrease Speed",
+      "bbox": {
+        "l": 106.80148480000001,
+        "t": 269.2207872,
+        "r": 344.3991698800001,
+        "b": 259.96801000000005
+      },
+      "content": "Compressor Frequency Increase/Decrease Speed",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0859",
+      "reading_order": 1148,
+      "section": "Compressor Frequency Increase/Decrease Speed",
+      "bbox": {
+        "l": 110.80679310000001,
+        "t": 253.78283820000001,
+        "r": 376.9130840400003,
+        "b": 244.53006099999993
+      },
+      "content": "Rapid Frequency Increase/Decrease Speed 1 ----------1Hz/s"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0860",
+      "reading_order": 1149,
+      "section": "Compressor Frequency Increase/Decrease Speed",
+      "bbox": {
+        "l": 110.68693350000001,
+        "t": 238.22498280000002,
+        "r": 391.78666157000026,
+        "b": 228.97220560000005
+      },
+      "content": "Slow Frequency Increase/Decrease Speed 2 -----------1Hz/10s"
+    }
+  ]
+}

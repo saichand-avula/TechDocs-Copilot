@@ -1,0 +1,119 @@
+{
+  "page": 577,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_4392",
+      "reading_order": 6073,
+      "section": "13. Remove the right cover.",
+      "bbox": {
+        "l": 122.0,
+        "t": 732.29,
+        "r": 335.95000000000005,
+        "b": 720.7
+      },
+      "content": "M507/E50145 only: Disconnect two connectors."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_4393",
+      "reading_order": 6074,
+      "section": "13. Remove the right cover.",
+      "bbox": {
+        "l": 122.0,
+        "t": 470.42,
+        "r": 216.21999999999994,
+        "b": 458.83
+      },
+      "content": "Release one boss."
+    },
+    {
+      "type": "figure",
+      "id": "fig_1640",
+      "reading_order": 6075,
+      "section": "13. Remove the right cover.",
+      "bbox": {
+        "l": 142.98525530414327,
+        "t": 698.6777954101562,
+        "r": 432.26059137027744,
+        "b": 482.02203369140625
+      },
+      "image_path": "figures/figure_1640.png",
+      "caption": "Disconnect two connectors",
+      "figure_number": "Figure 1-958",
+      "image_hash": "13fdf8378d019a418782d6be17a07d9ac9e0937dd18024236f7b1156a38c3500",
+      "width": 289,
+      "height": 217,
+      "previous_block_id": "txt_4393",
+      "next_block_id": "txt_4394",
+      "caption_id": "txt_4394"
+    },
+    {
+      "type": "caption",
+      "id": "txt_4394",
+      "reading_order": 6076,
+      "section": "13. Remove the right cover.",
+      "bbox": {
+        "l": 144.00002,
+        "t": 711.29,
+        "r": 308.44001999999995,
+        "b": 699.7
+      },
+      "content": "Figure 1-958  Disconnect two connectors",
+      "caption_for": "fig_1640"
+    },
+    {
+      "type": "figure",
+      "id": "fig_1641",
+      "reading_order": 6077,
+      "section": "13. Remove the right cover.",
+      "bbox": {
+        "l": 142.91563170782658,
+        "t": 437.222900390625,
+        "r": 432.7080735862537,
+        "b": 219.60589599609375
+      },
+      "image_path": "figures/figure_1641.png",
+      "caption": "Release one boss",
+      "figure_number": "Figure 1-959",
+      "image_hash": "bfdbc2e876b172ce1732d9636a79f70b49511f0062280666fdd86d6063200101",
+      "width": 290,
+      "height": 217,
+      "previous_block_id": "txt_4394",
+      "next_block_id": "txt_4395",
+      "caption_id": "txt_4395"
+    },
+    {
+      "type": "caption",
+      "id": "txt_4395",
+      "reading_order": 6078,
+      "section": "13. Remove the right cover.",
+      "bbox": {
+        "l": 144.0,
+        "t": 449.42,
+        "r": 270.6799899999999,
+        "b": 437.83
+      },
+      "content": "Figure 1-959  Release one boss",
+      "caption_for": "fig_1641"
+    }
+  ],
+  "page_stats": {
+    "block_count": 6,
+    "text_blocks": 4,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 2,
+    "captions": 2,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 2,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

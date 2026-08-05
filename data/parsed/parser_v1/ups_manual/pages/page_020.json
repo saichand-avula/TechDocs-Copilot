@@ -1,0 +1,302 @@
+{
+  "page": 20,
+  "document_id": "doc_1032c87b",
+  "page_bbox": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0149",
+      "reading_order": 181,
+      "section": "2.7 Options",
+      "bbox": {
+        "l": 80.784,
+        "t": 716.9588629101563,
+        "r": 180.40688,
+        "b": 702.6438892084989
+      },
+      "content": "2.7 Options",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0150",
+      "reading_order": 182,
+      "section": "2.7 Options",
+      "bbox": {
+        "l": 77.904,
+        "t": 677.6276629101563,
+        "r": 206.86568,
+        "b": 668.156101363195
+      },
+      "content": "Battery cold start option"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0151",
+      "reading_order": 183,
+      "section": "2.7 Options",
+      "bbox": {
+        "l": 77.904,
+        "t": 662.0276629101563,
+        "r": 378.39567999999997,
+        "b": 652.556101363195
+      },
+      "content": "The UPS can start by using battery directly without input of AC."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0152",
+      "reading_order": 184,
+      "section": "2.7 Options",
+      "bbox": {
+        "l": 77.904,
+        "t": 646.4276629101563,
+        "r": 155.35567999999998,
+        "b": 636.956101363195
+      },
+      "content": "SNMP card"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0153",
+      "reading_order": 185,
+      "section": "2.7 Options",
+      "bbox": {
+        "l": 77.904,
+        "t": 630.8276629101563,
+        "r": 378.51568,
+        "b": 621.356101363195
+      },
+      "content": "Remote management of UPS through network can be realized."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0154",
+      "reading_order": 186,
+      "section": "2.7 Options",
+      "bbox": {
+        "l": 77.904,
+        "t": 615.2276629101563,
+        "r": 485.21567999999996,
+        "b": 605.756101363195
+      },
+      "content": "(3) Undervoltage release of battery (adapted to ABBT4-T6 molded case circuit breaker)"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0155",
+      "reading_order": 187,
+      "section": "2.7 Options",
+      "bbox": {
+        "l": 77.904,
+        "t": 599.6276629101563,
+        "r": 541.6157600000001,
+        "b": 543.326101363195
+      },
+      "content": "Cut the circuit of battery off when the UPS goes wrong or does not work to avoid the irreparable damage to battery caused by deep discharge of battery. Battery switch is only allowed to close after inverter is working normally if it contains undervoltage release, otherwise, battery switch or UPS will be damaged if it is forced to close."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0156",
+      "reading_order": 188,
+      "section": "(4) LBS synchronous controller",
+      "bbox": {
+        "l": 77.904,
+        "t": 537.1976629101563,
+        "r": 230.26568,
+        "b": 527.726101363195
+      },
+      "content": "(4) LBS synchronous controller",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0157",
+      "reading_order": 189,
+      "section": "(4) LBS synchronous controller",
+      "bbox": {
+        "l": 77.904,
+        "t": 521.5976629101563,
+        "r": 541.61856,
+        "b": 496.526101363195
+      },
+      "content": "It can ensure that two independent UPS systems output synchronously, which is most suitable for power distribution system with double bus."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0158",
+      "reading_order": 190,
+      "section": "(5) Lightning protection device",
+      "bbox": {
+        "l": 77.904,
+        "t": 490.39766291015627,
+        "r": 226.78567999999999,
+        "b": 480.92610136319496
+      },
+      "content": "(5) Lightning protection device",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0159",
+      "reading_order": 191,
+      "section": "(5) Lightning protection device",
+      "bbox": {
+        "l": 77.904,
+        "t": 474.7976629101563,
+        "r": 541.4648799999998,
+        "b": 449.72610136319497
+      },
+      "content": "It is used to control overvoltage caused by lightning surge in power distribution to protect UPS or rear-end load."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0160",
+      "reading_order": 192,
+      "section": "(5) Lightning protection device",
+      "bbox": {
+        "l": 77.904,
+        "t": 443.5976629101563,
+        "r": 366.96567999999996,
+        "b": 434.126101363195
+      },
+      "content": "Power distribution cabinet (optional range: 80 ~ 300 kVA)"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0161",
+      "reading_order": 193,
+      "section": "(5) Lightning protection device",
+      "bbox": {
+        "l": 77.904,
+        "t": 427.9976629101563,
+        "r": 179.50567999999998,
+        "b": 418.526101363195
+      },
+      "content": "Provide upper wiring."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0162",
+      "reading_order": 194,
+      "section": "(5) Lightning protection device",
+      "bbox": {
+        "l": 77.904,
+        "t": 412.39766291015627,
+        "r": 418.83567999999997,
+        "b": 402.92610136319496
+      },
+      "content": "Bypass maintenance switch cabinet (optional range: 400 ~ 500 kVA)"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0163",
+      "reading_order": 195,
+      "section": "(5) Lightning protection device",
+      "bbox": {
+        "l": 77.904,
+        "t": 396.77766291015627,
+        "r": 459.51568,
+        "b": 387.30610136319495
+      },
+      "content": "It contains maintenance switch and battery switch and has upper wiring function."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0164",
+      "reading_order": 196,
+      "section": "(5) Lightning protection device",
+      "bbox": {
+        "l": 77.904,
+        "t": 381.1776629101563,
+        "r": 295.20568,
+        "b": 371.706101363195
+      },
+      "content": "Parallel kit (optional range: 80 ~ 500 kVA)"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0165",
+      "reading_order": 197,
+      "section": "(5) Lightning protection device",
+      "bbox": {
+        "l": 77.904,
+        "t": 365.5776629101563,
+        "r": 513.6556800000001,
+        "b": 356.10610136319497
+      },
+      "content": "It needs to be equipped with the parallel kit, when the stand-alone is extended to parallel unit."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0166",
+      "reading_order": 198,
+      "section": "(5) Lightning protection device",
+      "bbox": {
+        "l": 77.904,
+        "t": 349.9776629101563,
+        "r": 374.04568,
+        "b": 340.506101363195
+      },
+      "content": "Battery temperature sensor (optional range: 80 ~ 500 kVA)"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0167",
+      "reading_order": 199,
+      "section": "(5) Lightning protection device",
+      "bbox": {
+        "l": 77.904,
+        "t": 334.3776629101563,
+        "r": 541.3390399999994,
+        "b": 309.306101363195
+      },
+      "content": "It  is  mainly  used  to  collect  the  working  temperature  of  external  battery  pack  and  realize  the temperature compensation function of battery charging voltage."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0168",
+      "reading_order": 200,
+      "section": "(5) Lightning protection device",
+      "bbox": {
+        "l": 77.904,
+        "t": 303.1776629101563,
+        "r": 474.87568,
+        "b": 293.706101363195
+      },
+      "content": "Main power-bypass short connected copper bar (optional range: 400 ~ 500 kVA)"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0169",
+      "reading_order": 201,
+      "section": "(5) Lightning protection device",
+      "bbox": {
+        "l": 77.904,
+        "t": 287.5776629101563,
+        "r": 541.4727199999993,
+        "b": 262.50610136319506
+      },
+      "content": "It is suitable for the common input connection, that is, short connected mains input and bypass input when single circuit mains inputs"
+    }
+  ],
+  "page_stats": {
+    "block_count": 21,
+    "text_blocks": 21,
+    "paragraphs": 10,
+    "headings": 3,
+    "list_items": 8,
+    "captions": 0,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 0,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

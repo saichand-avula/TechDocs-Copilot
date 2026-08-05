@@ -1,0 +1,178 @@
+{
+  "page": 515,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_4007",
+      "reading_order": 5501,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 122.0,
+        "t": 732.29,
+        "r": 529.8200000000004,
+        "b": 696.7
+      },
+      "content": "With the door in the partially closed position, slightly raise the left end (callout 1; raise it over the sheet-metal hinge boss), and then slide the door to the left (callout 2) to release the right hinge (callout 3)."
+    },
+    {
+      "type": "figure",
+      "id": "fig_1454",
+      "reading_order": 5502,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 128.0911132523978,
+        "t": 687.1549758911133,
+        "r": 142.2180841062625,
+        "b": 673.694450378418
+      },
+      "image_path": "figures/figure_1454.png",
+      "decorative": true,
+      "width": 14,
+      "height": 13,
+      "image_hash": "6ddc14fae5c97fc2ddc652822307af1aafa4a823318be6921a15605ea36ce536",
+      "previous_block_id": "txt_4007",
+      "next_block_id": "txt_4008"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_4008",
+      "reading_order": 5503,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 144.0,
+        "t": 684.79,
+        "r": 537.13,
+        "b": 661.2
+      },
+      "content": "CAUTION: The door is still attached to the printer by the left-side retainer arm. Do not attempt to completely remove the door.",
+      "severity": "caution"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_4009",
+      "reading_order": 5504,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 144.0,
+        "t": 651.79,
+        "r": 529.1000000000001,
+        "b": 628.2
+      },
+      "content": "Reinstallation tip: When reinstalling the door, there are two right-side hinge pins (not shown in callout 3)."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_4010",
+      "reading_order": 5505,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 144.0,
+        "t": 618.79,
+        "r": 522.3800000000001,
+        "b": 607.2
+      },
+      "content": "Keep a finger pressed on the left-side retainer arm so that it does not disengage from the door."
+    },
+    {
+      "type": "figure",
+      "id": "fig_1455",
+      "reading_order": 5506,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 142.9833793562031,
+        "t": 584.2903900146484,
+        "r": 432.6662536736359,
+        "b": 366.2992248535156
+      },
+      "image_path": "figures/figure_1455.png",
+      "caption": "Release the door",
+      "figure_number": "Figure 1-842",
+      "image_hash": "654570b14a86312565cab943601c4fe2e70aa8fcd587a7a173e5fdb84e53220a",
+      "width": 290,
+      "height": 218,
+      "previous_block_id": "txt_4010",
+      "next_block_id": "txt_4011",
+      "caption_id": "txt_4011"
+    },
+    {
+      "type": "caption",
+      "id": "txt_4011",
+      "reading_order": 5507,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 144.0,
+        "t": 596.29,
+        "r": 268.6099899999999,
+        "b": 584.7
+      },
+      "content": "Figure 1-842  Release the door",
+      "caption_for": "fig_1455"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_4012",
+      "reading_order": 5508,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 122.0,
+        "t": 355.42,
+        "r": 548.5900100000001,
+        "b": 331.83
+      },
+      "content": "Rotate the door away from the printer until the keyed pin on the left-side retainer arm can disengage from the door."
+    },
+    {
+      "type": "figure",
+      "id": "fig_1456",
+      "reading_order": 5509,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 143.11789854996283,
+        "t": 310.0468444824219,
+        "r": 432.68211534727646,
+        "b": 92.52862548828125
+      },
+      "image_path": "figures/figure_1456.png",
+      "caption": "Release the left-side retainer arm",
+      "figure_number": "Figure 1-843",
+      "image_hash": "b66c09dea59de5ecbed10fe774bdb5dfeea5711b7ba51cece5a7fa31bb67daac",
+      "width": 290,
+      "height": 217,
+      "previous_block_id": "txt_4012",
+      "next_block_id": "txt_4013",
+      "caption_id": "txt_4013"
+    },
+    {
+      "type": "caption",
+      "id": "txt_4013",
+      "reading_order": 5510,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 144.00004,
+        "t": 322.42,
+        "r": 335.31003999999984,
+        "b": 310.83
+      },
+      "content": "Figure 1-843  Release the left-side retainer arm",
+      "caption_for": "fig_1456"
+    }
+  ],
+  "page_stats": {
+    "block_count": 10,
+    "text_blocks": 7,
+    "paragraphs": 1,
+    "headings": 0,
+    "list_items": 3,
+    "captions": 2,
+    "admonitions": 1,
+    "references": 0,
+    "figures": 3,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

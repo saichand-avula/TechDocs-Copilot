@@ -1,0 +1,134 @@
+{
+  "page": 122,
+  "document_id": "doc_e02482e6",
+  "page_bbox": {
+    "width": 595.0,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0318",
+      "reading_order": 1360,
+      "section": "Procedure",
+      "bbox": {
+        "l": 26.58696746826172,
+        "t": 815.9564456939697,
+        "r": 73.92030334472656,
+        "b": 793.0265693664551
+      },
+      "image_path": "figures/figure_0318.png",
+      "previous_block_id": "txt_0946",
+      "next_block_id": "txt_0947"
+    },
+    {
+      "type": "table",
+      "id": "tbl_0098",
+      "reading_order": 1361,
+      "section": "Procedure",
+      "bbox": {
+        "l": 60.720340728759766,
+        "t": 765.9613037109375,
+        "r": 522.60400390625,
+        "b": 354.92962646484375
+      },
+      "markdown": "| -   | Run the compressor until warm. Stop the compressor after 3 minutes of unloaded operation. Close the air outlet valve and switch off the voltage. Wait a few minutes and depressurise by unscrewing oil filler plug (FC) just one turn to permit any pressure in   |\n|-----|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| -   | Loosen the vent plug of the oil cooler and wait for 5 minutes. See section Introduction for the position of the vent plug (VP).                                                                                                                                   |\n| -   | Remove drain plug (DP1) and open drain valve (Dm). Also drain the oil by removing the drain plug:                                                                                                                                                                 |\n| -   | on the check valve (DP2)                                                                                                                                                                                                                                          |\n| -   | on the gear casing (DP3)                                                                                                                                                                                                                                          |\n| -   | Collect the oil in a collector and deliver it to the local collection service. Refit and tighten the drain and vent plugs after draining.                                                                                                                         |\n| -   | Close the drain valve (Dm).                                                                                                                                                                                                                                       |\n| -   | Unscrew the bolts of lid (2) and remove it. Take the filter element out of the oil filter housing (OF). Fit a new oil filter. Oil the new gasket. Install the lid and screw the bolts of lid (2) on the oil filter housing.                                       |\n| -   | Remove filler plug (FC).                                                                                                                                                                                                                                          |\n| -   | Fill the air receiver (AR) with oil until the level reaches the filler neck.                                                                                                                                                                                      |\n| -   | Take care that no dirt drops into the system. Refit and tighten filler plug (FC).                                                                                                                                                                                 |\n| -   | Run the compressor loaded for a few minutes. Stop the compressor and wait a few minutes to allow the oil to settle.                                                                                                                                               |\n| -   | Depressurise the system by unscrewing filler plug (FC) just one turn to permit any pressure in the system to escape. Remove the plug.                                                                                                                             |\n| -   | Fill the air receiver with oil until the level reaches the filler neck.                                                                                                                                                                                           |\n| -   | Tighten the filler plug.                                                                                                                                                                                                                                          |\n| -   | Reset the service warning after carrying out all service actions in the relevant Service Plan: For compressors with Elektronikon® Graphic controller, see section Service menu.                                                                                   |"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0947",
+      "reading_order": 1362,
+      "section": "8.5 Disposal of used material",
+      "bbox": {
+        "l": 28.21,
+        "t": 335.40000000000003,
+        "r": 250.92999999999992,
+        "b": 317.5440000000001
+      },
+      "content": "8.5 Disposal of used material",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0948",
+      "reading_order": 1363,
+      "section": "8.5 Disposal of used material",
+      "bbox": {
+        "l": 62.23,
+        "t": 291.481,
+        "r": 538.6003999999995,
+        "b": 252.904
+      },
+      "content": "Used filters or any other used material (e.g. desiccant, lubricants, cleaning rags, machine parts, etc.) must be disposed of in an environmentally friendly and safe manner, and in line with the local recommendations and environmental legislation."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0949",
+      "reading_order": 1364,
+      "section": "8.6 Storage after installation",
+      "bbox": {
+        "l": 28.21,
+        "t": 227.57999999999993,
+        "r": 242.7092,
+        "b": 209.72399999999993
+      },
+      "content": "8.6 Storage after installation",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "id": "txt_0950",
+      "reading_order": 1365,
+      "section": "Procedure",
+      "bbox": {
+        "l": 28.21,
+        "t": 190.05500000000006,
+        "r": 82.924,
+        "b": 177.779
+      },
+      "content": "Procedure",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0951",
+      "reading_order": 1366,
+      "section": "Procedure",
+      "bbox": {
+        "l": 62.2297,
+        "t": 169.56089999999995,
+        "r": 495.71329999999904,
+        "b": 157.38390000000004
+      },
+      "content": "Run the compressor, e.g. twice a week, until warm. Load and unload the compressor a few times."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0319",
+      "reading_order": 1367,
+      "section": "Procedure",
+      "bbox": {
+        "l": 77.88042449951172,
+        "t": 136.6829833984375,
+        "r": 107.46537780761719,
+        "b": 112.8953857421875
+      },
+      "image_path": "figures/figure_0319.png",
+      "previous_block_id": "txt_0951",
+      "next_block_id": "txt_0952"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0952",
+      "reading_order": 1368,
+      "section": "Procedure",
+      "bbox": {
+        "l": 131.95,
+        "t": 137.29678869999998,
+        "r": 483.53163361999987,
+        "b": 110.92378582000003
+      },
+      "content": "If the compressor is going to be stored w ithout running from time to time, protective measures must be taken. Consult A tlas Copco."
+    }
+  ]
+}

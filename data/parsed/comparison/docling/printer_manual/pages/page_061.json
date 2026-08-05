@@ -1,0 +1,84 @@
+{
+  "page": 61,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_0604",
+      "reading_order": 763,
+      "section": "Post service test",
+      "bbox": {
+        "l": 122.0,
+        "t": 732.29,
+        "r": 274.6299999999999,
+        "b": 720.7
+      },
+      "content": "Remove three screws (callout 1)."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0605",
+      "reading_order": 764,
+      "section": "Post service test",
+      "bbox": {
+        "l": 144.0,
+        "t": 708.79,
+        "r": 538.5900000000004,
+        "b": 685.2
+      },
+      "content": "TIP: The screwdriver (supplied with the kit) has a reversible shaft. Simply pull the shaft out of the handle, and then reinstall it with the desired end facing out."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0149",
+      "reading_order": 765,
+      "section": "Post service test",
+      "bbox": {
+        "l": 144.41349225421476,
+        "t": 660.5391998291016,
+        "r": 501.63189556642493,
+        "b": 365.8864440917969
+      },
+      "image_path": "figures/figure_0149.png",
+      "caption": "Remove three screws",
+      "figure_number": "Figure 1-60",
+      "image_hash": "6f536722f7d38855aa8e8778c036d40be0d3450c025165a9d1556a25c7ab1901",
+      "width": 358,
+      "height": 295,
+      "previous_block_id": "txt_0605",
+      "next_block_id": "txt_0606",
+      "caption_id": "txt_0606"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0606",
+      "reading_order": 766,
+      "section": "Post service test",
+      "bbox": {
+        "l": 144.0,
+        "t": 674.29,
+        "r": 281.8499999999999,
+        "b": 662.7
+      },
+      "content": "Figure 1-60  Remove three screws",
+      "caption_for": "fig_0149"
+    }
+  ],
+  "page_stats": {
+    "block_count": 4,
+    "text_blocks": 3,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 2,
+    "captions": 1,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 1,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

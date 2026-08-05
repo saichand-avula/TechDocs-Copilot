@@ -1,0 +1,88 @@
+{
+  "page": 71,
+  "document_id": "doc_27a62e0f",
+  "page_bbox": {
+    "width": 594.9600219726562,
+    "height": 842.52001953125
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0938",
+      "reading_order": 1174,
+      "section": "View: left hand side - X16",
+      "bbox": {
+        "l": 39.12,
+        "t": 778.84801953125,
+        "r": 183.24,
+        "b": 768.0644393785782
+      },
+      "content": "View: left hand side - X16",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0185",
+      "reading_order": 1175,
+      "section": "View: left hand side - X16",
+      "bbox": {
+        "l": 24.449609104952845,
+        "t": 751.7129034300866,
+        "r": 540.2591687592701,
+        "b": 485.75671350305475
+      },
+      "image_path": "figures/figure_0185.png",
+      "previous_block_id": "txt_0938",
+      "next_block_id": "txt_0939",
+      "image_hash": "78e243940d6b4dd2309eed151ad17004adc820fa729844f56b68eda9a2ad4bae",
+      "width": 516,
+      "height": 266
+    },
+    {
+      "type": "heading",
+      "id": "txt_0939",
+      "reading_order": 1176,
+      "section": "View: right hand side - X16",
+      "bbox": {
+        "l": 39.12,
+        "t": 442.84801953125,
+        "r": 191.28000000000003,
+        "b": 432.06443937857824
+      },
+      "content": "View: right hand side - X16",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0186",
+      "reading_order": 1177,
+      "section": "View: right hand side - X16",
+      "bbox": {
+        "l": 24.775083908427728,
+        "t": 416.9561567227859,
+        "r": 540.4940162600652,
+        "b": 135.62268743976017
+      },
+      "image_path": "figures/figure_0186.png",
+      "previous_block_id": "txt_0939",
+      "image_hash": "9a2c49ed29f97e1f40623976e0497eda78db71cc61e37a880db1db079e1bf26d",
+      "width": 515,
+      "height": 281
+    }
+  ],
+  "page_stats": {
+    "block_count": 4,
+    "text_blocks": 2,
+    "paragraphs": 0,
+    "headings": 2,
+    "list_items": 0,
+    "captions": 0,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 2,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

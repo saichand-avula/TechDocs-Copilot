@@ -1,0 +1,347 @@
+{
+  "page": 16,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0011",
+      "reading_order": 102,
+      "section": "Considerations during removal and replacement",
+      "bbox": {
+        "l": 75.00733813088576,
+        "t": 396.98291015625,
+        "r": 87.82672751561246,
+        "b": 382.7500305175781
+      },
+      "image_path": "figures/figure_0011.png",
+      "width": 12,
+      "height": 14,
+      "image_hash": "e3d43a08b00ca95eef7e2a373c1b2edda3aef2cf917eb864202f2ee9cb2dccf0",
+      "next_block_id": "txt_0087"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_0087",
+      "reading_order": 103,
+      "section": "Considerations during removal and replacement",
+      "bbox": {
+        "l": 91.0,
+        "t": 729.79,
+        "r": 517.24,
+        "b": 706.2
+      },
+      "content": "WARNING! Never operate or service the printer with the protective cover removed from the laser scanner assembly. The reflected beam, although invisible, can cause damage to the eyes.",
+      "severity": "warning"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0088",
+      "reading_order": 104,
+      "section": "Considerations during removal and replacement",
+      "bbox": {
+        "l": 91.0,
+        "t": 696.79,
+        "r": 451.77000000000004,
+        "b": 685.2
+      },
+      "content": "The sheet-metal parts can have sharp edges. Be careful when handling sheet-metal parts."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0089",
+      "reading_order": 105,
+      "section": "Considerations during removal and replacement",
+      "bbox": {
+        "l": 90.99999999999999,
+        "t": 675.79,
+        "r": 537.4399900000002,
+        "b": 616.2
+      },
+      "content": "Turn the printer off, wait five seconds, and then remove the power cord before attempting to service the printer. If this warning is not followed, severe injury can result as well as damage to the printer. The power must be on for certain functional checks during troubleshooting. However, the power cord must be disconnected during parts removal. AC voltage is still present inside the printer when the power switch is in the off position. The power cord must be disconnected before servicing the printer."
+    },
+    {
+      "type": "admonition",
+      "id": "txt_0090",
+      "reading_order": 106,
+      "section": "Considerations during removal and replacement",
+      "bbox": {
+        "l": 91.0,
+        "t": 606.79,
+        "r": 536.9900300000002,
+        "b": 571.2
+      },
+      "content": "CAUTION: Incorrectly routed or loose wire harnesses or flat flexible cables (FFCs) might interfere with other internal components or assemblies and can be damaged, pinched, or frayed. Make sure that wire harnesses are correctly routed and retained when installing assemblies.",
+      "severity": "caution"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0091",
+      "reading_order": 107,
+      "section": "Considerations during removal and replacement",
+      "bbox": {
+        "l": 91.00008,
+        "t": 561.79,
+        "r": 326.51007999999996,
+        "b": 550.2
+      },
+      "content": "Do not bend or fold the FFCs during removal or installation."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0092",
+      "reading_order": 108,
+      "section": "Considerations during removal and replacement",
+      "bbox": {
+        "l": 91.00006,
+        "t": 540.79,
+        "r": 448.92006000000015,
+        "b": 529.2
+      },
+      "content": "Do not expose the toner cartridges or imaging drums to strong light even for a short time."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0093",
+      "reading_order": 109,
+      "section": "Considerations during removal and replacement",
+      "bbox": {
+        "l": 91.0,
+        "t": 519.79,
+        "r": 537.1100000000001,
+        "b": 496.2
+      },
+      "content": "IMPORTANT: When an assembly is removed that includes a rating plate, tag, or a printer code label, make sure to transfer the plate, tag, or code label to the replacement assembly."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0094",
+      "reading_order": 110,
+      "section": "Considerations during removal and replacement",
+      "bbox": {
+        "l": 90.99998,
+        "t": 486.79,
+        "r": 528.3899800000002,
+        "b": 451.2
+      },
+      "content": "Do not replace the formatter, DC controller, memory PCA (island of data), eMMC PCA, or hard-disk drive (HDD) simultaneously during a single printer servicing. Doing so might cause the printer to become unstable or inoperable."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0095",
+      "reading_order": 111,
+      "section": "Considerations during removal and replacement",
+      "bbox": {
+        "l": 91.00008,
+        "t": 441.79,
+        "r": 536.0501200000003,
+        "b": 406.2
+      },
+      "content": "When replacing the formatter, make sure that all accessories installed on the formatter, such as the fax PCA, hard disk drive, trusted platform module, and DIMM, are removed from the defective formatter and installed on the replacement formatter."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0096",
+      "reading_order": 112,
+      "section": "Considerations during removal and replacement",
+      "bbox": {
+        "l": 91.0,
+        "t": 396.79,
+        "r": 535.71,
+        "b": 373.2
+      },
+      "content": "NOTE: During assembly removal and replacement, or if the printer is moved, remove the toner cartridges, the imaging drums, and the toner collection unit."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0097",
+      "reading_order": 113,
+      "section": "Considerations during removal and replacement",
+      "bbox": {
+        "l": 91.0,
+        "t": 363.79,
+        "r": 533.0900500000002,
+        "b": 316.2
+      },
+      "content": "Toner is a non-poisonous substance composed of plastic and a small number of colored components. If toner gets on the skin or clothing, wipe it off with dry tissue paper and wash in cold water . Hot water sets toner and it might be difficult, or impossible, to remove. Toner easily breaks down vinyl materials, so avoid letting toner contact vinyl."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0012",
+      "reading_order": 114,
+      "section": "Considerations during removal and replacement",
+      "bbox": {
+        "l": 75.4228987286603,
+        "t": 306.0055236816406,
+        "r": 85.51868623320264,
+        "b": 294.1009826660156
+      },
+      "image_path": "figures/figure_0012.png",
+      "width": 10,
+      "height": 11,
+      "image_hash": "5de1ce1776dba811425895136adfa25b2fa89c68fcd735c10e89545a2c1b8a5d",
+      "previous_block_id": "txt_0097",
+      "next_block_id": "txt_0098"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0098",
+      "reading_order": 115,
+      "section": "Considerations during removal and replacement",
+      "bbox": {
+        "l": 91.0,
+        "t": 306.79,
+        "r": 538.7300000000002,
+        "b": 271.20000000000005
+      },
+      "content": "TIP: Some figures might show assemblies removed or installed that have not yet been removed or installed at that specific step. However, the procedures are correct for this printer and the target assembly. Always thoroughly read the instructions that accompany each figure."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0099",
+      "reading_order": 116,
+      "section": "Electrostatic discharge",
+      "bbox": {
+        "l": 45.0,
+        "t": 256.80601,
+        "r": 171.56,
+        "b": 240.58001000000002
+      },
+      "content": "Electrostatic discharge",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0100",
+      "reading_order": 117,
+      "section": "Electrostatic discharge",
+      "bbox": {
+        "l": 91.0,
+        "t": 232.28999999999996,
+        "r": 416.90000000000003,
+        "b": 220.70000000000005
+      },
+      "content": "Learn how to protect sensitive parts against damage from electrostatic discharge."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0013",
+      "reading_order": 118,
+      "section": "Electrostatic discharge",
+      "bbox": {
+        "l": 74.92839580130521,
+        "t": 211.22296142578125,
+        "r": 88.96948484337162,
+        "b": 197.41937255859375
+      },
+      "image_path": "figures/figure_0013.png",
+      "width": 14,
+      "height": 13,
+      "image_hash": "5979671065fa1e6101ecd610c34e96460c13c12c8f64a63dbea129dc2d2bec7b",
+      "previous_block_id": "txt_0100",
+      "next_block_id": "txt_0101"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_0101",
+      "reading_order": 119,
+      "severity": "caution",
+      "content": "CAUTION: Some parts are sensitive to electrostatic discharge (ESD). Look for the ESD reminder when",
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 91.0,
+        "t": 203.40499,
+        "r": 128.75,
+        "b": 191.81498999999997
+      }
+    },
+    {
+      "type": "figure",
+      "id": "fig_0014",
+      "reading_order": 121,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 140.28416479924115,
+        "t": 207.8536376953125,
+        "r": 160.4565075290366,
+        "b": 185.92706298828125
+      },
+      "image_path": "figures/figure_0014.png",
+      "width": 20,
+      "height": 21,
+      "image_hash": "847b32faf51e34fc3e766ae462574b0b0cefa179ec8fa65303f3786f5d846ca5",
+      "next_block_id": "txt_0103"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0103",
+      "reading_order": 122,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 91.0,
+        "t": 184.78999999999996,
+        "r": 536.7900800000002,
+        "b": 149.20000000000005
+      },
+      "content": "removing printer parts. Always perform service work at an ESD-protected workstation or mat. If an ESD workstation or mat is not available, touch the sheet-metal chassis to provide a static ground before touching an ESD-sensitive assembly."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0104",
+      "reading_order": 123,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 91.00012,
+        "t": 139.78999999999996,
+        "r": 499.2501200000001,
+        "b": 128.20000000000005
+      },
+      "content": "Protect the ESD-sensitive assemblies by placing them in ESD pouches when they are out of the printer."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0105",
+      "reading_order": 124,
+      "section": "Required tools",
+      "bbox": {
+        "l": 45.0,
+        "t": 113.80597999999998,
+        "r": 126.536,
+        "b": 97.57997999999998
+      },
+      "content": "Required tools",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0106",
+      "reading_order": 125,
+      "section": "Required tools",
+      "bbox": {
+        "l": 90.99600000000001,
+        "t": 89.28999999999996,
+        "r": 428.296,
+        "b": 77.70000000000005
+      },
+      "content": "Find information about the tools required to remove and replace parts on the printer."
+    }
+  ],
+  "page_stats": {
+    "block_count": 23,
+    "text_blocks": 19,
+    "paragraphs": 11,
+    "headings": 2,
+    "list_items": 3,
+    "captions": 0,
+    "admonitions": 3,
+    "references": 0,
+    "figures": 4,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

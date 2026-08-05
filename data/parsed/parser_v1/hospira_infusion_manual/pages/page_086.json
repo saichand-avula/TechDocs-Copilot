@@ -1,0 +1,92 @@
+{
+  "page": 86,
+  "document_id": "doc_37f23c38",
+  "page_bbox": {
+    "width": 612.0,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "table",
+      "id": "tbl_0035",
+      "reading_order": 829,
+      "section": "ERROR CODES REQUIRING TECHNICAL SERVICE",
+      "bbox": {
+        "l": 70.81385803222656,
+        "t": 738.703929901123,
+        "r": 504.8908996582031,
+        "b": 251.47698974609375
+      },
+      "markdown": "| Table 6-3. Error Codes Requiring Technical Service   | Table 6-3. Error Codes Requiring Technical Service   | Table 6-3. Error Codes Requiring Technical Service                | Table 6-3. Error Codes Requiring Technical Service                                                                                                                                            |\n|------------------------------------------------------|------------------------------------------------------|-------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Error Code                                           | Malfunction                                          | Possible Cause                                                    | Corrective Action                                                                                                                                                                             |\n| E451                                                 | Inaccurate delivery                                  | Over/under delivery detected                                      | Turn power off, then on, to reset the infuser Reset time and date, if required (see Section 1.9.2) If error codes recur,                                                                      |\n| E452                                                 | Software failure                                     | Miscellaneous software failures                                   | Turn power off, then on, to reset the infuser Reset time and date, if required (see Section 1.9.2) If error codes recur,                                                                      |\n| E453                                                 | Two SEEP CRC errors                                  | NVRAM data block corrupted                                        | Replace mechanism assembly (see Section 7.2.12.6) Replace CPU PWA (see Section 7.2.12.4) Replace CPU/driver cable (see Section 7.2.12.6) Reset time and date, if required (see Section 1.9.2) |\n| E454                                                 | NVRAM over capacity                                  | Software trying to write into non-existent NVRAM space            | Replace mechanism assembly (see Section 7.2.12.6) Replace CPU PWA (see Section 7.2.12.4) Replace CPU/driver cable (see Section 7.2.12.6) Reset time and date, if required (see Section 1.9.2) |\n| E455                                                 | Invalid device configuration                         | Incorrect flash memory on peripheral PWA                          | Turn power off, then on, to reset the infuser Replace peripheral assembly (see Section 7.2.6)                                                                                                 |\n| E456                                                 | Invalid drug library                                 | A drug library install was started but not completed successfully | Attempt to reinstall the drug library (see the system operating manual) Replace peripheral assembly (see Section 7.2.6)                                                                       |\n| E457                                                 | Drug library corrupted                               | CRC failure on drug library                                       | Reload the library (see the system operating manual)                                                                                                                                          |",
+      "rows": 9,
+      "cols": 4
+    },
+    {
+      "type": "footnote",
+      "id": "txt_0763",
+      "reading_order": 830,
+      "section": "ERROR CODES REQUIRING TECHNICAL SERVICE",
+      "bbox": {
+        "l": 72.0,
+        "t": 238.92010000000005,
+        "r": 82.656,
+        "b": 224.04009999999994
+      },
+      "content": ""
+    },
+    {
+      "type": "footnote",
+      "id": "txt_0764",
+      "reading_order": 831,
+      "section": "ERROR CODES REQUIRING TECHNICAL SERVICE",
+      "bbox": {
+        "l": 89.34,
+        "t": 230.82286681000005,
+        "r": 471.43885163299984,
+        "b": 221.92743492803277
+      },
+      "content": "Note: The following error codes are not generated in the biomed service mode:"
+    },
+    {
+      "type": "table",
+      "id": "tbl_0036",
+      "reading_order": 832,
+      "section": "ERROR CODES REQUIRING TECHNICAL SERVICE",
+      "bbox": {
+        "l": 87.74158477783203,
+        "t": 205.64105224609375,
+        "r": 498.7816162109375,
+        "b": 164.6973876953125
+      },
+      "markdown": "| E320   | E323   | E326   | E346   | E373   | E376   | E379   | E431   | E441   |\n|--------|--------|--------|--------|--------|--------|--------|--------|--------|\n| E321   | E324   | E343   | E371   | E374   | E377   | E380   | E432   | E447   |\n| E322   | E325   | E345   | E372   | E375   | E378   | E430   | E433   |        |",
+      "rows": 3,
+      "cols": 9
+    },
+    {
+      "type": "footnote",
+      "id": "txt_0765",
+      "reading_order": 833,
+      "section": "ERROR CODES REQUIRING TECHNICAL SERVICE",
+      "bbox": {
+        "l": 72.0,
+        "t": 149.40010000000007,
+        "r": 504.08851135110024,
+        "b": 108.40779483203278
+      },
+      "content": " Note: Some error codes include sub-ID codes. These sub-ID codes are intended for Hospira internal use only, and should be included when contacting Hospira Technical Support Operations (see Section 6.1) ."
+    }
+  ],
+  "page_stats": {
+    "block_count": 5,
+    "text_blocks": 3,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 0,
+    "captions": 0,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 0,
+    "tables": 2,
+    "toc_tables": 0
+  }
+}

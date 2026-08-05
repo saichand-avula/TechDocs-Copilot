@@ -1,0 +1,338 @@
+{
+  "page": 67,
+  "document_id": "doc_37f23c38",
+  "page_bbox": {
+    "width": 612.0,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0602",
+      "reading_order": 653,
+      "section": "5.2.10",
+      "bbox": {
+        "l": 108.0,
+        "t": 738.19196,
+        "r": 138.0,
+        "b": 726.9695302479339
+      },
+      "content": "5.2.10",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "id": "txt_0603",
+      "reading_order": 654,
+      "section": "LOCKOUT SWITCH TEST",
+      "bbox": {
+        "l": 108.0,
+        "t": 724.20873681,
+        "r": 307.8483724181998,
+        "b": 709.2828958877272
+      },
+      "content": "LOCKOUT SWITCH TEST",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0604",
+      "reading_order": 655,
+      "section": "LOCKOUT SWITCH TEST",
+      "bbox": {
+        "l": 108.0,
+        "t": 699.12273681,
+        "r": 373.83057529789994,
+        "b": 690.2273049280328
+      },
+      "content": "To perform the lockout switch test, proceed as follows:"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0605",
+      "reading_order": 656,
+      "section": "LOCKOUT SWITCH TEST",
+      "bbox": {
+        "l": 125.58031405090003,
+        "t": 679.1429567499999,
+        "r": 316.60732984490005,
+        "b": 670.2475248680328
+      },
+      "content": "Press the [A] softkey to select line A."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0606",
+      "reading_order": 657,
+      "section": "LOCKOUT SWITCH TEST",
+      "bbox": {
+        "l": 125.58031405090003,
+        "t": 663.6631092079999,
+        "r": 366.6772961158996,
+        "b": 654.7676773260328
+      },
+      "content": "Enter a rate of 400 mL/hr and VTBI of 50 mL."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0607",
+      "reading_order": 658,
+      "section": "LOCKOUT SWITCH TEST",
+      "bbox": {
+        "l": 125.58031405090003,
+        "t": 648.2430217259999,
+        "r": 539.9786813131002,
+        "b": 627.8876023380328
+      },
+      "content": "Press [START] and verify the 'CONFIRM PROGRAM?' message is displayed. If rate and VTBI are correct, press [YES]."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0608",
+      "reading_order": 659,
+      "section": "LOCKOUT SWITCH TEST",
+      "bbox": {
+        "l": 125.58031405089997,
+        "t": 621.362946738,
+        "r": 539.8031859369014,
+        "b": 601.0075273500329
+      },
+      "content": "Verify fluid is pumping, the message 'PUMPING' is displayed in the line A status bar, and the line A LED flashes."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0609",
+      "reading_order": 660,
+      "section": "LOCKOUT SWITCH TEST",
+      "bbox": {
+        "l": 125.58031405089997,
+        "t": 594.4828717500001,
+        "r": 516.1870062259,
+        "b": 585.5874398680329
+      },
+      "content": "Toggle the lockout alarm switch up (ON) to engage the alarm (see Figure 5-2) ."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0610",
+      "reading_order": 661,
+      "section": "LOCKOUT SWITCH TEST",
+      "bbox": {
+        "l": 125.57931804989994,
+        "t": 579.0627842680001,
+        "r": 539.9679245023002,
+        "b": 547.247377374033
+      },
+      "content": "Press any key except [STOP], and verify an alarm sounds and the 'HARD LOCKOUT ENABLED' message  is  displayed.  Verify  the  infuser  continues  to  operate  until [STOP] is pressed."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0611",
+      "reading_order": 662,
+      "section": "LOCKOUT SWITCH TEST",
+      "bbox": {
+        "l": 125.57931804989991,
+        "t": 540.7227217740002,
+        "r": 516.8947645364999,
+        "b": 531.827289892033
+      },
+      "content": "Press [STOP] and verify the 'HARD LOCKOUT VIOLATION' message appears."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0612",
+      "reading_order": 663,
+      "section": "LOCKOUT SWITCH TEST",
+      "bbox": {
+        "l": 125.57931804989988,
+        "t": 525.3026342920002,
+        "r": 539.9915297260002,
+        "b": 504.947214904033
+      },
+      "content": "Toggle  the  lockout  alarm  switch  down  (OFF).  Verify  the  'HARD  LOCKOUT VIOLATION' message disappears and the alarm stops."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0613",
+      "reading_order": 664,
+      "section": "LOCKOUT SWITCH TEST",
+      "bbox": {
+        "l": 125.57961685019987,
+        "t": 498.42255930400023,
+        "r": 211.9596959771,
+        "b": 489.527127422033
+      },
+      "content": "Press [START]."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0614",
+      "reading_order": 665,
+      "section": "LOCKOUT SWITCH TEST",
+      "bbox": {
+        "l": 119.39943064519987,
+        "t": 482.9427117620002,
+        "r": 539.9623468966993,
+        "b": 462.64695283393297
+      },
+      "content": "Open the door and verify the 'DOOR OPEN WHILE PUMPING' message is displayed and the audio alarm activates."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0615",
+      "reading_order": 666,
+      "section": "LOCKOUT SWITCH TEST",
+      "bbox": {
+        "l": 119.39933104509986,
+        "t": 456.0625371739002,
+        "r": 256.3654045611002,
+        "b": 447.16710529193296
+      },
+      "content": "Close the cassette door."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0616",
+      "reading_order": 667,
+      "section": "LOCKOUT SWITCH TEST",
+      "bbox": {
+        "l": 119.39933104509986,
+        "t": 440.6424496919002,
+        "r": 352.0691486491,
+        "b": 431.74701780993297
+      },
+      "content": "Press [NO] at the 'NEW PATIENT?' prompt."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0617",
+      "reading_order": 668,
+      "section": "5.2.11 PROXIMAL OCCLUSION TEST",
+      "bbox": {
+        "l": 108.0,
+        "t": 409.27201,
+        "r": 347.8629902899998,
+        "b": 380.36290588772727
+      },
+      "content": "5.2.11 PROXIMAL OCCLUSION TEST",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0618",
+      "reading_order": 669,
+      "section": "5.2.11 PROXIMAL OCCLUSION TEST",
+      "bbox": {
+        "l": 108.0,
+        "t": 366.18275681,
+        "r": 395.3073448608998,
+        "b": 357.2873249280328
+      },
+      "content": "To perform the proximal occlusion test, proceed as follows:"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0619",
+      "reading_order": 670,
+      "section": "5.2.11 PROXIMAL OCCLUSION TEST",
+      "bbox": {
+        "l": 125.58031405090003,
+        "t": 342.1830171139,
+        "r": 316.60732984490005,
+        "b": 333.2875852319328
+      },
+      "content": "Press the [A] softkey to select line A."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0620",
+      "reading_order": 671,
+      "section": "5.2.11 PROXIMAL OCCLUSION TEST",
+      "bbox": {
+        "l": 125.58031405090003,
+        "t": 326.7629296319,
+        "r": 366.6772961158996,
+        "b": 317.8674977499328
+      },
+      "content": "Enter a rate of 400 mL/hr and VTBI of 50 mL."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0621",
+      "reading_order": 672,
+      "section": "5.2.11 PROXIMAL OCCLUSION TEST",
+      "bbox": {
+        "l": 125.58031405090003,
+        "t": 311.34284214990004,
+        "r": 539.9786813131002,
+        "b": 290.9874227619328
+      },
+      "content": "Press [START] and verify the 'CONFIRM PROGRAM?' message is displayed. If rate and VTBI are correct, press [YES]."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0622",
+      "reading_order": 673,
+      "section": "5.2.11 PROXIMAL OCCLUSION TEST",
+      "bbox": {
+        "l": 125.58031405089997,
+        "t": 284.4030071019,
+        "r": 539.8031859369014,
+        "b": 264.1072481738328
+      },
+      "content": "Verify fluid is pumping, the message 'PUMPING' is displayed in the line A status bar, and the line A LED flashes."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0623",
+      "reading_order": 674,
+      "section": "5.2.11 PROXIMAL OCCLUSION TEST",
+      "bbox": {
+        "l": 125.58031405089997,
+        "t": 257.52283251380004,
+        "r": 540.1134402483999,
+        "b": 225.76708607973274
+      },
+      "content": "After  several  pumping  cycles,  clamp  line  A  tubing  proximal  to  the  cassette. Verify the 'PROX OCCL A/AIR' message flashes and the alarm sounds before three pumping cycles are completed."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0624",
+      "reading_order": 675,
+      "section": "5.2.11 PROXIMAL OCCLUSION TEST",
+      "bbox": {
+        "l": 125.58011485069997,
+        "t": 219.24243047970003,
+        "r": 540.0579629926997,
+        "b": 198.8870110917328
+      },
+      "content": "Press the SILENCE key and verify the alarm stops while the message on the display continues to flash."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0625",
+      "reading_order": 676,
+      "section": "5.2.11 PROXIMAL OCCLUSION TEST",
+      "bbox": {
+        "l": 125.58011485069997,
+        "t": 192.3623554917,
+        "r": 492.7267006714001,
+        "b": 183.4669236097327
+      },
+      "content": "Unclamp the proximal line and press [START]. Verify pumping resumes."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0626",
+      "reading_order": 677,
+      "section": "5.2.11 PROXIMAL OCCLUSION TEST",
+      "bbox": {
+        "l": 125.58011485069997,
+        "t": 176.88250794969997,
+        "r": 205.9682519616001,
+        "b": 167.9870760677328
+      },
+      "content": "Press [STOP]."
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "page": 343,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_2882",
+      "reading_order": 3867,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 122.0,
+        "t": 732.29,
+        "r": 266.1699999999999,
+        "b": 720.7
+      },
+      "content": "Pinch the retainer to release it."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2883",
+      "reading_order": 3868,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 122.0,
+        "t": 369.92,
+        "r": 549.3000000000004,
+        "b": 346.33
+      },
+      "content": "Rotate the connector end of the fax PCA out and away from the formatter (callout 1), and then slide it as shown (callout 2) to remove it."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0949",
+      "reading_order": 3869,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 143.41971264580312,
+        "t": 699.6015777587891,
+        "r": 461.5701884652261,
+        "b": 382.2501525878906
+      },
+      "image_path": "figures/figure_0949.png",
+      "caption": "Release the fax PCA",
+      "figure_number": "Figure 1-525",
+      "image_hash": "c65f872f856c843fee99dc7bf9df49f27fe54fd51d5e812d294bb18ca79a4082",
+      "width": 319,
+      "height": 318,
+      "previous_block_id": "txt_2883",
+      "next_block_id": "txt_2884",
+      "caption_id": "txt_2884"
+    },
+    {
+      "type": "caption",
+      "id": "txt_2884",
+      "reading_order": 3870,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 144.00001,
+        "t": 711.29,
+        "r": 280.28000999999995,
+        "b": 699.7
+      },
+      "content": "Figure 1-525  Release the fax PCA",
+      "caption_for": "fig_0949"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0950",
+      "reading_order": 3871,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 142.76334438926753,
+        "t": 324.5219421386719,
+        "r": 432.63782467395697,
+        "b": 107.17816162109375
+      },
+      "image_path": "figures/figure_0950.png",
+      "caption": "Remove the fax PCA",
+      "figure_number": "Figure 1-526",
+      "image_hash": "8f7c2420e879806ea0327d6968cc56f1fb34b90af59ca47ba4f99f40676e06e5",
+      "width": 290,
+      "height": 218,
+      "previous_block_id": "txt_2884",
+      "next_block_id": "txt_2885",
+      "caption_id": "txt_2885"
+    },
+    {
+      "type": "caption",
+      "id": "txt_2885",
+      "reading_order": 3872,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 144.00002999999998,
+        "t": 336.92,
+        "r": 281.5900199999999,
+        "b": 325.33
+      },
+      "content": "Figure 1-526  Remove the fax PCA",
+      "caption_for": "fig_0950"
+    }
+  ],
+  "page_stats": {
+    "block_count": 6,
+    "text_blocks": 4,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 2,
+    "captions": 2,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 2,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "page": 311,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_2563",
+      "reading_order": 3445,
+      "section": "Post service test",
+      "bbox": {
+        "l": 122.0,
+        "t": 732.29,
+        "r": 446.54,
+        "b": 720.7
+      },
+      "content": "Rotate the bottom edge of the assembly away from the printer to release it."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2564",
+      "reading_order": 3446,
+      "section": "Post service test",
+      "bbox": {
+        "l": 122.0,
+        "t": 470.42,
+        "r": 304.4299999999999,
+        "b": 458.83
+      },
+      "content": "Pull down on the assembly to remove it."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2565",
+      "reading_order": 3447,
+      "section": "Post service test",
+      "bbox": {
+        "l": 100.0,
+        "t": 208.54999999999995,
+        "r": 271.97999999999996,
+        "b": 196.96000000000004
+      },
+      "content": "Remove the cartridge door assembly."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0852",
+      "reading_order": 3448,
+      "section": "Post service test",
+      "bbox": {
+        "l": 142.88377109606196,
+        "t": 698.4655914306641,
+        "r": 432.5711751414479,
+        "b": 482.02288818359375
+      },
+      "image_path": "figures/figure_0852.png",
+      "caption": "Rotate the bottom of the cover",
+      "figure_number": "Figure 1-477",
+      "image_hash": "01886645890d2282d7219455cc2443aed48852a52de538efa6f3be1d416ab44a",
+      "width": 290,
+      "height": 216,
+      "previous_block_id": "txt_2565",
+      "next_block_id": "txt_2566",
+      "caption_id": "txt_2566"
+    },
+    {
+      "type": "caption",
+      "id": "txt_2566",
+      "reading_order": 3449,
+      "section": "Post service test",
+      "bbox": {
+        "l": 144.00008,
+        "t": 711.29,
+        "r": 324.0500799999998,
+        "b": 699.7
+      },
+      "content": "Figure 1-477  Rotate the bottom of the cover",
+      "caption_for": "fig_0852"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0853",
+      "reading_order": 3450,
+      "section": "Post service test",
+      "bbox": {
+        "l": 142.90192051109304,
+        "t": 437.74420166015625,
+        "r": 432.52224797891034,
+        "b": 220.1212158203125
+      },
+      "image_path": "figures/figure_0853.png",
+      "caption": "Remove the cover",
+      "figure_number": "Figure 1-478",
+      "image_hash": "2f35cf8003bb407f176edd9880b114d45a2fb1bb7ca4dea88a2fc3ef6d361b83",
+      "width": 290,
+      "height": 218,
+      "previous_block_id": "txt_2566",
+      "next_block_id": "txt_2567",
+      "caption_id": "txt_2567"
+    },
+    {
+      "type": "caption",
+      "id": "txt_2567",
+      "reading_order": 3451,
+      "section": "Post service test",
+      "bbox": {
+        "l": 144.00001,
+        "t": 449.42,
+        "r": 272.90000999999995,
+        "b": 437.83
+      },
+      "content": "Figure 1-478  Remove the cover",
+      "caption_for": "fig_0853"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0854",
+      "reading_order": 3452,
+      "section": "Post service test",
+      "bbox": {
+        "l": 105.7606144302916,
+        "t": 187.18475341796875,
+        "r": 118.69396383948234,
+        "b": 173.6053466796875
+      },
+      "image_path": "figures/figure_0854.png",
+      "caption": "Remove the cover",
+      "decorative": true,
+      "width": 12,
+      "height": 13,
+      "figure_number": "Figure 1-478",
+      "image_hash": "889cc87179c2300e4764f241df5354a557572af6cba0e4d38d5441be80da197c",
+      "previous_block_id": "txt_2567",
+      "next_block_id": "txt_2568"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_2568",
+      "reading_order": 3453,
+      "section": "Post service test",
+      "bbox": {
+        "l": 122.0,
+        "t": 185.05000999999993,
+        "r": 486.43,
+        "b": 173.46001
+      },
+      "content": "NOTE: If the toner cartridge was not removed prior to servicing the printer, remove it now.",
+      "severity": "note"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2569",
+      "reading_order": 3454,
+      "section": "Post service test",
+      "bbox": {
+        "l": 122.0,
+        "t": 162.54999999999995,
+        "r": 521.1700000000005,
+        "b": 150.96000000000004
+      },
+      "content": "Release the support shaft (callout 1), and then slide it toward the center of the door (callout 2)."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2570",
+      "reading_order": 3455,
+      "section": "Post service test",
+      "bbox": {
+        "l": 144.0,
+        "t": 139.05000999999993,
+        "r": 509.31,
+        "b": 127.46001000000001
+      },
+      "content": "TIP: It might be easier to release the support shaft by using a small flat-blade screwdriver ."
+    }
+  ],
+  "page_stats": {
+    "block_count": 11,
+    "text_blocks": 8,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 5,
+    "captions": 2,
+    "admonitions": 1,
+    "references": 0,
+    "figures": 3,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "page": 161,
+  "document_id": "doc_caa693b1",
+  "page_bbox": {
+    "width": 595.0,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "table",
+      "id": "tbl_0049",
+      "reading_order": 1489,
+      "section": "3-6-3. Check and Repair",
+      "bbox": {
+        "l": 64.38331604003906,
+        "t": 715.1886138916016,
+        "r": 532.32568359375,
+        "b": 643.7856292724609
+      },
+      "markdown": "Table 5-7. Checking and Repairing (cont.)\n\n| Fault                 | Possible Cause             | Remedy                           |\n|-----------------------|----------------------------|----------------------------------|\n| Vibration or noise in | Clogged and unbalanced fan | Disassemble and check            |\n| pump.                 | Damaged bearing or body    | Change                           |\n|                       | Cavitation                 | Contact the manufacturer (Maker) |",
+      "caption_id": "txt_1157",
+      "title": "Table 5-7. Checking and Repairing (cont.)",
+      "table_number": "Table 5-7",
+      "rows": 4,
+      "cols": 3
+    },
+    {
+      "type": "caption",
+      "id": "txt_1157",
+      "reading_order": 1490,
+      "section": "3-6-3. Check and Repair",
+      "bbox": {
+        "l": 207.48,
+        "t": 741.9146599999999,
+        "r": 404.80285800000075,
+        "b": 733.0429409281768
+      },
+      "content": "Table 5-7. Checking and Repairing (cont.)",
+      "caption_for": "tbl_0049"
+    },
+    {
+      "type": "heading",
+      "id": "txt_1158",
+      "reading_order": 1491,
+      "section": "3-7. Chuck and Cylinder",
+      "bbox": {
+        "l": 70.92,
+        "t": 620.414768,
+        "r": 203.02869000000007,
+        "b": 611.5430489281769
+      },
+      "content": "3-7. Chuck and Cylinder",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "heading",
+      "id": "txt_1159",
+      "reading_order": 1492,
+      "section": "3-7-1. Chuck and Cylinder Constructions",
+      "bbox": {
+        "l": 70.92,
+        "t": 586.394864,
+        "r": 273.63662400000004,
+        "b": 577.5231449281769
+      },
+      "content": "3-7-1. Chuck and Cylinder Constructions",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0286",
+      "reading_order": 1493,
+      "section": "3-7-1. Chuck and Cylinder Constructions",
+      "bbox": {
+        "l": 66.61225891113281,
+        "t": 555.2637634277344,
+        "r": 534.4094848632812,
+        "b": 283.64862060546875
+      },
+      "image_path": "figures/figure_0286.png",
+      "previous_block_id": "txt_1159",
+      "next_block_id": "txt_1160",
+      "caption_id": "txt_1160",
+      "caption": "Chuck and Cylinder Construction",
+      "figure_number": "Fig. 5-63",
+      "image_hash": "420604622a28c7c48b4f1cb56e870de396657c184e09abc610b73559d5cf0cb5",
+      "width": 467,
+      "height": 271
+    },
+    {
+      "type": "caption",
+      "id": "txt_1160",
+      "reading_order": 1494,
+      "section": "3-7-1. Chuck and Cylinder Constructions",
+      "bbox": {
+        "l": 203.34031199999998,
+        "t": 263.4161960000001,
+        "r": 408.95973000000083,
+        "b": 254.5444769281769
+      },
+      "content": "Fig. 5-63 Chuck and Cylinder Construction",
+      "caption_for": "fig_0286"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1161",
+      "reading_order": 1495,
+      "section": "3-7-1. Chuck and Cylinder Constructions",
+      "bbox": {
+        "l": 106.37977799999999,
+        "t": 229.39629200000002,
+        "r": 333.0782699999999,
+        "b": 220.5245729281769
+      },
+      "content": "Used Tools:  wrench (8, 10 mm), spanner (17 mm)"
+    }
+  ],
+  "page_stats": {
+    "block_count": 7,
+    "text_blocks": 5,
+    "paragraphs": 1,
+    "headings": 2,
+    "list_items": 0,
+    "captions": 2,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 1,
+    "tables": 1,
+    "toc_tables": 0
+  }
+}

@@ -1,0 +1,374 @@
+{
+  "page": 255,
+  "document_id": "doc_229deb31",
+  "page_bbox": {
+    "width": 595.219970703125,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_2005",
+      "reading_order": 2664,
+      "section": "4.2 ᧶ outdoor unit",
+      "bbox": {
+        "l": 56.6622,
+        "t": 781.0328582000001,
+        "r": 208.76374914000007,
+        "b": 764.0202346114362
+      },
+      "content": "4.2 ᧶ outdoor unit",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "heading",
+      "id": "txt_2006",
+      "reading_order": 2665,
+      "section": "Connectors",
+      "bbox": {
+        "l": 56.6622,
+        "t": 755.3702944,
+        "r": 175.21153172000004,
+        "b": 746.097886
+      },
+      "content": "Connectors",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "heading",
+      "id": "txt_2007",
+      "reading_order": 2666,
+      "section": "PCB(1) (Control PCB)",
+      "bbox": {
+        "l": 56.6622,
+        "t": 739.77842926,
+        "r": 158.76008188,
+        "b": 730.50602086
+      },
+      "content": "PCB(1) (Control PCB)",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2008",
+      "reading_order": 2667,
+      "section": "PCB(1) (Control PCB)",
+      "bbox": {
+        "l": 101.63443419999999,
+        "t": 724.3087276,
+        "r": 289.92826417999987,
+        "b": 715.0363192
+      },
+      "content": "CN1,CN2 Connector for power N and L"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2009",
+      "reading_order": 2668,
+      "section": "PCB(1) (Control PCB)",
+      "bbox": {
+        "l": 101.63443419999999,
+        "t": 708.7178638,
+        "r": 233.31309589999995,
+        "b": 699.4454554
+      },
+      "content": "CN3 Connector for ground"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2010",
+      "reading_order": 2669,
+      "section": "PCB(1) (Control PCB)",
+      "bbox": {
+        "l": 101.63443419999999,
+        "t": 693.1270000000001,
+        "r": 420.2626634599993,
+        "b": 683.8545916
+      },
+      "content": "CN22 Connector for    DC POWER 15Vand 5V to the module    board"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2011",
+      "reading_order": 2670,
+      "section": "PCB(1) (Control PCB)",
+      "bbox": {
+        "l": 101.63443419999999,
+        "t": 677.5361362000001,
+        "r": 318.72530797999974,
+        "b": 668.2637278000001
+      },
+      "content": "CN16 Connector for electric expansion valves"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2012",
+      "reading_order": 2671,
+      "section": "PCB(1) (Control PCB)",
+      "bbox": {
+        "l": 101.63443419999999,
+        "t": 661.9452724000001,
+        "r": 281.4733240000004,
+        "b": 652.6728640000001
+      },
+      "content": "CN21    Connector for DC    fan motor"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2013",
+      "reading_order": 2672,
+      "section": "PCB(1) (Control PCB)",
+      "bbox": {
+        "l": 101.63443419999999,
+        "t": 646.3544086000002,
+        "r": 289.3617321399999,
+        "b": 637.0820002000002
+      },
+      "content": "CN10 Connector for four way valve coil"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2014",
+      "reading_order": 2673,
+      "section": "PCB(1) (Control PCB)",
+      "bbox": {
+        "l": 101.63443419999999,
+        "t": 630.7635448000002,
+        "r": 342.11627484000013,
+        "b": 621.4911364000002
+      },
+      "content": "CN17,CN18,CN19,CN20 Connector for thermistors"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2015",
+      "reading_order": 2674,
+      "section": "PCB(1) (Control PCB)",
+      "bbox": {
+        "l": 101.63443419999999,
+        "t": 615.1726810000002,
+        "r": 509.816765259999,
+        "b": 605.9002726000002
+      },
+      "content": "(CN20: outdoor air,CN19: heat exchanger, CN18 :SUCK thermistors ,CN17 :discharge pipe)"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2016",
+      "reading_order": 2675,
+      "section": "PCB(1) (Control PCB)",
+      "bbox": {
+        "l": 101.63443419999999,
+        "t": 599.5818172000003,
+        "r": 507.0701858999996,
+        "b": 590.3094088000003
+      },
+      "content": "CN23    Connector for communicate between the control board and    the module    board"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2017",
+      "reading_order": 2676,
+      "section": "PCB(1) (Control PCB)",
+      "bbox": {
+        "l": 101.63443419999999,
+        "t": 583.9909534000003,
+        "r": 391.0392192200004,
+        "b": 574.7185450000003
+      },
+      "content": "CN25 ,CN8      Connector for the L,N    to    the module    board"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2018",
+      "reading_order": 2677,
+      "section": "PCB(1) (Control PCB)",
+      "bbox": {
+        "l": 101.63443419999999,
+        "t": 568.4000896000003,
+        "r": 505.76696202000176,
+        "b": 559.1276812000003
+      },
+      "content": "CN4 Connector for communicate between    the indoor    board and the outdoor    board"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2019",
+      "reading_order": 2678,
+      "section": "PCB(1) (Control PCB)",
+      "bbox": {
+        "l": 101.63443419999999,
+        "t": 552.8092258000004,
+        "r": 303.27079438000004,
+        "b": 543.5368174000004
+      },
+      "content": "CN26 Connector for    capacitance anode"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2020",
+      "reading_order": 2679,
+      "section": "PCB(1) (Control PCB)",
+      "bbox": {
+        "l": 101.63443419999999,
+        "t": 537.2183620000004,
+        "r": 341.79597404000003,
+        "b": 527.9459536000004
+      },
+      "content": "CN24 Connector for    capacitance cathode"
+    },
+    {
+      "type": "heading",
+      "id": "txt_2021",
+      "reading_order": 2680,
+      "section": "PCB(2) (module    PCB)",
+      "bbox": {
+        "l": 56.662199999999984,
+        "t": 521.5053347200004,
+        "r": 168.82353263999988,
+        "b": 512.2329263200004
+      },
+      "content": "PCB(2) (module    PCB)",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_2022",
+      "reading_order": 2681,
+      "section": "PCB(2) (module    PCB)",
+      "bbox": {
+        "l": 101.63443419999999,
+        "t": 506.03563306000035,
+        "r": 415.01273316000055,
+        "b": 496.76322466000033
+      },
+      "content": "CN10    Connector for the DC power 5V and 15V form the control PCB"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_2023",
+      "reading_order": 2682,
+      "section": "PCB(2) (module    PCB)",
+      "bbox": {
+        "l": 101.63443419999999,
+        "t": 490.4447692600003,
+        "r": 494.60748196000145,
+        "b": 465.5814970600003
+      },
+      "content": "CN11    Connector for communicate between the control board and    the module    board P( CN1), N(CN5)    Connector for capacitance board"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_2024",
+      "reading_order": 2683,
+      "section": "PCB(2) (module    PCB)",
+      "bbox": {
+        "l": 101.63443419999999,
+        "t": 459.2630416600003,
+        "r": 303.7882803600004,
+        "b": 449.99063326000027
+      },
+      "content": "LI (CN7),LO(CN6)    Connector    for    reactor"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_2025",
+      "reading_order": 2684,
+      "section": "PCB(2) (module    PCB)",
+      "bbox": {
+        "l": 101.63443419999999,
+        "t": 443.82237886000024,
+        "r": 399.2371132,
+        "b": 433.7829999459045
+      },
+      "content": "CN2 ˈ CN3 ˈ CN4 Connector for the U, V, W wire of the compressor"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_2026",
+      "reading_order": 2685,
+      "severity": "note",
+      "content": "NOTE: : Other Designations",
+      "section": "PCB(2) (module    PCB)",
+      "bbox": {
+        "l": 101.62762300000003,
+        "t": 412.3960864,
+        "r": 123.86250416000004,
+        "b": 403.123678
+      }
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_2028",
+      "reading_order": 2687,
+      "section": "PCB(2) (module    PCB)",
+      "bbox": {
+        "l": 101.62762300000003,
+        "t": 396.9253834,
+        "r": 202.1300065200001,
+        "b": 387.65297499999997
+      },
+      "content": "PCB(1) (Control PCB)"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_2029",
+      "reading_order": 2688,
+      "section": "PCB(2) (module    PCB)",
+      "bbox": {
+        "l": 101.62762300000003,
+        "t": 381.33451959999996,
+        "r": 316.15208661999975,
+        "b": 372.06211119999995
+      },
+      "content": "1) FUSE 1, (25A,250VAC) FUSE 2(1A,250VAC)"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_2030",
+      "reading_order": 2689,
+      "section": "PCB(2) (module    PCB)",
+      "bbox": {
+        "l": 101.62762300000003,
+        "t": 365.74365579999994,
+        "r": 521.9503553200005,
+        "b": 340.8803835999999
+      },
+      "content": "2)LED 1    keep light representative normal ,if keep flash interval    representative trouble Alarm 3)RV1,RV2,RV3    Varistor"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0511",
+      "reading_order": 2690,
+      "section": "PCB(2) (module    PCB)",
+      "bbox": {
+        "l": 55.71852846443653,
+        "t": 62.1524658203125,
+        "r": 87.98084048921508,
+        "b": 51.8714599609375
+      },
+      "image_path": "figures/figure_0511.png",
+      "previous_block_id": "txt_2030",
+      "image_hash": "94999f07086a3008817d2cc3bb1f30a0eab22bdc27921adef7de776233c7e95e",
+      "width": 32,
+      "height": 10
+    }
+  ],
+  "page_stats": {
+    "block_count": 26,
+    "text_blocks": 25,
+    "paragraphs": 7,
+    "headings": 4,
+    "list_items": 13,
+    "captions": 0,
+    "admonitions": 1,
+    "references": 0,
+    "figures": 1,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

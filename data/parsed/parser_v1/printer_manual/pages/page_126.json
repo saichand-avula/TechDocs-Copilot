@@ -1,0 +1,152 @@
+{
+  "page": 126,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_1184",
+      "reading_order": 1524,
+      "section": "Install a replacement white backing",
+      "bbox": {
+        "l": 113.0,
+        "t": 732.29,
+        "r": 406.2699999999999,
+        "b": 720.7
+      },
+      "content": "Position the replacement white backing on the image scanner glass."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0321",
+      "reading_order": 1525,
+      "section": "Install a replacement white backing",
+      "bbox": {
+        "l": 119.00976366102304,
+        "t": 710.2807235717773,
+        "r": 131.41550652493856,
+        "b": 697.9363021850586
+      },
+      "image_path": "figures/figure_0321.png",
+      "decorative": true,
+      "width": 12,
+      "height": 12,
+      "image_hash": "159a5d381c9808a3a15aed7c6aefb573e56eaf276b9dc157b58556572414e985",
+      "previous_block_id": "txt_1184",
+      "next_block_id": "txt_1185"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_1185",
+      "reading_order": 1526,
+      "section": "Install a replacement white backing",
+      "bbox": {
+        "l": 134.99996,
+        "t": 708.79,
+        "r": 515.47,
+        "b": 685.2
+      },
+      "content": "NOTE: Make sure that the corner with the embossed arrow on the white backing is positioned against the corner with the arrow on the scanner.",
+      "severity": "note"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0322",
+      "reading_order": 1527,
+      "section": "Install a replacement white backing",
+      "bbox": {
+        "l": 133.66534766637477,
+        "t": 661.9248046875,
+        "r": 423.7540368032587,
+        "b": 445.17413330078125
+      },
+      "image_path": "figures/figure_0322.png",
+      "caption": "Install the white backing",
+      "figure_number": "Figure 1-154",
+      "image_hash": "e4f1a9f198a00b7873459663d594516ec9a6f2c8bd0e07bd98e39730a64ed690",
+      "width": 290,
+      "height": 217,
+      "previous_block_id": "txt_1185",
+      "next_block_id": "txt_1186",
+      "caption_id": "txt_1186"
+    },
+    {
+      "type": "caption",
+      "id": "txt_1186",
+      "reading_order": 1528,
+      "section": "Install a replacement white backing",
+      "bbox": {
+        "l": 135.0,
+        "t": 674.29,
+        "r": 288.3599899999999,
+        "b": 662.7
+      },
+      "content": "Figure 1-154  Install the white backing",
+      "caption_for": "fig_0322"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1187",
+      "reading_order": 1529,
+      "section": "Install a replacement white backing",
+      "bbox": {
+        "l": 113.0,
+        "t": 433.70909,
+        "r": 244.0399999999999,
+        "b": 422.11908999999997
+      },
+      "content": "Close the document feeder."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0323",
+      "reading_order": 1530,
+      "section": "Install a replacement white backing",
+      "bbox": {
+        "l": 133.76500168134373,
+        "t": 400.8136901855469,
+        "r": 423.90197741317587,
+        "b": 182.91314697265625
+      },
+      "image_path": "figures/figure_0323.png",
+      "caption": "Close the document feeder",
+      "figure_number": "Figure 1-155",
+      "image_hash": "96b760281489273b8c90202bfe2df002b156f0e22283eedfd2256c11ad5f232e",
+      "width": 290,
+      "height": 218,
+      "previous_block_id": "txt_1187",
+      "next_block_id": "txt_1188",
+      "caption_id": "txt_1188"
+    },
+    {
+      "type": "caption",
+      "id": "txt_1188",
+      "reading_order": 1531,
+      "section": "Install a replacement white backing",
+      "bbox": {
+        "l": 134.99998,
+        "t": 412.70909,
+        "r": 299.79996999999986,
+        "b": 401.11908999999997
+      },
+      "content": "Figure 1-155  Close the document feeder",
+      "caption_for": "fig_0323"
+    }
+  ],
+  "page_stats": {
+    "block_count": 8,
+    "text_blocks": 5,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 2,
+    "captions": 2,
+    "admonitions": 1,
+    "references": 0,
+    "figures": 3,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "page": 129,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_1219",
+      "reading_order": 1566,
+      "section": "After performing service",
+      "bbox": {
+        "l": 100.0,
+        "t": 732.29,
+        "r": 222.83999999999997,
+        "b": 720.7
+      },
+      "content": "Connect the power cable."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1220",
+      "reading_order": 1567,
+      "section": "After performing service",
+      "bbox": {
+        "l": 99.99998,
+        "t": 711.04086,
+        "r": 294.28998,
+        "b": 699.45086
+      },
+      "content": "Use the power switch to turn the power on."
+    },
+    {
+      "type": "heading",
+      "id": "txt_1221",
+      "reading_order": 1568,
+      "section": "Post service test",
+      "bbox": {
+        "l": 99.99998,
+        "t": 685.79172,
+        "r": 165.88997999999998,
+        "b": 674.20172
+      },
+      "content": "Post service test",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1222",
+      "reading_order": 1569,
+      "section": "Post service test",
+      "bbox": {
+        "l": 99.99998,
+        "t": 665.7917199999999,
+        "r": 368.8499800000001,
+        "b": 654.20172
+      },
+      "content": "Make sure that the toner-cartridge door correctly opens and closes."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1223",
+      "reading_order": 1570,
+      "section": "Post service test",
+      "bbox": {
+        "l": 100.00004,
+        "t": 644.7917199999999,
+        "r": 190.53003999999999,
+        "b": 633.20172
+      },
+      "content": "Remove the tray."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1224",
+      "reading_order": 1571,
+      "section": "Post service test",
+      "bbox": {
+        "l": 122.00005,
+        "t": 623.7917199999999,
+        "r": 349.0600500000001,
+        "b": 612.20172
+      },
+      "content": "Pull the tray straight out of the printer until it stops."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0327",
+      "reading_order": 1572,
+      "section": "Post service test",
+      "bbox": {
+        "l": 142.89569785451096,
+        "t": 590.2744293212891,
+        "r": 432.7323846514298,
+        "b": 373.0062255859375
+      },
+      "image_path": "figures/figure_0327.png",
+      "caption": "Pull the tray out until it stops",
+      "figure_number": "Figure 1-158",
+      "image_hash": "26382645e511c4ca9a1a915544b237e41bc7de3094da63130fb6a0bcba4a04b9",
+      "width": 290,
+      "height": 217,
+      "previous_block_id": "txt_1224",
+      "next_block_id": "txt_1225",
+      "caption_id": "txt_1225"
+    },
+    {
+      "type": "caption",
+      "id": "txt_1225",
+      "reading_order": 1573,
+      "section": "Post service test",
+      "bbox": {
+        "l": 144.0001,
+        "t": 602.7917,
+        "r": 315.8300999999999,
+        "b": 591.2017000000001
+      },
+      "content": "Figure 1-158  Pull the tray out until it stops",
+      "caption_for": "fig_0327"
+    }
+  ],
+  "page_stats": {
+    "block_count": 8,
+    "text_blocks": 7,
+    "paragraphs": 1,
+    "headings": 1,
+    "list_items": 4,
+    "captions": 1,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 1,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

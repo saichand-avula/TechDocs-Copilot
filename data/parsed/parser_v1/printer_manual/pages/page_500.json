@@ -1,0 +1,185 @@
+{
+  "page": 500,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_3925",
+      "reading_order": 5379,
+      "section": "2. Remove the tray.",
+      "bbox": {
+        "l": 113.0,
+        "t": 732.29,
+        "r": 539.0800000000004,
+        "b": 708.7
+      },
+      "content": "Rotate the connector end of the HDD out and away from the formatter (callout 1), and then slide it as shown (callout 2) to remove it."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_3926",
+      "reading_order": 5380,
+      "section": "2. Remove the tray.",
+      "bbox": {
+        "l": 91.0,
+        "t": 458.42,
+        "r": 370.3400000000003,
+        "b": 446.83
+      },
+      "content": "Remove the fax PCA (M527/E52545/M528/E52645 fax models)."
+    },
+    {
+      "type": "figure",
+      "id": "fig_1414",
+      "reading_order": 5381,
+      "section": "2. Remove the tray.",
+      "bbox": {
+        "l": 132.90574126669182,
+        "t": 687.1494064331055,
+        "r": 423.96054359277196,
+        "b": 469.4976501464844
+      },
+      "image_path": "figures/figure_1414.png",
+      "caption": "Remove the HDD",
+      "figure_number": "Figure 1-813",
+      "image_hash": "12d4a78a32ebfa4f1c046aebecca50e702fe18488339801779332b8a6d19c2e1",
+      "width": 291,
+      "height": 218,
+      "previous_block_id": "txt_3926",
+      "next_block_id": "txt_3927",
+      "caption_id": "txt_3927"
+    },
+    {
+      "type": "caption",
+      "id": "txt_3927",
+      "reading_order": 5382,
+      "section": "2. Remove the tray.",
+      "bbox": {
+        "l": 135.00001,
+        "t": 699.29,
+        "r": 260.08000999999996,
+        "b": 687.7
+      },
+      "content": "Figure 1-813  Remove the HDD",
+      "caption_for": "fig_1414"
+    },
+    {
+      "type": "figure",
+      "id": "fig_1415",
+      "reading_order": 5383,
+      "section": "2. Remove the tray.",
+      "bbox": {
+        "l": 96.88949302109194,
+        "t": 436.9684753417969,
+        "r": 111.19360369082086,
+        "b": 423.73907470703125
+      },
+      "image_path": "figures/figure_1415.png",
+      "caption": "Remove the HDD",
+      "decorative": true,
+      "width": 14,
+      "height": 13,
+      "figure_number": "Figure 1-813",
+      "image_hash": "0ed4c59c4b6a71ab6a367923327b4c9b9da6c7ef73aa120a13d298f27efeef02",
+      "previous_block_id": "txt_3927",
+      "next_block_id": "txt_3928"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_3928",
+      "reading_order": 5384,
+      "severity": "caution",
+      "content": "CAUTION: ESD-sensitive part.",
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 113.0,
+        "t": 429.53499,
+        "r": 150.75,
+        "b": 417.94499
+      }
+    },
+    {
+      "type": "figure",
+      "id": "fig_1416",
+      "reading_order": 5386,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 159.6880399443679,
+        "t": 433.67803955078125,
+        "r": 179.2199981041425,
+        "b": 412.05340576171875
+      },
+      "image_path": "figures/figure_1416.png",
+      "decorative": true,
+      "width": 19,
+      "height": 21,
+      "image_hash": "6d8ee85aa3dcceaf369ff7fe4ee934722faeef3c60488e3e353a01adf6e10507",
+      "next_block_id": "txt_3930"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_3930",
+      "reading_order": 5387,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 113.0,
+        "t": 400.42,
+        "r": 293.0099999999999,
+        "b": 388.83
+      },
+      "content": "Disconnect three connectors (callout 1)."
+    },
+    {
+      "type": "figure",
+      "id": "fig_1417",
+      "reading_order": 5388,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 134.409199153682,
+        "t": 368.5445861816406,
+        "r": 423.78664474387756,
+        "b": 149.47021484375
+      },
+      "image_path": "figures/figure_1417.png",
+      "caption": "Disconnect three connectors",
+      "figure_number": "Figure 1-814",
+      "image_hash": "0cea24add44dc3953c91423081cecf7642317e0d61d6ac67c87f95ca6220ecde",
+      "width": 290,
+      "height": 220,
+      "previous_block_id": "txt_3930",
+      "next_block_id": "txt_3931",
+      "caption_id": "txt_3931"
+    },
+    {
+      "type": "caption",
+      "id": "txt_3931",
+      "reading_order": 5389,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 135.00001,
+        "t": 379.42,
+        "r": 305.59000999999995,
+        "b": 367.83
+      },
+      "content": "Figure 1-814  Disconnect three connectors",
+      "caption_for": "fig_1417"
+    }
+  ],
+  "page_stats": {
+    "block_count": 10,
+    "text_blocks": 6,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 3,
+    "captions": 2,
+    "admonitions": 1,
+    "references": 0,
+    "figures": 4,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

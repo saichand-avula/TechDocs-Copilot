@@ -1,0 +1,55 @@
+{
+  "page": 90,
+  "document_id": "doc_229deb31",
+  "page_bbox": {
+    "width": 595.219970703125,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0699",
+      "reading_order": 970,
+      "section": "PCB(1)",
+      "bbox": {
+        "l": 277.5063,
+        "t": 789.7992428,
+        "r": 327.40179140000015,
+        "b": 775.947857
+      },
+      "content": "PCB(1)",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0214",
+      "reading_order": 971,
+      "section": "PCB(1)",
+      "bbox": {
+        "l": 18.49546742471201,
+        "t": 749.5206604003906,
+        "r": 555.1579851384673,
+        "b": 336.214599609375
+      },
+      "image_path": "figures/figure_0214.png",
+      "previous_block_id": "txt_0699",
+      "image_hash": "0e1ee6996121ad67ff17758709fa2219517c1ae126fc2f1a055f0bc79d4d2222",
+      "width": 537,
+      "height": 414
+    }
+  ],
+  "page_stats": {
+    "block_count": 2,
+    "text_blocks": 1,
+    "paragraphs": 0,
+    "headings": 1,
+    "list_items": 0,
+    "captions": 0,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 1,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

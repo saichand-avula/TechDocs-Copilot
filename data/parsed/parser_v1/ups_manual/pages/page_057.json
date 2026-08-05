@@ -1,0 +1,218 @@
+{
+  "page": 57,
+  "document_id": "doc_1032c87b",
+  "page_bbox": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0515",
+      "reading_order": 646,
+      "section": "5.1.2 Sound Alarm (Buzzer)",
+      "bbox": {
+        "l": 74.664,
+        "t": 723.1959829101563,
+        "r": 233.42600000000002,
+        "b": 712.4328447886094
+      },
+      "content": "5.1.2 Sound Alarm (Buzzer)",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0516",
+      "reading_order": 647,
+      "section": "5.1.2 Sound Alarm (Buzzer)",
+      "bbox": {
+        "l": 72.384,
+        "t": 693.2276629101563,
+        "r": 407.79568,
+        "b": 683.756101363195
+      },
+      "content": "There are three kinds of different sound alarms during running of UPS:"
+    },
+    {
+      "type": "table",
+      "id": "tbl_0026",
+      "reading_order": 648,
+      "section": "5.1.2 Sound Alarm (Buzzer)",
+      "bbox": {
+        "l": 83.9719493599225,
+        "t": 666.8571228043479,
+        "r": 510.840086851269,
+        "b": 583.3658513724383
+      },
+      "markdown": "Table 5-8: Description of sound alarm of buzzer\n\n| Short single alarm   | Give this alarm when pressing any functional operation key                                                                                                             |\n|----------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Continual alarm      | Give this alarm when UPS is under fault                                                                                                                                |\n| Distant alarm        | Give this alarm once 2 seconds when battery is discharging Give this alarm once 1 second when battery is discharging and voltage is lower than low-voltage alarm point |",
+      "caption_id": "txt_0517",
+      "title": "Table 5-8: Description of sound alarm of buzzer",
+      "table_number": "Table 5-8",
+      "rows": 3,
+      "cols": 2
+    },
+    {
+      "type": "caption",
+      "id": "txt_0517",
+      "reading_order": 649,
+      "section": "5.1.2 Sound Alarm (Buzzer)",
+      "bbox": {
+        "l": 195.41,
+        "t": 677.6276629101563,
+        "r": 418.47568,
+        "b": 668.156101363195
+      },
+      "content": "Table 5-8: Description of sound alarm of buzzer",
+      "caption_for": "tbl_0026"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0518",
+      "reading_order": 650,
+      "section": "5.1.3 Functional Operation Keys",
+      "bbox": {
+        "l": 74.664,
+        "t": 567.5259829101562,
+        "r": 260.786,
+        "b": 556.7628447886093
+      },
+      "content": "5.1.3 Functional Operation Keys",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "table",
+      "id": "tbl_0027",
+      "reading_order": 651,
+      "section": "5.1.3 Functional Operation Keys",
+      "bbox": {
+        "l": 85.28965902215089,
+        "t": 527.0184845261235,
+        "r": 509.6257500166402,
+        "b": 381.7000814068226
+      },
+      "markdown": "Table 5-9\n\n| EPO            | Used to cut off the load power supply and turn off rectifier, inverter and static switch                          |\n|----------------|-------------------------------------------------------------------------------------------------------------------|\n| ON             | Used to start the rectifier, inverter and static switch and supply power to the load                              |\n| OFF            | Used to cut off the load power supply and turn off rectifier, inverter and static switch                          |\n| FAULT CLEAR    | Clear the fault                                                                                                   |\n| SILENCE ON/OFF | Cancel alarming sound by pressing this key when sound alarm is given, and restart the buzzer by pressing it again |",
+      "caption_id": "txt_0519",
+      "title": "Table 5-8: Description of sound alarm of buzzer",
+      "table_number": "Table 5-8",
+      "rows": 5,
+      "cols": 2
+    },
+    {
+      "type": "caption",
+      "id": "txt_0519",
+      "reading_order": 652,
+      "section": "5.1.3 Functional Operation Keys",
+      "bbox": {
+        "l": 283.87,
+        "t": 537.5576629101563,
+        "r": 330.00568,
+        "b": 528.086101363195
+      },
+      "content": "Table 5-9",
+      "caption_for": "tbl_0027"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0520",
+      "reading_order": 653,
+      "section": "5.1.4 LCD Touch Screen and Menu Button",
+      "bbox": {
+        "l": 74.664,
+        "t": 346.94598291015626,
+        "r": 316.846,
+        "b": 336.1828447886093
+      },
+      "content": "5.1.4 LCD Touch Screen and Menu Button",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0521",
+      "reading_order": 654,
+      "section": "5.1.4 LCD Touch Screen and Menu Button",
+      "bbox": {
+        "l": 77.904,
+        "t": 316.97766291015637,
+        "r": 541.61568,
+        "b": 276.306101363195
+      },
+      "content": "LCD displays friendly interface and provides 320 x 240 raster graphic display. LCD can display the alarm information real-time, provide 10,000 historical alarm records for inquiry of user, and provide reliable basis for fault diagnosis."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0522",
+      "reading_order": 655,
+      "section": "5.1.4 LCD Touch Screen and Menu Button",
+      "bbox": {
+        "l": 77.904,
+        "t": 270.1776629101563,
+        "r": 541.61568,
+        "b": 213.87610136319495
+      },
+      "content": "User can execute various operational commands through LCD touch screen interface, check input, output,  load,  and  battery  parameter  conveniently,  and  obtain  current  UPS  status  and  warning information timely. Besides, LCD can display version information of control software and monitoring board software."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0523",
+      "reading_order": 656,
+      "section": "5.1.4 LCD Touch Screen and Menu Button",
+      "bbox": {
+        "l": 77.904,
+        "t": 207.74766291015635,
+        "r": 379.23568,
+        "b": 198.27610136319493
+      },
+      "content": "There are four menu buttons, and descriptions of their functions:"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0524",
+      "reading_order": 657,
+      "section": "5.1.4 LCD Touch Screen and Menu Button",
+      "bbox": {
+        "l": 190.25,
+        "t": 192.14766291015633,
+        "r": 429.15568,
+        "b": 182.6761013631949
+      },
+      "content": "Table 5-10: Description of meanings of menu icons",
+      "caption_for": "fig_0108"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0108",
+      "reading_order": 658,
+      "section": "5.1.4 LCD Touch Screen and Menu Button",
+      "bbox": {
+        "l": 176.03352857806226,
+        "t": 173.475395013607,
+        "r": 433.72725513303544,
+        "b": 110.49291658879315
+      },
+      "image_path": "figures/figure_0108.png",
+      "previous_block_id": "txt_0524",
+      "caption_id": "txt_0524",
+      "caption": ": Description of meanings of menu icons",
+      "figure_number": "Table 5-10",
+      "image_hash": "d2ec1953f29ce9729bdcd04b9d2423e4e699c9b9393509f39b10517bab40ee22",
+      "width": 258,
+      "height": 63
+    }
+  ],
+  "page_stats": {
+    "block_count": 13,
+    "text_blocks": 10,
+    "paragraphs": 4,
+    "headings": 3,
+    "list_items": 0,
+    "captions": 3,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 1,
+    "tables": 2,
+    "toc_tables": 0
+  }
+}

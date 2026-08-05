@@ -1,0 +1,229 @@
+{
+  "page": 434,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_1224",
+      "reading_order": 4757,
+      "section": "Post service test",
+      "bbox": {
+        "l": 133.6041124551565,
+        "t": 719.7938690185547,
+        "r": 424.0271626220625,
+        "b": 502.541259765625
+      },
+      "image_path": "figures/figure_1224.png",
+      "caption": "Pull the tray out until it stops",
+      "figure_number": "Figure 1-693",
+      "image_hash": "903c4216394adb8fcda357326b05f3a95af425e26cb465498433fdc1319fb1e4",
+      "width": 290,
+      "height": 217,
+      "previous_block_id": "txt_3494",
+      "next_block_id": "txt_3495",
+      "caption_id": "txt_3495"
+    },
+    {
+      "type": "caption",
+      "id": "txt_3495",
+      "reading_order": 4758,
+      "section": "Post service test",
+      "bbox": {
+        "l": 135.0,
+        "t": 732.29,
+        "r": 306.8299899999999,
+        "b": 720.7
+      },
+      "content": "Figure 1-693  Pull the tray out until it stops",
+      "caption_for": "fig_1224"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_3496",
+      "reading_order": 4759,
+      "section": "Post service test",
+      "bbox": {
+        "l": 113.0,
+        "t": 491.41999999999996,
+        "r": 415.7900000000001,
+        "b": 479.83000000000004
+      },
+      "content": "Lift the front of the tray, and then pull it out of the printer to remove it."
+    },
+    {
+      "type": "figure",
+      "id": "fig_1225",
+      "reading_order": 4760,
+      "section": "Post service test",
+      "bbox": {
+        "l": 118.76588280299413,
+        "t": 470.1455383300781,
+        "r": 132.2304915178802,
+        "b": 456.6734313964844
+      },
+      "image_path": "figures/figure_1225.png",
+      "decorative": true,
+      "width": 13,
+      "height": 13,
+      "image_hash": "0076b5a70b5666138600a48e88caca86d138380cc837f445c9e612f6b6a1f0a6",
+      "previous_block_id": "txt_3496",
+      "next_block_id": "txt_3497"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_3497",
+      "reading_order": 4761,
+      "section": "Post service test",
+      "bbox": {
+        "l": 135.0,
+        "t": 467.92,
+        "r": 537.6900400000002,
+        "b": 444.33
+      },
+      "content": "NOTE: If the tray has Fixed Tray Guides installed and are still required, move the hardware to new tray. If necessary, order new kit: 3GY19-67901 Kit-Fixed Tray Guide. Only one kit required per engine.",
+      "severity": "note"
+    },
+    {
+      "type": "figure",
+      "id": "fig_1226",
+      "reading_order": 4762,
+      "section": "Post service test",
+      "bbox": {
+        "l": 133.62784395918032,
+        "t": 421.4780578613281,
+        "r": 423.9478542538595,
+        "b": 204.0198974609375
+      },
+      "image_path": "figures/figure_1226.png",
+      "caption": "Release and remove the tray",
+      "figure_number": "Figure 1-694",
+      "image_hash": "3f226aa2c7c8a226b81f4e83d58d4cf6fa55fbf6d00954106378945aca5c6407",
+      "width": 290,
+      "height": 217,
+      "previous_block_id": "txt_3497",
+      "next_block_id": "txt_3498",
+      "caption_id": "txt_3498"
+    },
+    {
+      "type": "caption",
+      "id": "txt_3498",
+      "reading_order": 4763,
+      "section": "Post service test",
+      "bbox": {
+        "l": 135.0,
+        "t": 433.42,
+        "r": 306.6599899999999,
+        "b": 421.83
+      },
+      "content": "Figure 1-694  Release and remove the tray",
+      "caption_for": "fig_1226"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_3499",
+      "reading_order": 4764,
+      "section": "Post service test",
+      "bbox": {
+        "l": 91.0,
+        "t": 192.54999999999995,
+        "r": 262.97999999999996,
+        "b": 180.96000000000004
+      },
+      "content": "Remove the cartridge door assembly."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_3500",
+      "reading_order": 4765,
+      "section": "Post service test",
+      "bbox": {
+        "l": 113.0,
+        "t": 169.05000999999993,
+        "r": 477.43,
+        "b": 157.46001
+      },
+      "content": "NOTE: If the toner cartridge was not removed prior to servicing the printer, remove it now."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_3501",
+      "reading_order": 4766,
+      "section": "Post service test",
+      "bbox": {
+        "l": 113.0,
+        "t": 146.54999999999995,
+        "r": 512.1700000000005,
+        "b": 134.96000000000004
+      },
+      "content": "Release the support shaft (callout 1), and then slide it toward the center of the door (callout 2)."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_3502",
+      "reading_order": 4767,
+      "section": "Post service test",
+      "bbox": {
+        "l": 135.0,
+        "t": 123.05000999999993,
+        "r": 500.31,
+        "b": 111.46001000000001
+      },
+      "content": "TIP: It might be easier to release the support shaft by using a small flat-blade screwdriver ."
+    },
+    {
+      "type": "figure",
+      "id": "fig_1227",
+      "reading_order": 4768,
+      "section": "Post service test",
+      "bbox": {
+        "l": 96.92464798045886,
+        "t": 171.41253662109375,
+        "r": 109.66693285452203,
+        "b": 157.84747314453125
+      },
+      "image_path": "figures/figure_1227.png",
+      "decorative": true,
+      "width": 12,
+      "height": 13,
+      "image_hash": "b22e6442df503091b18413ce9224e2ca4c2105cb1dfc3ae897df5dbb1aa8943c",
+      "previous_block_id": "txt_3502",
+      "next_block_id": "txt_3503"
+    },
+    {
+      "type": "figure",
+      "id": "fig_1228",
+      "reading_order": 4769,
+      "section": "Post service test",
+      "bbox": {
+        "l": 119.01206665402279,
+        "t": 124.75201416015625,
+        "r": 129.83977126161875,
+        "b": 112.40081787109375
+      },
+      "image_path": "figures/figure_1228.png",
+      "decorative": true,
+      "width": 10,
+      "height": 12,
+      "image_hash": "f63c5dc12e85040b6685a306ad90dbfa18e157809381fa28307d9ded27788616",
+      "previous_block_id": "txt_3502",
+      "next_block_id": "txt_3503"
+    }
+  ],
+  "page_stats": {
+    "block_count": 13,
+    "text_blocks": 8,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 5,
+    "captions": 2,
+    "admonitions": 1,
+    "references": 0,
+    "figures": 5,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

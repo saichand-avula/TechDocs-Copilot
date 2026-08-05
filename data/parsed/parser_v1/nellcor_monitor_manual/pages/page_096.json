@@ -1,0 +1,152 @@
+{
+  "page": 96,
+  "document_id": "doc_f7e949ab",
+  "page_bbox": {
+    "width": 612.0,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_0900",
+      "reading_order": 1062,
+      "section": "Overall Accuracy Discussion",
+      "bbox": {
+        "l": 147.75,
+        "t": 705.00375,
+        "r": 467.0625,
+        "b": 692.24625
+      },
+      "content": "For data collection and the data analysis, Bland-Altman Plot is used."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0901",
+      "reading_order": 1063,
+      "section": "Overall Accuracy Discussion",
+      "bbox": {
+        "l": 147.75,
+        "t": 691.50375,
+        "r": 538.6135500000001,
+        "b": 651.74625
+      },
+      "content": "On the systolic, diastolic,  and  MAP, the Deltas of all measurements shall be met under +/- 5mmHg of mean difference (MD), and +/- 8mmHg of standard deviation (SD)."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0902",
+      "reading_order": 1064,
+      "section": "Overall Accuracy Discussion",
+      "bbox": {
+        "l": 147.75,
+        "t": 651.00375,
+        "r": 473.0625,
+        "b": 638.24625
+      },
+      "content": "(Delta = Intra-arterial  or Auscultatory - Automated sphygmomanometer)"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0903",
+      "reading_order": 1065,
+      "section": "SYSTOLIC PRESSURE",
+      "bbox": {
+        "l": 285.0,
+        "t": 624.84675,
+        "r": 391.3972499999997,
+        "b": 613.8
+      },
+      "content": "SYSTOLIC PRESSURE",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0122",
+      "reading_order": 1066,
+      "section": "SYSTOLIC PRESSURE",
+      "bbox": {
+        "l": 154.43971252441406,
+        "t": 604.4476623535156,
+        "r": 498.7967529296875,
+        "b": 315.9741516113281
+      },
+      "image_path": "figures/figure_0122.png",
+      "previous_block_id": "txt_0903",
+      "next_block_id": "txt_0904",
+      "caption_id": "txt_0904",
+      "caption": "(EXAMPLE) Agreement between test and reference methods for systolic pressure. Hypothetical data",
+      "image_hash": "e34b72044ccbb0727e9b3cc43f2d61335f99db690b0345f66e612195edc665f1",
+      "width": 345,
+      "height": 288
+    },
+    {
+      "type": "caption",
+      "id": "txt_0904",
+      "reading_order": 1067,
+      "section": "SYSTOLIC PRESSURE",
+      "bbox": {
+        "l": 139.5,
+        "t": 312.192,
+        "r": 519.8348000000003,
+        "b": 301.5
+      },
+      "content": "(EXAMPLE) Agreement between test and reference methods for systolic pressure. Hypothetical data",
+      "caption_for": "fig_0122"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0905",
+      "reading_order": 1068,
+      "section": "10.5  SpO2 Processing",
+      "bbox": {
+        "l": 72.0,
+        "t": 282.6165,
+        "r": 210.5625,
+        "b": 265.6875
+      },
+      "content": "10.5  SpO2 Processing",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0906",
+      "reading_order": 1069,
+      "section": "10.5  SpO2 Processing",
+      "bbox": {
+        "l": 147.0,
+        "t": 252.00374999999997,
+        "r": 539.0632499999994,
+        "b": 140.99625000000003
+      },
+      "content": "Pulse oximetry works by applying a sensor to a pulsating arteriolar vascular bed. The sensor contains a dual light source and photodetector. Bone, tissue, pigmentation, and venous vessels normally absorb a constant amount of light over time. The arteriolar bed normally pulsates and absorbs variable amounts of light during systole and diastole, as blood  volume  increases  and  decreases.  The  ratio  of  light  absorbed  at  systole  and diastole is translated into an oxygen  saturation  measurement  (SpO2).  Because  a measurement of  SpO2 is dependent upon light from the sensor, excessive ambient light can interfere with this measurement."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0907",
+      "reading_order": 1070,
+      "section": "10.5  SpO2 Processing",
+      "bbox": {
+        "l": 147.0,
+        "t": 126.00374999999997,
+        "r": 539.0625000000005,
+        "b": 72.74625000000003
+      },
+      "content": "Pulse oximetry is based on two principles: that oxyhemoglobin and  deoxyhemoglobin differ  in  their  absorption  of  red  and  infrared  light  (spectrophotometry),  and  that  the volume of arterial  blood  in  tissue  (and  hence,  light  absorption  by  that  blood)  changes during the pulse (plethysmography). The monitor determines SpO2 by passing red and infrared light into an arteriolar bed and measuring changes in light absorption during the pulsatile  cycle.  Red  and  infrared  low-voltage  light-emitting  diodes  (LED)  in  the oximetry  sensor  serve  as  light  sources;  a  photo  diode  serves  as  the  photo  detector. Because oxyhemoglobin and deoxyhemoglobin differ in light absorption, the amount of red and infrared light absorbed by blood is related to hemoglobin oxygen saturation. To identify  the  oxygen  saturation  of  arterial  hemoglobin,  the  monitor  uses  the  pulsatile nature of arterial flow. During systole, a new pulse of arterial blood enters the vascular bed, and blood volume and light absorption increase. During diastole, blood volume and light absorption reach their lowest point. The  monitor bases its SpO2 measurements on the  difference  between  maximum  and  minimum absorption (measurements at systole and  diastole).  By  doing  so,  it  focuses  on  light  absorption  by  pulsatile  arterial  blood, eliminating the effects of nonpulsatile absorbers such as tissue, bone, and venous blood."
+    }
+  ],
+  "page_stats": {
+    "block_count": 9,
+    "text_blocks": 8,
+    "paragraphs": 3,
+    "headings": 2,
+    "list_items": 2,
+    "captions": 1,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 1,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

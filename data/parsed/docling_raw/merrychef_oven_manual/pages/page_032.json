@@ -1,0 +1,106 @@
+{
+  "page": 32,
+  "document_id": "doc_27a62e0f",
+  "page_bbox": {
+    "width": 594.9600219726562,
+    "height": 842.52001953125
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0398",
+      "reading_order": 475,
+      "section": "conneX 16",
+      "bbox": {
+        "l": 39.12,
+        "t": 787.84801953125,
+        "r": 100.32000000000001,
+        "b": 777.0644393785782
+      },
+      "content": "conneX 16",
+      "level": 2
+    },
+    {
+      "type": "caption",
+      "id": "txt_0399",
+      "reading_order": 476,
+      "section": "conneX 16",
+      "bbox": {
+        "l": 36.0,
+        "t": 747.9060195312501,
+        "r": 138.78,
+        "b": 739.8183344167462
+      },
+      "content": "Front view (door closed)"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0400",
+      "reading_order": 477,
+      "section": "conneX 16",
+      "bbox": {
+        "l": 237.6,
+        "t": 747.9060195312501,
+        "r": 372.654,
+        "b": 739.8183344167462
+      },
+      "content": "Cavity dimensions (door closed)"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0042",
+      "reading_order": 478,
+      "section": "conneX 16",
+      "bbox": {
+        "l": 35.961424075546404,
+        "t": 735.7455671608784,
+        "r": 533.3604623923595,
+        "b": 505.1725932677516
+      },
+      "image_path": "figures/figure_0042.png",
+      "previous_block_id": "txt_0400",
+      "next_block_id": "txt_0401"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0401",
+      "reading_order": 479,
+      "section": "conneX 16",
+      "bbox": {
+        "l": 36.0,
+        "t": 490.02601953125003,
+        "r": 170.10000000000002,
+        "b": 481.9383344167462
+      },
+      "content": "View from the top (door closed)"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0043",
+      "reading_order": 480,
+      "section": "conneX 16",
+      "bbox": {
+        "l": 44.68355909610136,
+        "t": 455.7672676152394,
+        "r": 546.9249806191553,
+        "b": 261.2560706311839
+      },
+      "image_path": "figures/figure_0043.png",
+      "previous_block_id": "txt_0401",
+      "next_block_id": "txt_0402"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0402",
+      "reading_order": 481,
+      "section": "conneX 16",
+      "bbox": {
+        "l": 252.0,
+        "t": 490.02601953125003,
+        "r": 430.01099999999997,
+        "b": 481.9383344167462
+      },
+      "content": "View from the right-hand side (door open)"
+    }
+  ]
+}

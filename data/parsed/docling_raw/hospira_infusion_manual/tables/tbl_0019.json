@@ -1,0 +1,15 @@
+{
+  "id": "tbl_0019",
+  "page": 51,
+  "section": "4.3.3 CPU PWA",
+  "title": null,
+  "markdown": "| Table 4-7. CPU PWA Interface Connections   | Table 4-7. CPU PWA Interface Connections   | Table 4-7. CPU PWA Interface Connections                                    |\n|--------------------------------------------|--------------------------------------------|-----------------------------------------------------------------------------|\n| Connector                                  | Type                                       | Interface                                                                   |\n| J7                                         | 96 pin header                              | Connection to peripheral PWA (CPU bus; rear panel I/O; communication ports) |\n| J2                                         | 30 pin header                              | Connection to power supply PWA                                              |\n| J3                                         | 50 pin SMT                                 | Ribbon cable connection to driver PWA (mechanism)                           |\n| 21 pin                                     | header                                     | J4 Front panel connector (keypad; LEDs; ON/OFF switch)                      |\n| 14 pin                                     | SMT Flat                                   | J5 flex cable to LCD panel                                                  |\n| J6                                         | 4 pin header                               | Lock box connector                                                          |\n| J20                                        | 4 pin header                               | CCFT backlight connector                                                    |\n| J24                                        | 2 pin header                               | Main audible alarm connector                                                |",
+  "block_id": "#/tables/18",
+  "reading_order": 466,
+  "bbox": {
+    "l": 106.79426574707031,
+    "t": 739.2590827941895,
+    "r": 540.9595947265625,
+    "b": 525.2994689941406
+  }
+}

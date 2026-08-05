@@ -1,0 +1,202 @@
+{
+  "page": 5,
+  "document_id": "doc_1032c87b",
+  "page_bbox": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0025",
+      "reading_order": 27,
+      "section": "2.1.2 Rectifier",
+      "bbox": {
+        "l": 74.664,
+        "t": 730.6359829101563,
+        "r": 155.996,
+        "b": 719.8728447886093
+      },
+      "content": "2.1.2 Rectifier",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0026",
+      "reading_order": 28,
+      "section": "2.1.2 Rectifier",
+      "bbox": {
+        "l": 77.904,
+        "t": 700.7876629101563,
+        "r": 541.3863199999994,
+        "b": 660.116101363195
+      },
+      "content": "Rectifier of this series of UPS uses IGBT three-phase rectifier bridge with full digital control, and it can transfer the voltage of three-phase of main power to continuous DC voltage. Design power is inverter with full load and supplies maximum charging current for battery."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0027",
+      "reading_order": 29,
+      "section": "2.1.2 Rectifier",
+      "bbox": {
+        "l": 77.904,
+        "t": 653.9876629101562,
+        "r": 541.6060800000001,
+        "b": 597.716101363195
+      },
+      "content": "Rectifier has the function of power factor calibration, which can reduce the harmonic distortion of main power to 5% and less. It can ensure that, no matter how is the load, the rectifier cannot cause voltage  distortion  of  main  power  and  can  avoid  overheat  of  cable  caused  by  over-current  of harmonic wave."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0028",
+      "reading_order": 30,
+      "section": "2.1.3 Inverter",
+      "bbox": {
+        "l": 74.664,
+        "t": 579.8859829101563,
+        "r": 158.036,
+        "b": 569.1228447886093
+      },
+      "content": "2.1.3 Inverter",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0029",
+      "reading_order": 31,
+      "section": "2.1.3 Inverter",
+      "bbox": {
+        "l": 77.904,
+        "t": 549.9176629101563,
+        "r": 541.61568,
+        "b": 509.24610136319495
+      },
+      "content": "Inverter of this series of UPS uses matured three-phase half-bridge IGBT inverter technology which can transfer the continuous voltage from rectifier or battery into stable alternating voltage with stable amplitude and frequency."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0030",
+      "reading_order": 32,
+      "section": "2.1.3 Inverter",
+      "bbox": {
+        "l": 77.904,
+        "t": 503.1176629101563,
+        "r": 541.4399199999996,
+        "b": 462.446101363195
+      },
+      "content": "Inverter  uses  full  digital  control  circuit  and  16  bits  microprocessor.  Because  of  its  superior processing capability, output sine wave produced by it is low, which only cause minimum distortion even under condition of extremely high peak current for load."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0031",
+      "reading_order": 33,
+      "section": "2.1.4 Static Transfer Switch",
+      "bbox": {
+        "l": 74.664,
+        "t": 444.6459829101563,
+        "r": 234.026,
+        "b": 433.88284478860936
+      },
+      "content": "2.1.4 Static Transfer Switch",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0032",
+      "reading_order": 34,
+      "section": "2.1.4 Static Transfer Switch",
+      "bbox": {
+        "l": 77.904,
+        "t": 414.7976629101563,
+        "r": 541.61856,
+        "b": 311.706101363195
+      },
+      "content": "'Static  switch'  shown  in  Figure  2-1  takes  controllable  silicon  as  converter  to  convert  the  load between power supply of inverter and power supply of main power. Under normal operation, inverter output and static bypass power must be synchronous fully, and then it can realize the uninterrupted conversion between inverter and static bypass power. Synchronization between inverter output and static bypass power supply is realized by controlling circuit through inverter. When static bypass power  frequency  is  within  allowed  synchronization  range,  inverter  control  circuit  always  let  the inverter output frequency trace static bypass power frequency"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0033",
+      "reading_order": 35,
+      "section": "2.1.4 Static Transfer Switch",
+      "bbox": {
+        "l": 77.904,
+        "t": 305.5776629101563,
+        "r": 541.6089599999999,
+        "b": 264.9061013631949
+      },
+      "content": "In addition, UPS also provides manual control of maintenance bypass. If it needs to power off the UPS to take daily maintenance and repairing, UPS can supply power for major load by maintenance bypass."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0034",
+      "reading_order": 36,
+      "section": "2.1.5 Redundancy Control Power board",
+      "bbox": {
+        "l": 74.664,
+        "t": 247.10598291015629,
+        "r": 302.086,
+        "b": 236.34284478860934
+      },
+      "content": "2.1.5 Redundancy Control Power board",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0035",
+      "reading_order": 37,
+      "section": "2.1.5 Redundancy Control Power board",
+      "bbox": {
+        "l": 77.904,
+        "t": 217.10766291015625,
+        "r": 541.5649599999998,
+        "b": 160.83610136319498
+      },
+      "content": "UPS is equipped with two same control power board with mutual stand-by. Both these two control board can get input power from AC or DC power supply. If there is some fault for one power or one control power board, UPS system still can operate normally. This function supplies higher reliability for the system."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0036",
+      "reading_order": 38,
+      "section": "2.1.6 Battery",
+      "bbox": {
+        "l": 74.664,
+        "t": 143.03598291015624,
+        "r": 155.39600000000002,
+        "b": 132.2728447886093
+      },
+      "content": "2.1.6 Battery",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0037",
+      "reading_order": 39,
+      "section": "2.1.6 Battery",
+      "bbox": {
+        "l": 77.904,
+        "t": 113.06766291015629,
+        "r": 541.3823999999997,
+        "b": 88.00010136319497
+      },
+      "content": "Battery pack is installed in external battery cabinet. Charging and discharging control of battery is fully integrated in main control panel. According to DIN41773 standard, after partial discharge or full discharge every time, the battery needs to be charged, and it shall float charge it after charging fully to compensate self discharge loss of the battery."
+    }
+  ],
+  "page_stats": {
+    "block_count": 13,
+    "text_blocks": 13,
+    "paragraphs": 8,
+    "headings": 5,
+    "list_items": 0,
+    "captions": 0,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 0,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

@@ -1,0 +1,336 @@
+{
+  "page": 57,
+  "document_id": "doc_27a62e0f",
+  "page_bbox": {
+    "width": 594.9600219726562,
+    "height": 842.52001953125
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0128",
+      "reading_order": 809,
+      "section": "High leakage current",
+      "bbox": {
+        "l": 34.196577606108356,
+        "t": 792.7293962609721,
+        "r": 46.56363219794614,
+        "b": 781.4927786155444
+      },
+      "image_path": "figures/figure_0128.png",
+      "next_block_id": "txt_0633",
+      "width": 12,
+      "height": 11,
+      "decorative": true,
+      "image_hash": "9090c51d0ef40f2ec1951217207f66d01e618921e887318905b734e939e11cb5"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0633",
+      "reading_order": 810,
+      "section": "WARNING",
+      "bbox": {
+        "l": 50.04,
+        "t": 788.46601953125,
+        "r": 97.37999999999998,
+        "b": 780.2787304760582
+      },
+      "content": "WARNING",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0634",
+      "reading_order": 811,
+      "section": "Never touch the component under test while tests are being carried through.",
+      "bbox": {
+        "l": 36.0,
+        "t": 776.10901953125,
+        "r": 383.454,
+        "b": 767.9217304760582
+      },
+      "content": "Never touch the component under test while tests are being carried through.",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0635",
+      "reading_order": 812,
+      "section": "Never touch the component under test while tests are being carried through.",
+      "bbox": {
+        "l": 53.99100000000004,
+        "t": 764.47201953125,
+        "r": 558.549,
+        "b": 743.7843344167462
+      },
+      "content": " Call a trained authorized Merrychef service agent if the oven under test still fails in order to check all earth connections and disconnect the radio interference filters before repeating the test if required."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0636",
+      "reading_order": 813,
+      "section": "Earth/insulation test",
+      "bbox": {
+        "l": 36.0,
+        "t": 733.24791953125,
+        "r": 152.16,
+        "b": 722.4643393785782
+      },
+      "content": "Earth/insulation test",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0637",
+      "reading_order": 814,
+      "section": "Earth/insulation test",
+      "bbox": {
+        "l": 36.0,
+        "t": 718.0260195312501,
+        "r": 265.743,
+        "b": 709.9383344167462
+      },
+      "content": "Check that the following requirements have been met:"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0638",
+      "reading_order": 815,
+      "section": "Earth/insulation test",
+      "bbox": {
+        "l": 54.00000000000003,
+        "t": 694.0230195312499,
+        "r": 558.765,
+        "b": 673.3353344167462
+      },
+      "content": " The appliance has been disconnected from the power supply and protective measures have been taken to ensure the power cannot be switched on again."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0639",
+      "reading_order": 816,
+      "section": "Earth/insulation test",
+      "bbox": {
+        "l": 151.92,
+        "t": 656.58601953125,
+        "r": 467.64959999999996,
+        "b": 648.4983344167462
+      },
+      "content": "Connect the mains lead  from the appliance to a portable appliance tester"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0640",
+      "reading_order": 817,
+      "section": "Earth/insulation test",
+      "bbox": {
+        "l": 151.92,
+        "t": 567.3060195312501,
+        "r": 560.1,
+        "b": 546.9783344167462
+      },
+      "content": "Connect the earth from the  portable appliance tester to the equipotential bonding point on the oven."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0641",
+      "reading_order": 818,
+      "section": "Earth/insulation test",
+      "bbox": {
+        "l": 151.92,
+        "t": 472.98601953125,
+        "r": 554.2896000000001,
+        "b": 464.8983344167462
+      },
+      "content": "Place the portable appliance tester in an open area, such as the floor, away  from any persons."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0129",
+      "reading_order": 819,
+      "section": "Earth/insulation test",
+      "bbox": {
+        "l": 42.53966018551679,
+        "t": 660.4319056861748,
+        "r": 143.55437981747406,
+        "b": 572.1383188795542
+      },
+      "image_path": "figures/figure_0129.png",
+      "previous_block_id": "txt_0641",
+      "next_block_id": "txt_0642",
+      "image_hash": "b7e793a9f4a0c2e7aa7658cae927c97545272a626dc29b4154e1ecd88589117d",
+      "width": 101,
+      "height": 88
+    },
+    {
+      "type": "figure",
+      "id": "fig_0130",
+      "reading_order": 820,
+      "section": "Earth/insulation test",
+      "bbox": {
+        "l": 42.615506529491086,
+        "t": 570.9428024509765,
+        "r": 143.827173376902,
+        "b": 474.7176227926112
+      },
+      "image_path": "figures/figure_0130.png",
+      "previous_block_id": "txt_0641",
+      "next_block_id": "txt_0642",
+      "image_hash": "5b2be08359c3fd41b38e0fab43a32971e95f61ee7b00a3e0181007b557511f4f",
+      "width": 101,
+      "height": 96
+    },
+    {
+      "type": "figure",
+      "id": "fig_0131",
+      "reading_order": 821,
+      "section": "Earth/insulation test",
+      "bbox": {
+        "l": 42.61002136339598,
+        "t": 475.9881392185834,
+        "r": 144.01736140298118,
+        "b": 388.53268272038173
+      },
+      "image_path": "figures/figure_0131.png",
+      "previous_block_id": "txt_0641",
+      "next_block_id": "txt_0642",
+      "image_hash": "e4a534f0290478c2413e2adce4ad1e6dc542a27dc0ede87f6a9b8bbd14e20d96",
+      "width": 101,
+      "height": 87
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0642",
+      "reading_order": 822,
+      "section": "Earth/insulation test",
+      "bbox": {
+        "l": 36.0,
+        "t": 368.94601953125,
+        "r": 290.83499999999987,
+        "b": 360.8583344167462
+      },
+      "content": "Perform a Class 1 test in accordance with tester instructions."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0643",
+      "reading_order": 823,
+      "section": "Earth/insulation test",
+      "bbox": {
+        "l": 54.01799999999997,
+        "t": 357.06601953125,
+        "r": 346.518,
+        "b": 348.61833441674617
+      },
+      "content": " A PASS indicates the oven earthing circuit is functioning correctly."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0644",
+      "reading_order": 824,
+      "section": "Earth/insulation test",
+      "bbox": {
+        "l": 54.01799999999997,
+        "t": 345.06901953125,
+        "r": 559.2690000000001,
+        "b": 324.2643344167461
+      },
+      "content": " If  a  FAIL  is  indicated  (i.e.,  unit  exceeds maximum  limit), remove the casing  of the  appliance  and check ALL earth connections. Then repeat the Class 1 test."
+    },
+    {
+      "type": "admonition",
+      "id": "txt_0645",
+      "reading_order": 825,
+      "severity": "warning",
+      "content": "WARNING: Never operate an appliance that has failed this test as it could be potentially dangerous.",
+      "section": "WARNING",
+      "bbox": {
+        "l": 50.04,
+        "t": 307.74591953125,
+        "r": 97.37999999999998,
+        "b": 299.5586304760583
+      },
+      "icon_path": "figures/figure_0132.png"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0647",
+      "reading_order": 828,
+      "section": "Service settings: Tests",
+      "bbox": {
+        "l": 39.12,
+        "t": 265.24801953125007,
+        "r": 163.92,
+        "b": 254.46443937857828
+      },
+      "content": "Service settings: Tests",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0133",
+      "reading_order": 829,
+      "section": "Service settings: Tests",
+      "bbox": {
+        "l": 35.91099716610463,
+        "t": 242.44915790511197,
+        "r": 211.39799615000413,
+        "b": 140.77185358865404
+      },
+      "image_path": "figures/figure_0133.png",
+      "previous_block_id": "txt_0647",
+      "next_block_id": "txt_0648",
+      "image_hash": "320e4abb10691dd02ecfc708cb8a6ddfe16f85f24f43b4939080bdd319ac4941",
+      "width": 175,
+      "height": 102
+    },
+    {
+      "type": "figure",
+      "id": "fig_0134",
+      "reading_order": 830,
+      "section": "Service settings: Tests",
+      "bbox": {
+        "l": 222.31263750224932,
+        "t": 242.49521321054738,
+        "r": 394.86909686047744,
+        "b": 140.6489377734854
+      },
+      "image_path": "figures/figure_0134.png",
+      "previous_block_id": "txt_0647",
+      "next_block_id": "txt_0648",
+      "image_hash": "fe22637186486ce450df0aa29105eca0efc336e2310d88a9f335facfd74160b5",
+      "width": 173,
+      "height": 102
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0648",
+      "reading_order": 831,
+      "section": "Service settings: Tests",
+      "bbox": {
+        "l": 35.98199999999997,
+        "t": 120.79501953125009,
+        "r": 536.922,
+        "b": 100.58433441674629
+      },
+      "content": "Enter Service Settings screen and select 'Tests'. For details see \"Accessing the service information\" section 5.1. Select the required individual test for the appliance to perform."
+    }
+  ],
+  "page_stats": {
+    "block_count": 21,
+    "text_blocks": 15,
+    "paragraphs": 3,
+    "headings": 4,
+    "list_items": 7,
+    "captions": 0,
+    "admonitions": 1,
+    "references": 0,
+    "figures": 6,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

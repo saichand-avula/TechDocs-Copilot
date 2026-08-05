@@ -1,0 +1,50 @@
+{
+  "page": 73,
+  "document_id": "doc_7e4fe272",
+  "blocks": [
+    {
+      "type": "admonition",
+      "id": "txt_0417",
+      "reading_order": 492,
+      "section": "/page/71/SectionHeader/4",
+      "content": "CAUTION: ESD sensitive part.",
+      "severity": "caution"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0069",
+      "reading_order": 493,
+      "section": "/page/71/SectionHeader/4",
+      "image_path": "figures/figure_0069.png",
+      "previous_text_id": "txt_0417",
+      "next_text_id": "txt_0418"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_0418",
+      "reading_order": 494,
+      "section": "/page/71/SectionHeader/4",
+      "content": "NOTE: This connector is a zero-insertion force (ZIF) connector. Open the locking clip. The clip is easily dislodged and lost.",
+      "severity": "note"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0070",
+      "reading_order": 495,
+      "section": "/page/71/SectionHeader/4",
+      "image_path": "figures/figure_0070.png",
+      "previous_text_id": "txt_0418",
+      "next_text_id": "txt_0419",
+      "caption": "Figure 1-78 Disconnect one FFC (M507/E50145)",
+      "caption_id": "txt_0419"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0419",
+      "reading_order": 496,
+      "section": "/page/71/SectionHeader/4",
+      "content": "Figure 1-78 Disconnect one FFC (M507/E50145)",
+      "caption_for": "fig_0070"
+    }
+  ]
+}

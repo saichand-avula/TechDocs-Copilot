@@ -1,0 +1,83 @@
+{
+  "page": 211,
+  "document_id": "doc_37f23c38",
+  "page_bbox": {
+    "width": 612.0,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_1383",
+      "reading_order": 1536,
+      "section": "ELECTROMAGNETIC IMMUNITY FOR LIFE-SUPPORTING EQUIPMENT AND SYSTEMS",
+      "bbox": {
+        "l": 108.0,
+        "t": 738.18876,
+        "r": 486.9590279999997,
+        "b": 706.2830844297522
+      },
+      "content": "ELECTROMAGNETIC IMMUNITY FOR LIFE-SUPPORTING EQUIPMENT AND SYSTEMS",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1384",
+      "reading_order": 1537,
+      "section": "ELECTROMAGNETIC IMMUNITY FOR LIFE-SUPPORTING EQUIPMENT AND SYSTEMS",
+      "bbox": {
+        "l": 108.0,
+        "t": 692.1027600000001,
+        "r": 529.5206999999998,
+        "b": 683.2073370491804
+      },
+      "content": "Table A-3 provides guidance for use of the Plum A+ ®  near communications equipment."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0108",
+      "reading_order": 1538,
+      "section": "ELECTROMAGNETIC IMMUNITY FOR LIFE-SUPPORTING EQUIPMENT AND SYSTEMS",
+      "bbox": {
+        "l": 422.5218200683594,
+        "t": 109.87030029296875,
+        "r": 466.5958251953125,
+        "b": 68.68267822265625
+      },
+      "image_path": "figures/figure_0108.png",
+      "previous_block_id": "txt_1384",
+      "image_hash": "9fefcfe77855c12aa8b272ccc8cf4fbf075253d1b61c7612c7be7b7abcf8c459",
+      "width": 44,
+      "height": 41
+    },
+    {
+      "type": "table",
+      "id": "tbl_0048",
+      "reading_order": 1539,
+      "section": "ELECTROMAGNETIC IMMUNITY FOR LIFE-SUPPORTING EQUIPMENT AND SYSTEMS",
+      "bbox": {
+        "l": 106.8404312133789,
+        "t": 671.1307983398438,
+        "r": 541.307861328125,
+        "b": 63.71600341796875
+      },
+      "markdown": "| Table A-3. Guidance and Manufacturer's Declaration -   | Table A-3. Guidance and Manufacturer's Declaration -   | Table A-3. Guidance and Manufacturer's Declaration -   | Table A-3. Guidance and Manufacturer's Declaration -                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |\n|--------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Immunity Test                                          | IEC 60601 Test Level                                   | Compliance Level                                       | Electromagnetic Immunity-Guidance                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |\n|                                                        |                                                        |                                                        | Portable and mobile RF communications equipment should be used no closer to any part of the infusion system, including cables, than the recommended separation distance calculated from the equation applicable to the frequency of the transmitter.                                                                                                                                                                                                                                                                                                            |\n| Conducted RF IEC 61000-4-6                             | 3 V rms 150 kHz to 80 MHz outside ISM bands a          | [V 1 ] V                                               | Recommended separation distance d 3 5 , V 1 - - - - - - - - - - P = d 12 V 2 - - - - - P =                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |\n| Conducted RF IEC 61000-4-6                             | 10 V rms 150 kHz to 80 MHz in ISM bands a              | [V 2 ] V                                               | Recommended separation distance d 3 5 , V 1 - - - - - - - - - - P = d 12 V 2 - - - - - P =                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |\n| Radiated RF IEC 61000-4-3                              | 10 V/m 80 MHZ to 2.5 GHz                               | [E 1 ] V/m                                             | Recommended separation distance: Where P is the maximum output power rating of the transmitter in watts (W) according to the transmitter manufacturer and d is the recommended separation distance in meters (m). b Field strengths from fixed RF transmitters, as determined by an electromagnetic site survey, c should be less than the compliance level in each frequency range. d Interference may occur in the vicinity of equipment marked with the following symbol: d 12 E 1 - - - - - P 80 MHz to 800 MHz = d 23 E 1 - - - - - P 800 MHz to 2.5 GHz = |",
+      "rows": 6,
+      "cols": 4
+    }
+  ],
+  "page_stats": {
+    "block_count": 4,
+    "text_blocks": 2,
+    "paragraphs": 1,
+    "headings": 1,
+    "list_items": 0,
+    "captions": 0,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 1,
+    "tables": 1,
+    "toc_tables": 0
+  }
+}

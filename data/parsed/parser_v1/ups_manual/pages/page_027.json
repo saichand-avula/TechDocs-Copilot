@@ -1,0 +1,127 @@
+{
+  "page": 27,
+  "document_id": "doc_1032c87b",
+  "page_bbox": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0225",
+      "reading_order": 265,
+      "section": "3.3.2 Handling of Cabinet",
+      "bbox": {
+        "l": 74.664,
+        "t": 723.1959829101563,
+        "r": 227.42600000000002,
+        "b": 712.4328447886094
+      },
+      "content": "3.3.2 Handling of Cabinet",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0226",
+      "reading_order": 266,
+      "section": "3.3.2 Handling of Cabinet",
+      "bbox": {
+        "l": 77.904,
+        "t": 693.2276629101563,
+        "r": 541.6041600000002,
+        "b": 636.956101363195
+      },
+      "content": "Lifting equipment used to carry UPS cabinet must have sufficient lifting capacity (See Table 2-1 for the total weight of UPS). The rectifier cabinet and inverter cabinet of 400 ~ 500 kVA UPS should be carried separately. Before the UPS is put in the final location, pallet truck or forklift can be used to lift or carry UPS; only when the front lower baffle is removed, the forklift can be used."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0035",
+      "reading_order": 267,
+      "section": "3.3.2 Handling of Cabinet",
+      "bbox": {
+        "l": 152.65467431627434,
+        "t": 634.9581006928457,
+        "r": 445.6257714029621,
+        "b": 433.9943666660211
+      },
+      "image_path": "figures/figure_0035.png",
+      "previous_block_id": "txt_0226",
+      "next_block_id": "txt_0227",
+      "caption_id": "txt_0227",
+      "caption": ": Carrying of 80 ~ 500 kVA stand-alone cabinet",
+      "figure_number": "Figure 3-8",
+      "image_hash": "5d6cc566d2eed4c742fb7729a3aec4cc32634965ba59c1e2829b688875147fa1",
+      "width": 293,
+      "height": 201
+    },
+    {
+      "type": "caption",
+      "id": "txt_0227",
+      "reading_order": 268,
+      "section": "3.3.2 Handling of Cabinet",
+      "bbox": {
+        "l": 173.33,
+        "t": 414.0776629101563,
+        "r": 440.67568,
+        "b": 404.60610136319497
+      },
+      "content": "Figure 3-8: Carrying of 80 ~ 500 kVA stand-alone cabinet",
+      "caption_for": "fig_0035"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0228",
+      "reading_order": 269,
+      "section": "3.3.3 Cabinet Parallel Installation",
+      "bbox": {
+        "l": 74.664,
+        "t": 366.8659829101563,
+        "r": 264.866,
+        "b": 356.10284478860933
+      },
+      "content": "3.3.3 Cabinet Parallel Installation",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0229",
+      "reading_order": 270,
+      "section": "3.3.3 Cabinet Parallel Installation",
+      "bbox": {
+        "l": 77.904,
+        "t": 336.89766291015627,
+        "r": 447.63568,
+        "b": 327.4261013631949
+      },
+      "content": "The two cabinets of 400 ~ 500 kVA UPS can be installed in parallel as follows:"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0230",
+      "reading_order": 271,
+      "section": "3.3.3 Cabinet Parallel Installation",
+      "bbox": {
+        "l": 74.664,
+        "t": 321.2976629101563,
+        "r": 541.4562399999993,
+        "b": 280.62610136319495
+      },
+      "content": "Side-by-side placement: place the rectifier cabinet and inverter cabinet side by side as shown in Figure 3-9. Don't leave any gap between the two cabinets which should be placed in the same level."
+    }
+  ],
+  "page_stats": {
+    "block_count": 7,
+    "text_blocks": 6,
+    "paragraphs": 2,
+    "headings": 2,
+    "list_items": 1,
+    "captions": 1,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 1,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

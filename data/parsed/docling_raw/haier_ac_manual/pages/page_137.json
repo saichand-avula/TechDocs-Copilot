@@ -1,0 +1,304 @@
+{
+  "page": 137,
+  "document_id": "doc_229deb31",
+  "page_bbox": {
+    "width": 595.219970703125,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_1189",
+      "reading_order": 1565,
+      "section": "7.3.3    IPM protection",
+      "bbox": {
+        "l": 56.962,
+        "t": 774.112656,
+        "r": 191.99463245999988,
+        "b": 761.20329
+      },
+      "content": "7.3.3    IPM protection",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "id": "txt_1190",
+      "reading_order": 1566,
+      "section": "outdoor display",
+      "bbox": {
+        "l": 56.962,
+        "t": 737.8984152,
+        "r": 154.51373078,
+        "b": 728.6456380000001
+      },
+      "content": "outdoor display",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1191",
+      "reading_order": 1567,
+      "section": "outdoor display",
+      "bbox": {
+        "l": 156.70516380000004,
+        "t": 737.8984152,
+        "r": 264.84249492000015,
+        "b": 728.6456380000001
+      },
+      "content": "LED1    flash    2    times:"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1192",
+      "reading_order": 1568,
+      "section": "outdoor display",
+      "bbox": {
+        "l": 274.7542,
+        "t": 737.8984152,
+        "r": 364.91434375999995,
+        "b": 728.6456380000001
+      },
+      "content": "Indoor Display    F1"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1193",
+      "reading_order": 1569,
+      "section": "outdoor display",
+      "bbox": {
+        "l": 144.3796016,
+        "t": 699.2463152,
+        "r": 517.3946627599997,
+        "b": 689.9935380000001
+      },
+      "content": "IPM protection is detected by checking the compressor running condition and so on."
+    },
+    {
+      "type": "heading",
+      "id": "txt_1194",
+      "reading_order": 1570,
+      "section": "Method of Malfunction Detection",
+      "bbox": {
+        "l": 56.96199999999999,
+        "t": 699.2463152,
+        "r": 145.74999636000004,
+        "b": 667.011478
+      },
+      "content": "Method of Malfunction Detection",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "id": "txt_1195",
+      "reading_order": 1571,
+      "section": "Malfunction Decision",
+      "bbox": {
+        "l": 56.961444499999985,
+        "t": 650.4216152,
+        "r": 141.03211862999993,
+        "b": 628.2471380000001
+      },
+      "content": "Malfunction Decision",
+      "level": 2
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1196",
+      "reading_order": 1572,
+      "section": "Malfunction Decision",
+      "bbox": {
+        "l": 142.7023,
+        "t": 650.6314514000001,
+        "r": 405.45223267000017,
+        "b": 640.6133274875
+      },
+      "content": "Ƶ The system leads to IPM protection due to over current"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1197",
+      "reading_order": 1573,
+      "section": "Malfunction Decision",
+      "bbox": {
+        "l": 143.1812,
+        "t": 637.7097514,
+        "r": 369.41490436000004,
+        "b": 627.6916274875
+      },
+      "content": "Ƶ The compressor faulty leads to IPM protection"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1198",
+      "reading_order": 1574,
+      "section": "Malfunction Decision",
+      "bbox": {
+        "l": 56.95990493000001,
+        "t": 624.57900138,
+        "r": 111.87557833000002,
+        "b": 615.32622418
+      },
+      "content": "Conditions"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1199",
+      "reading_order": 1575,
+      "section": "Malfunction Decision",
+      "bbox": {
+        "l": 143.78,
+        "t": 624.7850513999999,
+        "r": 433.07776270000096,
+        "b": 614.7669274875
+      },
+      "content": "Ƶ circuit component of IPM is broken and led to IPM protection"
+    },
+    {
+      "type": "heading",
+      "id": "txt_1200",
+      "reading_order": 1576,
+      "section": "Supposed Causes",
+      "bbox": {
+        "l": 56.95948659999999,
+        "t": 598.0691152,
+        "r": 147.67391862999992,
+        "b": 575.8954241800001
+      },
+      "content": "Supposed Causes",
+      "level": 2
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1201",
+      "reading_order": 1577,
+      "section": "Supposed Causes",
+      "bbox": {
+        "l": 149.8229,
+        "t": 598.2789514000001,
+        "r": 375.39548007,
+        "b": 588.2608274875
+      },
+      "content": "Ƶ IPM protection dues to the compressor faulty"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1202",
+      "reading_order": 1578,
+      "section": "Supposed Causes",
+      "bbox": {
+        "l": 147.0708,
+        "t": 585.3542514000001,
+        "r": 426.3394820399994,
+        "b": 575.3361274875
+      },
+      "content": "Ƶ IPM protection dues to faulty PCB of IPM module"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1203",
+      "reading_order": 1579,
+      "section": "Supposed Causes",
+      "bbox": {
+        "l": 145.9932,
+        "t": 572.4234796,
+        "r": 311.50185887999976,
+        "b": 561.925514000532
+      },
+      "content": "Ƶ Compressor wiring disconnected"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1204",
+      "reading_order": 1580,
+      "section": "Supposed Causes",
+      "bbox": {
+        "l": 56.964017,
+        "t": 546.1335152,
+        "r": 551.7400100900007,
+        "b": 521.4427890000001
+      },
+      "content": "Troubleshooting        * Caution Be sure to turn off power switch before connect or disconnect connector,      or else parts damage may be occurred."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0293",
+      "reading_order": 1581,
+      "section": "Supposed Causes",
+      "bbox": {
+        "l": 71.15360737842109,
+        "t": 511.9801330566406,
+        "r": 464.75226016172337,
+        "b": 186.57696533203125
+      },
+      "image_path": "figures/figure_0293.png",
+      "previous_block_id": "txt_1204",
+      "next_block_id": "txt_1205"
+    },
+    {
+      "type": "heading",
+      "id": "txt_1205",
+      "reading_order": 1582,
+      "section": "Check the IPM module method:",
+      "bbox": {
+        "l": 202.1764785,
+        "t": 172.7749622,
+        "r": 353.4952281799996,
+        "b": 163.52218500000004
+      },
+      "content": "Check the IPM module method:",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1206",
+      "reading_order": 1583,
+      "section": "Check the IPM module method:",
+      "bbox": {
+        "l": 109.31625222999999,
+        "t": 159.43537519999995,
+        "r": 443.4528544699992,
+        "b": 150.18259799999998
+      },
+      "content": "Disconnect the compressor harness connector from the outdoor unit PCB."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1207",
+      "reading_order": 1584,
+      "section": "Check the IPM module method:",
+      "bbox": {
+        "l": 109.31625222999999,
+        "t": 147.94434520000004,
+        "r": 406.7578379299994,
+        "b": 138.69156799999996
+      },
+      "content": "To disengage the connector, press the protrusion on the connector."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1208",
+      "reading_order": 1585,
+      "section": "Check the IPM module method:",
+      "bbox": {
+        "l": 109.31625222999999,
+        "t": 136.51426762000006,
+        "r": 550.786127439999,
+        "b": 104.27943042000004
+      },
+      "content": "Then, to measure resistance between P (+) andN (-) and the U, V and W terminals of the compressor  connector  with  a  multi-tester.  Evaluate  the  measurement  results  for  a  pass/fail judgment."
+    },
+    {
+      "type": "table",
+      "id": "tbl_0086",
+      "reading_order": 1586,
+      "section": "Check the IPM module method:",
+      "bbox": {
+        "l": 83.064526230629,
+        "t": 104.60687255859375,
+        "r": 497.51332981160704,
+        "b": 67.6324462890625
+      },
+      "markdown": "| N(-)terminal tester)   | of   | tester(P(+)for   | digital   | P(+)   | UVW P(-)   | UVW   |\n|------------------------|------|------------------|-----------|--------|------------|-------|\n| P(+)terminal           | of   | tester(N(-)for   | digital   | UVW    | P(+) UVW   | P(-)  |"
+    }
+  ]
+}

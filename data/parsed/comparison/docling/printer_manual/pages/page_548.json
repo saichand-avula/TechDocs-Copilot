@@ -1,0 +1,105 @@
+{
+  "page": 548,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_1560",
+      "reading_order": 5832,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 134.46110038002718,
+        "t": 720.4487686157227,
+        "r": 424.01853021121576,
+        "b": 502.1703796386719
+      },
+      "image_path": "figures/figure_1560.png",
+      "caption": "Release the fax PCA",
+      "figure_number": "Figure 1-903",
+      "image_hash": "8eecddb9489f7078a053e32e3fe293d0dd4f3d843f74b4a9f4ceb70f2ef2083b",
+      "width": 290,
+      "height": 218,
+      "previous_block_id": "txt_4230",
+      "next_block_id": "txt_4231",
+      "caption_id": "txt_4233"
+    },
+    {
+      "type": "caption",
+      "id": "txt_4231",
+      "reading_order": 5833,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 135.0,
+        "t": 732.29,
+        "r": 305.58998999999994,
+        "b": 720.7
+      },
+      "content": "Figure 1-902  Disconnect three connectors",
+      "caption_for": "fig_1560"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_4232",
+      "reading_order": 5834,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 113.0,
+        "t": 491.41999999999996,
+        "r": 257.1699999999999,
+        "b": 479.83000000000004
+      },
+      "content": "Pinch the retainer to release it."
+    },
+    {
+      "type": "figure",
+      "id": "fig_1561",
+      "reading_order": 5835,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 134.24271258689276,
+        "t": 459.94915771484375,
+        "r": 452.3524513579561,
+        "b": 141.3485107421875
+      },
+      "image_path": "figures/figure_1561.png",
+      "caption": "Release the fax PCA",
+      "figure_number": "Figure 1-903",
+      "image_hash": "15a3ca1280c6ff5d119454d2e4abbae5cdd416c2c6970e48dba10e295dc97f7b",
+      "width": 318,
+      "height": 319,
+      "previous_block_id": "txt_4232",
+      "next_block_id": "txt_4233"
+    },
+    {
+      "type": "caption",
+      "id": "txt_4233",
+      "reading_order": 5836,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 135.00001,
+        "t": 470.42,
+        "r": 271.28000999999995,
+        "b": 458.83
+      },
+      "content": "Figure 1-903  Release the fax PCA",
+      "caption_for": "fig_1560"
+    }
+  ],
+  "page_stats": {
+    "block_count": 5,
+    "text_blocks": 3,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 1,
+    "captions": 2,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 2,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

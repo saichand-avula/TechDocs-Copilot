@@ -1,0 +1,18 @@
+{
+  "id": "tbl_0146",
+  "page": 263,
+  "section": "2-4-6. β SERVO AMP Alarm Detect Function",
+  "title": null,
+  "markdown": "| PWM board LED display   | I/O Link board   | Alarm                        | Description                                                                                                 |\n|-------------------------|------------------|------------------------------|-------------------------------------------------------------------------------------------------------------|\n|                         |                  | Overvoltage(HV) This         | alarm is issued when the DC voltage of the main circuit power is too high.                                  |\n|                         |                  | DC link low voltage (LVDC)   | This alarm is issued when the DC voltage of the main circuit power is too low.                              |\n|                         |                  | Regenerative overheat (DCOH) | This alarm is issued when the average regenerative discharge energy is too high                             |\n|                         |                  | Overheat (OH)                | The load on the motor may be too high.                                                                      |\n|                         |                  | Fan stop (FAL)               | This alarm is issued when the fan motor built into the servo AMP has failed.                                |\n|                         |                  | Overcurrent (HC)             | This alarm is issued when an excessively large current flows in the main circuit                            |\n|                         |                  | AMP NOT READY                | This indicates that control power (+24VDC) is supplied. No alarm is issued, but the motor is not activated. |\n|                         |                  | AMP READY                    | This indicates that the motor is activate, and that commands can now be accepted.                           |",
+  "block_id": "#/tables/145",
+  "reading_order": 2414,
+  "bbox": {
+    "l": 72.37858581542969,
+    "t": 727.0423812866211,
+    "r": 541.7156372070312,
+    "b": 289.52239990234375
+  },
+  "rows": 9,
+  "cols": 4,
+  "type": "table"
+}

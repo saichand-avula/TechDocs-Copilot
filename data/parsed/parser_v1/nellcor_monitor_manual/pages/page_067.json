@@ -1,0 +1,169 @@
+{
+  "page": 67,
+  "document_id": "doc_f7e949ab",
+  "page_bbox": {
+    "width": 612.0,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0081",
+      "reading_order": 815,
+      "section": "B2-1. SpO2 module and SpO2 PCB Disassembly",
+      "bbox": {
+        "l": 137.66700744628906,
+        "t": 697.8542633056641,
+        "r": 322.6885681152344,
+        "b": 558.0823211669922
+      },
+      "image_path": "figures/figure_0081.png",
+      "next_block_id": "txt_0711",
+      "image_hash": "a83a56d27723b14f111a059cfee2677ea500c230ef63c263938628de4026f838",
+      "width": 185,
+      "height": 140
+    },
+    {
+      "type": "figure",
+      "id": "fig_0082",
+      "reading_order": 816,
+      "section": "B2-1. SpO2 module and SpO2 PCB Disassembly",
+      "bbox": {
+        "l": 138.1153564453125,
+        "t": 553.3068695068359,
+        "r": 322.52410888671875,
+        "b": 414.452880859375
+      },
+      "image_path": "figures/figure_0082.png",
+      "next_block_id": "txt_0711",
+      "image_hash": "7987966b1cc7c9a1cd9345d23e037af35ed8c6e67c0e99cd66714e992f0a7759",
+      "width": 185,
+      "height": 139
+    },
+    {
+      "type": "figure",
+      "id": "fig_0083",
+      "reading_order": 817,
+      "section": "B2-1. SpO2 module and SpO2 PCB Disassembly",
+      "bbox": {
+        "l": 137.39251708984375,
+        "t": 408.5665283203125,
+        "r": 322.7635803222656,
+        "b": 269.12060546875
+      },
+      "image_path": "figures/figure_0083.png",
+      "next_block_id": "txt_0711",
+      "image_hash": "2b2e5f8aac90b740e70073e4851a74bc209cf9a4aa5ccd9a358cf886d218dfdf",
+      "width": 186,
+      "height": 140
+    },
+    {
+      "type": "figure",
+      "id": "fig_0084",
+      "reading_order": 818,
+      "section": "B2-1. SpO2 module and SpO2 PCB Disassembly",
+      "bbox": {
+        "l": 135.4022216796875,
+        "t": 265.504150390625,
+        "r": 323.94390869140625,
+        "b": 123.356689453125
+      },
+      "image_path": "figures/figure_0084.png",
+      "next_block_id": "txt_0711",
+      "image_hash": "b72a9161f32d51ebd5b6f886f135a4115136b5a911448396a8dd9ede084f7a53",
+      "width": 189,
+      "height": 143
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0711",
+      "reading_order": 819,
+      "section": "B2-1. SpO2 module and SpO2 PCB Disassembly",
+      "bbox": {
+        "l": 341.999625,
+        "t": 696.75375,
+        "r": 529.3125,
+        "b": 665.99625
+      },
+      "content": "Remove the Shield plate from the SpO2 module."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0712",
+      "reading_order": 820,
+      "section": "B2-1. SpO2 module and SpO2 PCB Disassembly",
+      "bbox": {
+        "l": 342.0,
+        "t": 552.75375,
+        "r": 530.8125,
+        "b": 521.99625
+      },
+      "content": "Remove 3 PCB supporters on the SpO2 module."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0713",
+      "reading_order": 821,
+      "section": "B2-1. SpO2 module and SpO2 PCB Disassembly",
+      "bbox": {
+        "l": 342.000375,
+        "t": 516.75375,
+        "r": 515.8125,
+        "b": 485.99625
+      },
+      "content": "Remove the PI cable from the SpO2 module."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0714",
+      "reading_order": 822,
+      "section": "B2-1. SpO2 module and SpO2 PCB Disassembly",
+      "bbox": {
+        "l": 341.999625,
+        "t": 408.00375,
+        "r": 470.062875,
+        "b": 395.24625
+      },
+      "content": "Remove the SpO2 module"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0715",
+      "reading_order": 823,
+      "section": "B2-1. SpO2 module and SpO2 PCB Disassembly",
+      "bbox": {
+        "l": 341.999625,
+        "t": 263.2537500000001,
+        "r": 533.587125,
+        "b": 214.49625000000003
+      },
+      "content": "Turn down the grabbers of the Main board cable connector and the Analog board cable connector on the rear PCB."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0716",
+      "reading_order": 824,
+      "section": "B2-1. SpO2 module and SpO2 PCB Disassembly",
+      "bbox": {
+        "l": 341.99962500000004,
+        "t": 209.25374999999997,
+        "r": 536.0682,
+        "b": 178.49625000000003
+      },
+      "content": "Disconnect the Main board cable and the Analog board cable."
+    }
+  ],
+  "page_stats": {
+    "block_count": 10,
+    "text_blocks": 6,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 6,
+    "captions": 0,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 4,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

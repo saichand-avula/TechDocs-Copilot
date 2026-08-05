@@ -1,0 +1,163 @@
+{
+  "page": 41,
+  "document_id": "doc_7e4fe272",
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0254",
+      "reading_order": 292,
+      "section": "Before performing service",
+      "content": "Before performing service",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0255",
+      "reading_order": 293,
+      "section": "Turn the printer power off",
+      "content": "Turn the printer power off",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0256",
+      "reading_order": 294,
+      "section": "/page/40/SectionHeader/1",
+      "content": "○ Disconnect the power cable."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0034",
+      "reading_order": 295,
+      "section": "/page/40/SectionHeader/1",
+      "image_path": "figures/figure_0034.png",
+      "previous_text_id": "txt_0256",
+      "next_text_id": "txt_0257"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_0257",
+      "reading_order": 296,
+      "section": "/page/40/SectionHeader/1",
+      "content": "WARNING! To avoid damage to the printer, turn the printer off, wait 30 seconds, and then remove the power cord before attempting to service the printer.",
+      "severity": "warning"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0035",
+      "reading_order": 297,
+      "section": "/page/40/SectionHeader/1",
+      "image_path": "figures/figure_0035.png",
+      "previous_text_id": "txt_0257",
+      "next_text_id": "txt_0258"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0036",
+      "reading_order": 298,
+      "section": "/page/40/SectionHeader/1",
+      "image_path": "figures/figure_0036.png",
+      "previous_text_id": "txt_0257",
+      "next_text_id": "txt_0258"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_0258",
+      "reading_order": 299,
+      "section": "/page/40/SectionHeader/1",
+      "content": "CAUTION: This part contains components that are electrostatic discharge (ESD) sensitive. To reduce the possibility of ESD damage, always touch the sheet-metal chassis to ground yourself before touching an ESD sensitive part.",
+      "severity": "caution"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0259",
+      "reading_order": 300,
+      "section": "/page/40/SectionHeader/1",
+      "content": "Use the table below to identify the correct part number for your printer. To order the part, go to www.hp.com/buy/parts."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0260",
+      "reading_order": 301,
+      "section": "Table 1-5 Part number",
+      "content": "Table 1-5 Part number",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0261",
+      "reading_order": 302,
+      "section": "Dual in-line memory module (DIMM) kit part number",
+      "content": "Dual in-line memory module (DIMM) kit part number",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "table",
+      "id": "tbl_0007",
+      "reading_order": 303,
+      "section": "/page/40/SectionHeader/10",
+      "markdown": "| E5K48-67902 | HP 1GB DDR3 x32 144-pin 800MHz SODIMM (M527/E52545/M528/E52645) |\n|---|---|\n| 5851-6581 | HP 2GB DDR3 x32 144-pin 800MHz SODIMM (M527/E52545/M528/E52645) |\n| G6W84-67902 | HP 1GB 90-pin DDR3 x32 Slim DIMM (M506/E50045/M507/E50145) |\n| 2NR03-67901 | 1GB 90-Pin DDR3 Slim DIMM TAA-Compliant (M506/E50045/M507/E50145) |\n| 2NR09-67901 | 2GB 144-Pin DDR3 DIMM TAA-Compliant (M527/E52545/M528/E52645) |"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0262",
+      "reading_order": 304,
+      "section": "Required tools",
+      "content": "Required tools",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0263",
+      "reading_order": 305,
+      "section": "/page/40/SectionHeader/12",
+      "content": "No special tools are required to remove or install this assembly."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0264",
+      "reading_order": 306,
+      "section": "After performing service",
+      "content": "After performing service",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0265",
+      "reading_order": 307,
+      "section": "Turn the printer power on",
+      "content": "Turn the printer power on",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0266",
+      "reading_order": 308,
+      "section": "Post service test",
+      "content": "Post service test",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0267",
+      "reading_order": 309,
+      "section": "/page/40/SectionHeader/17",
+      "content": "Make sure that the printer initializes to a Ready state."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0268",
+      "reading_order": 310,
+      "section": "/page/40/SectionHeader/17",
+      "content": "Print a configuration page to make sure that the printer is functioning correctly."
+    }
+  ]
+}

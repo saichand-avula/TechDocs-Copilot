@@ -1,0 +1,180 @@
+{
+  "page": 411,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_3338",
+      "reading_order": 4529,
+      "section": "NOTE: Stapler models only.",
+      "bbox": {
+        "l": 122.0,
+        "t": 732.29,
+        "r": 214.15999999999997,
+        "b": 720.7
+      },
+      "content": "Remove the door."
+    },
+    {
+      "type": "figure",
+      "id": "fig_1153",
+      "reading_order": 4530,
+      "section": "NOTE: Stapler models only.",
+      "bbox": {
+        "l": 143.0581427448437,
+        "t": 698.7709350585938,
+        "r": 432.5086435434417,
+        "b": 482.0447692871094
+      },
+      "image_path": "figures/figure_1153.png",
+      "caption": "Remove the door",
+      "figure_number": "Figure 1-652",
+      "image_hash": "ce7e7f6b8351f6e92d573ee9df335512f2dd326652e50552e2e5bb1836aa7819",
+      "width": 290,
+      "height": 217,
+      "previous_block_id": "txt_3338",
+      "next_block_id": "txt_3339",
+      "caption_id": "txt_3339"
+    },
+    {
+      "type": "caption",
+      "id": "txt_3339",
+      "reading_order": 4531,
+      "section": "NOTE: Stapler models only.",
+      "bbox": {
+        "l": 143.99999,
+        "t": 711.29,
+        "r": 269.91999,
+        "b": 699.7
+      },
+      "content": "Figure 1-652  Remove the door",
+      "caption_for": "fig_1153"
+    },
+    {
+      "type": "heading",
+      "id": "txt_3340",
+      "reading_order": 4532,
+      "section": "13. Remove the right cover.",
+      "bbox": {
+        "l": 100.0,
+        "t": 470.42,
+        "r": 215.94999999999993,
+        "b": 458.83
+      },
+      "content": "13. Remove the right cover.",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "figure",
+      "id": "fig_1154",
+      "reading_order": 4533,
+      "section": "13. Remove the right cover.",
+      "bbox": {
+        "l": 105.8503396476259,
+        "t": 449.16845703125,
+        "r": 118.3447553678361,
+        "b": 436.1783142089844
+      },
+      "image_path": "figures/figure_1154.png",
+      "decorative": true,
+      "width": 12,
+      "height": 12,
+      "image_hash": "2105793e629132f70c5f4c60b76b76a76fe6616d037c4105b35bed5e962fd577",
+      "previous_block_id": "txt_3340",
+      "next_block_id": "txt_3341"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_3341",
+      "reading_order": 4534,
+      "section": "13. Remove the right cover.",
+      "bbox": {
+        "l": 122.0,
+        "t": 446.92,
+        "r": 545.92,
+        "b": 423.33
+      },
+      "content": "IMPORTANT: The black-plastic cassette front and rear guides (located inside the tray cavity) can be easily dislodged. Do not lose the guides when the cover is removed or installed.",
+      "severity": "important"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_3342",
+      "reading_order": 4535,
+      "section": "13. Remove the right cover.",
+      "bbox": {
+        "l": 122.00006,
+        "t": 413.92,
+        "r": 502.01006000000024,
+        "b": 402.33
+      },
+      "content": "An MFP printer is shown in this section. However, the procedure is correct for all printer models."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_3343",
+      "reading_order": 4536,
+      "section": "13. Remove the right cover.",
+      "bbox": {
+        "l": 122.0,
+        "t": 391.42,
+        "r": 515.5600000000004,
+        "b": 379.83
+      },
+      "content": "Before proceeding, take note of the location of the tabs and bosses on the inside of the cover."
+    },
+    {
+      "type": "figure",
+      "id": "fig_1155",
+      "reading_order": 4537,
+      "section": "13. Remove the right cover.",
+      "bbox": {
+        "l": 143.27921482120962,
+        "t": 358.7760009765625,
+        "r": 432.7006002977115,
+        "b": 140.67486572265625
+      },
+      "image_path": "figures/figure_1155.png",
+      "caption": "Locate the tabs and bosses",
+      "figure_number": "Figure 1-653",
+      "image_hash": "8760346308e75aaf50d4e9c01fe993d0e48609267adf125b6cc85dcb13e4be1d",
+      "width": 290,
+      "height": 218,
+      "previous_block_id": "txt_3343",
+      "next_block_id": "txt_3344",
+      "caption_id": "txt_3344"
+    },
+    {
+      "type": "caption",
+      "id": "txt_3344",
+      "reading_order": 4538,
+      "section": "13. Remove the right cover.",
+      "bbox": {
+        "l": 144.00008,
+        "t": 370.42,
+        "r": 309.7600799999999,
+        "b": 358.83
+      },
+      "content": "Figure 1-653  Locate the tabs and bosses",
+      "caption_for": "fig_1155"
+    }
+  ],
+  "page_stats": {
+    "block_count": 10,
+    "text_blocks": 7,
+    "paragraphs": 1,
+    "headings": 1,
+    "list_items": 2,
+    "captions": 2,
+    "admonitions": 1,
+    "references": 0,
+    "figures": 3,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

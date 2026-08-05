@@ -1,0 +1,133 @@
+{
+  "page": 113,
+  "document_id": "doc_27a62e0f",
+  "page_bbox": {
+    "width": 594.9600219726562,
+    "height": 842.52001953125
+  },
+  "blocks": [
+    {
+      "type": "paragraph",
+      "id": "txt_1441",
+      "reading_order": 1889,
+      "section": "Overheat thermostats - ELV safety circuit",
+      "bbox": {
+        "l": 26.04,
+        "t": 792.44535953125,
+        "r": 42.7296,
+        "b": 791.5826731190363
+      },
+      "content": "7 CIRCUIT BOARDS AND DIAGRAMS"
+    },
+    {
+      "type": "heading",
+      "id": "txt_1442",
+      "reading_order": 1890,
+      "section": "IO BOARD",
+      "bbox": {
+        "l": 280.92,
+        "t": 761.10591953125,
+        "r": 325.74,
+        "b": 753.0182344167462
+      },
+      "content": "IO BOARD",
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "id": "fig_0381",
+      "reading_order": 1891,
+      "section": "IO BOARD",
+      "bbox": {
+        "l": 36.07880586709342,
+        "t": 752.8598559115917,
+        "r": 562.0589734640505,
+        "b": 397.7941911420293
+      },
+      "image_path": "figures/figure_0381.png",
+      "previous_block_id": "txt_1442",
+      "next_block_id": "txt_1443"
+    },
+    {
+      "type": "heading",
+      "id": "txt_1443",
+      "reading_order": 1892,
+      "section": "IO Board LV Connections",
+      "bbox": {
+        "l": 36.0,
+        "t": 370.86601953125,
+        "r": 142.38000000000002,
+        "b": 362.7783344167462
+      },
+      "content": "IO Board LV Connections",
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "id": "fig_0382",
+      "reading_order": 1893,
+      "section": "IO Board LV Connections",
+      "bbox": {
+        "l": 37.56240979038539,
+        "t": 343.1681458660858,
+        "r": 276.63998065719835,
+        "b": 111.0006671483194
+      },
+      "image_path": "figures/figure_0382.png",
+      "previous_block_id": "txt_1443",
+      "next_block_id": "txt_1444"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1444",
+      "reading_order": 1894,
+      "section": "IO Board LV Connections",
+      "bbox": {
+        "l": 296.16,
+        "t": 359.94601953125,
+        "r": 537.5400000000001,
+        "b": 351.8583344167462
+      },
+      "content": "Notes: Standard power versions (Centre Magnetron only)"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1445",
+      "reading_order": 1895,
+      "section": "IO Board LV Connections",
+      "bbox": {
+        "l": 310.56000000000006,
+        "t": 344.58301953125,
+        "r": 380.103,
+        "b": 336.4953344167462
+      },
+      "content": "X514. Link fitted"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1446",
+      "reading_order": 1896,
+      "section": "IO Board LV Connections",
+      "bbox": {
+        "l": 310.56000000000006,
+        "t": 329.10301953124997,
+        "r": 418.857,
+        "b": 321.0153344167461
+      },
+      "content": "X112. Pins 1 & 2 not used"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1447",
+      "reading_order": 1897,
+      "section": "IO Board LV Connections",
+      "bbox": {
+        "l": 310.56000000000006,
+        "t": 313.74001953125,
+        "r": 376.377,
+        "b": 305.65233441674616
+      },
+      "content": "X411. Not used"
+    }
+  ]
+}

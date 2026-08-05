@@ -1,0 +1,130 @@
+{
+  "page": 45,
+  "document_id": "doc_37f23c38",
+  "page_bbox": {
+    "width": 612.0,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0356",
+      "reading_order": 391,
+      "section": "4.2.3.3",
+      "bbox": {
+        "l": 108.0,
+        "t": 738.12273681,
+        "r": 135.47966759,
+        "b": 728.8081107637603
+      },
+      "content": "4.2.3.3",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0357",
+      "reading_order": 392,
+      "section": "V2_5 REFERENCE VOLTAGE",
+      "bbox": {
+        "l": 108.0,
+        "t": 726.2203900000001,
+        "r": 302.25363779999986,
+        "b": 713.146259338843
+      },
+      "content": "V2_5 REFERENCE VOLTAGE",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0358",
+      "reading_order": 393,
+      "section": "V2_5 REFERENCE VOLTAGE",
+      "bbox": {
+        "l": 107.99998621699996,
+        "t": 698.10277681,
+        "r": 539.9745839260007,
+        "b": 653.2075848800329
+      },
+      "content": "A precision 2.5 V DC  reference voltage is generated on the APP PWA for use by the pressure sensor excitation circuits, the air sensor amplifier circuits, and the ADC and DAC reference voltage. The precision 2.5 V DC  reference is buffered by a voltage follower. The signal name is V2_5."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0359",
+      "reading_order": 394,
+      "section": "4.2.3.4 AIR SENSORS",
+      "bbox": {
+        "l": 107.99998621699996,
+        "t": 630.123416654,
+        "r": 205.50197219999987,
+        "b": 605.146259338843
+      },
+      "content": "4.2.3.4 AIR SENSORS",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0360",
+      "reading_order": 395,
+      "section": "4.2.3.4 AIR SENSORS",
+      "bbox": {
+        "l": 107.99999999999994,
+        "t": 590.10277681,
+        "r": 540.0652338000009,
+        "b": 545.207884784033
+      },
+      "content": "The  mechanism subsystem includes  two  air  sensors,  used  to  detect  air  passage  into (proximal) or out of (distal) the cassette. Both sensors are piezoelectric crystal transmitter receiver pairs. Liquid between the transmitter and receiver will conduct the ultrasonic signal, while air will not (see Figure 4-4).",
+      "hyperlink_hint": true
+    },
+    {
+      "type": "figure",
+      "id": "fig_0021",
+      "reading_order": 396,
+      "section": "4.2.3.4 AIR SENSORS",
+      "bbox": {
+        "l": 126.53382873535156,
+        "t": 400.2799072265625,
+        "r": 521.5678100585938,
+        "b": 177.1754150390625
+      },
+      "image_path": "figures/figure_0021.png",
+      "previous_block_id": "txt_0360",
+      "next_block_id": "txt_0361",
+      "caption_id": "txt_0361",
+      "caption": ". Air Sensor Block Diagram",
+      "figure_number": "Figure 4-4",
+      "image_hash": "03df94a59f1b47aeb115466d1278fbb6bdf0611eb1545af8cc4a7a7d0c82bc41",
+      "width": 395,
+      "height": 223
+    },
+    {
+      "type": "caption",
+      "id": "txt_0361",
+      "reading_order": 397,
+      "section": "4.2.3.4 AIR SENSORS",
+      "bbox": {
+        "l": 228.59998428419993,
+        "t": 150.97181231590025,
+        "r": 419.10310355219997,
+        "b": 141.75880306590022
+      },
+      "content": "Figure 4-4. Air Sensor Block Diagram",
+      "caption_for": "fig_0021"
+    }
+  ],
+  "page_stats": {
+    "block_count": 7,
+    "text_blocks": 6,
+    "paragraphs": 2,
+    "headings": 3,
+    "list_items": 0,
+    "captions": 1,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 1,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

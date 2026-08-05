@@ -1,0 +1,172 @@
+{
+  "page": 44,
+  "document_id": "doc_e02482e6",
+  "page_bbox": {
+    "width": 595.0,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0128",
+      "reading_order": 452,
+      "section": "Procedure",
+      "bbox": {
+        "l": 26.599327087402344,
+        "t": 816.3362274169922,
+        "r": 74.02484130859375,
+        "b": 792.7251358032227
+      },
+      "image_path": "figures/figure_0128.png",
+      "next_block_id": "txt_0297",
+      "width": 47,
+      "height": 23,
+      "decorative": true,
+      "image_hash": "7577891dcf1743bd2e7a735ef2621e01244d960bde43e28868c27d7c1437ddb9"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0297",
+      "reading_order": 453,
+      "section": "Text on figure",
+      "bbox": {
+        "l": 62.23,
+        "t": 579.061,
+        "r": 124.4614,
+        "b": 566.884
+      },
+      "content": "Text on figure",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "table",
+      "id": "tbl_0030",
+      "reading_order": 454,
+      "section": "Text on figure",
+      "bbox": {
+        "l": 59.872554779052734,
+        "t": 554.841064453125,
+        "r": 536.5396118164062,
+        "b": 502.9306945800781
+      },
+      "markdown": "| (1)   | Configuration     |\n|-------|-------------------|\n| (2)   | Pressure Settings |\n| (3)   | Main screen       |",
+      "rows": 3,
+      "cols": 2
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0298",
+      "reading_order": 455,
+      "section": "Text on figure",
+      "bbox": {
+        "l": 62.23,
+        "t": 483.3005,
+        "r": 481.4322999999997,
+        "b": 471.12350000000004
+      },
+      "content": "Move the cursor to the outputs icon (see above, section Menu icon, using the scroll keys (1)"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0299",
+      "reading_order": 456,
+      "section": "Text on figure",
+      "bbox": {
+        "l": 62.23,
+        "t": 464.1605,
+        "r": 369.6513999999999,
+        "b": 451.98350000000005
+      },
+      "content": "Press the enter key (2), a screen similar to the one below appears:"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0300",
+      "reading_order": 457,
+      "section": "Text on figure",
+      "bbox": {
+        "l": 62.23,
+        "t": 128.64099999999996,
+        "r": 437.89209999999923,
+        "b": 116.46399999999994
+      },
+      "content": "The screen shows a list of all outputs with their corresponding icons and readings."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0301",
+      "reading_order": 458,
+      "section": "Text on figure",
+      "bbox": {
+        "l": 62.23,
+        "t": 109.50099999999998,
+        "r": 489.78349999999926,
+        "b": 84.12400000000002
+      },
+      "content": "If an input is in warning or shutdown, the original icon is replaced by the warning or shutdown icon respectively."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0129",
+      "reading_order": 459,
+      "section": "Text on figure",
+      "bbox": {
+        "l": 194.2165069580078,
+        "t": 438.97344970703125,
+        "r": 397.2374267578125,
+        "b": 264.04327392578125
+      },
+      "image_path": "figures/figure_0129.png",
+      "previous_block_id": "txt_0301",
+      "image_hash": "d8ac9b2e24c7ef61c80dcb4199f4f1f6b186a5e6905123f49d8b4a2050d1b964",
+      "width": 203,
+      "height": 175
+    },
+    {
+      "type": "table",
+      "id": "tbl_0031",
+      "reading_order": 460,
+      "section": "Text on figure",
+      "bbox": {
+        "l": 61.20934295654297,
+        "t": 254.83697509765625,
+        "r": 537.8790283203125,
+        "b": 154.63885498046875
+      },
+      "markdown": "| (1)   | Analog & Digital I/O   |\n|-------|------------------------|\n| (2)   | Element outlet         |\n| (3)   | Dryer PDP              |\n| (4)   | Compressor outlet      |\n| (5)   | Emergency stop         |\n| (6)   | Back                   |",
+      "rows": 6,
+      "cols": 2
+    },
+    {
+      "type": "figure",
+      "id": "fig_0130",
+      "reading_order": 461,
+      "section": "Text on figure",
+      "bbox": {
+        "l": 193.35353088378906,
+        "t": 771.7702178955078,
+        "r": 394.48333740234375,
+        "b": 605.1072692871094
+      },
+      "image_path": "figures/figure_0130.png",
+      "previous_block_id": "txt_0301",
+      "image_hash": "bbf6c6399e1310b8bc53742862d751dd5520fc8715c550a09f8448a0224075b1",
+      "width": 201,
+      "height": 167
+    }
+  ],
+  "page_stats": {
+    "block_count": 10,
+    "text_blocks": 5,
+    "paragraphs": 0,
+    "headings": 1,
+    "list_items": 4,
+    "captions": 0,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 3,
+    "tables": 2,
+    "toc_tables": 0
+  }
+}

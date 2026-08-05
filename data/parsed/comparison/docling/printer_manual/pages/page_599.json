@@ -1,0 +1,136 @@
+{
+  "page": 599,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_4532",
+      "reading_order": 6275,
+      "section": "c. Release one tab.",
+      "bbox": {
+        "l": 122.0,
+        "t": 732.29,
+        "r": 210.49999999999994,
+        "b": 720.7
+      },
+      "content": "c. Release one tab.",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "figure",
+      "id": "fig_1701",
+      "reading_order": 6276,
+      "section": "c. Release one tab.",
+      "bbox": {
+        "l": 143.08376544841698,
+        "t": 698.9935607910156,
+        "r": 432.7981800938198,
+        "b": 481.8320617675781
+      },
+      "image_path": "figures/figure_1701.png",
+      "caption": "Release one tab",
+      "figure_number": "Figure 1-994",
+      "image_hash": "7b8c7c3632e43592cd530edd640a3aeaf9e1e3b271889056c9291324c3c9a467",
+      "width": 290,
+      "height": 217,
+      "previous_block_id": "txt_4532",
+      "next_block_id": "txt_4533",
+      "caption_id": "txt_4533"
+    },
+    {
+      "type": "caption",
+      "id": "txt_4533",
+      "reading_order": 6277,
+      "section": "c. Release one tab.",
+      "bbox": {
+        "l": 144.0,
+        "t": 711.29,
+        "r": 264.95998999999995,
+        "b": 699.7
+      },
+      "content": "Figure 1-994  Release one tab",
+      "caption_for": "fig_1701"
+    },
+    {
+      "type": "heading",
+      "id": "txt_4534",
+      "reading_order": 6278,
+      "section": "d. Remove the HVPS.",
+      "bbox": {
+        "l": 122.0,
+        "t": 470.42,
+        "r": 218.44999999999996,
+        "b": 458.83
+      },
+      "content": "d. Remove the HVPS.",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_4535",
+      "reading_order": 6279,
+      "section": "d. Remove the HVPS.",
+      "bbox": {
+        "l": 143.99996,
+        "t": 449.42,
+        "r": 545.9999900000003,
+        "b": 425.83
+      },
+      "content": "When the HVPS is reinstalled, make sure that the springs on the holder are positioned in the slots on the PCA, and that the PCA is behind the tabs on the holder."
+    },
+    {
+      "type": "figure",
+      "id": "fig_1702",
+      "reading_order": 6280,
+      "section": "d. Remove the HVPS.",
+      "bbox": {
+        "l": 143.0502119080234,
+        "t": 404.3097229003906,
+        "r": 432.698648091725,
+        "b": 186.53106689453125
+      },
+      "image_path": "figures/figure_1702.png",
+      "caption": "Remove the HVPS",
+      "figure_number": "Figure 1-995",
+      "image_hash": "7f34f1d001338083424c1f2af1ddc6d27ffe5983915206d5c780e78e2efea9ee",
+      "width": 290,
+      "height": 217,
+      "previous_block_id": "txt_4535",
+      "next_block_id": "txt_4536",
+      "caption_id": "txt_4536"
+    },
+    {
+      "type": "caption",
+      "id": "txt_4536",
+      "reading_order": 6281,
+      "section": "d. Remove the HVPS.",
+      "bbox": {
+        "l": 143.99996,
+        "t": 416.42,
+        "r": 273.05995999999993,
+        "b": 404.83
+      },
+      "content": "Figure 1-995  Remove the HVPS",
+      "caption_for": "fig_1702"
+    }
+  ],
+  "page_stats": {
+    "block_count": 7,
+    "text_blocks": 5,
+    "paragraphs": 1,
+    "headings": 2,
+    "list_items": 0,
+    "captions": 2,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 2,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

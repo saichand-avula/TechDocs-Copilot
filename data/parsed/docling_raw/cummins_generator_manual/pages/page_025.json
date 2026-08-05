@@ -1,0 +1,38 @@
+{
+  "page": 25,
+  "document_id": "doc_c203a4f3",
+  "page_bbox": {
+    "width": 612.3599853515625,
+    "height": 792.4320068359375
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0011",
+      "reading_order": 326,
+      "section": "GENERAL DESCRIPTION",
+      "bbox": {
+        "l": 46.132977838413424,
+        "t": 739.9957360477902,
+        "r": 563.4807260155898,
+        "b": 285.18400650511427
+      },
+      "image_path": "figures/figure_0011.png",
+      "previous_block_id": "txt_0314",
+      "next_block_id": "txt_0315"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0315",
+      "reading_order": 327,
+      "section": "GENERAL DESCRIPTION",
+      "bbox": {
+        "l": 163.2189,
+        "t": 243.36260683593753,
+        "r": 447.60390000000075,
+        "b": 234.3465569398876
+      },
+      "content": "FIGURE 5-3. SINGLE-PHASE GENERATOR SET SCHEMATIC"
+    }
+  ]
+}

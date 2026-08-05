@@ -1,0 +1,95 @@
+{
+  "page": 57,
+  "document_id": "doc_229deb31",
+  "page_bbox": {
+    "width": 595.219970703125,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "paragraph",
+      "id": "txt_0513",
+      "reading_order": 709,
+      "section": "Check the IPM module method:",
+      "bbox": {
+        "l": 56.962,
+        "t": 747.5322152,
+        "r": 149.44167204,
+        "b": 738.279438
+      },
+      "content": "outdoor display"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0514",
+      "reading_order": 710,
+      "section": "Check the IPM module method:",
+      "bbox": {
+        "l": 151.6810489,
+        "t": 747.5322152,
+        "r": 357.0139461,
+        "b": 738.279438
+      },
+      "content": "LED1 flash    4 times          Indoor Display      F3"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0156",
+      "reading_order": 711,
+      "section": "Check the IPM module method:",
+      "bbox": {
+        "l": 30.637096691317854,
+        "t": 778.9323921203613,
+        "r": 546.8231788362775,
+        "b": 146.38909912109375
+      },
+      "image_path": "figures/figure_0156.png",
+      "previous_block_id": "txt_0514",
+      "next_block_id": "txt_0515",
+      "image_hash": "6d19f92619d4043e77ee77b4d536d335022b3f146abf6eab3ebabaa3b037c243",
+      "width": 516,
+      "height": 633
+    },
+    {
+      "type": "heading",
+      "id": "txt_0515",
+      "reading_order": 712,
+      "section": "7. .5    Thermistor or Related Abnormality(outdoor unit)",
+      "bbox": {
+        "l": 56.962,
+        "t": 101.00114280000003,
+        "r": 421.5928554999996,
+        "b": 87.14975700000002
+      },
+      "content": "7. .5    Thermistor or Related Abnormality(outdoor unit)",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0516",
+      "reading_order": 713,
+      "section": "7. .5    Thermistor or Related Abnormality(outdoor unit)",
+      "bbox": {
+        "l": 56.962,
+        "t": 77.94091520000006,
+        "r": 261.5044050600004,
+        "b": 68.68813799999998
+      },
+      "content": "Frost-removing temperature sensor failure"
+    }
+  ],
+  "page_stats": {
+    "block_count": 5,
+    "text_blocks": 4,
+    "paragraphs": 3,
+    "headings": 1,
+    "list_items": 0,
+    "captions": 0,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 1,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

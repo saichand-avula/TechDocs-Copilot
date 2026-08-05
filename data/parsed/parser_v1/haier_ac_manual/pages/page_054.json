@@ -1,0 +1,382 @@
+{
+  "page": 54,
+  "document_id": "doc_229deb31",
+  "page_bbox": {
+    "width": 595.219970703125,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0470",
+      "reading_order": 658,
+      "section": "7. 3 .2 Indoor fan motor malfunction",
+      "bbox": {
+        "l": 56.962,
+        "t": 782.3202428,
+        "r": 271.7044587799998,
+        "b": 768.468857
+      },
+      "content": "7. 3 .2 Indoor fan motor malfunction",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0471",
+      "reading_order": 659,
+      "section": "Indoor Display E14",
+      "bbox": {
+        "l": 56.962,
+        "t": 748.5869856,
+        "r": 162.21666388000003,
+        "b": 737.5059140000001
+      },
+      "content": "Indoor Display E14",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0472",
+      "reading_order": 660,
+      "section": "Indoor Display E14",
+      "bbox": {
+        "l": 56.962,
+        "t": 721.7428152,
+        "r": 141.6311463399999,
+        "b": 712.490038
+      },
+      "content": "Method of"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0473",
+      "reading_order": 661,
+      "section": "Indoor Display E14",
+      "bbox": {
+        "l": 56.962,
+        "t": 710.2546152,
+        "r": 139.9034666499999,
+        "b": 701.001838
+      },
+      "content": "Malfunction The rotation speed detected by the Hall IC during fan motor operation is used to determine abnormal fan motor operation"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0474",
+      "reading_order": 662,
+      "section": "Indoor Display E14",
+      "bbox": {
+        "l": 56.9657,
+        "t": 698.7645152,
+        "r": 104.63345936000005,
+        "b": 689.511738
+      },
+      "content": "Detection"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0475",
+      "reading_order": 663,
+      "section": "Indoor Display E14",
+      "bbox": {
+        "l": 56.9657,
+        "t": 687.3334384,
+        "r": 134.9394701599999,
+        "b": 678.0806612
+      },
+      "content": "Malfunction"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0476",
+      "reading_order": 664,
+      "section": "Indoor Display E14",
+      "bbox": {
+        "l": 56.9588,
+        "t": 675.7891152,
+        "r": 120.67649623999999,
+        "b": 666.536338
+      },
+      "content": "Decision"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0477",
+      "reading_order": 665,
+      "section": "Indoor Display E14",
+      "bbox": {
+        "l": 56.9588,
+        "t": 664.3580383999999,
+        "r": 111.2192033,
+        "b": 655.1052612
+      },
+      "content": "Conditions"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0478",
+      "reading_order": 666,
+      "section": "Supposed    Causes Ƶ",
+      "bbox": {
+        "l": 56.9588,
+        "t": 652.3079514000001,
+        "r": 164.66109999999998,
+        "b": 642.2898274875
+      },
+      "content": "Supposed    Causes Ƶ",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0479",
+      "reading_order": 667,
+      "section": "Supposed    Causes Ƶ",
+      "bbox": {
+        "l": 179.5,
+        "t": 652.0981152,
+        "r": 444.4666259100011,
+        "b": 642.8453380000001
+      },
+      "content": "Operation halt due to breaking of wire inside the fan motor ."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0480",
+      "reading_order": 668,
+      "section": "Supposed    Causes Ƶ",
+      "bbox": {
+        "l": 145.9932,
+        "t": 639.5031514,
+        "r": 160.9502784,
+        "b": 629.4850274875
+      },
+      "content": "Ƶ"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0481",
+      "reading_order": 669,
+      "section": "Supposed    Causes Ƶ",
+      "bbox": {
+        "l": 166.9352,
+        "t": 639.2933152,
+        "r": 429.07214052000086,
+        "b": 630.0405380000001
+      },
+      "content": "Operation halt due to breaking of the fan motor lead wires"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0482",
+      "reading_order": 670,
+      "section": "Supposed    Causes Ƶ",
+      "bbox": {
+        "l": 145.9932,
+        "t": 627.3572514,
+        "r": 390.2556090600006,
+        "b": 617.3391274875
+      },
+      "content": "Ƶ Detection error due to faulty indoor unit PCB"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0483",
+      "reading_order": 671,
+      "section": "How to check Fan Motor (DC)",
+      "bbox": {
+        "l": 56.962,
+        "t": 598.625256,
+        "r": 249.61064079999997,
+        "b": 585.7158900000001
+      },
+      "content": "How to check Fan Motor (DC)",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0484",
+      "reading_order": 672,
+      "section": "How to check Fan Motor (DC)",
+      "bbox": {
+        "l": 156.4737,
+        "t": 572.6092404,
+        "r": 299.24859059999983,
+        "b": 563.5095426958273
+      },
+      "content": "Check connector connection."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0485",
+      "reading_order": 673,
+      "section": "How to check Fan Motor (DC)",
+      "bbox": {
+        "l": 156.4737,
+        "t": 560.0442803999999,
+        "r": 400.26698049999897,
+        "b": 550.9445826958273
+      },
+      "content": "Check motor power supply voltage output (pins 1-4)."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0486",
+      "reading_order": 674,
+      "section": "How to check Fan Motor (DC)",
+      "bbox": {
+        "l": 155.93990340000002,
+        "t": 547.5944992,
+        "r": 343.3223965399992,
+        "b": 538.4948014958273
+      },
+      "content": "Check motor control voltage (pins 4-5)."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0487",
+      "reading_order": 675,
+      "section": "How to check Fan Motor (DC)",
+      "bbox": {
+        "l": 155.93990340000002,
+        "t": 535.092364,
+        "r": 391.81310767999906,
+        "b": 525.9926662958273
+      },
+      "content": "Check rotation command voltage output (pins 4-6)."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0488",
+      "reading_order": 676,
+      "section": "How to check Fan Motor (DC)",
+      "bbox": {
+        "l": 155.93990340000002,
+        "t": 522.5902288,
+        "r": 333.9296696999997,
+        "b": 513.4905310958274
+      },
+      "content": "Check rotation pulse input (pins 4-7)."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0489",
+      "reading_order": 677,
+      "section": "Notes:the  a/c  is  electrifying,don't  pull  out  or  insert  the  terminals  of  the motor,else the motor would be damaged",
+      "bbox": {
+        "l": 59.8341,
+        "t": 382.8749428,
+        "r": 552.0455717999998,
+        "b": 351.8514286
+      },
+      "content": "Notes:the  a/c  is  electrifying,don't  pull  out  or  insert  the  terminals  of  the motor,else the motor would be damaged",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0490",
+      "reading_order": 678,
+      "section": "Notes:the  a/c  is  electrifying,don't  pull  out  or  insert  the  terminals  of  the motor,else the motor would be damaged",
+      "bbox": {
+        "l": 56.9593,
+        "t": 335.1296404,
+        "r": 148.36202448,
+        "b": 325.9258072
+      },
+      "content": "Troubleshooting"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0491",
+      "reading_order": 679,
+      "section": "Notes:the  a/c  is  electrifying,don't  pull  out  or  insert  the  terminals  of  the motor,else the motor would be damaged",
+      "bbox": {
+        "l": 150.8996,
+        "t": 335.9044796,
+        "r": 540.2588932799985,
+        "b": 325.40651400053184
+      },
+      "content": "&DXWLRQ Be sure to turn off power switch before connect or disconnect connector,      or"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0492",
+      "reading_order": 680,
+      "section": "Notes:the  a/c  is  electrifying,don't  pull  out  or  insert  the  terminals  of  the motor,else the motor would be damaged",
+      "bbox": {
+        "l": 210.0188234,
+        "t": 319.5700316,
+        "r": 362.0796815199993,
+        "b": 310.47033389582737
+      },
+      "content": "else parts damage may be occurred."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0149",
+      "reading_order": 681,
+      "section": "Notes:the  a/c  is  electrifying,don't  pull  out  or  insert  the  terminals  of  the motor,else the motor would be damaged",
+      "bbox": {
+        "l": 82.13360205723771,
+        "t": 258.61962890625,
+        "r": 237.46446683577128,
+        "b": 187.566650390625
+      },
+      "image_path": "figures/figure_0149.png",
+      "previous_block_id": "txt_0492",
+      "next_block_id": "txt_0493",
+      "image_hash": "54841f3d5fc57dd0a4ca1d7965af51219874c15e22a9fe0d2f6d482c98b5a384",
+      "width": 155,
+      "height": 71
+    },
+    {
+      "type": "figure",
+      "id": "fig_0150",
+      "reading_order": 682,
+      "section": "Notes:the  a/c  is  electrifying,don't  pull  out  or  insert  the  terminals  of  the motor,else the motor would be damaged",
+      "bbox": {
+        "l": 60.45485601023371,
+        "t": 63.08349609375,
+        "r": 92.43942027890256,
+        "b": 52.39373779296875
+      },
+      "image_path": "figures/figure_0150.png",
+      "previous_block_id": "txt_0492",
+      "next_block_id": "txt_0493",
+      "width": 31,
+      "height": 10,
+      "decorative": true,
+      "image_hash": "7051a27e2c90d9334291cc60f784f38ec96653489f7874898a3c6b9c79af5610"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0493",
+      "reading_order": 683,
+      "section": "Notes:the  a/c  is  electrifying,don't  pull  out  or  insert  the  terminals  of  the motor,else the motor would be damaged",
+      "bbox": {
+        "l": 137.1382,
+        "t": 687.3403152,
+        "r": 447.92715099000094,
+        "b": 678.087538
+      },
+      "content": "when the detected rotation feedback singal don't receiced in 2 minutes"
+    }
+  ],
+  "page_stats": {
+    "block_count": 26,
+    "text_blocks": 24,
+    "paragraphs": 10,
+    "headings": 5,
+    "list_items": 9,
+    "captions": 0,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 2,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

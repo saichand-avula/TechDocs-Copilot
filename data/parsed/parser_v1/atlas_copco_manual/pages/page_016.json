@@ -1,0 +1,88 @@
+{
+  "page": 16,
+  "document_id": "doc_e02482e6",
+  "page_bbox": {
+    "width": 595.0,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0029",
+      "reading_order": 160,
+      "section": "GA Workplace Full-Feature",
+      "bbox": {
+        "l": 26.68003273010254,
+        "t": 814.8898696899414,
+        "r": 74.02218627929688,
+        "b": 793.5263214111328
+      },
+      "image_path": "figures/figure_0029.png",
+      "next_block_id": "txt_0128",
+      "width": 47,
+      "height": 21,
+      "decorative": true,
+      "image_hash": "87e5d4ca248af5260406af61f41c8e5d111591d46b8c728dc487e57f12dd231b"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0030",
+      "reading_order": 161,
+      "section": "GA Workplace Full-Feature",
+      "bbox": {
+        "l": 92.72688293457031,
+        "t": 770.6856079101562,
+        "r": 473.64935302734375,
+        "b": 440.6751403808594
+      },
+      "image_path": "figures/figure_0030.png",
+      "next_block_id": "txt_0128",
+      "image_hash": "65354b54f8b7cb3d0f9d64cce61149c1d9b24fc1de19e094261120af3d3cc9d7",
+      "width": 381,
+      "height": 330
+    },
+    {
+      "type": "caption",
+      "id": "txt_0128",
+      "reading_order": 162,
+      "section": "GA Workplace Full-Feature",
+      "bbox": {
+        "l": 194.47000000000003,
+        "t": 428.2300000000001,
+        "r": 372.2459999999998,
+        "b": 417.16
+      },
+      "content": "Rear view, GA 37+ up to GA 75  Workplace",
+      "caption_for": "tbl_0006"
+    },
+    {
+      "type": "table",
+      "id": "tbl_0006",
+      "reading_order": 163,
+      "section": "GA Workplace Full-Feature",
+      "bbox": {
+        "l": 54.108890533447266,
+        "t": 383.08209228515625,
+        "r": 497.7861328125,
+        "b": 107.45806884765625
+      },
+      "markdown": "| Reference   | Name                                     |\n|-------------|------------------------------------------|\n| 1           | Electric cubicle                         |\n| AF          | Air filter                               |\n| AR          | Air receiver (oil separator vessel)      |\n| AV          | Air outlet valve                         |\n| Ca          | Air cooler                               |\n| Co          | Oil cooler                               |\n| CV/Vs       | Check valve/oil stop valve               |\n| Da          | Automatic condensate outlet, aftercooler |\n| Da1         | Automatic condensate outlet, dryer       |\n| DD          | DD filter (optional)                     |\n| DR          | Dryer                                    |\n| E           | Compressor element                       |\n| ER          | Elektronikon® Graphic controller         |\n| FN          | Cooling fan                              |\n| HC          | Energy recovery system (optional)        |\n| M1          | Drive motor                              |\n| OF          | Oil filter                               |\n| PD          | PD filter (optional)                     |\n| S3          | Emergency stop button                    |\n| UA          | Unloader                                 |\n| VP          | Vent plug                                |",
+      "caption_id": "txt_0128",
+      "rows": 22,
+      "cols": 2
+    }
+  ],
+  "page_stats": {
+    "block_count": 4,
+    "text_blocks": 1,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 0,
+    "captions": 1,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 2,
+    "tables": 1,
+    "toc_tables": 0
+  }
+}

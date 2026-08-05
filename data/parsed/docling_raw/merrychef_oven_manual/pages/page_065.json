@@ -1,0 +1,704 @@
+{
+  "page": 65,
+  "document_id": "doc_27a62e0f",
+  "page_bbox": {
+    "width": 594.9600219726562,
+    "height": 842.52001953125
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0776",
+      "reading_order": 987,
+      "section": "5.7 High voltage components (casing removed)",
+      "bbox": {
+        "l": 49.56,
+        "t": 787.02447953125,
+        "r": 389.34204,
+        "b": 774.2523086051509
+      },
+      "content": "5.7 High voltage components (casing removed)",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "id": "txt_0777",
+      "reading_order": 988,
+      "section": "High voltage transformer test",
+      "bbox": {
+        "l": 39.12,
+        "t": 756.40801953125,
+        "r": 206.27999999999994,
+        "b": 745.6244393785782
+      },
+      "content": "High voltage transformer test",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0778",
+      "reading_order": 989,
+      "section": "High voltage transformer test",
+      "bbox": {
+        "l": 38.88,
+        "t": 725.82601953125,
+        "r": 351.423,
+        "b": 717.7383344167462
+      },
+      "content": "Ensure the following requirements have been met before starting the test:"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0779",
+      "reading_order": 990,
+      "section": "High voltage transformer test",
+      "bbox": {
+        "l": 56.88000000000005,
+        "t": 710.34601953125,
+        "r": 559.026,
+        "b": 689.4153344167462
+      },
+      "content": "The appliance has been disconnected from the power supply and protective measures have been taken to ensure the power cannot be switched on again."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0780",
+      "reading_order": 991,
+      "section": "High voltage transformer test",
+      "bbox": {
+        "l": 56.888999999999896,
+        "t": 684.4260195312501,
+        "r": 166.4999999999999,
+        "b": 676.2387304760582
+      },
+      "content": "The appliance is cool."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0781",
+      "reading_order": 992,
+      "section": "High voltage transformer test",
+      "bbox": {
+        "l": 56.87999999999988,
+        "t": 671.82601953125,
+        "r": 366.8849999999999,
+        "b": 651.0213344167462
+      },
+      "content": "The high voltage capacitors are discharged before commencing work. See section 2.15 'How to discharge the conneX HV'."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0782",
+      "reading_order": 993,
+      "section": "High voltage transformer test",
+      "bbox": {
+        "l": 56.879999999999825,
+        "t": 646.3920195312501,
+        "r": 273.6449999999998,
+        "b": 638.2047304760582
+      },
+      "content": "The casing of the appliance has been removed."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0783",
+      "reading_order": 994,
+      "section": "High voltage transformer test",
+      "bbox": {
+        "l": 35.98199999999986,
+        "t": 630.91201953125,
+        "r": 378.7559999999998,
+        "b": 622.8243344167462
+      },
+      "content": "Note: the rear transformer on the X12 connects to the right hand HV components"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0162",
+      "reading_order": 995,
+      "section": "High voltage transformer test",
+      "bbox": {
+        "l": 34.278988602968376,
+        "t": 607.2979608057321,
+        "r": 47.20308889429469,
+        "b": 595.4910275030126
+      },
+      "image_path": "figures/figure_0162.png",
+      "previous_block_id": "txt_0783",
+      "next_block_id": "txt_0784"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0784",
+      "reading_order": 996,
+      "section": "DANGER",
+      "bbox": {
+        "l": 50.04,
+        "t": 602.94601953125,
+        "r": 90.063,
+        "b": 594.7587304760582
+      },
+      "content": "DANGER",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "id": "txt_0785",
+      "reading_order": 997,
+      "section": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit.",
+      "bbox": {
+        "l": 36.0,
+        "t": 590.5890195312501,
+        "r": 461.322,
+        "b": 582.4017304760582
+      },
+      "content": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit.",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0786",
+      "reading_order": 998,
+      "section": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit.",
+      "bbox": {
+        "l": 35.98200000000003,
+        "t": 578.3490195312501,
+        "r": 301.61699999999996,
+        "b": 570.2613344167462
+      },
+      "content": "It is very dangerous to work near this part when the oven is on."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0787",
+      "reading_order": 999,
+      "section": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit.",
+      "bbox": {
+        "l": 35.990999999999985,
+        "t": 566.3520195312501,
+        "r": 559.008,
+        "b": 546.0243344167462
+      },
+      "content": "NEVER make any electrical measurements on the high voltage circuits, including the magnetron filament, whilst the oven is connected to the mains power supply."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0788",
+      "reading_order": 1000,
+      "section": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit.",
+      "bbox": {
+        "l": 43.658999999999935,
+        "t": 534.9150195312501,
+        "r": 249.15599999999995,
+        "b": 526.7277304760582
+      },
+      "content": "Remove all connections from the transformer."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0789",
+      "reading_order": 1001,
+      "section": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit.",
+      "bbox": {
+        "l": 43.64999999999998,
+        "t": 522.9180195312501,
+        "r": 356.55299999999994,
+        "b": 502.59033441674626
+      },
+      "content": "Using a Digital Multi-Meter (DMM), check the resistance of the windings. Results should be as follows:"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0790",
+      "reading_order": 1002,
+      "section": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit.",
+      "bbox": {
+        "l": 61.65899999999998,
+        "t": 486.0810195312501,
+        "r": 182.18699999999998,
+        "b": 477.9933344167463
+      },
+      "content": "200 - 230V Transformer"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0791",
+      "reading_order": 1003,
+      "section": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit.",
+      "bbox": {
+        "l": 43.68,
+        "t": 382.26601953125,
+        "r": 177.05100000000002,
+        "b": 374.07873047605824
+      },
+      "content": "Mains winding between tags,"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0792",
+      "reading_order": 1004,
+      "section": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit.",
+      "bbox": {
+        "l": 64.8,
+        "t": 321.3059195312501,
+        "r": 185.337,
+        "b": 313.2182344167462
+      },
+      "content": "208 - 240V Transformer"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0793",
+      "reading_order": 1005,
+      "section": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit.",
+      "bbox": {
+        "l": 43.67100000000002,
+        "t": 222.90601953124997,
+        "r": 177.05100000000002,
+        "b": 202.5783344167462
+      },
+      "content": "Mains winding between tags, approx.;"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0794",
+      "reading_order": 1006,
+      "section": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit.",
+      "bbox": {
+        "l": 43.68,
+        "t": 113.82601953125004,
+        "r": 357.91499999999996,
+        "b": 105.6387304760583
+      },
+      "content": "Using a megger/insulation tester, test the insulation resistance between:"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0163",
+      "reading_order": 1007,
+      "section": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit.",
+      "bbox": {
+        "l": 35.10503249313338,
+        "t": 456.4816128527249,
+        "r": 178.4061334311117,
+        "b": 397.2826112492688
+      },
+      "image_path": "figures/figure_0163.png",
+      "previous_block_id": "txt_0794",
+      "next_block_id": "txt_0795"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0795",
+      "reading_order": 1008,
+      "section": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit.",
+      "bbox": {
+        "l": 43.67100000000002,
+        "t": 370.02601953125,
+        "r": 80.69700000000002,
+        "b": 361.93833441674616
+      },
+      "content": "approx.;"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0796",
+      "reading_order": 1009,
+      "section": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit.",
+      "bbox": {
+        "l": 43.67100000000002,
+        "t": 357.66901953124994,
+        "r": 82.25400000000002,
+        "b": 349.58133441674613
+      },
+      "content": "0 to 230;"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0797",
+      "reading_order": 1010,
+      "section": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit.",
+      "bbox": {
+        "l": 101.27100000000002,
+        "t": 357.66901953124994,
+        "r": 123.42900000000002,
+        "b": 349.58133441674613
+      },
+      "content": "0.6 Ω"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0798",
+      "reading_order": 1011,
+      "section": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit.",
+      "bbox": {
+        "l": 43.67100000000002,
+        "t": 345.67201953124993,
+        "r": 82.25400000000002,
+        "b": 337.5843344167461
+      },
+      "content": "0 to 200;"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0799",
+      "reading_order": 1012,
+      "section": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit.",
+      "bbox": {
+        "l": 101.27100000000002,
+        "t": 345.67201953124993,
+        "r": 123.42900000000002,
+        "b": 337.5843344167461
+      },
+      "content": "0.5 Ω"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0800",
+      "reading_order": 1013,
+      "section": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit.",
+      "bbox": {
+        "l": 43.67100000000002,
+        "t": 333.3150195312499,
+        "r": 92.56800000000003,
+        "b": 325.2273344167461
+      },
+      "content": "200 to 230;"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0801",
+      "reading_order": 1014,
+      "section": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit.",
+      "bbox": {
+        "l": 101.27100000000003,
+        "t": 333.3150195312499,
+        "r": 123.42900000000003,
+        "b": 325.2273344167461
+      },
+      "content": "0.1 Ω"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0164",
+      "reading_order": 1015,
+      "section": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit.",
+      "bbox": {
+        "l": 35.32497697311234,
+        "t": 298.2596480362073,
+        "r": 178.8954804325085,
+        "b": 237.7567627854902
+      },
+      "image_path": "figures/figure_0164.png",
+      "previous_block_id": "txt_0801",
+      "next_block_id": "txt_0802"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0802",
+      "reading_order": 1016,
+      "section": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit.",
+      "bbox": {
+        "l": 43.67100000000002,
+        "t": 198.30901953125,
+        "r": 100.97400000000002,
+        "b": 190.22133441674623
+      },
+      "content": "0 to 200/208;"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0803",
+      "reading_order": 1017,
+      "section": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit.",
+      "bbox": {
+        "l": 115.67100000000002,
+        "t": 198.30901953125,
+        "r": 137.82900000000004,
+        "b": 190.22133441674623
+      },
+      "content": "0.5 Ω"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0804",
+      "reading_order": 1018,
+      "section": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit.",
+      "bbox": {
+        "l": 43.67100000000002,
+        "t": 186.31201953124992,
+        "r": 82.25400000000002,
+        "b": 178.22433441674616
+      },
+      "content": "0 to 220;"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0805",
+      "reading_order": 1019,
+      "section": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit.",
+      "bbox": {
+        "l": 115.67100000000002,
+        "t": 186.31201953124992,
+        "r": 137.82900000000004,
+        "b": 178.22433441674616
+      },
+      "content": "0.6 Ω"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0806",
+      "reading_order": 1020,
+      "section": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit.",
+      "bbox": {
+        "l": 43.67100000000002,
+        "t": 173.71201953125,
+        "r": 82.25400000000002,
+        "b": 165.62433441674614
+      },
+      "content": "0 to 240;"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0807",
+      "reading_order": 1021,
+      "section": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit.",
+      "bbox": {
+        "l": 115.67100000000002,
+        "t": 173.71201953125,
+        "r": 137.82900000000004,
+        "b": 165.62433441674614
+      },
+      "content": "0.6 Ω"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0808",
+      "reading_order": 1022,
+      "section": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit.",
+      "bbox": {
+        "l": 43.67100000000002,
+        "t": 161.47201953125,
+        "r": 111.16200000000002,
+        "b": 153.38433441674613
+      },
+      "content": "208/208 to 220;"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0809",
+      "reading_order": 1023,
+      "section": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit.",
+      "bbox": {
+        "l": 115.54500000000002,
+        "t": 161.47201953125,
+        "r": 137.70300000000003,
+        "b": 153.38433441674613
+      },
+      "content": "0.1 Ω"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0810",
+      "reading_order": 1024,
+      "section": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit.",
+      "bbox": {
+        "l": 43.66200000000002,
+        "t": 149.11501953125003,
+        "r": 111.27900000000002,
+        "b": 141.02733441674616
+      },
+      "content": "208/208 to 240;"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0811",
+      "reading_order": 1025,
+      "section": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit.",
+      "bbox": {
+        "l": 115.66200000000002,
+        "t": 149.11501953125003,
+        "r": 137.70300000000003,
+        "b": 141.02733441674616
+      },
+      "content": "0.1 Ω"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0812",
+      "reading_order": 1026,
+      "section": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit.",
+      "bbox": {
+        "l": 43.66200000000002,
+        "t": 137.11801953124996,
+        "r": 92.55900000000004,
+        "b": 129.0303344167462
+      },
+      "content": "220 to 240;"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0813",
+      "reading_order": 1027,
+      "section": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit.",
+      "bbox": {
+        "l": 115.66200000000003,
+        "t": 137.11801953124996,
+        "r": 137.82000000000005,
+        "b": 129.0303344167462
+      },
+      "content": "0.1 Ω"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0814",
+      "reading_order": 1028,
+      "section": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit.",
+      "bbox": {
+        "l": 43.69799999999998,
+        "t": 101.82901953124997,
+        "r": 288.5484000000001,
+        "b": 93.74133441674621
+      },
+      "content": "Primary winding and chassis. Pass if reading is over 10 MΩ"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0815",
+      "reading_order": 1029,
+      "section": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit.",
+      "bbox": {
+        "l": 43.69800000000001,
+        "t": 89.58901953125007,
+        "r": 291.0927,
+        "b": 81.5013344167462
+      },
+      "content": "Filament winding and chassis. Pass if reading is over 10 MΩ"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0816",
+      "reading_order": 1030,
+      "section": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit.",
+      "bbox": {
+        "l": 43.69800000000001,
+        "t": 77.10601953125001,
+        "r": 479.01000000000016,
+        "b": 69.01833441674626
+      },
+      "content": "NOTE: One end of the high voltage (secondary) winding is connected to the chassis, so this is not tested."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0165",
+      "reading_order": 1031,
+      "section": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit.",
+      "bbox": {
+        "l": 211.4514593544471,
+        "t": 454.4969036902786,
+        "r": 355.05094112178796,
+        "b": 394.52755847796004
+      },
+      "image_path": "figures/figure_0165.png",
+      "previous_block_id": "txt_0816",
+      "next_block_id": "txt_0817"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0817",
+      "reading_order": 1032,
+      "section": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit.",
+      "bbox": {
+        "l": 207.336,
+        "t": 383.35801953124997,
+        "r": 344.67600000000004,
+        "b": 363.27333441674614
+      },
+      "content": "4. High Voltage winding, approx. 57 Ω."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0166",
+      "reading_order": 1033,
+      "section": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit.",
+      "bbox": {
+        "l": 212.0225574544185,
+        "t": 295.7198961927586,
+        "r": 355.2902744051476,
+        "b": 236.4845993485951
+      },
+      "image_path": "figures/figure_0166.png",
+      "previous_block_id": "txt_0817",
+      "next_block_id": "txt_0818"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0818",
+      "reading_order": 1034,
+      "section": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit.",
+      "bbox": {
+        "l": 207.34799999999998,
+        "t": 224.22601953125002,
+        "r": 344.57099999999997,
+        "b": 203.89833441674614
+      },
+      "content": "4. High Voltage winding, approx. 47 Ω."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0167",
+      "reading_order": 1035,
+      "section": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit.",
+      "bbox": {
+        "l": 389.38377818773586,
+        "t": 454.3250655506606,
+        "r": 531.1654804884887,
+        "b": 389.8012776336106
+      },
+      "image_path": "figures/figure_0167.png",
+      "previous_block_id": "txt_0818",
+      "next_block_id": "txt_0819"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0819",
+      "reading_order": 1036,
+      "section": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit.",
+      "bbox": {
+        "l": 392.991,
+        "t": 383.34601953124996,
+        "r": 515.571,
+        "b": 363.26133441674614
+      },
+      "content": "5. Filament winding between terminals, less than 1 Ω."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0168",
+      "reading_order": 1037,
+      "section": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit.",
+      "bbox": {
+        "l": 389.6203040425517,
+        "t": 295.6090584576908,
+        "r": 532.4898543885025,
+        "b": 230.40066300037358
+      },
+      "image_path": "figures/figure_0168.png",
+      "previous_block_id": "txt_0819",
+      "next_block_id": "txt_0820"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0820",
+      "reading_order": 1038,
+      "section": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit.",
+      "bbox": {
+        "l": 393.0,
+        "t": 223.98601953125,
+        "r": 515.58,
+        "b": 203.90133441674618
+      },
+      "content": "5. Filament winding between terminals, less than 1 Ω."
+    }
+  ]
+}

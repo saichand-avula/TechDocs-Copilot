@@ -1,0 +1,19 @@
+{
+  "id": "tbl_0028",
+  "page": 59,
+  "section": "5.1.6 Description of Menu Details",
+  "title": "Table 5-11: Item description of UPS system information window",
+  "markdown": "| Display Content                                                 | Meaning                                                                                                                                            |\n|-----------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|\n| 89XX                                                            | UPS series name                                                                                                                                    |\n| Stand-alone online Parallel system (M/N) Hot standby host/slave | Single UPS online: double-conversion single UPS system Parallel system (M/N): parallel redundant system Hot standby host/slave: hot standby system |\n| 2019-01-05                                                      | Current date (format: year-month-date)                                                                                                             |\n| 15:26                                                           | Current time (format: 24 hours, hour: minute: second)                                                                                              |",
+  "block_id": "#/tables/27",
+  "reading_order": 678,
+  "bbox": {
+    "l": 76.63153204662068,
+    "t": 711.8907761012741,
+    "r": 518.1835117627154,
+    "b": 583.6216254032099
+  },
+  "table_number": "Table 5-11",
+  "rows": 5,
+  "cols": 2,
+  "type": "table"
+}

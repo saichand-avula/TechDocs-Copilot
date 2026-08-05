@@ -1,0 +1,15 @@
+{
+  "id": "tbl_0055",
+  "page": 68,
+  "section": "Terminology",
+  "title": null,
+  "markdown": "| Term                        | Explanation                                                                                                                                                                                                                                                           |\n|-----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Oil separator               | Use only Atlas Copco oil separators. The recommended maximum pressure drop over the oil separator element is 1 bar .                                                                                                                                                  |\n| Minimum stop time           | Once the compressor has automatically stopped, it will remain stopped for the minimum stop time (approx. 20 seconds), whatever happens with the net air pressure. Consult Atlas Copco if a setting lower than 20 seconds is required.                                 |\n| Unloading/ Loading pressure | The regulator does not accept illogical settings, e.g. if the unloading pressure is programmed at 7.0 bar(e), the maximum limit for the loading pressure changes to 6.9 bar(e). The recommended minimum pressure difference between loading and unloading is 0.6 bar. |",
+  "block_id": "#/tables/54",
+  "reading_order": 733,
+  "bbox": {
+    "l": 57.742435455322266,
+    "t": 766.3233413696289,
+    "r": 534.16943359375,
+    "b": 627.3001403808594
+  }
+}

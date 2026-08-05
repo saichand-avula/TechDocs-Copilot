@@ -1,0 +1,138 @@
+{
+  "page": 19,
+  "document_id": "doc_1032c87b",
+  "page_bbox": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0025",
+      "reading_order": 174,
+      "section": "(1) The model of 80 ~120 kVA UPS",
+      "bbox": {
+        "l": 143.42090526946328,
+        "t": 726.7219013232979,
+        "r": 448.4734935690375,
+        "b": 464.5237832287118
+      },
+      "image_path": "figures/figure_0025.png",
+      "next_block_id": "txt_0145",
+      "image_hash": "b68b83adafa97af05380d86abc723d86fb12b2a51539eeb820591f8fb6f2d646",
+      "width": 305,
+      "height": 262
+    },
+    {
+      "type": "caption",
+      "id": "txt_0145",
+      "reading_order": 175,
+      "section": "(1) The model of 80 ~120 kVA UPS",
+      "bbox": {
+        "l": 208.01,
+        "t": 443.5976629101563,
+        "r": 405.99568,
+        "b": 434.126101363195
+      },
+      "content": "Figure 2-20: Model of 400 ~ 500 kVA UPS",
+      "caption_for": "fig_0026"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0026",
+      "reading_order": 176,
+      "section": "(1) The model of 80 ~120 kVA UPS",
+      "bbox": {
+        "l": 119.42252395737587,
+        "t": 419.39559545942456,
+        "r": 480.666518768975,
+        "b": 282.5277746846399
+      },
+      "image_path": "figures/figure_0026.png",
+      "previous_block_id": "txt_0145",
+      "next_block_id": "txt_0146",
+      "caption_id": "txt_0145",
+      "caption": ": Model of 400 ~ 500 kVA UPS",
+      "figure_number": "Figure 2-20",
+      "image_hash": "7510c9403f12481e7745b2c3cb98bd5e6a2f7c6a5e59f431011659ce7dc7d95f",
+      "width": 362,
+      "height": 136
+    },
+    {
+      "type": "caption",
+      "id": "txt_0146",
+      "reading_order": 177,
+      "section": "(1) The model of 80 ~120 kVA UPS",
+      "bbox": {
+        "l": 74.664,
+        "t": 258.0576629101563,
+        "r": 277.66567999999995,
+        "b": 232.98610136319496
+      },
+      "content": "Figure 2- 21: Rectifier module of 400 ~ 500 kVA UPS",
+      "caption_for": "fig_0027"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0147",
+      "reading_order": 178,
+      "section": "(1) The model of 80 ~120 kVA UPS",
+      "bbox": {
+        "l": 308.35,
+        "t": 258.0576629101563,
+        "r": 529.3756800000001,
+        "b": 232.98610136319496
+      },
+      "content": "Figure 2- 22: Inverter module of 400 ~ 500 kVA UPS",
+      "caption_for": "fig_0027"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0027",
+      "reading_order": 179,
+      "section": "(1) The model of 80 ~120 kVA UPS",
+      "bbox": {
+        "l": 81.49065799012999,
+        "t": 213.78125667875088,
+        "r": 510.29062767754147,
+        "b": 129.91459367841458
+      },
+      "image_path": "figures/figure_0027.png",
+      "previous_block_id": "txt_0147",
+      "next_block_id": "txt_0148",
+      "caption_id": "txt_0148",
+      "caption": ": The auxiliary switch and communication port of 400 ~ 500 kVA UPS",
+      "figure_number": "Figure 2-23",
+      "image_hash": "56fb018b9325d79662138003f18d646153e9632af06b11fce37feadeb3fff660",
+      "width": 429,
+      "height": 84
+    },
+    {
+      "type": "caption",
+      "id": "txt_0148",
+      "reading_order": 180,
+      "section": "(1) The model of 80 ~120 kVA UPS",
+      "bbox": {
+        "l": 111.14,
+        "t": 117.62766291015623,
+        "r": 487.13568,
+        "b": 108.15610136319492
+      },
+      "content": "Figure 2-23: The auxiliary switch and communication port of 400 ~ 500 kVA UPS",
+      "caption_for": "fig_0027"
+    }
+  ],
+  "page_stats": {
+    "block_count": 7,
+    "text_blocks": 4,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 0,
+    "captions": 4,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 3,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

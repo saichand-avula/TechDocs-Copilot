@@ -1,0 +1,57 @@
+{
+  "page": 101,
+  "document_id": "doc_37f23c38",
+  "page_bbox": {
+    "width": 612.0,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0040",
+      "reading_order": 956,
+      "section": "PERIPHERAL ASSEMBLY COMPONENT REPLACEMENT",
+      "bbox": {
+        "l": 111.94943237304688,
+        "t": 606.9380035400391,
+        "r": 537.1460571289062,
+        "b": 235.7891845703125
+      },
+      "image_path": "figures/figure_0040.png",
+      "next_block_id": "txt_0879",
+      "caption_id": "txt_0879",
+      "caption": ". Peripheral Assembly Components",
+      "figure_number": "Figure 7-6",
+      "image_hash": "296155ec3aadec0c39b565a1171b3daed22bb82877c2a61126fc44f796feb324",
+      "width": 425,
+      "height": 371
+    },
+    {
+      "type": "caption",
+      "id": "txt_0879",
+      "reading_order": 957,
+      "section": "PERIPHERAL ASSEMBLY COMPONENT REPLACEMENT",
+      "bbox": {
+        "l": 208.44,
+        "t": 220.45128,
+        "r": 439.35164400000036,
+        "b": 211.23828000000003
+      },
+      "content": "Figure 7-6. Peripheral Assembly Components",
+      "caption_for": "fig_0040"
+    }
+  ],
+  "page_stats": {
+    "block_count": 2,
+    "text_blocks": 1,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 0,
+    "captions": 1,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 1,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "page": 16,
+  "document_id": "doc_229deb31",
+  "page_bbox": {
+    "width": 595.219970703125,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0076",
+      "reading_order": 133,
+      "section": "5.Funcitions and Control",
+      "bbox": {
+        "l": 56.962,
+        "t": 779.7727987999999,
+        "r": 273.0458884799999,
+        "b": 761.3228969999999
+      },
+      "content": "5.Funcitions and Control",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0077",
+      "reading_order": 134,
+      "section": "5.1 Main functions and control specification of indoor unit",
+      "bbox": {
+        "l": 56.962,
+        "t": 747.5941416000001,
+        "r": 483.7891906599999,
+        "b": 731.9145540000001
+      },
+      "content": "5.1 Main functions and control specification of indoor unit",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0078",
+      "reading_order": 135,
+      "section": "5.1 Main functions and control specification of indoor unit",
+      "bbox": {
+        "l": 101.777,
+        "t": 722.2453796,
+        "r": 550.9438123800014,
+        "b": 681.1579604000001
+      },
+      "content": "This specification use for HSU18VHJ ˄ DB ˅ frequency conversion air condition are manufactured by Haier air condition parent company. \"Setting value\" (express in parameter) in this specification means is a parameter that is stored in EEPROM. Refer to [EEPROM parameter table]."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0079",
+      "reading_order": 136,
+      "section": "5.1.1 Temperature Adjusting function",
+      "bbox": {
+        "l": 56.962,
+        "t": 668.8067560000001,
+        "r": 287.47999325999973,
+        "b": 655.8973900000001
+      },
+      "content": "5.1.1 Temperature Adjusting function",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0080",
+      "reading_order": 137,
+      "section": "5.1.1.1 Temperature adjusting of different levels.",
+      "bbox": {
+        "l": 56.962,
+        "t": 644.5966856,
+        "r": 340.1277355899994,
+        "b": 633.515614
+      },
+      "content": "5.1.1.1 Temperature adjusting of different levels.",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0081",
+      "reading_order": 138,
+      "section": "5.1.1.1 Temperature adjusting of different levels.",
+      "bbox": {
+        "l": 98.8453,
+        "t": 628.6276928,
+        "r": 339.07574986000054,
+        "b": 618.931732
+      },
+      "content": "(DASH operation conditions under different modes)"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0045",
+      "reading_order": 139,
+      "section": "5.1.1.1 Temperature adjusting of different levels.",
+      "bbox": {
+        "l": 65.10186374261976,
+        "t": 611.9689636230469,
+        "r": 509.65435231711183,
+        "b": 373.19598388671875
+      },
+      "image_path": "figures/figure_0045.png",
+      "previous_block_id": "txt_0081",
+      "next_block_id": "txt_0082",
+      "image_hash": "c06406d780078208e01b92f899124afc6c7efeb5be2b8a34a6beccc4ec65b524",
+      "width": 445,
+      "height": 239
+    },
+    {
+      "type": "heading",
+      "id": "txt_0082",
+      "reading_order": 140,
+      "section": "5.1.1.2 Select the wind volume when it is set automatic",
+      "bbox": {
+        "l": 56.962,
+        "t": 333.4645856,
+        "r": 370.8657160799997,
+        "b": 322.383514
+      },
+      "content": "5.1.1.2 Select the wind volume when it is set automatic",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0083",
+      "reading_order": 141,
+      "section": "5.1.1.2 Select the wind volume when it is set automatic",
+      "bbox": {
+        "l": 101.777,
+        "t": 317.3909152,
+        "r": 550.8259972500003,
+        "b": 292.5802825999999
+      },
+      "content": "When the wind volume is automatic, it can be switched between strong, medium and weak according to the temperature adjusting levels."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0084",
+      "reading_order": 142,
+      "section": "5.1.1.2 Select the wind volume when it is set automatic",
+      "bbox": {
+        "l": 101.777,
+        "t": 286.2752044,
+        "r": 339.0031203200002,
+        "b": 277.02242720000004
+      },
+      "content": "Wind volume under the automatic wind volume mode"
+    },
+    {
+      "type": "table",
+      "id": "tbl_0015",
+      "reading_order": 143,
+      "section": "5.1.1.2 Select the wind volume when it is set automatic",
+      "bbox": {
+        "l": 74.42805662628795,
+        "t": 275.8450927734375,
+        "r": 530.3341139124972,
+        "b": 144.78656005859375
+      },
+      "markdown": "|                   | Temperature adjusting levels   | Temperature adjusting levels   | Temperature adjusting levels   | Temperature adjusting levels   | Temperature adjusting levels   | Temperature adjusting levels   | Temperature adjusting levels   | Temperature adjusting levels   | Temperature adjusting levels   |\n|-------------------|--------------------------------|--------------------------------|--------------------------------|--------------------------------|--------------------------------|--------------------------------|--------------------------------|--------------------------------|--------------------------------|\n|                   | A                              | B                              | C                              | D                              | E                              | F                              | G                              | H                              | I                              |\n| Heating           | Strong                         | Strong                         | Strong                         | Strong                         | Strong                         | Medium                         | Weak                           | Weak                           | SLO                            |\n| cooling           |                                | Strong                         | Strong                         | Strong                         | Medium                         | Medium                         | Weak                           | Weak                           | Weak                           |\n| Moisture removing |                                | Strong                         | Medium                         | Medium                         | Medium                         | Weak                           | Weak                           | SLO                            | SLO                            |",
+      "rows": 5,
+      "cols": 9
+    },
+    {
+      "type": "figure",
+      "id": "fig_0046",
+      "reading_order": 144,
+      "section": "5.1.1.2 Select the wind volume when it is set automatic",
+      "bbox": {
+        "l": 55.982977085720215,
+        "t": 62.99688720703125,
+        "r": 87.88244597204029,
+        "b": 52.3792724609375
+      },
+      "image_path": "figures/figure_0046.png",
+      "previous_block_id": "txt_0084",
+      "width": 31,
+      "height": 10,
+      "image_hash": "4932c2d5d0b7074cda725139f9d9564f1f04035ce7b4f980001f49bec2498beb"
+    }
+  ],
+  "page_stats": {
+    "block_count": 12,
+    "text_blocks": 9,
+    "paragraphs": 4,
+    "headings": 5,
+    "list_items": 0,
+    "captions": 0,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 2,
+    "tables": 1,
+    "toc_tables": 0
+  }
+}

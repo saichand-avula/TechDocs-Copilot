@@ -1,0 +1,84 @@
+{
+  "page": 47,
+  "document_id": "doc_f7e949ab",
+  "page_bbox": {
+    "width": 612.0,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0583",
+      "reading_order": 635,
+      "section": "5.5.2 Display",
+      "bbox": {
+        "l": 72.0,
+        "t": 702.8025,
+        "r": 137.8125,
+        "b": 689.4375
+      },
+      "content": "5.5.2 Display",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0584",
+      "reading_order": 636,
+      "section": "5.5.2 Display",
+      "bbox": {
+        "l": 144.0,
+        "t": 688.50375,
+        "r": 539.065125,
+        "b": 648.74625
+      },
+      "content": "Table 15 lists  symptoms  of problems relating to non-functioning displays,  and recommended actions. If the action requires replacement of a PCB assembly or module, refer to Disassembly Guide.",
+      "caption_for": "tbl_0020"
+    },
+    {
+      "type": "table",
+      "id": "tbl_0020",
+      "reading_order": 637,
+      "section": "5.5.2 Display",
+      "bbox": {
+        "l": 136.89642333984375,
+        "t": 637.785888671875,
+        "r": 542.1873168945312,
+        "b": 152.93280029296875
+      },
+      "markdown": "Table 15. Display\n\n| Symptom                                                                      | Recommended Action                                                                                                                                                                                                                                                                                                                                                                                 |\n|------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| 1. LCD screen is totally black after system powers-up.                       | 1. Ensure backlight wire is connected to backlight inverter. 2. Ensure backlight inverter wire is connected to Main PCB assembly. 3. Ensure Booting Mode Selector is set to 'NORMAL'. 4. If the problem persists, replace LCD cable. 5. If the problem persists, replace backlight inverter. 6. If the problem persists, replace Main PCB assembly. 7. If the problem persists, replace LCD panel. |\n| 2. LCD screen is illuminated, but no data is visible after system powers-up. | 1. Ensure backlight wire is connected to Main PCB assembly and backlight inverter. 2. Ensure LCD cable is connected to Main PCB assembly and LCD panel. 3. If the problem persists, replace LCD cable. 4. If the problem persists, replace Main PCB assembly. 5. If the problem persists, replace backlight inverter. 6. If the problem persists, replace LCD panel.                               |\n| 3. LCD screen has data, but is not illuminated after system powers- up.      | 1. Ensure backlight wire is connected to Main PCB assembly and backlight inverter. 2. Ensure LCD cable is connected to Main PCB assembly and LCD panel. 3. If the problem persists, replace Main PCB assembly. 4. If the problem persists, replace backlight inverter. 5. If the problem persists, replace LCD panel.                                                                              |\n| 4. Display values are missing or erratic                                     | 1. If the measurement cables are connected, ensure that the cables are properly connected. 2. If the problem persists, replace the measurement cables. 3. If the problem persists, replace LCD cable. 4. If the problem still persists, replace Main PCB assembly. 5. If the problem still persists, replace ECG PCB assembly. 6. If the problem still persists, replace SpO 2 PCB assembly.       |\n| 5. Display pixels do not light.                                              | 1. Check the connection of Main PCB assembly. 2. If the problem persists, replace LCD cable. 3. If the problem still persists, replace Main PCB assembly. 4. If the problem still persists, replace LCD panel.                                                                                                                                                                                     |",
+      "caption_id": "txt_0585",
+      "title": "Table 15 lists  symptoms  of problems relating to non-functioning displays,  and recommended actions. If the action requires replacement of a PCB assembly or module, refer to Disassembly Guide.",
+      "table_number": "Table 15",
+      "rows": 6,
+      "cols": 2
+    },
+    {
+      "type": "caption",
+      "id": "txt_0585",
+      "reading_order": 638,
+      "section": "5.5.2 Display",
+      "bbox": {
+        "l": 302.25037499999996,
+        "t": 648.8025,
+        "r": 389.81249999999994,
+        "b": 635.4375
+      },
+      "content": "Table 15. Display",
+      "caption_for": "tbl_0020"
+    }
+  ],
+  "page_stats": {
+    "block_count": 4,
+    "text_blocks": 3,
+    "paragraphs": 0,
+    "headings": 1,
+    "list_items": 0,
+    "captions": 2,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 0,
+    "tables": 1,
+    "toc_tables": 0
+  }
+}

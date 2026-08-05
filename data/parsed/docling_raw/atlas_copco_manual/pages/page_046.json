@@ -1,0 +1,188 @@
+{
+  "page": 46,
+  "document_id": "doc_e02482e6",
+  "page_bbox": {
+    "width": 595.0,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0135",
+      "reading_order": 476,
+      "section": "Function",
+      "bbox": {
+        "l": 26.606233596801758,
+        "t": 816.3159637451172,
+        "r": 73.95791625976562,
+        "b": 792.7871131896973
+      },
+      "image_path": "figures/figure_0135.png",
+      "previous_block_id": "txt_0311",
+      "next_block_id": "txt_0312"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0312",
+      "reading_order": 477,
+      "section": "Procedure",
+      "bbox": {
+        "l": 28.75,
+        "t": 772.235,
+        "r": 84.9688,
+        "b": 759.959
+      },
+      "content": "Procedure",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0313",
+      "reading_order": 478,
+      "section": "Procedure",
+      "bbox": {
+        "l": 62.7697,
+        "t": 752.941,
+        "r": 281.71150000000006,
+        "b": 740.764
+      },
+      "content": "Starting from the Main screen (see Main screen):"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0314",
+      "reading_order": 479,
+      "section": "Procedure",
+      "bbox": {
+        "l": 62.76970000000006,
+        "t": 733.801,
+        "r": 506.7329999999997,
+        "b": 721.624
+      },
+      "content": "Move the cursor to the action button Menu and press the enter key (2), following screen appears:"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0136",
+      "reading_order": 480,
+      "section": "Procedure",
+      "bbox": {
+        "l": 179.3432159423828,
+        "t": 711.8090667724609,
+        "r": 380.6470947265625,
+        "b": 542.9169921875
+      },
+      "image_path": "figures/figure_0136.png",
+      "previous_block_id": "txt_0314",
+      "next_block_id": "txt_0315"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0315",
+      "reading_order": 481,
+      "section": "Text on figure",
+      "bbox": {
+        "l": 62.23,
+        "t": 527.7610000000001,
+        "r": 124.4614,
+        "b": 515.5840000000001
+      },
+      "content": "Text on figure",
+      "level": 2
+    },
+    {
+      "type": "table",
+      "id": "tbl_0032",
+      "reading_order": 482,
+      "section": "Text on figure",
+      "bbox": {
+        "l": 58.27300262451172,
+        "t": 503.8841247558594,
+        "r": 534.4024047851562,
+        "b": 452.51385498046875
+      },
+      "markdown": "| (1)   | Configuration     |\n|-------|-------------------|\n| (2)   | Pressure Settings |\n| (3)   | Main screen       |"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0316",
+      "reading_order": 483,
+      "section": "Text on figure",
+      "bbox": {
+        "l": 62.23,
+        "t": 441.481,
+        "r": 492.62039999999917,
+        "b": 429.30400000000003
+      },
+      "content": "Using the scroll keys (1), move the cursor to the counters icon (see above, section Menu icon)"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0317",
+      "reading_order": 484,
+      "section": "Text on figure",
+      "bbox": {
+        "l": 62.23,
+        "t": 422.341,
+        "r": 296.1482999999999,
+        "b": 410.16400000000004
+      },
+      "content": "Press the enter key (2), following screen appears:"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0137",
+      "reading_order": 485,
+      "section": "Text on figure",
+      "bbox": {
+        "l": 177.23878479003906,
+        "t": 395.7350158691406,
+        "r": 379.030517578125,
+        "b": 228.02532958984375
+      },
+      "image_path": "figures/figure_0137.png",
+      "previous_block_id": "txt_0317",
+      "next_block_id": "txt_0318"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0318",
+      "reading_order": 486,
+      "section": "Text on figure",
+      "bbox": {
+        "l": 61.63,
+        "t": 210.601,
+        "r": 123.8614,
+        "b": 198.42399999999998
+      },
+      "content": "Text on figure",
+      "level": 2
+    },
+    {
+      "type": "table",
+      "id": "tbl_0033",
+      "reading_order": 487,
+      "section": "Text on figure",
+      "bbox": {
+        "l": 63.5692253112793,
+        "t": 192.5545654296875,
+        "r": 533.9505004882812,
+        "b": 93.32562255859375
+      },
+      "markdown": "| (1)   | Counters     |\n|-------|--------------|\n| (2)   | Running hrs  |\n| (3)   | Loaded hrs   |\n| (4)   | Motor starts |\n| (5)   | Module hrs   |\n| (6)   | Back         |"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0319",
+      "reading_order": 488,
+      "section": "Text on figure",
+      "bbox": {
+        "l": 62.23,
+        "t": 78.66100000000006,
+        "r": 363.6541999999999,
+        "b": 66.48400000000004
+      },
+      "content": "The screen shows a list of all counters with their actual readings."
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "page": 639,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_4787",
+      "reading_order": 6642,
+      "section": "13. Remove the right cover.",
+      "bbox": {
+        "l": 122.0,
+        "t": 732.29,
+        "r": 551.4900000000001,
+        "b": 708.7
+      },
+      "content": "M506/E50045/ only: Rotate the front of the cover up and away from the printer, and then remove the cover."
+    },
+    {
+      "type": "figure",
+      "id": "fig_1812",
+      "reading_order": 6643,
+      "section": "13. Remove the right cover.",
+      "bbox": {
+        "l": 128.12637497302958,
+        "t": 698.7789916992188,
+        "r": 142.14792670362138,
+        "b": 686.0639190673828
+      },
+      "image_path": "figures/figure_1812.png",
+      "decorative": true,
+      "width": 14,
+      "height": 12,
+      "image_hash": "6ddc14fae5c97fc2ddc652822307af1aafa4a823318be6921a15605ea36ce536",
+      "previous_block_id": "txt_4787",
+      "next_block_id": "txt_4788"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_4788",
+      "reading_order": 6644,
+      "section": "13. Remove the right cover.",
+      "bbox": {
+        "l": 144.0,
+        "t": 696.79,
+        "r": 548.3000100000002,
+        "b": 673.2
+      },
+      "content": "CAUTION: M506x/E50045x only: As the cover is rotated up, carefully pass the cables the hole in the chassis (callout 1).",
+      "severity": "caution"
+    },
+    {
+      "type": "figure",
+      "id": "fig_1813",
+      "reading_order": 6645,
+      "section": "13. Remove the right cover.",
+      "bbox": {
+        "l": 127.68577885863866,
+        "t": 663.6267242431641,
+        "r": 140.26723551295166,
+        "b": 649.8897857666016
+      },
+      "image_path": "figures/figure_1813.png",
+      "decorative": true,
+      "width": 12,
+      "height": 13,
+      "image_hash": "90cfb1b8d8968e311a9d6557230d495ef39f3086aa2d63e6d9bed9d48215bc8f",
+      "previous_block_id": "txt_4788",
+      "next_block_id": "txt_4789"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_4789",
+      "reading_order": 6646,
+      "section": "13. Remove the right cover.",
+      "bbox": {
+        "l": 144.0,
+        "t": 663.79,
+        "r": 526.6400100000001,
+        "b": 652.2
+      },
+      "content": "NOTE: LCD control panel models only: Disconnect the control panel before removing the cover.",
+      "severity": "note"
+    },
+    {
+      "type": "figure",
+      "id": "fig_1814",
+      "reading_order": 6647,
+      "section": "13. Remove the right cover.",
+      "bbox": {
+        "l": 142.87002939610986,
+        "t": 628.0859680175781,
+        "r": 432.79726499726354,
+        "b": 411.87738037109375
+      },
+      "image_path": "figures/figure_1814.png",
+      "caption": "Remove the cover (M506/E50045)",
+      "figure_number": "Figure 1-1068",
+      "image_hash": "b7e626897dfa43e790acf9fc3b268e8eafe1631047bc46d5b0728720756094c5",
+      "width": 290,
+      "height": 216,
+      "previous_block_id": "txt_4789",
+      "next_block_id": "txt_4790",
+      "caption_id": "txt_4790"
+    },
+    {
+      "type": "caption",
+      "id": "txt_4790",
+      "reading_order": 6648,
+      "section": "13. Remove the right cover.",
+      "bbox": {
+        "l": 144.0,
+        "t": 641.29,
+        "r": 344.27001,
+        "b": 629.7
+      },
+      "content": "Figure 1-1068  Remove the cover (M506/E50045)",
+      "caption_for": "fig_1814"
+    }
+  ],
+  "page_stats": {
+    "block_count": 7,
+    "text_blocks": 4,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 1,
+    "captions": 1,
+    "admonitions": 2,
+    "references": 0,
+    "figures": 3,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

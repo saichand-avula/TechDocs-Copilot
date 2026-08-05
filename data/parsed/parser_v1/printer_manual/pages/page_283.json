@@ -1,0 +1,105 @@
+{
+  "page": 283,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0780",
+      "reading_order": 3138,
+      "section": "d. Remove the cover.",
+      "bbox": {
+        "l": 142.98729901978544,
+        "t": 719.8857574462891,
+        "r": 432.79863764209784,
+        "b": 502.5113830566406
+      },
+      "image_path": "figures/figure_0780.png",
+      "caption": "Remove the cover",
+      "figure_number": "Figure 1-432",
+      "image_hash": "2b432706689b38116082010ade36f1683cefae5f71beaf12b93e3e0f7de26f97",
+      "width": 290,
+      "height": 217,
+      "next_block_id": "txt_2330",
+      "caption_id": "txt_2330"
+    },
+    {
+      "type": "caption",
+      "id": "txt_2330",
+      "reading_order": 3139,
+      "section": "d. Remove the cover.",
+      "bbox": {
+        "l": 144.0,
+        "t": 732.29,
+        "r": 272.8999899999999,
+        "b": 720.7
+      },
+      "content": "Figure 1-432  Remove the cover",
+      "caption_for": "fig_0780"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2331",
+      "reading_order": 3140,
+      "section": "d. Remove the cover.",
+      "bbox": {
+        "l": 122.0,
+        "t": 491.41999999999996,
+        "r": 528.1200000000005,
+        "b": 479.83000000000004
+      },
+      "content": "Disconnect one flat-flexible cable (FFC; callout 1), and then remove one ground screw (callout 2)."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0781",
+      "reading_order": 3141,
+      "section": "d. Remove the cover.",
+      "bbox": {
+        "l": 143.14879831034347,
+        "t": 458.1446533203125,
+        "r": 432.6259284187265,
+        "b": 239.797607421875
+      },
+      "image_path": "figures/figure_0781.png",
+      "caption": "Disconnect the FFC and the ground cable",
+      "figure_number": "Figure 1-433",
+      "image_hash": "3adfaceb99cff7940dfce33e4c3360eb02096dd42f2574de83a6833fa7cf89f1",
+      "width": 290,
+      "height": 218,
+      "previous_block_id": "txt_2331",
+      "next_block_id": "txt_2332",
+      "caption_id": "txt_2332"
+    },
+    {
+      "type": "caption",
+      "id": "txt_2332",
+      "reading_order": 3142,
+      "section": "d. Remove the cover.",
+      "bbox": {
+        "l": 143.99996,
+        "t": 470.42,
+        "r": 363.22996,
+        "b": 458.83
+      },
+      "content": "Figure 1-433  Disconnect the FFC and the ground cable",
+      "caption_for": "fig_0781"
+    }
+  ],
+  "page_stats": {
+    "block_count": 5,
+    "text_blocks": 3,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 1,
+    "captions": 2,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 2,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

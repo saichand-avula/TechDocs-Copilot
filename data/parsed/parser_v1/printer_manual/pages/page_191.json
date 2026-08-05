@@ -1,0 +1,170 @@
+{
+  "page": 191,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0504",
+      "reading_order": 2257,
+      "section": "10. Remove the left cover.",
+      "bbox": {
+        "l": 127.79042777564347,
+        "t": 732.0815353393555,
+        "r": 139.96690082321055,
+        "b": 718.8046112060547
+      },
+      "image_path": "figures/figure_0504.png",
+      "decorative": true,
+      "width": 12,
+      "height": 13,
+      "image_hash": "b7a23a53bfe3f145ca142e61350b33418e9cead7c55319de5ab73adefae1a845",
+      "next_block_id": "txt_1728"
+    },
+    {
+      "type": "caption",
+      "id": "txt_1728",
+      "reading_order": 2258,
+      "section": "10. Remove the left cover.",
+      "bbox": {
+        "l": 144.0,
+        "t": 707.29,
+        "r": 276.6099899999999,
+        "b": 695.7
+      },
+      "content": "Figure 1-262  Remove one screw",
+      "caption_for": "fig_0505"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0505",
+      "reading_order": 2259,
+      "section": "10. Remove the left cover.",
+      "bbox": {
+        "l": 143.07777156597396,
+        "t": 694.8617706298828,
+        "r": 432.6644844869606,
+        "b": 478.0151672363281
+      },
+      "image_path": "figures/figure_0505.png",
+      "caption": "Remove one screw",
+      "figure_number": "Figure 1-262",
+      "image_hash": "bbd1eb50d9643108b65e75a5189170ac40c0b49f8bde4a1fd3198d0f175f8da7",
+      "width": 290,
+      "height": 217,
+      "previous_block_id": "txt_1728",
+      "next_block_id": "txt_1729",
+      "caption_id": "txt_1728"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1729",
+      "reading_order": 2260,
+      "section": "10. Remove the left cover.",
+      "bbox": {
+        "l": 122.0,
+        "t": 466.42,
+        "r": 540.3200000000002,
+        "b": 442.83
+      },
+      "content": "Disconnect three connectors (callout 1), pass the wire harnesses and cables through the opening in the cover (callout 2), and then release them from the retainers (callout 3)."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0506",
+      "reading_order": 2261,
+      "section": "10. Remove the left cover.",
+      "bbox": {
+        "l": 127.91642894562601,
+        "t": 433.073974609375,
+        "r": 140.48568431252318,
+        "b": 419.5060119628906
+      },
+      "image_path": "figures/figure_0506.png",
+      "decorative": true,
+      "width": 12,
+      "height": 13,
+      "image_hash": "1991863848bfb809a491ce98523a045ca34d2e55d164db0ccfbd99792905d2e7",
+      "previous_block_id": "txt_1729",
+      "next_block_id": "txt_1730"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_1730",
+      "reading_order": 2262,
+      "section": "10. Remove the left cover.",
+      "bbox": {
+        "l": 144.0,
+        "t": 430.92,
+        "r": 482.8899999999999,
+        "b": 419.33
+      },
+      "content": "NOTE: One cable (callout 4) does not need to pass through the opening in the cover.",
+      "severity": "note"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1731",
+      "reading_order": 2263,
+      "section": "10. Remove the left cover.",
+      "bbox": {
+        "l": 143.99996,
+        "t": 409.92,
+        "r": 532.5100000000002,
+        "b": 386.33
+      },
+      "content": "TIP: It might be easier if the WiFi PCA and holder (not all models; callout 5) is detached from the printer, and then moved out of the way."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0507",
+      "reading_order": 2264,
+      "section": "10. Remove the left cover.",
+      "bbox": {
+        "l": 142.97274898454202,
+        "t": 363.07373046875,
+        "r": 432.570900612481,
+        "b": 146.463623046875
+      },
+      "image_path": "figures/figure_0507.png",
+      "caption": "Disconnect cables and connectors",
+      "figure_number": "Figure 1-263",
+      "image_hash": "c410f0ad799016522e4ac90fce73e611aa5969d4c9722660a663c292efecacf7",
+      "width": 290,
+      "height": 217,
+      "previous_block_id": "txt_1731",
+      "next_block_id": "txt_1732",
+      "caption_id": "txt_1732"
+    },
+    {
+      "type": "caption",
+      "id": "txt_1732",
+      "reading_order": 2265,
+      "section": "10. Remove the left cover.",
+      "bbox": {
+        "l": 144.0,
+        "t": 375.42,
+        "r": 335.91999,
+        "b": 363.83
+      },
+      "content": "Figure 1-263  Disconnect cables and connectors",
+      "caption_for": "fig_0507"
+    }
+  ],
+  "page_stats": {
+    "block_count": 9,
+    "text_blocks": 5,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 2,
+    "captions": 2,
+    "admonitions": 1,
+    "references": 0,
+    "figures": 4,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

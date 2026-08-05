@@ -1,0 +1,15 @@
+{
+  "id": "tbl_0103",
+  "page": 216,
+  "section": "6) Servo alarms(l/2)",
+  "title": null,
+  "markdown": "|   No. | Message                                 | Contents                                                                                                                                                                                                                                                             |\n|-------|-----------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n|   401 | SERVO ALARM : n-TH AXIS VRDY OFF        | The n-th axis (axis 1-8) servo amplifier READY signal (DRDY) went off. Refer to procedure of trouble shooting.                                                                                                                                                       |\n|   402 | SERVO ALARM : SV CARD NOT EXIST         | The axis control card is not provided.                                                                                                                                                                                                                               |\n|   403 | SERVO ALARM : CARD /SOFT MISMATCH       | The combination of the axis control card and servo software is illegal. The possible causes are as following: • A correct axis control card is not provided. • Correct servo software is not installed on flash memory.                                              |\n|   404 | SERVO ALARM n-TH AXIS VRDY ON           | Even though the n-th axis (axis 1-8) READY signal (MCON) went off, the servo amplifier READY signal (DRDY) is still on. Or, when the power was turned on. DRDY went on even thought MCON was off. Check that the servo interface module and servo amp are connected. |\n|   405 | SERVO ALARM: (SERVO POINT RETURN FAULT) | Position control system fault. Due to an NC or servo system fault in the reference position return, there is the possibility that reference position return could not be executed correctly. Try again from the manual reference position return.                    |",
+  "block_id": "#/tables/102",
+  "reading_order": 1784,
+  "bbox": {
+    "l": 64.46747589111328,
+    "t": 472.60614013671875,
+    "r": 530.7667236328125,
+    "b": 77.2705078125
+  }
+}

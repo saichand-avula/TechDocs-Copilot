@@ -1,0 +1,192 @@
+{
+  "page": 77,
+  "document_id": "doc_e02482e6",
+  "page_bbox": {
+    "width": 595.0,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0522",
+      "reading_order": 800,
+      "section": "4.6    Data displayed during normal operation",
+      "bbox": {
+        "l": 56.55,
+        "t": 772.8000000000001,
+        "r": 389.5467999999997,
+        "b": 754.9440000000001
+      },
+      "content": "4.6    Data displayed during normal operation",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0523",
+      "reading_order": 801,
+      "section": "4.6    Data displayed during normal operation",
+      "bbox": {
+        "l": 90.57,
+        "t": 732.541,
+        "r": 517.3182999999997,
+        "b": 720.364
+      },
+      "content": "The normal starting display on the Elektronikon® Graphic will look like indicated on the following"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0219",
+      "reading_order": 802,
+      "section": "4.6    Data displayed during normal operation",
+      "bbox": {
+        "l": 234.9820556640625,
+        "t": 712.4669647216797,
+        "r": 379.62872314453125,
+        "b": 594.989501953125
+      },
+      "image_path": "figures/figure_0219.png",
+      "previous_block_id": "txt_0523",
+      "next_block_id": "txt_0524",
+      "image_hash": "dbe9cc79ee2e6c05cb7579321dd09b2090b7f6522dd7e12fc5ed314d11fdfe43",
+      "width": 145,
+      "height": 117
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0524",
+      "reading_order": 803,
+      "section": "4.6    Data displayed during normal operation",
+      "bbox": {
+        "l": 90.57,
+        "t": 577.921,
+        "r": 356.8107000000004,
+        "b": 565.744
+      },
+      "content": "Picture.Press the enter arrow to reach the following display."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0220",
+      "reading_order": 804,
+      "section": "4.6    Data displayed during normal operation",
+      "bbox": {
+        "l": 237.53189086914062,
+        "t": 557.0306091308594,
+        "r": 381.72698974609375,
+        "b": 439.25128173828125
+      },
+      "image_path": "figures/figure_0220.png",
+      "previous_block_id": "txt_0524",
+      "next_block_id": "txt_0525",
+      "image_hash": "b22740965e93b222b6b9c90d91a81b85a44dce4d7687c565d0a9183b02660e52",
+      "width": 144,
+      "height": 118
+    },
+    {
+      "type": "table",
+      "id": "tbl_0062",
+      "reading_order": 805,
+      "section": "4.6    Data displayed during normal operation",
+      "bbox": {
+        "l": 89.87631225585938,
+        "t": 424.58148193359375,
+        "r": 567.1983642578125,
+        "b": 356.3780212402344
+      },
+      "markdown": "| Reference   | Description       | Reference   | Description   |\n|-------------|-------------------|-------------|---------------|\n| (1)         | Compressor outlet | (4)         | Unload        |\n| (2)         | Element outlet    | (5)         | Menu          |\n| (3)         | Load              | (6)         | Regulation    |",
+      "rows": 4,
+      "cols": 4
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0525",
+      "reading_order": 806,
+      "section": "4.6    Data displayed during normal operation",
+      "bbox": {
+        "l": 90.57,
+        "t": 340.3815,
+        "r": 549.6418000000011,
+        "b": 315.0045
+      },
+      "content": "Press the right arrow and press enter to go into the Inputs submenu. The remaining lifetime of the OSCi filters expressed as a percentage compared to new filters (100%) is visible here."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0221",
+      "reading_order": 807,
+      "section": "4.6    Data displayed during normal operation",
+      "bbox": {
+        "l": 237.52688598632812,
+        "t": 309.538818359375,
+        "r": 385.9553527832031,
+        "b": 187.63201904296875
+      },
+      "image_path": "figures/figure_0221.png",
+      "previous_block_id": "txt_0525",
+      "next_block_id": "txt_0526",
+      "image_hash": "867887288ae7b53f873a3e510a8f87c32f4314a7c61699b4ddad318e025d8c79",
+      "width": 148,
+      "height": 122
+    },
+    {
+      "type": "table",
+      "id": "tbl_0063",
+      "reading_order": 808,
+      "section": "4.6    Data displayed during normal operation",
+      "bbox": {
+        "l": 88.88911437988281,
+        "t": 164.45953369140625,
+        "r": 566.0171508789062,
+        "b": 130.0084228515625
+      },
+      "markdown": "| Reference   | Description             |\n|-------------|-------------------------|\n| (1)         | OSCi remaining lifetime |",
+      "rows": 2,
+      "cols": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0526",
+      "reading_order": 809,
+      "section": "4.6    Data displayed during normal operation",
+      "bbox": {
+        "l": 91.41,
+        "t": 109.62099999999998,
+        "r": 526.3598999999992,
+        "b": 84.24400000000003
+      },
+      "content": "To take a look at the status of the OSCi overflow sensor, press the down arrow a few times. 'No' indicates that there is no overflow danger"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0222",
+      "reading_order": 810,
+      "section": "4.6    Data displayed during normal operation",
+      "bbox": {
+        "l": 519.42431640625,
+        "t": 816.2541637420654,
+        "r": 567.1690063476562,
+        "b": 792.7747955322266
+      },
+      "image_path": "figures/figure_0222.png",
+      "previous_block_id": "txt_0526",
+      "width": 47,
+      "height": 23,
+      "decorative": true,
+      "image_hash": "b28a1d23de5124d82d6f84120acacff249829ec0e42f4c826059a188d93e4d2e"
+    }
+  ],
+  "page_stats": {
+    "block_count": 11,
+    "text_blocks": 5,
+    "paragraphs": 4,
+    "headings": 1,
+    "list_items": 0,
+    "captions": 0,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 4,
+    "tables": 2,
+    "toc_tables": 0
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "page": 111,
+  "document_id": "doc_e02482e6",
+  "page_bbox": {
+    "width": 595.0,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0288",
+      "reading_order": 1223,
+      "section": "Procedure",
+      "bbox": {
+        "l": 198.657958984375,
+        "t": 768.1904525756836,
+        "r": 446.3184814453125,
+        "b": 648.9747619628906
+      },
+      "image_path": "figures/figure_0288.png",
+      "next_block_id": "txt_0845",
+      "caption_id": "txt_0845",
+      "caption": "Control panel Elektronikon Graphic",
+      "image_hash": "7a99a99417314755f7702f8537d00d1b203a45012e0293b0da8749c235c2a5f5",
+      "width": 247,
+      "height": 119
+    },
+    {
+      "type": "caption",
+      "id": "txt_0845",
+      "reading_order": 1224,
+      "section": "Procedure",
+      "bbox": {
+        "l": 245.07000000000002,
+        "t": 635.05,
+        "r": 410.99899999999997,
+        "b": 623.98
+      },
+      "content": "Control panel Elektronikon Graphic",
+      "caption_for": "fig_0288"
+    },
+    {
+      "type": "table",
+      "id": "tbl_0093",
+      "reading_order": 1225,
+      "section": "Procedure",
+      "bbox": {
+        "l": 99.71656036376953,
+        "t": 614.4645385742188,
+        "r": 522.6263427734375,
+        "b": 391.0278015136719
+      },
+      "markdown": "| Step   | Action                                                                                                                                                                                                                                                                                                                                                                                                                                                            |\n|--------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| -      | up. lights (6) LED on voltage that Check voltage. the on Switch                                                                                                                                                                                                                                                                                                                                                                                                   |\n| -      | valve. outlet air the Open                                                                                                                                                                                                                                                                                                                                                                                                                                        |\n| -      | and running starts compressor The . panel control the on (1) button start Press the starting, after seconds Ten up. lights (8) LED operation automatic the starts compressor the and delta to star from over switches motor drive loaded. running                                                                                                                                                                                                                 |\n| -      | loaded during flow water cooling the regulate compressors, water-cooled On the of outlet the at temperature suitable most the obtain to running relevant the above °C 7 and 2°C between i.e. element, compressor water cooling the operation, optimum For . below figure the in temperature section in specified value the exceed never must temperature outlet during form should condensate if Copco Atlas Consult data. Compressor periods. unloading frequent |",
+      "rows": 5,
+      "cols": 2
+    },
+    {
+      "type": "figure",
+      "id": "fig_0289",
+      "reading_order": 1226,
+      "section": "Procedure",
+      "bbox": {
+        "l": 151.15760803222656,
+        "t": 364.4504699707031,
+        "r": 480.9477233886719,
+        "b": 85.1705322265625
+      },
+      "image_path": "figures/figure_0289.png",
+      "previous_block_id": "txt_0845",
+      "next_block_id": "txt_0846",
+      "caption_id": "txt_0846",
+      "caption": "Minimum compressor element temperature for water-cooled units",
+      "image_hash": "4b85b7d00aee80e6689096fa14c9c87f67e2f9d66e55262ee09314fce8428432",
+      "width": 330,
+      "height": 279
+    },
+    {
+      "type": "caption",
+      "id": "txt_0846",
+      "reading_order": 1227,
+      "section": "Procedure",
+      "bbox": {
+        "l": 200.55,
+        "t": 77.04999999999995,
+        "r": 468.262,
+        "b": 65.98000000000002
+      },
+      "content": "Minimum compressor element temperature for water-cooled units",
+      "caption_for": "fig_0289"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0290",
+      "reading_order": 1228,
+      "section": "Procedure",
+      "bbox": {
+        "l": 519.4149169921875,
+        "t": 815.8164615631104,
+        "r": 567.1444702148438,
+        "b": 793.0602264404297
+      },
+      "image_path": "figures/figure_0290.png",
+      "previous_block_id": "txt_0846",
+      "width": 47,
+      "height": 22,
+      "decorative": true,
+      "image_hash": "b28a1d23de5124d82d6f84120acacff249829ec0e42f4c826059a188d93e4d2e"
+    }
+  ],
+  "page_stats": {
+    "block_count": 6,
+    "text_blocks": 2,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 0,
+    "captions": 2,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 3,
+    "tables": 1,
+    "toc_tables": 0
+  }
+}

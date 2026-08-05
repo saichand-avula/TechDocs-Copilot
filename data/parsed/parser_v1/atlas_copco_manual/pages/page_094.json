@@ -1,0 +1,118 @@
+{
+  "page": 94,
+  "document_id": "doc_e02482e6",
+  "page_bbox": {
+    "width": 595.0,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0255",
+      "reading_order": 1014,
+      "section": "Data for high temperature rise/low water flow systems",
+      "bbox": {
+        "l": 26.607206344604492,
+        "t": 816.6106548309326,
+        "r": 73.96675872802734,
+        "b": 792.9520874023438
+      },
+      "image_path": "figures/figure_0255.png",
+      "next_block_id": "txt_0681",
+      "width": 47,
+      "height": 23,
+      "image_hash": "a9fc843e452329e422c1b5433f572f68f0b9e97e655c5f37b4dfd3fd126a60e1"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0681",
+      "reading_order": 1015,
+      "section": "6       Installation",
+      "bbox": {
+        "l": 28.21,
+        "t": 772.8000000000001,
+        "r": 153.47719999999998,
+        "b": 754.9440000000001
+      },
+      "content": "6       Installation",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0682",
+      "reading_order": 1016,
+      "section": "6.1     Dimension drawings",
+      "bbox": {
+        "l": 28.21,
+        "t": 728.5792000000001,
+        "r": 215.73960000000005,
+        "b": 710.7232000000001
+      },
+      "content": "6.1     Dimension drawings",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0256",
+      "reading_order": 1017,
+      "section": "6.1     Dimension drawings",
+      "bbox": {
+        "l": 52.07590866088867,
+        "t": 687.4933013916016,
+        "r": 527.8829956054688,
+        "b": 144.90057373046875
+      },
+      "image_path": "figures/figure_0256.png",
+      "previous_block_id": "txt_0682",
+      "next_block_id": "txt_0683",
+      "caption_id": "txt_0684",
+      "caption": "Centre of gravity",
+      "image_hash": "9451b905c1f1872c5bdc53ff47446600bc0516f27e732e58b006a7ed7677c6f8",
+      "width": 476,
+      "height": 542
+    },
+    {
+      "type": "caption",
+      "id": "txt_0683",
+      "reading_order": 1018,
+      "section": "6.1     Dimension drawings",
+      "bbox": {
+        "l": 172.21,
+        "t": 125.76999999999998,
+        "r": 322.2180000000003,
+        "b": 114.70000000000005
+      },
+      "content": "Dimensions  GA 37+  upto GA  75",
+      "caption_for": "fig_0256"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0684",
+      "reading_order": 1019,
+      "section": "6.1     Dimension drawings",
+      "bbox": {
+        "l": 62.23,
+        "t": 88.68100000000004,
+        "r": 134.24919999999992,
+        "b": 76.50400000000002
+      },
+      "content": "Centre of gravity",
+      "caption_for": "fig_0256"
+    }
+  ],
+  "page_stats": {
+    "block_count": 6,
+    "text_blocks": 4,
+    "paragraphs": 0,
+    "headings": 2,
+    "list_items": 0,
+    "captions": 2,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 2,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

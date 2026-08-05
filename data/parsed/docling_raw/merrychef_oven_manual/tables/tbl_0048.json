@@ -1,0 +1,15 @@
+{
+  "id": "tbl_0048",
+  "page": 55,
+  "section": "Information Event Codes:",
+  "title": null,
+  "markdown": "| Error                                           | Problem                                                     | Solution                                                          |\n|-------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------------|\n| E81: Firmware updated Event log only            | UI or IO Firmware has been updated                          | Solution not required                                             |\n| E82: menu updated Event log only                | Menu file has been updated                                  | Solution not required                                             |\n| E86: Soft Power On Event log only               | Touch screen on switch used.                                | Solution not required if events correspond with normal operation. |\n| E87: Completed Cleaning Sequence Event log only | Cleaning sequence completed.                                | Solution not required if events correspond with normal operation. |\n| E100: Main Power On Event log only              | IO board supplied with 12V once mains power is switched on. | Solution not required if events correspond with normal operation. |",
+  "block_id": "#/tables/47",
+  "reading_order": 785,
+  "bbox": {
+    "l": 35.282602348529245,
+    "t": 524.7665942137352,
+    "r": 558.4523432510866,
+    "b": 238.4103821202459
+  }
+}

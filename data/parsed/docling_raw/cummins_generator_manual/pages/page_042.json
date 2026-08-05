@@ -1,0 +1,38 @@
+{
+  "page": 42,
+  "document_id": "doc_c203a4f3",
+  "page_bbox": {
+    "width": 612.3599853515625,
+    "height": 792.4320068359375
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0027",
+      "reading_order": 507,
+      "section": "[D] DYNAMIC ROTOR/STATOR TEST",
+      "bbox": {
+        "l": 46.11264499309975,
+        "t": 740.5391231041467,
+        "r": 564.5054372947883,
+        "b": 373.2908772491906
+      },
+      "image_path": "figures/figure_0027.png",
+      "previous_block_id": "txt_0479",
+      "next_block_id": "txt_0480"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0480",
+      "reading_order": 508,
+      "section": "[D] DYNAMIC ROTOR/STATOR TEST",
+      "bbox": {
+        "l": 198.0284,
+        "t": 359.9800068359375,
+        "r": 414.22040000000084,
+        "b": 350.9639569398876
+      },
+      "content": "FIGURE 7-6. DYNAMIC ROTOR/STATOR TEST"
+    }
+  ]
+}

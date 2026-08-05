@@ -1,0 +1,486 @@
+{
+  "page": 93,
+  "document_id": "doc_27a62e0f",
+  "page_bbox": {
+    "width": 594.9600219726562,
+    "height": 842.52001953125
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_1289",
+      "reading_order": 1636,
+      "section": "Requirements",
+      "bbox": {
+        "l": 36.0,
+        "t": 794.20801953125,
+        "r": 117.84,
+        "b": 783.4244393785782
+      },
+      "content": "Requirements",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1290",
+      "reading_order": 1637,
+      "section": "Requirements",
+      "bbox": {
+        "l": 36.0,
+        "t": 775.6260195312501,
+        "r": 265.743,
+        "b": 767.5383344167462
+      },
+      "content": "Check that the following requirements have been met:"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1291",
+      "reading_order": 1638,
+      "section": "Requirements",
+      "bbox": {
+        "l": 54.00000000000003,
+        "t": 760.50601953125,
+        "r": 548.811,
+        "b": 739.3413344167462
+      },
+      "content": " The appliance has been disconnected from the power supply and protective measures have been taken to ensure the power cannot be switched on again."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1292",
+      "reading_order": 1639,
+      "section": "Requirements",
+      "bbox": {
+        "l": 53.99099999999993,
+        "t": 735.07201953125,
+        "r": 163.60199999999992,
+        "b": 726.6243344167463
+      },
+      "content": " The appliance is cool."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1293",
+      "reading_order": 1640,
+      "section": "Requirements",
+      "bbox": {
+        "l": 53.981999999999914,
+        "t": 722.2290195312501,
+        "r": 239.30999999999995,
+        "b": 713.7813344167463
+      },
+      "content": " The casing of the appliance is removed."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1294",
+      "reading_order": 1641,
+      "section": "Requirements",
+      "bbox": {
+        "l": 53.972999999999956,
+        "t": 709.3860195312501,
+        "r": 363.97799999999995,
+        "b": 700.9383344167463
+      },
+      "content": " The high voltage capacitors are discharged before commencing work."
+    },
+    {
+      "type": "heading",
+      "id": "txt_1295",
+      "reading_order": 1642,
+      "section": "Removing a transformer (high voltage)",
+      "bbox": {
+        "l": 36.0,
+        "t": 676.96801953125,
+        "r": 252.95999999999998,
+        "b": 666.1844393785782
+      },
+      "content": "Removing a transformer (high voltage)",
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "id": "fig_0294",
+      "reading_order": 1643,
+      "section": "Removing a transformer (high voltage)",
+      "bbox": {
+        "l": 35.022453660871285,
+        "t": 663.0005107209759,
+        "r": 230.12331567074665,
+        "b": 547.8894990631518
+      },
+      "image_path": "figures/figure_0294.png",
+      "previous_block_id": "txt_1295",
+      "next_block_id": "txt_1296"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0295",
+      "reading_order": 1644,
+      "section": "Removing a transformer (high voltage)",
+      "bbox": {
+        "l": 243.1012491672887,
+        "t": 663.3980656075307,
+        "r": 357.36487255243884,
+        "b": 548.5994827717118
+      },
+      "image_path": "figures/figure_0295.png",
+      "previous_block_id": "txt_1295",
+      "next_block_id": "txt_1296"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1296",
+      "reading_order": 1645,
+      "section": "Removing a transformer (high voltage)",
+      "bbox": {
+        "l": 54.0,
+        "t": 541.98591953125,
+        "r": 319.37399999999997,
+        "b": 533.8982344167462
+      },
+      "content": "Unplug all the electrical connections on the transformer(s)."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1297",
+      "reading_order": 1646,
+      "section": "Removing a transformer (high voltage)",
+      "bbox": {
+        "l": 53.990999999999985,
+        "t": 529.26891953125,
+        "r": 499.491,
+        "b": 508.33823441674616
+      },
+      "content": "Disconnect the transformer(s) from the magnetron(s) by unplugging the orange filament cables at the magnetron(s)."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1298",
+      "reading_order": 1647,
+      "section": "Removing a transformer (high voltage)",
+      "bbox": {
+        "l": 53.991,
+        "t": 503.34891953125,
+        "r": 320.70599999999996,
+        "b": 495.26123441674616
+      },
+      "content": "Unfasten the four M5 flange nuts to remove a transformer."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1299",
+      "reading_order": 1648,
+      "section": "Removing a transformer (high voltage)",
+      "bbox": {
+        "l": 54.00899999999996,
+        "t": 490.74891953124995,
+        "r": 553.149,
+        "b": 469.8182344167461
+      },
+      "content": "On the X12 high power variants, the rear HV transformer should be removed first to gain access for removal of the front HV transformer."
+    },
+    {
+      "type": "heading",
+      "id": "txt_1300",
+      "reading_order": 1649,
+      "section": "Fitting a transformer (high voltage)",
+      "bbox": {
+        "l": 36.0,
+        "t": 445.96801953125,
+        "r": 232.2,
+        "b": 435.18443937857825
+      },
+      "content": "Fitting a transformer (high voltage)",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1301",
+      "reading_order": 1650,
+      "section": "Fitting a transformer (high voltage)",
+      "bbox": {
+        "l": 36.0,
+        "t": 427.38601953125,
+        "r": 347.06699999999995,
+        "b": 419.2983344167462
+      },
+      "content": "Follow the steps in the reverse order to fit the high voltage transformer(s)."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1302",
+      "reading_order": 1651,
+      "section": "Fitting a transformer (high voltage)",
+      "bbox": {
+        "l": 44.00999999999999,
+        "t": 412.38301953125,
+        "r": 274.71869999999984,
+        "b": 403.9353344167462
+      },
+      "content": " The fixing nuts should be torqued down to 3.5Nm."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1303",
+      "reading_order": 1652,
+      "section": "Fitting a transformer (high voltage)",
+      "bbox": {
+        "l": 44.01899999999995,
+        "t": 399.54001953125,
+        "r": 541.3589999999999,
+        "b": 378.49233441674613
+      },
+      "content": " On the X12 high power variants, the HV transformer connections on the front HV transformer are on the left-hand side. The connections of the rear HV transformer are on the right-hand side (looking from the front)."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1304",
+      "reading_order": 1653,
+      "section": "Fitting a transformer (high voltage)",
+      "bbox": {
+        "l": 44.00999999999999,
+        "t": 374.09701953124994,
+        "r": 383.54400000000004,
+        "b": 365.6493344167461
+      },
+      "content": " Ensure the wiring is fixed back in the original orientation with new cable ties."
+    },
+    {
+      "type": "heading",
+      "id": "txt_1305",
+      "reading_order": 1654,
+      "section": "NOTICE:",
+      "bbox": {
+        "l": 36.0,
+        "t": 342.90601953125,
+        "r": 74.34,
+        "b": 334.7187304760583
+      },
+      "content": "NOTICE:",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1306",
+      "reading_order": 1655,
+      "section": "NOTICE:",
+      "bbox": {
+        "l": 36.0,
+        "t": 327.54301953125,
+        "r": 532.143,
+        "b": 306.6123344167462
+      },
+      "content": "It is imperative that the electrical connections are replaced correctly. If the electric connections have not been  restored properly this may lead to malfunction/damage of the oven."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0296",
+      "reading_order": 1656,
+      "section": "NOTICE:",
+      "bbox": {
+        "l": 53.5417857410938,
+        "t": 236.81009750727515,
+        "r": 62.861731391636845,
+        "b": 227.64008969245288
+      },
+      "image_path": "figures/figure_0296.png",
+      "previous_block_id": "txt_1306",
+      "next_block_id": "txt_1307"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0297",
+      "reading_order": 1657,
+      "section": "NOTICE:",
+      "bbox": {
+        "l": 53.50711247280139,
+        "t": 221.3556450144747,
+        "r": 64.2975975863612,
+        "b": 212.11871975586087
+      },
+      "image_path": "figures/figure_0297.png",
+      "previous_block_id": "txt_1306",
+      "next_block_id": "txt_1307"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0298",
+      "reading_order": 1658,
+      "section": "NOTICE:",
+      "bbox": {
+        "l": 53.911836101583546,
+        "t": 205.25141621240516,
+        "r": 63.87394670155408,
+        "b": 196.62443399888912
+      },
+      "image_path": "figures/figure_0298.png",
+      "previous_block_id": "txt_1306",
+      "next_block_id": "txt_1307"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0299",
+      "reading_order": 1659,
+      "section": "NOTICE:",
+      "bbox": {
+        "l": 53.38441335056134,
+        "t": 188.9567441473299,
+        "r": 63.96413534352392,
+        "b": 181.05993677627998
+      },
+      "image_path": "figures/figure_0299.png",
+      "previous_block_id": "txt_1306",
+      "next_block_id": "txt_1307"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0300",
+      "reading_order": 1660,
+      "section": "NOTICE:",
+      "bbox": {
+        "l": 53.34024212428783,
+        "t": 173.5966592803686,
+        "r": 63.970978450599446,
+        "b": 164.8110150146174
+      },
+      "image_path": "figures/figure_0300.png",
+      "previous_block_id": "txt_1306",
+      "next_block_id": "txt_1307"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0301",
+      "reading_order": 1661,
+      "section": "NOTICE:",
+      "bbox": {
+        "l": 53.54335347632682,
+        "t": 157.41776598312958,
+        "r": 64.33844262012084,
+        "b": 148.323215668736
+      },
+      "image_path": "figures/figure_0301.png",
+      "previous_block_id": "txt_1306",
+      "next_block_id": "txt_1307"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0302",
+      "reading_order": 1662,
+      "section": "NOTICE:",
+      "bbox": {
+        "l": 66.84400393553236,
+        "t": 236.20497349413688,
+        "r": 75.35917120424155,
+        "b": 228.11522184349462
+      },
+      "image_path": "figures/figure_0302.png",
+      "previous_block_id": "txt_1306",
+      "next_block_id": "txt_1307"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0303",
+      "reading_order": 1663,
+      "section": "NOTICE:",
+      "bbox": {
+        "l": 66.90245642874609,
+        "t": 220.97951652001802,
+        "r": 75.62564804944593,
+        "b": 212.7009686172928
+      },
+      "image_path": "figures/figure_0303.png",
+      "previous_block_id": "txt_1306",
+      "next_block_id": "txt_1307"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0304",
+      "reading_order": 1664,
+      "section": "NOTICE:",
+      "bbox": {
+        "l": 67.08185721580097,
+        "t": 204.85802460346076,
+        "r": 75.0661000766901,
+        "b": 196.65542220440057
+      },
+      "image_path": "figures/figure_0304.png",
+      "previous_block_id": "txt_1306",
+      "next_block_id": "txt_1307"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0305",
+      "reading_order": 1665,
+      "section": "NOTICE:",
+      "bbox": {
+        "l": 66.38782731269119,
+        "t": 189.25595113164877,
+        "r": 75.64022684278076,
+        "b": 180.7947680177001
+      },
+      "image_path": "figures/figure_0305.png",
+      "previous_block_id": "txt_1306",
+      "next_block_id": "txt_1307"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0306",
+      "reading_order": 1666,
+      "section": "NOTICE:",
+      "bbox": {
+        "l": 66.58275287443803,
+        "t": 172.92077479795205,
+        "r": 75.16368110523317,
+        "b": 164.55334930579716
+      },
+      "image_path": "figures/figure_0306.png",
+      "previous_block_id": "txt_1306",
+      "next_block_id": "txt_1307"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0307",
+      "reading_order": 1667,
+      "section": "NOTICE:",
+      "bbox": {
+        "l": 66.69681991679407,
+        "t": 156.90572858733503,
+        "r": 75.66521905992619,
+        "b": 148.91400458680494
+      },
+      "image_path": "figures/figure_0307.png",
+      "previous_block_id": "txt_1306",
+      "next_block_id": "txt_1307"
+    },
+    {
+      "type": "table",
+      "id": "tbl_0056",
+      "reading_order": 1668,
+      "section": "NOTICE:",
+      "bbox": {
+        "l": 35.171644075552564,
+        "t": 288.10631370003534,
+        "r": 558.6168219451206,
+        "b": 143.1556273976679
+      },
+      "markdown": "| Wire   | X12 wiring connections   | X12 wiring connections   | X12 wiring connections   | X12 wiring connections   | X16 wiring connections   | X16 wiring connections   | X16 wiring connections   | X16 wiring connections   |\n|--------|--------------------------|--------------------------|--------------------------|--------------------------|--------------------------|--------------------------|--------------------------|--------------------------|\n| Wire   | Rear HV Transformer      | Rear HV Transformer      | Front HV Transformer*    | Front HV Transformer*    | RH HV Transformer        | RH HV Transformer        | LH HV Transformer        | LH HV Transformer        |\n| Wire   | 50Hz                     | 60Hz                     | 50Hz                     | 60Hz                     | 50Hz                     | 60Hz                     | 50Hz                     | 60HZ                     |\n| 31    | 0V                       | 0V                       |                          |                          | 0V                       | 0V                       |                          |                          |\n| 35    | 200V                     | 208V                     |                          |                          | 200V                     | 208V                     |                          |                          |\n| 36    | 230V                     | 240V                     |                          |                          | 230V                     | 240V                     |                          |                          |\n| 44    |                          |                          | 0V                       | 0V                       |                          |                          | 0V                       | 0V                       |\n| 49    |                          |                          | 200V                     | 208V                     |                          |                          | 200V                     | 208V                     |\n| 50    |                          |                          | 230V                     | 240V                     |                          |                          | 230V                     | 240V                     |"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0308",
+      "reading_order": 1669,
+      "section": "NOTICE:",
+      "bbox": {
+        "l": 368.7436550802418,
+        "t": 662.8343303688798,
+        "r": 521.5599247569046,
+        "b": 548.2855441896941
+      },
+      "image_path": "figures/figure_0308.png",
+      "previous_block_id": "txt_1306",
+      "next_block_id": "txt_1307"
+    }
+  ]
+}

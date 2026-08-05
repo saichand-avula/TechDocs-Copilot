@@ -1,0 +1,145 @@
+{
+  "page": 26,
+  "document_id": "doc_229deb31",
+  "page_bbox": {
+    "width": 595.219970703125,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0239",
+      "reading_order": 320,
+      "section": "5.2.6.4 Outdoor Temperature Limit",
+      "bbox": {
+        "l": 56.962,
+        "t": 769.0491856,
+        "r": 251.83962405999984,
+        "b": 757.968114
+      },
+      "content": "5.2.6.4 Outdoor Temperature Limit",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0240",
+      "reading_order": 321,
+      "section": "5.2.6.4 Outdoor Temperature Limit",
+      "bbox": {
+        "l": 101.777,
+        "t": 753.1862514,
+        "r": 550.7590756399985,
+        "b": 728.1657826000001
+      },
+      "content": "Cooling:  When  outdoor  temperature  is  lower  than  23 ,  cooling  operation  will  start,  compressor ć frequency is limited to less than 50 HZ, outdoor wind speed is forced at level 1."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0241",
+      "reading_order": 322,
+      "section": "5.2.6.4 Outdoor Temperature Limit",
+      "bbox": {
+        "l": 101.77700000000002,
+        "t": 722.0705406,
+        "r": 550.8689469400011,
+        "b": 697.0500718000001
+      },
+      "content": "Heating:  When  outdoor  temperature  is  higher  than  18 ,  heating  operation  will  start,  compressor ć frequency is limited to less than 53 HZ, outdoor wind speed is forced at level 1."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0242",
+      "reading_order": 323,
+      "section": "5.2.6.5 Special Features",
+      "bbox": {
+        "l": 56.962,
+        "t": 644.5966856,
+        "r": 195.3445149599999,
+        "b": 633.515614
+      },
+      "content": "5.2.6.5 Special Features",
+      "level": 2
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0243",
+      "reading_order": 324,
+      "section": "5.2.6.5 Special Features",
+      "bbox": {
+        "l": 101.777,
+        "t": 628.5249152,
+        "r": 550.8080183100012,
+        "b": 588.15542798
+      },
+      "content": "Forced  Cooling:  When  receiving  indoor  forced  cooling  signal,  cooling  operation  will  start  in  a frequency signaled by indoor unit. Only air discharge temperature and over current protection features are effective and other protection features are invalid."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0244",
+      "reading_order": 325,
+      "section": "5.2.6.5 Special Features",
+      "bbox": {
+        "l": 101.777,
+        "t": 581.85034978,
+        "r": 550.7900393700002,
+        "b": 541.48186178
+      },
+      "content": "Rated,  Middle  and  Minimum  Capacity  Operation:  When  receiving  indoor,  rated,  middle  and minimum capacity operation signal, outdoor unit will operate as per wind speed and frequency set by EEPROM and all the protection features are effective."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0245",
+      "reading_order": 326,
+      "section": "5.2.6.6 Fault Display and Treatment",
+      "bbox": {
+        "l": 56.962,
+        "t": 504.5864856,
+        "r": 260.63984675000006,
+        "b": 493.505414
+      },
+      "content": "5.2.6.6 Fault Display and Treatment",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0246",
+      "reading_order": 327,
+      "section": "5.2.6.6 Fault Display and Treatment",
+      "bbox": {
+        "l": 101.777,
+        "t": 488.6635514,
+        "r": 550.8030241599995,
+        "b": 463.7030358
+      },
+      "content": "In case outdoor unit faults, the alarm indicator lamp will blink and blink frequency is 1HZ ˈ Time interval between blink cycles is 3s."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0247",
+      "reading_order": 328,
+      "section": "5.2.6.6 Fault Display and Treatment",
+      "bbox": {
+        "l": 101.78698829999996,
+        "t": 458.71792722000004,
+        "r": 319.09444076000005,
+        "b": 449.46515002
+      },
+      "content": "Alarm indicator lamp is off when there is no fault."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0062",
+      "reading_order": 329,
+      "section": "5.2.6.6 Fault Display and Treatment",
+      "bbox": {
+        "l": 55.98212609373565,
+        "t": 62.8753662109375,
+        "r": 87.9157147976969,
+        "b": 52.389892578125
+      },
+      "image_path": "figures/figure_0062.png",
+      "previous_block_id": "txt_0247",
+      "next_block_id": "txt_0248"
+    }
+  ]
+}

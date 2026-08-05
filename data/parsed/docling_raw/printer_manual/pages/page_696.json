@@ -1,0 +1,186 @@
+{
+  "page": 696,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_5310",
+      "reading_order": 7349,
+      "section": "Post service test",
+      "bbox": {
+        "l": 113.0,
+        "t": 732.29,
+        "r": 333.5199999999998,
+        "b": 720.7
+      },
+      "content": "Unpack the replacement part from the packaging."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_5311",
+      "reading_order": 7350,
+      "section": "Post service test",
+      "bbox": {
+        "l": 91.0,
+        "t": 452.78688,
+        "r": 262.17999999999995,
+        "b": 441.19687999999996
+      },
+      "content": "Install the internal USB ports module."
+    },
+    {
+      "type": "figure",
+      "id": "fig_1990",
+      "reading_order": 7351,
+      "section": "Post service test",
+      "bbox": {
+        "l": 133.59914043053453,
+        "t": 698.8104553222656,
+        "r": 439.15331215402034,
+        "b": 463.6328125
+      },
+      "image_path": "figures/figure_1990.png",
+      "caption": "Unpack and recycle",
+      "figure_number": "Figure 1-1156",
+      "image_hash": "a78c7da035ea1c5f9633e745cc641acd646ba66ef6cc83f28a77d78d19ad8b91",
+      "width": 305,
+      "height": 235,
+      "previous_block_id": "txt_5311",
+      "next_block_id": "txt_5312",
+      "caption_id": "txt_5312"
+    },
+    {
+      "type": "caption",
+      "id": "txt_5312",
+      "reading_order": 7352,
+      "section": "Post service test",
+      "bbox": {
+        "l": 135.00002,
+        "t": 711.29,
+        "r": 274.57001999999994,
+        "b": 699.7
+      },
+      "content": "Figure 1-1156  Unpack and recycle",
+      "caption_for": "fig_1990"
+    },
+    {
+      "type": "figure",
+      "id": "fig_1991",
+      "reading_order": 7353,
+      "section": "Post service test",
+      "bbox": {
+        "l": 97.03947734665127,
+        "t": 431.736328125,
+        "r": 110.69136819756598,
+        "b": 418.1786804199219
+      },
+      "image_path": "figures/figure_1991.png",
+      "caption": "Unpack and recycle",
+      "decorative": true,
+      "width": 13,
+      "height": 13,
+      "figure_number": "Figure 1-1156",
+      "image_hash": "804e525980f3f9ca5c22daf3684472b1c979e85c9fb3b4be9963f6f0882161d2",
+      "previous_block_id": "txt_5312",
+      "next_block_id": "txt_5313"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_5313",
+      "reading_order": 7354,
+      "severity": "caution",
+      "content": "CAUTION: ESD-sensitive part.",
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 113.0,
+        "t": 423.90188,
+        "r": 150.75,
+        "b": 412.31188000000003
+      }
+    },
+    {
+      "type": "figure",
+      "id": "fig_1992",
+      "reading_order": 7356,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 159.85847667795804,
+        "t": 428.2684020996094,
+        "r": 179.4207092821332,
+        "b": 407.0293273925781
+      },
+      "image_path": "figures/figure_1992.png",
+      "decorative": true,
+      "width": 19,
+      "height": 21,
+      "image_hash": "8ec7b75ec856db63e8d065a7d83feb7681c17844c10b611888075b96f3be9f14",
+      "previous_block_id": "txt_5314",
+      "next_block_id": "txt_5315"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_5315",
+      "reading_order": 7357,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 113.0,
+        "t": 394.78688,
+        "r": 533.6200000000002,
+        "b": 371.19687999999996
+      },
+      "content": "Position the notches on the internal USB ports PCA over the clips on the PCA holder and press down to attach the PCA to the holder. Make sure that the clips snap into place."
+    },
+    {
+      "type": "figure",
+      "id": "fig_1993",
+      "reading_order": 7358,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 133.71910958905087,
+        "t": 351.74139404296875,
+        "r": 382.64506269993905,
+        "b": 173.08941650390625
+      },
+      "image_path": "figures/figure_1993.png",
+      "caption": "Install the PCA in the holder",
+      "figure_number": "Figure 1-1157",
+      "image_hash": "3eb2a23cc9763cc14a4f64a38a16d780d819cb6d2a89da1c86c8519796206daf",
+      "width": 249,
+      "height": 179,
+      "previous_block_id": "txt_5315",
+      "next_block_id": "txt_5316",
+      "caption_id": "txt_5316"
+    },
+    {
+      "type": "caption",
+      "id": "txt_5316",
+      "reading_order": 7359,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 135.0001,
+        "t": 361.78688,
+        "r": 307.0600999999999,
+        "b": 350.19687999999996
+      },
+      "content": "Figure 1-1157  Install the PCA in the holder",
+      "caption_for": "fig_1993"
+    }
+  ],
+  "page_stats": {
+    "block_count": 10,
+    "text_blocks": 6,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 3,
+    "captions": 2,
+    "admonitions": 1,
+    "references": 0,
+    "figures": 4,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

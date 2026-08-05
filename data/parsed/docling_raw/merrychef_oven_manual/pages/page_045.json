@@ -1,0 +1,78 @@
+{
+  "page": 45,
+  "document_id": "doc_27a62e0f",
+  "page_bbox": {
+    "width": 594.9600219726562,
+    "height": 842.52001953125
+  },
+  "blocks": [
+    {
+      "type": "paragraph",
+      "id": "txt_0540",
+      "reading_order": 688,
+      "section": "Event log",
+      "bbox": {
+        "l": 36.0,
+        "t": 788.94601953125,
+        "r": 448.8660000000001,
+        "b": 780.8583344167462
+      },
+      "content": "Further details can be read by copying the event log to a USB and opening the files on a computer."
+    },
+    {
+      "type": "table",
+      "id": "tbl_0041",
+      "reading_order": 689,
+      "section": "Event log",
+      "bbox": {
+        "l": 35.31982366338044,
+        "t": 770.2216919290205,
+        "r": 563.0539017275539,
+        "b": 426.4403776214464
+      },
+      "markdown": ""
+    },
+    {
+      "type": "heading",
+      "id": "txt_0541",
+      "reading_order": 690,
+      "section": "Display colour codes",
+      "bbox": {
+        "l": 39.12,
+        "t": 395.80801953125,
+        "r": 157.08,
+        "b": 385.0244393785783
+      },
+      "content": "Display colour codes",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0542",
+      "reading_order": 691,
+      "section": "Display colour codes",
+      "bbox": {
+        "l": 36.0,
+        "t": 368.34601953125,
+        "r": 199.287,
+        "b": 311.30733441674613
+      },
+      "content": "Grey = Normal operation / standby Green = On / OK Blue = Off / OK / Selected Yellow = Warning, out of normal range Red = Warning, switched off"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0110",
+      "reading_order": 692,
+      "section": "Display colour codes",
+      "bbox": {
+        "l": 220.69807619204698,
+        "t": 370.1294401714209,
+        "r": 416.037138596318,
+        "b": 309.78305145857735
+      },
+      "image_path": "figures/figure_0110.png",
+      "previous_block_id": "txt_0542",
+      "next_block_id": "txt_0543"
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "page": 274,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_2285",
+      "reading_order": 3071,
+      "section": "NOTE: Stapler models only.",
+      "bbox": {
+        "l": 113.0,
+        "t": 732.29,
+        "r": 414.4899800000001,
+        "b": 720.7
+      },
+      "content": "Use a long-shaft small flat-blade screwdriver to release the lower tab."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2286",
+      "reading_order": 3072,
+      "section": "NOTE: Stapler models only.",
+      "bbox": {
+        "l": 113.0,
+        "t": 470.42,
+        "r": 415.7399800000001,
+        "b": 458.83
+      },
+      "content": "Use a long-shaft small flat-blade screwdriver to release the upper tab."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0758",
+      "reading_order": 3073,
+      "section": "NOTE: Stapler models only.",
+      "bbox": {
+        "l": 133.62862179125307,
+        "t": 698.2150039672852,
+        "r": 423.5853540047346,
+        "b": 481.86993408203125
+      },
+      "image_path": "figures/figure_0758.png",
+      "caption": "Release one tab",
+      "figure_number": "Figure 1-414",
+      "image_hash": "2eadf566b50902bcc4b35be08a2bc53abc5c9566562b0bc1cef26edabbb0e2b3",
+      "width": 290,
+      "height": 216,
+      "previous_block_id": "txt_2286",
+      "next_block_id": "txt_2287",
+      "caption_id": "txt_2287"
+    },
+    {
+      "type": "caption",
+      "id": "txt_2287",
+      "reading_order": 3074,
+      "section": "NOTE: Stapler models only.",
+      "bbox": {
+        "l": 135.0,
+        "t": 711.29,
+        "r": 255.95998999999992,
+        "b": 699.7
+      },
+      "content": "Figure 1-414  Release one tab",
+      "caption_for": "fig_0758"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0759",
+      "reading_order": 3075,
+      "section": "NOTE: Stapler models only.",
+      "bbox": {
+        "l": 133.82131062276787,
+        "t": 437.5413818359375,
+        "r": 423.781977751441,
+        "b": 219.6669921875
+      },
+      "image_path": "figures/figure_0759.png",
+      "caption": "Release one tab",
+      "figure_number": "Figure 1-415",
+      "image_hash": "cdcf5396020d5682ff6a442dcc85b99a6e073033a3f55d271c1ddecdc8db8049",
+      "width": 290,
+      "height": 218,
+      "previous_block_id": "txt_2287",
+      "next_block_id": "txt_2288",
+      "caption_id": "txt_2288"
+    },
+    {
+      "type": "caption",
+      "id": "txt_2288",
+      "reading_order": 3076,
+      "section": "NOTE: Stapler models only.",
+      "bbox": {
+        "l": 135.00002,
+        "t": 449.42,
+        "r": 255.9600199999999,
+        "b": 437.83
+      },
+      "content": "Figure 1-415  Release one tab",
+      "caption_for": "fig_0759"
+    }
+  ],
+  "page_stats": {
+    "block_count": 6,
+    "text_blocks": 4,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 2,
+    "captions": 2,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 2,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "page": 46,
+  "document_id": "doc_27a62e0f",
+  "page_bbox": {
+    "width": 594.9600219726562,
+    "height": 842.52001953125
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0543",
+      "reading_order": 693,
+      "section": "Operational statistics",
+      "bbox": {
+        "l": 39.12,
+        "t": 787.84801953125,
+        "r": 160.2,
+        "b": 777.0644393785782
+      },
+      "content": "Operational statistics",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0544",
+      "reading_order": 694,
+      "section": "Operational statistics",
+      "bbox": {
+        "l": 36.0,
+        "t": 760.3860195312501,
+        "r": 462.573,
+        "b": 752.2983344167462
+      },
+      "content": "Additional detail from the oven statistics may provide further information for in-depth fault diagnosis."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0111",
+      "reading_order": 695,
+      "section": "Operational statistics",
+      "bbox": {
+        "l": 69.82440211894304,
+        "t": 746.2094774317673,
+        "r": 492.02626472448605,
+        "b": 428.9215995767292
+      },
+      "image_path": "figures/figure_0111.png",
+      "previous_block_id": "txt_0544",
+      "next_block_id": "txt_0545",
+      "image_hash": "57aacb5eb718ae5e3d7c86ca0b6b12593e63c57537cfa4590a0a80563b77260b",
+      "width": 422,
+      "height": 318
+    },
+    {
+      "type": "heading",
+      "id": "txt_0545",
+      "reading_order": 696,
+      "section": "Details include;",
+      "bbox": {
+        "l": 36.0,
+        "t": 432.4290195312498,
+        "r": 102.069,
+        "b": 424.341334416746
+      },
+      "content": "Details include;",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0546",
+      "reading_order": 697,
+      "section": "Details include;",
+      "bbox": {
+        "l": 54.009,
+        "t": 420.5490195312498,
+        "r": 315.054,
+        "b": 412.101334416746
+      },
+      "content": " Left-hand magnetron operating hours (high power ovens)"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0547",
+      "reading_order": 698,
+      "section": "Details include;",
+      "bbox": {
+        "l": 53.990999999999985,
+        "t": 408.5520195312498,
+        "r": 238.85999999999996,
+        "b": 400.104334416746
+      },
+      "content": " Right-hand magnetron operating hours"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0548",
+      "reading_order": 699,
+      "section": "Details include;",
+      "bbox": {
+        "l": 53.99999999999994,
+        "t": 395.9520195312498,
+        "r": 183.17699999999996,
+        "b": 387.50433441674596
+      },
+      "content": " Number of door openings"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0549",
+      "reading_order": 700,
+      "section": "Details include;",
+      "bbox": {
+        "l": 53.99999999999996,
+        "t": 383.7120195312498,
+        "r": 232.1279999999999,
+        "b": 375.26433441674595
+      },
+      "content": " Number of times the filter is removed"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0550",
+      "reading_order": 701,
+      "section": "Details include;",
+      "bbox": {
+        "l": 53.99099999999987,
+        "t": 371.71501953124977,
+        "r": 222.76799999999986,
+        "b": 363.26733441674594
+      },
+      "content": " Heating element(s) operating hours"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0551",
+      "reading_order": 702,
+      "section": "Details include;",
+      "bbox": {
+        "l": 53.99099999999987,
+        "t": 359.11501953124974,
+        "r": 175.85099999999986,
+        "b": 350.6673344167459
+      },
+      "content": " Total oven time in hours"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0552",
+      "reading_order": 703,
+      "section": "Details include;",
+      "bbox": {
+        "l": 53.99099999999986,
+        "t": 346.87501953124973,
+        "r": 231.05699999999987,
+        "b": 338.4273344167459
+      },
+      "content": " Number of completed cleaning cycles"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0553",
+      "reading_order": 704,
+      "section": "Details include;",
+      "bbox": {
+        "l": 53.99999999999986,
+        "t": 334.6350195312497,
+        "r": 282.05999999999983,
+        "b": 326.1873344167459
+      },
+      "content": " Ambient temperature around the control circuitry"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0554",
+      "reading_order": 705,
+      "section": "Details include;",
+      "bbox": {
+        "l": 53.999999999999886,
+        "t": 322.3950195312498,
+        "r": 240.1829999999999,
+        "b": 313.9473344167459
+      },
+      "content": " Number of individual recipe cook cycles"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0555",
+      "reading_order": 706,
+      "section": "Details include;",
+      "bbox": {
+        "l": 53.999999999999915,
+        "t": 310.15501953124976,
+        "r": 332.9459999999999,
+        "b": 301.7073344167459
+      },
+      "content": " Percentage of ambient, chilled & frozen food products cooked"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0556",
+      "reading_order": 707,
+      "section": "Details include;",
+      "bbox": {
+        "l": 54.00899999999996,
+        "t": 298.1580195312497,
+        "r": 321.6689999999999,
+        "b": 289.7103344167458
+      },
+      "content": " Time breakdown of oven operation by day, week or month."
+    }
+  ],
+  "page_stats": {
+    "block_count": 15,
+    "text_blocks": 14,
+    "paragraphs": 1,
+    "headings": 2,
+    "list_items": 11,
+    "captions": 0,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 1,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

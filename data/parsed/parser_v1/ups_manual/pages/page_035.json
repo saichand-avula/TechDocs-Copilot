@@ -1,0 +1,169 @@
+{
+  "page": 35,
+  "document_id": "doc_1032c87b",
+  "page_bbox": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0266",
+      "reading_order": 324,
+      "section": "3.5 External Protective Devices",
+      "bbox": {
+        "l": 80.784,
+        "t": 716.9588629101563,
+        "r": 329.94687999999996,
+        "b": 702.6438892084989
+      },
+      "content": "3.5 External Protective Devices",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0267",
+      "reading_order": 325,
+      "section": "3.5 External Protective Devices",
+      "bbox": {
+        "l": 77.904,
+        "t": 677.6276629101563,
+        "r": 541.5246400000001,
+        "b": 636.956101363195
+      },
+      "content": "Breaker or other protective devices must be installed at the external power input location of UPS system.  This  chapter  only  provides  general  direction  for  installation  engineer  who  should  know related stipulations on local wiring of equipment to be installed."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0268",
+      "reading_order": 326,
+      "section": "3.5 External Protective Devices",
+      "bbox": {
+        "l": 77.904,
+        "t": 630.8276629101563,
+        "r": 541.6043199999999,
+        "b": 558.926101363195
+      },
+      "content": "Before connecting the rectifier and bypass input with main power, proper over-current protective device  must  be  installed  between  main  power  and  UPS.  According  to  EN50091-1  and  in consideration of leakage current of UPS, leakage protective device with adjustable threshold can be used.  While  external  battery  should  be  equipped  with  DC  compatible  breaker  to  provide over-current protection for UPS and its battery."
+    },
+    {
+      "type": "admonition",
+      "id": "txt_0269",
+      "reading_order": 327,
+      "section": "3.5 External Protective Devices",
+      "bbox": {
+        "l": 77.904,
+        "t": 538.6376629101563,
+        "r": 541.5351999999996,
+        "b": 510.566101363195
+      },
+      "content": "Note: If leakage protective device is used to supply power for UPS, it may be started wrongly due to the greatly high leakage current caused by FRI filtering.",
+      "severity": "note"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0270",
+      "reading_order": 328,
+      "section": "3.6 Power Cables",
+      "bbox": {
+        "l": 80.784,
+        "t": 484.1288629101563,
+        "r": 224.92688,
+        "b": 469.81388920849884
+      },
+      "content": "3.6 Power Cables",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0271",
+      "reading_order": 329,
+      "section": "3.6 Power Cables",
+      "bbox": {
+        "l": 77.904,
+        "t": 444.7976629101563,
+        "r": 541.5620799999999,
+        "b": 357.30610136319495
+      },
+      "content": "In the design of external wiring cable, the requirements on current capacity of power cable and the overload  capacity  of  the  system,  as  well  as  ambient  temperature  and  physical  support  media, should  be  considered.  Installation  engineer  should  make  selection  according  to  related  local standards and actual situation of users. Length of connecting cable should be 2 ~ 50 m generally. If the cable is too long, low voltage will be caused and corresponding cable section area should be increased."
+    },
+    {
+      "type": "table",
+      "id": "tbl_0009",
+      "reading_order": 330,
+      "section": "3.6 Power Cables",
+      "bbox": {
+        "l": 82.09148297074853,
+        "t": 340.15034992345596,
+        "r": 502.2290738243391,
+        "b": 291.61437446215234
+      },
+      "markdown": "Table 3-4: Wiring terminal and wiring method of UPS\n\n| Terminal      | Rectifier input   | Bypass input   | Output   | Battery (50 pcs)     |\n|---------------|-------------------|----------------|----------|----------------------|\n| Wiring method | 3Ф+PE             | 3Ф+N+PE        | 3Ф+N+PE  | Anode + cathode + PE |",
+      "caption_id": "txt_0273",
+      "title": "Table 3-4: Wiring terminal and wiring method of UPS",
+      "table_number": "Table 3-4",
+      "rows": 2,
+      "cols": 5
+    },
+    {
+      "type": "caption",
+      "id": "txt_0272",
+      "reading_order": 331,
+      "section": "3.6 Power Cables",
+      "bbox": {
+        "l": 183.53,
+        "t": 351.1776629101563,
+        "r": 430.47568,
+        "b": 341.706101363195
+      },
+      "content": "Table 3-4: Wiring terminal and wiring method of UPS",
+      "caption_for": "tbl_0009"
+    },
+    {
+      "type": "table",
+      "id": "tbl_0010",
+      "reading_order": 332,
+      "section": "3.6 Power Cables",
+      "bbox": {
+        "l": 76.72890494492673,
+        "t": 260.5234573100762,
+        "r": 507.40657006180027,
+        "b": 91.9376732655436
+      },
+      "markdown": "Table 3-5: Rated current of UPS\n\n|       | Rated Current (A)                            | Rated Current (A)                            | Rated Current (A)                            | Rated Current (A)                      | Rated Current (A)                      | Rated Current (A)                      | Rated Current (A)                                          |\n|-------|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------|----------------------------------------|----------------------------------------|------------------------------------------------------------|\n|       | Input current in full load and full charging | Input current in full load and full charging | Input current in full load and full charging | Output current of full load (PF = 0.9) | Output current of full load (PF = 0.9) | Output current of full load (PF = 0.9) | Discharging current for the lowest battery voltage (495 V) |\n| (kVA) | R                                            | S                                            | T                                            | U                                      | V                                      | W                                      | Discharging current for the lowest battery voltage (495 V) |\n| 80    | 128                                          | 128                                          | 128                                          | 121                                    | 121                                    | 121                                    | 155                                                        |\n| 100   | 160                                          | 160                                          | 160                                          | 152                                    | 152                                    | 152                                    | 194                                                        |\n| 120   | 191                                          | 191                                          | 191                                          | 182                                    | 182                                    | 182                                    | 232                                                        |\n| 160   | 255                                          | 255                                          | 255                                          | 243                                    | 243                                    | 243                                    | 310                                                        |",
+      "title": "Table 3-4: Wiring terminal and wiring method of UPS",
+      "table_number": "Table 3-4",
+      "rows": 7,
+      "cols": 7
+    },
+    {
+      "type": "caption",
+      "id": "txt_0273",
+      "reading_order": 333,
+      "section": "3.6 Power Cables",
+      "bbox": {
+        "l": 223.13,
+        "t": 271.73766291015636,
+        "r": 375.00568,
+        "b": 262.26610136319505
+      },
+      "content": "Table 3-5: Rated current of UPS",
+      "caption_for": "tbl_0009"
+    }
+  ],
+  "page_stats": {
+    "block_count": 10,
+    "text_blocks": 8,
+    "paragraphs": 3,
+    "headings": 2,
+    "list_items": 0,
+    "captions": 2,
+    "admonitions": 1,
+    "references": 0,
+    "figures": 0,
+    "tables": 2,
+    "toc_tables": 0
+  }
+}

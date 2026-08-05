@@ -1,0 +1,306 @@
+{
+  "page": 35,
+  "document_id": "doc_e02482e6",
+  "page_bbox": {
+    "width": 595.0,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0237",
+      "reading_order": 323,
+      "section": "3.3    Icons used",
+      "bbox": {
+        "l": 57.15,
+        "t": 773.0401,
+        "r": 179.39000000000007,
+        "b": 755.1841000000001
+      },
+      "content": "3.3    Icons used",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0238",
+      "reading_order": 324,
+      "section": "Status icons",
+      "bbox": {
+        "l": 57.15,
+        "t": 740.255,
+        "r": 122.3756,
+        "b": 727.9789999999999
+      },
+      "content": "Status icons",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "table",
+      "id": "tbl_0022",
+      "reading_order": 325,
+      "section": "Status icons",
+      "bbox": {
+        "l": 90.41798400878906,
+        "t": 723.5030364990234,
+        "r": 565.5051879882812,
+        "b": 122.29632568359375
+      },
+      "markdown": "| Name                                    | Icon   | Description                                                                                                  |\n|-----------------------------------------|--------|--------------------------------------------------------------------------------------------------------------|\n| Stopped / Running                       |        | When the compressor is stopped, the icon stands still. When the compressor is running, the icon is rotating. |\n| Compressor status                       |        | Motor stopped                                                                                                |\n|                                         |        | Running unloaded                                                                                             |\n|                                         |        | Running loaded                                                                                               |\n| Machine control mode                    |        | Local start / stop                                                                                           |\n|                                         |        | Remote start / stop                                                                                          |\n|                                         |        | Network control                                                                                              |\n| Automatic restart after voltage failure |        | Automatic restart after voltage failure is active                                                            |\n| Week timer                              |        | Week timer is active                                                                                         |\n| Active protection functions             |        | Emergency stop                                                                                               |\n|                                         |        | Shutdown                                                                                                     |\n|                                         |        | Warning                                                                                                      |\n| Service                                 |        | Service required                                                                                             |",
+      "rows": 14,
+      "cols": 3
+    },
+    {
+      "type": "figure",
+      "id": "fig_0067",
+      "reading_order": 326,
+      "section": "Status icons",
+      "bbox": {
+        "l": 254.78155517578125,
+        "t": 699.5321655273438,
+        "r": 299.4834289550781,
+        "b": 666.0533752441406
+      },
+      "image_path": "figures/figure_0067.png",
+      "previous_block_id": "txt_0238",
+      "width": 44,
+      "height": 33,
+      "image_hash": "7a3d701b37552718db3440c730456fa061074f45dcb44ece6d36ace25d36d9b9"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0068",
+      "reading_order": 327,
+      "section": "Status icons",
+      "bbox": {
+        "l": 263.1219482421875,
+        "t": 659.5301666259766,
+        "r": 299.3966064453125,
+        "b": 622.1836090087891
+      },
+      "image_path": "figures/figure_0068.png",
+      "previous_block_id": "txt_0238",
+      "width": 36,
+      "height": 37,
+      "image_hash": "44c10648a6bdec1c7711cec4694df3e90ff132c453181e84ddb42e562dce2403"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0069",
+      "reading_order": 328,
+      "section": "Status icons",
+      "bbox": {
+        "l": 261.7152404785156,
+        "t": 613.6070404052734,
+        "r": 300.49395751953125,
+        "b": 582.3061828613281
+      },
+      "image_path": "figures/figure_0069.png",
+      "previous_block_id": "txt_0238",
+      "width": 38,
+      "height": 31,
+      "image_hash": "80cbe042c76522e134378740b552e20670bdb9492f5b0bf1235f4550987736c0"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0070",
+      "reading_order": 329,
+      "section": "Status icons",
+      "bbox": {
+        "l": 259.9577331542969,
+        "t": 568.9086303710938,
+        "r": 288.8521423339844,
+        "b": 536.6070556640625
+      },
+      "image_path": "figures/figure_0070.png",
+      "previous_block_id": "txt_0238",
+      "width": 28,
+      "height": 32,
+      "image_hash": "d8f34fde9f387ce848a7e8cd41fa8539c5eba1af2135800ed7fe69a7cefc5a98"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0071",
+      "reading_order": 330,
+      "section": "Status icons",
+      "bbox": {
+        "l": 265.4336242675781,
+        "t": 524.1774597167969,
+        "r": 285.2188415527344,
+        "b": 488.5639343261719
+      },
+      "image_path": "figures/figure_0071.png",
+      "previous_block_id": "txt_0238",
+      "width": 19,
+      "height": 35,
+      "image_hash": "d8ec78e07fedbcf50d3f6d88b7d20931955f6fe72b4b737ddfbb2480f7b177fc"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0072",
+      "reading_order": 331,
+      "section": "Status icons",
+      "bbox": {
+        "l": 259.41461181640625,
+        "t": 477.5809631347656,
+        "r": 300.7045593261719,
+        "b": 447.83551025390625
+      },
+      "image_path": "figures/figure_0072.png",
+      "previous_block_id": "txt_0238",
+      "width": 41,
+      "height": 29,
+      "image_hash": "c492e2563dcaeb93cad3ae01eb9fa4224bfd593b5a3ba114e247e8dec21a1067"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0073",
+      "reading_order": 332,
+      "section": "Status icons",
+      "bbox": {
+        "l": 258.94073486328125,
+        "t": 433.9528503417969,
+        "r": 300.95343017578125,
+        "b": 403.52972412109375
+      },
+      "image_path": "figures/figure_0073.png",
+      "previous_block_id": "txt_0238",
+      "width": 42,
+      "height": 30,
+      "image_hash": "57c373ad63069e5a6b043f0e7a2625cdf2ed89cbda1427ba320f61c15d548e43"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0074",
+      "reading_order": 333,
+      "section": "Status icons",
+      "bbox": {
+        "l": 257.7118225097656,
+        "t": 388.77947998046875,
+        "r": 301.5286865234375,
+        "b": 358.8834228515625
+      },
+      "image_path": "figures/figure_0074.png",
+      "previous_block_id": "txt_0238",
+      "width": 43,
+      "height": 29,
+      "image_hash": "98a160c0c8c449bba78c33a8c8ac905e6a92603565636460e6650f23fde44722"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0075",
+      "reading_order": 334,
+      "section": "Status icons",
+      "bbox": {
+        "l": 259.6763916015625,
+        "t": 344.15765380859375,
+        "r": 300.4158630371094,
+        "b": 312.569580078125
+      },
+      "image_path": "figures/figure_0075.png",
+      "previous_block_id": "txt_0238",
+      "width": 40,
+      "height": 31,
+      "image_hash": "25d28a23cbd932cb99efe37545759c317207b47c0f77ce892e7ca894fa858354"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0076",
+      "reading_order": 335,
+      "section": "Status icons",
+      "bbox": {
+        "l": 255.95266723632812,
+        "t": 296.478515625,
+        "r": 290.8072814941406,
+        "b": 261.35394287109375
+      },
+      "image_path": "figures/figure_0076.png",
+      "previous_block_id": "txt_0238",
+      "width": 34,
+      "height": 35,
+      "image_hash": "92e293671f00e81dbc5283f9067abb0b19d9efb6df4cf0bfdf40372a1a1d99f1"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0077",
+      "reading_order": 336,
+      "section": "Status icons",
+      "bbox": {
+        "l": 256.13739013671875,
+        "t": 256.0673828125,
+        "r": 301.3700866699219,
+        "b": 222.28485107421875
+      },
+      "image_path": "figures/figure_0077.png",
+      "previous_block_id": "txt_0238",
+      "width": 45,
+      "height": 33,
+      "image_hash": "c715df73e8b38888304472b6b6726b2c3cd11b8fb3759beda03608435c93d560"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0078",
+      "reading_order": 337,
+      "section": "Status icons",
+      "bbox": {
+        "l": 255.89247131347656,
+        "t": 211.33258056640625,
+        "r": 300.58447265625,
+        "b": 180.243408203125
+      },
+      "image_path": "figures/figure_0078.png",
+      "previous_block_id": "txt_0238",
+      "width": 44,
+      "height": 31,
+      "image_hash": "550e2b34b80a00f98ba1d223c05dc85ad2e59577c5085daf18019bf5f78018c6"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0079",
+      "reading_order": 338,
+      "section": "Status icons",
+      "bbox": {
+        "l": 256.53314208984375,
+        "t": 168.3275146484375,
+        "r": 295.35931396484375,
+        "b": 131.51007080078125
+      },
+      "image_path": "figures/figure_0079.png",
+      "previous_block_id": "txt_0238",
+      "width": 38,
+      "height": 36,
+      "image_hash": "51ac0c0fd89f4cd5f78421b11bfd3fce106fa1b893af9d6a2107eca8f6140b16"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0080",
+      "reading_order": 339,
+      "section": "Status icons",
+      "bbox": {
+        "l": 519.4164428710938,
+        "t": 815.9331912994385,
+        "r": 567.17138671875,
+        "b": 792.9800910949707
+      },
+      "image_path": "figures/figure_0080.png",
+      "previous_block_id": "txt_0238",
+      "width": 47,
+      "height": 22,
+      "image_hash": "b28a1d23de5124d82d6f84120acacff249829ec0e42f4c826059a188d93e4d2e"
+    }
+  ],
+  "page_stats": {
+    "block_count": 17,
+    "text_blocks": 2,
+    "paragraphs": 0,
+    "headings": 2,
+    "list_items": 0,
+    "captions": 0,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 14,
+    "tables": 1,
+    "toc_tables": 0
+  }
+}

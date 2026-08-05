@@ -1,0 +1,167 @@
+{
+  "page": 21,
+  "document_id": "doc_f7e949ab",
+  "page_bbox": {
+    "width": 612.0,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0223",
+      "reading_order": 255,
+      "section": "3.3.4.4 Restoring Power-On Default Settings",
+      "bbox": {
+        "l": 72.0,
+        "t": 700.5525,
+        "r": 292.6875,
+        "b": 687.1875
+      },
+      "content": "3.3.4.4 Restoring Power-On Default Settings",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0224",
+      "reading_order": 256,
+      "section": "3.3.4.4 Restoring Power-On Default Settings",
+      "bbox": {
+        "l": 147.75,
+        "t": 686.25375,
+        "r": 538.4609999999998,
+        "b": 646.49625
+      },
+      "content": "The following test procedures will verify that alarms are activated at the level of factory default alarm limits and that any changed settings are saved and in effect when the user changes alarm limit settings and saves the current settings as a power default."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0225",
+      "reading_order": 257,
+      "section": "3.3.4.4 Restoring Power-On Default Settings",
+      "bbox": {
+        "l": 145.5,
+        "t": 632.25375,
+        "r": 377.8125,
+        "b": 619.49625
+      },
+      "content": "1.Turn the monitor on at the factory default settings."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0226",
+      "reading_order": 258,
+      "section": "3.3.4.4 Restoring Power-On Default Settings",
+      "bbox": {
+        "l": 145.5,
+        "t": 605.25375,
+        "r": 515.0625,
+        "b": 592.49625
+      },
+      "content": "2.Select Alarm/limits icon to display Alarm/limits menu. Alarm/limits menu appears."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0227",
+      "reading_order": 259,
+      "section": "3.3.4.4 Restoring Power-On Default Settings",
+      "bbox": {
+        "l": 145.5,
+        "t": 578.25375,
+        "r": 376.3125,
+        "b": 565.49625
+      },
+      "content": "3.Verify alarm limits are set to as shown in Table 2."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0228",
+      "reading_order": 260,
+      "section": "3.3.4.4 Restoring Power-On Default Settings",
+      "bbox": {
+        "l": 145.5,
+        "t": 551.25375,
+        "r": 538.3694500000014,
+        "b": 524.99625
+      },
+      "content": "4.Change Patient mode Adult to Pediatric/Neonatal, then verify alarm limits are set to as shown in Table 2."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0229",
+      "reading_order": 261,
+      "section": "3.3.4.4 Restoring Power-On Default Settings",
+      "bbox": {
+        "l": 145.5,
+        "t": 267.0037500000001,
+        "r": 367.3125,
+        "b": 254.24625000000003
+      },
+      "content": "5.Change alarm limit value via Alarm/limits menu."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0230",
+      "reading_order": 262,
+      "section": "3.3.4.4 Restoring Power-On Default Settings",
+      "bbox": {
+        "l": 145.5,
+        "t": 240.00374999999997,
+        "r": 538.4641500000005,
+        "b": 213.74625000000003
+      },
+      "content": "6.Save the current changed alarm limit values as a power on default setting via Service menu (see Service Menu and Factory Defaults section). Turn off the monitor."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0231",
+      "reading_order": 263,
+      "section": "3.3.4.4 Restoring Power-On Default Settings",
+      "bbox": {
+        "l": 145.5,
+        "t": 199.50374999999997,
+        "r": 380.8125,
+        "b": 186.74625000000003
+      },
+      "content": "7.Press Power On/Off switch to turn on the monitor."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0232",
+      "reading_order": 264,
+      "section": "3.3.4.4 Restoring Power-On Default Settings",
+      "bbox": {
+        "l": 145.5,
+        "t": 172.50374999999997,
+        "r": 455.8125,
+        "b": 159.74625000000003
+      },
+      "content": "8.Verify alarm limits are set to the current changed alarm limit values."
+    },
+    {
+      "type": "table",
+      "id": "tbl_0006",
+      "reading_order": 265,
+      "section": "3.3.4.4 Restoring Power-On Default Settings",
+      "bbox": {
+        "l": 154.02377319335938,
+        "t": 500.1838684082031,
+        "r": 534.9761962890625,
+        "b": 282.21026611328125
+      },
+      "markdown": "Table 2. Parameter Alarm Limit Factory Defaults\n\n| Factory Defaults              | Adult            | Pediatric        | Neonatal         |\n|-------------------------------|------------------|------------------|------------------|\n| Heart Rate Alarm Upper Limits | 120 BPM          | 160 BPM          | 200 BPM          |\n| Heart Rate Alarm Lower Limits | 50 BPM           | 75 BPM           | 100 BPM          |\n| NIBP SYS Alarm Upper Limits   | 160 mmHg         | 120 mmHg         | 90 mmHg          |\n| NIBP SYS Alarm Lower Limits   | 90 mmHg          | 70 mmHg          | 40 mmHg          |\n| NIBP DIA Alarm Upper Limits   | 90 mmHg          | 70 mmHg          | 60 mmHg          |\n| NIBP DIA Alarm Lower Limits   | 50 mmHg          | 40 mmHg          | 20 mmHg          |\n| NIBP MAP Alarm Upper Limits   | 110 mmHg         | 90 mmHg          | 70 mmHg          |\n| NIBP MAP Alarm Lower Limits   | 60 mmHg          | 50 mmHg          | 30 mmHg          |\n| %SpO 2 Alarm Upper Limits     | 100 %            | 100 %            | 95 %             |\n| %SpO 2 Alarm Lower Limits     | 90 %             | 90 %             | 80 %             |\n| RR Alarm Upper Limits         | 30 BPM           | 30 BPM           | 100 BPM          |\n| RR Alarm Lower Limits         | 8 BPM            | 8 BPM            | 30 BPM           |\n| T1/T2 Alarm Upper Limits      | 39.0ºC (102.2ºF) | 39.0ºC (102.2ºF) | 39.0ºC (102.2ºF) |\n| T1/T2 Alarm Lower Limits      | 36.0ºC (96.8ºF)  | 36.0ºC (96.8ºF)  | 36.0ºC (96.8ºF)  |"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0233",
+      "reading_order": 266,
+      "section": "3.3.4.4 Restoring Power-On Default Settings",
+      "bbox": {
+        "l": 221.25,
+        "t": 511.5525,
+        "r": 463.3125,
+        "b": 498.1875
+      },
+      "content": "Table 2. Parameter Alarm Limit Factory Defaults"
+    }
+  ]
+}

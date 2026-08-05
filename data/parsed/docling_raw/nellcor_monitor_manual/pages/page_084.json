@@ -1,0 +1,143 @@
+{
+  "page": 84,
+  "document_id": "doc_f7e949ab",
+  "page_bbox": {
+    "width": 612.0,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0808",
+      "reading_order": 948,
+      "section": "SpO2",
+      "bbox": {
+        "l": 72.0,
+        "t": 692.3025,
+        "r": 97.125,
+        "b": 678.9375
+      },
+      "content": "SpO2",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "id": "txt_0809",
+      "reading_order": 949,
+      "section": "Temperature",
+      "bbox": {
+        "l": 72.0,
+        "t": 352.5525,
+        "r": 139.312125,
+        "b": 339.1875
+      },
+      "content": "Temperature",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "id": "txt_0810",
+      "reading_order": 950,
+      "section": "9.8    Trends",
+      "bbox": {
+        "l": 72.0,
+        "t": 240.61604999999997,
+        "r": 144.56099999999998,
+        "b": 223.68705
+      },
+      "content": "9.8    Trends",
+      "level": 2
+    },
+    {
+      "type": "table",
+      "id": "tbl_0037",
+      "reading_order": 951,
+      "section": "9.8    Trends",
+      "bbox": {
+        "l": 150.92835998535156,
+        "t": 680.2047882080078,
+        "r": 535.6397705078125,
+        "b": 538.322265625
+      },
+      "markdown": "| %Saturation   | %Saturation                                                                                                                                                                                                                        |\n|---------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Range         | 1% to 100%                                                                                                                                                                                                                         |\n| Low Perfusion | 0.03% to 20%                                                                                                                                                                                                                       |\n| Accuracy      | Without Motion-Adults 1 70% to 100% ±2 digits Without Motion-Neonate 1 70% to 100% ±3 digits 1% to 69% unspecified With Motion 2 -Adults/Neonate 70% to 100% ±3 digits Low Perfusion 3 70% to 100% ±2 digits 1% to 69% unspecified |"
+    },
+    {
+      "type": "table",
+      "id": "tbl_0038",
+      "reading_order": 952,
+      "section": "9.8    Trends",
+      "bbox": {
+        "l": 151.39443969726562,
+        "t": 539.1231384277344,
+        "r": 535.478271484375,
+        "b": 440.68035888671875
+      },
+      "markdown": "| Display Sweep Speeds   | 12.5 mm/sec, 25.0 mm/sec, and 50.0 mm/sec                                                                                                               |\n|------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Pulse Rate             | Pulse Rate                                                                                                                                              |\n| Range                  | 20 BPM to 250 BPM                                                                                                                                       |\n| Accuracy               | Without Motion 3 20 BPM to 250 BPM ±3 digits With Motion normal physiologic range (55 to 125 BPM) ±5 digits Low Perfusion 3 20 BPM to 250 BPM ±3 digits |"
+    },
+    {
+      "type": "footnote",
+      "id": "txt_0811",
+      "reading_order": 953,
+      "section": "9.8    Trends",
+      "bbox": {
+        "l": 156.75,
+        "t": 438.60225,
+        "r": 531.9200100000007,
+        "b": 398.097
+      },
+      "content": "1 Adult specification  are  shown  for  OxiMax  MAX-A and MAX-N sensors with the N5500. Neonate specifications are shown for OxiMax MAX-N sensors with the N5500. Saturation accuracy will vary by sensor type."
+    },
+    {
+      "type": "footnote",
+      "id": "txt_0812",
+      "reading_order": 954,
+      "section": "9.8    Trends",
+      "bbox": {
+        "l": 156.75,
+        "t": 384.60225,
+        "r": 519.7502999999999,
+        "b": 371.097
+      },
+      "content": "3 Specification applies to monitor performance and was validated with Biotek and Nellcor simulators"
+    },
+    {
+      "type": "footnote",
+      "id": "txt_0813",
+      "reading_order": 955,
+      "section": "9.8    Trends",
+      "bbox": {
+        "l": 156.75,
+        "t": 398.10225,
+        "r": 360.75,
+        "b": 384.597
+      },
+      "content": "2 Applicability(accuracy with motion): OxiMax sensors."
+    },
+    {
+      "type": "table",
+      "id": "tbl_0039",
+      "reading_order": 956,
+      "section": "9.8    Trends",
+      "bbox": {
+        "l": 150.71697998046875,
+        "t": 339.0310363769531,
+        "r": 535.9599609375,
+        "b": 252.77227783203125
+      },
+      "markdown": "| Probe Type          | Thermistor probe (Monotherm™ temperature probes)   |\n|---------------------|----------------------------------------------------|\n| Parameter displayed | T1, T2                                             |\n| Range               | 15° C to 45° C                                     |\n| Display Accuracy    | ±0.1° C (25° C to 45° C)                           |\n|                     | ±0.2° C (15° C to less than 25° C)                 |\n| Probe Accuracy      | ±0.1° C                                            |"
+    },
+    {
+      "type": "table",
+      "id": "tbl_0040",
+      "reading_order": 957,
+      "section": "9.8    Trends",
+      "bbox": {
+        "l": 150.75465393066406,
+        "t": 225.487060546875,
+        "r": 535.9037475585938,
+        "b": 110.24365234375
+      },
+      "markdown": "| Types                 | Graphical and Tabular                                                               |\n|-----------------------|-------------------------------------------------------------------------------------|\n| Memory Storage        | 24 hours, nonvolatile, 20 seconds data interval                                     |\n| Graphical Format      | One graph for all parameters Also user-selectable each parameter to be desired      |\n| Display Range         | 2 hours                                                                             |\n| Tabular Format        | One table for all variables. 18 rows (date, parameter labels, and 16 variable rows) |\n| Display Time Interval | 20 sec, 1 min, 2 min, 3 min, 5 min, 10 min, 15 min, 20 min                          |"
+    }
+  ]
+}

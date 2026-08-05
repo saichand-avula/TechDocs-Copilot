@@ -1,0 +1,437 @@
+{
+  "page": 117,
+  "document_id": "doc_e02482e6",
+  "page_bbox": {
+    "width": 595.0,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0884",
+      "reading_order": 1283,
+      "section": "8       Maintenance",
+      "bbox": {
+        "l": 56.55,
+        "t": 772.8000000000001,
+        "r": 196.77239999999995,
+        "b": 754.9440000000001
+      },
+      "content": "8       Maintenance",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0885",
+      "reading_order": 1284,
+      "section": "8.1     Preventive maintenance schedule",
+      "bbox": {
+        "l": 56.55,
+        "t": 728.5792000000001,
+        "r": 342.2795999999999,
+        "b": 710.7232000000001
+      },
+      "content": "8.1     Preventive maintenance schedule",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0886",
+      "reading_order": 1285,
+      "section": "Control panel",
+      "bbox": {
+        "l": 56.55,
+        "t": 683.855,
+        "r": 126.27130000000001,
+        "b": 671.579
+      },
+      "content": "Control panel",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0887",
+      "reading_order": 1286,
+      "section": "Warning",
+      "bbox": {
+        "l": 56.55,
+        "t": 479.675,
+        "r": 97.7769,
+        "b": 467.399
+      },
+      "content": "Warning",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0306",
+      "reading_order": 1287,
+      "section": "Warning",
+      "bbox": {
+        "l": 112.29924774169922,
+        "t": 449.5997314453125,
+        "r": 139.48060607910156,
+        "b": 424.54888916015625
+      },
+      "image_path": "figures/figure_0306.png",
+      "previous_block_id": "txt_0887",
+      "next_block_id": "txt_0888",
+      "width": 27,
+      "height": 25,
+      "decorative": true,
+      "image_hash": "9b6fdd75d04b0dcf9bb74a13d783903213af75f45f06fab06499e81044c8a68a"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0307",
+      "reading_order": 1288,
+      "section": "Warning",
+      "bbox": {
+        "l": 202.2469482421875,
+        "t": 657.8521423339844,
+        "r": 448.9226989746094,
+        "b": 537.1703186035156
+      },
+      "image_path": "figures/figure_0307.png",
+      "previous_block_id": "txt_0887",
+      "next_block_id": "txt_0888",
+      "caption_id": "txt_0888",
+      "caption": "Control panel Eledtronikon Graphic",
+      "image_hash": "07d89d4119176322cf8c9e80a99f88a7946de9839cf097baac8c3ab802e0626d",
+      "width": 247,
+      "height": 121
+    },
+    {
+      "type": "caption",
+      "id": "txt_0888",
+      "reading_order": 1289,
+      "section": "Warning",
+      "bbox": {
+        "l": 272.55,
+        "t": 517.45,
+        "r": 424.76899999999944,
+        "b": 506.38
+      },
+      "content": "Control panel Eledtronikon Graphic",
+      "caption_for": "fig_0307"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0889",
+      "reading_order": 1290,
+      "section": "Before carrying out any maintenance, repair work or adjustments, proceed as follows:",
+      "bbox": {
+        "l": 172.95,
+        "t": 451.4168899,
+        "r": 541.8363167000012,
+        "b": 427.5971176
+      },
+      "content": "Before carrying out any maintenance, repair work or adjustments, proceed as follows:",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0890",
+      "reading_order": 1291,
+      "section": "Before carrying out any maintenance, repair work or adjustments, proceed as follows:",
+      "bbox": {
+        "l": 189.62983798,
+        "t": 427.1168899,
+        "r": 287.06981153000015,
+        "b": 415.4171176
+      },
+      "content": "Stop the compressor."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0891",
+      "reading_order": 1292,
+      "section": "Before carrying out any maintenance, repair work or adjustments, proceed as follows:",
+      "bbox": {
+        "l": 172.95,
+        "t": 414.9968899,
+        "r": 544.0621270400012,
+        "b": 378.99711759999997
+      },
+      "content": "Close the air outlet valve and press the test button on top of the electronic water drain(s) until the air system between air receiver and outlet valve is fully depressurized."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0892",
+      "reading_order": 1293,
+      "section": "Before carrying out any maintenance, repair work or adjustments, proceed as follows:",
+      "bbox": {
+        "l": 189.62983798,
+        "t": 377.9768899,
+        "r": 359.8018106599995,
+        "b": 366.2771176
+      },
+      "content": "Press the emergency stop button (10)."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0893",
+      "reading_order": 1294,
+      "section": "Before carrying out any maintenance, repair work or adjustments, proceed as follows:",
+      "bbox": {
+        "l": 189.62983798,
+        "t": 365.8568899,
+        "r": 286.0034095200003,
+        "b": 354.1571176
+      },
+      "content": "Switch off the voltage."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0894",
+      "reading_order": 1295,
+      "section": "Before carrying out any maintenance, repair work or adjustments, proceed as follows:",
+      "bbox": {
+        "l": 189.62983798,
+        "t": 353.6768899,
+        "r": 323.6667415600001,
+        "b": 341.9771176
+      },
+      "content": "Depressurize the compressor."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0895",
+      "reading_order": 1296,
+      "section": "Before carrying out any maintenance, repair work or adjustments, proceed as follows:",
+      "bbox": {
+        "l": 172.95,
+        "t": 341.4968899,
+        "r": 414.1576633600002,
+        "b": 329.7971176
+      },
+      "content": "For detailed instructions, see section Problem solving."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0896",
+      "reading_order": 1297,
+      "section": "Before carrying out any maintenance, repair work or adjustments, proceed as follows:",
+      "bbox": {
+        "l": 172.95,
+        "t": 329.3768898999999,
+        "r": 185.19618443,
+        "b": 317.6771176
+      },
+      "content": "Th"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0897",
+      "reading_order": 1298,
+      "section": "Warranty - Product Liability",
+      "bbox": {
+        "l": 56.55,
+        "t": 292.9549999999999,
+        "r": 192.26690000000005,
+        "b": 280.679
+      },
+      "content": "Warranty - Product Liability",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0898",
+      "reading_order": 1299,
+      "section": "Warranty - Product Liability",
+      "bbox": {
+        "l": 90.5697,
+        "t": 273.24080000000004,
+        "r": 563.0691999999993,
+        "b": 247.86379999999997
+      },
+      "content": "Use only authorised parts. Any damage or malfunction caused by the use of unauthorised parts is not covered by Warranty or Product Liability."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0899",
+      "reading_order": 1300,
+      "section": "Service kits",
+      "bbox": {
+        "l": 56.55,
+        "t": 229.23530000000005,
+        "r": 117.26449999999997,
+        "b": 216.95929999999998
+      },
+      "content": "Service kits",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0900",
+      "reading_order": 1301,
+      "section": "Service kits",
+      "bbox": {
+        "l": 90.5697,
+        "t": 208.68180000000007,
+        "r": 540.5866999999998,
+        "b": 196.50400000000002
+      },
+      "content": "For overhauling or carrying out preventive maintenance, service kits are available (see section Service kits)."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0901",
+      "reading_order": 1302,
+      "section": "Service contracts",
+      "bbox": {
+        "l": 56.55,
+        "t": 177.45500000000004,
+        "r": 147.2549000000001,
+        "b": 165.17899999999997
+      },
+      "content": "Service contracts",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0902",
+      "reading_order": 1303,
+      "section": "Service contracts",
+      "bbox": {
+        "l": 90.5697,
+        "t": 157.74080000000004,
+        "r": 560.1684999999993,
+        "b": 132.36379999999997
+      },
+      "content": "Atlas Copco offers several types of service contracts, relieving you of all preventive maintenance work. Consult your Atlas Copco Customer Centre."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0903",
+      "reading_order": 1304,
+      "section": "General",
+      "bbox": {
+        "l": 56.55,
+        "t": 113.73530000000005,
+        "r": 97.77140000000003,
+        "b": 101.45929999999998
+      },
+      "content": "General",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0904",
+      "reading_order": 1305,
+      "section": "General",
+      "bbox": {
+        "l": 90.5697,
+        "t": 94.02110000000005,
+        "r": 388.28689999999983,
+        "b": 81.84410000000003
+      },
+      "content": "When servicing, replace all removed gaskets, O-rings and washers."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0905",
+      "reading_order": 1306,
+      "section": "General",
+      "bbox": {
+        "l": 272.55237049,
+        "t": 329.3768898999999,
+        "r": 275.49052469,
+        "b": 317.6771176
+      },
+      "content": "l"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0906",
+      "reading_order": 1307,
+      "section": "General",
+      "bbox": {
+        "l": 288.75449418999995,
+        "t": 329.3768898999999,
+        "r": 294.3940592299999,
+        "b": 317.6771176
+      },
+      "content": "ll"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0907",
+      "reading_order": 1308,
+      "section": "General",
+      "bbox": {
+        "l": 305.9775736299999,
+        "t": 329.3768898999999,
+        "r": 308.91572782999987,
+        "b": 317.6771176
+      },
+      "content": "l"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0908",
+      "reading_order": 1309,
+      "section": "General",
+      "bbox": {
+        "l": 335.61,
+        "t": 329.3768898999999,
+        "r": 350.40751689000007,
+        "b": 317.6771176
+      },
+      "content": "S f"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0909",
+      "reading_order": 1310,
+      "section": "General",
+      "bbox": {
+        "l": 399.1481130200001,
+        "t": 329.3768898999999,
+        "r": 402.0862672200001,
+        "b": 317.6771176
+      },
+      "content": "i"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0308",
+      "reading_order": 1311,
+      "section": "General",
+      "bbox": {
+        "l": 519.3037109375,
+        "t": 816.1638450622559,
+        "r": 567.0418701171875,
+        "b": 792.8487434387207
+      },
+      "image_path": "figures/figure_0308.png",
+      "previous_block_id": "txt_0909",
+      "width": 47,
+      "height": 23,
+      "decorative": true,
+      "image_hash": "b28a1d23de5124d82d6f84120acacff249829ec0e42f4c826059a188d93e4d2e"
+    }
+  ],
+  "page_stats": {
+    "block_count": 29,
+    "text_blocks": 26,
+    "paragraphs": 16,
+    "headings": 9,
+    "list_items": 0,
+    "captions": 1,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 3,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

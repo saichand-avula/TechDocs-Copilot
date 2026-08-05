@@ -1,0 +1,89 @@
+{
+  "page": 16,
+  "document_id": "doc_1032c87b",
+  "page_bbox": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0017",
+      "reading_order": 156,
+      "section": "(1) The model of 80 ~120 kVA UPS",
+      "bbox": {
+        "l": 117.96046485120212,
+        "t": 720.9427264619479,
+        "r": 489.32205035524333,
+        "b": 454.54935889556833
+      },
+      "image_path": "figures/figure_0017.png",
+      "next_block_id": "txt_0135",
+      "image_hash": "8f6349d6b5ce3904f64fd7dc4e5f492cb679b5b1b128a5bfcad90681fb2ce2f6",
+      "width": 371,
+      "height": 266
+    },
+    {
+      "type": "caption",
+      "id": "txt_0135",
+      "reading_order": 157,
+      "section": "(1) The model of 80 ~120 kVA UPS",
+      "bbox": {
+        "l": 156.98,
+        "t": 435.5576629101563,
+        "r": 456.87568,
+        "b": 426.086101363195
+      },
+      "content": "Figure 2-12: Rectifier, inverter and STS module of 160 kVA UPS",
+      "caption_for": "fig_0018"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0018",
+      "reading_order": 158,
+      "section": "(1) The model of 80 ~120 kVA UPS",
+      "bbox": {
+        "l": 154.00623090787627,
+        "t": 410.72027251163536,
+        "r": 468.6449199800544,
+        "b": 177.84222851964398
+      },
+      "image_path": "figures/figure_0018.png",
+      "previous_block_id": "txt_0135",
+      "next_block_id": "txt_0136",
+      "caption_id": "txt_0136",
+      "caption": ": Bus capacitance of 160 kVA UPS",
+      "figure_number": "Figure 2-13",
+      "image_hash": "610f5e6c040a13972e967f683ede2710d2ac2db899527ad94ccfb1844a39c529",
+      "width": 315,
+      "height": 233
+    },
+    {
+      "type": "caption",
+      "id": "txt_0136",
+      "reading_order": 159,
+      "section": "(1) The model of 80 ~120 kVA UPS",
+      "bbox": {
+        "l": 198.65,
+        "t": 140.6676629101563,
+        "r": 415.35568,
+        "b": 131.19610136319488
+      },
+      "content": "Figure 2-13: Bus capacitance of 160 kVA UPS",
+      "caption_for": "fig_0018"
+    }
+  ],
+  "page_stats": {
+    "block_count": 4,
+    "text_blocks": 2,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 0,
+    "captions": 2,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 2,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

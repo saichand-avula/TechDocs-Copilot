@@ -1,0 +1,172 @@
+{
+  "page": 175,
+  "document_id": "doc_caa693b1",
+  "page_bbox": {
+    "width": 595.0,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_1251",
+      "reading_order": 1628,
+      "section": "[ Pulse Coder Alarm ]",
+      "bbox": {
+        "l": 70.92,
+        "t": 745.93466,
+        "r": 161.55590999999998,
+        "b": 737.0629409281769
+      },
+      "content": "[ Pulse Coder Alarm ]",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0324",
+      "reading_order": 1629,
+      "section": "[ Pulse Coder Alarm ]",
+      "bbox": {
+        "l": 119.14952850341797,
+        "t": 702.6433715820312,
+        "r": 146.54727172851562,
+        "b": 663.6141204833984
+      },
+      "image_path": "figures/figure_0324.png",
+      "previous_block_id": "txt_1251",
+      "width": 27,
+      "height": 39,
+      "image_hash": "5567200446bd9e83c4decaf79b574e7801df9cb82591302fce71395ba5086473"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0325",
+      "reading_order": 1630,
+      "section": "[ Pulse Coder Alarm ]",
+      "bbox": {
+        "l": 121.26453399658203,
+        "t": 609.9807891845703,
+        "r": 149.02850341796875,
+        "b": 570.6318054199219
+      },
+      "image_path": "figures/figure_0325.png",
+      "previous_block_id": "txt_1251",
+      "width": 27,
+      "height": 39,
+      "image_hash": "72aef65882bd5628c6786fd4e0ba37c66992d10b6ae1da9c3f86e5cfa35672ad"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0326",
+      "reading_order": 1631,
+      "section": "[ Pulse Coder Alarm ]",
+      "bbox": {
+        "l": 119.54367065429688,
+        "t": 538.0531311035156,
+        "r": 146.53147888183594,
+        "b": 499.4366455078125
+      },
+      "image_path": "figures/figure_0326.png",
+      "previous_block_id": "txt_1251",
+      "width": 26,
+      "height": 38,
+      "image_hash": "70c800c004c320dd8468f794657a5909ae6e8bdf64b39c7c97bedf042dc3a8af"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0327",
+      "reading_order": 1632,
+      "section": "[ Pulse Coder Alarm ]",
+      "bbox": {
+        "l": 118.32482147216797,
+        "t": 461.1412048339844,
+        "r": 146.65504455566406,
+        "b": 421.4471130371094
+      },
+      "image_path": "figures/figure_0327.png",
+      "previous_block_id": "txt_1251",
+      "width": 28,
+      "height": 39,
+      "image_hash": "a59ad62d376fb943cc5fa3ae2aaaff9c16b8959abbdf6c8ac708f7c7d40a917d"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0328",
+      "reading_order": 1633,
+      "section": "[ Pulse Coder Alarm ]",
+      "bbox": {
+        "l": 121.914306640625,
+        "t": 386.3115234375,
+        "r": 150.4871826171875,
+        "b": 345.53009033203125
+      },
+      "image_path": "figures/figure_0328.png",
+      "previous_block_id": "txt_1251",
+      "width": 28,
+      "height": 40,
+      "image_hash": "b6e74f30969dbc7eb1f51300a12cd2645d3e7c3ecd61152a1f003594080cddfc"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0329",
+      "reading_order": 1634,
+      "section": "[ Pulse Coder Alarm ]",
+      "bbox": {
+        "l": 116.20207977294922,
+        "t": 307.951171875,
+        "r": 144.73519897460938,
+        "b": 267.79052734375
+      },
+      "image_path": "figures/figure_0329.png",
+      "previous_block_id": "txt_1251",
+      "width": 28,
+      "height": 40,
+      "image_hash": "21ccd674b7e2833dc6d2bdaada97ff3a2f56b6f82dca4bf6c57e604c2c0ea634"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0330",
+      "reading_order": 1635,
+      "section": "[ Pulse Coder Alarm ]",
+      "bbox": {
+        "l": 118.97986602783203,
+        "t": 227.29058837890625,
+        "r": 146.35305786132812,
+        "b": 187.2332763671875
+      },
+      "image_path": "figures/figure_0330.png",
+      "previous_block_id": "txt_1251",
+      "width": 27,
+      "height": 40,
+      "image_hash": "b3a93cef443973998e4abac12d43baba67cf8ca1b1df11f13520eeded2ee8970"
+    },
+    {
+      "type": "table",
+      "id": "tbl_0056",
+      "reading_order": 1636,
+      "section": "[ Pulse Coder Alarm ]",
+      "bbox": {
+        "l": 64.02804565429688,
+        "t": 737.9041290283203,
+        "r": 544.9047241210938,
+        "b": 71.56719970703125
+      },
+      "markdown": "|   No. | LED                                                                    | Description                                                                                                                                                                                                                       | Countermeasure                                   |\n|-------|------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|\n|   300 | A communication error (DTER) for the serial pulse coder was detected.  | Check the continuity of the signal cable. If the cable is normal, the pulse coder may be defective. Turn the power off. If the alarm recurs when the power is reapplied, replace the serial pulse coder, together with the motor. |                                                  |\n|   301 | A communication error (CRCER) for the serial pulse coder was detected. | Check the continuity of the signal cable. If the cable is normal, the pulse coder or servo unit may be defective. This error can also be caused by noise.                                                                         |                                                  |\n|   302 | A communication error (STBER) for the serial pulse coder was detected. | Check the continuity of the signal cable. If the cable is normal, the pulse coder or servo unit may be defective. This error can also be caused by noise.                                                                         | external                                         |\n|   303 | A communication error (LDAL) for the serial pulse coder was detected.  | Turn the power off. If this alarm recurs when the power is re-applied, replace the motor.                                                                                                                                         |                                                  |\n|   304 | A communication error (PMAL) for the serial pulse coder was detected.  | Turn the power off. If this alarm recurs when the power is re-applied, replace the motor.                                                                                                                                         |                                                  |\n|   305 | A miscount alarm (CMAL) for the serial pulse coder was detected.       | Turn the power off. If this alarm recurs when the power is re-applied, replace the motor. If the alarm does not recur, re-start the operation form reference position return.                                                     |                                                  |\n|   306 | The motor has overheated (OHAL).                                       | This alarm is has overheated, to trip. Possible causes include an excessively high ambient temperature and excessively strict operation conditions. Check the actual cause. Disconnect the power of about ten                     | issued when the amplifier causing the thermostat |",
+      "rows": 8,
+      "cols": 4
+    }
+  ],
+  "page_stats": {
+    "block_count": 9,
+    "text_blocks": 1,
+    "paragraphs": 0,
+    "headings": 1,
+    "list_items": 0,
+    "captions": 0,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 7,
+    "tables": 1,
+    "toc_tables": 0
+  }
+}

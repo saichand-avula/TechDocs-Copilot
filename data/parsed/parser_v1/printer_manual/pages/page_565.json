@@ -1,0 +1,152 @@
+{
+  "page": 565,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_4321",
+      "reading_order": 5963,
+      "section": "13. Remove the right cover.",
+      "bbox": {
+        "l": 122.0,
+        "t": 732.29,
+        "r": 268.47999999999996,
+        "b": 720.7
+      },
+      "content": "Remove two screws (callout 1)."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_4322",
+      "reading_order": 5964,
+      "section": "13. Remove the right cover.",
+      "bbox": {
+        "l": 122.0,
+        "t": 470.42,
+        "r": 314.9799999999999,
+        "b": 458.83
+      },
+      "content": "At the rear of the printer, release one boss."
+    },
+    {
+      "type": "figure",
+      "id": "fig_1601",
+      "reading_order": 5965,
+      "section": "13. Remove the right cover.",
+      "bbox": {
+        "l": 143.2480100286436,
+        "t": 698.8109512329102,
+        "r": 432.7516626855468,
+        "b": 481.8890075683594
+      },
+      "image_path": "figures/figure_1601.png",
+      "caption": "Remove two screws",
+      "figure_number": "Figure 1-934",
+      "image_hash": "5a771339d4c48dc27964c3a6a4d1e7b3f2574d7cebde521a8c14aca92df20c63",
+      "width": 290,
+      "height": 217,
+      "previous_block_id": "txt_4322",
+      "next_block_id": "txt_4323",
+      "caption_id": "txt_4323"
+    },
+    {
+      "type": "caption",
+      "id": "txt_4323",
+      "reading_order": 5966,
+      "section": "13. Remove the right cover.",
+      "bbox": {
+        "l": 143.99996,
+        "t": 711.29,
+        "r": 281.05995999999993,
+        "b": 699.7
+      },
+      "content": "Figure 1-934  Remove two screws",
+      "caption_for": "fig_1601"
+    },
+    {
+      "type": "figure",
+      "id": "fig_1602",
+      "reading_order": 5967,
+      "section": "13. Remove the right cover.",
+      "bbox": {
+        "l": 128.11543956918314,
+        "t": 448.8710632324219,
+        "r": 142.2608191154365,
+        "b": 436.123046875
+      },
+      "image_path": "figures/figure_1602.png",
+      "decorative": true,
+      "width": 14,
+      "height": 12,
+      "image_hash": "6aa535d73ea5c7f7b9d8f181ec498a090d901095ecb06f8e2d24f178549c38f3",
+      "previous_block_id": "txt_4323",
+      "next_block_id": "txt_4324"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_4324",
+      "reading_order": 5968,
+      "section": "13. Remove the right cover.",
+      "bbox": {
+        "l": 144.0,
+        "t": 446.92,
+        "r": 542.24,
+        "b": 423.33
+      },
+      "content": "CAUTION: It might be easier to remove the cover with the printer slightly hanging over the edge of the workspace. Do not let the printer tip and fall off of the workspace when removing the cover.",
+      "severity": "caution"
+    },
+    {
+      "type": "figure",
+      "id": "fig_1603",
+      "reading_order": 5969,
+      "section": "13. Remove the right cover.",
+      "bbox": {
+        "l": 142.98077133101796,
+        "t": 400.1129455566406,
+        "r": 432.68385403073324,
+        "b": 182.5609130859375
+      },
+      "image_path": "figures/figure_1603.png",
+      "caption": "Release one boss",
+      "figure_number": "Figure 1-935",
+      "image_hash": "53dee92b35b53b54f7682885b9f85b785a1753d074976535aefb69e02b2efa4d",
+      "width": 290,
+      "height": 217,
+      "previous_block_id": "txt_4324",
+      "next_block_id": "txt_4325",
+      "caption_id": "txt_4325"
+    },
+    {
+      "type": "caption",
+      "id": "txt_4325",
+      "reading_order": 5970,
+      "section": "13. Remove the right cover.",
+      "bbox": {
+        "l": 144.0,
+        "t": 412.42,
+        "r": 270.6799899999999,
+        "b": 400.83
+      },
+      "content": "Figure 1-935  Release one boss",
+      "caption_for": "fig_1603"
+    }
+  ],
+  "page_stats": {
+    "block_count": 8,
+    "text_blocks": 5,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 2,
+    "captions": 2,
+    "admonitions": 1,
+    "references": 0,
+    "figures": 3,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

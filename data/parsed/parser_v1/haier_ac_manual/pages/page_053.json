@@ -1,0 +1,301 @@
+{
+  "page": 53,
+  "document_id": "doc_229deb31",
+  "page_bbox": {
+    "width": 595.219970703125,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0453",
+      "reading_order": 638,
+      "section": "7. 3 .1Thermistor or Related Abnormality (indoor unit)",
+      "bbox": {
+        "l": 56.962,
+        "t": 771.8494428,
+        "r": 402.13562896000013,
+        "b": 757.998057
+      },
+      "content": "7. 3 .1Thermistor or Related Abnormality (indoor unit)",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0454",
+      "reading_order": 639,
+      "section": "7. 3 .1Thermistor or Related Abnormality (indoor unit)",
+      "bbox": {
+        "l": 56.962,
+        "t": 745.8557152,
+        "r": 128.97464651,
+        "b": 736.602938
+      },
+      "content": "Indoor Display"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0455",
+      "reading_order": 640,
+      "section": "7. 3 .1Thermistor or Related Abnormality (indoor unit)",
+      "bbox": {
+        "l": 159.0978,
+        "t": 747.2693856,
+        "r": 355.2959957399998,
+        "b": 736.188314
+      },
+      "content": "E1 : Room temperature sensor failure"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0456",
+      "reading_order": 641,
+      "section": "7. 3 .1Thermistor or Related Abnormality (indoor unit)",
+      "bbox": {
+        "l": 165.0808,
+        "t": 731.7125856,
+        "r": 363.94525866999976,
+        "b": 720.631514
+      },
+      "content": "E2 : Heat-exchange sensor failure"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0457",
+      "reading_order": 642,
+      "section": "7. 3 .1Thermistor or Related Abnormality (indoor unit)",
+      "bbox": {
+        "l": 56.958390099999974,
+        "t": 702.1783152,
+        "r": 142.10971862999992,
+        "b": 669.9444772200001
+      },
+      "content": "Method of Malfunction Detection"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0458",
+      "reading_order": 643,
+      "section": "7. 3 .1Thermistor or Related Abnormality (indoor unit)",
+      "bbox": {
+        "l": 144.3188,
+        "t": 702.1783152,
+        "r": 518.3169682700001,
+        "b": 692.9255380000001
+      },
+      "content": "the temperatures detected by the thermistors are used to determine thermistor errors"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0459",
+      "reading_order": 644,
+      "section": "7. 3 .1Thermistor or Related Abnormality (indoor unit)",
+      "bbox": {
+        "l": 56.95839009999996,
+        "t": 656.34509302,
+        "r": 115.75751453999997,
+        "b": 624.0513018400001
+      },
+      "content": "Malfunction Decision Conditions"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0460",
+      "reading_order": 645,
+      "section": "7. 3 .1Thermistor or Related Abnormality (indoor unit)",
+      "bbox": {
+        "l": 142.75788709999998,
+        "t": 656.34509302,
+        "r": 512.5796887500015,
+        "b": 635.6022850400001
+      },
+      "content": "when the thermistor input is more than 4.92V or less than 0.08V during compressor operation."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0461",
+      "reading_order": 646,
+      "section": "7. 3 .1Thermistor or Related Abnormality (indoor unit)",
+      "bbox": {
+        "l": 56.9597,
+        "t": 621.9421152,
+        "r": 347.1885237000005,
+        "b": 612.687438
+      },
+      "content": "Note: The values vary slightly in some models"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0462",
+      "reading_order": 647,
+      "section": "7. 3 .1Thermistor or Related Abnormality (indoor unit)",
+      "bbox": {
+        "l": 56.9582717,
+        "t": 609.6207333799999,
+        "r": 142.70622213999994,
+        "b": 587.44262418
+      },
+      "content": "Supposed Causes"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0463",
+      "reading_order": 648,
+      "section": "7. 3 .1Thermistor or Related Abnormality (indoor unit)",
+      "bbox": {
+        "l": 144.8576,
+        "t": 609.8261514000001,
+        "r": 292.31158577,
+        "b": 599.8080274875
+      },
+      "content": "Ƶ Faulty connector connection"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0464",
+      "reading_order": 649,
+      "section": "7. 3 .1Thermistor or Related Abnormality (indoor unit)",
+      "bbox": {
+        "l": 147.0708,
+        "t": 596.9014514,
+        "r": 244.0420199100001,
+        "b": 586.8833274875
+      },
+      "content": "Ƶ Faulty thermistor"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0465",
+      "reading_order": 650,
+      "section": "7. 3 .1Thermistor or Related Abnormality (indoor unit)",
+      "bbox": {
+        "l": 145.9932,
+        "t": 584.0977514000001,
+        "r": 259.97221918,
+        "b": 574.0796274875
+      },
+      "content": "Ƶ Faulty PCB"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0466",
+      "reading_order": 651,
+      "section": "7. 3 .1Thermistor or Related Abnormality (indoor unit)",
+      "bbox": {
+        "l": 56.964017,
+        "t": 558.75853142,
+        "r": 205.98339103999993,
+        "b": 549.505438
+      },
+      "content": "Troubleshooting        * Caution"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0467",
+      "reading_order": 652,
+      "section": "7. 3 .1Thermistor or Related Abnormality (indoor unit)",
+      "bbox": {
+        "l": 202.71584670000001,
+        "t": 558.7582152,
+        "r": 551.7929480800011,
+        "b": 534.067489
+      },
+      "content": "Be sure to turn off power switch before connect or disconnect connector,      or else parts damage may be occurred."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0146",
+      "reading_order": 653,
+      "section": "7. 3 .1Thermistor or Related Abnormality (indoor unit)",
+      "bbox": {
+        "l": 136.93358580118843,
+        "t": 513.3010864257812,
+        "r": 507.2116466073053,
+        "b": 217.30584716796875
+      },
+      "image_path": "figures/figure_0146.png",
+      "previous_block_id": "txt_0467",
+      "next_block_id": "txt_0468",
+      "image_hash": "8a28ada6610f533ae386dfa68b7c856c12945c92aa54f25fde3536c98c33e6b3",
+      "width": 370,
+      "height": 296
+    },
+    {
+      "type": "heading",
+      "id": "txt_0468",
+      "reading_order": 654,
+      "section": "Thermistor resistance check method:",
+      "bbox": {
+        "l": 77.0062,
+        "t": 204.54561519999993,
+        "r": 256.9763882299999,
+        "b": 195.29283799999996
+      },
+      "content": "Thermistor resistance check method:",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0469",
+      "reading_order": 655,
+      "section": "Thermistor resistance check method:",
+      "bbox": {
+        "l": 103.0357098,
+        "t": 191.2060282,
+        "r": 550.6493883400007,
+        "b": 159.03314264000005
+      },
+      "content": "Remove the connector of the thermistor on the PCB, and measure the resistance of thermistor using tester.The relationship between normal temperature and resistance is shown in the value of indoor thermistor."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0147",
+      "reading_order": 656,
+      "section": "Thermistor resistance check method:",
+      "bbox": {
+        "l": 151.2137350283563,
+        "t": 156.703125,
+        "r": 438.5205810657569,
+        "b": 103.4005126953125
+      },
+      "image_path": "figures/figure_0147.png",
+      "previous_block_id": "txt_0469",
+      "image_hash": "2a9939c5db5398003e1b53e251a46c3325cc3f22c3bfe9bcf6f9823bfc3c6056",
+      "width": 288,
+      "height": 54
+    },
+    {
+      "type": "figure",
+      "id": "fig_0148",
+      "reading_order": 657,
+      "section": "Thermistor resistance check method:",
+      "bbox": {
+        "l": 60.444239599018225,
+        "t": 63.03076171875,
+        "r": 92.38575054226176,
+        "b": 52.42901611328125
+      },
+      "image_path": "figures/figure_0148.png",
+      "previous_block_id": "txt_0469",
+      "width": 31,
+      "height": 10,
+      "decorative": true,
+      "image_hash": "7051a27e2c90d9334291cc60f784f38ec96653489f7874898a3c6b9c79af5610"
+    }
+  ],
+  "page_stats": {
+    "block_count": 20,
+    "text_blocks": 17,
+    "paragraphs": 10,
+    "headings": 2,
+    "list_items": 5,
+    "captions": 0,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 3,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

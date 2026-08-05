@@ -1,0 +1,141 @@
+{
+  "page": 104,
+  "document_id": "doc_27a62e0f",
+  "page_bbox": {
+    "width": 594.9600219726562,
+    "height": 842.52001953125
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_1407",
+      "reading_order": 1825,
+      "section": "6.18 Technical Data Summary Sheet",
+      "bbox": {
+        "l": 49.56,
+        "t": 787.02447953125,
+        "r": 308.79456000000005,
+        "b": 774.2523086051509
+      },
+      "content": "6.18 Technical Data Summary Sheet",
+      "level": 2
+    },
+    {
+      "type": "table",
+      "id": "tbl_0057",
+      "reading_order": 1826,
+      "section": "6.18 Technical Data Summary Sheet",
+      "bbox": {
+        "l": 35.24217308883383,
+        "t": 758.5030795870391,
+        "r": 163.92019884692147,
+        "b": 688.6566708707566
+      },
+      "markdown": "| Fuse Ratings   | Fuse Ratings   |\n|----------------|----------------|\n| F1 - F4        | 25A            |\n| F5 - F6        | 13A (*12A)     |\n| F7             | 3A             |\n| VFD Board      | 6.3A           |"
+    },
+    {
+      "type": "table",
+      "id": "tbl_0058",
+      "reading_order": 1827,
+      "section": "6.18 Technical Data Summary Sheet",
+      "bbox": {
+        "l": 35.179509452804375,
+        "t": 675.9498443500108,
+        "r": 163.92736999591924,
+        "b": 618.9663164394146
+      },
+      "markdown": "| Overheat Thermostat settings   | Overheat Thermostat settings   |\n|--------------------------------|--------------------------------|\n| Cavity Stat                    | 300 o C                        |\n| Mag Stat                       | 125 o C                        |\n| Fan IP                         | 160 o C                        |"
+    },
+    {
+      "type": "table",
+      "id": "tbl_0059",
+      "reading_order": 1828,
+      "section": "6.18 Technical Data Summary Sheet",
+      "bbox": {
+        "l": 35.48756751887297,
+        "t": 607.153938850589,
+        "r": 163.88510599012386,
+        "b": 578.1137965084854
+      },
+      "markdown": "| Current Draws @ 230VAC   | Current Draws @ 230VAC   |\n|--------------------------|--------------------------|\n| Magnetron                | 7 - 8A                   |"
+    },
+    {
+      "type": "table",
+      "id": "tbl_0060",
+      "reading_order": 1829,
+      "section": "6.18 Technical Data Summary Sheet",
+      "bbox": {
+        "l": 35.42209263985875,
+        "t": 565.9478758249878,
+        "r": 164.06969441687923,
+        "b": 509.5136260571641
+      },
+      "markdown": "| Circuit Breaker Ratings   | Circuit Breaker Ratings   |\n|---------------------------|---------------------------|\n| X12 SP                    | D16                       |\n| X12 & X16 HP 1ph          | D32                       |\n| X12 & X16 HP 2ph          | D16                       |"
+    },
+    {
+      "type": "table",
+      "id": "tbl_0061",
+      "reading_order": 1830,
+      "section": "6.18 Technical Data Summary Sheet",
+      "bbox": {
+        "l": 35.25809837982622,
+        "t": 497.7249318754051,
+        "r": 163.9470372534897,
+        "b": 330.5474061662616
+      },
+      "markdown": "| Component Resistances   | Component Resistances   |\n|-------------------------|-------------------------|\n| EMI Filter L - N        | 330k Ω                  |\n| Cooling Fan             | 220 Ω                   |\n| Stirrer Motor           | 7-8 Ω                   |\n| Convection Fan          | 7.5 Ω ± 10%             |\n| X12 Heater Element      | 19 Ω                    |\n| X16 Heater Element      | 26 Ω                    |\n| Magnetron               | <1 Ω                    |\n| HV Transformer Pri      | 0.6 Ω *                 |\n| HV Transformer Sec      | 57 Ω *                  |\n| Capacitor               | 10M Ω                   |\n| Relay Coil              | 295 Ω                   |"
+    },
+    {
+      "type": "table",
+      "id": "tbl_0062",
+      "reading_order": 1831,
+      "section": "6.18 Technical Data Summary Sheet",
+      "bbox": {
+        "l": 35.543273614598206,
+        "t": 303.75621148901485,
+        "r": 163.87714143740718,
+        "b": 275.48520799778396
+      },
+      "markdown": "| Maximum Cavity Temperature   |\n|------------------------------|\n| 275 o C                      |"
+    },
+    {
+      "type": "table",
+      "id": "tbl_0063",
+      "reading_order": 1832,
+      "section": "6.18 Technical Data Summary Sheet",
+      "bbox": {
+        "l": 177.13400211443482,
+        "t": 759.3647331764628,
+        "r": 349.42403040075004,
+        "b": 220.25794273459337
+      },
+      "markdown": "| Component Torque Settings (Nm)   |   Component Torque Settings (Nm) |\n|----------------------------------|----------------------------------|\n| USB Assembly                     |                              2.1 |\n| Door Switches                    |                              1.0 |\n| Door Skin                        |                              2.1 |\n| Door Handle                      |                              2.1 |\n| Fuse Bracket                     |                              2.1 |\n| On/Off Switch PCB                |                              1.0 |\n| Air Filter Assembly              |                              1.0 |\n| Cavity to Base                   |                              2.1 |\n| Cooling Fan                      |                              2.1 |\n| Door Choke                       |                              2.3 |\n| Door Hinges                      |                              3.5 |\n| Mains Filter Bracket             |                              2.1 |\n| Cavity Overheat Thermostat       |                              0.7 |\n| Panels                           |                              2.1 |\n| Partition Plate                  |                              2.1 |\n| Stirrers                         |                              1.0 |\n| Impinger Plate                   |                              1.2 |\n| VFD Bracket                      |                              2.8 |\n| Waveguides                       |                              2.1 |\n| Heating Element Wiring           |                              2.0 |\n| Mains Filter Wiring              |                              1.2 |\n| Magnetron                        |                              2.1 |\n| Convection Fan Motor Assembly    |                              2.1 |\n| Door Switch Bracket              |                              2.8 |\n| UI to panel                      |                              0.8 |\n| IO Bracket                       |                              2.1 |\n| HV Transformer to Base           |                              3.5 |\n| Voltage Selection Relay to Base  |                              0.8 |\n| Speaker                          |                              2.1 |\n| Cavity Thermocouple              |                              1.7 |\n| LV Transformer                   |                              2.1 |\n| Steam Vent Pipe                  |                              2.1 |\n| Front Panel                      |                              2.1 |\n| Mains Filter to Bracket          |                              2.8 |\n| Fuse Holder                      |                              1.0 |\n| VFD to Bracket                   |                              2.8 |\n| Cook Plate Studs                 |                              8.0 |\n| Heating Element                  |                              2.1 |"
+    },
+    {
+      "type": "table",
+      "id": "tbl_0064",
+      "reading_order": 1833,
+      "section": "6.18 Technical Data Summary Sheet",
+      "bbox": {
+        "l": 360.575899464947,
+        "t": 758.9520425645287,
+        "r": 564.0484027736703,
+        "b": 274.92522428401287
+      },
+      "markdown": "| Error Codes   | Error Codes                                   |\n|---------------|-----------------------------------------------|\n| E81           | Firmware updated                              |\n| E82           | Menu updated                                  |\n| E83           | Incompatible IO version                       |\n| E84           | Date not set                                  |\n| E86           | Oven switched on                              |\n| E87           | Touch screen held for 15 sec                  |\n| E88           | Supply voltage <180V                          |\n| E89           | Recommission test failure cooling fan         |\n| E90           | Recommission test failure convection fan      |\n| E92           | Recommission test failure heater(s)           |\n| E93           | Recommission test failure magnetron(s)        |\n| E94           | Recommission test failure air filter in       |\n| E95           | Recommission test failure air filter out      |\n| E96           | Recommission test failure door switches close |\n| E97           | Recommission test failure door switches open  |\n| E98           | Incomplete cleaning cycle                     |\n| E99           | Filter override accepted                      |\n| E100          | Mains supply switched on                      |\n| E101          | Magnetron(s) failed on request.               |\n| E102          | Heater on without request.                    |\n| E103          | Ambient Overheat. UI or IO >70 o C            |\n| E104          | Safety circuit open (Overheat Thermostats)    |\n| E105          | Supply frequency out of range by ± 2Hz        |\n| E106          | Cavity 75 o C above setpoint or 300 o C       |\n| E107          | Communication fault between UI & IO           |\n| E108          | Missing or corrupt UI uSD                     |\n| E109          | Missing or corrupt IO PM                      |\n| E110          | Incompatible IO firmware                      |\n| E111          | Cavity sensor open circuit                    |\n| E112          | IO temperature sensor failure                 |\n| E113          | Magnetron(s) on without request. >1A          |\n| E116          | Heater off on request.                        |\n| E117          | RH Mag Stat open circuit                      |\n| E118          | LH Mag Stat open circuit                      |"
+    },
+    {
+      "type": "footnote",
+      "id": "txt_1408",
+      "reading_order": 1834,
+      "section": "6.18 Technical Data Summary Sheet",
+      "bbox": {
+        "l": 36.0,
+        "t": 175.62601953125,
+        "r": 470.214,
+        "b": 167.55672945491415
+      },
+      "content": "* see section 3.1 'Technical data, checks and verification' for non-EU model specific readings where they differ."
+    }
+  ]
+}

@@ -1,0 +1,199 @@
+{
+  "page": 497,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_3905",
+      "reading_order": 5348,
+      "section": "Post service test",
+      "bbox": {
+        "l": 122.0,
+        "t": 732.29,
+        "r": 529.2400000000002,
+        "b": 708.7
+      },
+      "content": "M507/E50145 only: Pass the FFC through the opening in the cover, and then remove the control panel."
+    },
+    {
+      "type": "figure",
+      "id": "fig_1403",
+      "reading_order": 5349,
+      "section": "Post service test",
+      "bbox": {
+        "l": 127.8512359418022,
+        "t": 698.7003479003906,
+        "r": 142.17179547212862,
+        "b": 685.4311294555664
+      },
+      "image_path": "figures/figure_1403.png",
+      "decorative": true,
+      "width": 14,
+      "height": 13,
+      "image_hash": "ced0fbc060a1844dc39891c7e44f57eb304665731bfdb2e8df57a2565f2d915a",
+      "previous_block_id": "txt_3905",
+      "next_block_id": "txt_3906"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_3906",
+      "reading_order": 5350,
+      "section": "Post service test",
+      "bbox": {
+        "l": 144.0,
+        "t": 691.405,
+        "r": 181.75,
+        "b": 679.815
+      },
+      "content": "CAUTION:",
+      "severity": "caution"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_3907",
+      "reading_order": 5351,
+      "section": "Post service test",
+      "bbox": {
+        "l": 210.61,
+        "t": 691.405,
+        "r": 287.09,
+        "b": 679.815
+      },
+      "content": "ESD sensitive part."
+    },
+    {
+      "type": "figure",
+      "id": "fig_1404",
+      "reading_order": 5352,
+      "section": "Post service test",
+      "bbox": {
+        "l": 190.84587280546012,
+        "t": 695.8260650634766,
+        "r": 210.4690355886682,
+        "b": 674.2871017456055
+      },
+      "image_path": "figures/figure_1404.png",
+      "decorative": true,
+      "width": 19,
+      "height": 21,
+      "image_hash": "d7bb176ebc38a6f874a531671bd8758ffc4da9ef58f59e55d1e6f5bd91de5d02",
+      "previous_block_id": "txt_3907",
+      "next_block_id": "txt_3908"
+    },
+    {
+      "type": "caption",
+      "id": "txt_3908",
+      "reading_order": 5353,
+      "section": "Post service test",
+      "bbox": {
+        "l": 144.0,
+        "t": 662.29,
+        "r": 369.67999000000003,
+        "b": 650.7
+      },
+      "content": "Figure 1-807  Remove the control panel (M507/E50145)",
+      "caption_for": "fig_1405"
+    },
+    {
+      "type": "figure",
+      "id": "fig_1405",
+      "reading_order": 5354,
+      "section": "Post service test",
+      "bbox": {
+        "l": 142.9275889694941,
+        "t": 649.9041290283203,
+        "r": 432.7817388590269,
+        "b": 432.6416015625
+      },
+      "image_path": "figures/figure_1405.png",
+      "caption": "Remove the control panel (M507/E50145)",
+      "figure_number": "Figure 1-807",
+      "image_hash": "4c4c25d93c687ec48b5d061ce9b8c202968d751d8c2a34f18279f3942dc92852",
+      "width": 290,
+      "height": 217,
+      "previous_block_id": "txt_3908",
+      "next_block_id": "txt_3909",
+      "caption_id": "txt_3908"
+    },
+    {
+      "type": "heading",
+      "id": "txt_3909",
+      "reading_order": 5355,
+      "section": "2. Remove the tray.",
+      "bbox": {
+        "l": 100.0,
+        "t": 421.42,
+        "r": 190.53,
+        "b": 409.83
+      },
+      "content": "2. Remove the tray.",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_3910",
+      "reading_order": 5356,
+      "section": "2. Remove the tray.",
+      "bbox": {
+        "l": 122.0,
+        "t": 400.42,
+        "r": 349.0600000000001,
+        "b": 388.83
+      },
+      "content": "Pull the tray straight out of the printer until it stops."
+    },
+    {
+      "type": "figure",
+      "id": "fig_1406",
+      "reading_order": 5357,
+      "section": "2. Remove the tray.",
+      "bbox": {
+        "l": 142.84172240930508,
+        "t": 367.7025451660156,
+        "r": 432.67610621322416,
+        "b": 149.98382568359375
+      },
+      "image_path": "figures/figure_1406.png",
+      "caption": "Pull the tray out until it stops",
+      "figure_number": "Figure 1-808",
+      "image_hash": "68f78e160973c564c7d6f1db450930a219215ca486a5224e166ed51157148ed6",
+      "width": 290,
+      "height": 218,
+      "previous_block_id": "txt_3910",
+      "next_block_id": "txt_3911",
+      "caption_id": "txt_3911"
+    },
+    {
+      "type": "caption",
+      "id": "txt_3911",
+      "reading_order": 5358,
+      "section": "2. Remove the tray.",
+      "bbox": {
+        "l": 144.00006000000002,
+        "t": 379.42,
+        "r": 315.8300499999999,
+        "b": 367.83
+      },
+      "content": "Figure 1-808  Pull the tray out until it stops",
+      "caption_for": "fig_1406"
+    }
+  ],
+  "page_stats": {
+    "block_count": 11,
+    "text_blocks": 7,
+    "paragraphs": 1,
+    "headings": 1,
+    "list_items": 2,
+    "captions": 2,
+    "admonitions": 1,
+    "references": 0,
+    "figures": 4,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

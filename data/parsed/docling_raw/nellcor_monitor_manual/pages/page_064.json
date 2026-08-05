@@ -1,0 +1,135 @@
+{
+  "page": 64,
+  "document_id": "doc_f7e949ab",
+  "page_bbox": {
+    "width": 612.0,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0070",
+      "reading_order": 787,
+      "section": "B1. SMPS Bracket Disassembly",
+      "bbox": {
+        "l": 136.83062744140625,
+        "t": 699.0708541870117,
+        "r": 324.49609375,
+        "b": 556.7171325683594
+      },
+      "image_path": "figures/figure_0070.png",
+      "previous_block_id": "txt_0693",
+      "next_block_id": "txt_0694"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0694",
+      "reading_order": 788,
+      "section": "B1. SMPS Bracket Disassembly",
+      "bbox": {
+        "l": 139.5,
+        "t": 551.81625,
+        "r": 358.3125,
+        "b": 538.6875
+      },
+      "content": "B1-2. Rear Communication PCB Disassembly"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0071",
+      "reading_order": 789,
+      "section": "B1. SMPS Bracket Disassembly",
+      "bbox": {
+        "l": 138.06829833984375,
+        "t": 533.7493286132812,
+        "r": 322.57501220703125,
+        "b": 393.4645690917969
+      },
+      "image_path": "figures/figure_0071.png",
+      "previous_block_id": "txt_0694",
+      "next_block_id": "txt_0695"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0072",
+      "reading_order": 790,
+      "section": "B1. SMPS Bracket Disassembly",
+      "bbox": {
+        "l": 136.85629272460938,
+        "t": 389.8352966308594,
+        "r": 323.4002380371094,
+        "b": 248.8499755859375
+      },
+      "image_path": "figures/figure_0072.png",
+      "previous_block_id": "txt_0694",
+      "next_block_id": "txt_0695"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0695",
+      "reading_order": 791,
+      "section": "B1. SMPS Bracket Disassembly",
+      "bbox": {
+        "l": 139.5,
+        "t": 242.81624999999997,
+        "r": 313.3125,
+        "b": 229.6875
+      },
+      "content": "B1-3. AC Inlet Bracket Disassembly"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0073",
+      "reading_order": 792,
+      "section": "B1. SMPS Bracket Disassembly",
+      "bbox": {
+        "l": 135.98199462890625,
+        "t": 225.246826171875,
+        "r": 322.97271728515625,
+        "b": 83.57452392578125
+      },
+      "image_path": "figures/figure_0073.png",
+      "previous_block_id": "txt_0695",
+      "next_block_id": "txt_0696"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0696",
+      "reading_order": 793,
+      "section": "B1. SMPS Bracket Disassembly",
+      "bbox": {
+        "l": 342.75,
+        "t": 532.50375,
+        "r": 490.3131000000006,
+        "b": 501.74625
+      },
+      "content": "Remove 6 screws on the Rear communication PCB."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0697",
+      "reading_order": 794,
+      "section": "B1. SMPS Bracket Disassembly",
+      "bbox": {
+        "l": 342.75,
+        "t": 496.50375,
+        "r": 537.5612999999995,
+        "b": 429.74625
+      },
+      "content": "Disconnect the Main board cable, the SMPS to Rear board DC wire, the Speaker wires and the Fan wire from the Rear communication PCB."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0698",
+      "reading_order": 795,
+      "section": "B1. SMPS Bracket Disassembly",
+      "bbox": {
+        "l": 342.0,
+        "t": 223.50374999999997,
+        "r": 504.56374999999997,
+        "b": 192.74625000000003
+      },
+      "content": "Remove 3 screws on the AC inlet bracket."
+    }
+  ]
+}

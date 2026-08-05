@@ -1,0 +1,121 @@
+{
+  "page": 49,
+  "document_id": "doc_e02482e6",
+  "page_bbox": {
+    "width": 595.0,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0342",
+      "reading_order": 519,
+      "section": "Text on figure",
+      "bbox": {
+        "l": 90.57,
+        "t": 579.541,
+        "r": 152.8014,
+        "b": 567.364
+      },
+      "content": "Text on figure",
+      "level": 2
+    },
+    {
+      "type": "table",
+      "id": "tbl_0035",
+      "reading_order": 520,
+      "section": "Text on figure",
+      "bbox": {
+        "l": 86.015869140625,
+        "t": 556.7164001464844,
+        "r": 556.0357055664062,
+        "b": 505.1759948730469
+      },
+      "markdown": "| (1)   | Configuration     |\n|-------|-------------------|\n| (2)   | Pressure Settings |\n| (3)   | Main screen       |"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0343",
+      "reading_order": 521,
+      "section": "Text on figure",
+      "bbox": {
+        "l": 90.57,
+        "t": 481.26099999999997,
+        "r": 514.9983999999995,
+        "b": 469.084
+      },
+      "content": "Using the scroll keys (1), move the cursor to the service icon (see above, section Menu icon)"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0344",
+      "reading_order": 522,
+      "section": "Text on figure",
+      "bbox": {
+        "l": 90.57,
+        "t": 462.121,
+        "r": 324.4882999999997,
+        "b": 449.944
+      },
+      "content": "Press the enter key (2), following screen appears:"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0345",
+      "reading_order": 523,
+      "section": "Text on figure",
+      "bbox": {
+        "l": 90.57,
+        "t": 236.76099999999997,
+        "r": 448.2965999999991,
+        "b": 224.58400000000006
+      },
+      "content": "Scroll through the items to select the desired item and press the enter key (2)."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0145",
+      "reading_order": 524,
+      "section": "Text on figure",
+      "bbox": {
+        "l": 207.54376220703125,
+        "t": 427.9590759277344,
+        "r": 408.86566162109375,
+        "b": 258.3648681640625
+      },
+      "image_path": "figures/figure_0145.png",
+      "previous_block_id": "txt_0345",
+      "next_block_id": "txt_0346"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0146",
+      "reading_order": 525,
+      "section": "Text on figure",
+      "bbox": {
+        "l": 208.8856658935547,
+        "t": 771.0011444091797,
+        "r": 409.5925598144531,
+        "b": 604.8006591796875
+      },
+      "image_path": "figures/figure_0146.png",
+      "previous_block_id": "txt_0345",
+      "next_block_id": "txt_0346"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0147",
+      "reading_order": 526,
+      "section": "Text on figure",
+      "bbox": {
+        "l": 519.4282836914062,
+        "t": 815.9554233551025,
+        "r": 567.1669921875,
+        "b": 793.0236778259277
+      },
+      "image_path": "figures/figure_0147.png",
+      "previous_block_id": "txt_0345",
+      "next_block_id": "txt_0346"
+    }
+  ]
+}

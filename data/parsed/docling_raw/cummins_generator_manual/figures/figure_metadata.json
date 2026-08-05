@@ -1,0 +1,801 @@
+[
+  {
+    "id": "fig_0001",
+    "page": 1,
+    "section": "HDKAG (Spec A -K)",
+    "path": "figures/figure_0001.png",
+    "block_id": "#/pictures/0",
+    "reading_order": 3,
+    "bbox": {
+      "l": 506.5319519042969,
+      "t": 756.7477149963379,
+      "r": 579.1103515625,
+      "b": 692.8599395751953
+    },
+    "width": 72,
+    "height": 64,
+    "image_path": "figures/figure_0001.png",
+    "image_hash": "4ddd81125cdd93ab29cb82e236e2f5f0e28bd87f9d2ad5bf4cadd8fc5df7aaef",
+    "previous_block_id": "txt_0003",
+    "next_block_id": "txt_0004"
+  },
+  {
+    "id": "fig_0002",
+    "page": 12,
+    "section": "Control Components",
+    "path": "figures/figure_0002.png",
+    "block_id": "#/pictures/1",
+    "reading_order": 163,
+    "bbox": {
+      "l": 45.82026730377601,
+      "t": 740.2322999508651,
+      "r": 564.6201287413783,
+      "b": 404.1647337666346
+    },
+    "width": 519,
+    "height": 336,
+    "image_path": "figures/figure_0002.png",
+    "image_hash": "56283f1886e23daf6976469624155d69c682fd5c4dec11584578a95daa1b0410",
+    "previous_block_id": "txt_0160",
+    "next_block_id": "txt_0161"
+  },
+  {
+    "id": "fig_0003",
+    "page": 13,
+    "section": "Engine Monitors",
+    "path": "figures/figure_0003.png",
+    "block_id": "#/pictures/2",
+    "reading_order": 173,
+    "bbox": {
+      "l": 46.046890548530826,
+      "t": 740.7359199967968,
+      "r": 563.9176283632497,
+      "b": 179.94343592284827
+    },
+    "width": 518,
+    "height": 560,
+    "image_path": "figures/figure_0003.png",
+    "image_hash": "bab8ef207259098c7fd247d22b15a212ac3f46124be36a1af09a10e1beee7149",
+    "previous_block_id": "txt_0169",
+    "next_block_id": "txt_0170"
+  },
+  {
+    "id": "fig_0004",
+    "page": 15,
+    "section": "Control Operation",
+    "path": "figures/figure_0004.png",
+    "block_id": "#/pictures/3",
+    "reading_order": 242,
+    "bbox": {
+      "l": 46.07187624506233,
+      "t": 740.0443159987153,
+      "r": 564.2617027030199,
+      "b": 136.73109629448277
+    },
+    "width": 518,
+    "height": 604,
+    "image_path": "figures/figure_0004.png",
+    "image_hash": "8fa47f7f6ad61e76156e7ad6b1ac2b4148b15c464f7c7c5a5d367fe10ea493a1",
+    "previous_block_id": "txt_0237",
+    "next_block_id": "txt_0238"
+  },
+  {
+    "id": "fig_0005",
+    "page": 16,
+    "section": "Control Operation",
+    "path": "figures/figure_0005.png",
+    "block_id": "#/pictures/4",
+    "reading_order": 245,
+    "bbox": {
+      "l": 46.03894367713171,
+      "t": 666.9913293025703,
+      "r": 290.9515885170001,
+      "b": 260.644474827026
+    },
+    "width": 245,
+    "height": 407,
+    "image_path": "figures/figure_0005.png",
+    "image_hash": "5e791dc520763778a3d8debd02485d377708ada41926a442ca36a8c096822599",
+    "previous_block_id": "txt_0239",
+    "next_block_id": "txt_0240"
+  },
+  {
+    "id": "fig_0006",
+    "page": 17,
+    "section": "FLOW CHART A. ENGINE DOES NOT CRANK",
+    "path": "figures/figure_0006.png",
+    "block_id": "#/pictures/5",
+    "reading_order": 258,
+    "bbox": {
+      "l": 50.02988386863624,
+      "t": 672.5890236132768,
+      "r": 562.7827448957399,
+      "b": 410.97029329023104
+    },
+    "width": 513,
+    "height": 261,
+    "image_path": "figures/figure_0006.png",
+    "image_hash": "8f6cd88cba92dbe6bf66b9af26d3289fc68833c150af24168132efcd4c87edb6",
+    "previous_block_id": "txt_0251",
+    "next_block_id": "txt_0252"
+  },
+  {
+    "id": "fig_0007",
+    "page": 18,
+    "section": "FLOW CHART B. ENGINE CRANKS BUT DOES NOT START",
+    "path": "figures/figure_0007.png",
+    "block_id": "#/pictures/6",
+    "reading_order": 261,
+    "bbox": {
+      "l": 51.44264828311919,
+      "t": 645.4664034258005,
+      "r": 563.8029979877174,
+      "b": 388.278234855841
+    },
+    "width": 513,
+    "height": 257,
+    "image_path": "figures/figure_0007.png",
+    "image_hash": "3f8a995ed5418e53f3329ae6a08ef0a3c59bcf74a75c111c0f586166d1a68bf1",
+    "previous_block_id": "txt_0253",
+    "next_block_id": "txt_0254"
+  },
+  {
+    "id": "fig_0008",
+    "page": 19,
+    "section": "FLOW CHART C. ENGINE STARTS BUT STOPS AFTER RUNNING SEVERAL SECONDS",
+    "path": "figures/figure_0008.png",
+    "block_id": "#/pictures/7",
+    "reading_order": 264,
+    "bbox": {
+      "l": 51.59757028904963,
+      "t": 665.083970811385,
+      "r": 563.9467592578309,
+      "b": 447.0061131034921
+    },
+    "width": 512,
+    "height": 218,
+    "image_path": "figures/figure_0008.png",
+    "image_hash": "07217540b13c3331ffb7e7f63d561e1a0dee8912da2f928092bd1bd29fe4506f",
+    "previous_block_id": "txt_0255",
+    "next_block_id": "txt_0256"
+  },
+  {
+    "id": "fig_0009",
+    "page": 23,
+    "section": "GENERAL DESCRIPTION",
+    "path": "figures/figure_0009.png",
+    "block_id": "#/pictures/8",
+    "reading_order": 322,
+    "bbox": {
+      "l": 46.095472575028374,
+      "t": 549.8794416082303,
+      "r": 564.383600534433,
+      "b": 80.94274782405387
+    },
+    "width": 518,
+    "height": 468,
+    "image_path": "figures/figure_0009.png",
+    "image_hash": "9fd7373d8f450f3912f1a17fafeec32156c51a8142115689082a5a5644bd8cf0",
+    "previous_block_id": "txt_0312",
+    "next_block_id": "txt_0313"
+  },
+  {
+    "id": "fig_0010",
+    "page": 24,
+    "section": "GENERAL DESCRIPTION",
+    "path": "figures/figure_0010.png",
+    "block_id": "#/pictures/9",
+    "reading_order": 324,
+    "bbox": {
+      "l": 46.03280221887947,
+      "t": 740.1090943556528,
+      "r": 564.5034830209379,
+      "b": 270.8179898295608
+    },
+    "width": 519,
+    "height": 470,
+    "image_path": "figures/figure_0010.png",
+    "image_hash": "fc682d606292260b2637ea70b232a26154993565a22feb76656a95cc82567833",
+    "previous_block_id": "txt_0313",
+    "next_block_id": "txt_0314"
+  },
+  {
+    "id": "fig_0011",
+    "page": 25,
+    "section": "GENERAL DESCRIPTION",
+    "path": "figures/figure_0011.png",
+    "block_id": "#/pictures/10",
+    "reading_order": 326,
+    "bbox": {
+      "l": 46.132977838413424,
+      "t": 739.9957360477902,
+      "r": 563.4807260155898,
+      "b": 285.18400650511427
+    },
+    "width": 517,
+    "height": 455,
+    "image_path": "figures/figure_0011.png",
+    "image_hash": "365a3035ac4fcdf3ab126a21f3562906054d7a27a94be4e360f047a302521d40",
+    "previous_block_id": "txt_0314",
+    "next_block_id": "txt_0315"
+  },
+  {
+    "id": "fig_0012",
+    "page": 26,
+    "section": "GENERAL DESCRIPTION",
+    "path": "figures/figure_0012.png",
+    "block_id": "#/pictures/11",
+    "reading_order": 328,
+    "bbox": {
+      "l": 45.94024139686771,
+      "t": 740.412020578553,
+      "r": 563.9407132231064,
+      "b": 155.0395393457094
+    },
+    "width": 518,
+    "height": 585,
+    "image_path": "figures/figure_0012.png",
+    "image_hash": "75312000cd1a400ed4de15ca988b0aec282bc2a0d1d8fa62797aae7aca53687c",
+    "previous_block_id": "txt_0315",
+    "next_block_id": "txt_0316"
+  },
+  {
+    "id": "fig_0013",
+    "page": 27,
+    "section": "ELECTRONIC VOLTAGE REGULATOR",
+    "path": "figures/figure_0013.png",
+    "block_id": "#/pictures/12",
+    "reading_order": 341,
+    "bbox": {
+      "l": 45.96015056171774,
+      "t": 398.0335531218137,
+      "r": 564.5690122659812,
+      "b": 125.08821334825313
+    },
+    "width": 519,
+    "height": 273,
+    "image_path": "figures/figure_0013.png",
+    "image_hash": "c6f593d0130af309f52c77bd2eb9d8db095cc2faf563f71103b481baa32a496f",
+    "previous_block_id": "txt_0327",
+    "next_block_id": "txt_0328"
+  },
+  {
+    "id": "fig_0014",
+    "page": 29,
+    "section": "Generator Set Bearing",
+    "path": "figures/figure_0014.png",
+    "block_id": "#/pictures/13",
+    "reading_order": 364,
+    "bbox": {
+      "l": 46.11724440714198,
+      "t": 739.9298126574399,
+      "r": 290.63044635944215,
+      "b": 469.6841257946857
+    },
+    "width": 245,
+    "height": 270,
+    "image_path": "figures/figure_0014.png",
+    "image_hash": "ada0faa32c8074b07ab28a876dbbc4d57bde859e80c5fa47bbb914a4247b5f6d",
+    "previous_block_id": "txt_0349",
+    "next_block_id": "txt_0350"
+  },
+  {
+    "id": "fig_0015",
+    "page": 29,
+    "section": "Generator Set Bearing",
+    "path": "figures/figure_0015.png",
+    "block_id": "#/pictures/14",
+    "reading_order": 366,
+    "bbox": {
+      "l": 319.78668542962305,
+      "t": 739.9570644526634,
+      "r": 563.959767393147,
+      "b": 401.3379058114516
+    },
+    "width": 244,
+    "height": 339,
+    "image_path": "figures/figure_0015.png",
+    "image_hash": "574ca7c3a5da0d8f078ffa3c889a403e0290794373164c4492e8c89f1d34a1a0",
+    "previous_block_id": "txt_0350",
+    "next_block_id": "txt_0351"
+  },
+  {
+    "id": "fig_0016",
+    "page": 31,
+    "section": "Note that the brushes may be secured (as described in the last two steps) at any convenient point during this procedure.",
+    "path": "figures/figure_0016.png",
+    "block_id": "#/pictures/15",
+    "reading_order": 387,
+    "bbox": {
+      "l": 45.884578944603895,
+      "t": 740.634038740508,
+      "r": 564.3437822047329,
+      "b": 252.8041409747675
+    },
+    "width": 518,
+    "height": 488,
+    "image_path": "figures/figure_0016.png",
+    "image_hash": "7681ec566151bd314b9b49179e42c6b8ba7ac2f9996c6e70e3e0ecac054b252b",
+    "previous_block_id": "txt_0370",
+    "next_block_id": "txt_0371"
+  },
+  {
+    "id": "fig_0017",
+    "page": 32,
+    "section": "Rotor Reassembly",
+    "path": "figures/figure_0017.png",
+    "block_id": "#/pictures/16",
+    "reading_order": 402,
+    "bbox": {
+      "l": 46.04171095943928,
+      "t": 463.55932680275197,
+      "r": 564.4107771551638,
+      "b": 106.89396829605857
+    },
+    "width": 518,
+    "height": 357,
+    "image_path": "figures/figure_0017.png",
+    "image_hash": "6f5c30ee0c9fd7a2b39639c49d15d43f8055c7ee6677c4b3a4cdbd85f1e3126a",
+    "previous_block_id": "txt_0384",
+    "next_block_id": "txt_0385"
+  },
+  {
+    "id": "fig_0018",
+    "page": 34,
+    "section": "FLOW CHART A. NO AC OUTPUT VOLTAGE AT RATED ENGINE RPM",
+    "path": "figures/figure_0018.png",
+    "block_id": "#/pictures/17",
+    "reading_order": 421,
+    "bbox": {
+      "l": 44.945336610827525,
+      "t": 643.320488673402,
+      "r": 565.1046665141396,
+      "b": 276.5679506834954
+    },
+    "width": 520,
+    "height": 367,
+    "image_path": "figures/figure_0018.png",
+    "image_hash": "e0223158e62c2bfd98300c95292072c059f2a0122b86cd2a348f95a7ef74fed7",
+    "previous_block_id": "txt_0402",
+    "next_block_id": "txt_0403"
+  },
+  {
+    "id": "fig_0019",
+    "page": 35,
+    "section": "FLOW CHART C. OUTPUT VOLTAGE TOO HIGH OR TOO LOW",
+    "path": "figures/figure_0019.png",
+    "block_id": "#/pictures/18",
+    "reading_order": 424,
+    "bbox": {
+      "l": 47.412355428730486,
+      "t": 647.0616334422251,
+      "r": 564.7893566426036,
+      "b": 373.0212295140431
+    },
+    "width": 518,
+    "height": 274,
+    "image_path": "figures/figure_0019.png",
+    "image_hash": "2f1f141195da4e82395af790e5a2462c4fa6f26b3f482f2e3261f7f85a85fb81",
+    "previous_block_id": "txt_0404",
+    "next_block_id": "txt_0405"
+  },
+  {
+    "id": "fig_0020",
+    "page": 36,
+    "section": "FLOW CHART B. UNSTABLE VOLTAGE, ENGINE SPEED STABLE",
+    "path": "figures/figure_0020.png",
+    "block_id": "#/pictures/19",
+    "reading_order": 427,
+    "bbox": {
+      "l": 45.5667040886394,
+      "t": 642.9994060373535,
+      "r": 564.2573055868567,
+      "b": 406.6513799284444
+    },
+    "width": 518,
+    "height": 237,
+    "image_path": "figures/figure_0020.png",
+    "image_hash": "51632cf5f03efb29fd1a0ef5b7f18d1915655bdaa0ed393d96b4dd7c54505492",
+    "previous_block_id": "txt_0406",
+    "next_block_id": "txt_0407"
+  },
+  {
+    "id": "fig_0021",
+    "page": 37,
+    "section": "FLOW CHART D. UNBALANCED GENERATOR OUTPUT VOLTAGE",
+    "path": "figures/figure_0021.png",
+    "block_id": "#/pictures/20",
+    "reading_order": 430,
+    "bbox": {
+      "l": 45.0262214099719,
+      "t": 645.4979452795438,
+      "r": 565.1235985420644,
+      "b": 388.1117317305144
+    },
+    "width": 520,
+    "height": 257,
+    "image_path": "figures/figure_0021.png",
+    "image_hash": "dd33b08f0580b6f79f4a794e2569129e36b60c0624740e5763fb61cdffc5d9fa",
+    "previous_block_id": "txt_0408",
+    "next_block_id": "txt_0409"
+  },
+  {
+    "id": "fig_0022",
+    "page": 39,
+    "section": "[A] TESTING FIELD VOLTAGE",
+    "path": "figures/figure_0022.png",
+    "block_id": "#/pictures/21",
+    "reading_order": 438,
+    "bbox": {
+      "l": 46.0037323953561,
+      "t": 383.78442145703417,
+      "r": 290.65350068377006,
+      "b": 76.472720586008
+    },
+    "width": 245,
+    "height": 307,
+    "image_path": "figures/figure_0022.png",
+    "image_hash": "97476fef3a61f1b6e7064a6bed5cd97cba9be3cc36c1516e13b985c8b65bd685",
+    "previous_block_id": "txt_0415",
+    "next_block_id": "txt_0416"
+  },
+  {
+    "id": "fig_0023",
+    "page": 39,
+    "section": "[B] TESTING GENERATOR SET ROTOR",
+    "path": "figures/figure_0023.png",
+    "block_id": "#/pictures/22",
+    "reading_order": 442,
+    "bbox": {
+      "l": 319.4518633551129,
+      "t": 559.440653810073,
+      "r": 563.9203154897939,
+      "b": 317.8294892529957
+    },
+    "width": 245,
+    "height": 242,
+    "image_path": "figures/figure_0023.png",
+    "image_hash": "03430a354b6165b0b0cc002cf2448c8ae7dfa6f210493c7fa0a5a762b5f4b34f",
+    "previous_block_id": "txt_0418",
+    "next_block_id": "txt_0419"
+  },
+  {
+    "id": "fig_0024",
+    "page": 40,
+    "section": "25.5 ohms",
+    "path": "figures/figure_0024.png",
+    "block_id": "#/pictures/23",
+    "reading_order": 462,
+    "bbox": {
+      "l": 45.95972306431299,
+      "t": 468.871121537406,
+      "r": 291.0393170915617,
+      "b": 225.0937217016318
+    },
+    "width": 245,
+    "height": 243,
+    "image_path": "figures/figure_0024.png",
+    "image_hash": "2093b07b3a3b23344037231063c59432ec989ee406f5e0c1f0af5969ef8612d1",
+    "previous_block_id": "txt_0437",
+    "next_block_id": "txt_0438"
+  },
+  {
+    "id": "fig_0025",
+    "page": 40,
+    "section": "Testing for Grounds",
+    "path": "figures/figure_0025.png",
+    "block_id": "#/pictures/24",
+    "reading_order": 470,
+    "bbox": {
+      "l": 319.5652112384309,
+      "t": 418.1664771458106,
+      "r": 564.0770238241656,
+      "b": 231.62847318955596
+    },
+    "width": 244,
+    "height": 187,
+    "image_path": "figures/figure_0025.png",
+    "image_hash": "a3ae3ace98a2e3fbe2b3f8ab404b5d62bf058d0904ff872b2eb7e66746988bf5",
+    "previous_block_id": "txt_0444",
+    "next_block_id": "txt_0445"
+  },
+  {
+    "id": "fig_0026",
+    "page": 41,
+    "section": "Testing for Open or Shorted Windings",
+    "path": "figures/figure_0026.png",
+    "block_id": "#/pictures/25",
+    "reading_order": 494,
+    "bbox": {
+      "l": 45.589025560273406,
+      "t": 324.25043968680416,
+      "r": 291.1836890722534,
+      "b": 97.85534934379689
+    },
+    "width": 245,
+    "height": 227,
+    "image_path": "figures/figure_0026.png",
+    "image_hash": "b2d322c7e138a063a9baed6ae5f29dd94316fad25986820c1ed9af02ed74a17e",
+    "previous_block_id": "txt_0467",
+    "next_block_id": "txt_0468"
+  },
+  {
+    "id": "fig_0027",
+    "page": 42,
+    "section": "[D] DYNAMIC ROTOR/STATOR TEST",
+    "path": "figures/figure_0027.png",
+    "block_id": "#/pictures/26",
+    "reading_order": 507,
+    "bbox": {
+      "l": 46.11264499309975,
+      "t": 740.5391231041467,
+      "r": 564.5054372947883,
+      "b": 373.2908772491906
+    },
+    "width": 519,
+    "height": 367,
+    "image_path": "figures/figure_0027.png",
+    "image_hash": "834832a39ebe3766520a691a16d57c8f392509dbbf2f3954710e81b2c7ea6105",
+    "previous_block_id": "txt_0479",
+    "next_block_id": "txt_0480"
+  },
+  {
+    "id": "fig_0028",
+    "page": 44,
+    "section": "RECONNECTION",
+    "path": "figures/figure_0028.png",
+    "block_id": "#/pictures/27",
+    "reading_order": 538,
+    "bbox": {
+      "l": 45.97781536519281,
+      "t": 740.3889939566225,
+      "r": 564.1802949829429,
+      "b": 389.5905958179789
+    },
+    "width": 518,
+    "height": 351,
+    "image_path": "figures/figure_0028.png",
+    "image_hash": "9dc9603ef1ad45bffd4e03eac6f38b8e869f2f3f2237dfaeb6396ad9638ea92b",
+    "previous_block_id": "txt_0509",
+    "next_block_id": "txt_0510"
+  },
+  {
+    "id": "fig_0029",
+    "page": 47,
+    "section": "Oil Filter Change",
+    "path": "figures/figure_0029.png",
+    "block_id": "#/pictures/28",
+    "reading_order": 584,
+    "bbox": {
+      "l": 45.998529904617875,
+      "t": 482.02370813768357,
+      "r": 564.2780086754584,
+      "b": 164.3053329270615
+    },
+    "width": 518,
+    "height": 318,
+    "image_path": "figures/figure_0029.png",
+    "image_hash": "86fda79ca29260b97ba5a2aa083ce621e617d2eec7e8c336dbfedefe7d0ce629",
+    "previous_block_id": "txt_0553",
+    "next_block_id": "txt_0554"
+  },
+  {
+    "id": "fig_0030",
+    "page": 49,
+    "section": "Coolant Level",
+    "path": "figures/figure_0030.png",
+    "block_id": "#/pictures/29",
+    "reading_order": 601,
+    "bbox": {
+      "l": 45.84227578623869,
+      "t": 740.616893773541,
+      "r": 564.5753636559947,
+      "b": 317.25410232953067
+    },
+    "width": 519,
+    "height": 423,
+    "image_path": "figures/figure_0030.png",
+    "image_hash": "536459eed8f7c7c8190f48baf0faa3e63aef907e9aef770d85b36c9f325927c9",
+    "previous_block_id": "txt_0569",
+    "next_block_id": "txt_0570"
+  },
+  {
+    "id": "fig_0031",
+    "page": 50,
+    "section": "FAN BELT",
+    "path": "figures/figure_0031.png",
+    "block_id": "#/pictures/30",
+    "reading_order": 620,
+    "bbox": {
+      "l": 319.5934260671447,
+      "t": 397.4838149467944,
+      "r": 563.8936885085834,
+      "b": 128.8541824414649
+    },
+    "width": 244,
+    "height": 269,
+    "image_path": "figures/figure_0031.png",
+    "image_hash": "d0328e40fdfd279d3883cfbc016d53e4010ef38e697a9297d60bbc457fc203af",
+    "previous_block_id": "txt_0587",
+    "next_block_id": "txt_0588"
+  },
+  {
+    "id": "fig_0032",
+    "page": 52,
+    "section": "Low Pressure Fuel System",
+    "path": "figures/figure_0032.png",
+    "block_id": "#/pictures/31",
+    "reading_order": 640,
+    "bbox": {
+      "l": 45.961830015807855,
+      "t": 740.4918446745341,
+      "r": 564.4435112421565,
+      "b": 341.1662473001028
+    },
+    "width": 518,
+    "height": 399,
+    "image_path": "figures/figure_0032.png",
+    "image_hash": "75f79f42bf9351106c4c0d76aff0cddacac55a76d572d1a19dc3f02d3eaeddd5",
+    "previous_block_id": "txt_0606",
+    "next_block_id": "txt_0607"
+  },
+  {
+    "id": "fig_0033",
+    "page": 54,
+    "section": "AIR CLEANER",
+    "path": "figures/figure_0033.png",
+    "block_id": "#/pictures/32",
+    "reading_order": 665,
+    "bbox": {
+      "l": 46.01881694663818,
+      "t": 617.3418790021643,
+      "r": 290.971558752908,
+      "b": 377.1297315359021
+    },
+    "width": 245,
+    "height": 240,
+    "image_path": "figures/figure_0033.png",
+    "image_hash": "8f4bf5ad65052a9de9b71877d174c87df00c7f8d5c2070ef7f572eb2c2d75d24",
+    "previous_block_id": "txt_0630",
+    "next_block_id": "txt_0631"
+  },
+  {
+    "id": "fig_0034",
+    "page": 54,
+    "section": "BATTERY CARE",
+    "path": "figures/figure_0034.png",
+    "block_id": "#/pictures/33",
+    "reading_order": 677,
+    "bbox": {
+      "l": 319.6562987211727,
+      "t": 349.01482539293306,
+      "r": 562.3620874494607,
+      "b": 168.6155440349113
+    },
+    "width": 242,
+    "height": 181,
+    "image_path": "figures/figure_0034.png",
+    "image_hash": "b65ae4d0307b4e236721ea0ac3a2752ea7693d36d99332b1c1b255e2ce3552d5",
+    "previous_block_id": "txt_0641",
+    "next_block_id": "txt_0642"
+  },
+  {
+    "id": "fig_0035",
+    "page": 55,
+    "section": "CRANKCASE BREATHER",
+    "path": "figures/figure_0035.png",
+    "block_id": "#/pictures/34",
+    "reading_order": 691,
+    "bbox": {
+      "l": 46.05240221149928,
+      "t": 438.33631704703464,
+      "r": 564.7031853800165,
+      "b": 132.93898990523599
+    },
+    "width": 519,
+    "height": 305,
+    "image_path": "figures/figure_0035.png",
+    "image_hash": "e4c67db5a8d8eb92ee0c15e762a529e57022eceff71583d6b6b6a35dbc073254",
+    "previous_block_id": "txt_0654",
+    "next_block_id": "txt_0655"
+  },
+  {
+    "id": "fig_0036",
+    "page": 56,
+    "section": "MUFFLER/SPARK ARRESTER",
+    "path": "figures/figure_0036.png",
+    "block_id": "#/pictures/35",
+    "reading_order": 696,
+    "bbox": {
+      "l": 46.16001323232309,
+      "t": 535.8262327939291,
+      "r": 290.99287255208793,
+      "b": 363.1880184417788
+    },
+    "width": 245,
+    "height": 172,
+    "image_path": "figures/figure_0036.png",
+    "image_hash": "46fb4447779e65f7e7ec4ca2277668b7524016e9eda95a613ca5280371dfb1de",
+    "previous_block_id": "txt_0658",
+    "next_block_id": "txt_0659"
+  },
+  {
+    "id": "fig_0037",
+    "page": 61,
+    "section": "THIS PAGE LEFT INTENTIONALLY BLANK",
+    "path": "figures/figure_0037.png",
+    "block_id": "#/pictures/36",
+    "reading_order": 724,
+    "bbox": {
+      "l": 31.265275521666876,
+      "t": 740.3173682998768,
+      "r": 1191.2918154839108,
+      "b": 36.916304706332426
+    },
+    "width": 1160,
+    "height": 704,
+    "image_path": "figures/figure_0037.png",
+    "image_hash": "ffca8903bec8ee50dc439bc9be9eca3ed881cf74b608216b19591f7fcd9b44c6",
+    "previous_block_id": "txt_0683",
+    "next_block_id": "txt_0684"
+  },
+  {
+    "id": "fig_0038",
+    "page": 62,
+    "section": "THIS PAGE LEFT INTENTIONALLY BLANK",
+    "path": "figures/figure_0038.png",
+    "block_id": "#/pictures/37",
+    "reading_order": 726,
+    "bbox": {
+      "l": 52.220412187182475,
+      "t": 740.5078789590907,
+      "r": 1141.6804669567516,
+      "b": 63.350698744294846
+    },
+    "width": 1090,
+    "height": 677,
+    "image_path": "figures/figure_0038.png",
+    "image_hash": "358728614bde317cbb1c6065f790b8a044dfb257bc083525fef82e17cf990b6d",
+    "previous_block_id": "txt_0684",
+    "next_block_id": "txt_0685"
+  },
+  {
+    "id": "fig_0039",
+    "page": 63,
+    "section": "THIS PAGE LEFT INTENTIONALLY BLANK",
+    "path": "figures/figure_0039.png",
+    "block_id": "#/pictures/38",
+    "reading_order": 727,
+    "bbox": {
+      "l": 52.50797676801682,
+      "t": 740.1332087593254,
+      "r": 1157.1501409677096,
+      "b": 65.42342296095012
+    },
+    "width": 1104,
+    "height": 675,
+    "image_path": "figures/figure_0039.png",
+    "image_hash": "bccdeaaeaf67254855c7db2430f7a45d976baf0e2febf4b60b7849a7e71a87e0",
+    "previous_block_id": "txt_0684",
+    "next_block_id": "txt_0685"
+  },
+  {
+    "id": "fig_0040",
+    "page": 66,
+    "section": "THIS PAGE LEFT INTENTIONALLY BLANK",
+    "path": "figures/figure_0040.png",
+    "block_id": "#/pictures/39",
+    "reading_order": 729,
+    "bbox": {
+      "l": 487.18660775217796,
+      "t": 132.83755521197816,
+      "r": 558.4223935093512,
+      "b": 69.29247559553403
+    },
+    "width": 71,
+    "height": 63,
+    "image_path": "figures/figure_0040.png",
+    "image_hash": "fb6c0da949b368b6cb28f2afc2b9bdae4470f8ccee5f6c6175ca96581ddf2ea8",
+    "previous_block_id": "txt_0685"
+  }
+]

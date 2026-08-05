@@ -1,0 +1,306 @@
+{
+  "page": 266,
+  "document_id": "doc_229deb31",
+  "page_bbox": {
+    "width": 595.219970703125,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "paragraph",
+      "id": "txt_2156",
+      "reading_order": 2833,
+      "section": "Defrosting Mode Entry Conditions",
+      "bbox": {
+        "l": 101.61126252000001,
+        "t": 771.3587709999999,
+        "r": 254.38473471999998,
+        "b": 730.0088692859043
+      },
+      "content": "TE≤C×TA ˉ α Among which: C:TA ˘ 0 ć ˈ C=0.8 TA≥0 ć ˈ C=0.6"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_2157",
+      "reading_order": 2834,
+      "section": "Defrosting Mode Entry Conditions",
+      "bbox": {
+        "l": 101.60025218000004,
+        "t": 724.3071834000001,
+        "r": 424.1021192399997,
+        "b": 715.0347750000001
+      },
+      "content": "For area prone to frost, the value is set at 6 when unit leaves the factory."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_2158",
+      "reading_order": 2835,
+      "section": "Defrosting Mode Entry Conditions",
+      "bbox": {
+        "l": 101.60025218000004,
+        "t": 708.8665206000001,
+        "r": 359.48143284,
+        "b": 698.8271416859043
+      },
+      "content": "Defrosting entry temperature control -15 ć ≤C×TA ˉ α≤-5 ć"
+    },
+    {
+      "type": "heading",
+      "id": "txt_2159",
+      "reading_order": 2836,
+      "section": "Defrosting Time Interval",
+      "bbox": {
+        "l": 96.43339990000007,
+        "t": 661.8225660600001,
+        "r": 213.37322010000003,
+        "b": 652.5501576600001
+      },
+      "content": "Defrosting Time Interval",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_2160",
+      "reading_order": 2837,
+      "section": "Defrosting Time Interval",
+      "bbox": {
+        "l": 101.58824090000007,
+        "t": 646.3518630600001,
+        "r": 358.77977390000086,
+        "b": 637.0794546600001
+      },
+      "content": "time interval between two defrosting cycles is 45 minutes."
+    },
+    {
+      "type": "heading",
+      "id": "txt_2161",
+      "reading_order": 2838,
+      "section": "Defrosting Operation",
+      "bbox": {
+        "l": 96.67362550000007,
+        "t": 630.6408384600002,
+        "r": 199.37207137999997,
+        "b": 621.3684300600002
+      },
+      "content": "Defrosting Operation",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_2162",
+      "reading_order": 2839,
+      "section": "Defrosting Operation",
+      "bbox": {
+        "l": 101.52818450000007,
+        "t": 615.1701354600002,
+        "r": 551.5548122599994,
+        "b": 590.3068632600002
+      },
+      "content": "When defrosting begins, compressor will stop for one minute, external fan is running    and 50s later, four-way valve will be off."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_2163",
+      "reading_order": 2840,
+      "section": "Defrosting Operation",
+      "bbox": {
+        "l": 101.52818450000007,
+        "t": 583.9884078600003,
+        "r": 551.5578150800009,
+        "b": 559.1251356600003
+      },
+      "content": "When compressor starts, external fan will be off, compressor will run at 58Hz for 60s then move on to target frequency of 88Hz."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_2164",
+      "reading_order": 2841,
+      "section": "Defrosting Operation",
+      "bbox": {
+        "l": 101.52818450000007,
+        "t": 552.8066802600003,
+        "r": 551.5418000400001,
+        "b": 481.1698153200003
+      },
+      "content": "During defrosting, compressor current and air discharge overheat protection features are effective. During  defrosting,  if  compressor  shuts  down  due  to  activation  of  protection  feature  or  due  to malfunction, it will  resume after 3 minutes. In the unit is still within defrosting cycle, it will resume defrosting and startup of compressor will be based on the rule for defrosting startup. (The unit will exit defrosting mode and handle fault in the event of 3 consecutive restart failures.)"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_2165",
+      "reading_order": 2842,
+      "section": "Defrosting Operation",
+      "bbox": {
+        "l": 101.52818450000007,
+        "t": 474.8513599200003,
+        "r": 551.5548122600007,
+        "b": 449.98808772000024
+      },
+      "content": "On entering defrosting, it must guarantee that compressor will operate for a minimum of 2 minutes in defrosting mode before exit."
+    },
+    {
+      "type": "heading",
+      "id": "txt_2166",
+      "reading_order": 2843,
+      "section": "Defrosting Exit Condition",
+      "bbox": {
+        "l": 96.43339990000007,
+        "t": 412.3667425800003,
+        "r": 219.6841467999999,
+        "b": 403.09433418000026
+      },
+      "content": "Defrosting Exit Condition",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_2167",
+      "reading_order": 2844,
+      "section": "Defrosting Exit Condition",
+      "bbox": {
+        "l": 101.52818450000007,
+        "t": 396.89603958000026,
+        "r": 551.536795340002,
+        "b": 372.0327673800002
+      },
+      "content": "When  one  of  the  following  conditions  is  met,  defrosting  operation  will  be  switched  to  heating operation."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2168",
+      "reading_order": 2845,
+      "section": "Defrosting Exit Condition",
+      "bbox": {
+        "l": 101.52818450000007,
+        "t": 365.8645129800002,
+        "r": 457.9539100400006,
+        "b": 355.8251340659045
+      },
+      "content": "˄ 1 ˅ :Temperature of outdoor heat exchanger exceeds 7 ć for 80s continuously"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2169",
+      "reading_order": 2846,
+      "section": "Defrosting Exit Condition",
+      "bbox": {
+        "l": 101.51817510000006,
+        "t": 350.2736491800002,
+        "r": 460.5023032800001,
+        "b": 340.23427026590446
+      },
+      "content": "˄ 2 ˅ : Temperature of outdoor heat exchanger exceeds 12 ć for 5s continuously"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2170",
+      "reading_order": 2847,
+      "section": "Defrosting Exit Condition",
+      "bbox": {
+        "l": 101.49715536000008,
+        "t": 334.68278538000015,
+        "r": 341.2453069800001,
+        "b": 324.6434064659045
+      },
+      "content": "˄ 3 ˅ :Defrosting operation continues for 11 minutes."
+    },
+    {
+      "type": "heading",
+      "id": "txt_2171",
+      "reading_order": 2848,
+      "section": "When defrosting exit conditions are met, the unit will operate as follows",
+      "bbox": {
+        "l": 96.63158602000009,
+        "t": 287.6388308400002,
+        "r": 445.27099929999946,
+        "b": 278.3664224400002
+      },
+      "content": "When defrosting exit conditions are met, the unit will operate as follows",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_2172",
+      "reading_order": 2849,
+      "section": "When defrosting exit conditions are met, the unit will operate as follows",
+      "bbox": {
+        "l": 101.48614502000008,
+        "t": 273.1294142400002,
+        "r": 551.4156816000008,
+        "b": 250.90967964000015
+      },
+      "content": "Compressor stops and external fan starts, 50s later, four-way valve will be on, 60s later, compressor will operate as per startup process."
+    },
+    {
+      "type": "heading",
+      "id": "txt_2173",
+      "reading_order": 2850,
+      "section": "5.2.5 PTC Output Control",
+      "bbox": {
+        "l": 56.6622,
+        "t": 213.88694959999998,
+        "r": 218.40064049999995,
+        "b": 200.95017399999995
+      },
+      "content": "5.2.5 PTC Output Control",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_2174",
+      "reading_order": 2851,
+      "section": "5.2.5 PTC Output Control",
+      "bbox": {
+        "l": 101.5721,
+        "t": 189.10889440000005,
+        "r": 468.0552706599999,
+        "b": 179.83648600000004
+      },
+      "content": "When outdoor unit is energized, PTC output value is 0, 10s later, output value is 1."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_2175",
+      "reading_order": 2852,
+      "section": "5.2.5 PTC Output Control",
+      "bbox": {
+        "l": 101.5721,
+        "t": 173.51803059999997,
+        "r": 439.5244769000005,
+        "b": 164.24562220000007
+      },
+      "content": "When compressor stops for 10 minutes continuously, PTC output value is 0."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_2176",
+      "reading_order": 2853,
+      "section": "5.2.5 PTC Output Control",
+      "bbox": {
+        "l": 101.5721,
+        "t": 158.88745186000006,
+        "r": 551.5416741799993,
+        "b": 136.60763685999996
+      },
+      "content": "On receiving compressor startup instruction, initial PTC output is 1, and compressor startup will be performed 5s later."
+    }
+  ],
+  "page_stats": {
+    "block_count": 21,
+    "text_blocks": 21,
+    "paragraphs": 13,
+    "headings": 5,
+    "list_items": 3,
+    "captions": 0,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 0,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

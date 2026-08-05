@@ -1,0 +1,119 @@
+{
+  "page": 487,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_3823",
+      "reading_order": 5237,
+      "section": "13. Remove the right cover.",
+      "bbox": {
+        "l": 122.0,
+        "t": 732.29,
+        "r": 486.0200000000003,
+        "b": 720.7
+      },
+      "content": "Remove one screw (callout 1), and then push down on one tab (callout 2) to release it."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_3824",
+      "reading_order": 5238,
+      "section": "13. Remove the right cover.",
+      "bbox": {
+        "l": 122.0,
+        "t": 470.42,
+        "r": 218.72999999999996,
+        "b": 458.83
+      },
+      "content": "Remove the guide."
+    },
+    {
+      "type": "figure",
+      "id": "fig_1375",
+      "reading_order": 5239,
+      "section": "13. Remove the right cover.",
+      "bbox": {
+        "l": 143.2330481999499,
+        "t": 698.3896179199219,
+        "r": 432.130952691484,
+        "b": 482.4115905761719
+      },
+      "image_path": "figures/figure_1375.png",
+      "caption": "Remove one screw",
+      "figure_number": "Figure 1-791",
+      "image_hash": "62fa10988d200f17b47c67a9e87fef1c9840eb89ccebdd682297109c017cbbcd",
+      "width": 289,
+      "height": 216,
+      "previous_block_id": "txt_3824",
+      "next_block_id": "txt_3825",
+      "caption_id": "txt_3825"
+    },
+    {
+      "type": "caption",
+      "id": "txt_3825",
+      "reading_order": 5240,
+      "section": "13. Remove the right cover.",
+      "bbox": {
+        "l": 144.0,
+        "t": 711.29,
+        "r": 276.6099899999999,
+        "b": 699.7
+      },
+      "content": "Figure 1-791  Remove one screw",
+      "caption_for": "fig_1375"
+    },
+    {
+      "type": "figure",
+      "id": "fig_1376",
+      "reading_order": 5241,
+      "section": "13. Remove the right cover.",
+      "bbox": {
+        "l": 143.07755804344418,
+        "t": 437.59228515625,
+        "r": 432.43442921273476,
+        "b": 219.6807861328125
+      },
+      "image_path": "figures/figure_1376.png",
+      "caption": "Remove the guide",
+      "figure_number": "Figure 1-792",
+      "image_hash": "e6b490d47807e3c3c68d45dac893da42a38cab1559db37c6352647be7d753a7b",
+      "width": 289,
+      "height": 218,
+      "previous_block_id": "txt_3825",
+      "next_block_id": "txt_3826",
+      "caption_id": "txt_3826"
+    },
+    {
+      "type": "caption",
+      "id": "txt_3826",
+      "reading_order": 5242,
+      "section": "13. Remove the right cover.",
+      "bbox": {
+        "l": 143.99999,
+        "t": 449.42,
+        "r": 273.30998999999997,
+        "b": 437.83
+      },
+      "content": "Figure 1-792  Remove the guide",
+      "caption_for": "fig_1376"
+    }
+  ],
+  "page_stats": {
+    "block_count": 6,
+    "text_blocks": 4,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 2,
+    "captions": 2,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 2,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "page": 75,
+  "document_id": "doc_f7e949ab",
+  "page_bbox": {
+    "width": 612.0,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0105",
+      "reading_order": 887,
+      "section": "7.3    Parts List",
+      "bbox": {
+        "l": 87.5394058227539,
+        "t": 686.5533142089844,
+        "r": 532.562744140625,
+        "b": 121.255126953125
+      },
+      "image_path": "figures/figure_0105.png",
+      "next_block_id": "txt_0759",
+      "caption_id": "txt_0759",
+      "caption": ". N5500 Exploded View",
+      "figure_number": "Figure 8",
+      "image_hash": "2f5f165bc4fc4d84a5c3fa4d1a61ce08a5738872fb4adb7f0feabaef1917aca5",
+      "width": 445,
+      "height": 566
+    },
+    {
+      "type": "caption",
+      "id": "txt_0759",
+      "reading_order": 888,
+      "section": "7.3    Parts List",
+      "bbox": {
+        "l": 252.0,
+        "t": 107.30250000000001,
+        "r": 409.28764999999987,
+        "b": 93.9375
+      },
+      "content": "Figure 8. N5500 Exploded View",
+      "caption_for": "fig_0105"
+    }
+  ],
+  "page_stats": {
+    "block_count": 2,
+    "text_blocks": 1,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 0,
+    "captions": 1,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 1,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

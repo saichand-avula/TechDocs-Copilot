@@ -1,0 +1,57 @@
+{
+  "page": 124,
+  "document_id": "doc_37f23c38",
+  "page_bbox": {
+    "width": 612.0,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0051",
+      "reading_order": 1315,
+      "section": "CASSETTE DOOR AND FLUID SHIELD REPLACEMENT",
+      "bbox": {
+        "l": 106.89337921142578,
+        "t": 587.7559509277344,
+        "r": 502.72747802734375,
+        "b": 257.80169677734375
+      },
+      "image_path": "figures/figure_0051.png",
+      "next_block_id": "txt_1226",
+      "caption_id": "txt_1226",
+      "caption": ". Cassette Door and Opener Handle Replacement",
+      "figure_number": "Figure 7-16",
+      "image_hash": "c3be8fd6f0aa4276e3a2c20d38ea67ef6abc0ce333c774ae382f42122b6a2a26",
+      "width": 396,
+      "height": 330
+    },
+    {
+      "type": "caption",
+      "id": "txt_1226",
+      "reading_order": 1316,
+      "section": "CASSETTE DOOR AND FLUID SHIELD REPLACEMENT",
+      "bbox": {
+        "l": 136.14,
+        "t": 238.45128,
+        "r": 439.62315599999977,
+        "b": 229.23828000000003
+      },
+      "content": "Figure 7-16. Cassette Door and Opener Handle Replacement",
+      "caption_for": "fig_0051"
+    }
+  ],
+  "page_stats": {
+    "block_count": 2,
+    "text_blocks": 1,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 0,
+    "captions": 1,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 1,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

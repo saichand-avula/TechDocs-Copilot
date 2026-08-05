@@ -1,0 +1,304 @@
+{
+  "page": 308,
+  "document_id": "doc_229deb31",
+  "page_bbox": {
+    "width": 595.219970703125,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_2549",
+      "reading_order": 3332,
+      "section": "7.3.13Fan Motor(DC Motor) or Related Abnormality",
+      "bbox": {
+        "l": 56.6622,
+        "t": 745.14264,
+        "r": 397.57674605000005,
+        "b": 731.2619
+      },
+      "content": "7.3.13Fan Motor(DC Motor) or Related Abnormality",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_2550",
+      "reading_order": 3333,
+      "section": "7.3.13Fan Motor(DC Motor) or Related Abnormality",
+      "bbox": {
+        "l": 56.6622,
+        "t": 729.0474944,
+        "r": 232.1555941599998,
+        "b": 719.775086
+      },
+      "content": "Indoor Display LED1    flash 9 times"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_2551",
+      "reading_order": 3334,
+      "section": "7.3.13Fan Motor(DC Motor) or Related Abnormality",
+      "bbox": {
+        "l": 56.6622,
+        "t": 706.0831944,
+        "r": 147.1475062,
+        "b": 662.2733860000001
+      },
+      "content": "Method  of determine Malfunction Detection"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_2552",
+      "reading_order": 3335,
+      "section": "7.3.13Fan Motor(DC Motor) or Related Abnormality",
+      "bbox": {
+        "l": 149.72,
+        "t": 706.0831944,
+        "r": 541.134584180001,
+        "b": 696.810786
+      },
+      "content": "The  rotation  speed  detected  by  the  Hall  IC  during  fan  motor  operation  is  used  to"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_2553",
+      "reading_order": 3336,
+      "section": "7.3.13Fan Motor(DC Motor) or Related Abnormality",
+      "bbox": {
+        "l": 142.6443,
+        "t": 683.1178944000001,
+        "r": 273.7624353000002,
+        "b": 673.845486
+      },
+      "content": "abnormal fan motor operation"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_2554",
+      "reading_order": 3337,
+      "section": "7.3.13Fan Motor(DC Motor) or Related Abnormality",
+      "bbox": {
+        "l": 56.6622,
+        "t": 648.6413944000001,
+        "r": 136.5286504,
+        "b": 616.3415564000001
+      },
+      "content": "Malfunction Decision Conditions"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_2555",
+      "reading_order": 3338,
+      "section": "7.3.13Fan Motor(DC Motor) or Related Abnormality",
+      "bbox": {
+        "l": 137.668,
+        "t": 648.6413944000001,
+        "r": 449.05342742000084,
+        "b": 639.3689860000001
+      },
+      "content": "when the detected rotation feedback singal don't receiced in 2 minutes"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_2556",
+      "reading_order": 3339,
+      "section": "7.3.13Fan Motor(DC Motor) or Related Abnormality",
+      "bbox": {
+        "l": 56.657168200000015,
+        "t": 602.6517944000001,
+        "r": 163.5055475,
+        "b": 581.9240564
+      },
+      "content": "Supposed                  g374 Causes                      g374"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2557",
+      "reading_order": 3340,
+      "section": "7.3.13Fan Motor(DC Motor) or Related Abnormality",
+      "bbox": {
+        "l": 165.7296,
+        "t": 602.6517944000001,
+        "r": 445.66649355999937,
+        "b": 593.3793860000001
+      },
+      "content": "Operation halt due to short circuit inside the fan motor winding."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2558",
+      "reading_order": 3341,
+      "section": "7.3.13Fan Motor(DC Motor) or Related Abnormality",
+      "bbox": {
+        "l": 162.9705,
+        "t": 591.1995944,
+        "r": 428.4628284200002,
+        "b": 581.927186
+      },
+      "content": "Operation halt due to breaking of wire inside the fan motor ."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2559",
+      "reading_order": 3342,
+      "section": "7.3.13Fan Motor(DC Motor) or Related Abnormality",
+      "bbox": {
+        "l": 145.8822,
+        "t": 579.1779758,
+        "r": 424.65228948000055,
+        "b": 569.1385968859042
+      },
+      "content": "Ƶ Operation halt due to breaking of the fan motor lead wires"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2560",
+      "reading_order": 3343,
+      "section": "7.3.13Fan Motor(DC Motor) or Related Abnormality",
+      "bbox": {
+        "l": 145.8822,
+        "t": 567.0060758000001,
+        "r": 408.37900696000014,
+        "b": 556.9666968859043
+      },
+      "content": "Ƶ Dedection error due to faulty indoor unit PCB"
+    },
+    {
+      "type": "heading",
+      "id": "txt_2561",
+      "reading_order": 3344,
+      "section": "How to check Fan Motor (DC)",
+      "bbox": {
+        "l": 56.6622,
+        "t": 495.5035944,
+        "r": 194.52062349999997,
+        "b": 486.231186
+      },
+      "content": "How to check Fan Motor (DC)",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2562",
+      "reading_order": 3345,
+      "section": "How to check Fan Motor (DC)",
+      "bbox": {
+        "l": 155.59345280000002,
+        "t": 462.3392136,
+        "r": 305.58831555999996,
+        "b": 453.0668052
+      },
+      "content": "Check connector connection."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2563",
+      "reading_order": 3346,
+      "section": "How to check Fan Motor (DC)",
+      "bbox": {
+        "l": 151.57868246,
+        "t": 449.7523698,
+        "r": 404.1608867599997,
+        "b": 440.4799614
+      },
+      "content": "Check motor power supply voltage output (pins 4-7)."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2564",
+      "reading_order": 3347,
+      "section": "How to check Fan Motor (DC)",
+      "bbox": {
+        "l": 155.83267746,
+        "t": 437.2856868,
+        "r": 348.97105703999983,
+        "b": 428.0132784
+      },
+      "content": "Check motor control voltage (pins 4-3)."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2565",
+      "reading_order": 3348,
+      "section": "How to check Fan Motor (DC)",
+      "bbox": {
+        "l": 155.83267746,
+        "t": 424.8190038,
+        "r": 401.028945500001,
+        "b": 415.5465954
+      },
+      "content": "Check rotation command voltage output (pins 4-1)."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2566",
+      "reading_order": 3349,
+      "section": "How to check Fan Motor (DC)",
+      "bbox": {
+        "l": 155.83267746,
+        "t": 412.22214660000003,
+        "r": 340.0576863400001,
+        "b": 402.9497382
+      },
+      "content": "Check rotation pulse input (pins 4-2)."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_2567",
+      "reading_order": 3350,
+      "section": "How to check Fan Motor (DC)",
+      "bbox": {
+        "l": 86.702,
+        "t": 267.98114,
+        "r": 542.3938651899994,
+        "b": 236.89188000000001
+      },
+      "content": "Notes:the a/c is electrifying,don't pull out or insert the terminals of the motor,else the motor would be damaged"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_2568",
+      "reading_order": 3351,
+      "section": "How to check Fan Motor (DC)",
+      "bbox": {
+        "l": 56.6622,
+        "t": 220.40749440000002,
+        "r": 551.8872728400007,
+        "b": 195.66438300000004
+      },
+      "content": "Troubleshooting        * Caution Be sure to turn off power switch before connect or disconnect connector, or parts damage may be occurred."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0603",
+      "reading_order": 3352,
+      "section": "How to check Fan Motor (DC)",
+      "bbox": {
+        "l": 55.75429684054106,
+        "t": 62.40582275390625,
+        "r": 87.83449276451553,
+        "b": 52.16314697265625
+      },
+      "image_path": "figures/figure_0603.png",
+      "previous_block_id": "txt_2568",
+      "image_hash": "5cb0810c9c9813e8695787a61ff775d0fc7fa111351aa1423809d9b453c3586d",
+      "width": 32,
+      "height": 10
+    }
+  ],
+  "page_stats": {
+    "block_count": 21,
+    "text_blocks": 20,
+    "paragraphs": 9,
+    "headings": 2,
+    "list_items": 9,
+    "captions": 0,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 1,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

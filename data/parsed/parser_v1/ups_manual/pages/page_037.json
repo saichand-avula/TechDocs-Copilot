@@ -1,0 +1,124 @@
+{
+  "page": 37,
+  "document_id": "doc_1032c87b",
+  "page_bbox": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0054",
+      "reading_order": 343,
+      "section": "3.7 Wiring Terminal",
+      "bbox": {
+        "l": 197.34678886132863,
+        "t": 723.2509863912244,
+        "r": 409.92823788374665,
+        "b": 537.0740473879979
+      },
+      "image_path": "figures/figure_0054.png",
+      "next_block_id": "txt_0280",
+      "image_hash": "81945d72926b3d922be0681bc72af52518f34dd823a6d40a1a3f381ae15d1835",
+      "width": 213,
+      "height": 186
+    },
+    {
+      "type": "caption",
+      "id": "txt_0280",
+      "reading_order": 344,
+      "section": "3.7 Wiring Terminal",
+      "bbox": {
+        "l": 199.37,
+        "t": 505.9976629101563,
+        "r": 414.51568,
+        "b": 496.526101363195
+      },
+      "content": "Figure 3-24: Wiring terminals of 160 kVA UPS",
+      "caption_for": "fig_0055"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0055",
+      "reading_order": 345,
+      "section": "3.7 Wiring Terminal",
+      "bbox": {
+        "l": 130.17251177745706,
+        "t": 488.11812892842664,
+        "r": 475.2627961898551,
+        "b": 363.73380188313433
+      },
+      "image_path": "figures/figure_0055.png",
+      "previous_block_id": "txt_0280",
+      "next_block_id": "txt_0281",
+      "caption_id": "txt_0280",
+      "caption": ": Wiring terminals of 160 kVA UPS",
+      "figure_number": "Figure 3-24",
+      "image_hash": "a7366fcf4335eb327bc41cc384fbd56f6ecdc89d1494174ec0d37a777ea0f189",
+      "width": 345,
+      "height": 124
+    },
+    {
+      "type": "caption",
+      "id": "txt_0281",
+      "reading_order": 346,
+      "section": "3.7 Wiring Terminal",
+      "bbox": {
+        "l": 184.61,
+        "t": 336.0576629101563,
+        "r": 429.27567999999997,
+        "b": 326.586101363195
+      },
+      "content": "Figure 3-25: Wiring terminals of 200 ~ 300 kVA UPS",
+      "caption_for": "fig_0056"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0056",
+      "reading_order": 347,
+      "section": "3.7 Wiring Terminal",
+      "bbox": {
+        "l": 103.40149901743759,
+        "t": 321.162286407834,
+        "r": 507.744581345666,
+        "b": 159.29821459788855
+      },
+      "image_path": "figures/figure_0056.png",
+      "previous_block_id": "txt_0281",
+      "next_block_id": "txt_0282",
+      "caption_id": "txt_0282",
+      "caption": ": Wiring terminals of 400 ~ 500 kVA UPS",
+      "figure_number": "Figure 3-26",
+      "image_hash": "a2dc10abe78d33f306175c46f09431d207b9b6f4201b22b21b13584c8fc2a6dc",
+      "width": 405,
+      "height": 162
+    },
+    {
+      "type": "caption",
+      "id": "txt_0282",
+      "reading_order": 348,
+      "section": "3.7 Wiring Terminal",
+      "bbox": {
+        "l": 184.61,
+        "t": 134.7876629101563,
+        "r": 429.27567999999997,
+        "b": 125.316101363195
+      },
+      "content": "Figure 3-26: Wiring terminals of 400 ~ 500 kVA UPS",
+      "caption_for": "fig_0056"
+    }
+  ],
+  "page_stats": {
+    "block_count": 6,
+    "text_blocks": 3,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 0,
+    "captions": 3,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 3,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "page": 50,
+  "document_id": "doc_f7e949ab",
+  "page_bbox": {
+    "width": 612.0,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "table",
+      "id": "tbl_0024",
+      "reading_order": 658,
+      "section": "5.5.6 Error Codes",
+      "bbox": {
+        "l": 137.93865966796875,
+        "t": 691.037467956543,
+        "r": 539.4639282226562,
+        "b": 80.4957275390625
+      },
+      "markdown": "Table 19. Technical Error Codes\n\n| Error Codes   | Explanation                                                                                                 |\n|---------------|-------------------------------------------------------------------------------------------------------------|\n| EEE001        | SpO 2 module RAM error                                                                                      |\n| EEE002        | SpO 2 module ROM/code integrity error                                                                       |\n| EEE003        | SpO 2 module Bad CRC in communications                                                                      |\n| EEE004        | SpO 2 module Bad communication message                                                                      |\n| EEE005        | SpO 2 2 module Communication error, incorrect value                                                         |\n| EEE006        | SpO 2 module Calibration (offset) failure                                                                   |\n| EEE009        | SpO 2 module Syntax communication error                                                                     |\n| EEE010        | SpO 2 module Sensor error                                                                                   |\n| EEE012        | SpO 2 module other hardware problem                                                                         |\n| EEE017        | SpO 2 module Indicator that sensor appears defective                                                        |\n| EEE050        | SpO 2 module Intermittent error                                                                             |\n| EEE051        | SpO 2 module DigiCAL communication error                                                                    |\n| EEE255        | SpO 2 module Invalid jumper selection                                                                       |\n| EEE256        | SpO 2 module Beginning of Packet missing                                                                    |\n| EEE257        | SpO 2 module Packet Start (SID) missing                                                                     |\n| EEE258        | SpO 2 module Packet Length error                                                                            |\n| EEE259        | SpO 2 module Message Length error                                                                           |\n| EEE260        | SpO 2 module Packet contains unsupported Key                                                                |\n| EEE261        | SpO 2 module Packet CRC error                                                                               |\n| EEE262        | SpO 2 module End of Packet missing                                                                          |\n| EEE263        | SpO 2 module Packet contains undefined Key                                                                  |\n| EEE267        | SpO 2 module Corrupted variable                                                                             |\n| EEE265        | SpO 2 module Memory overflow                                                                                |\n| EEE266        | SpO 2 module Bad Pointer                                                                                    |\n| EEE267        | SpO 2 module Parameter Value out-of-range                                                                   |\n| EEE268        | SpO 2 module Reset detected                                                                                 |\n| EEE269        | SpO 2 module Unexpected value                                                                               |\n| EEE270        | SpO 2 module Time out                                                                                       |\n| EEE271        | SpO 2 module Not ready/Not initialized                                                                      |\n| EEE272        | SpO 2 module Double fault                                                                                   |\n| EEE273        | SpO 2 module Data out of range error                                                                        |\n| EEE274        | SpO 2 module Incompatible digical sensor                                                                    |\n| EEE275        | SpO 2 module Incorrect registration number                                                                  |\n| EEE275        | SpO 2 module Sensor read failure                                                                            |\n| EEE277        | SpO 2 module Sensor signature verification fails                                                            |\n| EEE281        | SpO 2 module Overflow/Underflow                                                                             |\n| EEE282        | SpO 2 module Sensor activation failure                                                                      |\n| EEE283        | SpO 2 module Sensor write failure                                                                           |\n| EEE284        | SpO 2 module Both HW and SW ECG triggers received SpO 2 module Host attempted read or close of sensor trend |\n| EEE285 EEE286 | before successful open SpO module Host attempted redundant open of sensor trend                             |"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0602",
+      "reading_order": 659,
+      "section": "5.5.6 Error Codes",
+      "bbox": {
+        "l": 253.5,
+        "t": 702.8025,
+        "r": 416.8125,
+        "b": 689.4375
+      },
+      "content": "Table 19. Technical Error Codes"
+    }
+  ]
+}

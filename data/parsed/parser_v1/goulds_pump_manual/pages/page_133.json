@@ -1,0 +1,98 @@
+{
+  "page": 133,
+  "document_id": "doc_b0587846",
+  "page_bbox": {
+    "width": 612.0,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "table",
+      "id": "tbl_0085",
+      "reading_order": 2198,
+      "section": "Operation troubleshooting",
+      "bbox": {
+        "l": 52.32981491088867,
+        "t": 746.1842842102051,
+        "r": 558.953125,
+        "b": 526.7067260742188
+      },
+      "markdown": "| Symptom                                  | Cause                                                                                | Remedy                                                                                                                                         |\n|------------------------------------------|--------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|\n| The stuffing box is leaking excessively. | The packing gland is not adjusted properly.                                          | Tighten the gland nuts.                                                                                                                        |\n| The stuffing box is leaking excessively. | The stuffing box is not packed properly.                                             | Check the packing and repack the box.                                                                                                          |\n| The stuffing box is leaking excessively. | The mechanical seal parts are worn.                                                  | Replace the worn parts.                                                                                                                        |\n| The stuffing box is leaking excessively. | The mechanical seal is overheating.                                                  | Check the lubrication and cooling lines.                                                                                                       |\n| The stuffing box is leaking excessively. | The shaft sleeve is scored.                                                          | Machine or replace the shaft sleeve as necessary.                                                                                              |\n| The motor requires excessive power.      | The discharge head has dropped below the rated point and is pumping too much liquid. | Install a throttle valve. If this does not help, then trim the impeller diameter. If this does not help, then contact your ITT representative. |\n| The motor requires excessive power.      | The liquid is heavier than expected.                                                 | Check the specific gravity and viscosity.                                                                                                      |\n| The motor requires excessive power.      | The stuffing-box packing is too tight.                                               | Readjust the packing. If the packing is worn, then replace the packing.                                                                        |\n| The motor requires excessive power.      | Rotating parts are rubbing against each other.                                       | Check the parts that are wearing for proper clearances.                                                                                        |\n| The motor requires excessive power.      | The impeller clearance is too tight.                                                 | Adjust the impeller clearance.                                                                                                                 |",
+      "rows": 11,
+      "cols": 3
+    },
+    {
+      "type": "heading",
+      "id": "txt_1881",
+      "reading_order": 2199,
+      "section": "Alignment troubleshooting",
+      "bbox": {
+        "l": 54.0,
+        "t": 510.07059999999984,
+        "r": 258.4480000000001,
+        "b": 492.21459999999985
+      },
+      "content": "Alignment troubleshooting",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "table",
+      "id": "tbl_0086",
+      "reading_order": 2200,
+      "section": "Alignment troubleshooting",
+      "bbox": {
+        "l": 52.75188064575195,
+        "t": 492.3934326171875,
+        "r": 559.0172119140625,
+        "b": 373.5326843261719
+      },
+      "markdown": "| Symptom                                                                       | Cause                                                          | Remedy                                                                                                                                          |\n|-------------------------------------------------------------------------------|----------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|\n| Horizontal (side-to-side) alignment cannot be obtained (angular or parallel). | The driver feet are bolt-bound.                                | Loosen the pump's hold-down bolts, and slide the pump and driver until you achieve horizontal alignment.                                        |\n| Horizontal (side-to-side) alignment cannot be obtained (angular or parallel). | The baseplate is not leveled properly and is probably twisted. | 1. Determine which corners of the baseplate are high or low. 2. Remove or add shims at the appropriate corners. 3. Realign the pump and driver. |",
+      "rows": 3,
+      "cols": 3
+    },
+    {
+      "type": "heading",
+      "id": "txt_1882",
+      "reading_order": 2201,
+      "section": "Assembly troubleshooting",
+      "bbox": {
+        "l": 54.0,
+        "t": 356.85057999999987,
+        "r": 255.80800000000005,
+        "b": 338.99457999999987
+      },
+      "content": "Assembly troubleshooting",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "table",
+      "id": "tbl_0087",
+      "reading_order": 2202,
+      "section": "Assembly troubleshooting",
+      "bbox": {
+        "l": 52.829925537109375,
+        "t": 339.32855224609375,
+        "r": 559.1422729492188,
+        "b": 71.60498046875
+      },
+      "markdown": "| Symptom                                                        | Cause                                                                                   | Remedy                                                                                       |\n|----------------------------------------------------------------|-----------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|\n| There is excessive shaft end play.                             | The internal clearance of the bearings exceeds the recommended amount.                  | Replace the bearings with a bearing of the correct type.                                     |\n| There is excessive shaft end play.                             | The snap ring is loose in the bearing- housing groove.                                  | Re-seat the snap ring.                                                                       |\n| There is excessive shaft and sleeve runout.                    | The sleeve is worn.                                                                     | Replace the sleeve.                                                                          |\n| There is excessive shaft and sleeve runout.                    | The shaft is bent.                                                                      | Replace the shaft.                                                                           |\n| There is excessive bearing-frame flange runout.                | The shaft is bent.                                                                      | Replace the shaft.                                                                           |\n| There is excessive bearing-frame flange runout.                | The flange of the bearing frame is distorted.                                           | Replace the bearing-frame flange.                                                            |\n| There is excessive frame-adapter runout.                       | There is corrosion on the frame adapter.                                                | Replace the frame adapter.                                                                   |\n| There is excessive frame-adapter runout.                       | The adapter-to-frame gasket is not seated properly.                                     | Re-seat the frame adapter and make sure that the adapter-to-frame gasket is seated properly. |\n| There is excessive seal chamber or stuffing- box cover runout. | The seal chamber or the stuffing-box cover is not properly seated in the frame adapter. | Re-seat the seal chamber or stuffing- box cover.                                             |\n| There is excessive seal chamber or stuffing- box cover runout. | There is corrosion or wear on the seal chamber or stuffing-box cover.                   | Replace the seal chamber or stuffing- box cover.                                             |\n| There is excessive vane-tip runout of the impeller.            | The vane is bent.                                                                       | Replace the impeller.                                                                        |",
+      "rows": 12,
+      "cols": 3
+    }
+  ],
+  "page_stats": {
+    "block_count": 5,
+    "text_blocks": 2,
+    "paragraphs": 0,
+    "headings": 2,
+    "list_items": 0,
+    "captions": 0,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 0,
+    "tables": 3,
+    "toc_tables": 0
+  }
+}

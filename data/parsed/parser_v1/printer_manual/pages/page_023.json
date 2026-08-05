@@ -1,0 +1,166 @@
+{
+  "page": 23,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0022",
+      "reading_order": 227,
+      "section": "Post service test",
+      "bbox": {
+        "l": 142.60855580678822,
+        "t": 716.7731018066406,
+        "r": 358.2827216134947,
+        "b": 575.6411285400391
+      },
+      "image_path": "figures/figure_0022.png",
+      "caption": "Press the cartridge-door-release button",
+      "figure_number": "Figure 1-3",
+      "image_hash": "82646e924aa2c1c352dc388de83982585022ded83c5610e3c0e41e92bd489086",
+      "width": 215,
+      "height": 141,
+      "next_block_id": "txt_0200",
+      "caption_id": "txt_0200"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0200",
+      "reading_order": 228,
+      "section": "Post service test",
+      "bbox": {
+        "l": 144.0,
+        "t": 732.29,
+        "r": 349.80999,
+        "b": 720.7
+      },
+      "content": "Figure 1-3  Press the cartridge-door-release button",
+      "caption_for": "fig_0022"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0201",
+      "reading_order": 229,
+      "section": "Post service test",
+      "bbox": {
+        "l": 122.0,
+        "t": 564.1935,
+        "r": 265.28,
+        "b": 552.6035
+      },
+      "content": "Open the toner-cartridge door."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0202",
+      "reading_order": 230,
+      "section": "Post service test",
+      "bbox": {
+        "l": 122.0,
+        "t": 330.30452,
+        "r": 320.91999999999996,
+        "b": 318.71452
+      },
+      "content": "Remove the toner cartridge from the printer."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0203",
+      "reading_order": 231,
+      "section": "Post service test",
+      "bbox": {
+        "l": 100.0,
+        "t": 93.88843999999995,
+        "r": 283.69999999999993,
+        "b": 82.29844000000003
+      },
+      "content": "Unpack the replacement toner cartridge."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0023",
+      "reading_order": 232,
+      "section": "Post service test",
+      "bbox": {
+        "l": 144.60700467263013,
+        "t": 530.9095764160156,
+        "r": 377.28677582161333,
+        "b": 339.8938293457031
+      },
+      "image_path": "figures/figure_0023.png",
+      "caption": "Open the toner-cartridge door",
+      "figure_number": "Figure 1-4",
+      "image_hash": "83f78d15dd5582144033e6dc8f3bf87bb968fc8fd062c65e98734b592c812fcd",
+      "width": 232,
+      "height": 191,
+      "previous_block_id": "txt_0203",
+      "next_block_id": "txt_0204",
+      "caption_id": "txt_0204"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0204",
+      "reading_order": 233,
+      "section": "Post service test",
+      "bbox": {
+        "l": 144.0,
+        "t": 543.1935,
+        "r": 310.31998999999996,
+        "b": 531.6035
+      },
+      "content": "Figure 1-4  Open the toner-cartridge door",
+      "caption_for": "fig_0023"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0024",
+      "reading_order": 234,
+      "section": "Post service test",
+      "bbox": {
+        "l": 150.1844724277723,
+        "t": 289.49176025390625,
+        "r": 370.2366584302059,
+        "b": 108.19342041015625
+      },
+      "image_path": "figures/figure_0024.png",
+      "caption": "Remove the toner cartridge",
+      "figure_number": "Figure 1-5",
+      "image_hash": "181e12c16a307e196f9e93354310e475cf9ce9f7980b58f32812657346bc3cb7",
+      "width": 220,
+      "height": 181,
+      "previous_block_id": "txt_0204",
+      "next_block_id": "txt_0205",
+      "caption_id": "txt_0205"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0205",
+      "reading_order": 235,
+      "section": "Post service test",
+      "bbox": {
+        "l": 144.00004,
+        "t": 309.30452,
+        "r": 300.0200299999999,
+        "b": 297.71452
+      },
+      "content": "Figure 1-5  Remove the toner cartridge",
+      "caption_for": "fig_0024"
+    }
+  ],
+  "page_stats": {
+    "block_count": 9,
+    "text_blocks": 6,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 3,
+    "captions": 3,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 3,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

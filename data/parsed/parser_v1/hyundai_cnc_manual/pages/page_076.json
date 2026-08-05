@@ -1,0 +1,168 @@
+{
+  "page": 76,
+  "document_id": "doc_caa693b1",
+  "page_bbox": {
+    "width": 595.0,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0442",
+      "reading_order": 577,
+      "section": "9-3. Changing Electric Units According to Voltage and Frequency",
+      "bbox": {
+        "l": 72.9,
+        "t": 764.6546599999999,
+        "r": 406.32451800000104,
+        "b": 755.7829409281768
+      },
+      "content": "9-3. Changing Electric Units According to Voltage and Frequency",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0106",
+      "reading_order": 578,
+      "section": "9-3. Changing Electric Units According to Voltage and Frequency",
+      "bbox": {
+        "l": 227.07022094726562,
+        "t": 731.8124313354492,
+        "r": 331.8817138671875,
+        "b": 710.3204803466797
+      },
+      "image_path": "figures/figure_0106.png",
+      "previous_block_id": "txt_0442",
+      "next_block_id": "txt_0443",
+      "image_hash": "6b18d90adcbd1fe8dc977fe336914fdae9ea65e4582af2b4cc953d1271941386",
+      "width": 105,
+      "height": 22
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0443",
+      "reading_order": 579,
+      "section": "9-3. Changing Electric Units According to Voltage and Frequency",
+      "bbox": {
+        "l": 70.92,
+        "t": 694.69466,
+        "r": 523.578509999999,
+        "b": 668.8430489281769
+      },
+      "content": "If the voltage fluctuated seriously, it may cause misoperation of the machine and failure of the electric and electronic parts. Therefore, set the fluctuating rate not to exceed ± 10%."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0444",
+      "reading_order": 580,
+      "section": "9-3. Changing Electric Units According to Voltage and Frequency",
+      "bbox": {
+        "l": 99.299646,
+        "t": 637.154648,
+        "r": 527.3720820000004,
+        "b": 611.3030369281769
+      },
+      "content": "According to the voltage and frequency of the power of factory, it is needed to change the setting of electric applications. Prior to changing, check its voltage and frequency."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0445",
+      "reading_order": 581,
+      "section": "9-3. Changing Electric Units According to Voltage and Frequency",
+      "bbox": {
+        "l": 113.45991,
+        "t": 603.194864,
+        "r": 270.4001640000001,
+        "b": 594.3231449281769
+      },
+      "content": "Power voltage 200/220V ± 10%"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0446",
+      "reading_order": 582,
+      "section": "9-3. Changing Electric Units According to Voltage and Frequency",
+      "bbox": {
+        "l": 113.45991,
+        "t": 586.154852,
+        "r": 274.3630740000001,
+        "b": 577.2831329281769
+      },
+      "content": "Power frequency 50/60Hz ± 1Hz"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0447",
+      "reading_order": 583,
+      "section": "9-3-1. Tab Changing for Controlling Transformer",
+      "bbox": {
+        "l": 70.91999999999999,
+        "t": 552.1950680000001,
+        "r": 310.29980400000005,
+        "b": 543.323348928177
+      },
+      "content": "9-3-1. Tab Changing for Controlling Transformer",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0448",
+      "reading_order": 584,
+      "section": "9-3-1. Tab Changing for Controlling Transformer",
+      "bbox": {
+        "l": 99.29964599999998,
+        "t": 535.1550560000001,
+        "r": 527.3911199999997,
+        "b": 509.3034449281769
+      },
+      "content": "Open the door of the Electric Control Panel, remove the plastic cover of Transformer and then change the wiring as shown in the following table."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0107",
+      "reading_order": 585,
+      "section": "9-3-1. Tab Changing for Controlling Transformer",
+      "bbox": {
+        "l": 71.09739685058594,
+        "t": 489.5400085449219,
+        "r": 514.9070434570312,
+        "b": 272.75177001953125
+      },
+      "image_path": "figures/figure_0107.png",
+      "previous_block_id": "txt_0448",
+      "image_hash": "fb455911db408aafd82721c66a678c81143ad82423bd2079116eb33148680778",
+      "width": 444,
+      "height": 217
+    },
+    {
+      "type": "table",
+      "id": "tbl_0032",
+      "reading_order": 586,
+      "section": "9-3-1. Tab Changing for Controlling Transformer",
+      "bbox": {
+        "l": 66.91641998291016,
+        "t": 253.0872802734375,
+        "r": 528.9712524414062,
+        "b": 190.70501708984375
+      },
+      "markdown": "| Voltage   | R2    | T,   |\n|-----------|-------|------|\n| 191-210 V | 200 V | 0 V  |\n| 211-240 V | 220 V | 0 V  |",
+      "rows": 3,
+      "cols": 3
+    }
+  ],
+  "page_stats": {
+    "block_count": 10,
+    "text_blocks": 7,
+    "paragraphs": 3,
+    "headings": 2,
+    "list_items": 2,
+    "captions": 0,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 2,
+    "tables": 1,
+    "toc_tables": 0
+  }
+}

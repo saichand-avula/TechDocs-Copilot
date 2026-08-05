@@ -1,0 +1,198 @@
+{
+  "page": 29,
+  "document_id": "doc_1032c87b",
+  "page_bbox": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0039",
+      "reading_order": 280,
+      "section": "3.3.3 Cabinet Parallel Installation",
+      "bbox": {
+        "l": 143.88555628231123,
+        "t": 717.3730050025971,
+        "r": 292.50766743349243,
+        "b": 626.5240573037909
+      },
+      "image_path": "figures/figure_0039.png",
+      "next_block_id": "txt_0236",
+      "caption_id": "txt_0236",
+      "caption": ":  Soft  copper  bars  for  the  bus  of rectifier cabinet",
+      "figure_number": "Figure 3-11",
+      "image_hash": "736f4094b96259619654ca871330d10914a8d8e9643f40031223358c48327849",
+      "width": 149,
+      "height": 90
+    },
+    {
+      "type": "caption",
+      "id": "txt_0236",
+      "reading_order": 281,
+      "section": "3.3.3 Cabinet Parallel Installation",
+      "bbox": {
+        "l": 63.744,
+        "t": 599.6276629101563,
+        "r": 289.76048,
+        "b": 574.556101363195
+      },
+      "content": "Figure  3-11:  Soft  copper  bars  for  the  bus  of rectifier cabinet",
+      "caption_for": "fig_0039"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0040",
+      "reading_order": 282,
+      "section": "3.3.3 Cabinet Parallel Installation",
+      "bbox": {
+        "l": 309.6094200955594,
+        "t": 717.1543368202409,
+        "r": 462.20185087053653,
+        "b": 624.193987008433
+      },
+      "image_path": "figures/figure_0040.png",
+      "previous_block_id": "txt_0236",
+      "next_block_id": "txt_0237",
+      "caption_id": "txt_0237",
+      "caption": ":  Copper  bars  for  bus  of  inverter cabinet",
+      "figure_number": "Figure 3-12",
+      "image_hash": "f8591f02166d1b29faa82a01baa093c70f9771c8549dfc9ffe0d583ba8586abe",
+      "width": 152,
+      "height": 93
+    },
+    {
+      "type": "caption",
+      "id": "txt_0237",
+      "reading_order": 283,
+      "section": "3.3.3 Cabinet Parallel Installation",
+      "bbox": {
+        "l": 315.43,
+        "t": 599.6276629101563,
+        "r": 541.4495199999997,
+        "b": 574.556101363195
+      },
+      "content": "Figure  3-12:  Copper  bars  for  bus  of  inverter cabinet",
+      "caption_for": "fig_0040"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0238",
+      "reading_order": 284,
+      "section": "3.3.3 Cabinet Parallel Installation",
+      "bbox": {
+        "l": 74.664,
+        "t": 568.3976629101563,
+        "r": 527.7015199999994,
+        "b": 496.526101363195
+      },
+      "content": "Inverter connection: connect the \"inverter output switch terminal\" of rectifier cabinet with the \"inverter output terminal' of inverter cabinet with the given soft copper bars. In connection, the phase sequence should maintain corresponding connection (for example: \"phase A of inverter output switch terminal\" should be connected with \"phase A of inverter output terminal\" correspondingly)"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0239",
+      "reading_order": 285,
+      "section": "3.3.3 Cabinet Parallel Installation",
+      "bbox": {
+        "l": 89.784,
+        "t": 490.39766291015627,
+        "r": 539.75136,
+        "b": 465.326101363195
+      },
+      "content": "The N-line copper between rectifier cabinet and inverter cabinet     also need to be connected. Th e inverter connection is as shown in Figure 3-13."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0041",
+      "reading_order": 286,
+      "section": "3.3.3 Cabinet Parallel Installation",
+      "bbox": {
+        "l": 102.89549734685022,
+        "t": 462.6156088710119,
+        "r": 496.3336929170524,
+        "b": 372.7348995329657
+      },
+      "image_path": "figures/figure_0041.png",
+      "previous_block_id": "txt_0239",
+      "next_block_id": "txt_0240",
+      "caption_id": "txt_0240",
+      "caption": ": Diagram for inversion connection of 400 ~ 500 kVA UPS",
+      "figure_number": "Figure 3-13",
+      "image_hash": "2bc774220b7b99c49390ec734ae0a44fafc06112bd3e092be0219d44419a2669",
+      "width": 393,
+      "height": 90
+    },
+    {
+      "type": "caption",
+      "id": "txt_0240",
+      "reading_order": 287,
+      "section": "3.3.3 Cabinet Parallel Installation",
+      "bbox": {
+        "l": 140.66,
+        "t": 351.6576629101563,
+        "r": 468.87568,
+        "b": 342.186101363195
+      },
+      "content": "Figure 3-13: Diagram for inversion connection of 400 ~ 500 kVA UPS",
+      "caption_for": "fig_0041"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0241",
+      "reading_order": 288,
+      "section": "3.3.3 Cabinet Parallel Installation",
+      "bbox": {
+        "l": 77.904,
+        "t": 336.0576629101563,
+        "r": 541.53328,
+        "b": 279.78610136319503
+      },
+      "content": "Connection of signal cable: connect a bunch of unconnected signal cables on the top right of rectifier cabinet to the switch board on the top left of inverter cabinet correspondingly (as shown in Figure 3-14) and the connection between signal cable mark and corresponding terminal is as shown in Table 3-3."
+    },
+    {
+      "type": "table",
+      "id": "tbl_0008",
+      "reading_order": 289,
+      "section": "3.3.3 Cabinet Parallel Installation",
+      "bbox": {
+        "l": 93.92294659574571,
+        "t": 262.3969975082765,
+        "r": 490.42591520929165,
+        "b": 118.4435159347181
+      },
+      "markdown": "Table 3-3: Corresponding connection of terminals\n\n| Switch board 1                           | Switch board 2                             |\n|------------------------------------------|--------------------------------------------|\n| cable J2 is connected to switch board J2 | cable J4A is connected to switch board J4A |\n| cable J4 is connected to switch board J4 | cable J3B is connected to switch board J3B |\n| cable J5 is connected to switch board J5 | cable J2B is connected to switch board J2B |\n| cable J8 is connected to switch board J8 | cable J1B is connected to switch board J1B |",
+      "caption_id": "txt_0242",
+      "title": "Table 3-3: Corresponding connection of terminals",
+      "table_number": "Table 3-3",
+      "rows": 5,
+      "cols": 2
+    },
+    {
+      "type": "caption",
+      "id": "txt_0242",
+      "reading_order": 290,
+      "section": "3.3.3 Cabinet Parallel Installation",
+      "bbox": {
+        "l": 191.09,
+        "t": 273.6576629101563,
+        "r": 422.91568,
+        "b": 264.186101363195
+      },
+      "content": "Table 3-3: Corresponding connection of terminals",
+      "caption_for": "tbl_0008"
+    }
+  ],
+  "page_stats": {
+    "block_count": 11,
+    "text_blocks": 7,
+    "paragraphs": 1,
+    "headings": 0,
+    "list_items": 2,
+    "captions": 4,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 3,
+    "tables": 1,
+    "toc_tables": 0
+  }
+}

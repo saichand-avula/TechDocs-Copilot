@@ -1,0 +1,152 @@
+{
+  "page": 66,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_0635",
+      "reading_order": 806,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 113.0,
+        "t": 732.29,
+        "r": 393.8800100000002,
+        "b": 720.7
+      },
+      "content": "Connect one HDMI cable (callout 1) and one connector (callout 2)."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0636",
+      "reading_order": 807,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 113.0,
+        "t": 426.74001000000004,
+        "r": 311.8999999999999,
+        "b": 415.15001
+      },
+      "content": "Install the USB cable (callout 1) in the holder ."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0161",
+      "reading_order": 808,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 133.74159046111458,
+        "t": 698.6594085693359,
+        "r": 423.8803201280127,
+        "b": 437.9073791503906
+      },
+      "image_path": "figures/figure_0161.png",
+      "caption": "Connect the connectors",
+      "figure_number": "Figure 1-67",
+      "image_hash": "c3ac3c300b2ec5f4ec1cd635be55ee68b29004415b11936a97cfa16f62d3cac1",
+      "width": 290,
+      "height": 261,
+      "previous_block_id": "txt_0636",
+      "next_block_id": "txt_0637",
+      "caption_id": "txt_0637"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0637",
+      "reading_order": 809,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 135.00004,
+        "t": 711.29,
+        "r": 280.6600399999999,
+        "b": 699.7
+      },
+      "content": "Figure 1-67  Connect the connectors",
+      "caption_for": "fig_0161"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0162",
+      "reading_order": 810,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 118.81749424876317,
+        "t": 405.30224609375,
+        "r": 132.18909865032194,
+        "b": 392.22552490234375
+      },
+      "image_path": "figures/figure_0162.png",
+      "decorative": true,
+      "width": 13,
+      "height": 13,
+      "image_hash": "2824e503cfb82f940c314978ae0c73746dc242db8d5b3fcb69e43617547a24bc",
+      "previous_block_id": "txt_0637",
+      "next_block_id": "txt_0638"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_0638",
+      "reading_order": 811,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 135.0,
+        "t": 403.24001000000004,
+        "r": 538.5600100000001,
+        "b": 379.65001
+      },
+      "content": "NOTE: M527z/E52545z only: Install the near-field communication (NFC) printed circuit board under the four tabs (callout 2).",
+      "severity": "note"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0163",
+      "reading_order": 812,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 133.73028901864564,
+        "t": 357.1452331542969,
+        "r": 401.2424479984874,
+        "b": 84.96435546875
+      },
+      "image_path": "figures/figure_0163.png",
+      "caption": "Install the USB cable and NFC PCA",
+      "figure_number": "Figure 1-68",
+      "image_hash": "6078bdac30b938499e888d7e9fdddf5910aaf7cd8ee982263c1a2ecd4c8631ca",
+      "width": 267,
+      "height": 272,
+      "previous_block_id": "txt_0638",
+      "next_block_id": "txt_0639",
+      "caption_id": "txt_0639"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0639",
+      "reading_order": 813,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 135.0,
+        "t": 368.74001000000004,
+        "r": 320.8799999999999,
+        "b": 357.15001
+      },
+      "content": "Figure 1-68  Install the USB cable and NFC PCA",
+      "caption_for": "fig_0163"
+    }
+  ],
+  "page_stats": {
+    "block_count": 8,
+    "text_blocks": 5,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 2,
+    "captions": 2,
+    "admonitions": 1,
+    "references": 0,
+    "figures": 3,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

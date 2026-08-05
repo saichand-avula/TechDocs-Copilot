@@ -1,0 +1,176 @@
+{
+  "page": 46,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0104",
+      "reading_order": 588,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 96.94522240136382,
+        "t": 731.9928359985352,
+        "r": 109.68159727683495,
+        "b": 718.5149078369141
+      },
+      "image_path": "figures/figure_0104.png",
+      "decorative": true,
+      "width": 12,
+      "height": 13,
+      "image_hash": "20be797c1e9890e872a4ec52dd5ac0a5a601b6b7c45064ebbf0fc2025355a7b6",
+      "next_block_id": "txt_0476"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0476",
+      "reading_order": 589,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 113.0,
+        "t": 732.29,
+        "r": 508.2500000000002,
+        "b": 720.7
+      },
+      "content": "NOTE: The M506/E50045/M507/E50145 printers use a Slim dual in-line memory module (DIMM)."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0477",
+      "reading_order": 590,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 113.0,
+        "t": 709.79,
+        "r": 486.8699900000004,
+        "b": 698.2
+      },
+      "content": "M506/E50045/M507/E50145 only: Push the DIMM straight on the connector to install it."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0478",
+      "reading_order": 591,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 113.0,
+        "t": 447.92,
+        "r": 346.09999000000005,
+        "b": 436.33
+      },
+      "content": "M527/E52545/M528/E52645 only: Do the following."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0479",
+      "reading_order": 592,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 135.0,
+        "t": 426.92,
+        "r": 336.06999999999994,
+        "b": 415.33
+      },
+      "content": "Insert the top edge of the DIMM in the holder."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0480",
+      "reading_order": 593,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 157.0,
+        "t": 403.42,
+        "r": 500.12,
+        "b": 391.83
+      },
+      "content": "Reinstallation tip: The DIMM is keyed and can only be inserted in the holder one way."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0105",
+      "reading_order": 594,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 133.18383911011756,
+        "t": 676.792121887207,
+        "r": 423.8261464118864,
+        "b": 458.67120361328125
+      },
+      "image_path": "figures/figure_0105.png",
+      "caption": "Install the DIMM (M506/E50045/M507/E50145)",
+      "figure_number": "Figure 1-35",
+      "image_hash": "0e83454860fc59eea859e4a86563757fbd6496c0b383207acef9c0a8bc74aa3a",
+      "width": 291,
+      "height": 218,
+      "previous_block_id": "txt_0480",
+      "next_block_id": "txt_0481",
+      "caption_id": "txt_0481"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0481",
+      "reading_order": 595,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 135.00005,
+        "t": 688.79,
+        "r": 377.5000400000001,
+        "b": 677.2
+      },
+      "content": "Figure 1-35  Install the DIMM (M506/E50045/M507/E50145)",
+      "caption_for": "fig_0105"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0106",
+      "reading_order": 596,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 155.5943707518671,
+        "t": 368.13568115234375,
+        "r": 445.8801564353448,
+        "b": 151.031982421875
+      },
+      "image_path": "figures/figure_0106.png",
+      "caption": "Insert the DIMM (M527/E52545/M528/E52645)",
+      "figure_number": "Figure 1-36",
+      "image_hash": "2910905dbe58dcb7c6c8fd0e06aabdc7b2ddc4e08582a3222ed4b5270dc7e760",
+      "width": 290,
+      "height": 217,
+      "previous_block_id": "txt_0481",
+      "next_block_id": "txt_0482",
+      "caption_id": "txt_0482"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0482",
+      "reading_order": 597,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 157.0,
+        "t": 380.92,
+        "r": 398.4300000000001,
+        "b": 369.33
+      },
+      "content": "Figure 1-36  Insert the DIMM (M527/E52545/M528/E52645)",
+      "caption_for": "fig_0106"
+    }
+  ],
+  "page_stats": {
+    "block_count": 10,
+    "text_blocks": 7,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 5,
+    "captions": 2,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 3,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

@@ -1,0 +1,324 @@
+{
+  "page": 11,
+  "document_id": "doc_229deb31",
+  "page_bbox": {
+    "width": 595.219970703125,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0029",
+      "reading_order": 78,
+      "section": "3ULQWHG &LUFXLW %RDUG &RQQHFWRU :LULQJ 'LDJUDP",
+      "bbox": {
+        "l": 56.962,
+        "t": 780.9691091,
+        "r": 503.3699314600007,
+        "b": 760.9931171993351
+      },
+      "content": "3ULQWHG &LUFXLW %RDUG &RQQHFWRU :LULQJ 'LDJUDP",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0030",
+      "reading_order": 79,
+      "section": "4.1 ᧶ Indoor unit Connectors",
+      "bbox": {
+        "l": 56.962,
+        "t": 741.1299262,
+        "r": 290.65113094000003,
+        "b": 724.1533960103724
+      },
+      "content": "4.1 ᧶ Indoor unit Connectors",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0031",
+      "reading_order": 80,
+      "section": "Connectors",
+      "bbox": {
+        "l": 56.962,
+        "t": 715.5199152,
+        "r": 170.29324712,
+        "b": 706.267138
+      },
+      "content": "Connectors",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0032",
+      "reading_order": 81,
+      "section": "PCB(1) (Control PCB)",
+      "bbox": {
+        "l": 56.962,
+        "t": 699.9620598,
+        "r": 161.6693489000001,
+        "b": 690.7092826
+      },
+      "content": "PCB(1) (Control PCB)",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0037",
+      "reading_order": 82,
+      "section": "PCB(1) (Control PCB)",
+      "bbox": {
+        "l": 56.04469117708504,
+        "t": 63.07373046875,
+        "r": 87.91204370222985,
+        "b": 52.395263671875
+      },
+      "image_path": "figures/figure_0037.png",
+      "previous_block_id": "txt_0032",
+      "next_block_id": "txt_0033",
+      "image_hash": "4932c2d5d0b7074cda725139f9d9564f1f04035ce7b4f980001f49bec2498beb",
+      "width": 32,
+      "height": 11
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0033",
+      "reading_order": 83,
+      "section": "PCB(1) (Control PCB)",
+      "bbox": {
+        "l": 171.6676372,
+        "t": 684.5241108,
+        "r": 324.70637214000004,
+        "b": 675.2713336
+      },
+      "content": "CN26 Connector for fan motor"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0034",
+      "reading_order": 84,
+      "section": "PCB(1) (Control PCB)",
+      "bbox": {
+        "l": 171.6676372,
+        "t": 668.9662554,
+        "r": 336.8261753600001,
+        "b": 659.7134782
+      },
+      "content": "CN11 Connector for STEP motor"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0035",
+      "reading_order": 85,
+      "section": "PCB(1) (Control PCB)",
+      "bbox": {
+        "l": 171.6676372,
+        "t": 653.4084,
+        "r": 540.2678697599999,
+        "b": 644.1556228000001
+      },
+      "content": "CN8 Connector for heat exchanger thermistor and Room temperature thermistor"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0036",
+      "reading_order": 86,
+      "section": "PCB(1) (Control PCB)",
+      "bbox": {
+        "l": 171.6676372,
+        "t": 637.8505446,
+        "r": 344.0517115799997,
+        "b": 628.5977674000001
+      },
+      "content": "4)CN27    Connector for fan feedback"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0037",
+      "reading_order": 87,
+      "section": "PCB(1) (Control PCB)",
+      "bbox": {
+        "l": 171.6676372,
+        "t": 622.2926892,
+        "r": 325.64027819000046,
+        "b": 613.0399120000001
+      },
+      "content": "5)CH1 Connector for power L wire"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0038",
+      "reading_order": 88,
+      "section": "PCB(1) (Control PCB)",
+      "bbox": {
+        "l": 171.6676372,
+        "t": 606.7348338,
+        "r": 335.1091865899998,
+        "b": 597.4820566000001
+      },
+      "content": "6)CON2 Connector for power N wire"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0039",
+      "reading_order": 89,
+      "section": "PCB(1) (Control PCB)",
+      "bbox": {
+        "l": 171.6676372,
+        "t": 591.1769784,
+        "r": 370.0322787099996,
+        "b": 581.9242012000001
+      },
+      "content": "CON7 Connector for communicate wire"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0040",
+      "reading_order": 90,
+      "section": "PCB(1) (Control PCB)",
+      "bbox": {
+        "l": 171.6676372,
+        "t": 575.6191230000001,
+        "r": 372.2906333399998,
+        "b": 566.3663458000001
+      },
+      "content": "CN30    Connector for    transformer input"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0041",
+      "reading_order": 91,
+      "section": "PCB(1) (Control PCB)",
+      "bbox": {
+        "l": 171.6676372,
+        "t": 560.06026838,
+        "r": 380.50001711000004,
+        "b": 550.80749118
+      },
+      "content": "CN31    Connector for    transformer    output"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0042",
+      "reading_order": 92,
+      "section": "PCB(1) (Control PCB)",
+      "bbox": {
+        "l": 171.6676372,
+        "t": 544.50141376,
+        "r": 361.6830587399994,
+        "b": 535.24863656
+      },
+      "content": "CN32 Connector for      display    board"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0043",
+      "reading_order": 93,
+      "section": "Note: Other designations",
+      "bbox": {
+        "l": 166.63253517,
+        "t": 482.15008576,
+        "r": 288.4848010199998,
+        "b": 472.89730856
+      },
+      "content": "Note: Other designations",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0044",
+      "reading_order": 94,
+      "section": "Note: Other designations",
+      "bbox": {
+        "l": 171.6576489,
+        "t": 466.71113754000004,
+        "r": 304.69681075000005,
+        "b": 457.45836034
+      },
+      "content": "PCB(1) (INdoor Control PCB)"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0045",
+      "reading_order": 95,
+      "section": "Note: Other designations",
+      "bbox": {
+        "l": 171.6576489,
+        "t": 451.15328214000004,
+        "r": 429.29286261000004,
+        "b": 441.90050494
+      },
+      "content": "CN48 Connector for Forced operation ON / OFF switch"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0046",
+      "reading_order": 96,
+      "section": "Note: Other designations",
+      "bbox": {
+        "l": 171.6576489,
+        "t": 435.59542674000005,
+        "r": 278.4815185699999,
+        "b": 426.34264954
+      },
+      "content": "J1    Select 25 or 35"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0047",
+      "reading_order": 97,
+      "section": "Note: Other designations",
+      "bbox": {
+        "l": 171.6576489,
+        "t": 420.03757134000006,
+        "r": 342.32173801999994,
+        "b": 410.78479414000003
+      },
+      "content": "LED1    communicate    display light"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0048",
+      "reading_order": 98,
+      "section": "Note: Other designations",
+      "bbox": {
+        "l": 56.952011699999986,
+        "t": 404.47971594000006,
+        "r": 248.8532242800003,
+        "b": 395.22693874000004
+      },
+      "content": "RV1    Varistor"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0049",
+      "reading_order": 99,
+      "section": "Note: Other designations",
+      "bbox": {
+        "l": 171.6576489,
+        "t": 388.92186054000007,
+        "r": 318.2938835400003,
+        "b": 379.66908334000004
+      },
+      "content": "FUSE1    Fuse 3.15A/250VAC"
+    }
+  ],
+  "page_stats": {
+    "block_count": 22,
+    "text_blocks": 21,
+    "paragraphs": 1,
+    "headings": 5,
+    "list_items": 15,
+    "captions": 0,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 1,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

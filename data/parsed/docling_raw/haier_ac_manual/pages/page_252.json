@@ -1,0 +1,264 @@
+{
+  "page": 252,
+  "document_id": "doc_229deb31",
+  "page_bbox": {
+    "width": 595.219970703125,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_1986",
+      "reading_order": 2641,
+      "section": "4.Printed Circuit Board Connector Wiring Diagram",
+      "bbox": {
+        "l": 56.6622,
+        "t": 782.3434856,
+        "r": 504.2238257,
+        "b": 763.854414
+      },
+      "content": "4.Printed Circuit Board Connector Wiring Diagram",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "id": "txt_1987",
+      "reading_order": 2642,
+      "section": "4.1 ᧶ Indoor unit Connectors",
+      "bbox": {
+        "l": 56.6622,
+        "t": 749.8536582,
+        "r": 290.84698788000003,
+        "b": 732.8410346114362
+      },
+      "content": "4.1 ᧶ Indoor unit Connectors",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "id": "txt_1988",
+      "reading_order": 2643,
+      "section": "Connectors",
+      "bbox": {
+        "l": 56.6622,
+        "t": 724.1901944,
+        "r": 170.23285616000004,
+        "b": 714.917786
+      },
+      "content": "Connectors",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "id": "txt_1989",
+      "reading_order": 2644,
+      "section": "PCB(1) (Control PCB)",
+      "bbox": {
+        "l": 56.6622,
+        "t": 708.5993306,
+        "r": 161.5907401999999,
+        "b": 699.3269222
+      },
+      "content": "PCB(1) (Control PCB)",
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "id": "fig_0507",
+      "reading_order": 2645,
+      "section": "PCB(1) (Control PCB)",
+      "bbox": {
+        "l": 55.744706962257624,
+        "t": 62.26641845703125,
+        "r": 87.84491837035333,
+        "b": 51.9224853515625
+      },
+      "image_path": "figures/figure_0507.png",
+      "previous_block_id": "txt_1989",
+      "next_block_id": "txt_1990"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1990",
+      "reading_order": 2646,
+      "section": "PCB(1) (Control PCB)",
+      "bbox": {
+        "l": 171.61115054,
+        "t": 693.12962894,
+        "r": 324.97317546000005,
+        "b": 683.85722054
+      },
+      "content": "CN26 Connector for fan motor"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1991",
+      "reading_order": 2647,
+      "section": "PCB(1) (Control PCB)",
+      "bbox": {
+        "l": 171.61115054,
+        "t": 677.53876514,
+        "r": 541.0801252200006,
+        "b": 668.26635674
+      },
+      "content": "CN1 Connector for heat exchanger thermistor and Room temperature thermistor"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1992",
+      "reading_order": 2648,
+      "section": "PCB(1) (Control PCB)",
+      "bbox": {
+        "l": 171.61115054,
+        "t": 661.94790134,
+        "r": 397.75953037999966,
+        "b": 652.67549294
+      },
+      "content": "CN11`    Connector for UP&DOWN STEP motor"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1993",
+      "reading_order": 2649,
+      "section": "PCB(1) (Control PCB)",
+      "bbox": {
+        "l": 171.61115054,
+        "t": 646.3570375400001,
+        "r": 348.2670511400006,
+        "b": 637.0846291400001
+      },
+      "content": "CON2 Connector for power N wire"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1994",
+      "reading_order": 2650,
+      "section": "PCB(1) (Control PCB)",
+      "bbox": {
+        "l": 171.61115054,
+        "t": 630.7661737400001,
+        "r": 320.49296802000015,
+        "b": 621.4937653400001
+      },
+      "content": "CON1 Connector for power L"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1995",
+      "reading_order": 2651,
+      "section": "PCB(1) (Control PCB)",
+      "bbox": {
+        "l": 171.61115054,
+        "t": 615.1753099400001,
+        "r": 344.3513738599997,
+        "b": 605.9029015400001
+      },
+      "content": "CN32    Connector for display board"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1996",
+      "reading_order": 2652,
+      "section": "PCB(1) (Control PCB)",
+      "bbox": {
+        "l": 56.663200940000024,
+        "t": 599.5834448000002,
+        "r": 377.1391654399996,
+        "b": 590.3110364000001
+      },
+      "content": "C0N6,C0N8    Connector for ions generator"
+    },
+    {
+      "type": "heading",
+      "id": "txt_1997",
+      "reading_order": 2653,
+      "section": "Note: Other designations",
+      "bbox": {
+        "l": 166.56741388,
+        "t": 537.0988274600003,
+        "r": 288.7261352399999,
+        "b": 527.8264190600003
+      },
+      "content": "Note: Other designations",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1998",
+      "reading_order": 2654,
+      "section": "Note: Other designations",
+      "bbox": {
+        "l": 171.60214208,
+        "t": 521.6291258000002,
+        "r": 304.9223453800003,
+        "b": 512.3567174000002
+      },
+      "content": "PCB(1) (INdoor Control PCB)"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1999",
+      "reading_order": 2655,
+      "section": "Note: Other designations",
+      "bbox": {
+        "l": 171.60214208,
+        "t": 506.03826200000015,
+        "r": 429.7846056800009,
+        "b": 496.7658536000001
+      },
+      "content": "CN48 Connector for Forced operation ON / OFF switch"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2000",
+      "reading_order": 2656,
+      "section": "Note: Other designations",
+      "bbox": {
+        "l": 171.60214208,
+        "t": 490.4473982000001,
+        "r": 278.6857060999999,
+        "b": 481.1749898000001
+      },
+      "content": "J1    Select 25 or 35"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2001",
+      "reading_order": 2657,
+      "section": "Note: Other designations",
+      "bbox": {
+        "l": 171.60214208,
+        "t": 474.8565344000001,
+        "r": 342.6307580000001,
+        "b": 465.5841260000001
+      },
+      "content": "LED1    communicate    display light"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2002",
+      "reading_order": 2658,
+      "section": "Note: Other designations",
+      "bbox": {
+        "l": 56.654192480000006,
+        "t": 459.2656706000001,
+        "r": 248.9607909200002,
+        "b": 449.99326220000006
+      },
+      "content": "RV1    Varistor"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2003",
+      "reading_order": 2659,
+      "section": "Note: Other designations",
+      "bbox": {
+        "l": 171.60214208,
+        "t": 443.67480680000006,
+        "r": 318.56015288,
+        "b": 434.40239840000004
+      },
+      "content": "FUSE1    Fuse 3.15A/250VAC"
+    }
+  ]
+}

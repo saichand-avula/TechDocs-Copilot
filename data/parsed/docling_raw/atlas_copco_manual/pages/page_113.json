@@ -1,0 +1,105 @@
+{
+  "page": 113,
+  "document_id": "doc_e02482e6",
+  "page_bbox": {
+    "width": 595.0,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0297",
+      "reading_order": 1248,
+      "section": "Checking the oil level",
+      "bbox": {
+        "l": 172.72189331054688,
+        "t": 772.7202682495117,
+        "r": 411.771240234375,
+        "b": 420.1012878417969
+      },
+      "image_path": "figures/figure_0297.png",
+      "previous_block_id": "txt_0859",
+      "next_block_id": "txt_0860"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0860",
+      "reading_order": 1249,
+      "section": "Checking the oil level",
+      "bbox": {
+        "l": 236.55,
+        "t": 403.57000000000005,
+        "r": 360.2800000000001,
+        "b": 392.5
+      },
+      "content": "Position of the oil level gauge"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0861",
+      "reading_order": 1250,
+      "section": "Checking the oil level",
+      "bbox": {
+        "l": 90.57,
+        "t": 362.58099999999996,
+        "r": 552.6183999999985,
+        "b": 337.0236
+      },
+      "content": "Regularly check the oil level during loaded operation. The pointer of level gauge (Gl) must register in the green range."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0862",
+      "reading_order": 1251,
+      "section": "Checking the oil level",
+      "bbox": {
+        "l": 90.57,
+        "t": 330.96039999999994,
+        "r": 564.5577999999994,
+        "b": 265.9834000000001
+      },
+      "content": "If the oil level is too low, press stop button (9). Wait until the compressor has stopped and depressurised and push the emergency stop button (10) to avoid the compressor to start unexpectedly. Next, close the air outlet valve and press the test button on top of the electronic water drain(s) (two water drains are provided on Full-Feature compressors) until the air system between oil separator/air receiver vessel and outlet valve is fully depressurised. See section Condensate system for location of the outlet valve and water drain."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0863",
+      "reading_order": 1252,
+      "section": "Checking the oil level",
+      "bbox": {
+        "l": 90.5695,
+        "t": 258.9605,
+        "r": 547.3015999999989,
+        "b": 233.58349999999996
+      },
+      "content": "Unscrew oil filler plug (FC) one turn to permit any pressure left in the system to escape. Wait a few minutes. Remove the plug and add oil until the level reaches the filler opening. Fit and tighten the plug (FC)."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0864",
+      "reading_order": 1253,
+      "section": "Checking the oil level",
+      "bbox": {
+        "l": 90.5695,
+        "t": 227.4004,
+        "r": 545.0553999999987,
+        "b": 201.84300000000007
+      },
+      "content": "On compressors with an Elektronikon® Graphic controller, unlock the emergency stop button (10), select the STOP icon on the display and press reset before restarting."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0298",
+      "reading_order": 1254,
+      "section": "Checking the oil level",
+      "bbox": {
+        "l": 519.4202880859375,
+        "t": 815.9335613250732,
+        "r": 567.1507568359375,
+        "b": 793.0704574584961
+      },
+      "image_path": "figures/figure_0298.png",
+      "previous_block_id": "txt_0864",
+      "next_block_id": "txt_0865"
+    }
+  ]
+}

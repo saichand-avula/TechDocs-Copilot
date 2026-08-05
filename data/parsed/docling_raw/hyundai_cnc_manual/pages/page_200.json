@@ -1,0 +1,23 @@
+{
+  "page": 200,
+  "document_id": "doc_caa693b1",
+  "page_bbox": {
+    "width": 595.0,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "table",
+      "id": "tbl_0084",
+      "reading_order": 1732,
+      "section": "3-9-7. Alarm List",
+      "bbox": {
+        "l": 64.42064666748047,
+        "t": 746.2061309814453,
+        "r": 530.7091064453125,
+        "b": 279.00701904296875
+      },
+      "markdown": "|   No. | Message                           | Contents                                                                                                                                                             |\n|-------|-----------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n|   126 | ILLEGAL LOOP NUMBER               | In Don, 1 ≤ n ≤ 3 is not established. Modify the program.                                                                                                            |\n|   127 | NC, MACRO STATEMENT IN SAME BLOCK | Nc and custom macro commands coexist. Modify the program.                                                                                                            |\n|   128 | ILLEGAL MACRO SEQUENCE NUMBER     | The sequence number specified in the branch command was not 0 to 9999. Or, it cannot be searched. Modify the program.                                                |\n|   129 | ILLEGAL ARGUMENT ADDRESS          | An address which is not allowed in (argument Designation) is used. Modify the program.                                                                               |\n|   130 | ILLEGAL AXIS OPERATION            | An axis control command was given by PMC to an axis controlled by CNC. Or an axis control command was given by CNC to an axis controlled by PMC. Modify the program. |\n|   131 | TOO MANY EXTERNAL ALARM MESSAGES  | Five or more alarms have generated external alarm message. Consult the PMC ladder diagram to find the cause.                                                         |\n|   132 | ALARM NUMBER NOT FOUND            | No alarm No. concerned exists in external alarm message clear. Check the PMC ladder diagram.                                                                         |\n|   133 | ILLEGAL DATA IN EXT. ALARM MSG    | Small section data is erroneous in external alarm message or external operator message. Check the PMC ladder diagram.                                                |\n|   135 | SPINDLE ORIENTATION PLEASE        | Without any spindle orientation, an attempt was made for spindle indexing. Perform spindle orientation.                                                              |\n|   136 | C/H-CODE & MOVE CMD IN SAME BLK.  | A move command of other axes was specified to the same block as spindle indexing addresses C, H. Modify the program.                                                 |\n|   137 | M-CODE & MOVE CMD IN SAME BLK.    | A move command of other axes was specified to the same block as M-code related to spindle indexing. Modify the program.                                              |"
+    }
+  ]
+}

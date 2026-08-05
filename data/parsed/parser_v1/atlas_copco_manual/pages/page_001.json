@@ -1,0 +1,103 @@
+{
+  "page": 1,
+  "document_id": "doc_e02482e6",
+  "page_bbox": {
+    "width": 595.0,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0001",
+      "reading_order": 0,
+      "section": "Atlas Copco Oil-injected rotary screw compressors",
+      "bbox": {
+        "l": 57.809999999999995,
+        "t": 773.8608,
+        "r": 390.75000000000006,
+        "b": 725.78
+      },
+      "content": "Atlas Copco Oil-injected rotary screw compressors",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0001",
+      "reading_order": 1,
+      "section": "Atlas Copco Oil-injected rotary screw compressors",
+      "bbox": {
+        "l": 0.02450615167617798,
+        "t": 689.6367340087891,
+        "r": 594.9739379882812,
+        "b": 567.3080749511719
+      },
+      "image_path": "figures/figure_0001.png",
+      "previous_block_id": "txt_0001",
+      "next_block_id": "txt_0002",
+      "image_hash": "68aa94c675a91b1142923c00b656ae4d0cad085666cbc81062b4269f9f469575",
+      "width": 595,
+      "height": 123
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0002",
+      "reading_order": 2,
+      "section": "Atlas Copco Oil-injected rotary screw compressors",
+      "bbox": {
+        "l": 57.209939999999996,
+        "t": 526.6296,
+        "r": 303.2285399999999,
+        "b": 506.5416
+      },
+      "content": "GA 37+, GA 45+, GA 55, GA 75"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0002",
+      "reading_order": 3,
+      "section": "Atlas Copco Oil-injected rotary screw compressors",
+      "bbox": {
+        "l": 372.2439270019531,
+        "t": 107.11590576171875,
+        "r": 445.0695495605469,
+        "b": 51.89947509765625
+      },
+      "image_path": "figures/figure_0002.png",
+      "previous_block_id": "txt_0002",
+      "image_hash": "a1d362b8a3b94d832a600ca56e6bb264c33120c0202cd4210a02949c07dc8333",
+      "width": 73,
+      "height": 55
+    },
+    {
+      "type": "figure",
+      "id": "fig_0003",
+      "reading_order": 4,
+      "section": "Atlas Copco Oil-injected rotary screw compressors",
+      "bbox": {
+        "l": 474.7618408203125,
+        "t": 102.14068603515625,
+        "r": 568.0077514648438,
+        "b": 55.88165283203125
+      },
+      "image_path": "figures/figure_0003.png",
+      "previous_block_id": "txt_0002",
+      "image_hash": "65e392e29cb86c3c883e3979ac929c08570671498ec38839839e095af8af76d7",
+      "width": 93,
+      "height": 46
+    }
+  ],
+  "page_stats": {
+    "block_count": 5,
+    "text_blocks": 2,
+    "paragraphs": 1,
+    "headings": 1,
+    "list_items": 0,
+    "captions": 0,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 3,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

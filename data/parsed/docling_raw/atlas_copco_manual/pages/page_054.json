@@ -1,0 +1,120 @@
+{
+  "page": 54,
+  "document_id": "doc_e02482e6",
+  "page_bbox": {
+    "width": 595.0,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0159",
+      "reading_order": 572,
+      "section": "Text on figure",
+      "bbox": {
+        "l": 26.583621978759766,
+        "t": 816.1985149383545,
+        "r": 73.95849609375,
+        "b": 792.8924980163574
+      },
+      "image_path": "figures/figure_0159.png",
+      "previous_block_id": "txt_0375",
+      "next_block_id": "txt_0376"
+    },
+    {
+      "type": "table",
+      "id": "tbl_0040",
+      "reading_order": 573,
+      "section": "Text on figure",
+      "bbox": {
+        "l": 59.780948638916016,
+        "t": 771.9882278442383,
+        "r": 536.7660522460938,
+        "b": 704.3440246582031
+      },
+      "markdown": "| (4)   | Unloading pressure 2   |\n|-------|------------------------|\n| (5)   | Loading pressure 2     |\n| (6)   | Back                   |\n| (7)   | Modify                 |"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0376",
+      "reading_order": 574,
+      "section": "Text on figure",
+      "bbox": {
+        "l": 62.23,
+        "t": 688.6210000000001,
+        "r": 526.4640999999992,
+        "b": 650.044
+      },
+      "content": "The screen shows the actual unloading and loading pressure settings for both pressure bands. To modify settings, move the cursor to the action button Modify and press the enter key, following screen appears:"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0377",
+      "reading_order": 575,
+      "section": "Text on figure",
+      "bbox": {
+        "l": 62.23,
+        "t": 446.64079999999996,
+        "r": 502.38840000000096,
+        "b": 421.2638
+      },
+      "content": "The first line of the screen, Unloading Pressure 1, is highlighted in red. Use the scroll keys (1) to highlight the setting to be modified and press the enter key (2). Following screen appears:"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0378",
+      "reading_order": 576,
+      "section": "Text on figure",
+      "bbox": {
+        "l": 62.23,
+        "t": 218.461,
+        "r": 527.0944000000012,
+        "b": 179.88400000000001
+      },
+      "content": "The upper and lower limit of the setting is shown in grey, the actual settings is shown in black. Use the arrow up or arrow down key of the scroll keys (1) to modify the settings as required and press the enter key (2)."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0379",
+      "reading_order": 577,
+      "section": "Text on figure",
+      "bbox": {
+        "l": 62.23,
+        "t": 172.92100000000005,
+        "r": 464.93889999999953,
+        "b": 160.74400000000003
+      },
+      "content": "If necessary, change the other settings as required in the same way as described above."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0160",
+      "reading_order": 578,
+      "section": "Text on figure",
+      "bbox": {
+        "l": 201.0985107421875,
+        "t": 638.3482055664062,
+        "r": 402.0387268066406,
+        "b": 472.2950744628906
+      },
+      "image_path": "figures/figure_0160.png",
+      "previous_block_id": "txt_0379",
+      "next_block_id": "txt_0380"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0161",
+      "reading_order": 579,
+      "section": "Text on figure",
+      "bbox": {
+        "l": 201.78280639648438,
+        "t": 403.5074768066406,
+        "r": 401.9095458984375,
+        "b": 233.55877685546875
+      },
+      "image_path": "figures/figure_0161.png",
+      "previous_block_id": "txt_0379",
+      "next_block_id": "txt_0380"
+    }
+  ]
+}

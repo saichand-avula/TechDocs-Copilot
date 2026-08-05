@@ -1,0 +1,15 @@
+{
+  "id": "tbl_0074",
+  "page": 190,
+  "section": "3-9-7. Alarm List",
+  "title": null,
+  "markdown": "|   No. | Message                      | Contents                                                                                                                                                        |\n|-------|------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|\n|   000 | PLEASE TURN OFF POWER        | A parameter which requires the power off was input, turn off power.                                                                                             |\n|   001 | TH PARITY ALARM              | TH alarm (A character with incorrect parity was input). Correct the tape.                                                                                       |\n|   002 | TV PARITY ALARM              | TV alarm (The number of characters in a block is odd). This alarm will be generated only when the TV check is effective.                                        |\n|   003 | TOO MANY DIGITS              | Data exceeding the maximum allowable number of digits was input (Refer to the item of max. programmable dimensions).                                            |\n|   004 | ADDRESS NOT FOUND            | A numeral or the sign \"-\" was input without an address at the beginning of a block. Modify the program.                                                         |\n|   005 | NO DATA AFTER ADDRESS        | The address was not followed by the appropriate data but was followed by another address or EOB code. Modify the program.                                       |\n|   006 | ILLEGAL USE OF NEGATIVE SIGN | Sign \"-\" input error (Sign \"-\" was input after an address with which it cannot be used. Or two or more \"-\" signs were input). Modify the program.               |\n|   007 | ILLEGAL USE OF DECIMAL POINT | Decimal point \"-\" input error (A decimal point was input after an address with which it can not be used. Or two decimal points were input). Modify the program. |\n|   009 | ILLEGAL ADDRESS INPUT        | Unusable character was input in significant area. Modify the program.                                                                                           |\n|   010 | IMPROPER G-CODE              | An unusable G code or G code corresponding to the function not provided is specified. Modify the program.                                                       |",
+  "block_id": "#/tables/73",
+  "reading_order": 1722,
+  "bbox": {
+    "l": 64.32762145996094,
+    "t": 694.6950988769531,
+    "r": 530.8634033203125,
+    "b": 313.95556640625
+  }
+}

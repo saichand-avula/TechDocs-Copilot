@@ -1,0 +1,298 @@
+{
+  "page": 56,
+  "document_id": "doc_27a62e0f",
+  "page_bbox": {
+    "width": 594.9600219726562,
+    "height": 842.52001953125
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0617",
+      "reading_order": 788,
+      "section": "Additional Errors / Faults",
+      "bbox": {
+        "l": 36.0,
+        "t": 788.94601953125,
+        "r": 150.066,
+        "b": 780.7587304760582
+      },
+      "content": "Additional Errors / Faults",
+      "level": 2
+    },
+    {
+      "type": "table",
+      "id": "tbl_0049",
+      "reading_order": 789,
+      "section": "Additional Errors / Faults",
+      "bbox": {
+        "l": 35.38748421706259,
+        "t": 768.4786663694022,
+        "r": 558.5589034736407,
+        "b": 625.7674040437311
+      },
+      "markdown": "| Error                              | Problem                                                  | Solution                                                                                                                                                                                                                      |\n|------------------------------------|----------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Door open                          | Door open continuously displayed when the door is closed | Check fuses F5 & F6, if blown replace door switches Check door switches are adjusted correctly Check oven door hinges are fitted / working correctly Check all wiring and connections Check L1 is present on twin phase ovens |\n| No USB Memory detected             | Unable to read inserted USB Memory                       | Incorrectly formatted USB Memory. Re-format and re-load files. Slow key, or large file, allow further time for oven to read USB Memory.                                                                                       |\n| Components not operating correctly | Components not operating correctly in diagnostic view    | Check shunts are correctly fitted in X515 & X516 on the IO Board.                                                                                                                                                             |"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0125",
+      "reading_order": 790,
+      "section": "Additional Errors / Faults",
+      "bbox": {
+        "l": 14.52793443994939,
+        "t": 623.719528962373,
+        "r": 37.8738321933774,
+        "b": 602.5420947651758
+      },
+      "image_path": "figures/figure_0125.png",
+      "previous_block_id": "txt_0617",
+      "next_block_id": "txt_0618"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0126",
+      "reading_order": 791,
+      "section": "Additional Errors / Faults",
+      "bbox": {
+        "l": 18.910766196713055,
+        "t": 582.983214802112,
+        "r": 30.915878022313628,
+        "b": 571.1250411595703
+      },
+      "image_path": "figures/figure_0126.png",
+      "previous_block_id": "txt_0617",
+      "next_block_id": "txt_0618"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0618",
+      "reading_order": 792,
+      "section": "5.4 Safe working when testing components",
+      "bbox": {
+        "l": 49.56,
+        "t": 616.14457953125,
+        "r": 364.36487999999997,
+        "b": 603.3724086051509
+      },
+      "content": "5.4 Safe working when testing components",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "id": "txt_0619",
+      "reading_order": 793,
+      "section": "For your safety when testing oven components",
+      "bbox": {
+        "l": 36.0,
+        "t": 581.20801953125,
+        "r": 300.72,
+        "b": 570.4244393785782
+      },
+      "content": "For your safety when testing oven components",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0620",
+      "reading_order": 794,
+      "section": "For your safety when testing oven components",
+      "bbox": {
+        "l": 35.964000000000055,
+        "t": 566.22591953125,
+        "r": 559.1070000000001,
+        "b": 545.8982344167462
+      },
+      "content": "Before starting oven tests, familiarize yourself with the rules and hazard warnings in section 2 'For your safety', specifically section 2.14 'Safe working when testing components'."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0621",
+      "reading_order": 795,
+      "section": "5.5 Requirements",
+      "bbox": {
+        "l": 49.56,
+        "t": 527.70447953125,
+        "r": 187.96632,
+        "b": 514.9323086051509
+      },
+      "content": "5.5 Requirements",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "id": "txt_0622",
+      "reading_order": 796,
+      "section": "Equipment required for testing the appliance",
+      "bbox": {
+        "l": 39.12,
+        "t": 496.84801953125,
+        "r": 293.40000000000003,
+        "b": 486.06443937857824
+      },
+      "content": "Equipment required for testing the appliance",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0623",
+      "reading_order": 797,
+      "section": "Equipment required for testing the appliance",
+      "bbox": {
+        "l": 49.079999999999984,
+        "t": 481.38601953125,
+        "r": 293.34,
+        "b": 375.13833441674615
+      },
+      "content": "HV Capacitor discharge tool Portable Appliance Tester (P.A.T.) Digital Multi-Meter (D.M.M.) Proprietary voltage detector Electrical lock out tools & equipment Megger / similar 500 V d. c. Insulation tester Microwave detection / leakage meter (calibrated)  Temperature reader (calibrated) Microwave safe 600 ml glass beaker Microwave safe 2 litre container"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0624",
+      "reading_order": 798,
+      "section": "Equipment required for testing the appliance",
+      "bbox": {
+        "l": 319.671,
+        "t": 481.14601953125003,
+        "r": 445.3595999999999,
+        "b": 399.37533441674617
+      },
+      "content": "5.5 mm socket wrench  Torque wrench Door Spacer Kit 4mm / 2mm 1000 volt rated general hand tools 1000-volt proof insulted rubber gloves  PPE"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0625",
+      "reading_order": 799,
+      "section": "5.6 Testing selected components (casing mounted)",
+      "bbox": {
+        "l": 49.56,
+        "t": 352.26457953125004,
+        "r": 416.32692,
+        "b": 339.49240860515084
+      },
+      "content": "5.6 Testing selected components (casing mounted)",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "id": "txt_0626",
+      "reading_order": 800,
+      "section": "Technical advisory notice: PAT testing of Merrychef ovens",
+      "bbox": {
+        "l": 39.12,
+        "t": 321.64801953124993,
+        "r": 361.08000000000004,
+        "b": 310.86443937857825
+      },
+      "content": "Technical advisory notice: PAT testing of Merrychef ovens",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0627",
+      "reading_order": 801,
+      "section": "Technical advisory notice: PAT testing of Merrychef ovens",
+      "bbox": {
+        "l": 36.0,
+        "t": 294.06601953125005,
+        "r": 560.8530000000001,
+        "b": 261.49833441674616
+      },
+      "content": "While  testing  with  a  Portable  Appliance  Tester  (PAT)  is  not  an  automatic  requirement  for  the  Merrychef  commercial combination microwave oven models, the following notice is to advise on this testing in addition to the following instructions as deemed necessary."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0628",
+      "reading_order": 802,
+      "section": "Technical advisory notice: PAT testing of Merrychef ovens",
+      "bbox": {
+        "l": 36.03600000000006,
+        "t": 257.34601953125,
+        "r": 560.8620000000001,
+        "b": 224.77833441674613
+      },
+      "content": "If  the  customer requires  PAT testing  of  the  Merrychef  equipment  we  suggest  this  is  limited to  a)  earth  continuity and  b) insulation resistance (measured at ~ 500 V DC). All Merrychef commercial combination microwave ovens are classified as CLASS 1 for the purpose of testing."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0629",
+      "reading_order": 803,
+      "section": "Technical advisory notice: PAT testing of Merrychef ovens",
+      "bbox": {
+        "l": 36.04500000000007,
+        "t": 220.50901953124992,
+        "r": 560.8710000000002,
+        "b": 187.94133441674614
+      },
+      "content": "Should it still be deemed necessary by the customer to perform an Earth Leakage test, the following advice should be adhered to. Note that not all PATs are capable of just measuring the leakage or allow you to set a pass limit and therefore may not be appropriate for this test."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0127",
+      "reading_order": 804,
+      "section": "Technical advisory notice: PAT testing of Merrychef ovens",
+      "bbox": {
+        "l": 34.384236657833526,
+        "t": 180.2929176894654,
+        "r": 46.55636950236542,
+        "b": 167.95540286796802
+      },
+      "image_path": "figures/figure_0127.png",
+      "previous_block_id": "txt_0629",
+      "next_block_id": "txt_0630"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0630",
+      "reading_order": 805,
+      "section": "WARNING",
+      "bbox": {
+        "l": 50.04,
+        "t": 175.50601953125,
+        "r": 97.37999999999998,
+        "b": 167.31873047605825
+      },
+      "content": "WARNING",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "id": "txt_0631",
+      "reading_order": 806,
+      "section": "High leakage current",
+      "bbox": {
+        "l": 36.0,
+        "t": 163.26601953124998,
+        "r": 132.057,
+        "b": 155.07873047605824
+      },
+      "content": "High leakage current",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0632",
+      "reading_order": 807,
+      "section": "High leakage current",
+      "bbox": {
+        "l": 35.999999999999986,
+        "t": 151.14301953125005,
+        "r": 560.862,
+        "b": 118.57533441674627
+      },
+      "content": "Merrychef appliances are fitted with radio interference filters and inverter circuits which cause an increase in leakage current. The PAT may indicate an erroneous failure condition depending on its internal \"pass\"/\"fail\" settings. Please refer to the revised limits which apply to the specific Merrychef oven model."
+    },
+    {
+      "type": "table",
+      "id": "tbl_0050",
+      "reading_order": 808,
+      "section": "High leakage current",
+      "bbox": {
+        "l": 35.436740093130794,
+        "t": 105.83198086996947,
+        "r": 558.704523571587,
+        "b": 79.4787690973933
+      },
+      "markdown": "| Model          | Model maximum limit applied with radio interference filter fitted   |\n|----------------|---------------------------------------------------------------------|\n| conneX 12 & 16 | 10 mA                                                               |"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "page": 99,
+  "document_id": "doc_e02482e6",
+  "page_bbox": {
+    "width": 595.0,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0727",
+      "reading_order": 1070,
+      "section": "Electrical connections",
+      "bbox": {
+        "l": 56.55,
+        "t": 772.235,
+        "r": 169.77960000000007,
+        "b": 759.959
+      },
+      "content": "Electrical connections",
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "id": "fig_0263",
+      "reading_order": 1071,
+      "section": "Electrical connections",
+      "bbox": {
+        "l": 226.3276824951172,
+        "t": 722.7633514404297,
+        "r": 417.2069091796875,
+        "b": 287.01397705078125
+      },
+      "image_path": "figures/figure_0263.png",
+      "previous_block_id": "txt_0727",
+      "next_block_id": "txt_0728"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0728",
+      "reading_order": 1072,
+      "section": "Electrical connections",
+      "bbox": {
+        "l": 239.6025,
+        "t": 268.154262,
+        "r": 350.79929999999996,
+        "b": 254.49452207547165
+      },
+      "content": "9820 3549 11-00"
+    },
+    {
+      "type": "table",
+      "id": "tbl_0083",
+      "reading_order": 1073,
+      "section": "Electrical connections",
+      "bbox": {
+        "l": 84.82601928710938,
+        "t": 195.16790771484375,
+        "r": 550.5661010742188,
+        "b": 79.14666748046875
+      },
+      "markdown": "| Reference   | Designation                              |\n|-------------|------------------------------------------|\n| (1)         | Customer's installation                  |\n| (2)         | Contactors type 3RT106 with 6 fuses type |\n| (3)         | All other variants with 3 fuses type1    |\n| (4)         | Option dryer                             |\n| (5)         | All voltages (50 and 60 Hz)              |\n| (6)         | Star connection: all other voltages      |"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0264",
+      "reading_order": 1074,
+      "section": "Electrical connections",
+      "bbox": {
+        "l": 519.4862060546875,
+        "t": 815.9676342010498,
+        "r": 567.1739501953125,
+        "b": 793.0532417297363
+      },
+      "image_path": "figures/figure_0264.png",
+      "previous_block_id": "txt_0728",
+      "next_block_id": "txt_0729"
+    }
+  ]
+}

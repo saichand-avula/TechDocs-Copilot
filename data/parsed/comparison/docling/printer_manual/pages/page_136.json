@@ -1,0 +1,106 @@
+{
+  "page": 136,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0345",
+      "reading_order": 1651,
+      "section": "Post service test",
+      "bbox": {
+        "l": 133.63315151920622,
+        "t": 719.669075012207,
+        "r": 423.9828414455244,
+        "b": 502.96392822265625
+      },
+      "image_path": "figures/figure_0345.png",
+      "caption": "Remove two screws",
+      "figure_number": "Figure 1-167",
+      "image_hash": "80fed9f789c8e41d8c46204b87cdd805bad082380a1cb671be6872fc820ebb96",
+      "width": 290,
+      "height": 217,
+      "previous_block_id": "txt_1284",
+      "next_block_id": "txt_1285",
+      "caption_id": "txt_1285"
+    },
+    {
+      "type": "caption",
+      "id": "txt_1285",
+      "reading_order": 1652,
+      "section": "Post service test",
+      "bbox": {
+        "l": 135.0,
+        "t": 732.29,
+        "r": 272.05998999999997,
+        "b": 720.7
+      },
+      "content": "Figure 1-167  Remove two screws",
+      "caption_for": "fig_0345"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1286",
+      "reading_order": 1653,
+      "section": "Post service test",
+      "bbox": {
+        "l": 113.0,
+        "t": 491.41999999999996,
+        "r": 437.54,
+        "b": 479.83000000000004
+      },
+      "content": "Rotate the bottom edge of the assembly away from the printer to release it."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0346",
+      "reading_order": 1654,
+      "section": "Post service test",
+      "bbox": {
+        "l": 133.57159602419324,
+        "t": 458.0775146484375,
+        "r": 423.9176560675053,
+        "b": 240.582763671875
+      },
+      "image_path": "figures/figure_0346.png",
+      "caption": "Rotate the bottom of the cover",
+      "figure_number": "Figure 1-168",
+      "image_hash": "feb95cf5c8a2459d8a5105c54685bb876cbe11861e3dcfe4f8f79c59114fed4d",
+      "width": 290,
+      "height": 217,
+      "previous_block_id": "txt_1286",
+      "next_block_id": "txt_1287",
+      "caption_id": "txt_1287"
+    },
+    {
+      "type": "caption",
+      "id": "txt_1287",
+      "reading_order": 1655,
+      "section": "Post service test",
+      "bbox": {
+        "l": 135.00008,
+        "t": 470.42,
+        "r": 315.0500799999998,
+        "b": 458.83
+      },
+      "content": "Figure 1-168  Rotate the bottom of the cover",
+      "caption_for": "fig_0346"
+    }
+  ],
+  "page_stats": {
+    "block_count": 5,
+    "text_blocks": 3,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 1,
+    "captions": 2,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 2,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "page": 682,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_1946",
+      "reading_order": 7193,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 138.38155704605072,
+        "t": 718.3353652954102,
+        "r": 295.53824164508023,
+        "b": 605.2759094238281
+      },
+      "image_path": "figures/figure_1946.png",
+      "caption": "Install the PCA in the holder",
+      "figure_number": "Figure 1-1132",
+      "image_hash": "ca97c951b9d85470030ae5b7380076a221519d81a6ed09e070c28cb9088a8fa6",
+      "width": 158,
+      "height": 113,
+      "next_block_id": "txt_5200",
+      "caption_id": "txt_5200"
+    },
+    {
+      "type": "caption",
+      "id": "txt_5200",
+      "reading_order": 7194,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 135.0,
+        "t": 732.29,
+        "r": 307.0600099999999,
+        "b": 720.7
+      },
+      "content": "Figure 1-1132  Install the PCA in the holder",
+      "caption_for": "fig_1946"
+    },
+    {
+      "type": "figure",
+      "id": "fig_1947",
+      "reading_order": 7195,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 268.041206802193,
+        "t": 585.9884796142578,
+        "r": 367.24035777627734,
+        "b": 468.3728332519531
+      },
+      "image_path": "figures/figure_1947.png",
+      "caption": "Install the PCA in the holder",
+      "figure_number": "Figure 1-1132",
+      "image_hash": "533e63a2c4928abb1c3e1d1cfda316d8124b1dbb4de11d746cf66170d8a3e399",
+      "width": 99,
+      "height": 118,
+      "previous_block_id": "txt_5200",
+      "next_block_id": "txt_5201"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_5201",
+      "reading_order": 7196,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 113.0,
+        "t": 457.75459,
+        "r": 281.9599999999999,
+        "b": 446.16459
+      },
+      "content": "Connect the wire harness to the PCA."
+    },
+    {
+      "type": "figure",
+      "id": "fig_1948",
+      "reading_order": 7197,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 133.07787092891093,
+        "t": 427.8500061035156,
+        "r": 361.7498089423638,
+        "b": 230.161865234375
+      },
+      "image_path": "figures/figure_1948.png",
+      "caption": "Connect one cable",
+      "figure_number": "Figure 1-1133",
+      "image_hash": "da0d663e090dd3cfb2279c095bf5aa1e6b08e6ef6882c1a92f4c62cefa05544d",
+      "width": 229,
+      "height": 198,
+      "previous_block_id": "txt_5201",
+      "next_block_id": "txt_5202",
+      "caption_id": "txt_5202"
+    },
+    {
+      "type": "caption",
+      "id": "txt_5202",
+      "reading_order": 7198,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 135.00001,
+        "t": 436.75459,
+        "r": 270.30000999999993,
+        "b": 425.16459
+      },
+      "content": "Figure 1-1133  Connect one cable",
+      "caption_for": "fig_1948"
+    }
+  ],
+  "page_stats": {
+    "block_count": 6,
+    "text_blocks": 3,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 1,
+    "captions": 2,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 3,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

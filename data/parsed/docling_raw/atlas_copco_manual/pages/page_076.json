@@ -1,0 +1,254 @@
+{
+  "page": 76,
+  "document_id": "doc_e02482e6",
+  "page_bbox": {
+    "width": 595.0,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0215",
+      "reading_order": 782,
+      "section": "4.3    Putting into operation (commissioning)",
+      "bbox": {
+        "l": 26.550371170043945,
+        "t": 816.0305767059326,
+        "r": 73.98110961914062,
+        "b": 793.0299987792969
+      },
+      "image_path": "figures/figure_0215.png",
+      "previous_block_id": "txt_0508",
+      "next_block_id": "txt_0509"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0509",
+      "reading_order": 783,
+      "section": "4.3    Putting into operation (commissioning)",
+      "bbox": {
+        "l": 63.61,
+        "t": 772.081,
+        "r": 534.6409999999989,
+        "b": 733.5039999999999
+      },
+      "content": "Connect an outlet tube leading to the sewage system (19 mm inner diameter). Since the OSCi functions at atmospheric pressure, the outlet piping must always be positioned below the outlet connection on the OSCi vessel 3, unless a pump (able to run dry) is installed (not provided)."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0510",
+      "reading_order": 784,
+      "section": "4.3    Putting into operation (commissioning)",
+      "bbox": {
+        "l": 63.61,
+        "t": 726.5409999999999,
+        "r": 539.9528999999993,
+        "b": 661.5639999999997
+      },
+      "content": "Check that the filter in the first tower is of circular shape and that it can move freely up and down. Pour clean water along the inner edge of the first tower until water flows out of the outlet connection or until the water reaches the bottom of the sensor chamber (visible through the sight-glass). The oleophilic filter (vessel 1) will start to float. Verify that the sensor arm (8) is in the upward position and rests on the edge of the filter bag."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0511",
+      "reading_order": 785,
+      "section": "4.3    Putting into operation (commissioning)",
+      "bbox": {
+        "l": 63.61,
+        "t": 654.6009999999998,
+        "r": 528.6415999999999,
+        "b": 629.2239999999997
+      },
+      "content": "Check that there are no leaks at the connections between vessel 1, 2 and 3. If there is a leak, proceed to Problem solving, fault 3."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0512",
+      "reading_order": 786,
+      "section": "4.3    Putting into operation (commissioning)",
+      "bbox": {
+        "l": 63.61,
+        "t": 622.2609999999997,
+        "r": 518.9109999999989,
+        "b": 610.0839999999997
+      },
+      "content": "Put the cover back on the first tower, tighten the clamping ring and close the compressor bodywork."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0513",
+      "reading_order": 787,
+      "section": "4.3    Putting into operation (commissioning)",
+      "bbox": {
+        "l": 135.07,
+        "t": 590.9730465,
+        "r": 504.0217999999988,
+        "b": 552.0039999999999
+      },
+      "content": "All outlet tubes outside the compressor must be positioned below the outlet drain connection (Drain plate) of the compressor, at least up to where a pump is installed."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0514",
+      "reading_order": 788,
+      "section": "4.3    Putting into operation (commissioning)",
+      "bbox": {
+        "l": 135.06969999999998,
+        "t": 550.9809999999999,
+        "r": 511.485299999999,
+        "b": 525.6039999999998
+      },
+      "content": "Outlet piping must be installed with a slight downward slope to the sewer, unless a pump is installed."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0216",
+      "reading_order": 789,
+      "section": "4.3    Putting into operation (commissioning)",
+      "bbox": {
+        "l": 84.13773345947266,
+        "t": 585.0727233886719,
+        "r": 111.34719848632812,
+        "b": 551.4338073730469
+      },
+      "image_path": "figures/figure_0216.png",
+      "previous_block_id": "txt_0514",
+      "next_block_id": "txt_0515"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0515",
+      "reading_order": 790,
+      "section": "4.4    Pictographs",
+      "bbox": {
+        "l": 28.21,
+        "t": 502.62,
+        "r": 158.88840000000005,
+        "b": 484.764
+      },
+      "content": "4.4    Pictographs",
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "id": "fig_0217",
+      "reading_order": 791,
+      "section": "4.4    Pictographs",
+      "bbox": {
+        "l": 90.1547622680664,
+        "t": 465.8800354003906,
+        "r": 487.0907897949219,
+        "b": 363.0137023925781
+      },
+      "image_path": "figures/figure_0217.png",
+      "previous_block_id": "txt_0515",
+      "next_block_id": "txt_0516"
+    },
+    {
+      "type": "table",
+      "id": "tbl_0061",
+      "reading_order": 792,
+      "section": "4.4    Pictographs",
+      "bbox": {
+        "l": 59.90702438354492,
+        "t": 343.95013427734375,
+        "r": 537.498046875,
+        "b": 277.1414794921875
+      },
+      "markdown": "|   71 | Automatic condensate outlet (not pressurized!)   |\n|------|--------------------------------------------------|\n|   72 | Periodically required manual test outlet         |\n|   73 | Manual condensate outlet                         |\n|   74 | Consult manual before maintenance or repair      |"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0516",
+      "reading_order": 793,
+      "section": "4.5    Elektronikon® display and warnings",
+      "bbox": {
+        "l": 28.21,
+        "t": 258.18000000000006,
+        "r": 334.23559999999986,
+        "b": 240.32399999999996
+      },
+      "content": "4.5    Elektronikon® display and warnings",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0517",
+      "reading_order": 794,
+      "section": "4.5    Elektronikon® display and warnings",
+      "bbox": {
+        "l": 62.23,
+        "t": 217.981,
+        "r": 477.7572000000007,
+        "b": 205.80399999999997
+      },
+      "content": "Following important parameters of the OSCi can be consulted from the Elektronikon® display:"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0518",
+      "reading_order": 795,
+      "section": "4.5    Elektronikon® display and warnings",
+      "bbox": {
+        "l": 62.23,
+        "t": 198.78049999999996,
+        "r": 466.4513999999992,
+        "b": 186.60349999999994
+      },
+      "content": "The remaining filter lifetime, expressed as a percentage compared to new filters (100%)"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0519",
+      "reading_order": 796,
+      "section": "4.5    Elektronikon® display and warnings",
+      "bbox": {
+        "l": 62.23,
+        "t": 179.64049999999997,
+        "r": 224.91010000000014,
+        "b": 167.46349999999995
+      },
+      "content": "The status of the overflow switch"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0520",
+      "reading_order": 797,
+      "section": "4.5    Elektronikon® display and warnings",
+      "bbox": {
+        "l": 62.23,
+        "t": 160.5005,
+        "r": 400.4689999999993,
+        "b": 148.32349999999997
+      },
+      "content": "To consult these data, please follow the steps given in the following sections."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0521",
+      "reading_order": 798,
+      "section": "4.5    Elektronikon® display and warnings",
+      "bbox": {
+        "l": 62.23,
+        "t": 141.3605,
+        "r": 419.9841000000002,
+        "b": 129.18349999999998
+      },
+      "content": "The OSCi is referenced by the Elektronikon® Graphic with the following symbol:"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0218",
+      "reading_order": 799,
+      "section": "4.5    Elektronikon® display and warnings",
+      "bbox": {
+        "l": 221.41156005859375,
+        "t": 120.381103515625,
+        "r": 268.2849426269531,
+        "b": 74.85748291015625
+      },
+      "image_path": "figures/figure_0218.png",
+      "previous_block_id": "txt_0521",
+      "next_block_id": "txt_0522"
+    }
+  ]
+}

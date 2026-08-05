@@ -1,0 +1,244 @@
+{
+  "page": 49,
+  "document_id": "doc_1032c87b",
+  "page_bbox": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_0431",
+      "reading_order": 527,
+      "section": "4.4.2 Exit Maintenance Mode (Single UPS unit)",
+      "bbox": {
+        "l": 77.904,
+        "t": 722.8676629101562,
+        "r": 242.50567999999998,
+        "b": 713.3961013631949
+      },
+      "content": "Disconnect maintenance switch."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0432",
+      "reading_order": 528,
+      "section": "4.4.2 Exit Maintenance Mode (Single UPS unit)",
+      "bbox": {
+        "l": 77.904,
+        "t": 707.2676629101563,
+        "r": 541.5188799999997,
+        "b": 666.596101363195
+      },
+      "content": "Close battery switch, and set 'Manual Byp' on panel as 'OFF'. At this time, operation of exiting maintenance status is finished; the load is switched from status of no AC power fault protection to status of UPS power supply protection."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0433",
+      "reading_order": 529,
+      "section": "4.5 Battery Cold Start (Optional)",
+      "bbox": {
+        "l": 80.784,
+        "t": 641.5988629101563,
+        "r": 335.22688,
+        "b": 627.2838892084989
+      },
+      "content": "4.5 Battery Cold Start (Optional)",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0434",
+      "reading_order": 530,
+      "section": "4.5 Battery Cold Start (Optional)",
+      "bbox": {
+        "l": 77.904,
+        "t": 602.2676629101563,
+        "r": 541.4141599999996,
+        "b": 545.966101363195
+      },
+      "content": "If you need to start the UPS through battery when there is no main power or bypass, battery cold start  option  is  should  be  equipped.  It  is  assumed  that  electrical  connection  of  battery  cold  start option with UPS and battery cabinet is normal. The operating steps for power on are as follows: 1. Close external battery switch."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0081",
+      "reading_order": 531,
+      "section": "4.5 Battery Cold Start (Optional)",
+      "bbox": {
+        "l": 330.9683744968299,
+        "t": 538.6180290640873,
+        "r": 351.86229621036085,
+        "b": 520.6821726743384
+      },
+      "image_path": "figures/figure_0081.png",
+      "previous_block_id": "txt_0434",
+      "next_block_id": "txt_0435",
+      "width": 20,
+      "height": 17,
+      "image_hash": "0d1087601967298d9b9f2ef909bc78970dbe35cb77f36a16eedf67b993418ec1"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0435",
+      "reading_order": 532,
+      "section": "4.5 Battery Cold Start (Optional)",
+      "bbox": {
+        "l": 77.904,
+        "t": 529.8776629101563,
+        "r": 541.5474399999997,
+        "b": 483.566101363195
+      },
+      "content": "After LCD display become normal, click On/Off icon ' ' in main interface, select 'ON', and then press 'YES'; or use button operation: power on the UPS by pressing 'ON' on panel for more than 1 s."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0082",
+      "reading_order": 533,
+      "section": "4.5 Battery Cold Start (Optional)",
+      "bbox": {
+        "l": 74.60360937988496,
+        "t": 475.9186963361871,
+        "r": 92.53884076940115,
+        "b": 459.3071159411204
+      },
+      "image_path": "figures/figure_0082.png",
+      "previous_block_id": "txt_0435",
+      "next_block_id": "txt_0436",
+      "width": 17,
+      "height": 16,
+      "image_hash": "18863dfa0d2cc2f887d8de3e0cbf2090590e8610b29f144a57962a148581acec"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_0436",
+      "reading_order": 534,
+      "section": "4.5 Battery Cold Start (Optional)",
+      "bbox": {
+        "l": 95.784,
+        "t": 465.9176629101563,
+        "r": 456.27567999999997,
+        "b": 456.446101363195
+      },
+      "content": "Note: Only the product with battery cold start can be turned on by the battery.",
+      "severity": "note"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0437",
+      "reading_order": 535,
+      "section": "4.6 Battery Manual Maintenance Mode",
+      "bbox": {
+        "l": 80.784,
+        "t": 427.3688629101563,
+        "r": 374.22688,
+        "b": 413.05388920849884
+      },
+      "content": "4.6 Battery Manual Maintenance Mode",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0438",
+      "reading_order": 536,
+      "section": "4.6 Battery Manual Maintenance Mode",
+      "bbox": {
+        "l": 77.904,
+        "t": 388.0176629101563,
+        "r": 541.5966399999999,
+        "b": 362.946101363195
+      },
+      "content": "To prolong service life of battery, it is suggested to take manual maintenance for battery once 2 or 3 months. Steps to access battery manual maintenance are as follows:"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0083",
+      "reading_order": 537,
+      "section": "4.6 Battery Manual Maintenance Mode",
+      "bbox": {
+        "l": 205.51000563861692,
+        "t": 355.6320633372079,
+        "r": 229.6655225035132,
+        "b": 338.026711424587
+      },
+      "image_path": "figures/figure_0083.png",
+      "previous_block_id": "txt_0438",
+      "next_block_id": "txt_0439",
+      "width": 24,
+      "height": 17,
+      "image_hash": "8ecd50893753f49d37c70379c21552985251760c2ed3a7aac99d63b9297b4910"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0439",
+      "reading_order": 538,
+      "section": "4.6 Battery Manual Maintenance Mode",
+      "bbox": {
+        "l": 77.904,
+        "t": 346.4976629101563,
+        "r": 541.61536,
+        "b": 284.946101363195
+      },
+      "content": "Click test command icon ' ' in main interface of display screen to enter menu of 'TEST CMD'. According to needs, select options of 'battery test (time)' or 'battery test (voltage)', or 'battery test (EOD)'. At this time, the rectifier is turned off, battery discharges, 'BAT' indicator flashes in green."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0440",
+      "reading_order": 539,
+      "section": "4.6 Battery Manual Maintenance Mode",
+      "bbox": {
+        "l": 77.904,
+        "t": 278.8176629101563,
+        "r": 541.5841599999999,
+        "b": 191.316101363195
+      },
+      "content": "If  the  UPS  output  is  switched  to  static  bypass  without  interruption  and  'Bat  test  success'  is displayed in left bottom corner of LCD screen, it means battery manual maintenance has been finished. After finishing battery manual maintenance, rectifier and inverter of UPS start normally, output is switched to inverter output without interruption, and battery is  charged. If necessary, maintenance personal can stop manual maintenance and recover normal working mode of UPS only by selecting 'CLR TEST' in menu of 'TEST CMD'."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0084",
+      "reading_order": 540,
+      "section": "4.6 Battery Manual Maintenance Mode",
+      "bbox": {
+        "l": 74.46036679312478,
+        "t": 184.27691969321484,
+        "r": 92.60039729589377,
+        "b": 165.9226460390969
+      },
+      "image_path": "figures/figure_0084.png",
+      "previous_block_id": "txt_0440",
+      "next_block_id": "txt_0441",
+      "width": 18,
+      "height": 18,
+      "image_hash": "1dcf692e03d6983e5c5b5bc4eb64e07615127d31990ab1c42f0e3fa935c38cdc"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_0441",
+      "reading_order": 541,
+      "section": "4.6 Battery Manual Maintenance Mode",
+      "bbox": {
+        "l": 74.784,
+        "t": 173.5476629101563,
+        "r": 541.61604,
+        "b": 113.316101363195
+      },
+      "content": "Note: With the battery manual maintenance mode, the battery will automatically discharge and the backup time will be shortened. Please use the battery manual maintenance mode function when the  mains  and  bypass  input  are  stable.  In  case  of  any  abnormal  situation,  you  can  operate  the 'terminate test'.",
+      "severity": "note"
+    }
+  ],
+  "page_stats": {
+    "block_count": 15,
+    "text_blocks": 11,
+    "paragraphs": 2,
+    "headings": 2,
+    "list_items": 5,
+    "captions": 0,
+    "admonitions": 2,
+    "references": 0,
+    "figures": 4,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

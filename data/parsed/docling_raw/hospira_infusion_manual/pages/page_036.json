@@ -1,0 +1,142 @@
+{
+  "page": 36,
+  "document_id": "doc_37f23c38",
+  "page_bbox": {
+    "width": 612.0,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_0253",
+      "reading_order": 283,
+      "section": "4.2.1.19 DATAPORT INTERFACE",
+      "bbox": {
+        "l": 81.0,
+        "t": 741.3995801,
+        "r": 436.4838125111,
+        "b": 728.42168707
+      },
+      "content": "The minimum line impedance is 2 K Ω (EIA-232-D standard: 3 K Ω min.)"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0254",
+      "reading_order": 284,
+      "section": "4.2.1.19 DATAPORT INTERFACE",
+      "bbox": {
+        "l": 81.00009960009999,
+        "t": 723.9395829699,
+        "r": 446.2685263351,
+        "b": 710.9616899399
+      },
+      "content": "The maximum line impedance is 30 K Ω (EIA-232-D standard: 7 K Ω max.)"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0255",
+      "reading_order": 285,
+      "section": "4.2.1.19 DATAPORT INTERFACE",
+      "bbox": {
+        "l": 81.00009960009993,
+        "t": 703.2627018100001,
+        "r": 444.11318017110017,
+        "b": 694.3672699280329
+      },
+      "content": "The maximum line capacitance is 13 nF (EIA-232-D standard: 2,500 pF)"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0256",
+      "reading_order": 286,
+      "section": "4.2.1.19 DATAPORT INTERFACE",
+      "bbox": {
+        "l": 72.00033416419993,
+        "t": 679.8029938561001,
+        "r": 504.0126803111002,
+        "b": 622.9082817821331
+      },
+      "content": "The communications default is 1200 BAUD, no parity, 8 data bits and 1 stop bit. The BAUD rate is selectable (1200, 2400, 4800, and 9600). The data format on the serial port is a 10 bit frame with asynchronous start and stop. The CTS line is held high and the RTS line is disconnected. The DataPort is isolated from the main system by an optical data path on the peripheral PWA and an isolated power supply."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0257",
+      "reading_order": 287,
+      "section": "4.2.1.20",
+      "bbox": {
+        "l": 72.00033416419993,
+        "t": 599.8241135561003,
+        "r": 104.4470587412,
+        "b": 590.5094875098606
+      },
+      "content": "4.2.1.20",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "id": "txt_0258",
+      "reading_order": 288,
+      "section": "POWER SUPPLY INTERFACE",
+      "bbox": {
+        "l": 72.0,
+        "t": 587.86035,
+        "r": 268.606332,
+        "b": 574.786219338843
+      },
+      "content": "POWER SUPPLY INTERFACE",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0259",
+      "reading_order": 289,
+      "section": "POWER SUPPLY INTERFACE",
+      "bbox": {
+        "l": 71.99999999999997,
+        "t": 559.80272681,
+        "r": 504.0350549696999,
+        "b": 526.9076548320329
+      },
+      "content": "The CPU subsystem interfaces the power supply subsystem by providing the MMIO signals needed  for  power  control  and  battery  management.  Additionally,  the  CPU  subsystem measures the battery terminal voltage and charge/discharge current via the ADC."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0260",
+      "reading_order": 290,
+      "section": "POWER SUPPLY INTERFACE",
+      "bbox": {
+        "l": 71.99999999999997,
+        "t": 511.8033470179001,
+        "r": 333.0692921175004,
+        "b": 502.90791513593285
+      },
+      "content": "See Table 4-3 for CPU-power supply interface signals."
+    },
+    {
+      "type": "table",
+      "id": "tbl_0014",
+      "reading_order": 291,
+      "section": "POWER SUPPLY INTERFACE",
+      "bbox": {
+        "l": 70.67252349853516,
+        "t": 484.5418701171875,
+        "r": 505.0315246582031,
+        "b": 98.69427490234375
+      },
+      "markdown": "Legend: P = Power;  A = Analog;  D = Digital;  I = Input;  O = Output\n\n| Table 4-3. CPU-Power Supply Interface   | Table 4-3. CPU-Power Supply Interface                                                    | Table 4-3. CPU-Power Supply Interface   |\n|-----------------------------------------|------------------------------------------------------------------------------------------|-----------------------------------------|\n| Signal Name                             | Type                                                                                     | Description                             |\n| D, O                                    | Holds system power on                                                                    | PWRHLD                                  |\n| A, I                                    | Startup pulse from the ON/OFF key                                                        | STRTUP                                  |\n| D, I                                    | Digital startup pulse, used as interrupt to the CPU                                      | STRUPD*                                 |\n| P                                       | 3.3 V system power                                                                       | V3_3                                    |\n| P                                       | 5 V analog and interface power                                                           | V5_0/VANA                               |\n| P                                       | Raw, unregulated charger voltage or battery voltage                                      | VMOT                                    |\n| P                                       | 2.7 V backup power for RTC and non-volatile SRAM                                         | V2_7                                    |\n| P                                       | Full supply, backed up by supercap                                                       | VSC time 5 V                            |\n| P                                       | 12 V, low current supply for audio alarm                                                 | V12_0                                   |\n| D, I                                    | Signal that indicates overvoltage, regulation problem on the power supply main regulator | OVRVLT*                                 |\n| D, I                                    | Buffered AC on signal                                                                    | BACON                                   |\n| A, I                                    | Voltage proportional to integration of battery charge/discharge current                  | IBATT                                   |\n| A,                                      | Divided battery terminal voltage                                                         | VBATT I                                 |\n| D, O                                    | Battery charger enable                                                                   | CHG*                                    |\n| VFLOAT* D,                              | Set the main regulator voltage to battery float charge level                             | O                                       |\n| ITGRST D,                               | Reset the charge current                                                                 | O integrator                            |"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0261",
+      "reading_order": 292,
+      "section": "POWER SUPPLY INTERFACE",
+      "bbox": {
+        "l": 120.00037579309998,
+        "t": 85.74300324690012,
+        "r": 456.0919492340992,
+        "b": 76.84757136493283
+      },
+      "content": "Legend: P = Power;  A = Analog;  D = Digital;  I = Input;  O = Output"
+    }
+  ]
+}

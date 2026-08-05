@@ -1,0 +1,241 @@
+{
+  "page": 327,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "table",
+      "id": "tbl_0035",
+      "reading_order": 3663,
+      "section": "Turn the printer power off",
+      "bbox": {
+        "l": 99.0125017798404,
+        "t": 717.8792114257812,
+        "r": 550.3615802671542,
+        "b": 656.2712707519531
+      },
+      "markdown": "Table 1-32  Part number\n\n| Fuser part number   |                   |\n|---------------------|-------------------|\n| RM2-2585-000CN      | Fuser (110V/127V) |\n| RM2-2586-000CN      | Fuser (220V/240V) |",
+      "title": "Table 1-32  Part number",
+      "table_number": "Table 1-32",
+      "rows": 3,
+      "cols": 1,
+      "caption_id": "txt_2726"
+    },
+    {
+      "type": "caption",
+      "id": "txt_2726",
+      "reading_order": 3664,
+      "section": "Turn the printer power off",
+      "bbox": {
+        "l": 100.0,
+        "t": 730.661,
+        "r": 188.281,
+        "b": 720.23
+      },
+      "content": "Table 1-32  Part number",
+      "caption_for": "tbl_0035"
+    },
+    {
+      "type": "heading",
+      "id": "txt_2727",
+      "reading_order": 3665,
+      "section": "Required tools",
+      "bbox": {
+        "l": 100.0,
+        "t": 635.165,
+        "r": 158.23999999999998,
+        "b": 623.575
+      },
+      "content": "Required tools",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2728",
+      "reading_order": 3666,
+      "section": "Required tools",
+      "bbox": {
+        "l": 100.0,
+        "t": 615.165,
+        "r": 424.0000000000002,
+        "b": 603.575
+      },
+      "content": "#2 Phillips screwdriver with a magnetic tip and a 152 mm (6 in) shaft length"
+    },
+    {
+      "type": "heading",
+      "id": "txt_2729",
+      "reading_order": 3667,
+      "section": "After performing service",
+      "bbox": {
+        "l": 100.0,
+        "t": 589.91585,
+        "r": 197.32999999999996,
+        "b": 578.32585
+      },
+      "content": "After performing service",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "heading",
+      "id": "txt_2730",
+      "reading_order": 3668,
+      "section": "Turn the printer power on",
+      "bbox": {
+        "l": 100.00002,
+        "t": 569.91585,
+        "r": 202.35002,
+        "b": 558.32585
+      },
+      "content": "Turn the printer power on",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2731",
+      "reading_order": 3669,
+      "section": "Turn the printer power on",
+      "bbox": {
+        "l": 100.00002,
+        "t": 548.91585,
+        "r": 222.84001999999998,
+        "b": 537.32585
+      },
+      "content": "Connect the power cable."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2732",
+      "reading_order": 3670,
+      "section": "Turn the printer power on",
+      "bbox": {
+        "l": 100.00001,
+        "t": 527.6667,
+        "r": 294.29002,
+        "b": 516.0767000000001
+      },
+      "content": "Use the power switch to turn the power on."
+    },
+    {
+      "type": "heading",
+      "id": "txt_2733",
+      "reading_order": 3671,
+      "section": "Post service test",
+      "bbox": {
+        "l": 100.0,
+        "t": 502.41756,
+        "r": 165.89,
+        "b": 490.82756
+      },
+      "content": "Post service test",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_2734",
+      "reading_order": 3672,
+      "section": "Post service test",
+      "bbox": {
+        "l": 100.0,
+        "t": 482.41756,
+        "r": 311.99999999999994,
+        "b": 470.82756
+      },
+      "content": "Make sure that the printer initializes to a Ready state."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_2735",
+      "reading_order": 3673,
+      "section": "Post service test",
+      "bbox": {
+        "l": 100.0,
+        "t": 461.41756000000004,
+        "r": 415.64000000000004,
+        "b": 449.82756
+      },
+      "content": "Print a configuration page to make sure that the printer is functioning correctly."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2736",
+      "reading_order": 3674,
+      "section": "Post service test",
+      "bbox": {
+        "l": 100.00002,
+        "t": 440.41756000000004,
+        "r": 252.31001999999998,
+        "b": 428.82756
+      },
+      "content": "Remove the rear door assembly."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2737",
+      "reading_order": 3675,
+      "section": "Post service test",
+      "bbox": {
+        "l": 122.00004,
+        "t": 419.41756000000004,
+        "r": 367.2400400000001,
+        "b": 407.82756
+      },
+      "content": "At the rear of the printer, remove two screws (callout 1)."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0905",
+      "reading_order": 3676,
+      "section": "Post service test",
+      "bbox": {
+        "l": 143.04572793489808,
+        "t": 386.31512451171875,
+        "r": 432.5886534856711,
+        "b": 168.30670166015625
+      },
+      "image_path": "figures/figure_0905.png",
+      "caption": "Remove two screws",
+      "figure_number": "Figure 1-501",
+      "image_hash": "2a1111e6deff7384449da77ab521bf6c3fb271adcbd089cede8ce52e6d9f9f58",
+      "width": 290,
+      "height": 218,
+      "previous_block_id": "txt_2737",
+      "next_block_id": "txt_2738",
+      "caption_id": "txt_2738"
+    },
+    {
+      "type": "caption",
+      "id": "txt_2738",
+      "reading_order": 3677,
+      "section": "Post service test",
+      "bbox": {
+        "l": 144.00002,
+        "t": 398.41756000000004,
+        "r": 281.06001999999995,
+        "b": 386.82756
+      },
+      "content": "Figure 1-501  Remove two screws",
+      "caption_for": "fig_0905"
+    }
+  ],
+  "page_stats": {
+    "block_count": 15,
+    "text_blocks": 13,
+    "paragraphs": 2,
+    "headings": 4,
+    "list_items": 5,
+    "captions": 2,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 1,
+    "tables": 1,
+    "toc_tables": 0
+  }
+}

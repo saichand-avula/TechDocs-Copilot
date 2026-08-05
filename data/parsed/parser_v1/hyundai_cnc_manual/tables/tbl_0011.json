@@ -1,0 +1,18 @@
+{
+  "id": "tbl_0011",
+  "page": 41,
+  "section": "B. Standard, O: Option",
+  "title": null,
+  "markdown": "| Standard G Code   | Group   | Function                              | Function                              | Type   |\n|-------------------|---------|---------------------------------------|---------------------------------------|--------|\n| G70               |         | Finishing cycle                       | Multiple repetitive cycle             | O      |\n| G71               |         | Rough turning                         | Multiple repetitive cycle             | O      |\n| G72               |         | Rough facing                          | Multiple repetitive cycle             | O      |\n| G73               |         | Pattern repeating cycle               | Multiple repetitive cycle             | O      |\n| G74               |         | End face peck drilling cycle          | Multiple repetitive cycle             | O      |\n| G75               |         | Grooving in X-axis                    | Multiple repetitive cycle             | O      |\n| G76               |         | Thread cutting cycle                  | Multiple repetitive cycle             | O      |\n| G90               | 01      | Turning cycle A                       | Turning cycle A                       | B      |\n| G92               | 01      | Thread cutting cycle                  | Thread cutting cycle                  | B      |\n| G94               | 01      | Facing cycle B                        | Facing cycle B                        | B      |\n| G96               | 02      | Constant surface speed control        | Constant surface speed control        | B      |\n| G97               | 02      | Constant surface speed control cancel | Constant surface speed control cancel | B      |\n| G98               | 04      | Feed per minute (mm/min)              | Feed per minute (mm/min)              | B      |\n| G99               | 04      | Feed per revolution (mm/rev)          | Feed per revolution (mm/rev)          | B      |\n| G122              | 11      | Tool registration start               | Tool Life Management                  | O      |\n| G123              | 11      | Tool registration finish              | Tool Life Management                  | O      |\n| G111              | *       | Taper multi chamfering/R              | Taper multi chamfering/R              | O      |\n| G112              | *       | Circular multi chamfering/R           | Circular multi chamfering/R           | O      |\n| G141              | *       | Tool nose R left compensation         | Tool nose R left compensation         | B      |\n| G142              | *       | Tool nose R right compensation        | Tool nose R right compensation        | B      |\n| G150              | 13      | Groove width compensation OFF         | Groove width compensation OFF         | B      |\n| G151              | 13      | Groove width compensation ON          | Groove width compensation ON          | B      |",
+  "block_id": "#/tables/10",
+  "reading_order": 316,
+  "bbox": {
+    "l": 66.29093170166016,
+    "t": 761.6871566772461,
+    "r": 521.4774169921875,
+    "b": 350.68634033203125
+  },
+  "rows": 23,
+  "cols": 5,
+  "type": "table"
+}

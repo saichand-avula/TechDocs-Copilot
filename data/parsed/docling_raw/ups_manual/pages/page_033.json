@@ -1,0 +1,106 @@
+{
+  "page": 33,
+  "document_id": "doc_1032c87b",
+  "page_bbox": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0048",
+      "reading_order": 313,
+      "section": "3.4.2 Cold Start of Battery",
+      "bbox": {
+        "l": 77.90040258973947,
+        "t": 722.2150359600417,
+        "r": 97.85569414322758,
+        "b": 703.4623779276443
+      },
+      "image_path": "figures/figure_0048.png",
+      "previous_block_id": "txt_0258",
+      "next_block_id": "txt_0259"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0259",
+      "reading_order": 314,
+      "section": "3.4.2 Cold Start of Battery",
+      "bbox": {
+        "l": 77.904,
+        "t": 710.2676629101563,
+        "r": 541.56112,
+        "b": 635.3961013631949
+      },
+      "content": "Note: Dry contacts for cold battery start of 200 ~ 300 kVA UPS is located on the right of UPS power wiring bar, which can be seen when the front door of UPS is opened; the dry contact for the cold battery start of 80 ~ 160 kVA UPS and 400 ~ 500 kVA UPS is located on the bottom right corner of the right interior door of circuit board, which can be seen when the right interior door of UPS is opened."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0260",
+      "reading_order": 315,
+      "section": "3.4.3 LBS (Load Bus Synchronization)",
+      "bbox": {
+        "l": 74.664,
+        "t": 617.5959829101563,
+        "r": 294.766,
+        "b": 606.8328447886093
+      },
+      "content": "3.4.3 LBS (Load Bus Synchronization)",
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "id": "fig_0049",
+      "reading_order": 316,
+      "section": "3.4.3 LBS (Load Bus Synchronization)",
+      "bbox": {
+        "l": 232.78466131839463,
+        "t": 584.5409716211874,
+        "r": 374.94687913084294,
+        "b": 418.89964039832563
+      },
+      "image_path": "figures/figure_0049.png",
+      "previous_block_id": "txt_0260",
+      "next_block_id": "txt_0261"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0261",
+      "reading_order": 317,
+      "section": "3.4.3 LBS (Load Bus Synchronization)",
+      "bbox": {
+        "l": 242.69,
+        "t": 386.4576629101563,
+        "r": 376.44568,
+        "b": 376.98610136319496
+      },
+      "content": "Figure 3-20: LBS controller"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0262",
+      "reading_order": 318,
+      "section": "3.4.3 LBS (Load Bus Synchronization)",
+      "bbox": {
+        "l": 77.904,
+        "t": 370.8576629101563,
+        "r": 541.3824799999993,
+        "b": 314.586101363195
+      },
+      "content": "Dual bus system is composed of two independent UPS systems and each UPS system can be composed  of  one  or  more  parallel  stand-alone  UPS.  Dual  bus  system  with  high  reliability  is applicable to load with multiple input terminals. For single input load, one optional static transfer switch (STS) can be added for load power supply."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0263",
+      "reading_order": 319,
+      "section": "3.4.3 LBS (Load Bus Synchronization)",
+      "bbox": {
+        "l": 77.904,
+        "t": 308.4576629101563,
+        "r": 541.52944,
+        "b": 236.58610136319498
+      },
+      "content": "Dual bus system uses LBS cable option to realize the synchronous output of two independent (or parallel) UPS system. One of the systems is master system and the other one is slave system. The operation mode of dual bus system includes the operation of master / slave system in inversion or bypass  mode.  The  wiring  diagram  between  synchronous  controller  and  stand-alone  or  parallel system is as shown in Figure 3-21 and 3-22;"
+    }
+  ]
+}

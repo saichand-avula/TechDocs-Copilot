@@ -1,0 +1,349 @@
+{
+  "page": 107,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_1031",
+      "reading_order": 1319,
+      "section": "Post service test",
+      "bbox": {
+        "l": 122.0,
+        "t": 732.29,
+        "r": 217.13999999999993,
+        "b": 720.7
+      },
+      "content": "Remove the cover."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1032",
+      "reading_order": 1320,
+      "section": "Post service test",
+      "bbox": {
+        "l": 100.0,
+        "t": 470.42,
+        "r": 262.63999999999993,
+        "b": 458.83
+      },
+      "content": "Unpack the replacement assembly."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1033",
+      "reading_order": 1321,
+      "section": "Post service test",
+      "bbox": {
+        "l": 122.0,
+        "t": 449.42,
+        "r": 261.1099999999999,
+        "b": 437.83
+      },
+      "content": "Dispose of the defective part."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0271",
+      "reading_order": 1322,
+      "section": "Post service test",
+      "bbox": {
+        "l": 143.0742179410141,
+        "t": 698.6827545166016,
+        "r": 432.5659590910776,
+        "b": 481.9527587890625
+      },
+      "image_path": "figures/figure_0271.png",
+      "caption": "Remove the cover",
+      "figure_number": "Figure 1-123",
+      "image_hash": "00e298410061ce74b0831529da1bdf94f049a8a40bf28e57446df47bbbff063c",
+      "width": 290,
+      "height": 217,
+      "previous_block_id": "txt_1033",
+      "next_block_id": "txt_1034",
+      "caption_id": "txt_1034"
+    },
+    {
+      "type": "caption",
+      "id": "txt_1034",
+      "reading_order": 1323,
+      "section": "Post service test",
+      "bbox": {
+        "l": 144.0,
+        "t": 711.29,
+        "r": 272.8999899999999,
+        "b": 699.7
+      },
+      "content": "Figure 1-123  Remove the cover",
+      "caption_for": "fig_0271"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0272",
+      "reading_order": 1324,
+      "section": "Post service test",
+      "bbox": {
+        "l": 127.70299029969964,
+        "t": 428.3877258300781,
+        "r": 140.48853636345663,
+        "b": 414.50384521484375
+      },
+      "image_path": "figures/figure_0272.png",
+      "caption": "Remove the cover",
+      "decorative": true,
+      "width": 12,
+      "height": 13,
+      "figure_number": "Figure 1-123",
+      "image_hash": "86d087cd19fb2519bae05fb93939672cbb21115d8f05a661d05b580dff30975a",
+      "previous_block_id": "txt_1034",
+      "next_block_id": "txt_1035"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_1035",
+      "reading_order": 1325,
+      "section": "Post service test",
+      "bbox": {
+        "l": 144.0,
+        "t": 425.92,
+        "r": 168.13,
+        "b": 414.33
+      },
+      "content": "NOTE:",
+      "severity": "note"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1036",
+      "reading_order": 1326,
+      "section": "Post service test",
+      "bbox": {
+        "l": 178.13,
+        "t": 425.92,
+        "r": 413.8599999999999,
+        "b": 414.33
+      },
+      "content": "HP recommends responsible disposal of the defective part."
+    },
+    {
+      "type": "reference",
+      "id": "txt_1037",
+      "reading_order": 1327,
+      "section": "Post service test",
+      "bbox": {
+        "l": 143.99998,
+        "t": 404.92,
+        "r": 467.28998,
+        "b": 393.33
+      },
+      "content": "http://www8.hp.com/us/en/hp-information/environment/product-recycling.html"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1038",
+      "reading_order": 1328,
+      "section": "Post service test",
+      "bbox": {
+        "l": 122.0,
+        "t": 382.42,
+        "r": 342.5199999999998,
+        "b": 370.83
+      },
+      "content": "Unpack the replacement part from the packaging."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0273",
+      "reading_order": 1329,
+      "section": "Post service test",
+      "bbox": {
+        "l": 128.02923747359017,
+        "t": 360.8844909667969,
+        "r": 141.9403675530685,
+        "b": 347.6191711425781
+      },
+      "image_path": "figures/figure_0273.png",
+      "decorative": true,
+      "width": 13,
+      "height": 13,
+      "image_hash": "6aa535d73ea5c7f7b9d8f181ec498a090d901095ecb06f8e2d24f178549c38f3",
+      "previous_block_id": "txt_1038",
+      "next_block_id": "txt_1039"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0274",
+      "reading_order": 1330,
+      "section": "Post service test",
+      "bbox": {
+        "l": 127.83101993371507,
+        "t": 244.68072509765625,
+        "r": 139.73910278715664,
+        "b": 231.9449462890625
+      },
+      "image_path": "figures/figure_0274.png",
+      "decorative": true,
+      "width": 11,
+      "height": 12,
+      "image_hash": "efe7919266e81b5a85f6dcc2399903149a61879db3e5174907381b8e1565e185",
+      "previous_block_id": "txt_1038",
+      "next_block_id": "txt_1039"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_1039",
+      "reading_order": 1331,
+      "severity": "caution",
+      "content": "CAUTION: Some parts are sensitive to electrostatic discharge (ESD). Always perform service",
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 144.0,
+        "t": 353.53499,
+        "r": 181.75,
+        "b": 341.94499
+      }
+    },
+    {
+      "type": "figure",
+      "id": "fig_0275",
+      "reading_order": 1333,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 191.3454392670928,
+        "t": 357.6576843261719,
+        "r": 210.66552207089117,
+        "b": 336.5509948730469
+      },
+      "image_path": "figures/figure_0275.png",
+      "decorative": true,
+      "width": 19,
+      "height": 21,
+      "image_hash": "c840a08f424c9b855e512919925808b29f93319ed238930cb7eaaee4e4b2d880",
+      "previous_block_id": "txt_1040",
+      "next_block_id": "txt_1041"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1041",
+      "reading_order": 1334,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 144.0,
+        "t": 334.92,
+        "r": 549.7700400000001,
+        "b": 299.33
+      },
+      "content": "work at an ESD-protected workstation or mat. If an ESD workstation or mat is not available, touch the sheet-metal chassis to provide a static ground before touching an ESD-sensitive assembly. Protect the ESD-sensitive assemblies by placing them in ESD pouches when they are out of the printer."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1042",
+      "reading_order": 1335,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 144.00004,
+        "t": 289.92,
+        "r": 548.6300400000002,
+        "b": 254.32999999999993
+      },
+      "content": "If the replacement part is a roller or pad, avoid touching the spongy part of it. Skin oils on the roller or pad can cause paper pickup and/or print-quality problems. HP recommends using disposable gloves when handling rollers or pads or washing your hands before touching rollers or pads."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1043",
+      "reading_order": 1336,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 144.0,
+        "t": 244.91999999999996,
+        "r": 541.73,
+        "b": 221.32999999999993
+      },
+      "content": "IMPORTANT: Make sure that all of the shipping materials (for example shipping tape) are removed from the replacement part prior to installation."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1044",
+      "reading_order": 1337,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 122.0,
+        "t": 210.41999999999996,
+        "r": 343.02,
+        "b": 198.83000000000004
+      },
+      "content": "To install an assembly, reverse the removal steps."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1045",
+      "reading_order": 1338,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 144.00002,
+        "t": 189.41999999999996,
+        "r": 551.6100400000003,
+        "b": 153.83000000000004
+      },
+      "content": "When applicable, special installation instructions are provided for an assembly at the end of the removal procedure. Always completely read the removal instructions and follow all special installation instructions."
+    },
+    {
+      "type": "heading",
+      "id": "txt_1046",
+      "reading_order": 1339,
+      "section": "Removal and replacement: Top-rear cover (MFP)",
+      "bbox": {
+        "l": 54.00004,
+        "t": 140.41999999999996,
+        "r": 246.50003999999998,
+        "b": 128.83000000000004
+      },
+      "content": "Removal and replacement: Top-rear cover (MFP)",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1047",
+      "reading_order": 1340,
+      "section": "Removal and replacement: Top-rear cover (MFP)",
+      "bbox": {
+        "l": 100.00005,
+        "t": 120.41999999999996,
+        "r": 309.42004999999983,
+        "b": 108.83000000000004
+      },
+      "content": "Learn how to remove and replace the top-rear cover."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1048",
+      "reading_order": 1341,
+      "section": "Removal and replacement: Top-rear cover (MFP)",
+      "bbox": {
+        "l": 100.00004,
+        "t": 99.41999999999996,
+        "r": 334.76003999999995,
+        "b": 87.83000000000004
+      },
+      "content": "To view a short video of this procedure, click the link below.",
+      "hyperlink_hint": true
+    }
+  ],
+  "page_stats": {
+    "block_count": 22,
+    "text_blocks": 17,
+    "paragraphs": 6,
+    "headings": 1,
+    "list_items": 6,
+    "captions": 1,
+    "admonitions": 2,
+    "references": 1,
+    "figures": 5,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

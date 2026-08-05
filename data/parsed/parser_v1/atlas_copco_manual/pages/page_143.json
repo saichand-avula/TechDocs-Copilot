@@ -1,0 +1,54 @@
+{
+  "page": 143,
+  "document_id": "doc_e02482e6",
+  "page_bbox": {
+    "width": 595.0,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0349",
+      "reading_order": 1520,
+      "section": "GA 75",
+      "bbox": {
+        "l": 519.4735107421875,
+        "t": 815.8097343444824,
+        "r": 567.223388671875,
+        "b": 793.1150398254395
+      },
+      "image_path": "figures/figure_0349.png",
+      "image_hash": "b28a1d23de5124d82d6f84120acacff249829ec0e42f4c826059a188d93e4d2e",
+      "width": 48,
+      "height": 23
+    },
+    {
+      "type": "table",
+      "id": "tbl_0128",
+      "reading_order": 1521,
+      "section": "GA 75",
+      "bbox": {
+        "l": 96.94557189941406,
+        "t": 763.4728012084961,
+        "r": 554.4415283203125,
+        "b": 248.58135986328125
+      },
+      "markdown": "|                                                                                           | Units   | 7.5 bar   | 8 bar   | 10 bar   | 13 bar   |\n|-------------------------------------------------------------------------------------------|---------|-----------|---------|----------|----------|\n| Power consumption dryer at full load,Full-Feature units (1)                               | kW      | 1.6       | 1.6     | 1.6      | 1.2      |\n| Power consumpation Dryer at no load, Full- Feature units                                  | kW      | 2.4       | 2.4     | 2.4      | 2.4      |\n| Power consumpation Dryer at no load, Full- Feature units (1)                              | kW      | 1.4       | 1.4     | 1.4      | 1.1      |\n| Refrigerant type,Full-Feature units                                                       |         | R404a     | R404a   | R404a    | R404a    |\n| Refrigerant type,Full-Feature units (1)                                                   |         | R410A     | R410A   | R410A    | R410A    |\n| Refrigerant quantity, Full- Feature units                                                 | kg      | 1.4       | 1.4     | 1.4      | 1.4      |\n| Refrigerant quantity, Full- Feature units (1)                                             | kg      | 0.97      | 0.97    | 0.97     | 1.00     |\n| Oil capacity, air-cooled units                                                            | l       | 25        | 25      | 25       | 25       |\n| Oil capacity, water-cooled units                                                          | l       | 22        | 22      | 22       | 22       |\n| Sound pressure level, Workplace and workplace Full-Feature (according to ISO 2151 (2004)) | dB(A)   | 70        | 70      | 70       | 70       |",
+      "rows": 11,
+      "cols": 5
+    }
+  ],
+  "page_stats": {
+    "block_count": 2,
+    "text_blocks": 0,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 0,
+    "captions": 0,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 1,
+    "tables": 1,
+    "toc_tables": 0
+  }
+}

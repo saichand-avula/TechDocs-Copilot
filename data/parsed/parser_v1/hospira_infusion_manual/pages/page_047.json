@@ -1,0 +1,157 @@
+{
+  "page": 47,
+  "document_id": "doc_37f23c38",
+  "page_bbox": {
+    "width": 612.0,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0375",
+      "reading_order": 411,
+      "section": "4.2.3.5 PRESSURE SENSORS",
+      "bbox": {
+        "l": 108.0,
+        "t": 738.12273681,
+        "r": 252.96141599999996,
+        "b": 713.146259338843
+      },
+      "content": "4.2.3.5 PRESSURE SENSORS",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0376",
+      "reading_order": 412,
+      "section": "4.2.3.5 PRESSURE SENSORS",
+      "bbox": {
+        "l": 108.0,
+        "t": 698.10277681,
+        "r": 540.0404333751005,
+        "b": 617.2084246400332
+      },
+      "content": "The mechanism subsection contains two strain gauge-type pressure sensors, one at the proximal and the other at the distal cassette ports. Electrically, the strain gauge is a Wheatstone bridge made of four strain gauge resistors. When the bridge is electrically excited, the bridge will output a millivolt level signal proportional to the applied pressure. The  output  signal  is  amplified  and  offset  adjusted  before  being  read  by  the  ADC. Each pressure sensor circuit includes an excitation voltage supply, sensor amplifiers, and a low pass filter."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0377",
+      "reading_order": 413,
+      "section": "4.2.3.5 PRESSURE SENSORS",
+      "bbox": {
+        "l": 108.0,
+        "t": 602.1041168259003,
+        "r": 540.0911298259992,
+        "b": 569.2090448479332
+      },
+      "content": "The pressure sensor circuitry is on the APP PWA. Each of the two channels has an identical topology, but different gain and filter response. A block diagram of this circuit is shown in Figure 4-5 ."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0022",
+      "reading_order": 414,
+      "section": "4.2.3.5 PRESSURE SENSORS",
+      "bbox": {
+        "l": 106.97901153564453,
+        "t": 562.3923950195312,
+        "r": 118.78601837158203,
+        "b": 549.8148803710938
+      },
+      "image_path": "figures/figure_0022.png",
+      "previous_block_id": "txt_0377",
+      "next_block_id": "txt_0378",
+      "width": 11,
+      "height": 12,
+      "decorative": true,
+      "image_hash": "a0223b594583d809da2d43e666601d86d95435e241bc6d0abab3a928fd840014"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0378",
+      "reading_order": 415,
+      "section": "4.2.3.5 PRESSURE SENSORS",
+      "bbox": {
+        "l": 108.0,
+        "t": 564.89996,
+        "r": 153.38604349599996,
+        "b": 548.0462860511885
+      },
+      "content": " Note:"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0379",
+      "reading_order": 416,
+      "section": "4.2.3.5 PRESSURE SENSORS",
+      "bbox": {
+        "l": 158.4000121301,
+        "t": 556.80272681,
+        "r": 446.86301695129976,
+        "b": 547.9072949280328
+      },
+      "content": "Component references are made to the distal channel only."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0023",
+      "reading_order": 417,
+      "section": "4.2.3.5 PRESSURE SENSORS",
+      "bbox": {
+        "l": 120.89483642578125,
+        "t": 452.6763916015625,
+        "r": 521.5606079101562,
+        "b": 199.8094482421875
+      },
+      "image_path": "figures/figure_0023.png",
+      "previous_block_id": "txt_0379",
+      "next_block_id": "txt_0380",
+      "caption_id": "txt_0381",
+      "caption": ". Pressure Sensor Excitation and Amplifier Block Diagram",
+      "figure_number": "Figure 4-5",
+      "image_hash": "a8027af55dd909c6cc320e18d3ce9c28bb556014313fbb41236aa0dcf28bb032",
+      "width": 401,
+      "height": 253
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0380",
+      "reading_order": 418,
+      "section": "4.2.3.5 PRESSURE SENSORS",
+      "bbox": {
+        "l": 491.3761,
+        "t": 143.93174580000004,
+        "r": 518.731071802,
+        "b": 138.29155779999996
+      },
+      "content": "05 K 01018"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0381",
+      "reading_order": 419,
+      "section": "4.2.3.5 PRESSURE SENSORS",
+      "bbox": {
+        "l": 152.58037828710002,
+        "t": 123.25046351699996,
+        "r": 495.167272649501,
+        "b": 114.03745426699993
+      },
+      "content": "Figure 4-5. Pressure Sensor Excitation and Amplifier Block Diagram",
+      "caption_for": "fig_0023"
+    }
+  ],
+  "page_stats": {
+    "block_count": 9,
+    "text_blocks": 7,
+    "paragraphs": 4,
+    "headings": 1,
+    "list_items": 1,
+    "captions": 1,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 2,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

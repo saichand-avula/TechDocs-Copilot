@@ -1,0 +1,157 @@
+{
+  "page": 43,
+  "document_id": "doc_37f23c38",
+  "page_bbox": {
+    "width": 612.0,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0327",
+      "reading_order": 361,
+      "section": "4.2.3.1.1",
+      "bbox": {
+        "l": 108.0,
+        "t": 738.12273681,
+        "r": 142.97955512000001,
+        "b": 728.8081107637603
+      },
+      "content": "4.2.3.1.1",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "id": "txt_0328",
+      "reading_order": 362,
+      "section": "Stepper Motors",
+      "bbox": {
+        "l": 108.0,
+        "t": 726.7603700000001,
+        "r": 204.00918779999992,
+        "b": 713.686239338843
+      },
+      "content": "Stepper Motors",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0329",
+      "reading_order": 363,
+      "section": "Stepper Motors",
+      "bbox": {
+        "l": 108.0,
+        "t": 697.68278681,
+        "r": 343.56718451300014,
+        "b": 688.7873549280329
+      },
+      "content": "Each motor is named by its function, as follows:"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0330",
+      "reading_order": 364,
+      "section": "Stepper Motors",
+      "bbox": {
+        "l": 116.9997654359,
+        "t": 679.6829571379001,
+        "r": 339.4592779886002,
+        "b": 670.7875252559329
+      },
+      "content": "-Plunger motor for driving the plunger screw"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0331",
+      "reading_order": 365,
+      "section": "Stepper Motors",
+      "bbox": {
+        "l": 116.9997654359,
+        "t": 662.2229600078001,
+        "r": 394.91213166410006,
+        "b": 653.3275281258329
+      },
+      "content": "-I/O valve motor for moving the input-output valve pins"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0332",
+      "reading_order": 366,
+      "section": "Stepper Motors",
+      "bbox": {
+        "l": 116.9997654359,
+        "t": 644.8229221379002,
+        "r": 423.5230571899004,
+        "b": 635.927490255933
+      },
+      "content": "-L/S valve motor for moving the line select valve pins A and B"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0333",
+      "reading_order": 367,
+      "section": "Stepper Motors",
+      "bbox": {
+        "l": 108.0,
+        "t": 621.3632141840002,
+        "r": 540.0453349730004,
+        "b": 575.06402
+      },
+      "content": "All three motors are four phase stepper types. One electrical revolution is accomplished after four motor steps (phases) are completed. The step-angle (the number of steps per shaft  revolution)  resolutions  are  3.6 ° /step  (100  steps/rev)  for  the  plunger  motor, and 7.5 ° /step (48 steps/rev) for the I/O and L/S valve motors."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0334",
+      "reading_order": 368,
+      "section": "Stepper Motors",
+      "bbox": {
+        "l": 107.99958384299998,
+        "t": 561.3630471138999,
+        "r": 540.1026656809996,
+        "b": 504.46833503993287
+      },
+      "content": "The unipolar motor windings have a center tap connected on each of the two coils as shown in Figure 4-3 . Unidirectional current enters the center tap and is steered to one end of the coil or the other end by the driver electronics, creating positive or negative flux lines in the  motor  coil.  With  two  coils  each  with  a  choice  of  flux  polarity,  four  electrical combinations or phases are possible."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0020",
+      "reading_order": 369,
+      "section": "Stepper Motors",
+      "bbox": {
+        "l": 228.2120361328125,
+        "t": 385.6304931640625,
+        "r": 418.63311767578125,
+        "b": 222.92291259765625
+      },
+      "image_path": "figures/figure_0020.png",
+      "previous_block_id": "txt_0334",
+      "next_block_id": "txt_0335"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0335",
+      "reading_order": 370,
+      "section": "Stepper Motors",
+      "bbox": {
+        "l": 243.180823567,
+        "t": 175.4515036529001,
+        "r": 404.62372125809975,
+        "b": 166.23849440290007
+      },
+      "content": "Figure 4-3. Stepper Motor Coils"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0336",
+      "reading_order": 371,
+      "section": "Stepper Motors",
+      "bbox": {
+        "l": 506.6308,
+        "t": 201.94015579999996,
+        "r": 533.9857118000001,
+        "b": 196.2999678
+      },
+      "content": "98K01020"
+    }
+  ]
+}

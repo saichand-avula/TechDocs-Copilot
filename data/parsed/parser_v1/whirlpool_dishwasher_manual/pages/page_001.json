@@ -1,0 +1,103 @@
+{
+  "page": 1,
+  "document_id": "doc_16216d0c",
+  "page_bbox": {
+    "width": 612.0,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0001",
+      "reading_order": 0,
+      "bbox": {
+        "l": 223.76473999023438,
+        "t": 707.1963577270508,
+        "r": 449.5889892578125,
+        "b": 635.2907257080078
+      },
+      "image_path": "figures/figure_0001.png",
+      "next_block_id": "txt_0001",
+      "image_hash": "07fbb44f6a26c2efc958e85300683027c1a0e49df94d7f4fe29ccdaaab1c530e",
+      "width": 226,
+      "height": 72
+    },
+    {
+      "type": "heading",
+      "id": "txt_0001",
+      "reading_order": 1,
+      "section": "SERVICE MANUAL",
+      "bbox": {
+        "l": 154.6584,
+        "t": 599.136,
+        "r": 532.6584000000001,
+        "b": 562.6180840336134
+      },
+      "content": "SERVICE MANUAL",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0002",
+      "reading_order": 2,
+      "section": "18' & 24' ADA Models Built-In Dishwashers",
+      "bbox": {
+        "l": 215.9259,
+        "t": 526.3487,
+        "r": 476.42190000000005,
+        "b": 475.81037226890754
+      },
+      "content": "18' & 24' ADA Models Built-In Dishwashers",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0002",
+      "reading_order": 3,
+      "section": "18' & 24' ADA Models Built-In Dishwashers",
+      "bbox": {
+        "l": 138.89447021484375,
+        "t": 429.287109375,
+        "r": 310.02593994140625,
+        "b": 130.1158447265625
+      },
+      "image_path": "figures/figure_0002.png",
+      "previous_block_id": "txt_0002",
+      "image_hash": "cf54dad7d520a816dab6feedff80b197e9e6832441a01cd4754f8ca4d58f5413",
+      "width": 171,
+      "height": 299
+    },
+    {
+      "type": "figure",
+      "id": "fig_0003",
+      "reading_order": 4,
+      "section": "18' & 24' ADA Models Built-In Dishwashers",
+      "bbox": {
+        "l": 326.6571044921875,
+        "t": 428.96875,
+        "r": 545.7706298828125,
+        "b": 131.608642578125
+      },
+      "image_path": "figures/figure_0003.png",
+      "previous_block_id": "txt_0002",
+      "image_hash": "4c281122890fac7d466e548b879c3f95ebe2e67a3826e9a3154c8044854efe81",
+      "width": 219,
+      "height": 297
+    }
+  ],
+  "page_stats": {
+    "block_count": 5,
+    "text_blocks": 2,
+    "paragraphs": 0,
+    "headings": 2,
+    "list_items": 0,
+    "captions": 0,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 3,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

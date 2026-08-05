@@ -1,0 +1,302 @@
+{
+  "page": 281,
+  "document_id": "doc_caa693b1",
+  "page_bbox": {
+    "width": 595.0,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_1932",
+      "reading_order": 2500,
+      "section": "ex) If 6500 is set in parameter P8760",
+      "bbox": {
+        "l": 70.92,
+        "t": 749.6363,
+        "r": 167.434326,
+        "b": 737.0003
+      },
+      "content": "4 Writing parameter"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1933",
+      "reading_order": 2501,
+      "section": "ex) If 6500 is set in parameter P8760",
+      "bbox": {
+        "l": 85.14006599999999,
+        "t": 734.895068,
+        "r": 522.9669719999998,
+        "b": 702.2629229281769
+      },
+      "content": "Parameter data files saved as programs to the CNC memory or memory card can be restored and written to the β AMP with an I/O link determined from a program number. The program number and device are determined using the same method as in item (3)."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1934",
+      "reading_order": 2502,
+      "section": "ex) If 6500 is set in parameter P8760",
+      "bbox": {
+        "l": 85.14006599999999,
+        "t": 688.154774,
+        "r": 209.20917000000006,
+        "b": 679.2829409281768
+      },
+      "content": "Select an active slave."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1935",
+      "reading_order": 2503,
+      "section": "ex) If 6500 is set in parameter P8760",
+      "bbox": {
+        "l": 85.139526,
+        "t": 676.6346659999999,
+        "r": 285.234918,
+        "b": 667.7629409281768
+      },
+      "content": "Press the [ (OPRT) ] soft key to display:"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1936",
+      "reading_order": 2504,
+      "section": "ex) If 6500 is set in parameter P8760",
+      "bbox": {
+        "l": 271.559622,
+        "t": 653.6547919999999,
+        "r": 326.6686200000002,
+        "b": 644.7830729281768
+      },
+      "content": "(Sub menu)"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0412",
+      "reading_order": 2505,
+      "section": "ex) If 6500 is set in parameter P8760",
+      "bbox": {
+        "l": 70.41197204589844,
+        "t": 646.4465484619141,
+        "r": 441.49603271484375,
+        "b": 593.5185241699219
+      },
+      "image_path": "figures/figure_0412.png",
+      "previous_block_id": "txt_1936",
+      "next_block_id": "txt_1937"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1937",
+      "reading_order": 2506,
+      "section": "ex) If 6500 is set in parameter P8760",
+      "bbox": {
+        "l": 85.140546,
+        "t": 580.2742219999999,
+        "r": 201.35050200000006,
+        "b": 571.4025029281768
+      },
+      "content": "Press the next-menu key."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1938",
+      "reading_order": 2507,
+      "section": "ex) If 6500 is set in parameter P8760",
+      "bbox": {
+        "l": 85.140546,
+        "t": 568.7542279999999,
+        "r": 280.8571980000002,
+        "b": 559.8825089281768
+      },
+      "content": "Press the [PUNCH] soft key to display:"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1939",
+      "reading_order": 2508,
+      "section": "ex) If 6500 is set in parameter P8760",
+      "bbox": {
+        "l": 271.55964,
+        "t": 534.2543659999999,
+        "r": 326.6686380000002,
+        "b": 525.3826469281768
+      },
+      "content": "(Sub menu)"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0413",
+      "reading_order": 2509,
+      "section": "ex) If 6500 is set in parameter P8760",
+      "bbox": {
+        "l": 69.5513687133789,
+        "t": 526.33642578125,
+        "r": 436.0170593261719,
+        "b": 475.9973449707031
+      },
+      "image_path": "figures/figure_0413.png",
+      "previous_block_id": "txt_1939",
+      "next_block_id": "txt_1940"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1940",
+      "reading_order": 2510,
+      "section": "ex) If 6500 is set in parameter P8760",
+      "bbox": {
+        "l": 85.140522,
+        "t": 451.27523,
+        "r": 211.2843060000001,
+        "b": 442.4035109281768
+      },
+      "content": "Press the [ EXEC ] soft key."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1941",
+      "reading_order": 2511,
+      "section": "ex) If 6500 is set in parameter P8760",
+      "bbox": {
+        "l": 85.140522,
+        "t": 428.295362,
+        "r": 495.33727799999895,
+        "b": 419.4236429281768
+      },
+      "content": "While the parameters are being written, the message [OUTPUT] blinks on the message line."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1942",
+      "reading_order": 2512,
+      "section": "ex) If 6500 is set in parameter P8760",
+      "bbox": {
+        "l": 70.92013799999998,
+        "t": 406.507874,
+        "r": 202.85548200000005,
+        "b": 395.956814
+      },
+      "content": "5 Searching for parameter"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1943",
+      "reading_order": 2513,
+      "section": "ex) If 6500 is set in parameter P8760",
+      "bbox": {
+        "l": 85.13951999999998,
+        "t": 393.7955,
+        "r": 464.7933119999998,
+        "b": 384.92378092817677
+      },
+      "content": "A parameter can be searched for and displayed by means of the following procedure."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1944",
+      "reading_order": 2514,
+      "section": "ex) If 6500 is set in parameter P8760",
+      "bbox": {
+        "l": 85.13951999999995,
+        "t": 382.275506,
+        "r": 209.21718,
+        "b": 373.40378692817677
+      },
+      "content": "Select an active slave."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1945",
+      "reading_order": 2515,
+      "section": "ex) If 6500 is set in parameter P8760",
+      "bbox": {
+        "l": 85.13951999999995,
+        "t": 370.755512,
+        "r": 279.6928499999999,
+        "b": 361.8837929281768
+      },
+      "content": "Press the [(OPRT)] soft key to display:"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1946",
+      "reading_order": 2516,
+      "section": "ex) If 6500 is set in parameter P8760",
+      "bbox": {
+        "l": 271.55961599999995,
+        "t": 359.295638,
+        "r": 326.66861400000016,
+        "b": 350.42391892817676
+      },
+      "content": "(Sub menu)"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0414",
+      "reading_order": 2517,
+      "section": "ex) If 6500 is set in parameter P8760",
+      "bbox": {
+        "l": 70.10621643066406,
+        "t": 351.36474609375,
+        "r": 441.8019104003906,
+        "b": 300.1837158203125
+      },
+      "image_path": "figures/figure_0414.png",
+      "previous_block_id": "txt_1946",
+      "next_block_id": "txt_1947"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1947",
+      "reading_order": 2518,
+      "section": "ex) If 6500 is set in parameter P8760",
+      "bbox": {
+        "l": 85.140546,
+        "t": 285.85422199999994,
+        "r": 523.4053259999987,
+        "b": 265.5226289281768
+      },
+      "content": "Key in a desired number on the key-in line using the MDI keypad, then press the [NO.SRC] soft key to start the search."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1948",
+      "reading_order": 2519,
+      "section": "ex) If 6500 is set in parameter P8760",
+      "bbox": {
+        "l": 70.92116399999999,
+        "t": 253.21808,
+        "r": 174.563034,
+        "b": 242.11591999999996
+      },
+      "content": "h Setting parameter"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1949",
+      "reading_order": 2520,
+      "section": "ex) If 6500 is set in parameter P8760",
+      "bbox": {
+        "l": 92.22067799999998,
+        "t": 241.9906699999999,
+        "r": 525.1137359999991,
+        "b": 218.7833369281767
+      },
+      "content": "Parameters for β AMP with an I/O link can be set directly from the CNC by means of the following procedure."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1950",
+      "reading_order": 2521,
+      "section": "ex) If 6500 is set in parameter P8760",
+      "bbox": {
+        "l": 85.14054599999999,
+        "t": 216.13506199999995,
+        "r": 201.59799600000005,
+        "b": 207.2633429281767
+      },
+      "content": "Select an active slave."
+    }
+  ]
+}

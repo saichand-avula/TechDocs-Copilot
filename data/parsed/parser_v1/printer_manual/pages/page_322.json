@@ -1,0 +1,178 @@
+{
+  "page": 322,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_2655",
+      "reading_order": 3573,
+      "section": "Post service test",
+      "bbox": {
+        "l": 113.0,
+        "t": 732.29,
+        "r": 399.7899999999999,
+        "b": 720.7
+      },
+      "content": "Release two tabs, and then separate the WiFi PCA from the printer."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0887",
+      "reading_order": 3574,
+      "section": "Post service test",
+      "bbox": {
+        "l": 119.2770938683043,
+        "t": 710.4245223999023,
+        "r": 132.5787925187749,
+        "b": 698.1430282592773
+      },
+      "image_path": "figures/figure_0887.png",
+      "decorative": true,
+      "width": 13,
+      "height": 12,
+      "image_hash": "111d9a6612656c7b60693e24057e67ae062ec55dd7b00e2263d58eb58c489cfa",
+      "previous_block_id": "txt_2655",
+      "next_block_id": "txt_2656"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_2656",
+      "reading_order": 3575,
+      "section": "Post service test",
+      "bbox": {
+        "l": 135.0,
+        "t": 708.79,
+        "r": 529.0600000000002,
+        "b": 685.2
+      },
+      "content": "CAUTION: The PCA is still attached to the printer by a wire harness. Do not attempt to completely remove the PCA.",
+      "severity": "caution"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0888",
+      "reading_order": 3576,
+      "section": "Post service test",
+      "bbox": {
+        "l": 133.544448159693,
+        "t": 662.5320587158203,
+        "r": 423.7233810686264,
+        "b": 444.6050109863281
+      },
+      "image_path": "figures/figure_0888.png",
+      "caption": "Release the PCA",
+      "figure_number": "Figure 1-496",
+      "image_hash": "d1a1a9767641a68c66572fc92c2d227883ef9a946af45bd2d97ffcbcec53af62",
+      "width": 290,
+      "height": 218,
+      "previous_block_id": "txt_2656",
+      "next_block_id": "txt_2657",
+      "caption_id": "txt_2657"
+    },
+    {
+      "type": "caption",
+      "id": "txt_2657",
+      "reading_order": 3577,
+      "section": "Post service test",
+      "bbox": {
+        "l": 135.0,
+        "t": 674.29,
+        "r": 256.69998999999996,
+        "b": 662.7
+      },
+      "content": "Figure 1-496  Release the PCA",
+      "caption_for": "fig_0888"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2658",
+      "reading_order": 3578,
+      "section": "Post service test",
+      "bbox": {
+        "l": 113.0,
+        "t": 433.42,
+        "r": 365.20999999999987,
+        "b": 421.83
+      },
+      "content": "Disconnect one connector, and then remove the WiFi PCA."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2659",
+      "reading_order": 3579,
+      "section": "Post service test",
+      "bbox": {
+        "l": 91.0,
+        "t": 171.54999999999995,
+        "r": 253.63999999999993,
+        "b": 159.96000000000004
+      },
+      "content": "Unpack the replacement assembly."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2660",
+      "reading_order": 3580,
+      "section": "Post service test",
+      "bbox": {
+        "l": 113.0,
+        "t": 150.54999999999995,
+        "r": 252.10999999999987,
+        "b": 138.96000000000004
+      },
+      "content": "Dispose of the defective part."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0889",
+      "reading_order": 3581,
+      "section": "Post service test",
+      "bbox": {
+        "l": 133.61480383325463,
+        "t": 400.0600891113281,
+        "r": 423.97146374500915,
+        "b": 182.53765869140625
+      },
+      "image_path": "figures/figure_0889.png",
+      "caption": "Remove the WiFi PCA",
+      "figure_number": "Figure 1-497",
+      "image_hash": "9a7ee5d8dd172cb7b92ba722debd927721da43da47d66f052f1130b3e817ba61",
+      "width": 290,
+      "height": 217,
+      "previous_block_id": "txt_2660",
+      "next_block_id": "txt_2661",
+      "caption_id": "txt_2661"
+    },
+    {
+      "type": "caption",
+      "id": "txt_2661",
+      "reading_order": 3582,
+      "section": "Post service test",
+      "bbox": {
+        "l": 135.00002,
+        "t": 412.42,
+        "r": 276.64001999999994,
+        "b": 400.83
+      },
+      "content": "Figure 1-497  Remove the WiFi PCA",
+      "caption_for": "fig_0889"
+    }
+  ],
+  "page_stats": {
+    "block_count": 10,
+    "text_blocks": 7,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 4,
+    "captions": 2,
+    "admonitions": 1,
+    "references": 0,
+    "figures": 3,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

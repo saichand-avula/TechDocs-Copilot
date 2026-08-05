@@ -1,0 +1,106 @@
+{
+  "page": 598,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_1699",
+      "reading_order": 6270,
+      "section": "5. Remove the HVPS.",
+      "bbox": {
+        "l": 133.6402892723445,
+        "t": 719.3956527709961,
+        "r": 423.99116882418576,
+        "b": 503.005859375
+      },
+      "image_path": "figures/figure_1699.png",
+      "caption": "Disconnect the connectors",
+      "figure_number": "Figure 1-992",
+      "image_hash": "f33d551d4af7ec95230b881f4026ad0e4b112bb4754f1cf7e9611a9f6c94223b",
+      "width": 290,
+      "height": 216,
+      "previous_block_id": "txt_4528",
+      "next_block_id": "txt_4529",
+      "caption_id": "txt_4529"
+    },
+    {
+      "type": "caption",
+      "id": "txt_4529",
+      "reading_order": 6271,
+      "section": "5. Remove the HVPS.",
+      "bbox": {
+        "l": 135.0,
+        "t": 732.29,
+        "r": 297.3899899999999,
+        "b": 720.7
+      },
+      "content": "Figure 1-992  Disconnect the connectors",
+      "caption_for": "fig_1699"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_4530",
+      "reading_order": 6272,
+      "section": "5. Remove the HVPS.",
+      "bbox": {
+        "l": 113.0,
+        "t": 491.41999999999996,
+        "r": 259.47999999999996,
+        "b": 479.83000000000004
+      },
+      "content": "Remove two screws (callout 1)."
+    },
+    {
+      "type": "figure",
+      "id": "fig_1700",
+      "reading_order": 6273,
+      "section": "5. Remove the HVPS.",
+      "bbox": {
+        "l": 133.70285137356925,
+        "t": 458.3096923828125,
+        "r": 423.93504290207284,
+        "b": 240.357666015625
+      },
+      "image_path": "figures/figure_1700.png",
+      "caption": "Remove two screws",
+      "figure_number": "Figure 1-993",
+      "image_hash": "7a055b1acb0aedcaa5f39b7b59264a6012e266c7b86fa2e8d7052a73a5b18840",
+      "width": 290,
+      "height": 218,
+      "previous_block_id": "txt_4530",
+      "next_block_id": "txt_4531",
+      "caption_id": "txt_4531"
+    },
+    {
+      "type": "caption",
+      "id": "txt_4531",
+      "reading_order": 6274,
+      "section": "5. Remove the HVPS.",
+      "bbox": {
+        "l": 134.99996,
+        "t": 470.42,
+        "r": 272.05995999999993,
+        "b": 458.83
+      },
+      "content": "Figure 1-993  Remove two screws",
+      "caption_for": "fig_1700"
+    }
+  ],
+  "page_stats": {
+    "block_count": 5,
+    "text_blocks": 3,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 1,
+    "captions": 2,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 2,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

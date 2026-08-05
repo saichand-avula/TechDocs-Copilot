@@ -1,0 +1,99 @@
+{
+  "page": 181,
+  "document_id": "doc_caa693b1",
+  "page_bbox": {
+    "width": 595.0,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_1255",
+      "reading_order": 1688,
+      "section": "[I/O Link Alarm]",
+      "bbox": {
+        "l": 70.92,
+        "t": 745.93466,
+        "r": 142.5790320000001,
+        "b": 737.0629409281769
+      },
+      "content": "[I/O Link Alarm]",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0372",
+      "reading_order": 1689,
+      "section": "[I/O Link Alarm]",
+      "bbox": {
+        "l": 109.40767669677734,
+        "t": 700.8594207763672,
+        "r": 135.8311309814453,
+        "b": 661.1237487792969
+      },
+      "image_path": "figures/figure_0372.png",
+      "previous_block_id": "txt_1255",
+      "next_block_id": "txt_1256",
+      "image_hash": "85e48078e852dcad4adfefe96525e9f4cad33c90e6cb80a8ff3a11e0385fe220",
+      "width": 27,
+      "height": 40
+    },
+    {
+      "type": "table",
+      "id": "tbl_0064",
+      "reading_order": 1690,
+      "section": "[I/O Link Alarm]",
+      "bbox": {
+        "l": 64.06425476074219,
+        "t": 725.4084548950195,
+        "r": 545.3029174804688,
+        "b": 642.137451171875
+      },
+      "markdown": "| No.   | Description                                                                   | Countermeasure                                                                                                          |\n|-------|-------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|\n| -     | A FANUC I/O link error occurred. A unit connected to the line was turned off. | Turn off the power the all units connected to the line. Then, turn on the slave devices, followed by the master device. |",
+      "rows": 2,
+      "cols": 3
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1256",
+      "reading_order": 1691,
+      "section": "[I/O Link Alarm]",
+      "bbox": {
+        "l": 70.92,
+        "t": 621.254804,
+        "r": 148.18422,
+        "b": 612.3830849281769
+      },
+      "content": "[No LED display]"
+    },
+    {
+      "type": "table",
+      "id": "tbl_0065",
+      "reading_order": 1692,
+      "section": "[I/O Link Alarm]",
+      "bbox": {
+        "l": 64.2167739868164,
+        "t": 595.5250244140625,
+        "r": 545.0809326171875,
+        "b": 464.8419189453125
+      },
+      "markdown": "| No.   | LED                  | Description                                    | Countermeasure                                                                                                                                                                                                             |\n|-------|----------------------|------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| -     | No indi- ca tors lit | The control circuit is not operating normally. | 1) Check the 24-VDC control supply voltage. If the voltage is low, increase the voltage to an appropriate level. 2) Check whether a fuse in the servo unit has blown. If (1)~(2) are not the cause, replace the servo AMP. |",
+      "rows": 2,
+      "cols": 4
+    }
+  ],
+  "page_stats": {
+    "block_count": 5,
+    "text_blocks": 2,
+    "paragraphs": 1,
+    "headings": 1,
+    "list_items": 0,
+    "captions": 0,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 1,
+    "tables": 2,
+    "toc_tables": 0
+  }
+}

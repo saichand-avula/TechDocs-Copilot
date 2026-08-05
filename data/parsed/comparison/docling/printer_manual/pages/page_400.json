@@ -1,0 +1,179 @@
+{
+  "page": 400,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_3280",
+      "reading_order": 4445,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 113.0,
+        "t": 732.29,
+        "r": 270.18999999999994,
+        "b": 720.7
+      },
+      "content": "Stapler models: Remove the door."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_3281",
+      "reading_order": 4446,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 91.0,
+        "t": 470.42,
+        "r": 415.54,
+        "b": 458.83
+      },
+      "content": "Remove the stapler stationary (inner) cover (M527/E52545/M528/E52645)."
+    },
+    {
+      "type": "figure",
+      "id": "fig_1127",
+      "reading_order": 4447,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 133.30916158348762,
+        "t": 698.655517578125,
+        "r": 423.89548022762693,
+        "b": 481.5656433105469
+      },
+      "image_path": "figures/figure_1127.png",
+      "caption": "Remove the door",
+      "figure_number": "Figure 1-630",
+      "image_hash": "fd35cd39cf81a21199954229b07c7e40686b3b15065b5a9ef910d8cfe171f316",
+      "width": 291,
+      "height": 217,
+      "previous_block_id": "txt_3281",
+      "next_block_id": "txt_3282",
+      "caption_id": "txt_3282"
+    },
+    {
+      "type": "caption",
+      "id": "txt_3282",
+      "reading_order": 4448,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 134.99999,
+        "t": 711.29,
+        "r": 260.91999,
+        "b": 699.7
+      },
+      "content": "Figure 1-630  Remove the door",
+      "caption_for": "fig_1127"
+    },
+    {
+      "type": "figure",
+      "id": "fig_1128",
+      "reading_order": 4449,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 96.77345115196258,
+        "t": 449.37847900390625,
+        "r": 109.78128179502244,
+        "b": 435.4557800292969
+      },
+      "image_path": "figures/figure_1128.png",
+      "decorative": true,
+      "width": 13,
+      "height": 13,
+      "image_hash": "836e05f9bc6daab7af3ed5582cba6cb8b284c622aa9536e5dc51ecae3af5e477",
+      "previous_block_id": "txt_3282",
+      "next_block_id": "txt_3283"
+    },
+    {
+      "type": "heading",
+      "id": "txt_3283",
+      "reading_order": 4450,
+      "section": "NOTE: Stapler models only.",
+      "bbox": {
+        "l": 113.0,
+        "t": 446.92,
+        "r": 229.36999999999995,
+        "b": 435.33
+      },
+      "content": "NOTE: Stapler models only.",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_3284",
+      "reading_order": 4451,
+      "section": "NOTE: Stapler models only.",
+      "bbox": {
+        "l": 113.0,
+        "t": 424.42,
+        "r": 539.2600000000004,
+        "b": 400.83
+      },
+      "content": "Before proceeding, take note of the locations of the upper tab (callout 1) and the lower tab (callout 2) on the stapler stationary (inner) cover ."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_3285",
+      "reading_order": 4452,
+      "section": "NOTE: Stapler models only.",
+      "bbox": {
+        "l": 135.00005,
+        "t": 391.42,
+        "r": 392.93005000000005,
+        "b": 379.83
+      },
+      "content": "When reinstalling the cover, take note of the location of the tabs."
+    },
+    {
+      "type": "figure",
+      "id": "fig_1129",
+      "reading_order": 4453,
+      "section": "NOTE: Stapler models only.",
+      "bbox": {
+        "l": 133.61732034878415,
+        "t": 358.3412780761719,
+        "r": 424.127640223932,
+        "b": 140.6602783203125
+      },
+      "image_path": "figures/figure_1129.png",
+      "caption": "Locate the tabs",
+      "figure_number": "Figure 1-631",
+      "image_hash": "ac8a3d7abe18bc68d3ae2371c38a587128f60d592abb34b9c9661f77c5788009",
+      "width": 290,
+      "height": 217,
+      "previous_block_id": "txt_3285",
+      "next_block_id": "txt_3286",
+      "caption_id": "txt_3286"
+    },
+    {
+      "type": "caption",
+      "id": "txt_3286",
+      "reading_order": 4454,
+      "section": "NOTE: Stapler models only.",
+      "bbox": {
+        "l": 135.00006000000002,
+        "t": 370.42,
+        "r": 253.42004999999992,
+        "b": 358.83
+      },
+      "content": "Figure 1-631  Locate the tabs",
+      "caption_for": "fig_1129"
+    }
+  ],
+  "page_stats": {
+    "block_count": 10,
+    "text_blocks": 7,
+    "paragraphs": 1,
+    "headings": 1,
+    "list_items": 3,
+    "captions": 2,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 3,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "page": 68,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_0644",
+      "reading_order": 820,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 113.0,
+        "t": 732.29,
+        "r": 320.2499999999999,
+        "b": 720.7
+      },
+      "content": "Position the control-panel cover on the printer ."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0645",
+      "reading_order": 821,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 113.0,
+        "t": 417.86,
+        "r": 536.5999800000002,
+        "b": 394.27
+      },
+      "content": "Beginning at the left side of the control-panel cover, carefully engage five tabs along the top edge of the cover."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0166",
+      "reading_order": 822,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 133.70452905058892,
+        "t": 699.1638641357422,
+        "r": 424.08902314926087,
+        "b": 428.95416259765625
+      },
+      "image_path": "figures/figure_0166.png",
+      "caption": "Position the control-panel cover on the printer",
+      "figure_number": "Figure 1-70",
+      "image_hash": "bb3ea8fa5017606c981a9642feb6557bebe0d121a3ad23985c86b06b911478bc",
+      "width": 290,
+      "height": 270,
+      "previous_block_id": "txt_0645",
+      "next_block_id": "txt_0646",
+      "caption_id": "txt_0646"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0646",
+      "reading_order": 823,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 135.00004,
+        "t": 711.29,
+        "r": 370.65004000000005,
+        "b": 699.7
+      },
+      "content": "Figure 1-70  Position the control-panel cover on the printer",
+      "caption_for": "fig_0166"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0167",
+      "reading_order": 824,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 133.70448329576112,
+        "t": 372.2527770996094,
+        "r": 373.3969748902221,
+        "b": 162.52972412109375
+      },
+      "image_path": "figures/figure_0167.png",
+      "caption": "Engage five tabs",
+      "figure_number": "Figure 1-71",
+      "image_hash": "1f82615476f9dd7931bca805f10b8250ccf5754e5892f8ae9143957b1f9acec7",
+      "width": 239,
+      "height": 209,
+      "previous_block_id": "txt_0646",
+      "next_block_id": "txt_0647",
+      "caption_id": "txt_0647"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0647",
+      "reading_order": 825,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 134.99999,
+        "t": 384.86,
+        "r": 252.30998999999997,
+        "b": 373.27
+      },
+      "content": "Figure 1-71  Engage five tabs",
+      "caption_for": "fig_0167"
+    }
+  ],
+  "page_stats": {
+    "block_count": 6,
+    "text_blocks": 4,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 2,
+    "captions": 2,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 2,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

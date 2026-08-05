@@ -1,0 +1,165 @@
+{
+  "page": 514,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_4001",
+      "reading_order": 5492,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 113.0,
+        "t": 732.29,
+        "r": 455.66000000000025,
+        "b": 720.7
+      },
+      "content": "Release one tab (callout 1), and then slide the guide out of the printer (callout 2)."
+    },
+    {
+      "type": "figure",
+      "id": "fig_1451",
+      "reading_order": 5493,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 119.19768636464103,
+        "t": 710.4207382202148,
+        "r": 132.85132352481713,
+        "b": 697.9795074462891
+      },
+      "image_path": "figures/figure_1451.png",
+      "decorative": true,
+      "width": 13,
+      "height": 12,
+      "image_hash": "111d9a6612656c7b60693e24057e67ae062ec55dd7b00e2263d58eb58c489cfa",
+      "previous_block_id": "txt_4001",
+      "next_block_id": "txt_4002"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_4002",
+      "reading_order": 5494,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 135.0,
+        "t": 708.79,
+        "r": 172.75,
+        "b": 697.2
+      },
+      "content": "CAUTION:",
+      "severity": "caution"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_4003",
+      "reading_order": 5495,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 182.75,
+        "t": 708.79,
+        "r": 383.37999999999994,
+        "b": 697.2
+      },
+      "content": "Be careful, the tab (callout 1) can be easily broken."
+    },
+    {
+      "type": "figure",
+      "id": "fig_1452",
+      "reading_order": 5496,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 133.5729839206368,
+        "t": 674.5080718994141,
+        "r": 424.0967404635514,
+        "b": 456.1649169921875
+      },
+      "image_path": "figures/figure_1452.png",
+      "caption": "Remove the guide",
+      "figure_number": "Figure 1-840",
+      "image_hash": "ad88db758568c525debf41dea1ab9ddb9371700ca939e4d6945241c42e24057c",
+      "width": 290,
+      "height": 219,
+      "previous_block_id": "txt_4003",
+      "next_block_id": "txt_4004",
+      "caption_id": "txt_4004"
+    },
+    {
+      "type": "caption",
+      "id": "txt_4004",
+      "reading_order": 5497,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 135.0,
+        "t": 686.29,
+        "r": 264.30998999999997,
+        "b": 674.7
+      },
+      "content": "Figure 1-840  Remove the guide",
+      "caption_for": "fig_1452"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_4005",
+      "reading_order": 5498,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 113.0,
+        "t": 445.42,
+        "r": 536.48,
+        "b": 421.83
+      },
+      "content": "Use a small flat-blade screwdriver to gently pry the white-plastic door arm (callout 1) off of the grayplastic pressure-release link (callout 2) to release the door arm."
+    },
+    {
+      "type": "figure",
+      "id": "fig_1453",
+      "reading_order": 5499,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 133.4105695335226,
+        "t": 400.0877685546875,
+        "r": 423.76276072376106,
+        "b": 182.276123046875
+      },
+      "image_path": "figures/figure_1453.png",
+      "caption": "Release the pressure-release link",
+      "figure_number": "Figure 1-841",
+      "image_hash": "03905883db9423e66ed5898bba1a0c7df50e4e35a6372c390c71168d436cc089",
+      "width": 291,
+      "height": 218,
+      "previous_block_id": "txt_4005",
+      "next_block_id": "txt_4006",
+      "caption_id": "txt_4006"
+    },
+    {
+      "type": "caption",
+      "id": "txt_4006",
+      "reading_order": 5500,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 135.00004,
+        "t": 412.42,
+        "r": 325.4600399999998,
+        "b": 400.83
+      },
+      "content": "Figure 1-841  Release the pressure-release link",
+      "caption_for": "fig_1453"
+    }
+  ],
+  "page_stats": {
+    "block_count": 9,
+    "text_blocks": 6,
+    "paragraphs": 1,
+    "headings": 0,
+    "list_items": 2,
+    "captions": 2,
+    "admonitions": 1,
+    "references": 0,
+    "figures": 3,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "page": 216,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_1899",
+      "reading_order": 2507,
+      "section": "Post service test",
+      "bbox": {
+        "l": 113.0,
+        "t": 732.29,
+        "r": 345.66999999999996,
+        "b": 720.7
+      },
+      "content": "At the bottom edge of the cover, release two bosses."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0582",
+      "reading_order": 2508,
+      "section": "Post service test",
+      "bbox": {
+        "l": 119.23798111633187,
+        "t": 710.5727310180664,
+        "r": 132.72366755522881,
+        "b": 698.1101303100586
+      },
+      "image_path": "figures/figure_0582.png",
+      "decorative": true,
+      "width": 13,
+      "height": 12,
+      "image_hash": "63536a723e2d767d3e23fb1b3716f2df3b208a84cde08ebb9a779856a52f015a",
+      "previous_block_id": "txt_1899",
+      "next_block_id": "txt_1900"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_1900",
+      "reading_order": 2509,
+      "section": "Post service test",
+      "bbox": {
+        "l": 135.0,
+        "t": 708.79,
+        "r": 533.24,
+        "b": 685.2
+      },
+      "content": "CAUTION: It might be easier to remove the cover with the printer slightly hanging over the edge of the workspace. Do not let the printer tip and fall off of the workspace when removing the cover.",
+      "severity": "caution"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0583",
+      "reading_order": 2510,
+      "section": "Post service test",
+      "bbox": {
+        "l": 133.51040656780276,
+        "t": 662.7034606933594,
+        "r": 423.82998981742236,
+        "b": 444.3990478515625
+      },
+      "image_path": "figures/figure_0583.png",
+      "caption": "Release two bosses",
+      "figure_number": "Figure 1-308",
+      "image_hash": "98eabd375e03bfae63052ada660c22cddd89ee0cd8675bc041ad583ef6480e97",
+      "width": 290,
+      "height": 219,
+      "previous_block_id": "txt_1900",
+      "next_block_id": "txt_1901",
+      "caption_id": "txt_1901"
+    },
+    {
+      "type": "caption",
+      "id": "txt_1901",
+      "reading_order": 2511,
+      "section": "Post service test",
+      "bbox": {
+        "l": 135.0,
+        "t": 674.29,
+        "r": 270.96998999999994,
+        "b": 662.7
+      },
+      "content": "Figure 1-308  Release two bosses",
+      "caption_for": "fig_0583"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1902",
+      "reading_order": 2512,
+      "section": "Post service test",
+      "bbox": {
+        "l": 113.0,
+        "t": 433.42,
+        "r": 278.9399999999998,
+        "b": 421.83
+      },
+      "content": "Near the formatter, release one tab."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0584",
+      "reading_order": 2513,
+      "section": "Post service test",
+      "bbox": {
+        "l": 119.29817921811981,
+        "t": 412.00848388671875,
+        "r": 133.09412914439253,
+        "b": 399.0745544433594
+      },
+      "image_path": "figures/figure_0584.png",
+      "decorative": true,
+      "width": 13,
+      "height": 12,
+      "image_hash": "8c46ebc1307e9c410a9c2d0e7e1932283021fb8616dc223f7df045c2898f1cb5",
+      "previous_block_id": "txt_1902",
+      "next_block_id": "txt_1903"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_1903",
+      "reading_order": 2514,
+      "section": "Post service test",
+      "bbox": {
+        "l": 135.0,
+        "t": 409.92,
+        "r": 533.24,
+        "b": 386.33
+      },
+      "content": "CAUTION: It might be easier to remove the cover with the printer slightly hanging over the edge of the workspace. Do not let the printer tip and fall off of the workspace when removing the cover.",
+      "severity": "caution"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0585",
+      "reading_order": 2515,
+      "section": "Post service test",
+      "bbox": {
+        "l": 119.1461206736998,
+        "t": 376.03070068359375,
+        "r": 129.5692992228279,
+        "b": 364.5443115234375
+      },
+      "image_path": "figures/figure_0585.png",
+      "decorative": true,
+      "width": 10,
+      "height": 11,
+      "image_hash": "509749509927ab907dc207e775629049248e867744c0528fbf7fbea72f7fa02d",
+      "previous_block_id": "txt_1903",
+      "next_block_id": "txt_1904"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_1904",
+      "reading_order": 2516,
+      "section": "Post service test",
+      "bbox": {
+        "l": 135.0,
+        "t": 376.92,
+        "r": 520.6999900000001,
+        "b": 353.33
+      },
+      "content": "TIP: Hold the bottom of the cover away from the printer, and then use a small flat-blade screw driver to easily release this tab.",
+      "severity": "tip"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0586",
+      "reading_order": 2517,
+      "section": "Post service test",
+      "bbox": {
+        "l": 133.25158675849408,
+        "t": 329.9568176269531,
+        "r": 423.9742700411148,
+        "b": 112.40826416015625
+      },
+      "image_path": "figures/figure_0586.png",
+      "caption": "Release one tab",
+      "figure_number": "Figure 1-309",
+      "image_hash": "77e7385edd30a581f8f9dfc8d91f3e7bfff5ae3db22164f7a3af8c68456bfd47",
+      "width": 291,
+      "height": 218,
+      "previous_block_id": "txt_1904",
+      "next_block_id": "txt_1905",
+      "caption_id": "txt_1905"
+    },
+    {
+      "type": "caption",
+      "id": "txt_1905",
+      "reading_order": 2518,
+      "section": "Post service test",
+      "bbox": {
+        "l": 135.0,
+        "t": 342.42,
+        "r": 255.95998999999992,
+        "b": 330.83
+      },
+      "content": "Figure 1-309  Release one tab",
+      "caption_for": "fig_0586"
+    }
+  ],
+  "page_stats": {
+    "block_count": 12,
+    "text_blocks": 7,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 2,
+    "captions": 2,
+    "admonitions": 3,
+    "references": 0,
+    "figures": 5,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

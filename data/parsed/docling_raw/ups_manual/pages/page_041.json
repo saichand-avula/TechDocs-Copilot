@@ -1,0 +1,358 @@
+{
+  "page": 41,
+  "document_id": "doc_1032c87b",
+  "page_bbox": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_0320",
+      "reading_order": 392,
+      "section": "Communication Interfaces:",
+      "bbox": {
+        "l": 74.664,
+        "t": 722.8676629101562,
+        "r": 458.91568,
+        "b": 713.3961013631949
+      },
+      "content": "User communication interface RS232 and RS485 (user background monitoring)"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0321",
+      "reading_order": 393,
+      "section": "Communication Interfaces:",
+      "bbox": {
+        "l": 74.664,
+        "t": 707.2676629101563,
+        "r": 384.51568,
+        "b": 697.796101363195
+      },
+      "content": "SNMP port (realizing remote management of UPS by network)"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0322",
+      "reading_order": 394,
+      "section": "Communication Interfaces:",
+      "bbox": {
+        "l": 74.664,
+        "t": 691.6676629101563,
+        "r": 381.03568,
+        "b": 682.196101363195
+      },
+      "content": "Parallel interface (communication interface of parallel system)"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0323",
+      "reading_order": 395,
+      "section": "Communication Interfaces:",
+      "bbox": {
+        "l": 74.664,
+        "t": 676.0676629101563,
+        "r": 380.07568,
+        "b": 666.596101363195
+      },
+      "content": "Debugging personnel port RS485-2 (realizing UPS debugging)"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0324",
+      "reading_order": 396,
+      "section": "Communication Interfaces:",
+      "bbox": {
+        "l": 74.664,
+        "t": 660.4676629101563,
+        "r": 411.03568,
+        "b": 650.996101363195
+      },
+      "content": "Input and output dry contacts (port definitions are shown in Table 3-7)"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0063",
+      "reading_order": 397,
+      "section": "Communication Interfaces:",
+      "bbox": {
+        "l": 56.819070871009984,
+        "t": 643.993435811363,
+        "r": 77.71753451574922,
+        "b": 625.7603054287989
+      },
+      "image_path": "figures/figure_0063.png",
+      "previous_block_id": "txt_0324",
+      "next_block_id": "txt_0325"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0325",
+      "reading_order": 398,
+      "section": "Communication Interfaces:",
+      "bbox": {
+        "l": 81.024,
+        "t": 631.9076629101563,
+        "r": 352.32568,
+        "b": 622.436101363195
+      },
+      "content": "It shall note following points for wiring of auxiliary cable:"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0326",
+      "reading_order": 399,
+      "section": "Communication Interfaces:",
+      "bbox": {
+        "l": 56.664,
+        "t": 614.1217429101563,
+        "r": 526.85568,
+        "b": 604.196101363195
+      },
+      "content": " If conduit is adopted for wiring, communication line and power line shall use conduits separately."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0327",
+      "reading_order": 400,
+      "section": "Communication Interfaces:",
+      "bbox": {
+        "l": 56.664,
+        "t": 598.5217429101563,
+        "r": 385.23568,
+        "b": 588.596101363195
+      },
+      "content": " Wiring of remote EPO switch must comply with local regulations."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0328",
+      "reading_order": 401,
+      "section": "Communication Interfaces:",
+      "bbox": {
+        "l": 56.664,
+        "t": 582.9217429101562,
+        "r": 541.61568,
+        "b": 572.996101363195
+      },
+      "content": " Auxiliary cable must be double-layer insulated twisted cable, whose cross section area shall be 0.5"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0329",
+      "reading_order": 402,
+      "section": "Communication Interfaces:",
+      "bbox": {
+        "l": 75.264,
+        "t": 566.8376629101563,
+        "r": 312.12568,
+        "b": 557.366101363195
+      },
+      "content": "~ 1.5 mm²  when the wiring distance is 25 ~ 50 m."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0330",
+      "reading_order": 403,
+      "section": "3.9.2 Emergency Power Off Input Interface (EPO)",
+      "bbox": {
+        "l": 74.664,
+        "t": 519.6459829101564,
+        "r": 355.486,
+        "b": 508.88284478860936
+      },
+      "content": "3.9.2 Emergency Power Off Input Interface (EPO)",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0331",
+      "reading_order": 404,
+      "section": "3.9.2 Emergency Power Off Input Interface (EPO)",
+      "bbox": {
+        "l": 77.904,
+        "t": 489.6776629101563,
+        "r": 541.61376,
+        "b": 433.406101363195
+      },
+      "content": "As  shown  in  Figure  3-37,  input  dry  contacts  IN5  interface  is  remote  EPO  input  interface.  UPS provides  emergency  power  off  (EPO)  function  (EPO  can  be  set  to  cut  off  output  and  switch  to bypass, switch to bypass by default), which is realized through EPO button on the UPS control panel or a user-supplied remote contact. EPO button is protected by a hinged plastic cover."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0064",
+      "reading_order": 405,
+      "section": "3.9.2 Emergency Power Off Input Interface (EPO)",
+      "bbox": {
+        "l": 77.87119682704592,
+        "t": 426.76565305690883,
+        "r": 99.08980173723334,
+        "b": 408.51647195373073
+      },
+      "image_path": "figures/figure_0064.png",
+      "previous_block_id": "txt_0331",
+      "next_block_id": "txt_0332"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0332",
+      "reading_order": 406,
+      "section": "3.9.2 Emergency Power Off Input Interface (EPO)",
+      "bbox": {
+        "l": 102.26,
+        "t": 414.3176629101563,
+        "r": 541.4888799999997,
+        "b": 404.846101363195
+      },
+      "content": "Note: The EPO is set to \"cutting off output\". During the emergency power off (EPO) operation,"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0333",
+      "reading_order": 407,
+      "section": "3.9.2 Emergency Power Off Input Interface (EPO)",
+      "bbox": {
+        "l": 77.904,
+        "t": 396.0576629101563,
+        "r": 541.2345599999996,
+        "b": 370.98610136319496
+      },
+      "content": "the UPS system will cut off the load power supply (output termination). This function can only be used when it is confirmed to disconnect the UPS output."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0065",
+      "reading_order": 408,
+      "section": "3.9.2 Emergency Power Off Input Interface (EPO)",
+      "bbox": {
+        "l": 77.8094570966054,
+        "t": 364.5915694809618,
+        "r": 99.21193770249648,
+        "b": 345.64131365134875
+      },
+      "image_path": "figures/figure_0065.png",
+      "previous_block_id": "txt_0333",
+      "next_block_id": "txt_0334"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0334",
+      "reading_order": 409,
+      "section": "3.9.2 Emergency Power Off Input Interface (EPO)",
+      "bbox": {
+        "l": 77.904,
+        "t": 351.89766291015627,
+        "r": 541.3411999999993,
+        "b": 308.586101363195
+      },
+      "content": "Note:  The  UPS  emergency  power  off  action  will  turn  off  the  rectifier,  inverter  and  static bypass,  but  does  not  disconnect  the  UPS  input  mains  from  the  inside.  If  UPS  needs  to  be completely cut off, when the EPO is triggered, disconnect the upper input switch."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0335",
+      "reading_order": 410,
+      "section": "3.9.3 External Battery Temperature Detection Interface",
+      "bbox": {
+        "l": 74.664,
+        "t": 290.78598291015624,
+        "r": 387.55600000000004,
+        "b": 280.0228447886093
+      },
+      "content": "3.9.3 External Battery Temperature Detection Interface",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0336",
+      "reading_order": 411,
+      "section": "3.9.3 External Battery Temperature Detection Interface",
+      "bbox": {
+        "l": 77.904,
+        "t": 260.9376629101563,
+        "r": 541.4648799999995,
+        "b": 235.86610136319496
+      },
+      "content": "The first interface in left shown in  Figure 3-32 (BATTMP) is the temperature sensor interface of battery and temperature sensor of battery shall connect external battery cabinet."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0337",
+      "reading_order": 412,
+      "section": "3.9.3 External Battery Temperature Detection Interface",
+      "bbox": {
+        "l": 77.904,
+        "t": 229.73766291015636,
+        "r": 425.31568,
+        "b": 204.63610136319494
+      },
+      "content": "Arrangements  of  battery  temperature  sensor  pins  are  shown  in  Figure 3-32."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0338",
+      "reading_order": 413,
+      "section": "3.9.3 External Battery Temperature Detection Interface",
+      "bbox": {
+        "l": 77.904,
+        "t": 198.50766291015634,
+        "r": 312.84568,
+        "b": 189.03610136319492
+      },
+      "content": "Pin 1: + 5 V (power supply of temperature sensor)"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0339",
+      "reading_order": 414,
+      "section": "3.9.3 External Battery Temperature Detection Interface",
+      "bbox": {
+        "l": 77.904,
+        "t": 182.90766291015632,
+        "r": 271.32568,
+        "b": 173.4361013631949
+      },
+      "content": "Pin 2: BAT-T (battery temperature single)"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0340",
+      "reading_order": 415,
+      "section": "3.9.3 External Battery Temperature Detection Interface",
+      "bbox": {
+        "l": 77.904,
+        "t": 167.3076629101563,
+        "r": 263.74568,
+        "b": 157.83610136319498
+      },
+      "content": "Pin 3 ~ 8 is empty, they are unused."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0066",
+      "reading_order": 416,
+      "section": "3.9.3 External Battery Temperature Detection Interface",
+      "bbox": {
+        "l": 431.95042111038725,
+        "t": 225.10305661780228,
+        "r": 532.1971481450779,
+        "b": 126.7585825943554
+      },
+      "image_path": "figures/figure_0066.png",
+      "previous_block_id": "txt_0340",
+      "next_block_id": "txt_0341"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0341",
+      "reading_order": 417,
+      "section": "3.9.3 External Battery Temperature Detection Interface",
+      "bbox": {
+        "l": 324.67,
+        "t": 119.66766291015631,
+        "r": 541.57936,
+        "b": 94.600101363195
+      },
+      "content": "Figure 3-32: Pin Arrangement of Temperature Sensor Interface of Battery"
+    }
+  ]
+}

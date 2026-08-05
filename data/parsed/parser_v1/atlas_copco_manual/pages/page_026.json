@@ -1,0 +1,89 @@
+{
+  "page": 26,
+  "document_id": "doc_e02482e6",
+  "page_bbox": {
+    "width": 595.0,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0050",
+      "reading_order": 249,
+      "section": "Electrical components",
+      "bbox": {
+        "l": 26.642391204833984,
+        "t": 815.3439445495605,
+        "r": 73.99433898925781,
+        "b": 793.4147567749023
+      },
+      "image_path": "figures/figure_0050.png",
+      "next_block_id": "txt_0188",
+      "width": 47,
+      "height": 21,
+      "image_hash": "ad39bfb0adf0dd1863a2443fcf34326a898cc9f4c5433d8cb19530f46b7e957c"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0188",
+      "reading_order": 250,
+      "section": "2.8    Electrical diagrams",
+      "bbox": {
+        "l": 28.81,
+        "t": 772.98,
+        "r": 218.52999999999997,
+        "b": 755.124
+      },
+      "content": "2.8    Electrical diagrams",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0051",
+      "reading_order": 251,
+      "section": "2.8    Electrical diagrams",
+      "bbox": {
+        "l": 45.60243606567383,
+        "t": 733.2656097412109,
+        "r": 506.14996337890625,
+        "b": 148.560302734375
+      },
+      "image_path": "figures/figure_0051.png",
+      "previous_block_id": "txt_0188",
+      "next_block_id": "txt_0189",
+      "caption_id": "txt_0189",
+      "caption": "Service diagram for GA37+ up to GA 75",
+      "image_hash": "c7605351d85fa1f216659ec143357c13786323c7ba4f22002d1feb8bf053b027",
+      "width": 460,
+      "height": 584
+    },
+    {
+      "type": "caption",
+      "id": "txt_0189",
+      "reading_order": 252,
+      "section": "2.8    Electrical diagrams",
+      "bbox": {
+        "l": 200.83,
+        "t": 107.11000000000001,
+        "r": 365.83600000000024,
+        "b": 96.03999999999996
+      },
+      "content": "Service diagram for GA37+ up to GA 75",
+      "caption_for": "fig_0051"
+    }
+  ],
+  "page_stats": {
+    "block_count": 4,
+    "text_blocks": 2,
+    "paragraphs": 0,
+    "headings": 1,
+    "list_items": 0,
+    "captions": 1,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 2,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

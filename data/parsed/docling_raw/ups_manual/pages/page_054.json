@@ -1,0 +1,118 @@
+{
+  "page": 54,
+  "document_id": "doc_1032c87b",
+  "page_bbox": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0501",
+      "reading_order": 610,
+      "section": "5 UPS Display Panel",
+      "bbox": {
+        "l": 77.904,
+        "t": 717.9269029101563,
+        "r": 275.92,
+        "b": 699.4558810919744
+      },
+      "content": "5 UPS Display Panel",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "id": "txt_0502",
+      "reading_order": 611,
+      "section": "5.1 Brief Introduction",
+      "bbox": {
+        "l": 80.784,
+        "t": 671.7188629101563,
+        "r": 246.16688,
+        "b": 657.4038892084989
+      },
+      "content": "5.1 Brief Introduction",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0503",
+      "reading_order": 612,
+      "section": "5.1 Brief Introduction",
+      "bbox": {
+        "l": 77.904,
+        "t": 632.5076629101563,
+        "r": 541.5303999999996,
+        "b": 576.236101363195
+      },
+      "content": "Operation display panel of UPS locates at upper of front door. By operation display panel, it can take operation control to UPS and inquire all parameters of UPS, UPS and battery status, event and alarming  information.  Operation  display  panel  can  be  divided  into  four  parts:  simulation  status diagram, LCD display and menu button, and control operation button."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0504",
+      "reading_order": 613,
+      "section": "5.1 Brief Introduction",
+      "bbox": {
+        "l": 99.264,
+        "t": 570.0776629101563,
+        "r": 516.05568,
+        "b": 560.606101363195
+      },
+      "content": "Simulation status diagram        LCD display and menu button        Control operation button"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0094",
+      "reading_order": 614,
+      "section": "5.1 Brief Introduction",
+      "bbox": {
+        "l": 166.56116692310965,
+        "t": 552.9060387902045,
+        "r": 444.1579719064209,
+        "b": 378.6473930223807
+      },
+      "image_path": "figures/figure_0094.png",
+      "previous_block_id": "txt_0504",
+      "next_block_id": "txt_0505"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0505",
+      "reading_order": 615,
+      "section": "5.1 Brief Introduction",
+      "bbox": {
+        "l": 184.97,
+        "t": 367.2576629101563,
+        "r": 428.91568,
+        "b": 357.786101363195
+      },
+      "content": "Figure 5-1: UPS operation control and display panel"
+    },
+    {
+      "type": "table",
+      "id": "tbl_0018",
+      "reading_order": 616,
+      "section": "5.1 Brief Introduction",
+      "bbox": {
+        "l": 50.032868400583155,
+        "t": 339.8924398652262,
+        "r": 544.844205212111,
+        "b": 100.36057879713815
+      },
+      "markdown": "Table 5-1: Descriptions of silk-screen for operation display panel of UPS and icon of LCD display screen\n\n| Monitoring panel          | Icon/Silk-screen   | Meaning                                                                 |\n|---------------------------|--------------------|-------------------------------------------------------------------------|\n| LED indicator light       | REC INV            | Rectifier indicator light Inverter indicator light Load indicator light |\n| LED indicator light       | OUTPUT             |                                                                         |\n| LED indicator light       | BAT                | Battery iindicator light                                                |\n| LED indicator light       | BYP                | Bypass input indicator light                                            |\n| LED indicator light       | STATUS             | UPS status and warning indicator light                                  |\n| Icons of LCD touch screen |                    | Set                                                                     |\n| Icons of LCD touch screen |                    | Battery                                                                 |\n| Icons of LCD touch screen |                    | On/off                                                                  |\n| Icons of LCD touch screen |                    | Input parameter                                                         |"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0506",
+      "reading_order": 617,
+      "section": "5.1 Brief Introduction",
+      "bbox": {
+        "l": 53.04,
+        "t": 351.6576629101563,
+        "r": 538.1356800000001,
+        "b": 342.186101363195
+      },
+      "content": "Table 5-1: Descriptions of silk-screen for operation display panel of UPS and icon of LCD display screen"
+    }
+  ]
+}

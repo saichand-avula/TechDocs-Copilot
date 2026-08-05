@@ -1,0 +1,132 @@
+{
+  "page": 4,
+  "document_id": "doc_1032c87b",
+  "page_bbox": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0017",
+      "reading_order": 18,
+      "section": "2 Product Overview",
+      "bbox": {
+        "l": 77.904,
+        "t": 725.3669029101563,
+        "r": 271.22,
+        "b": 706.8958810919745
+      },
+      "content": "2 Product Overview",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "id": "txt_0018",
+      "reading_order": 19,
+      "section": "2.1 Product Description",
+      "bbox": {
+        "l": 80.784,
+        "t": 679.2788629101562,
+        "r": 264.88687999999996,
+        "b": 664.9638892084988
+      },
+      "content": "2.1 Product Description",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0019",
+      "reading_order": 20,
+      "section": "2.1 Product Description",
+      "bbox": {
+        "l": 77.904,
+        "t": 639.9476629101563,
+        "r": 541.60032,
+        "b": 552.446101363195
+      },
+      "content": "This series of UPS is full digital with high performance by using DSP control technology, rectifier has function of power factor calibration, and its all performance indexes can reach the leading level in industry.  This  series  of  UPS is  connected between the main power and the important load, and supply  high  quality  power  for  the  load.  It  uses  high-frequency  double-conversion  pulse-width modulation  (PWM)  and  full  digital  control  (DSP)  technologies,  and  its  output  voltage  cannot  be affected by input voltage, frequency variation and interference."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0020",
+      "reading_order": 21,
+      "section": "2.1 Product Description",
+      "bbox": {
+        "l": 77.904,
+        "t": 546.3176629101563,
+        "r": 541.6137600000001,
+        "b": 412.04610136319496
+      },
+      "content": "As shown in Figure 2-1, power supply of AC main power is inputted by RCB and then is ensured to charge for the battery at any time through BCB after transferred into DC power. At the same time, it can supply power for inverter which can transfer this DC power into pure AC power which cannot be interfered by main power. When main power is disconnected, the battery will supply back-up power to the load through inverter. When inverter is in fault or overloaded for exceeding time, it also can supply power for the load by bypass switch (SBCB) and bypass static switch (SB). In addition, if it needs to maintain or repair the UPS, the UPS can supply power for the load by maintenance bypass switch (MBCB). When UPS is running normally, all switches shall be closed except maintenance bypass switch."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0021",
+      "reading_order": 22,
+      "section": "2.1 Product Description",
+      "bbox": {
+        "l": 77.904,
+        "t": 405.9176629101563,
+        "r": 541.61568,
+        "b": 380.826101363195
+      },
+      "content": "Note: BCB switch and battery are external equipments. Maintenance switch of 80 ~ 300 kVA are inner, 400 ~ 500 kVA are external."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0001",
+      "reading_order": 23,
+      "section": "2.1 Product Description",
+      "bbox": {
+        "l": 174.8991297326982,
+        "t": 371.4238974232018,
+        "r": 435.9669233960483,
+        "b": 230.70982354860348
+      },
+      "image_path": "figures/figure_0001.png",
+      "previous_block_id": "txt_0021",
+      "next_block_id": "txt_0022"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0022",
+      "reading_order": 24,
+      "section": "2.1 Product Description",
+      "bbox": {
+        "l": 182.33,
+        "t": 218.6676629101563,
+        "r": 431.55568,
+        "b": 209.19610136319488
+      },
+      "content": "Figure 2-1: Schematic diagram of single UPS system"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0023",
+      "reading_order": 25,
+      "section": "2.1.1 Separated Bypass Input",
+      "bbox": {
+        "l": 74.664,
+        "t": 191.39598291015625,
+        "r": 244.70600000000002,
+        "b": 180.6328447886093
+      },
+      "content": "2.1.1 Separated Bypass Input",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0024",
+      "reading_order": 26,
+      "section": "2.1.1 Separated Bypass Input",
+      "bbox": {
+        "l": 77.904,
+        "t": 161.5476629101563,
+        "r": 541.5505599999998,
+        "b": 89.68010136319492
+      },
+      "content": "Figure 2-1 shows schematic diagram of UPS single UPS system with 'separated bypass power' (i.e. bypass uses independent input of main power). When allocating the separated bypass, static bypass  and  maintenance  bypass  share  an  independent  bypass  power  which  is  connected  with specialized  bypass  power  by  an  independent  power  switch.  If  there  is  no  independent  bypass power, it shall connect the bypass with terminal of rectifier input power."
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "page": 203,
+  "document_id": "doc_37f23c38",
+  "page_bbox": {
+    "width": 1224.0,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0103",
+      "reading_order": 1519,
+      "section": "HOSPIRA INC.",
+      "bbox": {
+        "l": 299.048583984375,
+        "t": 511.4917297363281,
+        "r": 963.070068359375,
+        "b": 309.9287414550781
+      },
+      "image_path": "figures/figure_0103.png",
+      "previous_block_id": "txt_1372",
+      "next_block_id": "txt_1373"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0104",
+      "reading_order": 1520,
+      "section": "HOSPIRA INC.",
+      "bbox": {
+        "l": 974.3746337890625,
+        "t": 184.41162109375,
+        "r": 1112.3951416015625,
+        "b": 116.31011962890625
+      },
+      "image_path": "figures/figure_0104.png",
+      "previous_block_id": "txt_1372",
+      "next_block_id": "txt_1373"
+    }
+  ]
+}

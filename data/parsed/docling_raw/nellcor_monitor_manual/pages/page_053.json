@@ -1,0 +1,38 @@
+{
+  "page": 53,
+  "document_id": "doc_f7e949ab",
+  "page_bbox": {
+    "width": 612.0,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0038",
+      "reading_order": 692,
+      "section": "6.1    General",
+      "bbox": {
+        "l": 88.7981185913086,
+        "t": 685.3122406005859,
+        "r": 544.1237182617188,
+        "b": 205.78204345703125
+      },
+      "image_path": "figures/figure_0038.png",
+      "previous_block_id": "txt_0630",
+      "next_block_id": "txt_0631"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0631",
+      "reading_order": 693,
+      "section": "6.1    General",
+      "bbox": {
+        "l": 205.5,
+        "t": 165.8025,
+        "r": 424.3125,
+        "b": 152.4375
+      },
+      "content": "Figure 7. Disassembly Sequence Flow Chart"
+    }
+  ]
+}

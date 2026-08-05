@@ -1,0 +1,38 @@
+{
+  "page": 26,
+  "document_id": "doc_c203a4f3",
+  "page_bbox": {
+    "width": 612.3599853515625,
+    "height": 792.4320068359375
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0012",
+      "reading_order": 328,
+      "section": "GENERAL DESCRIPTION",
+      "bbox": {
+        "l": 45.94024139686771,
+        "t": 740.412020578553,
+        "r": 563.9407132231064,
+        "b": 155.0395393457094
+      },
+      "image_path": "figures/figure_0012.png",
+      "previous_block_id": "txt_0315",
+      "next_block_id": "txt_0316"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0316",
+      "reading_order": 329,
+      "section": "GENERAL DESCRIPTION",
+      "bbox": {
+        "l": 164.863,
+        "t": 134.85240683593747,
+        "r": 445.92000000000075,
+        "b": 125.83635693988754
+      },
+      "content": "FIGURE 5-4. THREE-PHASE GENERATOR SET SCHEMATIC"
+    }
+  ]
+}

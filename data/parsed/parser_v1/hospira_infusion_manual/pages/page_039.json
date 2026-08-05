@@ -1,0 +1,236 @@
+{
+  "page": 39,
+  "document_id": "doc_37f23c38",
+  "page_bbox": {
+    "width": 612.0,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0278",
+      "reading_order": 311,
+      "section": "4.2.2.1 MAIN SWITCHING REGULATOR",
+      "bbox": {
+        "l": 108.0,
+        "t": 738.12273681,
+        "r": 336.55510560000005,
+        "b": 713.146259338843
+      },
+      "content": "4.2.2.1 MAIN SWITCHING REGULATOR",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0279",
+      "reading_order": 312,
+      "section": "4.2.2.1 MAIN SWITCHING REGULATOR",
+      "bbox": {
+        "l": 107.99902395099994,
+        "t": 698.10277681,
+        "r": 540.0384413731007,
+        "b": 605.2083046880331
+      },
+      "content": "The main source of power for the infuser is the AC line. The main switching regulator is a pulse width modulated, AC-to-DC converter which provides the system an isolated DC voltage of 6.74 V DC  (or 7.35 V DC  in battery charger boost mode). The main regulator is preceded by: line fuses F1 and F2, surge suppressor VR1, and a line filter (T3, T4, C54-56). The bridge rectifier U14 and capacitors C52 and C53 provide the DC voltage required for the switching circuit. Voltage regulator U13 provides the pulse width modulator (PWM) device U12 startup supply voltage. After startup, supply voltage for U12 is supplied by half wave rectifier circuitry CR14, R76, and C51."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0280",
+      "reading_order": 313,
+      "section": "4.2.2.1 MAIN SWITCHING REGULATOR",
+      "bbox": {
+        "l": 107.99902395099991,
+        "t": 590.1039968739002,
+        "r": 540.0363697230001,
+        "b": 509.20964470393324
+      },
+      "content": "The PWM oscillation frequency is approximately 40 kHz, determined by external resistor R72 and capacitor C45. U12 controls the power delivered by varying the duty cycle of the power metal-oxide-semiconductor field-effect transistor (MOSFET) Q9, which drives T2. A half-wave rectifier rectifies the transformer's secondary voltage, which provides the raw DC  voltage  for  the  battery  charger  and  system  power.  There  are  three  feedback mechanisms that maintain control: a main loop for normal control, a secondary loop for overvoltage protection, and a current limit loop."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0281",
+      "reading_order": 314,
+      "section": "4.2.2.1.1",
+      "bbox": {
+        "l": 107.99902395099994,
+        "t": 488.10453046490045,
+        "r": 142.97857907099996,
+        "b": 478.7899044186608
+      },
+      "content": "4.2.2.1.1",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0282",
+      "reading_order": 315,
+      "section": "Main Loop",
+      "bbox": {
+        "l": 108.0,
+        "t": 476.74038,
+        "r": 176.78719200000006,
+        "b": 463.666249338843
+      },
+      "content": "Main Loop",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0283",
+      "reading_order": 316,
+      "section": "Main Loop",
+      "bbox": {
+        "l": 107.99961874699997,
+        "t": 447.66276681,
+        "r": 540.0682389504004,
+        "b": 402.76769483203276
+      },
+      "content": "The main loop uses an optical feedback path to regulate the charger voltage (BATPOS) at 6.9 V DC  (except during boost charge, when the limit is raised to 7.5 V DC  by software control of the VFLOAT* line). A shunt regulator and opto-isolator provide feedback to the PWM error amplifier."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0284",
+      "reading_order": 317,
+      "section": "4.2.2.1.2",
+      "bbox": {
+        "l": 107.99961874699997,
+        "t": 381.662580593,
+        "r": 142.979173867,
+        "b": 372.3479545467603
+      },
+      "content": "4.2.2.1.2",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0285",
+      "reading_order": 318,
+      "section": "Secondary Loop",
+      "bbox": {
+        "l": 108.0,
+        "t": 370.30037999999996,
+        "r": 207.93057780000004,
+        "b": 357.22624933884293
+      },
+      "content": "Secondary Loop",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0286",
+      "reading_order": 319,
+      "section": "Secondary Loop",
+      "bbox": {
+        "l": 107.99967786989998,
+        "t": 341.22276681,
+        "r": 540.0269640317999,
+        "b": 308.32751488003277
+      },
+      "content": "Diode CR10 and opto-isolator U10 provide overvoltage protection. CR10 conducts and activates U10 when secondary voltage exceeds approximately 10 V DC . The duty cycle of U12 is reduced until the excessive voltage is removed."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0287",
+      "reading_order": 320,
+      "section": "4.2.2.1.3",
+      "bbox": {
+        "l": 107.99967786989998,
+        "t": 287.2234962421,
+        "r": 142.9792329899,
+        "b": 277.90887019586035
+      },
+      "content": "4.2.2.1.3",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0288",
+      "reading_order": 321,
+      "section": "Current Limit Loop",
+      "bbox": {
+        "l": 108.0,
+        "t": 275.86046999999996,
+        "r": 229.54631399999994,
+        "b": 262.78633933884294
+      },
+      "content": "Current Limit Loop",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0289",
+      "reading_order": 322,
+      "section": "Current Limit Loop",
+      "bbox": {
+        "l": 107.999887506,
+        "t": 246.78276681,
+        "r": 540.0384413730995,
+        "b": 201.88751488003277
+      },
+      "content": "The current limit loop is activated when the primary current, sensed by R71, exceeds 3 A. Resistor R70 and capacitor C46 filter the voltage across R71 and feed it back to the current sense input (1.5 V DC  threshold) of U12. The duty cycle of U12 is reduced until the excessive load is removed."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0290",
+      "reading_order": 323,
+      "section": "4.2.2.2",
+      "bbox": {
+        "l": 107.999887506,
+        "t": 178.80334665400005,
+        "r": 135.485531102,
+        "b": 169.48872060776034
+      },
+      "content": "4.2.2.2",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0291",
+      "reading_order": 324,
+      "section": "MAIN REGULATOR FAULT DETECTION",
+      "bbox": {
+        "l": 108.0,
+        "t": 166.84047999999996,
+        "r": 385.86410339999975,
+        "b": 153.76634933884293
+      },
+      "content": "MAIN REGULATOR FAULT DETECTION",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0292",
+      "reading_order": 325,
+      "section": "MAIN REGULATOR FAULT DETECTION",
+      "bbox": {
+        "l": 107.99999999999997,
+        "t": 138.78285681,
+        "r": 539.986649321099,
+        "b": 93.88744492803278
+      },
+      "content": "If the switching regulator's main loop fails, the secondary voltage limit loop takes over. However,  the  battery  charger  and  motors  must  be  disabled,  and  an  alarm  must  be generated. A comparator is used to monitor the raw DC (+BUSS) for overvoltage. A 3.3 V DC logic signal (OVRVLT*) is provided to the CPU subsystem."
+    }
+  ],
+  "page_stats": {
+    "block_count": 15,
+    "text_blocks": 15,
+    "paragraphs": 6,
+    "headings": 9,
+    "list_items": 0,
+    "captions": 0,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 0,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

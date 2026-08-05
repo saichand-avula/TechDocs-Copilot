@@ -1,0 +1,77 @@
+{
+  "page": 81,
+  "document_id": "doc_f7e949ab",
+  "page_bbox": {
+    "width": 612.0,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0800",
+      "reading_order": 935,
+      "section": "9.5    Electrical",
+      "bbox": {
+        "l": 72.0,
+        "t": 695.1165,
+        "r": 160.311525,
+        "b": 678.1875
+      },
+      "content": "9.5    Electrical",
+      "level": 2
+    },
+    {
+      "type": "table",
+      "id": "tbl_0032",
+      "reading_order": 936,
+      "section": "9.5    Electrical",
+      "bbox": {
+        "l": 150.5432891845703,
+        "t": 680.7249603271484,
+        "r": 535.8513793945312,
+        "b": 487.32427978515625
+      },
+      "markdown": "| Instrument                                                                                                                                    | Instrument                                                                                                                                    |\n|-----------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|\n| Power Requirements                                                                                                                            | AC Mains 100Vac to 240Vac, 50 Hz/60 Hz, 63 to 110 VA, 1A Max                                                                                  |\n| Fuses                                                                                                                                         | qty 2, 4.0 A, 250 volts, slow-blow, IEC (5×20 mm)                                                                                             |\n| Battery                                                                                                                                       | Battery                                                                                                                                       |\n| The battery provides 1 hour of battery operation when fully charged with no printing and one NIBP measurement per 5 minutes at typical 25° C. | The battery provides 1 hour of battery operation when fully charged with no printing and one NIBP measurement per 5 minutes at typical 25° C. |\n| Type                                                                                                                                          | NI-MH                                                                                                                                         |\n| Voltage/Capacity                                                                                                                              | 14.4 V/ 3.6 Ampere-Hours                                                                                                                      |\n| Recharge                                                                                                                                      | 14 hours with N5500 turned off 18 hours with N5500 operating                                                                                  |\n| Shelf Life                                                                                                                                    | 2 months, new fully charged battery                                                                                                           |\n| Complies with                                                                                                                                 | 91/157/EEC                                                                                                                                    |"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0801",
+      "reading_order": 937,
+      "section": "9.6    Environmental Conditions",
+      "bbox": {
+        "l": 72.0,
+        "t": 448.3665,
+        "r": 260.811075,
+        "b": 431.4375
+      },
+      "content": "9.6    Environmental Conditions",
+      "level": 2
+    },
+    {
+      "type": "table",
+      "id": "tbl_0033",
+      "reading_order": 938,
+      "section": "9.6    Environmental Conditions",
+      "bbox": {
+        "l": 151.00758361816406,
+        "t": 420.1055908203125,
+        "r": 535.6669311523438,
+        "b": 242.15423583984375
+      },
+      "markdown": "| Operation                                         | Operation                                         |\n|---------------------------------------------------|---------------------------------------------------|\n| Temperature                                       | 5° C to 40° C                                     |\n| Humidity                                          | 15 % RH to 95% RH, non-condensing                 |\n| Altitude                                          | 0 ft to 10,000 ft (0 m to 3,048 m)                |\n| Transport and Storage (not in shipping container) | Transport and Storage (not in shipping container) |\n| Temperature                                       | - 20 ° C to 50 ° C                                |\n| Humidity                                          | 15 % RH to 95% RH, non-condensing                 |\n| Altitude                                          | - 1,280 ft to 15,000 ft (- 390 m to 4,572 m)      |\n| Transport and Storage (in shipping container)     | Transport and Storage (in shipping container)     |\n| Temperature                                       | - 20° C to 60° C                                  |\n| Humidity                                          | 15 % RH to 95% RH, non-condensing                 |\n| Altitude                                          | - 1,280 ft to 15,000 ft (- 390 m to 4,572 m)      |"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0802",
+      "reading_order": 939,
+      "section": "9.6    Environmental Conditions",
+      "bbox": {
+        "l": 157.5,
+        "t": 241.053,
+        "r": 529.7401800000006,
+        "b": 217.34699999999998
+      },
+      "content": "Note:  The  system may  not  meet  its  performance  specifications  if  stored  or  used  outside  the manufacturer's specified temperature and humidity range."
+    }
+  ]
+}

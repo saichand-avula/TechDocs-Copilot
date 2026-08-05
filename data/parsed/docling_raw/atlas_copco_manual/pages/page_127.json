@@ -1,0 +1,148 @@
+{
+  "page": 127,
+  "document_id": "doc_e02482e6",
+  "page_bbox": {
+    "width": 595.0,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0997",
+      "reading_order": 1420,
+      "section": "10     Problem solving",
+      "bbox": {
+        "l": 57.57,
+        "t": 772.8000000000001,
+        "r": 212.09319999999997,
+        "b": 754.9440000000001
+      },
+      "content": "10     Problem solving",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "id": "txt_0998",
+      "reading_order": 1421,
+      "section": "10.1   Problem solving",
+      "bbox": {
+        "l": 57.57,
+        "t": 736.9792000000001,
+        "r": 216.5732000000001,
+        "b": 719.1232000000001
+      },
+      "content": "10.1   Problem solving",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "id": "txt_0999",
+      "reading_order": 1422,
+      "section": "Warning",
+      "bbox": {
+        "l": 56.55,
+        "t": 696.9350000000001,
+        "r": 97.7769,
+        "b": 684.659
+      },
+      "content": "Warning",
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "id": "fig_0327",
+      "reading_order": 1423,
+      "section": "Warning",
+      "bbox": {
+        "l": 121.7574234008789,
+        "t": 670.6779327392578,
+        "r": 154.36729431152344,
+        "b": 645.3922119140625
+      },
+      "image_path": "figures/figure_0327.png",
+      "previous_block_id": "txt_0999",
+      "next_block_id": "txt_1000"
+    },
+    {
+      "type": "table",
+      "id": "tbl_0099",
+      "reading_order": 1424,
+      "section": "Warning",
+      "bbox": {
+        "l": 96.27632141113281,
+        "t": 682.4083709716797,
+        "r": 537.7560424804688,
+        "b": 399.5512390136719
+      },
+      "markdown": "| Before carrying out any maintenance, repair work or adjustment, press the stop button, wait until the compressor has stopped (approx. 30 seconds) and close the air outlet valve. Press the test button on top of the electronic water drain unit the air system between the air receiver and outlet valve is fully depressurized. Press the emergency stop button and switch off the voltage. Depressurise the compressor by opening the oil filler plug one turn. For location of components, see sections: - Introduction - Condensate system - Initial start-up   |\n|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Open and lock the isolating switch.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |\n| The air outlet valve can be locked during maintenance or repair as follows: - Close the valve. - Remove the screw fixing the handle with the wrench delivered with the compressor. - Lift the handle and turn it until the slot of the handle fits over the blocking edge on the valve body. - Fit the screw.                                                                                                                                                                                                                                                         |\n| The operator must apply all relevant Safety precautions.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |"
+    },
+    {
+      "type": "heading",
+      "id": "txt_1000",
+      "reading_order": 1425,
+      "section": "Faults and remedies",
+      "bbox": {
+        "l": 56.55,
+        "t": 395.0147,
+        "r": 160.05780000000001,
+        "b": 382.7387
+      },
+      "content": "Faults and remedies",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1001",
+      "reading_order": 1426,
+      "section": "Faults and remedies",
+      "bbox": {
+        "l": 90.5697,
+        "t": 375.3005,
+        "r": 547.3809999999984,
+        "b": 349.92350000000005
+      },
+      "content": "On compressors equipped with an Elektronikon® Graphic controller, if the alarm LED is lit or flashes, consult sections Event history menu or Service menu."
+    },
+    {
+      "type": "table",
+      "id": "tbl_0100",
+      "reading_order": 1427,
+      "section": "Faults and remedies",
+      "bbox": {
+        "l": 88.71037292480469,
+        "t": 325.54547119140625,
+        "r": 561.9010009765625,
+        "b": 210.13909912109375
+      },
+      "markdown": "| -   | Condition                                            | Fault                                       | Remedy                   |\n|-----|------------------------------------------------------|---------------------------------------------|--------------------------|\n|     | Compressor starts running, but does not load after a | Solenoid valve out of order                 | Replace valve            |\n|     |                                                      | Inlet valve stuck in closed                 | Have valve checked       |\n|     |                                                      | Leak in control air flexibles               | Replace leaking flexible |\n|     |                                                      | Minimum pressure valve leaking (when net is | Have valve checked       |"
+    },
+    {
+      "type": "table",
+      "id": "tbl_0101",
+      "reading_order": 1428,
+      "section": "Faults and remedies",
+      "bbox": {
+        "l": 88.74365234375,
+        "t": 178.58978271484375,
+        "r": 561.935302734375,
+        "b": 78.66119384765625
+      },
+      "markdown": "| -   | Condition                                      | Fault                       | Remedy             |\n|-----|------------------------------------------------|-----------------------------|--------------------|\n|     | Compressor does not unload, safety valve blows | Solenoid valve out of order | Replace valve      |\n|     |                                                | Inlet valve does not close  | Have valve checked |"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0328",
+      "reading_order": 1429,
+      "section": "Faults and remedies",
+      "bbox": {
+        "l": 519.4453125,
+        "t": 815.997724533081,
+        "r": 567.145751953125,
+        "b": 792.9703025817871
+      },
+      "image_path": "figures/figure_0328.png",
+      "previous_block_id": "txt_1001",
+      "next_block_id": "txt_1002"
+    }
+  ]
+}

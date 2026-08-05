@@ -1,0 +1,253 @@
+{
+  "page": 265,
+  "document_id": "doc_229deb31",
+  "page_bbox": {
+    "width": 595.219970703125,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_2141",
+      "reading_order": 2815,
+      "section": "5.2.2 Outdoor fan control",
+      "bbox": {
+        "l": 56.6622,
+        "t": 780.2688496,
+        "r": 215.32834050000025,
+        "b": 767.332074
+      },
+      "content": "5.2.2 Outdoor fan control",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "id": "txt_2142",
+      "reading_order": 2816,
+      "section": "Compressor startup within 3min ,outdoor fan speed control as follows:",
+      "bbox": {
+        "l": 56.6622,
+        "t": 742.420821,
+        "r": 395.9017857400007,
+        "b": 733.1484126
+      },
+      "content": "Compressor startup within 3min ,outdoor fan speed control as follows:",
+      "level": 2
+    },
+    {
+      "type": "table",
+      "id": "tbl_0155",
+      "reading_order": 2817,
+      "section": "Compressor startup within 3min ,outdoor fan speed control as follows:",
+      "bbox": {
+        "l": 49.23239730575255,
+        "t": 732.1218719482422,
+        "r": 544.0663616814784,
+        "b": 651.2316589355469
+      },
+      "markdown": "| Outdoor Temperature   |   <10 |   10 ī 25 |   ≥25 |\n|-----------------------|-------|-----------|-------|\n| Cooling/              |     1 |         3 |     7 |\n| Heating               |     5 |         3 |     2 |"
+    },
+    {
+      "type": "heading",
+      "id": "txt_2143",
+      "reading_order": 2818,
+      "section": "fter compressor runs 3min ,outdoor fan speed control as follows:",
+      "bbox": {
+        "l": 56.6622,
+        "t": 646.8419944000001,
+        "r": 369.2407478999996,
+        "b": 637.5695860000001
+      },
+      "content": "fter compressor runs 3min ,outdoor fan speed control as follows:",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "id": "txt_2144",
+      "reading_order": 2819,
+      "section": "Cooling/ Dehumidification:",
+      "bbox": {
+        "l": 56.6622,
+        "t": 631.476688,
+        "r": 181.45584464000004,
+        "b": 621.76017
+      },
+      "content": "Cooling/ Dehumidification:",
+      "level": 2
+    },
+    {
+      "type": "table",
+      "id": "tbl_0156",
+      "reading_order": 2820,
+      "section": "Cooling/ Dehumidification:",
+      "bbox": {
+        "l": 50.40277841205575,
+        "t": 620.2816772460938,
+        "r": 556.1488908903939,
+        "b": 538.1237182617188
+      },
+      "markdown": "| Compressor Operation Frequency ˄ Hz ˅   | Compressor Operation Frequency ˄ Hz ˅   |   <25 |   25 ī 45 |   ≥45 |\n|-----------------------------------------|-----------------------------------------|-------|-----------|-------|\n| Tao ˄ć˅                                 | 32 ī 38                                 |     3 |         4 |     7 |\n| Tao ˄ć˅                                 | 23 ī 32                                 |     1 |         2 |     5 |\n| Tao ˄ć˅                                 | <23                                     |       |           |       |\n| Tao ˄ć˅                                 | ≥38                                     |       |         7 |       |"
+    },
+    {
+      "type": "heading",
+      "id": "txt_2145",
+      "reading_order": 2821,
+      "section": "Heating:",
+      "bbox": {
+        "l": 56.6622,
+        "t": 534.940888,
+        "r": 98.65725743999995,
+        "b": 525.22437
+      },
+      "content": "Heating:",
+      "level": 2
+    },
+    {
+      "type": "table",
+      "id": "tbl_0157",
+      "reading_order": 2822,
+      "section": "Heating:",
+      "bbox": {
+        "l": 50.56735949864877,
+        "t": 523.9635314941406,
+        "r": 556.1284976116249,
+        "b": 458.7535400390625
+      },
+      "markdown": "| Compressor Operation Frequency ˄ Hz ˅   | Compressor Operation Frequency ˄ Hz ˅   |   <25 |   25 ī 45 |   ≥45 |\n|-----------------------------------------|-----------------------------------------|-------|-----------|-------|\n| Tao ˄ć˅                                 | ≤4                                      |     3 |         4 |     7 |\n| Tao ˄ć˅                                 | 4 ī 18                                  |     2 |         4 |     7 |\n| Tao ˄ć˅                                 | ≥18                                     |     1 |         1 |     1 |"
+    },
+    {
+      "type": "heading",
+      "id": "txt_2146",
+      "reading_order": 2823,
+      "section": "Compressor shutdown and outdoor fan residual heat blow process",
+      "bbox": {
+        "l": 56.6622,
+        "t": 423.1317944,
+        "r": 377.5315339199995,
+        "b": 413.859386
+      },
+      "content": "Compressor shutdown and outdoor fan residual heat blow process",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_2147",
+      "reading_order": 2824,
+      "section": "Compressor shutdown and outdoor fan residual heat blow process",
+      "bbox": {
+        "l": 101.5743778,
+        "t": 408.6223778,
+        "r": 551.5819877000002,
+        "b": 386.23677
+      },
+      "content": "When compressor shuts down in cooling mode, outdoor fan automatically jumps to low speed and blows residual heat for 30s and stop."
+    },
+    {
+      "type": "heading",
+      "id": "txt_2148",
+      "reading_order": 2825,
+      "section": "5.2.3 Four-way Valve Control",
+      "bbox": {
+        "l": 56.6622,
+        "t": 349.2767496,
+        "r": 241.74593099999987,
+        "b": 336.339974
+      },
+      "content": "5.2.3 Four-way Valve Control",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_2149",
+      "reading_order": 2826,
+      "section": "5.2.3 Four-way Valve Control",
+      "bbox": {
+        "l": 101.5721,
+        "t": 324.64797580000004,
+        "r": 451.71892892000056,
+        "b": 314.60859688590426
+      },
+      "content": "Defrosting Four-way Valve Control ˈ (please see defrosting process for details)"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_2150",
+      "reading_order": 2827,
+      "section": "5.2.3 Four-way Valve Control",
+      "bbox": {
+        "l": 101.57109906,
+        "t": 308.90691100000004,
+        "r": 350.5509203000006,
+        "b": 299.6345025999999
+      },
+      "content": "Time sequence of the defrosting operation is as follows:"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_2151",
+      "reading_order": 2828,
+      "section": "5.2.3 Four-way Valve Control",
+      "bbox": {
+        "l": 101.57109906,
+        "t": 293.31604719999996,
+        "r": 303.22947992000036,
+        "b": 284.04363879999994
+      },
+      "content": "Four-way Valve Work Status in Other Modes:"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_2152",
+      "reading_order": 2829,
+      "section": "5.2.3 Four-way Valve Control",
+      "bbox": {
+        "l": 101.57109906,
+        "t": 278.68646979999994,
+        "r": 551.5797099000011,
+        "b": 256.40665479999984
+      },
+      "content": "In  heating  mode,  four-way  valve  is  on.  If  compressor  is  off  or  is  switched  to  non-heating  mode, four-way valve ensures that it is off at least 2 minutes after compressor shuts down."
+    },
+    {
+      "type": "heading",
+      "id": "txt_2153",
+      "reading_order": 2830,
+      "section": "5.2.4 Outdoor Defrosting Control",
+      "bbox": {
+        "l": 56.6622,
+        "t": 219.34314960000006,
+        "r": 262.8079440000003,
+        "b": 206.40637400000003
+      },
+      "content": "5.2.4 Outdoor Defrosting Control",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "id": "txt_2154",
+      "reading_order": 2831,
+      "section": "Defrosting Mode Entry Conditions",
+      "bbox": {
+        "l": 98.69082159999999,
+        "t": 182.91987530000006,
+        "r": 271.8850338399999,
+        "b": 173.2033573
+      },
+      "content": "Defrosting Mode Entry Conditions",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_2155",
+      "reading_order": 2832,
+      "section": "Defrosting Mode Entry Conditions",
+      "bbox": {
+        "l": 101.5721,
+        "t": 168.6018944,
+        "r": 551.6277550200015,
+        "b": 81.37516700000003
+      },
+      "content": "The  unit  will  enter  defrosting  mode  when  compressor  starts  up  and  operates  for  10  minutes continuously in heating mode or after compressor runs for an accumulated time of 45 minutes (Upon completion of defrosting or when switched to cooling mode, compressor accumulated operation time will  be  cleared) and when 2 minutes' continuous checking by defrosting sensor TE (check frosting condition  of  outdoor  unit  heat  exchanger)  and  outdoor  ambient  temperature  sensor  TA  meets  the following conditions:"
+    }
+  ]
+}

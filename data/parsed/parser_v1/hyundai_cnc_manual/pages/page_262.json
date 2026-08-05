@@ -1,0 +1,151 @@
+{
+  "page": 262,
+  "document_id": "doc_caa693b1",
+  "page_bbox": {
+    "width": 595.0,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_1877",
+      "reading_order": 2404,
+      "section": "2-4-5. Check Procedure",
+      "bbox": {
+        "l": 70.92,
+        "t": 757.5146659999999,
+        "r": 192.024726,
+        "b": 748.6429469281768
+      },
+      "content": "2-4-5. Check Procedure",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1878",
+      "reading_order": 2405,
+      "section": "2-4-5. Check Procedure",
+      "bbox": {
+        "l": 70.92,
+        "t": 734.5347979999999,
+        "r": 221.053668,
+        "b": 725.6630789281768
+      },
+      "content": "<LED Indications and Meanings>"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0385",
+      "reading_order": 2406,
+      "section": "2-4-5. Check Procedure",
+      "bbox": {
+        "l": 101.86983489990234,
+        "t": 680.5664825439453,
+        "r": 128.77786254882812,
+        "b": 640.4229431152344
+      },
+      "image_path": "figures/figure_0385.png",
+      "previous_block_id": "txt_1878",
+      "width": 26,
+      "height": 40,
+      "image_hash": "780cf37e574a8a4f97bb1a10981404c91626f16724b5ad2a91841a370e42c471"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0386",
+      "reading_order": 2407,
+      "section": "2-4-5. Check Procedure",
+      "bbox": {
+        "l": 103.746826171875,
+        "t": 621.1149597167969,
+        "r": 128.3623046875,
+        "b": 601.4193267822266
+      },
+      "image_path": "figures/figure_0386.png",
+      "previous_block_id": "txt_1878",
+      "width": 24,
+      "height": 19,
+      "image_hash": "77784b6dc63d332aef61685ea47a7f2cd3b28cdf3e3da3c358d37c88e309e1ab"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0387",
+      "reading_order": 2408,
+      "section": "2-4-5. Check Procedure",
+      "bbox": {
+        "l": 102.03207397460938,
+        "t": 601.4127960205078,
+        "r": 127.73884582519531,
+        "b": 581.8450012207031
+      },
+      "image_path": "figures/figure_0387.png",
+      "previous_block_id": "txt_1878",
+      "width": 25,
+      "height": 19,
+      "image_hash": "e74a45195f3d4ba3705ef29b091197603fe6e2681039ebbb5aa4cd9f7ef28d71"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0388",
+      "reading_order": 2409,
+      "section": "2-4-5. Check Procedure",
+      "bbox": {
+        "l": 96.28360748291016,
+        "t": 574.3486938476562,
+        "r": 132.01434326171875,
+        "b": 522.2643127441406
+      },
+      "image_path": "figures/figure_0388.png",
+      "previous_block_id": "txt_1878",
+      "width": 35,
+      "height": 52,
+      "image_hash": "e823c98aab738eef38f1845a7cdefb71f60f0162971a11b9b369b4793e788976"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0389",
+      "reading_order": 2410,
+      "section": "2-4-5. Check Procedure",
+      "bbox": {
+        "l": 97.34651947021484,
+        "t": 517.2186279296875,
+        "r": 132.32620239257812,
+        "b": 462.9672546386719
+      },
+      "image_path": "figures/figure_0389.png",
+      "previous_block_id": "txt_1878",
+      "width": 34,
+      "height": 54,
+      "image_hash": "bdb32ebd3a1762447ed3753f29eea9f475c375a62ed3884b755f049d85e94cf7"
+    },
+    {
+      "type": "table",
+      "id": "tbl_0145",
+      "reading_order": 2411,
+      "section": "2-4-5. Check Procedure",
+      "bbox": {
+        "l": 72.34268951416016,
+        "t": 714.7241821289062,
+        "r": 532.9356079101562,
+        "b": 419.5599670410156
+      },
+      "markdown": "| LED                             | State                                                                             | Description                                                                                                  |\n|---------------------------------|-----------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|\n|                                 | Amplifier not ready                                                               | This indicates that control power (+24V DC) is supplied. No alarm is issued, but the motor is not activated. |\n| Amplifier ready                 | This indicates that the motor is activated and that commands can now be accepted. |                                                                                                              |\n| Command being executed          | This indicates that an accepted command is now being executed.                    | Blinking                                                                                                     |\n| Blinking Parameter being        | loaded. This indicates that parameters are                                        | being loaded in a batch from the power motion manager or through the RS-232C interface.                      |\n| Indication other than the above | Alarm                                                                             | An alarm is issued. For information about alarms, see the explanation of troubleshooting in Part III.        |",
+      "rows": 6,
+      "cols": 3
+    }
+  ],
+  "page_stats": {
+    "block_count": 8,
+    "text_blocks": 2,
+    "paragraphs": 1,
+    "headings": 1,
+    "list_items": 0,
+    "captions": 0,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 5,
+    "tables": 1,
+    "toc_tables": 0
+  }
+}

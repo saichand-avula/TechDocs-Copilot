@@ -1,0 +1,38 @@
+{
+  "page": 140,
+  "document_id": "doc_e02482e6",
+  "page_bbox": {
+    "width": 595.0,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0346",
+      "reading_order": 1512,
+      "section": "GA 55",
+      "bbox": {
+        "l": 26.536659240722656,
+        "t": 815.9196624755859,
+        "r": 74.04835510253906,
+        "b": 792.6629981994629
+      },
+      "image_path": "figures/figure_0346.png",
+      "previous_block_id": "txt_1044",
+      "next_block_id": "txt_1045"
+    },
+    {
+      "type": "table",
+      "id": "tbl_0124",
+      "reading_order": 1513,
+      "section": "GA 55",
+      "bbox": {
+        "l": 41.07899475097656,
+        "t": 763.3846740722656,
+        "r": 531.4205932617188,
+        "b": 185.48614501953125
+      },
+      "markdown": "|                                                                                    | Units   | 7.5 bar    | 8 bar      | 10 bar     | 13 bar     |\n|------------------------------------------------------------------------------------|---------|------------|------------|------------|------------|\n| Set point,thermostatic valve                                                       | 0 C     | 40         | 40         | 40         | 65         |\n| Temperature of air leaving outlet valve (approx),air- cooled units without dryer   | 0 C     | 30         | 30         | 30         | 30         |\n| Temperature of air leaving outlet valve (approx),water- cooled units without dryer |         | 32         | 32         | 32         | 32         |\n| Temperature of air leaving outlet valve (approx.),Full- Feature units              | 0 C     | 25         | 25         | 25         | 25         |\n| Pressure dewpoint,Full- Feature units                                              | 0 C     | 4          | 4          | 4          | 4          |\n| Drive motor, SIEMENS                                                               | 0 C     | 1LG9 228-2 | 1LG9 228-2 | 1LG9 228-2 | 1LG9 228-2 |\n| Motor shaft speed                                                                  | r/min   | 2965       | 2965       | 2965       | 2965       |\n| Nominal motor rating                                                               | kW      | 55         | 55         | 55         | 55         |\n| Power consumpation Dryer at full load, Full-Feature units                          | kW      | 2.7        | 2.7        | 2.7        | 2.7        |\n| Power consumption dryer at full load,Full-Feature units (1)                        | kW      | 1.6        | 1.6        | 1.2        | 1.4        |\n| Power consumpation Dryer at no load, Full- Feature units                           | kW      | 2.4        | 2.4        | 2.4        | 2.4        |\n| Power consumpation Dryer at no load, Full- Feature units (1)                       | kW      | 1.4        | 1.4        | 1.1        | 1.3        |"
+    }
+  ]
+}

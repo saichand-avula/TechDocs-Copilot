@@ -1,0 +1,15 @@
+{
+  "id": "tbl_0020",
+  "page": 30,
+  "section": "Flow diagram",
+  "title": null,
+  "markdown": "| Reference   | Name                                      |\n|-------------|-------------------------------------------|\n| AI          | Air inlet                                 |\n| AO          | Air outlet                                |\n| 1           | Air/air heat exchanger                    |\n| 2           | Air/refrigerant heat exchanger/evaporator |\n| 3           | Condensate separator                      |\n| 4           | Automatic drain / condensate outlet       |\n| 5           | Refrigerant compressor                    |\n| 6           | Refrigerant condenser                     |\n| 7           | Liquid refrigerant dryer/filter           |\n| 8           | Thermostatic expansion valve              |\n| 9           | Hot gas by-pass valve                     |\n| 10          | Condenser cooling fan                     |\n| 11          | Pressure switch, fan control              |",
+  "block_id": "#/tables/19",
+  "reading_order": 268,
+  "bbox": {
+    "l": 61.794212341308594,
+    "t": 447.2879943847656,
+    "r": 532.0951538085938,
+    "b": 217.83984375
+  }
+}

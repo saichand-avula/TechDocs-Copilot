@@ -1,0 +1,179 @@
+{
+  "page": 78,
+  "document_id": "doc_e02482e6",
+  "page_bbox": {
+    "width": 595.0,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0223",
+      "reading_order": 811,
+      "section": "4.6    Data displayed during normal operation",
+      "bbox": {
+        "l": 26.531312942504883,
+        "t": 816.2412967681885,
+        "r": 74.01185607910156,
+        "b": 792.7095565795898
+      },
+      "image_path": "figures/figure_0223.png",
+      "next_block_id": "txt_0527",
+      "width": 47,
+      "height": 23,
+      "decorative": true,
+      "image_hash": "7577891dcf1743bd2e7a735ef2621e01244d960bde43e28868c27d7c1437ddb9"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0224",
+      "reading_order": 812,
+      "section": "4.6    Data displayed during normal operation",
+      "bbox": {
+        "l": 213.13856506347656,
+        "t": 769.7407836914062,
+        "r": 358.0042419433594,
+        "b": 653.2721862792969
+      },
+      "image_path": "figures/figure_0224.png",
+      "next_block_id": "txt_0527",
+      "image_hash": "05ddae2444b6df47892cc6bf6e4e0a2d9df71cf38f6b9d2e2803d96f8a985fa5",
+      "width": 145,
+      "height": 117
+    },
+    {
+      "type": "table",
+      "id": "tbl_0064",
+      "reading_order": 813,
+      "section": "4.6    Data displayed during normal operation",
+      "bbox": {
+        "l": 60.89397430419922,
+        "t": 636.73193359375,
+        "r": 538.0587768554688,
+        "b": 600.4873046875
+      },
+      "markdown": "| Reference   | Description   |\n|-------------|---------------|\n| (1)         | OSCi overflow |",
+      "rows": 2,
+      "cols": 2
+    },
+    {
+      "type": "heading",
+      "id": "txt_0527",
+      "reading_order": 814,
+      "section": "4.7    Warnings",
+      "bbox": {
+        "l": 29.2899,
+        "t": 563.04,
+        "r": 140.3107,
+        "b": 545.184
+      },
+      "content": "4.7    Warnings",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0528",
+      "reading_order": 815,
+      "section": "Service required",
+      "bbox": {
+        "l": 29.2899,
+        "t": 522.9350000000001,
+        "r": 120.00030000000001,
+        "b": 510.659
+      },
+      "content": "Service required",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0529",
+      "reading_order": 816,
+      "section": "Service required",
+      "bbox": {
+        "l": 63.3096,
+        "t": 503.641,
+        "r": 535.245899999999,
+        "b": 465.0640000000001
+      },
+      "content": "This warning indicates that the remaining filter lifetime has dropped below 10%. In this case a service kit with new filters needs to be ordered. The 'service' LED will light up at the right side of the Elektronikon® Graphic. To consult the warning, navigate the cursor to the warning icon as on the following screen."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0225",
+      "reading_order": 817,
+      "section": "Service required",
+      "bbox": {
+        "l": 208.4701385498047,
+        "t": 443.9942932128906,
+        "r": 353.36773681640625,
+        "b": 326.372314453125
+      },
+      "image_path": "figures/figure_0225.png",
+      "previous_block_id": "txt_0529",
+      "next_block_id": "txt_0530",
+      "image_hash": "31a0078dded9e10697234eda9dfd904d6137cf2a9c08916ce2a5c9a60203e3c2",
+      "width": 145,
+      "height": 118
+    },
+    {
+      "type": "table",
+      "id": "tbl_0065",
+      "reading_order": 818,
+      "section": "Service required",
+      "bbox": {
+        "l": 61.437294006347656,
+        "t": 303.8524169921875,
+        "r": 539.20166015625,
+        "b": 251.9173583984375
+      },
+      "markdown": "| Reference   | Description       |\n|-------------|-------------------|\n| (1)         | Compressor outlet |\n| (2)         | Service           |",
+      "rows": 3,
+      "cols": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0530",
+      "reading_order": 819,
+      "section": "Service required",
+      "bbox": {
+        "l": 62.23,
+        "t": 230.88099999999997,
+        "r": 528.0909999999989,
+        "b": 205.50400000000002
+      },
+      "content": "After pressing enter, the following screen with the remaining lifetime and the service minimum (10%) will be displayed. The text 'service 10' will be blinking."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0226",
+      "reading_order": 820,
+      "section": "Service required",
+      "bbox": {
+        "l": 194.7118682861328,
+        "t": 197.196044921875,
+        "r": 361.0018005371094,
+        "b": 63.1136474609375
+      },
+      "image_path": "figures/figure_0226.png",
+      "previous_block_id": "txt_0530",
+      "image_hash": "e5861a5f17a29d74fdb765320d1f1701091e00e97c5e65bd7ef91f619986b807",
+      "width": 166,
+      "height": 134
+    }
+  ],
+  "page_stats": {
+    "block_count": 10,
+    "text_blocks": 4,
+    "paragraphs": 2,
+    "headings": 2,
+    "list_items": 0,
+    "captions": 0,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 4,
+    "tables": 2,
+    "toc_tables": 0
+  }
+}

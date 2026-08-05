@@ -1,0 +1,296 @@
+{
+  "page": 11,
+  "document_id": "doc_c203a4f3",
+  "page_bbox": {
+    "width": 612.3599853515625,
+    "height": 792.4320068359375
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0141",
+      "reading_order": 143,
+      "section": "3. Engine Controls",
+      "bbox": {
+        "l": 52.3843,
+        "t": 727.1973068359374,
+        "r": 266.32270000000005,
+        "b": 705.5587870854176
+      },
+      "content": "3. Engine Controls",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0142",
+      "reading_order": 144,
+      "section": "GENERAL",
+      "bbox": {
+        "l": 140.0882,
+        "t": 676.0049068359375,
+        "r": 198.75619999999995,
+        "b": 665.1856469606777
+      },
+      "content": "GENERAL",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0143",
+      "reading_order": 145,
+      "section": "GENERAL",
+      "bbox": {
+        "l": 47.5654,
+        "t": 651.9861068359376,
+        "r": 291.38370000000003,
+        "b": 604.0864492035388
+      },
+      "content": "This section describes the generator set preheat/ start/run control system.  The set may be started either at the onboard DC control box or by using a remotely mounted start control."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0144",
+      "reading_order": 146,
+      "section": "START CONTROL AT SET",
+      "bbox": {
+        "l": 95.8677,
+        "t": 589.3782068359375,
+        "r": 243.0429000000001,
+        "b": 578.5589469606776
+      },
+      "content": "START CONTROL AT SET",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0145",
+      "reading_order": 147,
+      "section": "START CONTROL AT SET",
+      "bbox": {
+        "l": 47.5654,
+        "t": 565.3594068359375,
+        "r": 291.552,
+        "b": 517.4597492035388
+      },
+      "content": "The set is started with a Start/Stop/Preheat switch on the front panel of the DC control box. Component references are found on wiring/schematic diagrams in the Wiring Diagrams section of this manual."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0146",
+      "reading_order": 148,
+      "section": "START CONTROL AT SET",
+      "bbox": {
+        "l": 47.5654,
+        "t": 502.71330683593754,
+        "r": 291.45080000000036,
+        "b": 442.2285492035389
+      },
+      "content": "The DC control box does not contain meters and is designed for remote mounting within limits of the wire harness (approximately 32 inches [813 mm]). An  optional  remote  control  panel  with  meters  is available in a kit from Cummins."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0147",
+      "reading_order": 149,
+      "section": "Switches",
+      "bbox": {
+        "l": 47.5654,
+        "t": 427.46320683593746,
+        "r": 99.58539999999998,
+        "b": 416.64394696067757
+      },
+      "content": "Switches",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0148",
+      "reading_order": 150,
+      "section": "Switches",
+      "bbox": {
+        "l": 47.56539999999998,
+        "t": 403.4444068359375,
+        "r": 291.6807,
+        "b": 342.95964920353885
+      },
+      "content": "Start-Stop/Preheat Switch S11: Starts and stops the unit locally.  Preheat function occurs when the switch is held in the Stop position.  The unit may also be operated from a remote switch wired to receptacle J3 on the rear panel."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0149",
+      "reading_order": 151,
+      "section": "Circuit Breakers",
+      "bbox": {
+        "l": 47.5654,
+        "t": 328.19390683593747,
+        "r": 140.46220000000005,
+        "b": 317.3746469606776
+      },
+      "content": "Circuit Breakers",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0150",
+      "reading_order": 152,
+      "section": "Circuit Breakers",
+      "bbox": {
+        "l": 47.56539999999998,
+        "t": 304.1752068359375,
+        "r": 291.3947,
+        "b": 256.3327492035388
+      },
+      "content": "DC  Control  Breaker  CB11: A  15  ampere  DC breaker providing protection to the control box wiring and remote wiring from short circuits or overload.  Also serves as an emergency stop switch."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0151",
+      "reading_order": 153,
+      "section": "Circuit Breakers",
+      "bbox": {
+        "l": 47.56539999999998,
+        "t": 241.5874068359376,
+        "r": 291.5256000000001,
+        "b": 206.38724920353877
+      },
+      "content": "Fault Breaker CB12: A manual reset breaker that shuts down the engine for low oil pressure and high coolant temperatures."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0152",
+      "reading_order": 154,
+      "section": "Control Components",
+      "bbox": {
+        "l": 320.9386,
+        "t": 676.0049068359375,
+        "r": 440.6818,
+        "b": 665.1856469606777
+      },
+      "content": "Control Components",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0153",
+      "reading_order": 155,
+      "section": "Control Components",
+      "bbox": {
+        "l": 320.9386,
+        "t": 653.6303068359375,
+        "r": 564.7436999999995,
+        "b": 631.0724492035388
+      },
+      "content": "The following describes the basic engine control components and how they function."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0154",
+      "reading_order": 156,
+      "section": "Control Components",
+      "bbox": {
+        "l": 320.9386,
+        "t": 618.2543068359375,
+        "r": 564.9351000000006,
+        "b": 557.7695492035389
+      },
+      "content": "A11 Engine Monitor Circuit Board: A circuit board that monitors the engine control system functions. This includes starting, stopping, and fault system operation.  Terminals are included for making remote connections.  See Figure 3-1.",
+      "hyperlink_hint": true
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0155",
+      "reading_order": 157,
+      "section": "Control Components",
+      "bbox": {
+        "l": 320.93860000000006,
+        "t": 544.9514068359376,
+        "r": 564.7425999999992,
+        "b": 522.3935492035389
+      },
+      "content": "Two relays soldered into the engine monitor board are not serviceable.  They function as follows:"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0156",
+      "reading_order": 158,
+      "section": "Control Components",
+      "bbox": {
+        "l": 330.7465,
+        "t": 509.94560683593744,
+        "r": 564.7627999999995,
+        "b": 474.31624920353875
+      },
+      "content": " Power relay K12 connects battery B+ to the control meters and fuel solenoid during operation."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0157",
+      "reading_order": 159,
+      "section": "Control Components",
+      "bbox": {
+        "l": 330.7465,
+        "t": 461.92670683593747,
+        "r": 564.8639999999992,
+        "b": 388.37044920353884
+      },
+      "content": " Starter  protection  relay  K15  is  AC  operated. When the Start switch is pressed, B+ is connected to K11 start solenoid through the K15 NC contacts until the generator output reaches about 90 volts AC.  At this voltage K15 activates and disconnects the starter circuit."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0158",
+      "reading_order": 160,
+      "section": "Control Components",
+      "bbox": {
+        "l": 320.93899999999996,
+        "t": 375.5523068359376,
+        "r": 564.7825999999991,
+        "b": 315.06754920353893
+      },
+      "content": "K11 Start Solenoid: Located over the engine monitor circuit board (above K13 glow plug heater solenoid).  It connects battery B+ to the start solenoid, K13 heater solenoid, fuel solenoid and meters during cranking."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0159",
+      "reading_order": 161,
+      "section": "Control Components",
+      "bbox": {
+        "l": 320.93899999999996,
+        "t": 302.2494068359377,
+        "r": 565.0091999999994,
+        "b": 254.40694920353894
+      },
+      "content": "K13 Glow Plug Heater Solenoid: Located directly above the monitor circuit board.  Connects B+ to the engine glow plugs during cranking.  It is energized by K11 start solenoid."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0160",
+      "reading_order": 162,
+      "section": "Control Components",
+      "bbox": {
+        "l": 320.93899999999996,
+        "t": 241.5888068359377,
+        "r": 564.7605999999993,
+        "b": 206.388649203539
+      },
+      "content": "K14 Fuel Solenoid: It opens the fuel control valve when the  start/stop  switch  is  placed  in  the  Start position."
+    }
+  ],
+  "page_stats": {
+    "block_count": 20,
+    "text_blocks": 20,
+    "paragraphs": 12,
+    "headings": 6,
+    "list_items": 2,
+    "captions": 0,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 0,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

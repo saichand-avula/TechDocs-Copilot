@@ -1,0 +1,103 @@
+{
+  "page": 658,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_4968",
+      "reading_order": 6880,
+      "section": "Post service test",
+      "bbox": {
+        "l": 113.0,
+        "t": 732.29,
+        "r": 383.8400000000001,
+        "b": 720.7
+      },
+      "content": "At the rear of the printer, pull out on the blue lever to unlock it."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_4969",
+      "reading_order": 6881,
+      "section": "Post service test",
+      "bbox": {
+        "l": 113.0,
+        "t": 553.5556,
+        "r": 192.06,
+        "b": 541.9656
+      },
+      "content": "Close the tray."
+    },
+    {
+      "type": "figure",
+      "id": "fig_1866",
+      "reading_order": 6882,
+      "section": "Post service test",
+      "bbox": {
+        "l": 134.6786950894796,
+        "t": 698.6145248413086,
+        "r": 360.6714896637696,
+        "b": 568.2811431884766
+      },
+      "image_path": "figures/figure_1866.png",
+      "caption": "Unlock the rear accessory lock",
+      "figure_number": "Figure 1-1094",
+      "image_hash": "b1caee63d1ab5d96d17fdb6cc349445ca1316bdda7281dd892e270a7aa248d8b",
+      "width": 226,
+      "height": 131,
+      "previous_block_id": "txt_4969",
+      "next_block_id": "txt_4970",
+      "caption_id": "txt_4970"
+    },
+    {
+      "type": "caption",
+      "id": "txt_4970",
+      "reading_order": 6883,
+      "section": "Post service test",
+      "bbox": {
+        "l": 135.00006000000002,
+        "t": 711.29,
+        "r": 317.6900699999999,
+        "b": 699.7
+      },
+      "content": "Figure 1-1094  Unlock the rear accessory lock",
+      "caption_for": "fig_1866"
+    },
+    {
+      "type": "figure",
+      "id": "fig_1867",
+      "reading_order": 6884,
+      "section": "Post service test",
+      "bbox": {
+        "l": 134.822975313172,
+        "t": 530.9014587402344,
+        "r": 375.93770997526144,
+        "b": 339.9925842285156
+      },
+      "image_path": "figures/figure_1867.png",
+      "caption": "Unlock the rear accessory lock",
+      "figure_number": "Figure 1-1094",
+      "image_hash": "4f15881a916c19f547cb02cd3e70a8da09c549b3f5801fbdc7a1e882023a9d3c",
+      "width": 241,
+      "height": 191,
+      "previous_block_id": "txt_4970"
+    }
+  ],
+  "page_stats": {
+    "block_count": 5,
+    "text_blocks": 3,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 2,
+    "captions": 1,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 2,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

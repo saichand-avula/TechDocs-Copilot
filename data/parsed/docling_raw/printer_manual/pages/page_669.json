@@ -1,0 +1,278 @@
+{
+  "page": 669,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_5063",
+      "reading_order": 7010,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 122.0,
+        "t": 732.29,
+        "r": 302.2399999999999,
+        "b": 720.7
+      },
+      "content": "Push down to snap the cover into place."
+    },
+    {
+      "type": "figure",
+      "id": "fig_1901",
+      "reading_order": 7011,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 127.91800748718543,
+        "t": 710.815803527832,
+        "r": 140.1769917409022,
+        "b": 697.6596832275391
+      },
+      "image_path": "figures/figure_1901.png",
+      "decorative": true,
+      "width": 12,
+      "height": 13,
+      "image_hash": "74ce7e8f2a5626463dd6444cf5bfde42178fe3c8175c4176382a6d973a8e84c7",
+      "previous_block_id": "txt_5063",
+      "next_block_id": "txt_5064"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_5064",
+      "reading_order": 7012,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 144.0,
+        "t": 708.79,
+        "r": 520.6399999999999,
+        "b": 697.2
+      },
+      "content": "NOTE: When the cover is correctly installed, an audible click is heard when it snaps into place.",
+      "severity": "note"
+    },
+    {
+      "type": "caption",
+      "id": "txt_5065",
+      "reading_order": 7013,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 144.0,
+        "t": 686.29,
+        "r": 325.1800099999999,
+        "b": 674.7
+      },
+      "content": "Figure 1-1112  Push down on the roller cover",
+      "caption_for": "fig_1902"
+    },
+    {
+      "type": "figure",
+      "id": "fig_1902",
+      "reading_order": 7014,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 143.00096446169118,
+        "t": 675.0901718139648,
+        "r": 432.9635075383045,
+        "b": 458.1048889160156
+      },
+      "image_path": "figures/figure_1902.png",
+      "caption": "Push down on the roller cover",
+      "figure_number": "Figure 1-1112",
+      "image_hash": "653b986e1f59d789f605c29b376a5c36de384e29c54c80b09bf97a712f00d4ed",
+      "width": 290,
+      "height": 217,
+      "previous_block_id": "txt_5065",
+      "next_block_id": "txt_5066",
+      "caption_id": "txt_5065"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_5066",
+      "reading_order": 7015,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 100.0,
+        "t": 447.42,
+        "r": 540.27004,
+        "b": 435.83
+      },
+      "content": "Reverse the removal steps to install the assembly. Also use the following special installation instructions."
+    },
+    {
+      "type": "figure",
+      "id": "fig_1903",
+      "reading_order": 7016,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 105.89932781660053,
+        "t": 425.91253662109375,
+        "r": 118.09240224085781,
+        "b": 412.5830078125
+      },
+      "image_path": "figures/figure_1903.png",
+      "decorative": true,
+      "width": 12,
+      "height": 13,
+      "image_hash": "7852028aa356400a4cf19d31cda34bfe88989e8992b9a7108b8f6b88881a0802",
+      "previous_block_id": "txt_5066",
+      "next_block_id": "txt_5067"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_5067",
+      "reading_order": 7017,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 122.0,
+        "t": 423.92,
+        "r": 472.3399900000001,
+        "b": 412.33
+      },
+      "content": "NOTE: Resetting the firmware counter is firmware dependent. Do one of the following.",
+      "severity": "note"
+    },
+    {
+      "type": "heading",
+      "id": "txt_5068",
+      "reading_order": 7018,
+      "section": "Reset the firmware counter (FS3)",
+      "bbox": {
+        "l": 122.0,
+        "t": 397.42,
+        "r": 254.15999999999994,
+        "b": 385.83
+      },
+      "content": "Reset the firmware counter (FS3)",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_5069",
+      "reading_order": 7019,
+      "section": "Reset the firmware counter (FS3)",
+      "bbox": {
+        "l": 121.99999,
+        "t": 377.42,
+        "r": 502.82000000000016,
+        "b": 365.83
+      },
+      "content": "From the Home screen on the control panel, scroll to and touch the Administration button."
+    },
+    {
+      "type": "caption",
+      "id": "txt_5070",
+      "reading_order": 7020,
+      "section": "Reset the firmware counter (FS3)",
+      "bbox": {
+        "l": 144.0,
+        "t": 356.42,
+        "r": 281.86000999999993,
+        "b": 344.83
+      },
+      "content": "Figure 1-1113  Home screen (FS3)",
+      "caption_for": "fig_1904"
+    },
+    {
+      "type": "figure",
+      "id": "fig_1904",
+      "reading_order": 7021,
+      "section": "Reset the firmware counter (FS3)",
+      "bbox": {
+        "l": 146.1201168282881,
+        "t": 339.6497497558594,
+        "r": 326.7928459669894,
+        "b": 203.23223876953125
+      },
+      "image_path": "figures/figure_1904.png",
+      "caption": "Home screen (FS3)",
+      "figure_number": "Figure 1-1113",
+      "image_hash": "bada1d36619aeb3e3c5c8e6a0108e1c2e6456fed1df3cbe73b6202c86ff3649c",
+      "width": 181,
+      "height": 137,
+      "previous_block_id": "txt_5070",
+      "next_block_id": "txt_5071",
+      "caption_id": "txt_5070"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_5071",
+      "reading_order": 7022,
+      "section": "Reset the firmware counter (FS3)",
+      "bbox": {
+        "l": 122.0,
+        "t": 187.54999999999995,
+        "r": 251.22000000000003,
+        "b": 175.96000000000004
+      },
+      "content": "Open the following menus:"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_5072",
+      "reading_order": 7023,
+      "section": "Reset the firmware counter (FS3)",
+      "bbox": {
+        "l": 144.0,
+        "t": 166.54999999999995,
+        "r": 233.68999999999997,
+        "b": 154.96000000000004
+      },
+      "content": "-Manage Supplies"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_5073",
+      "reading_order": 7024,
+      "section": "Reset the firmware counter (FS3)",
+      "bbox": {
+        "l": 144.0,
+        "t": 145.30085999999994,
+        "r": 224.96999999999997,
+        "b": 133.71086000000003
+      },
+      "content": "-Reset Supplies"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_5074",
+      "reading_order": 7025,
+      "section": "Reset the firmware counter (FS3)",
+      "bbox": {
+        "l": 144.0,
+        "t": 124.05170999999996,
+        "r": 270.06999999999994,
+        "b": 112.46171000000004
+      },
+      "content": "-New Document Feeder Kit"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_5075",
+      "reading_order": 7026,
+      "section": "Reset the firmware counter (FS3)",
+      "bbox": {
+        "l": 121.99999,
+        "t": 102.80256999999995,
+        "r": 349.5500100000001,
+        "b": 91.21257000000003
+      },
+      "content": "Select the Reset item to reset the firmware counter."
+    }
+  ],
+  "page_stats": {
+    "block_count": 17,
+    "text_blocks": 13,
+    "paragraphs": 0,
+    "headings": 1,
+    "list_items": 8,
+    "captions": 2,
+    "admonitions": 2,
+    "references": 0,
+    "figures": 4,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

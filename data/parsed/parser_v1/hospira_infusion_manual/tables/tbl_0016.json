@@ -1,0 +1,18 @@
+{
+  "id": "tbl_0016",
+  "page": 38,
+  "section": "4.2.1.21 MECHANISM INTERFACE",
+  "title": null,
+  "markdown": "Legend: P = Power;  A = Analog;  D = Digital;  I = Input;  O = Output\n\n| Table 4-4. CPU-Mechanism Interface Signals   | Table 4-4. CPU-Mechanism Interface Signals   | Table 4-4. CPU-Mechanism Interface Signals   |\n|----------------------------------------------|----------------------------------------------|----------------------------------------------|\n| Signal Name                                  | Type                                         | Description                                  |\n| SPRXD                                        | D, I SCP receive                             | data                                         |\n| SPTXD                                        | D, O SCP transmit                            | data                                         |\n| CSSEP*                                       | D, O Chip select,                            | EEPROM                                       |\n| V5_0                                         | P 5 V supply                                 | interface power                              |\n| V3_3                                         | P 3.3 V supply                               | logic power                                  |\n| GDIG                                         | P Digital                                    |                                              |\n| VANA                                         | P 5 V supply                                 | analog power                                 |\n| GANA                                         | P Analog                                     |                                              |\n| VMOT, GMOT                                   | P Motor                                      | directly from power                          |\n| V2_5                                         | A, I Reference                               | voltage for ADC and                          |",
+  "block_id": "#/tables/15",
+  "reading_order": 297,
+  "bbox": {
+    "l": 70.85086059570312,
+    "t": 738.9224166870117,
+    "r": 504.7850036621094,
+    "b": 496.8805847167969
+  },
+  "rows": 12,
+  "cols": 3,
+  "type": "table"
+}

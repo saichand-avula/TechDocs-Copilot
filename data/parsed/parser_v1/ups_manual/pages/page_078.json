@@ -1,0 +1,357 @@
+{
+  "page": 78,
+  "document_id": "doc_1032c87b",
+  "page_bbox": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_0630",
+      "reading_order": 800,
+      "section": "7.4.3 iStars Email settings",
+      "bbox": {
+        "l": 77.904,
+        "t": 722.8676629101562,
+        "r": 149.11568,
+        "b": 713.3961013631949
+      },
+      "content": "Email port"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0631",
+      "reading_order": 801,
+      "section": "7.4.3 iStars Email settings",
+      "bbox": {
+        "l": 77.904,
+        "t": 707.2676629101563,
+        "r": 270.46567999999996,
+        "b": 697.796101363195
+      },
+      "content": "In general, receiving port of Email is 25."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0632",
+      "reading_order": 802,
+      "section": "7.4.3 iStars Email settings",
+      "bbox": {
+        "l": 77.904,
+        "t": 691.6676629101563,
+        "r": 212.50567999999998,
+        "b": 682.196101363195
+      },
+      "content": "Sender's Email address"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0633",
+      "reading_order": 803,
+      "section": "7.4.3 iStars Email settings",
+      "bbox": {
+        "l": 77.904,
+        "t": 676.0676629101563,
+        "r": 216.58568,
+        "b": 666.596101363195
+      },
+      "content": "Set sender's Email address."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0634",
+      "reading_order": 804,
+      "section": "7.4.3 iStars Email settings",
+      "bbox": {
+        "l": 77.904,
+        "t": 660.4676629101563,
+        "r": 357.60568,
+        "b": 650.996101363195
+      },
+      "content": "Whether to send Email by SSL encryption transmission"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0635",
+      "reading_order": 805,
+      "section": "7.4.3 iStars Email settings",
+      "bbox": {
+        "l": 77.904,
+        "t": 644.8676629101562,
+        "r": 361.20568,
+        "b": 635.3961013631949
+      },
+      "content": "Set whether to send Email by SSL encryption transmission."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0636",
+      "reading_order": 806,
+      "section": "7.4.3 iStars Email settings",
+      "bbox": {
+        "l": 77.904,
+        "t": 629.2676629101563,
+        "r": 139.15568,
+        "b": 619.796101363195
+      },
+      "content": "Account"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0637",
+      "reading_order": 807,
+      "section": "7.4.3 iStars Email settings",
+      "bbox": {
+        "l": 77.904,
+        "t": 613.6676629101563,
+        "r": 514.97568,
+        "b": 604.196101363195
+      },
+      "content": "Set the sender's Email account, which is the same as the sender's Email address in general."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0638",
+      "reading_order": 808,
+      "section": "7.4.3 iStars Email settings",
+      "bbox": {
+        "l": 77.904,
+        "t": 598.0676629101563,
+        "r": 147.91567999999998,
+        "b": 588.596101363195
+      },
+      "content": "Password"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0639",
+      "reading_order": 809,
+      "section": "7.4.3 iStars Email settings",
+      "bbox": {
+        "l": 77.904,
+        "t": 582.4676629101563,
+        "r": 296.28568,
+        "b": 572.996101363195
+      },
+      "content": "Set password for the sender's Email account."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0640",
+      "reading_order": 810,
+      "section": "7.4.3 iStars Email settings",
+      "bbox": {
+        "l": 77.904,
+        "t": 566.8376629101563,
+        "r": 441.87568,
+        "b": 557.366101363195
+      },
+      "content": "Receiver's Email address (used to receive and receive the event and record)"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0641",
+      "reading_order": 811,
+      "section": "7.4.3 iStars Email settings",
+      "bbox": {
+        "l": 73.704,
+        "t": 551.2376629101562,
+        "r": 279.24568,
+        "b": 541.7661013631949
+      },
+      "content": "Send Email to warn when event occurs"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0642",
+      "reading_order": 812,
+      "section": "7.4.3 iStars Email settings",
+      "bbox": {
+        "l": 77.904,
+        "t": 535.6376629101563,
+        "r": 463.83567999999997,
+        "b": 526.166101363195
+      },
+      "content": "Set whether to send event by Email when abnormal condition of UPS is detected."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0643",
+      "reading_order": 813,
+      "section": "7.4.3 iStars Email settings",
+      "bbox": {
+        "l": 77.904,
+        "t": 520.0376629101563,
+        "r": 159.91567999999998,
+        "b": 510.566101363195
+      },
+      "content": "Account 1~8"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0644",
+      "reading_order": 814,
+      "section": "7.4.3 iStars Email settings",
+      "bbox": {
+        "l": 77.904,
+        "t": 504.4376629101563,
+        "r": 546.8956800000001,
+        "b": 479.36610136319496
+      },
+      "content": "Account 1~8 is Email account of receiver when UPS goes wrong and it supports 8 accounts at most. (3) Select"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0645",
+      "reading_order": 815,
+      "section": "7.4.3 iStars Email settings",
+      "bbox": {
+        "l": 77.904,
+        "t": 473.2376629101563,
+        "r": 541.2662399999994,
+        "b": 448.16610136319497
+      },
+      "content": "This page selects to send part or all of the events detected by iStars to the corresponding Email account. Specific events are shown in Figure 7-10."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0129",
+      "reading_order": 816,
+      "section": "7.4.3 iStars Email settings",
+      "bbox": {
+        "l": 144.9124144102611,
+        "t": 440.82602328534574,
+        "r": 459.9077710349989,
+        "b": 270.7961015910521
+      },
+      "image_path": "figures/figure_0129.png",
+      "previous_block_id": "txt_0645",
+      "next_block_id": "txt_0646",
+      "caption_id": "txt_0646",
+      "caption": ": UPS event page",
+      "figure_number": "Figure 7-10",
+      "image_hash": "a58e5e2fd469981aa8481db8b22cbaec7c3a0a88e3c40a0375ddd67d77da426d",
+      "width": 315,
+      "height": 170
+    },
+    {
+      "type": "caption",
+      "id": "txt_0646",
+      "reading_order": 817,
+      "section": "7.4.3 iStars Email settings",
+      "bbox": {
+        "l": 237.53,
+        "t": 254.8176629101563,
+        "r": 376.32568,
+        "b": 245.34610136319498
+      },
+      "content": "Figure 7-10: UPS event page",
+      "caption_for": "fig_0129"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0647",
+      "reading_order": 818,
+      "section": "7.4.3 iStars Email settings",
+      "bbox": {
+        "l": 77.904,
+        "t": 239.21766291015626,
+        "r": 358.80568,
+        "b": 229.74610136319495
+      },
+      "content": "Receiver's Email address (used to receive daily statement)"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0648",
+      "reading_order": 819,
+      "section": "7.4.3 iStars Email settings",
+      "bbox": {
+        "l": 77.904,
+        "t": 223.58766291015627,
+        "r": 296.64567999999997,
+        "b": 214.11610136319496
+      },
+      "content": "Delivery time for daily statement each day"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0649",
+      "reading_order": 820,
+      "section": "7.4.3 iStars Email settings",
+      "bbox": {
+        "l": 77.904,
+        "t": 207.98766291015636,
+        "r": 541.4563999999991,
+        "b": 167.316101363195
+      },
+      "content": "In this item, whether to send daily statement at the fixed time is set. Format of sending time is set as hour: minute (hh:mm). Hour and minute are tow integer respectively and separated by colon. The hour cannot be more than 23 and the minute cannot be more than 59, such as 12:00."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0650",
+      "reading_order": 821,
+      "section": "7.4.3 iStars Email settings",
+      "bbox": {
+        "l": 77.904,
+        "t": 161.1876629101563,
+        "r": 154.63567999999998,
+        "b": 151.71610136319498
+      },
+      "content": "Account 1~4"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0651",
+      "reading_order": 822,
+      "section": "7.4.3 iStars Email settings",
+      "bbox": {
+        "l": 77.904,
+        "t": 145.58766291015627,
+        "r": 483.87568,
+        "b": 136.11610136319496
+      },
+      "content": "Set Email account used to receive daily statement and it supports 4 accounts at most."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0652",
+      "reading_order": 823,
+      "section": "7.4.3 iStars Email settings",
+      "bbox": {
+        "l": 77.904,
+        "t": 129.98766291015636,
+        "r": 139.15568,
+        "b": 120.51610136319493
+      },
+      "content": "Test setting"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0653",
+      "reading_order": 824,
+      "section": "7.4.3 iStars Email settings",
+      "bbox": {
+        "l": 77.904,
+        "t": 114.38766291015634,
+        "r": 185.74568,
+        "b": 104.91610136319491
+      },
+      "content": "Test mail recipient"
+    }
+  ],
+  "page_stats": {
+    "block_count": 25,
+    "text_blocks": 24,
+    "paragraphs": 12,
+    "headings": 0,
+    "list_items": 11,
+    "captions": 1,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 1,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

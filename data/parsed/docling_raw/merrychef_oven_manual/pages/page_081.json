@@ -1,0 +1,381 @@
+{
+  "page": 81,
+  "document_id": "doc_27a62e0f",
+  "page_bbox": {
+    "width": 594.9600219726562,
+    "height": 842.52001953125
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_1090",
+      "reading_order": 1370,
+      "section": "6.7 Replacing a magnetron",
+      "bbox": {
+        "l": 49.56,
+        "t": 787.02447953125,
+        "r": 253.25231999999994,
+        "b": 774.2523086051509
+      },
+      "content": "6.7 Replacing a magnetron",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "id": "txt_1091",
+      "reading_order": 1371,
+      "section": "Component",
+      "bbox": {
+        "l": 36.0,
+        "t": 756.40801953125,
+        "r": 105.36,
+        "b": 745.6244393785782
+      },
+      "content": "Component",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1092",
+      "reading_order": 1372,
+      "section": "Component",
+      "bbox": {
+        "l": 36.0,
+        "t": 728.94601953125,
+        "r": 558.5400000000001,
+        "b": 708.0153344167462
+      },
+      "content": "The magnetron(s) is/are located on top of the cavity and is/are fixed to the waveguide(s), which in turn are fixed to the top of the cavity."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1093",
+      "reading_order": 1373,
+      "section": "Component",
+      "bbox": {
+        "l": 36.00000000000006,
+        "t": 700.74001953125,
+        "r": 550.1430000000001,
+        "b": 668.1723344167461
+      },
+      "content": "The standard power conneX variants comprise of a single magnetron & waveguide located on the top centre of the cavity. The high power conneX variants comprise of two magnetrons & waveguides, located on the top left of centre and top right of centre on the cavity."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0228",
+      "reading_order": 1374,
+      "section": "Component",
+      "bbox": {
+        "l": 42.22801654494931,
+        "t": 655.9820329249435,
+        "r": 197.34066740942322,
+        "b": 514.0551976765355
+      },
+      "image_path": "figures/figure_0228.png",
+      "previous_block_id": "txt_1093",
+      "next_block_id": "txt_1094"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0229",
+      "reading_order": 1375,
+      "section": "Component",
+      "bbox": {
+        "l": 373.85015399273516,
+        "t": 656.1220746036897,
+        "r": 551.5419189215584,
+        "b": 513.2223286530088
+      },
+      "image_path": "figures/figure_0229.png",
+      "previous_block_id": "txt_1093",
+      "next_block_id": "txt_1094"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0230",
+      "reading_order": 1376,
+      "section": "Component",
+      "bbox": {
+        "l": 200.99523751632537,
+        "t": 656.0782153128181,
+        "r": 358.25418657474535,
+        "b": 512.3090915964874
+      },
+      "image_path": "figures/figure_0230.png",
+      "previous_block_id": "txt_1093",
+      "next_block_id": "txt_1094"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1094",
+      "reading_order": 1377,
+      "section": "Component",
+      "bbox": {
+        "l": 36.0,
+        "t": 495.18601953125,
+        "r": 554.94,
+        "b": 474.3813344167462
+      },
+      "content": "Air from the cooling fan is forced across the cooling fins of the magnetron(s) and into the cooling duct, which then vents the warmed air out of the back of the oven."
+    },
+    {
+      "type": "heading",
+      "id": "txt_1095",
+      "reading_order": 1378,
+      "section": "Tools required",
+      "bbox": {
+        "l": 36.0,
+        "t": 450.52801953125,
+        "r": 120.36,
+        "b": 439.74443937857825
+      },
+      "content": "Tools required",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1096",
+      "reading_order": 1379,
+      "section": "Tools required",
+      "bbox": {
+        "l": 35.999999999999986,
+        "t": 431.94601953125,
+        "r": 141.057,
+        "b": 362.0553344167461
+      },
+      "content": "Hammer or similar tool PZ2 Pozidriv screwdriver M8 hex socket wrench Torque wrench Discharge Tool"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0231",
+      "reading_order": 1380,
+      "section": "Tools required",
+      "bbox": {
+        "l": 186.91097882259325,
+        "t": 451.67417097012134,
+        "r": 198.99235085901188,
+        "b": 439.7906211592867
+      },
+      "image_path": "figures/figure_0231.png",
+      "previous_block_id": "txt_1096",
+      "next_block_id": "txt_1097"
+    },
+    {
+      "type": "heading",
+      "id": "txt_1097",
+      "reading_order": 1381,
+      "section": "Requirements",
+      "bbox": {
+        "l": 205.8,
+        "t": 449.92801953125,
+        "r": 287.64,
+        "b": 439.1444393785783
+      },
+      "content": "Requirements",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1098",
+      "reading_order": 1382,
+      "section": "Requirements",
+      "bbox": {
+        "l": 205.8,
+        "t": 431.34601953125,
+        "r": 435.54299999999995,
+        "b": 423.2583344167462
+      },
+      "content": "Check that the following requirements have been met:"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1099",
+      "reading_order": 1383,
+      "section": "Requirements",
+      "bbox": {
+        "l": 223.79999999999998,
+        "t": 416.34301953125004,
+        "r": 568.374,
+        "b": 395.0523344167462
+      },
+      "content": " The appliance has been disconnected from the power supply and protective measures have been taken to ensure the power cannot be switched on again."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1100",
+      "reading_order": 1384,
+      "section": "Requirements",
+      "bbox": {
+        "l": 223.79099999999994,
+        "t": 390.42301953125,
+        "r": 333.40199999999993,
+        "b": 381.9753344167462
+      },
+      "content": " The appliance is cool."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1101",
+      "reading_order": 1385,
+      "section": "Requirements",
+      "bbox": {
+        "l": 223.78199999999995,
+        "t": 377.82301953125,
+        "r": 557.682,
+        "b": 356.53233441674615
+      },
+      "content": " The top, rear, left and right panels of the casing of the appliance have been removed."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1102",
+      "reading_order": 1386,
+      "section": "Requirements",
+      "bbox": {
+        "l": 223.7819999999999,
+        "t": 351.90301953125,
+        "r": 533.787,
+        "b": 343.45533441674615
+      },
+      "content": " The high voltage capacitors are discharged before commencing work."
+    },
+    {
+      "type": "heading",
+      "id": "txt_1103",
+      "reading_order": 1387,
+      "section": "Preparing a replacement magnetron",
+      "bbox": {
+        "l": 36.0,
+        "t": 329.20801953125,
+        "r": 242.16,
+        "b": 318.4244393785782
+      },
+      "content": "Preparing a replacement magnetron",
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "id": "fig_0232",
+      "reading_order": 1388,
+      "section": "Preparing a replacement magnetron",
+      "bbox": {
+        "l": 36.104026950696216,
+        "t": 301.2029175557559,
+        "r": 180.48224209702158,
+        "b": 59.69389788557203
+      },
+      "image_path": "figures/figure_0232.png",
+      "previous_block_id": "txt_1103",
+      "next_block_id": "txt_1104"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1104",
+      "reading_order": 1389,
+      "section": "Preparing a replacement magnetron",
+      "bbox": {
+        "l": 198.12,
+        "t": 291.3059195312501,
+        "r": 348.30300000000005,
+        "b": 229.32623441674616
+      },
+      "content": "The new magnetrons come with four pressed studs for fixing. These studs need to be removed before fitting the magnetron to the oven. NOTE:"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1105",
+      "reading_order": 1390,
+      "section": "Preparing a replacement magnetron",
+      "bbox": {
+        "l": 198.1290000000001,
+        "t": 221.93391953125,
+        "r": 346.3860000000001,
+        "b": 188.41223441674617
+      },
+      "content": "The studs can be removed by knocking them out of the tabs with a hammer."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1106",
+      "reading_order": 1391,
+      "section": "Preparing a replacement magnetron",
+      "bbox": {
+        "l": 198.12900000000008,
+        "t": 181.01991953125003,
+        "r": 339.4200000000001,
+        "b": 134.7722344167462
+      },
+      "content": "Ensure the tabs are not bent during this process. Secure them by laying them upon a piece of tube while pushing out the studs."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0233",
+      "reading_order": 1392,
+      "section": "Preparing a replacement magnetron",
+      "bbox": {
+        "l": 190.7650136759802,
+        "t": 131.47246391578074,
+        "r": 203.6002413074666,
+        "b": 120.2520495028117
+      },
+      "image_path": "figures/figure_0233.png",
+      "previous_block_id": "txt_1106",
+      "next_block_id": "txt_1107"
+    },
+    {
+      "type": "heading",
+      "id": "txt_1107",
+      "reading_order": 1393,
+      "section": "CAUTION",
+      "bbox": {
+        "l": 209.88,
+        "t": 111.78601953125008,
+        "r": 253.62,
+        "b": 103.59873047605822
+      },
+      "content": "CAUTION",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1108",
+      "reading_order": 1394,
+      "section": "CAUTION",
+      "bbox": {
+        "l": 198.11700000000002,
+        "t": 96.30601953125006,
+        "r": 345.294,
+        "b": 62.80173047605831
+      },
+      "content": "Wear personal protective equipment to protect your fingers when using the hammer."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0234",
+      "reading_order": 1395,
+      "section": "CAUTION",
+      "bbox": {
+        "l": 369.2523489261688,
+        "t": 301.1656463085757,
+        "r": 509.0183175324674,
+        "b": 211.6166254260079
+      },
+      "image_path": "figures/figure_0234.png",
+      "previous_block_id": "txt_1108",
+      "next_block_id": "txt_1109"
+    },
+    {
+      "type": "caption",
+      "id": "txt_1109",
+      "reading_order": 1396,
+      "section": "CAUTION",
+      "bbox": {
+        "l": 380.4,
+        "t": 194.94601953125004,
+        "r": 499.73729999999995,
+        "b": 161.4243344167462
+      },
+      "content": "2. Comparison of spare magnetrons with (right) and without (left) pressed studs."
+    }
+  ]
+}

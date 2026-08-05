@@ -1,0 +1,325 @@
+{
+  "page": 674,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_5125",
+      "reading_order": 7088,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 113.0,
+        "t": 732.29,
+        "r": 252.10999999999987,
+        "b": 720.7
+      },
+      "content": "Dispose of the defective part."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_5126",
+      "reading_order": 7089,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 134.99998,
+        "t": 708.79,
+        "r": 458.28998,
+        "b": 676.2
+      },
+      "content": "NOTE: HP recommends responsible disposal of the defective part. http://www8.hp.com/us/en/hp-information/environment/product-recycling.html"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_5127",
+      "reading_order": 7090,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 113.0,
+        "t": 665.29,
+        "r": 333.5199999999998,
+        "b": 653.7
+      },
+      "content": "Unpack the replacement part from the packaging."
+    },
+    {
+      "type": "figure",
+      "id": "fig_1917",
+      "reading_order": 7091,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 118.95867839577382,
+        "t": 710.460578918457,
+        "r": 131.6614692276328,
+        "b": 697.6410827636719
+      },
+      "image_path": "figures/figure_1917.png",
+      "width": 12,
+      "height": 12,
+      "image_hash": "baadb5f451cc3a4e1de59c7dd1559408bd8e4afe61c13357a1dd9a306169a50c",
+      "previous_block_id": "txt_5127",
+      "next_block_id": "txt_5128"
+    },
+    {
+      "type": "figure",
+      "id": "fig_1918",
+      "reading_order": 7092,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 119.08404662397166,
+        "t": 643.9130096435547,
+        "r": 133.01117564157403,
+        "b": 630.2148284912109
+      },
+      "image_path": "figures/figure_1918.png",
+      "width": 13,
+      "height": 13,
+      "image_hash": "39497deed573f7679f8db0d99e5b3565824474692383102b5c6271b0a1f38fbb",
+      "previous_block_id": "txt_5127",
+      "next_block_id": "txt_5128"
+    },
+    {
+      "type": "figure",
+      "id": "fig_1919",
+      "reading_order": 7093,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 118.75539732162113,
+        "t": 527.7721862792969,
+        "r": 131.96175816254612,
+        "b": 514.6177978515625
+      },
+      "image_path": "figures/figure_1919.png",
+      "decorative": true,
+      "width": 13,
+      "height": 13,
+      "image_hash": "87f577f15a1e3bd8375a2f1f5a4eacb684057892df033acacf282449dcb0d2e9",
+      "previous_block_id": "txt_5127",
+      "next_block_id": "txt_5128"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_5128",
+      "reading_order": 7094,
+      "severity": "caution",
+      "content": "CAUTION: Some parts are sensitive to electrostatic discharge (ESD). Always perform service",
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 135.0,
+        "t": 636.405,
+        "r": 172.75,
+        "b": 624.815
+      }
+    },
+    {
+      "type": "figure",
+      "id": "fig_1920",
+      "reading_order": 7096,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 181.70983856904846,
+        "t": 640.2132873535156,
+        "r": 201.50017424146293,
+        "b": 619.4267120361328
+      },
+      "image_path": "figures/figure_1920.png",
+      "width": 19,
+      "height": 20,
+      "image_hash": "c083ffb474caf96b036025e2a1281b32ab8c12ca4f7e041d70b8e96913e2cf4d",
+      "next_block_id": "txt_5130"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_5130",
+      "reading_order": 7097,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 135.0,
+        "t": 617.79,
+        "r": 540.7700400000001,
+        "b": 582.2
+      },
+      "content": "work at an ESD-protected workstation or mat. If an ESD workstation or mat is not available, touch the sheet-metal chassis to provide a static ground before touching an ESD-sensitive assembly. Protect the ESD-sensitive assemblies by placing them in ESD pouches when they are out of the printer."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_5131",
+      "reading_order": 7098,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 135.00004,
+        "t": 572.79,
+        "r": 539.6300400000002,
+        "b": 537.2
+      },
+      "content": "If the replacement part is a roller or pad, avoid touching the spongy part of it. Skin oils on the roller or pad can cause paper pickup and/or print-quality problems. HP recommends using disposable gloves when handling rollers or pads or washing your hands before touching rollers or pads."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_5132",
+      "reading_order": 7099,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 135.0,
+        "t": 527.79,
+        "r": 532.73,
+        "b": 504.2
+      },
+      "content": "IMPORTANT: Make sure that all of the shipping materials (for example shipping tape) are removed from the replacement part prior to installation."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_5133",
+      "reading_order": 7100,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 113.0,
+        "t": 493.28999999999996,
+        "r": 334.02,
+        "b": 481.70000000000005
+      },
+      "content": "To install an assembly, reverse the removal steps."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_5134",
+      "reading_order": 7101,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 135.00002,
+        "t": 472.29,
+        "r": 542.6100400000003,
+        "b": 436.7
+      },
+      "content": "When applicable, special installation instructions are provided for an assembly at the end of the removal procedure. Always completely read the removal instructions and follow all special installation instructions."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_5135",
+      "reading_order": 7102,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 91.00004,
+        "t": 427.29,
+        "r": 361.4600400000003,
+        "b": 415.7
+      },
+      "content": "Install the fax PCA (M527/E52545/M528/E52645 fax models)."
+    },
+    {
+      "type": "figure",
+      "id": "fig_1921",
+      "reading_order": 7103,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 97.18458115724425,
+        "t": 406.1466979980469,
+        "r": 110.70723749701122,
+        "b": 392.6277770996094
+      },
+      "image_path": "figures/figure_1921.png",
+      "decorative": true,
+      "width": 13,
+      "height": 13,
+      "image_hash": "b38c78b05faac43b15a28ffcc6ade35beb5aaee1306e2881481098d20deef7f3",
+      "previous_block_id": "txt_5135",
+      "next_block_id": "txt_5136"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_5136",
+      "reading_order": 7104,
+      "severity": "caution",
+      "content": "CAUTION: ESD-sensitive part.",
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 113.0,
+        "t": 398.40499,
+        "r": 150.75,
+        "b": 386.81499
+      }
+    },
+    {
+      "type": "figure",
+      "id": "fig_1922",
+      "reading_order": 7106,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 159.98361613201683,
+        "t": 402.4717102050781,
+        "r": 179.78952369749578,
+        "b": 381.3636474609375
+      },
+      "image_path": "figures/figure_1922.png",
+      "decorative": true,
+      "width": 19,
+      "height": 21,
+      "image_hash": "0eb600a5003e6af581a05e57f6f119e91ea0230e345aa515de68683f4a7f2f00",
+      "next_block_id": "txt_5138"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_5138",
+      "reading_order": 7107,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 113.0,
+        "t": 369.29,
+        "r": 534.2400000000002,
+        "b": 345.7
+      },
+      "content": "Before proceeding, take note of the location of the slots (callout 1) in the sheet-metal where the fax PCA cradle mounting tab and fax port (callout 2) must be installed."
+    },
+    {
+      "type": "figure",
+      "id": "fig_1923",
+      "reading_order": 7108,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 133.7073200950853,
+        "t": 321.4367370605469,
+        "r": 510.96466031080786,
+        "b": 87.178955078125
+      },
+      "image_path": "figures/figure_1923.png",
+      "caption": "Locate the slots in the sheet-metal",
+      "figure_number": "Figure 1-1120",
+      "image_hash": "eb5394409890a0dcb5736d2f2fbc572b112d2bfd4c4138eaba72687a3bccaa27",
+      "width": 377,
+      "height": 234,
+      "previous_block_id": "txt_5138",
+      "next_block_id": "txt_5139",
+      "caption_id": "txt_5139"
+    },
+    {
+      "type": "caption",
+      "id": "txt_5139",
+      "reading_order": 7109,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 135.00008,
+        "t": 336.29,
+        "r": 336.35006999999985,
+        "b": 324.7
+      },
+      "content": "Figure 1-1120  Locate the slots in the sheet-metal",
+      "caption_for": "fig_1923"
+    }
+  ],
+  "page_stats": {
+    "block_count": 20,
+    "text_blocks": 13,
+    "paragraphs": 3,
+    "headings": 0,
+    "list_items": 7,
+    "captions": 1,
+    "admonitions": 2,
+    "references": 0,
+    "figures": 7,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

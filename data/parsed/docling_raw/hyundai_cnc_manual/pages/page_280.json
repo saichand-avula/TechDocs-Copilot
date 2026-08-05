@@ -1,0 +1,156 @@
+{
+  "page": 280,
+  "document_id": "doc_caa693b1",
+  "page_bbox": {
+    "width": 595.0,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "paragraph",
+      "id": "txt_1922",
+      "reading_order": 2489,
+      "section": "3) System Configuration",
+      "bbox": {
+        "l": 70.92,
+        "t": 769.0346599999999,
+        "r": 525.6085620000008,
+        "b": 713.4236489281768
+      },
+      "content": "To save parameters, first set the first registration program number in parameter P8760. Program are created using a number assigned to each β AMP with an I/O link. This number is treated as a program number when the parameters are saved to the CNC memory. When they are saved to a memory card, however, a file is created using the program number and PMM as its file name and file extension, respectively."
+    },
+    {
+      "type": "heading",
+      "id": "txt_1923",
+      "reading_order": 2490,
+      "section": "ex) If 6500 is set in parameter P8760",
+      "bbox": {
+        "l": 70.92000000000004,
+        "t": 699.3154999999999,
+        "r": 256.9753680000001,
+        "b": 690.4437809281768
+      },
+      "content": "ex) If 6500 is set in parameter P8760",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1924",
+      "reading_order": 2491,
+      "section": "ex) If 6500 is set in parameter P8760",
+      "bbox": {
+        "l": 70.92000000000004,
+        "t": 687.7955059999999,
+        "r": 339.6884640000003,
+        "b": 678.9237869281768
+      },
+      "content": "A program number for a program in group n is: 6500 + n*10."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1925",
+      "reading_order": 2492,
+      "section": "ex) If 6500 is set in parameter P8760",
+      "bbox": {
+        "l": 70.92000000000004,
+        "t": 678.4308139999999,
+        "r": 511.13968200000005,
+        "b": 643.7034869281767
+      },
+      "content": "The group number is a number in \"group n\" displayed in the title of a β AMP with an I/O link. If an existing program in the memory has the same program number, the existing program is overwritten with the new data."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1926",
+      "reading_order": 2493,
+      "section": "ex) If 6500 is set in parameter P8760",
+      "bbox": {
+        "l": 70.9210020000001,
+        "t": 641.0552119999999,
+        "r": 352.0681740000001,
+        "b": 632.1834929281767
+      },
+      "content": "Parameter P960 is used to select a device to save parameters."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1927",
+      "reading_order": 2494,
+      "section": "ex) If 6500 is set in parameter P8760",
+      "bbox": {
+        "l": 70.9210020000001,
+        "t": 629.5352179999999,
+        "r": 516.0444720000013,
+        "b": 609.2036249281767
+      },
+      "content": "Before proceeding to the following steps, connect a memory card or ensure that the CNC memory is available."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1928",
+      "reading_order": 2495,
+      "section": "ex) If 6500 is set in parameter P8760",
+      "bbox": {
+        "l": 70.9210020000001,
+        "t": 606.5553499999999,
+        "r": 194.51870400000018,
+        "b": 597.6836309281767
+      },
+      "content": "Select an active slave."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1929",
+      "reading_order": 2496,
+      "section": "ex) If 6500 is set in parameter P8760",
+      "bbox": {
+        "l": 70.9210020000001,
+        "t": 595.0954759999998,
+        "r": 270.52441200000015,
+        "b": 586.2237569281767
+      },
+      "content": "Press the [ (OPRT) ] soft key to display:"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0411",
+      "reading_order": 2497,
+      "section": "ex) If 6500 is set in parameter P8760",
+      "bbox": {
+        "l": 69.28903198242188,
+        "t": 572.9331359863281,
+        "r": 442.861328125,
+        "b": 345.72906494140625
+      },
+      "image_path": "figures/figure_0411.png",
+      "previous_block_id": "txt_1929",
+      "next_block_id": "txt_1930"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1930",
+      "reading_order": 2498,
+      "section": "ex) If 6500 is set in parameter P8760",
+      "bbox": {
+        "l": 70.92038399999996,
+        "t": 332.414222,
+        "r": 197.06416800000005,
+        "b": 323.54250292817676
+      },
+      "content": "Press the [ EXEC ] soft key."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1931",
+      "reading_order": 2499,
+      "section": "ex) If 6500 is set in parameter P8760",
+      "bbox": {
+        "l": 70.92038399999996,
+        "t": 320.954348,
+        "r": 467.2975559999989,
+        "b": 312.08262892817675
+      },
+      "content": "While the parameters are being saved, the message [INPUT] blinks on the message line."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "tbl_0031",
+  "page": 25,
+  "section": "Electrical connected load ratings - X16 High power version",
+  "title": null,
+  "markdown": "| Electrical supply                           |     | 1N~ 220-230V 50Hz   | 2N~ 380-400V 50Hz   | 1N~ 220V 60Hz   | 2~ 200V 50/60Hz   |\n|---------------------------------------------|-----|---------------------|---------------------|-----------------|-------------------|\n| Connections used                            |     | L + N + E           | L1 + L2 + N + E     | L + N + E       | 2P + E            |\n| Arrangement                                 |     | Single phase        | Twin phase          | Single phase    | Two pole          |\n| Max power input                             | [W] | 6000                | 2500 + 3300         | 6000            | 6000              |\n| Rated current per phase                     | [A] | 32                  | 16 / 32             | 32              | 32                |\n| Power output                                |     |                     |                     |                 |                   |\n| Rated power output convected heat           | [W] | 3200                | 3200                | 3200            | 3200              |\n| Rated power output microwave (IEC 705) 100% | [W] | 2000                | 2000                | 2000            | 2000              |\n| Rated power output combination mode         | [W] | 3200 + 2000         | 3200 + 2000         | 3200 + 2000     | 3200 + 2000       |",
+  "block_id": "#/tables/30",
+  "reading_order": 454,
+  "bbox": {
+    "l": 35.36349519788867,
+    "t": 539.9090906376657,
+    "r": 557.9758738023581,
+    "b": 387.221082521945
+  },
+  "rows": 9,
+  "cols": 5,
+  "type": "table"
+}

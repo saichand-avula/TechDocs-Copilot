@@ -1,0 +1,219 @@
+{
+  "page": 73,
+  "document_id": "doc_b0587846",
+  "page_bbox": {
+    "width": 612.0,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0108",
+      "reading_order": 1282,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 165.84751892089844,
+        "t": 722.8302307128906,
+        "r": 370.2852478027344,
+        "b": 582.9319000244141
+      },
+      "image_path": "figures/figure_0108.png",
+      "next_block_id": "txt_1121",
+      "image_hash": "78760282ca79c7e8e821992054fe3c692cd73eab6550866876bb87b2757b5eb2",
+      "width": 204,
+      "height": 140
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1121",
+      "reading_order": 1283,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 144.00471,
+        "t": 565.6099899999999,
+        "r": 344.1147099999999,
+        "b": 554.3699899999999
+      },
+      "content": "Repeat step 3 until the impeller becomes loose."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1122",
+      "reading_order": 1284,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 144.00471,
+        "t": 551.80999,
+        "r": 348.72470999999996,
+        "b": 526.04999
+      },
+      "content": "Remove and discard the impeller O-ring (412A). You will insert a new O-ring during reassembly."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0109",
+      "reading_order": 1285,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 170.05807495117188,
+        "t": 510.59368896484375,
+        "r": 294.3476867675781,
+        "b": 409.4317626953125
+      },
+      "image_path": "figures/figure_0109.png",
+      "previous_block_id": "txt_1122",
+      "next_block_id": "txt_1123",
+      "caption_id": "txt_1123",
+      "caption": ": O-ring for models 3196, HT 3196, NM 3196, 3198, and 3796",
+      "figure_number": "Figure 16",
+      "image_hash": "ef38009288279fe01a2af249afba81137e065e818ba99634fa318ad46973ac39",
+      "width": 124,
+      "height": 102
+    },
+    {
+      "type": "caption",
+      "id": "txt_1123",
+      "reading_order": 1286,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 162.00364000000002,
+        "t": 370.23625,
+        "r": 455.1246400000005,
+        "b": 360.19225
+      },
+      "content": "Figure 16: O-ring for models 3196, HT 3196, NM 3196, 3198, and 3796",
+      "caption_for": "fig_0109"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1124",
+      "reading_order": 1287,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 144.00461,
+        "t": 352.92586,
+        "r": 545.7646100000003,
+        "b": 329.68586
+      },
+      "content": "If  the impeller cannot be removed by the previous methods, cut the shaft between the gland and the frame, remove the impeller, stuffing-box cover, gland, sleeve, and shaft end as a unit. Do not apply heat."
+    },
+    {
+      "type": "heading",
+      "id": "txt_1125",
+      "reading_order": 1288,
+      "section": "Remove the impeller ( XLT-i , and i17 )",
+      "bbox": {
+        "l": 54.004639999999995,
+        "t": 326.08699,
+        "r": 269.1646400000001,
+        "b": 312.69499
+      },
+      "content": "Remove the impeller ( XLT-i , and i17 )",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0110",
+      "reading_order": 1289,
+      "section": "Remove the impeller ( XLT-i , and i17 )",
+      "bbox": {
+        "l": 70.5274658203125,
+        "t": 302.6297912597656,
+        "r": 120.9483642578125,
+        "b": 258.64837646484375
+      },
+      "image_path": "figures/figure_0110.png",
+      "previous_block_id": "txt_1125",
+      "next_block_id": "txt_1126",
+      "image_hash": "d6baa8252b91b941eaa5f210c703dbcf772c497890e450398267d8df6d960f58",
+      "width": 50,
+      "height": 44
+    },
+    {
+      "type": "figure",
+      "id": "fig_0111",
+      "reading_order": 1290,
+      "section": "Remove the impeller ( XLT-i , and i17 )",
+      "bbox": {
+        "l": 70.33906555175781,
+        "t": 240.6229248046875,
+        "r": 121.08881378173828,
+        "b": 197.10369873046875
+      },
+      "image_path": "figures/figure_0111.png",
+      "previous_block_id": "txt_1125",
+      "next_block_id": "txt_1126",
+      "image_hash": "a3b34d5001286b80e931b83b8a1838c9a749abf7447bc83ee348a4b2e9f2d330",
+      "width": 51,
+      "height": 44
+    },
+    {
+      "type": "admonition",
+      "id": "txt_1126",
+      "reading_order": 1291,
+      "severity": "warning",
+      "content": "WARNING: Never apply heat to remove an impeller. The use of heat may cause an explosion due to trapped liquid, resulting in severe physical injury and property damage.",
+      "section": "WARNING:",
+      "bbox": {
+        "l": 144.0,
+        "t": 298.92586,
+        "r": 197.11,
+        "b": 287.68586
+      }
+    },
+    {
+      "type": "admonition",
+      "id": "txt_1128",
+      "reading_order": 1293,
+      "severity": "caution",
+      "content": "CAUTION: Wear heavy work gloves when you handle impellers. The sharp edges can cause physical injury.",
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 143.99993999999998,
+        "t": 237.27038000000005,
+        "r": 194.52993999999998,
+        "b": 226.03038000000004
+      }
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1130",
+      "reading_order": 1295,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 143.99996,
+        "t": 182.61491999999998,
+        "r": 517.6899600000003,
+        "b": 171.37491999999997
+      },
+      "content": "Clamp the frame foot (241) to the workbench when you use this method to remove the impeller."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1131",
+      "reading_order": 1296,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 143.99992,
+        "t": 167.61491999999998,
+        "r": 548.1799200000004,
+        "b": 144.37491999999997
+      },
+      "content": "Remove the impeller plug (458Y) from the front of the impeller (101) and discard the Teflon gasket (428D)."
+    }
+  ],
+  "page_stats": {
+    "block_count": 13,
+    "text_blocks": 9,
+    "paragraphs": 2,
+    "headings": 1,
+    "list_items": 3,
+    "captions": 1,
+    "admonitions": 2,
+    "references": 0,
+    "figures": 4,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

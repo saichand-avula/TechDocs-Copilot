@@ -1,0 +1,302 @@
+{
+  "page": 249,
+  "document_id": "doc_caa693b1",
+  "page_bbox": {
+    "width": 595.0,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_1747",
+      "reading_order": 2259,
+      "section": "1-31. Alarm AL-46",
+      "bbox": {
+        "l": 106.38,
+        "t": 755.6546599999999,
+        "r": 265.1939940000001,
+        "b": 746.7829409281768
+      },
+      "content": "Incorrect parameter setting"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1748",
+      "reading_order": 2260,
+      "section": "1-31. Alarm AL-46",
+      "bbox": {
+        "l": 141.839778,
+        "t": 738.674768,
+        "r": 445.3385639999999,
+        "b": 729.8030489281768
+      },
+      "content": "Check the parameter setting and the Cs contouring control detector."
+    },
+    {
+      "type": "table",
+      "id": "tbl_0138",
+      "reading_order": 2261,
+      "section": "1-31. Alarm AL-46",
+      "bbox": {
+        "l": 64.67842102050781,
+        "t": 711.8176879882812,
+        "r": 530.6522216796875,
+        "b": 675.3702545166016
+      },
+      "markdown": "| FS 0I/16/18/21   | Description                    |\n|------------------|--------------------------------|\n| 4003#7,6,4       | Position coder signal setting. |",
+      "rows": 2,
+      "cols": 2
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1749",
+      "reading_order": 2262,
+      "section": "1-31. Alarm AL-46",
+      "bbox": {
+        "l": 141.84,
+        "t": 657.0202999999999,
+        "r": 441.3167459999989,
+        "b": 642.3322999999999
+      },
+      "content": "⇒ Set the parameter correctly according to the function used."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1750",
+      "reading_order": 2263,
+      "section": "1-31. Alarm AL-46",
+      "bbox": {
+        "l": 106.38020999999999,
+        "t": 618.194876,
+        "r": 259.675188,
+        "b": 609.3231569281769
+      },
+      "content": "Detection circuit defective"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1751",
+      "reading_order": 2264,
+      "section": "1-31. Alarm AL-46",
+      "bbox": {
+        "l": 141.84,
+        "t": 606.0202999999999,
+        "r": 329.04865800000044,
+        "b": 591.3322999999999
+      },
+      "content": "⇒ Replace the printed-circuit board."
+    },
+    {
+      "type": "heading",
+      "id": "txt_1752",
+      "reading_order": 2265,
+      "section": "1-32. Alarm AL-47",
+      "bbox": {
+        "l": 70.92043199999999,
+        "t": 567.194876,
+        "r": 168.59839799999995,
+        "b": 558.3231569281769
+      },
+      "content": "1-32. Alarm AL-47",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1753",
+      "reading_order": 2266,
+      "section": "1-32. Alarm AL-47",
+      "bbox": {
+        "l": 99.30007799999998,
+        "t": 533.174972,
+        "r": 184.06026000000003,
+        "b": 524.3032529281769
+      },
+      "content": "Meaning"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1754",
+      "reading_order": 2267,
+      "section": "1-32. Alarm AL-47",
+      "bbox": {
+        "l": 141.83998799999998,
+        "t": 516.1950800000001,
+        "r": 387.4161600000008,
+        "b": 507.32336092817684
+      },
+      "content": "A pulse count for the position coder signal is abnormal."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1755",
+      "reading_order": 2268,
+      "section": "1-32. Alarm AL-47",
+      "bbox": {
+        "l": 99.30007799999997,
+        "t": 482.1751760000001,
+        "r": 269.684166,
+        "b": 473.30345692817684
+      },
+      "content": "Cause and corrective action"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1756",
+      "reading_order": 2269,
+      "section": "1-32. Alarm AL-47",
+      "bbox": {
+        "l": 106.38020999999998,
+        "t": 465.1952840000001,
+        "r": 340.82015400000046,
+        "b": 456.32356492817684
+      },
+      "content": "Feedback signal cable not shielded properly"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1757",
+      "reading_order": 2270,
+      "section": "1-32. Alarm AL-47",
+      "bbox": {
+        "l": 141.83998799999998,
+        "t": 448.1552720000001,
+        "r": 569.761122,
+        "b": 422.30366092817684
+      },
+      "content": "Check whether there is noise on the feedback signal. Also check whether the cable is shielded properly."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1758",
+      "reading_order": 2271,
+      "section": "1-32. Alarm AL-47",
+      "bbox": {
+        "l": 141.84,
+        "t": 419.0603,
+        "r": 260.56438199999997,
+        "b": 404.3723
+      },
+      "content": "⇒ Shield it correctly."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1759",
+      "reading_order": 2272,
+      "section": "1-32. Alarm AL-47",
+      "bbox": {
+        "l": 106.379628,
+        "t": 380.174756,
+        "r": 396.4706520000007,
+        "b": 371.30303692817677
+      },
+      "content": "Position coder defective Check the position coder signal."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1760",
+      "reading_order": 2273,
+      "section": "1-32. Alarm AL-47",
+      "bbox": {
+        "l": 141.84,
+        "t": 368.0603,
+        "r": 302.9219280000003,
+        "b": 353.3723
+      },
+      "content": "⇒ Replace the position coder."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1761",
+      "reading_order": 2274,
+      "section": "1-32. Alarm AL-47",
+      "bbox": {
+        "l": 106.379628,
+        "t": 329.174756,
+        "r": 527.3128139999999,
+        "b": 303.3231449281768
+      },
+      "content": "Feedback signal level insufficient (for built in sensor) Check the feedback signal level with an oscilloscope."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1762",
+      "reading_order": 2275,
+      "section": "1-32. Alarm AL-47",
+      "bbox": {
+        "l": 141.84,
+        "t": 283.0403,
+        "r": 469.71384599999925,
+        "b": 268.3523
+      },
+      "content": "⇒ Adjust so that the feedback signal level becomes the rated value."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1763",
+      "reading_order": 2276,
+      "section": "1-32. Alarm AL-47",
+      "bbox": {
+        "l": 106.37962800000003,
+        "t": 261.19476800000007,
+        "r": 265.1936220000001,
+        "b": 252.32304892817683
+      },
+      "content": "Incorrect parameter setting"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1764",
+      "reading_order": 2277,
+      "section": "1-32. Alarm AL-47",
+      "bbox": {
+        "l": 141.83940600000003,
+        "t": 244.15475600000002,
+        "r": 348.136176,
+        "b": 235.28303692817678
+      },
+      "content": "Check the parameter setting and the detector."
+    },
+    {
+      "type": "table",
+      "id": "tbl_0139",
+      "reading_order": 2278,
+      "section": "1-32. Alarm AL-47",
+      "bbox": {
+        "l": 64.53439331054688,
+        "t": 217.14239501953125,
+        "r": 530.7698364257812,
+        "b": 181.03778076171875
+      },
+      "markdown": "| FS 0I/16/18/21   | Description                    |\n|------------------|--------------------------------|\n| 4003#7,6,4       | Position coder signal setting. |",
+      "rows": 2,
+      "cols": 2
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1765",
+      "reading_order": 2279,
+      "section": "1-32. Alarm AL-47",
+      "bbox": {
+        "l": 141.84,
+        "t": 179.5403,
+        "r": 442.34221199999894,
+        "b": 164.8523
+      },
+      "content": "⇒ Set the parameter correctly according to the detector used."
+    }
+  ],
+  "page_stats": {
+    "block_count": 21,
+    "text_blocks": 19,
+    "paragraphs": 4,
+    "headings": 1,
+    "list_items": 14,
+    "captions": 0,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 0,
+    "tables": 2,
+    "toc_tables": 0
+  }
+}

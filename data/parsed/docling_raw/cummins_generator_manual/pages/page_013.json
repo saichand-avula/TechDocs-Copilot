@@ -1,0 +1,38 @@
+{
+  "page": 13,
+  "document_id": "doc_c203a4f3",
+  "page_bbox": {
+    "width": 612.3599853515625,
+    "height": 792.4320068359375
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0003",
+      "reading_order": 173,
+      "section": "Engine Monitors",
+      "bbox": {
+        "l": 46.046890548530826,
+        "t": 740.7359199967968,
+        "r": 563.9176283632497,
+        "b": 179.94343592284827
+      },
+      "image_path": "figures/figure_0003.png",
+      "previous_block_id": "txt_0169",
+      "next_block_id": "txt_0170"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0170",
+      "reading_order": 174,
+      "section": "Engine Monitors",
+      "bbox": {
+        "l": 185.5559,
+        "t": 165.92010683593753,
+        "r": 425.3629,
+        "b": 156.9040569398876
+      },
+      "content": "FIGURE 3-2.  HDKAG FAULT SENSOR LOCATIONS"
+    }
+  ]
+}

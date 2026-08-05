@@ -1,0 +1,157 @@
+{
+  "page": 252,
+  "document_id": "doc_caa693b1",
+  "page_bbox": {
+    "width": 595.0,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "table",
+      "id": "tbl_0140",
+      "reading_order": 2322,
+      "section": "1-37. Alarm AL-55",
+      "bbox": {
+        "l": 64.53386688232422,
+        "t": 732.1740417480469,
+        "r": 531.0606689453125,
+        "b": 660.9963989257812
+      },
+      "markdown": "| FS 0I/16/18/21                                                  | Description                     |\n|-----------------------------------------------------------------|---------------------------------|\n| Setting to specify use of the differential speed mode function. | 4003#5                          |\n| Parameter to specify the power line state signal for speed      | 4003#3 range switching control. |",
+      "rows": 3,
+      "cols": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1808",
+      "reading_order": 2323,
+      "section": "1-37. Alarm AL-55",
+      "bbox": {
+        "l": 141.84,
+        "t": 642.7402999999999,
+        "r": 437.86786199999983,
+        "b": 628.0523
+      },
+      "content": "⇒ Set the parameter correctly according to the system used."
+    },
+    {
+      "type": "heading",
+      "id": "txt_1809",
+      "reading_order": 2324,
+      "section": "1-38. Alarm AL-56",
+      "bbox": {
+        "l": 70.92043199999999,
+        "t": 603.854756,
+        "r": 168.59839799999995,
+        "b": 594.9830369281768
+      },
+      "content": "1-38. Alarm AL-56",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1810",
+      "reading_order": 2325,
+      "section": "1-38. Alarm AL-56",
+      "bbox": {
+        "l": 99.30007799999998,
+        "t": 569.894972,
+        "r": 358.2479399999999,
+        "b": 561.0232529281769
+      },
+      "content": "Set the parameter correctly according to the system used."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1811",
+      "reading_order": 2326,
+      "section": "1-38. Alarm AL-56",
+      "bbox": {
+        "l": 99.30007799999998,
+        "t": 535.875068,
+        "r": 114.31805399999999,
+        "b": 527.0033489281769
+      },
+      "content": "(1)"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1812",
+      "reading_order": 2327,
+      "section": "1-38. Alarm AL-56",
+      "bbox": {
+        "l": 141.83998799999998,
+        "t": 535.875068,
+        "r": 347.0225340000005,
+        "b": 510.02345692817687
+      },
+      "content": "Meaning The cooling fan for the control circuit stopped."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1813",
+      "reading_order": 2328,
+      "section": "1-38. Alarm AL-56",
+      "bbox": {
+        "l": 99.30007799999997,
+        "t": 484.8752720000001,
+        "r": 269.684166,
+        "b": 476.0035529281769
+      },
+      "content": "Cause and corrective action"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1814",
+      "reading_order": 2329,
+      "section": "1-38. Alarm AL-56",
+      "bbox": {
+        "l": 113.46034199999997,
+        "t": 467.8953800000001,
+        "r": 239.12416800000003,
+        "b": 459.02366092817687
+      },
+      "content": "Cooling fan defective"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1815",
+      "reading_order": 2330,
+      "section": "1-38. Alarm AL-56",
+      "bbox": {
+        "l": 141.83998799999998,
+        "t": 450.8553680000001,
+        "r": 358.1126699999998,
+        "b": 441.9836489281769
+      },
+      "content": "Check whether the cooling fan rotates smoothly."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1816",
+      "reading_order": 2331,
+      "section": "1-38. Alarm AL-56",
+      "bbox": {
+        "l": 141.84,
+        "t": 438.7403,
+        "r": 289.06326599999994,
+        "b": 424.0523
+      },
+      "content": "⇒ Replace the cooling fan."
+    }
+  ],
+  "page_stats": {
+    "block_count": 10,
+    "text_blocks": 9,
+    "paragraphs": 3,
+    "headings": 1,
+    "list_items": 5,
+    "captions": 0,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 0,
+    "tables": 1,
+    "toc_tables": 0
+  }
+}

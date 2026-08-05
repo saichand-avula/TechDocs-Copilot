@@ -1,0 +1,148 @@
+{
+  "page": 65,
+  "document_id": "doc_f7e949ab",
+  "page_bbox": {
+    "width": 612.0,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0074",
+      "reading_order": 796,
+      "section": "B1. SMPS Bracket Disassembly",
+      "bbox": {
+        "l": 136.96702575683594,
+        "t": 698.1296539306641,
+        "r": 322.6192932128906,
+        "b": 559.1074066162109
+      },
+      "image_path": "figures/figure_0074.png",
+      "previous_block_id": "txt_0698",
+      "next_block_id": "txt_0699"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0075",
+      "reading_order": 797,
+      "section": "B1. SMPS Bracket Disassembly",
+      "bbox": {
+        "l": 138.0194091796875,
+        "t": 553.5442199707031,
+        "r": 323.68170166015625,
+        "b": 413.8741760253906
+      },
+      "image_path": "figures/figure_0075.png",
+      "previous_block_id": "txt_0698",
+      "next_block_id": "txt_0699"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0699",
+      "reading_order": 798,
+      "section": "B1. SMPS Bracket Disassembly",
+      "bbox": {
+        "l": 139.5,
+        "t": 407.06625,
+        "r": 298.3125,
+        "b": 393.9375
+      },
+      "content": "B1-4. NIBP Module Disassembly"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0076",
+      "reading_order": 799,
+      "section": "B1. SMPS Bracket Disassembly",
+      "bbox": {
+        "l": 137.67425537109375,
+        "t": 388.7929382324219,
+        "r": 322.49359130859375,
+        "b": 248.81292724609375
+      },
+      "image_path": "figures/figure_0076.png",
+      "previous_block_id": "txt_0699",
+      "next_block_id": "txt_0700"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0077",
+      "reading_order": 800,
+      "section": "B1. SMPS Bracket Disassembly",
+      "bbox": {
+        "l": 138.0254669189453,
+        "t": 245.0313720703125,
+        "r": 323.15289306640625,
+        "b": 104.68975830078125
+      },
+      "image_path": "figures/figure_0077.png",
+      "previous_block_id": "txt_0699",
+      "next_block_id": "txt_0700"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0700",
+      "reading_order": 801,
+      "section": "B1. SMPS Bracket Disassembly",
+      "bbox": {
+        "l": 342.75,
+        "t": 696.75375,
+        "r": 533.8130000000007,
+        "b": 593.99625
+      },
+      "content": "A nut is firmly on the back of the External DC input connector. Turn the nut to the left in order to remove it. A nut is firmly on the back of the GND terminal. Turn the nut to the left in order to remove it."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0701",
+      "reading_order": 802,
+      "section": "B1. SMPS Bracket Disassembly",
+      "bbox": {
+        "l": 342.75,
+        "t": 588.75375,
+        "r": 530.8126499999998,
+        "b": 557.99625
+      },
+      "content": "Push both side of the latches on the AC inlet slightly to remove the AC inlet."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0702",
+      "reading_order": 803,
+      "section": "B1. SMPS Bracket Disassembly",
+      "bbox": {
+        "l": 342.75,
+        "t": 387.75375,
+        "r": 536.8125,
+        "b": 374.99625
+      },
+      "content": "Remove 3 screws on the SMPS bracket."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0703",
+      "reading_order": 804,
+      "section": "B1. SMPS Bracket Disassembly",
+      "bbox": {
+        "l": 342.75,
+        "t": 243.75374999999997,
+        "r": 532.3124999999995,
+        "b": 212.99625000000003
+      },
+      "content": "Remove the NIBP hose from the NIBP module."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0704",
+      "reading_order": 805,
+      "section": "B1. SMPS Bracket Disassembly",
+      "bbox": {
+        "l": 342.75,
+        "t": 189.75374999999997,
+        "r": 514.3125,
+        "b": 158.99625000000003
+      },
+      "content": "Remove the NIBP module from the SMPS bracket."
+    }
+  ]
+}

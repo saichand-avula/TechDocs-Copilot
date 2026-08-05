@@ -1,0 +1,321 @@
+{
+  "page": 36,
+  "document_id": "doc_e02482e6",
+  "page_bbox": {
+    "width": 595.0,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0081",
+      "reading_order": 340,
+      "section": "Status icons",
+      "bbox": {
+        "l": 26.692426681518555,
+        "t": 816.3546752929688,
+        "r": 74.00183868408203,
+        "b": 793.0198783874512
+      },
+      "image_path": "figures/figure_0081.png",
+      "next_block_id": "txt_0239",
+      "width": 47,
+      "height": 23,
+      "image_hash": "7577891dcf1743bd2e7a735ef2621e01244d960bde43e28868c27d7c1437ddb9"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0239",
+      "reading_order": 341,
+      "section": "Input icons",
+      "bbox": {
+        "l": 28.21,
+        "t": 772.475,
+        "r": 86.72120000000001,
+        "b": 760.199
+      },
+      "content": "Input icons",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "table",
+      "id": "tbl_0023",
+      "reading_order": 342,
+      "section": "Input icons",
+      "bbox": {
+        "l": 57.564170837402344,
+        "t": 745.3973617553711,
+        "r": 535.9176025390625,
+        "b": 560.1476440429688
+      },
+      "markdown": "| Icon   | Description        |\n|--------|--------------------|\n|        | Pressure           |\n|        | temperature        |\n|        | Digital input      |\n|        | Special protection |",
+      "rows": 5,
+      "cols": 2
+    },
+    {
+      "type": "heading",
+      "id": "txt_0240",
+      "reading_order": 343,
+      "section": "System icons",
+      "bbox": {
+        "l": 28.27,
+        "t": 529.955,
+        "r": 97.98910000000001,
+        "b": 517.679
+      },
+      "content": "System icons",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "table",
+      "id": "tbl_0024",
+      "reading_order": 344,
+      "section": "System icons",
+      "bbox": {
+        "l": 57.94630432128906,
+        "t": 510.5633239746094,
+        "r": 535.6932983398438,
+        "b": 126.189453125
+      },
+      "markdown": "| Icon   | Description                      |\n|--------|----------------------------------|\n|        | Compressor element (LP, HP, ...) |\n|        | Dryer                            |\n|        | Fan                              |\n|        | Frequency converter              |\n|        | Drain                            |\n|        | Filter                           |\n|        | Motor                            |\n|        | Failure expansion module         |\n|        | Network problem                  |\n|        | General alarm                    |",
+      "rows": 11,
+      "cols": 2
+    },
+    {
+      "type": "figure",
+      "id": "fig_0082",
+      "reading_order": 345,
+      "section": "System icons",
+      "bbox": {
+        "l": 160.5644989013672,
+        "t": 720.2830810546875,
+        "r": 199.6031951904297,
+        "b": 703.6266632080078
+      },
+      "image_path": "figures/figure_0082.png",
+      "previous_block_id": "txt_0240",
+      "width": 39,
+      "height": 16,
+      "image_hash": "d244990169926b0364e2fc5910ec1be6a8b03ebc9f5384f965fd343dcdd5e1a7"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0083",
+      "reading_order": 346,
+      "section": "System icons",
+      "bbox": {
+        "l": 165.63174438476562,
+        "t": 682.978271484375,
+        "r": 199.765625,
+        "b": 647.9060974121094
+      },
+      "image_path": "figures/figure_0083.png",
+      "previous_block_id": "txt_0240",
+      "width": 34,
+      "height": 35,
+      "image_hash": "92f7f157ba29cabcaa7c98e8fc8d202a5f89a958af534cd88fedddaecfb14c80"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0084",
+      "reading_order": 347,
+      "section": "System icons",
+      "bbox": {
+        "l": 164.936279296875,
+        "t": 592.8746948242188,
+        "r": 192.34671020507812,
+        "b": 568.8304443359375
+      },
+      "image_path": "figures/figure_0084.png",
+      "previous_block_id": "txt_0240",
+      "width": 27,
+      "height": 24,
+      "image_hash": "d7be81a02ac50206420099bba39d2529bdbf614dc7c6956f2ba12ae035f95817"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0085",
+      "reading_order": 348,
+      "section": "System icons",
+      "bbox": {
+        "l": 163.16897583007812,
+        "t": 492.4563903808594,
+        "r": 192.14224243164062,
+        "b": 466.70782470703125
+      },
+      "image_path": "figures/figure_0085.png",
+      "previous_block_id": "txt_0240",
+      "width": 28,
+      "height": 25,
+      "image_hash": "66cec6d84fb0d00dad4659f6e5f3c6b77b69003a4eb321c4a795961b67e0a117"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0086",
+      "reading_order": 349,
+      "section": "System icons",
+      "bbox": {
+        "l": 161.62232971191406,
+        "t": 457.8558349609375,
+        "r": 191.17620849609375,
+        "b": 433.5540771484375
+      },
+      "image_path": "figures/figure_0086.png",
+      "previous_block_id": "txt_0240",
+      "width": 29,
+      "height": 24,
+      "image_hash": "ccd20d14e17fafdd5ceb2f67f27d526188fb6d4ab7a8d6d2879d15dcc423db4a"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0087",
+      "reading_order": 350,
+      "section": "System icons",
+      "bbox": {
+        "l": 162.4404754638672,
+        "t": 426.15496826171875,
+        "r": 191.1287841796875,
+        "b": 401.23175048828125
+      },
+      "image_path": "figures/figure_0087.png",
+      "previous_block_id": "txt_0240",
+      "width": 28,
+      "height": 24,
+      "image_hash": "cf7728a98d9f3ea6e7bb30e307300b1fb688d7995cb207d7d963ce211f7c365d"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0088",
+      "reading_order": 351,
+      "section": "System icons",
+      "bbox": {
+        "l": 162.8756561279297,
+        "t": 392.3973693847656,
+        "r": 190.9769744873047,
+        "b": 367.29296875
+      },
+      "image_path": "figures/figure_0088.png",
+      "previous_block_id": "txt_0240",
+      "width": 28,
+      "height": 25,
+      "image_hash": "3651ca3ccc8eccefea6d245ef1c8aaf443482e47a4379bcf05b510c4f1bc0bc5"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0089",
+      "reading_order": 352,
+      "section": "System icons",
+      "bbox": {
+        "l": 159.39744567871094,
+        "t": 358.74530029296875,
+        "r": 186.22238159179688,
+        "b": 333.2308654785156
+      },
+      "image_path": "figures/figure_0089.png",
+      "previous_block_id": "txt_0240",
+      "width": 26,
+      "height": 25,
+      "image_hash": "3ebb260e055032456f00e62108ee08a19b4eeaf72836cf13fb92d0840bf9ce44"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0090",
+      "reading_order": 353,
+      "section": "System icons",
+      "bbox": {
+        "l": 162.19256591796875,
+        "t": 303.32550048828125,
+        "r": 191.50462341308594,
+        "b": 278.29791259765625
+      },
+      "image_path": "figures/figure_0090.png",
+      "previous_block_id": "txt_0240",
+      "width": 29,
+      "height": 25,
+      "image_hash": "1597edf8cc5bddc3bf040add11f13a580269a76ff213c08e737152d7a94ed337"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0091",
+      "reading_order": 354,
+      "section": "System icons",
+      "bbox": {
+        "l": 163.0525360107422,
+        "t": 270.84942626953125,
+        "r": 192.30209350585938,
+        "b": 246.89849853515625
+      },
+      "image_path": "figures/figure_0091.png",
+      "previous_block_id": "txt_0240",
+      "width": 29,
+      "height": 23,
+      "image_hash": "bd950919e44f19650d593ede09e2d9ab087ab983a1efaf1aa712e8562a0fbb77"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0092",
+      "reading_order": 355,
+      "section": "System icons",
+      "bbox": {
+        "l": 163.40911865234375,
+        "t": 236.64312744140625,
+        "r": 193.00172424316406,
+        "b": 212.75726318359375
+      },
+      "image_path": "figures/figure_0092.png",
+      "previous_block_id": "txt_0240",
+      "width": 29,
+      "height": 23,
+      "image_hash": "d431d852b88bc5d68aa713e27f433583703fcd08bcc8f273db422b90facf50f4"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0093",
+      "reading_order": 356,
+      "section": "System icons",
+      "bbox": {
+        "l": 156.9893798828125,
+        "t": 200.9825439453125,
+        "r": 199.3760223388672,
+        "b": 170.81182861328125
+      },
+      "image_path": "figures/figure_0093.png",
+      "previous_block_id": "txt_0240",
+      "width": 42,
+      "height": 30,
+      "image_hash": "6cf71a6d744a9b4808d140847ba543ed536a13c07d3dcde9ba88aaef3bec97a8"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0094",
+      "reading_order": 357,
+      "section": "System icons",
+      "bbox": {
+        "l": 161.09808349609375,
+        "t": 159.125244140625,
+        "r": 192.58082580566406,
+        "b": 135.34521484375
+      },
+      "image_path": "figures/figure_0094.png",
+      "previous_block_id": "txt_0240",
+      "width": 31,
+      "height": 23,
+      "image_hash": "f5b7cb70a3bf33f17bda3bc7c1c03ae5e540430aa3c0829d3d6d600c4a8c04d4"
+    }
+  ],
+  "page_stats": {
+    "block_count": 18,
+    "text_blocks": 2,
+    "paragraphs": 0,
+    "headings": 2,
+    "list_items": 0,
+    "captions": 0,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 14,
+    "tables": 2,
+    "toc_tables": 0
+  }
+}

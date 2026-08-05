@@ -1,0 +1,267 @@
+{
+  "page": 25,
+  "document_id": "doc_229deb31",
+  "page_bbox": {
+    "width": 595.219970703125,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0223",
+      "reading_order": 301,
+      "section": "5.2.6 System Protection Function",
+      "bbox": {
+        "l": 56.962,
+        "t": 777.7025560000001,
+        "r": 266.5086097999998,
+        "b": 764.7931900000001
+      },
+      "content": "5.2.6 System Protection Function",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "id": "txt_0224",
+      "reading_order": 302,
+      "section": "5.2.6.1 3 minutes stand-by time",
+      "bbox": {
+        "l": 56.962,
+        "t": 743.2616856,
+        "r": 236.91979564999986,
+        "b": 732.180614
+      },
+      "content": "5.2.6.1 3 minutes stand-by time",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0225",
+      "reading_order": 303,
+      "section": "5.2.6.1 3 minutes stand-by time",
+      "bbox": {
+        "l": 101.7770702,
+        "t": 729.3423152,
+        "r": 550.8330592599988,
+        "b": 695.2079607800001
+      },
+      "content": "Time interval between compressor shutdown and restart is set at 3 minutes to ensure that compressor will  only  restart  after  3-minute  shutdown  and  initial  energization  valves  are  turned  on  to  adequate opening position after being fully turned off."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0226",
+      "reading_order": 304,
+      "section": "5.2.6.2 TD High Temperature Protections",
+      "bbox": {
+        "l": 56.962,
+        "t": 653.7516856,
+        "r": 290.11347554999986,
+        "b": 642.670614
+      },
+      "content": "5.2.6.2 TD High Temperature Protections",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0227",
+      "reading_order": 305,
+      "section": "5.2.6.2 TD High Temperature Protections",
+      "bbox": {
+        "l": 101.7770702,
+        "t": 637.6769152,
+        "r": 550.7901095700004,
+        "b": 612.8662826000001
+      },
+      "content": "As  long  as  unit  is  on,  the  TD  air  discharge  overheat  protection  feature  will  be  activated,  yet  air discharge sensor fault must be alarmed 4 minutes after compressor starts."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0059",
+      "reading_order": 306,
+      "section": "5.2.6.2 TD High Temperature Protections",
+      "bbox": {
+        "l": 102.44521612466446,
+        "t": 605.2046661376953,
+        "r": 399.78235741832424,
+        "b": 426.6167297363281
+      },
+      "image_path": "figures/figure_0059.png",
+      "previous_block_id": "txt_0227",
+      "next_block_id": "txt_0228"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0228",
+      "reading_order": 307,
+      "section": "5.2.6.2 TD High Temperature Protections",
+      "bbox": {
+        "l": 101.76508423999994,
+        "t": 404.45896720000013,
+        "r": 550.6912253999997,
+        "b": 379.49745238000014
+      },
+      "content": "When TD>117 for 20s continuously ć ˈ air discharge overheat protection will be activated and fault will be reported to indoor unit."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0229",
+      "reading_order": 308,
+      "section": "5.2.6.2 TD High Temperature Protections",
+      "bbox": {
+        "l": 101.82501403999994,
+        "t": 373.1923741800002,
+        "r": 267.64278000000047,
+        "b": 363.93959698000015
+      },
+      "content": "It will not continue in other conditions."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0230",
+      "reading_order": 309,
+      "section": "5.2.6.3 Indoor Heat Exchanger Anti-freeze Protection Anti-freeze during cooling",
+      "bbox": {
+        "l": 56.962,
+        "t": 342.6195856,
+        "r": 358.8286573700004,
+        "b": 317.17413799999997
+      },
+      "content": "5.2.6.3 Indoor Heat Exchanger Anti-freeze Protection Anti-freeze during cooling",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0231",
+      "reading_order": 310,
+      "section": "5.2.6.3 Indoor Heat Exchanger Anti-freeze Protection Anti-freeze during cooling",
+      "bbox": {
+        "l": 56.950508429999964,
+        "t": 248.75554616,
+        "r": 339.0400770299997,
+        "b": 239.5027689599999
+      },
+      "content": "1Hz/10sec                      6"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0232",
+      "reading_order": 311,
+      "section": "5.2.6.3 Indoor Heat Exchanger Anti-freeze Protection Anti-freeze during cooling",
+      "bbox": {
+        "l": 101.76801052999997,
+        "t": 233.19769076,
+        "r": 147.18680829000004,
+        "b": 223.94491356000003
+      },
+      "content": "5"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0233",
+      "reading_order": 312,
+      "section": "5.2.6.3 Indoor Heat Exchanger Anti-freeze Protection Anti-freeze during cooling",
+      "bbox": {
+        "l": 101.76801052999994,
+        "t": 202.08197996,
+        "r": 152.15498871000003,
+        "b": 192.82920276000004
+      },
+      "content": "0"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0060",
+      "reading_order": 313,
+      "section": "5.2.6.3 Indoor Heat Exchanger Anti-freeze Protection Anti-freeze during cooling",
+      "bbox": {
+        "l": 140.3609693753932,
+        "t": 313.9647216796875,
+        "r": 348.3146674805454,
+        "b": 181.13592529296875
+      },
+      "image_path": "figures/figure_0060.png",
+      "previous_block_id": "txt_0233",
+      "next_block_id": "txt_0234"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0234",
+      "reading_order": 314,
+      "section": "5.2.6.3 Indoor Heat Exchanger Anti-freeze Protection Anti-freeze during cooling",
+      "bbox": {
+        "l": 101.76801052999994,
+        "t": 171.11615215999996,
+        "r": 422.1537201600007,
+        "b": 161.0980282475
+      },
+      "content": "When TC < 5 ć ˈ compressor frequency will drop at a speed of 1HZ/10s"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0235",
+      "reading_order": 315,
+      "section": "5.2.6.3 Indoor Heat Exchanger Anti-freeze Protection Anti-freeze during cooling",
+      "bbox": {
+        "l": 101.76701169999995,
+        "t": 155.55829675999996,
+        "r": 509.38753704000123,
+        "b": 145.5401728475
+      },
+      "content": "When TC    starts to rise ˈ and 6  TC  9 ć ˈ compressor frequency will remain unchanged."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0236",
+      "reading_order": 316,
+      "section": "5.2.6.3 Indoor Heat Exchanger Anti-freeze Protection Anti-freeze during cooling",
+      "bbox": {
+        "l": 101.75702339999992,
+        "t": 140.06039455999996,
+        "r": 312.47918966999964,
+        "b": 130.0422706475
+      },
+      "content": "When 9 < TC < 11 , frequ ć ency will rise nomal."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0237",
+      "reading_order": 317,
+      "section": "5.2.6.3 Indoor Heat Exchanger Anti-freeze Protection Anti-freeze during cooling",
+      "bbox": {
+        "l": 101.7470350999999,
+        "t": 124.44258595999997,
+        "r": 550.8439761900001,
+        "b": 99.48207035999997
+      },
+      "content": "If TC  0 ć ˈ for 2 consecutive minutes, compressor will shutdown and outdoor fault lamp blinks. Fault will not be reported to indoor unit."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0238",
+      "reading_order": 318,
+      "section": "5.2.6.3 Indoor Heat Exchanger Anti-freeze Protection Anti-freeze during cooling",
+      "bbox": {
+        "l": 101.7470350999999,
+        "t": 93.32687515999999,
+        "r": 543.94006323,
+        "b": 83.30875124750003
+      },
+      "content": "When compressor shuts down for more than3 minutes ˈ and when TC>9 ć ˈ compressor will restart."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0061",
+      "reading_order": 319,
+      "section": "5.2.6.3 Indoor Heat Exchanger Anti-freeze Protection Anti-freeze during cooling",
+      "bbox": {
+        "l": 55.77417112868279,
+        "t": 63.07415771484375,
+        "r": 87.97915376967617,
+        "b": 52.3526611328125
+      },
+      "image_path": "figures/figure_0061.png",
+      "previous_block_id": "txt_0238",
+      "next_block_id": "txt_0239"
+    }
+  ]
+}

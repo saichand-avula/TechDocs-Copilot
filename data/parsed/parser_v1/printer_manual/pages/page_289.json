@@ -1,0 +1,152 @@
+{
+  "page": 289,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_2369",
+      "reading_order": 3195,
+      "section": "Install a replacement white backing",
+      "bbox": {
+        "l": 122.0,
+        "t": 732.29,
+        "r": 438.6200000000002,
+        "b": 720.7
+      },
+      "content": "Install the clip (callout 1) in the opening (callout 2) in the document feeder ."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0798",
+      "reading_order": 3196,
+      "section": "Install a replacement white backing",
+      "bbox": {
+        "l": 127.92935468448218,
+        "t": 710.8089447021484,
+        "r": 140.21124685532217,
+        "b": 697.6541519165039
+      },
+      "image_path": "figures/figure_0798.png",
+      "decorative": true,
+      "width": 12,
+      "height": 13,
+      "image_hash": "74ce7e8f2a5626463dd6444cf5bfde42178fe3c8175c4176382a6d973a8e84c7",
+      "previous_block_id": "txt_2369",
+      "next_block_id": "txt_2370"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_2370",
+      "reading_order": 3197,
+      "section": "Install a replacement white backing",
+      "bbox": {
+        "l": 144.0,
+        "t": 708.79,
+        "r": 465.31,
+        "b": 697.2
+      },
+      "content": "NOTE: Make sure that the springs are correctly installed. See the previous step.",
+      "severity": "note"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0799",
+      "reading_order": 3198,
+      "section": "Install a replacement white backing",
+      "bbox": {
+        "l": 143.1964748409209,
+        "t": 667.897102355957,
+        "r": 432.6242507417068,
+        "b": 456.4892272949219
+      },
+      "image_path": "figures/figure_0799.png",
+      "caption": "Install the retention clip",
+      "figure_number": "Figure 1-443",
+      "image_hash": "fa844ec33bee9659de22bbac6456ea4302e9d5b281ced15f1d4d4501c08c0b91",
+      "width": 290,
+      "height": 212,
+      "previous_block_id": "txt_2370",
+      "next_block_id": "txt_2371",
+      "caption_id": "txt_2371"
+    },
+    {
+      "type": "caption",
+      "id": "txt_2371",
+      "reading_order": 3199,
+      "section": "Install a replacement white backing",
+      "bbox": {
+        "l": 144.0,
+        "t": 686.29,
+        "r": 294.8099899999999,
+        "b": 674.7
+      },
+      "content": "Figure 1-443  Install the retention clip",
+      "caption_for": "fig_0799"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2372",
+      "reading_order": 3200,
+      "section": "Install a replacement white backing",
+      "bbox": {
+        "l": 122.0,
+        "t": 445.42,
+        "r": 341.59000000000003,
+        "b": 433.83
+      },
+      "content": "Press the clip to make sure it is securely installed."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0800",
+      "reading_order": 3201,
+      "section": "Install a replacement white backing",
+      "bbox": {
+        "l": 142.9399732762212,
+        "t": 405.6485290527344,
+        "r": 432.6125375057876,
+        "b": 194.56976318359375
+      },
+      "image_path": "figures/figure_0800.png",
+      "caption": "Press the retention clip",
+      "figure_number": "Figure 1-444",
+      "image_hash": "67568bc435befb38e83b34df2096b8d9dbb48166f9afc81e4c3b850df40d9dec",
+      "width": 290,
+      "height": 211,
+      "previous_block_id": "txt_2372",
+      "next_block_id": "txt_2373",
+      "caption_id": "txt_2373"
+    },
+    {
+      "type": "caption",
+      "id": "txt_2373",
+      "reading_order": 3202,
+      "section": "Install a replacement white backing",
+      "bbox": {
+        "l": 144.00002,
+        "t": 424.42,
+        "r": 292.8900199999999,
+        "b": 412.83
+      },
+      "content": "Figure 1-444  Press the retention clip",
+      "caption_for": "fig_0800"
+    }
+  ],
+  "page_stats": {
+    "block_count": 8,
+    "text_blocks": 5,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 2,
+    "captions": 2,
+    "admonitions": 1,
+    "references": 0,
+    "figures": 3,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

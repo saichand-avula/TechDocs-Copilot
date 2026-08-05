@@ -1,0 +1,358 @@
+{
+  "page": 21,
+  "document_id": "doc_c203a4f3",
+  "page_bbox": {
+    "width": 612.3599853515625,
+    "height": 792.4320068359375
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0257",
+      "reading_order": 266,
+      "section": "4. Engine Control Service",
+      "bbox": {
+        "l": 52.3843,
+        "t": 727.1973068359374,
+        "r": 344.9971,
+        "b": 705.5587870854176
+      },
+      "content": "4. Engine Control Service",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "id": "txt_0258",
+      "reading_order": 267,
+      "section": "GENERAL",
+      "bbox": {
+        "l": 140.0882,
+        "t": 676.0049068359375,
+        "r": 198.75619999999995,
+        "b": 665.1856469606777
+      },
+      "content": "GENERAL",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0259",
+      "reading_order": 268,
+      "section": "GENERAL",
+      "bbox": {
+        "l": 47.5654,
+        "t": 650.9090068359375,
+        "r": 291.3804000000002,
+        "b": 590.4242492035388
+      },
+      "content": "The following checks are referred to in the Control Troubleshooting flow charts.  They isolate circuit problems caused by faulty engine control components.    Disconnect  leads  before  testing  components."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0260",
+      "reading_order": 269,
+      "section": "GENERAL",
+      "bbox": {
+        "l": 47.565599999999996,
+        "t": 573.2964068359375,
+        "r": 291.47299999999973,
+        "b": 500.1672519502828
+      },
+      "content": "WARNING Many troubleshooting procedures present hazards that can result in severe personal  injury  or  death.    Only  qualified  service personnel with knowledge of fuels, electricity, and machinery hazards should perform service procedures.  Review Safety Precautions."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0261",
+      "reading_order": 270,
+      "section": "[A]",
+      "bbox": {
+        "l": 161.1213,
+        "t": 484.21280683593744,
+        "r": 177.7773,
+        "b": 473.39354696067755
+      },
+      "content": "[A]",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "id": "txt_0262",
+      "reading_order": 271,
+      "section": "BATTERY CHECK (BT1)",
+      "bbox": {
+        "l": 101.70689999999999,
+        "t": 459.09800683593744,
+        "r": 237.24449999999976,
+        "b": 448.27874696067755
+      },
+      "content": "BATTERY CHECK (BT1)",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0263",
+      "reading_order": 272,
+      "section": "BATTERY CHECK (BT1)",
+      "bbox": {
+        "l": 47.565199999999976,
+        "t": 434.0586068359375,
+        "r": 291.4670999999998,
+        "b": 359.9102492035388
+      },
+      "content": "Check the battery charge condition with a hydrometer.    Electrolyte  specific  gravity  should  be  about 1.260 for a fully charged battery at 80  F (27  C).  If not, add distilled water to keep electrolyte at proper level, then recharge the battery.  If the battery will not recharge, replace it."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0264",
+      "reading_order": 273,
+      "section": "BATTERY CHECK (BT1)",
+      "bbox": {
+        "l": 47.564099999999996,
+        "t": 343.91750683593756,
+        "r": 291.38349999999997,
+        "b": 296.07504920353887
+      },
+      "content": "If the battery loses excess water, the charge rate may be too high.  If the battery charge is not maintained, the charge rate may be too low.  See procedure [C]."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0265",
+      "reading_order": 274,
+      "section": "BATTERY CHECK (BT1)",
+      "bbox": {
+        "l": 47.56559999999999,
+        "t": 279.0035068359375,
+        "r": 291.7017999999998,
+        "b": 231.10175195028262
+      },
+      "content": "WARNING Ignition of explosive battery gases can cause severe personal injury.  Do not permit any  flame,  spark,  cigarette,  or  other  ignition source near the battery."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0266",
+      "reading_order": 275,
+      "section": "[B]",
+      "bbox": {
+        "l": 161.1213,
+        "t": 215.14830683593755,
+        "r": 177.7773,
+        "b": 204.3290469606776
+      },
+      "content": "[B]",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "id": "txt_0267",
+      "reading_order": 276,
+      "section": "BATTERY CABLE CHECK",
+      "bbox": {
+        "l": 96.37769999999999,
+        "t": 190.08990683593743,
+        "r": 242.51609999999977,
+        "b": 179.2706469606776
+      },
+      "content": "BATTERY CABLE CHECK",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0268",
+      "reading_order": 277,
+      "section": "BATTERY CABLE CHECK",
+      "bbox": {
+        "l": 47.56539999999998,
+        "t": 164.9941068359375,
+        "r": 291.50140000000005,
+        "b": 142.43624920353875
+      },
+      "content": "With the starter motor running, check these voltage drops:"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0269",
+      "reading_order": 278,
+      "section": "BATTERY CABLE CHECK",
+      "bbox": {
+        "l": 55.842899999999986,
+        "t": 126.44350683593746,
+        "r": 291.38260000000014,
+        "b": 103.88564920353872
+      },
+      "content": "From the battery negative post (not the cable clamp) to the cylinder block"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0270",
+      "reading_order": 279,
+      "section": "BATTERY CABLE CHECK",
+      "bbox": {
+        "l": 329.21599999999995,
+        "t": 675.9683068359375,
+        "r": 564.7732999999985,
+        "b": 653.4104492035387
+      },
+      "content": "From the battery positive post to the battery terminal stud on the solenoid"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0271",
+      "reading_order": 280,
+      "section": "BATTERY CABLE CHECK",
+      "bbox": {
+        "l": 320.93849999999986,
+        "t": 640.5923068359375,
+        "r": 564.7468999999998,
+        "b": 580.1075492035388
+      },
+      "content": "Normally these should be less than 0.3 volts.  If extra-long battery cables are used, slightly higher voltage drops may result.  Thoroughly clean all connections in any part of the circuit showing excessive voltage drop."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0272",
+      "reading_order": 281,
+      "section": "[C]",
+      "bbox": {
+        "l": 434.4945,
+        "t": 567.2680068359375,
+        "r": 451.15049999999997,
+        "b": 556.4487469606777
+      },
+      "content": "[C]",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "id": "txt_0273",
+      "reading_order": 282,
+      "section": "BATTERY CHARGING CHECK",
+      "bbox": {
+        "l": 357.73170000000005,
+        "t": 544.9312068359375,
+        "r": 527.9025000000004,
+        "b": 534.1119469606776
+      },
+      "content": "BATTERY CHARGING CHECK",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0274",
+      "reading_order": 283,
+      "section": "BATTERY CHARGING CHECK",
+      "bbox": {
+        "l": 320.9386,
+        "t": 522.5563068359376,
+        "r": 564.7601999999995,
+        "b": 487.35614920353885
+      },
+      "content": "With the engine running, check the DC voltmeter (control option).  The 12-volt system should read 13.5 to 15 volts."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0275",
+      "reading_order": 284,
+      "section": "BATTERY CHARGING CHECK",
+      "bbox": {
+        "l": 320.9386,
+        "t": 474.5380068359376,
+        "r": 564.7568999999996,
+        "b": 439.3378492035389
+      },
+      "content": "The power source is a belt-driven alternator.  The charge rate/voltage is determined by a voltage regulator located inside the control box."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0276",
+      "reading_order": 285,
+      "section": "BATTERY CHARGING CHECK",
+      "bbox": {
+        "l": 320.9386,
+        "t": 426.51970683593765,
+        "r": 564.8437999999993,
+        "b": 353.392649203539
+      },
+      "content": "Improper output may be caused by a loose drive belt, poor terminal connections, broken wires, bad regulator or alternator.  Checkout procedures for the regulator and alternator are found in the engine service manual. The charge circuit is protected by circuit breaker CB13."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0277",
+      "reading_order": 286,
+      "section": "BATTERY CHARGING CHECK",
+      "bbox": {
+        "l": 320.9386,
+        "t": 340.57450683593777,
+        "r": 565.033,
+        "b": 292.67484920353905
+      },
+      "content": "If the output voltage is high (over 15 volts), check for loose or corroded voltage regulator leads.  If this does not correct the problem, the regulator is probably shorted and should be replaced."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0278",
+      "reading_order": 287,
+      "section": "[D]",
+      "bbox": {
+        "l": 434.4945,
+        "t": 279.89150683593743,
+        "r": 451.15049999999997,
+        "b": 269.0722469606776
+      },
+      "content": "[D]",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "id": "txt_0279",
+      "reading_order": 288,
+      "section": "START SOLENOID CHECK (K11)",
+      "bbox": {
+        "l": 350.7585,
+        "t": 257.49830683593746,
+        "r": 534.7833000000004,
+        "b": 246.67904696067762
+      },
+      "content": "START SOLENOID CHECK (K11)",
+      "level": 2
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0280",
+      "reading_order": 289,
+      "section": "START SOLENOID CHECK (K11)",
+      "bbox": {
+        "l": 329.2158,
+        "t": 235.12320683593748,
+        "r": 564.7796999999998,
+        "b": 212.56534920353874
+      },
+      "content": "Apply  battery  positive  (B+)  to  the  terminal marked S."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0281",
+      "reading_order": 290,
+      "section": "START SOLENOID CHECK (K11)",
+      "bbox": {
+        "l": 329.2158,
+        "t": 199.7472068359375,
+        "r": 564.8973999999997,
+        "b": 177.18934920353877
+      },
+      "content": "Connect a ground wire to the solenoid terminal marked I.    The solenoid should activate."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0282",
+      "reading_order": 291,
+      "section": "START SOLENOID CHECK (K11)",
+      "bbox": {
+        "l": 329.2158,
+        "t": 164.37120683593753,
+        "r": 564.903999999999,
+        "b": 103.88644920353875
+      },
+      "content": "If the contacts are good, battery voltage should be read between terminal 1 and ground.  The voltage  drop  measured  across  the  contacts should never exceed one volt in circuit application."
+    }
+  ]
+}

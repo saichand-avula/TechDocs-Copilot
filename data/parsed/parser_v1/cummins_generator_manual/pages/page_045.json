@@ -1,0 +1,218 @@
+{
+  "page": 45,
+  "document_id": "doc_c203a4f3",
+  "page_bbox": {
+    "width": 612.3599853515625,
+    "height": 792.4320068359375
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0511",
+      "reading_order": 540,
+      "section": "8. Routine Maintenance",
+      "bbox": {
+        "l": 52.3843,
+        "t": 727.1973068359374,
+        "r": 322.2306999999999,
+        "b": 705.5587870854176
+      },
+      "content": "8. Routine Maintenance",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0512",
+      "reading_order": 541,
+      "section": "INTRODUCTION",
+      "bbox": {
+        "l": 113.3291,
+        "t": 675.8915068359374,
+        "r": 225.75469999999993,
+        "b": 665.0722469606776
+      },
+      "content": "INTRODUCTION",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0513",
+      "reading_order": 542,
+      "section": "INTRODUCTION",
+      "bbox": {
+        "l": 47.56539999999999,
+        "t": 654.9343068359375,
+        "r": 291.6411000000005,
+        "b": 607.0918492035388
+      },
+      "content": "This section describes routine maintenance procedures to be performed on the generator set.  Most of this  information  is  duplicated  in  the  Operator's Manual, publication #981-0137."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0514",
+      "reading_order": 543,
+      "section": "INTRODUCTION",
+      "bbox": {
+        "l": 47.56539999999999,
+        "t": 597.1645068359376,
+        "r": 291.3518000000002,
+        "b": 561.9643492035389
+      },
+      "content": "Many of the items in this section refer to the generator set engine: for more information, refer to the Engine Workshop Manual."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0515",
+      "reading_order": 544,
+      "section": "MAINTENANCE SCHEDULE",
+      "bbox": {
+        "l": 90.3685,
+        "t": 548.3892068359374,
+        "r": 248.57169999999974,
+        "b": 537.5699469606776
+      },
+      "content": "MAINTENANCE SCHEDULE",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0516",
+      "reading_order": 545,
+      "section": "MAINTENANCE SCHEDULE",
+      "bbox": {
+        "l": 47.5654,
+        "t": 526.0145068359375,
+        "r": 291.3881000000002,
+        "b": 503.45664920353875
+      },
+      "content": "Perform each maintenance procedure at the time period indicated or after the number of operating hours indicated, whichever comes first.  Refer to the Maintenance Procedures section for instructions.  If the generator set will be subjected to extremely hot or dusty conditions, a more frequent maintenance schedule may be necessary."
+    },
+    {
+      "type": "admonition",
+      "id": "txt_0517",
+      "reading_order": 546,
+      "section": "MAINTENANCE SCHEDULE",
+      "bbox": {
+        "l": 320.9388,
+        "t": 581.4602068359375,
+        "r": 564.954,
+        "b": 503.4558519502825
+      },
+      "content": "WARNING Accidental starting of the generator set during maintenance can cause severe personal injury or death.  Disconnect both generator set starting battery cables, before performing maintenance.  Remove the negative (-) cable first to reduce the risk of arcing.",
+      "severity": "warning"
+    },
+    {
+      "type": "table",
+      "id": "tbl_0003",
+      "reading_order": 547,
+      "section": "MAINTENANCE SCHEDULE",
+      "bbox": {
+        "l": 46.18973193583581,
+        "t": 468.624954620776,
+        "r": 564.4048532625551,
+        "b": 128.77033546142695
+      },
+      "markdown": "TABLE 8-1. PERIODIC MAINTENANCE SCHEDULE\n\n|                                                | SERVICE TIME           | SERVICE TIME             | SERVICE TIME               | SERVICE TIME                | SERVICE TIME              |\n|------------------------------------------------|------------------------|--------------------------|----------------------------|-----------------------------|---------------------------|\n| SERVICE THESE ITEMS                            | Daily or after 8 hours | Weekly or after 50 hours | Monthly or after 100 hours | 6 Months or after 250 hours | Yearly or after 500 hours |\n| Inspect set                                    | x 1                    |                          |                            |                             |                           |\n| Check oil level                                | x                      |                          |                            |                             |                           |\n| Check coolant level                            | x                      |                          |                            |                             |                           |\n| Check fuel level                               | x                      |                          |                            |                             |                           |\n| Check air cleaner dust cap (clean if required) |                        | x 3                      | x                          |                             |                           |\n| Check battery charging system                  |                        |                          | x                          |                             |                           |\n| Check drive belt tension                       |                        |                          | x 4                        |                             |                           |\n| Check battery specific gravity                 |                        |                          | x                          |                             |                           |\n| Change crankcase oil and filter                |                        |                          | x 2                        |                             |                           |\n| Drain water/sediment from fuel filter          |                        |                          | x                          |                             |                           |\n| Check antifreeze                               |                        |                          |                            | x                           |                           |\n| Clean generator assembly                       |                        |                          |                            | x                           |                           |\n| Drain sediment from fuel tank                  |                        |                          |                            | x 5                         |                           |\n| Clean crankcase breather                       |                        |                          |                            | x 3                         |                           |\n| Check fuel shut-off linkage                    |                        |                          |                            | x                           |                           |\n| Change fuel filter element                     |                        |                          |                            | x                           |                           |\n| Check generator set brushes                    |                        |                          |                            | x                           |                           |\n| Change air cleaner element                     |                        |                          |                            |                             | x 3                       |\n| Clean cooling system                           |                        |                          |                            |                             | x                         |",
+      "caption_id": "txt_0518",
+      "title": "TABLE 8-1. PERIODIC MAINTENANCE SCHEDULE",
+      "table_number": "TABLE 8-1",
+      "rows": 21,
+      "cols": 5
+    },
+    {
+      "type": "caption",
+      "id": "txt_0518",
+      "reading_order": 548,
+      "section": "MAINTENANCE SCHEDULE",
+      "bbox": {
+        "l": 186.6331,
+        "t": 486.1217068359375,
+        "r": 424.2551000000008,
+        "b": 477.10565693988764
+      },
+      "content": "TABLE 8-1. PERIODIC MAINTENANCE SCHEDULE",
+      "caption_for": "tbl_0003"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0519",
+      "reading_order": 549,
+      "section": "MAINTENANCE SCHEDULE",
+      "bbox": {
+        "l": 57.2032,
+        "t": 122.13450683593749,
+        "r": 415.2135999999995,
+        "b": 104.94559219419295
+      },
+      "content": "1 Check for oil, fuel, cooling and exhaust system leaks.  Check exhaust system audibly and visually with generator set running and repair any leaks immediately."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0520",
+      "reading_order": 550,
+      "section": "MAINTENANCE SCHEDULE",
+      "bbox": {
+        "l": 57.2032,
+        "t": 102.1793068359375,
+        "r": 289.8808000000003,
+        "b": 94.9679921941929
+      },
+      "content": "2 Perform after first 35 hours of operation on new generator set."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0521",
+      "reading_order": 551,
+      "section": "MAINTENANCE SCHEDULE",
+      "bbox": {
+        "l": 57.2032,
+        "t": 92.20170683593756,
+        "r": 247.01840000000018,
+        "b": 84.99039219419296
+      },
+      "content": "3 Perform more often in extremely dusty conditions."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0522",
+      "reading_order": 552,
+      "section": "MAINTENANCE SCHEDULE",
+      "bbox": {
+        "l": 57.2032,
+        "t": 82.2241068359375,
+        "r": 229.67279999999994,
+        "b": 75.01279219419291
+      },
+      "content": "4 Visually check belts for evidence of slippage."
+    },
+    {
+      "type": "footnote",
+      "id": "txt_0523",
+      "reading_order": 553,
+      "section": "MAINTENANCE SCHEDULE",
+      "bbox": {
+        "l": 57.2032,
+        "t": 72.24650683593745,
+        "r": 256.6688000000002,
+        "b": 65.03519219419297
+      },
+      "content": "5 Drain one cup of fuel to remove water and sediment."
+    }
+  ],
+  "page_stats": {
+    "block_count": 14,
+    "text_blocks": 13,
+    "paragraphs": 6,
+    "headings": 3,
+    "list_items": 1,
+    "captions": 1,
+    "admonitions": 1,
+    "references": 0,
+    "figures": 0,
+    "tables": 1,
+    "toc_tables": 0
+  }
+}

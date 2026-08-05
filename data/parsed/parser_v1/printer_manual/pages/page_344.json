@@ -1,0 +1,244 @@
+{
+  "page": 344,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_2886",
+      "reading_order": 3873,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 91.0,
+        "t": 732.29,
+        "r": 283.36999999999995,
+        "b": 720.7
+      },
+      "content": "Remove the hard-disk drive (HDD models)."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0951",
+      "reading_order": 3874,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 112.02388604786013,
+        "t": 709.8624267578125,
+        "r": 131.64335031582027,
+        "b": 688.5529251098633
+      },
+      "image_path": "figures/figure_0951.png",
+      "decorative": true,
+      "width": 19,
+      "height": 21,
+      "image_hash": "4b4a9460854a17f346451c5b3d2bc2f5813e1c6213f39b99a8e0b85956020e8c",
+      "previous_block_id": "txt_2886",
+      "next_block_id": "txt_2887"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_2887",
+      "reading_order": 3875,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 131.86001,
+        "t": 705.905,
+        "r": 208.34000999999995,
+        "b": 694.315
+      },
+      "content": "ESD sensitive part."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2888",
+      "reading_order": 3876,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 113.00001,
+        "t": 678.29,
+        "r": 502.01001000000025,
+        "b": 666.7
+      },
+      "content": "Release the locking connector (callout 1), and then pinch the retainer (callout 2) to release it."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2889",
+      "reading_order": 3877,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 113.0,
+        "t": 407.74672000000004,
+        "r": 539.0800000000004,
+        "b": 384.15672
+      },
+      "content": "Rotate the connector end of the HDD out and away from the formatter (callout 1), and then slide it as shown (callout 2) to remove it."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2890",
+      "reading_order": 3878,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 91.0,
+        "t": 133.87672999999995,
+        "r": 341.46000000000004,
+        "b": 122.28673000000003
+      },
+      "content": "Remove the embedded Multi-Media Card (eMMC models)."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0952",
+      "reading_order": 3879,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 134.79122146267227,
+        "t": 639.2605895996094,
+        "r": 559.5154131315836,
+        "b": 418.3581237792969
+      },
+      "image_path": "figures/figure_0952.png",
+      "caption": "Release the HDD",
+      "figure_number": "Figure 1-527",
+      "image_hash": "c1a4f2d13e2900cf2714b1ff653999f45a0f6cf69795c05b697546ae9a5a9bc4",
+      "width": 425,
+      "height": 221,
+      "previous_block_id": "txt_2890",
+      "next_block_id": "txt_2891",
+      "caption_id": "txt_2891"
+    },
+    {
+      "type": "caption",
+      "id": "txt_2891",
+      "reading_order": 3880,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 135.00004,
+        "t": 657.29,
+        "r": 258.7700399999999,
+        "b": 645.7
+      },
+      "content": "Figure 1-527  Release the HDD",
+      "caption_for": "fig_0952"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0953",
+      "reading_order": 3881,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 132.82809532389922,
+        "t": 363.4334716796875,
+        "r": 424.04146863155756,
+        "b": 145.02105712890625
+      },
+      "image_path": "figures/figure_0953.png",
+      "caption": "Remove the HDD",
+      "figure_number": "Figure 1-528",
+      "image_hash": "150ab3cdf1cfbd84d57be5d8ef3fea6ec76121f09c69b3631a6b82fb9d83f069",
+      "width": 291,
+      "height": 218,
+      "previous_block_id": "txt_2891",
+      "next_block_id": "txt_2892",
+      "caption_id": "txt_2892"
+    },
+    {
+      "type": "caption",
+      "id": "txt_2892",
+      "reading_order": 3882,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 135.00001,
+        "t": 374.74672000000004,
+        "r": 260.08000999999996,
+        "b": 363.15672
+      },
+      "content": "Figure 1-528  Remove the HDD",
+      "caption_for": "fig_0953"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0954",
+      "reading_order": 3883,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 96.97783034198268,
+        "t": 112.798583984375,
+        "r": 110.71874483620529,
+        "b": 99.311767578125
+      },
+      "image_path": "figures/figure_0954.png",
+      "caption": "Remove the HDD",
+      "decorative": true,
+      "width": 13,
+      "height": 13,
+      "figure_number": "Figure 1-528",
+      "image_hash": "6064aadeabcde7dae4b84efd0487735155725bc4a4ba603d88aef92c8b063052",
+      "previous_block_id": "txt_2892",
+      "next_block_id": "txt_2893"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_2893",
+      "reading_order": 3884,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 113.0,
+        "t": 104.99171999999999,
+        "r": 150.75,
+        "b": 93.40171999999995
+      },
+      "content": "CAUTION:",
+      "severity": "caution"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0955",
+      "reading_order": 3885,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 159.88236069807454,
+        "t": 109.31634521484375,
+        "r": 179.42676417101333,
+        "b": 88.0234375
+      },
+      "image_path": "figures/figure_0955.png",
+      "decorative": true,
+      "width": 19,
+      "height": 21,
+      "image_hash": "f09a3bb8052af0266fc78d730baae0cd12975a26cced06d40b60b744c9cb525f",
+      "previous_block_id": "txt_2893",
+      "next_block_id": "txt_2894"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_2894",
+      "reading_order": 3886,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 179.61,
+        "t": 104.99172999999996,
+        "r": 256.09,
+        "b": 93.40173000000004
+      },
+      "content": "ESD sensitive part."
+    }
+  ],
+  "page_stats": {
+    "block_count": 14,
+    "text_blocks": 9,
+    "paragraphs": 2,
+    "headings": 0,
+    "list_items": 4,
+    "captions": 2,
+    "admonitions": 1,
+    "references": 0,
+    "figures": 5,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

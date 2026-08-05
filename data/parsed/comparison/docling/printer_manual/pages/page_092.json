@@ -1,0 +1,152 @@
+{
+  "page": 92,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_0850",
+      "reading_order": 1098,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 113.0,
+        "t": 732.29,
+        "r": 320.2499999999999,
+        "b": 720.7
+      },
+      "content": "Position the control-panel cover on the printer ."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0851",
+      "reading_order": 1099,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 113.0,
+        "t": 417.86,
+        "r": 530.2000100000002,
+        "b": 394.27
+      },
+      "content": "Beginning at the left side of the control-panel cover, carefully push down along the top edge of the cover to engage five tabs."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0235",
+      "reading_order": 1100,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 133.75937383752316,
+        "t": 699.3427886962891,
+        "r": 424.0488199072256,
+        "b": 429.03790283203125
+      },
+      "image_path": "figures/figure_0235.png",
+      "caption": "Install the control-panel cover",
+      "figure_number": "Figure 1-108",
+      "image_hash": "22a646d6c5756d9ffb06e06b449c61b3147330887e11ae1c208614b1f325a429",
+      "width": 290,
+      "height": 270,
+      "previous_block_id": "txt_0851",
+      "next_block_id": "txt_0852",
+      "caption_id": "txt_0852"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0852",
+      "reading_order": 1101,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 135.00004,
+        "t": 711.29,
+        "r": 311.1200399999999,
+        "b": 699.7
+      },
+      "content": "Figure 1-108  Install the control-panel cover",
+      "caption_for": "fig_0235"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0236",
+      "reading_order": 1102,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 118.81917955158748,
+        "t": 384.1748046875,
+        "r": 131.63436711796035,
+        "b": 371.21295166015625
+      },
+      "image_path": "figures/figure_0236.png",
+      "decorative": true,
+      "width": 12,
+      "height": 12,
+      "image_hash": "c5116aff89b98272d1b4b2b5228bd2c4e49eeb2be1bcdc56be23dcd3e6149253",
+      "previous_block_id": "txt_0852",
+      "next_block_id": "txt_0853"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_0853",
+      "reading_order": 1103,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 135.0,
+        "t": 382.36001000000005,
+        "r": 522.6899900000001,
+        "b": 358.77001
+      },
+      "content": "NOTE: If the keyboard is unresponsive after turning the printer on, check the flat cable installed earlier . Reinstall the cable if necessary.",
+      "severity": "note"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0237",
+      "reading_order": 1104,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 133.81327302468267,
+        "t": 335.25164794921875,
+        "r": 373.51971984162554,
+        "b": 125.96832275390625
+      },
+      "image_path": "figures/figure_0237.png",
+      "caption": "Engage five tabs",
+      "figure_number": "Figure 1-109",
+      "image_hash": "2d508cbe6ae3f3d2c197ee29a493df84e10d907f9f23fcc1efdf8b092664e7d6",
+      "width": 240,
+      "height": 209,
+      "previous_block_id": "txt_0853",
+      "next_block_id": "txt_0854",
+      "caption_id": "txt_0854"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0854",
+      "reading_order": 1105,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 135.0,
+        "t": 347.86,
+        "r": 257.66999,
+        "b": 336.27
+      },
+      "content": "Figure 1-109  Engage five tabs",
+      "caption_for": "fig_0237"
+    }
+  ],
+  "page_stats": {
+    "block_count": 8,
+    "text_blocks": 5,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 2,
+    "captions": 2,
+    "admonitions": 1,
+    "references": 0,
+    "figures": 3,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

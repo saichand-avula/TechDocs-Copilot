@@ -1,0 +1,167 @@
+{
+  "page": 12,
+  "document_id": "doc_c203a4f3",
+  "page_bbox": {
+    "width": 612.3599853515625,
+    "height": 792.4320068359375
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0002",
+      "reading_order": 163,
+      "section": "Control Components",
+      "bbox": {
+        "l": 45.82026730377601,
+        "t": 740.2322999508651,
+        "r": 564.6201287413783,
+        "b": 404.1647337666346
+      },
+      "image_path": "figures/figure_0002.png",
+      "next_block_id": "txt_0161",
+      "caption_id": "txt_0161",
+      "caption": ". HDKAG GENERATOR SET DC CONTROL BOX",
+      "figure_number": "FIGURE 3-1",
+      "image_hash": "56283f1886e23daf6976469624155d69c682fd5c4dec11584578a95daa1b0410",
+      "width": 519,
+      "height": 336
+    },
+    {
+      "type": "caption",
+      "id": "txt_0161",
+      "reading_order": 164,
+      "section": "Control Components",
+      "bbox": {
+        "l": 166.1102,
+        "t": 392.23830683593746,
+        "r": 444.6342000000002,
+        "b": 383.2222569398876
+      },
+      "content": "FIGURE 3-1. HDKAG GENERATOR SET DC CONTROL BOX",
+      "caption_for": "fig_0002"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0162",
+      "reading_order": 165,
+      "section": "Oil Pressure Monitors",
+      "bbox": {
+        "l": 320.9386,
+        "t": 368.38920683593744,
+        "r": 445.9522000000006,
+        "b": 357.56994696067756
+      },
+      "content": "Oil Pressure Monitors",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0163",
+      "reading_order": 166,
+      "section": "Oil Pressure Monitors",
+      "bbox": {
+        "l": 320.9386,
+        "t": 346.3547068359375,
+        "r": 564.7425999999997,
+        "b": 323.7968492035388
+      },
+      "content": "Refer to Figure 3-2 for the location of the oil pressure monitors.",
+      "hyperlink_hint": true
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0164",
+      "reading_order": 167,
+      "section": "Oil Pressure Monitors",
+      "bbox": {
+        "l": 320.9386,
+        "t": 311.37580683593757,
+        "r": 564.7645999999999,
+        "b": 263.5333492035388
+      },
+      "content": "Oil Pressure Sender E1: The sender resistance changes with oil pressure and results in a reading on  the  (optional)  oil  pressure  meter.    The  meter range is 0 to 100 psi (0 to 700 kPa)."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0165",
+      "reading_order": 168,
+      "section": "Oil Pressure Monitors",
+      "bbox": {
+        "l": 320.93859999999995,
+        "t": 251.1123068359376,
+        "r": 564.8922000000003,
+        "b": 215.91214920353877
+      },
+      "content": "Low Oil Pressure Switch S1: This switch closes if oil pressure drops to 9 psi (62 kPa), activating the fault breaker and stopping the engine."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0166",
+      "reading_order": 169,
+      "section": "Oil Pressure Monitors",
+      "bbox": {
+        "l": 320.93859999999995,
+        "t": 203.49110683593756,
+        "r": 564.9735999999983,
+        "b": 142.9491492035388
+      },
+      "content": "Control Power Latch S6: This oil pressure switch closes at 5 psi (34 kPa) and provides a latch function for the control circuits.  When closed, the switch supplies a ground path for relay K12 on the engine monitor board."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0167",
+      "reading_order": 170,
+      "section": "Engine Monitors",
+      "bbox": {
+        "l": 47.5654,
+        "t": 368.38920683593744,
+        "r": 141.91419999999997,
+        "b": 357.56994696067756
+      },
+      "content": "Engine Monitors",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0168",
+      "reading_order": 171,
+      "section": "Engine Monitors",
+      "bbox": {
+        "l": 47.56539999999999,
+        "t": 331.7279068359375,
+        "r": 291.53549999999996,
+        "b": 224.0157492035388
+      },
+      "content": "This section briefly describes the engine sensors (switches) and optional gauge senders.  The sensors protect the engine from unfavorable operating conditions; the senders are used with the operational remote panel.  These sealed units are not repairable.  Do not use a substitute part if replacement is necessary,  since  they  are  close-tolerance  parts made for a specific application."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0169",
+      "reading_order": 172,
+      "section": "Engine Monitors",
+      "bbox": {
+        "l": 47.5654,
+        "t": 194.75700683593755,
+        "r": 291.4838000000002,
+        "b": 142.9446492035388
+      },
+      "content": "The safety sensors (switches) close the fault circuit to  ground  if  abnormal  operating  conditions  exist, tripping the fault breaker CB12 to stop the engine. See Figure 3-2 and the schematic in Figure 3-3.",
+      "hyperlink_hint": true
+    }
+  ],
+  "page_stats": {
+    "block_count": 10,
+    "text_blocks": 9,
+    "paragraphs": 6,
+    "headings": 2,
+    "list_items": 0,
+    "captions": 1,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 1,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

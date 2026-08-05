@@ -1,0 +1,85 @@
+{
+  "page": 37,
+  "document_id": "doc_b0587846",
+  "page_bbox": {
+    "width": 612.0,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0561",
+      "reading_order": 638,
+      "section": "Checklist",
+      "bbox": {
+        "l": 54.0,
+        "t": 743.64184,
+        "r": 93.69000000000001,
+        "b": 732.40184
+      },
+      "content": "Checklist",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "table",
+      "id": "tbl_0032",
+      "reading_order": 639,
+      "section": "Checklist",
+      "bbox": {
+        "l": 142.67776489257812,
+        "t": 725.0006332397461,
+        "r": 559.1171875,
+        "b": 363.2607116699219
+      },
+      "markdown": "| Check                                                                                                                                                                 | Explanation/comment                                                                                                                                                                         | Checked   |\n|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|\n| Check that all piping is supported independently of, and lined up naturally with, the pump flange.                                                                    | This helps to prevent: • Strain on the pump • Misalignment between the pump and the drive unit • Wear on the pump bearings and the coupling • Wear on the pump bearings, seal, and shafting |           |\n| Keep the piping as short as possible.                                                                                                                                 | This helps to minimize friction losses.                                                                                                                                                     |           |\n| Check that only necessary fittings are used.                                                                                                                          | This helps to minimize friction losses.                                                                                                                                                     |           |\n| Do not connect the piping to the pump until: • The grout for the baseplate or sub-base becomes hard. • The hold-down bolts for the pump and the driver are tightened. | -                                                                                                                                                                                           |           |\n| Make sure that all the piping joints and fittings are airtight.                                                                                                       | This prevents air from entering the piping system or leaks that occur during operation.                                                                                                     |           |\n| If the pump handles corrosive fluids, make sure that the piping allows you to flush out the liquid before you remove the pump.                                        | -                                                                                                                                                                                           |           |\n| If the pump handles liquids at elevated temperatures, make sure that the expansion loops and joints are properly installed.                                           | This helps to prevent misalignment due to linear expansion of the piping.                                                                                                                   |           |",
+      "rows": 8,
+      "cols": 3
+    },
+    {
+      "type": "heading",
+      "id": "txt_0562",
+      "reading_order": 640,
+      "section": "Example: Installation for expansion",
+      "bbox": {
+        "l": 54.0,
+        "t": 354.44182,
+        "r": 205.45,
+        "b": 343.20182
+      },
+      "content": "Example: Installation for expansion",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0048",
+      "reading_order": 641,
+      "section": "Example: Installation for expansion",
+      "bbox": {
+        "l": 143.0646514892578,
+        "t": 335.9361267089844,
+        "r": 558.9566040039062,
+        "b": 89.03790283203125
+      },
+      "image_path": "figures/figure_0048.png",
+      "previous_block_id": "txt_0562",
+      "image_hash": "885ef6e966e48cae103e0ddaab595e7233edd633472f9a85e01a5c432b315544",
+      "width": 416,
+      "height": 247
+    }
+  ],
+  "page_stats": {
+    "block_count": 4,
+    "text_blocks": 2,
+    "paragraphs": 0,
+    "headings": 2,
+    "list_items": 0,
+    "captions": 0,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 1,
+    "tables": 1,
+    "toc_tables": 0
+  }
+}

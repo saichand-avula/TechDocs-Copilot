@@ -1,0 +1,157 @@
+{
+  "page": 95,
+  "document_id": "doc_caa693b1",
+  "page_bbox": {
+    "width": 595.0,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_0546",
+      "reading_order": 720,
+      "section": "1-3-2. Reference Point Adjusting Method 2",
+      "bbox": {
+        "l": 70.92,
+        "t": 685.2746599999999,
+        "r": 195.56679600000004,
+        "b": 676.4029409281768
+      },
+      "content": "Perform only in X-axis."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0547",
+      "reading_order": 721,
+      "section": "1-3-2. Reference Point Adjusting Method 2",
+      "bbox": {
+        "l": 70.92,
+        "t": 666.254696,
+        "r": 301.70865600000025,
+        "b": 657.3829769281768
+      },
+      "content": "Place Z-axis at a distance from reference point."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0548",
+      "reading_order": 722,
+      "section": "1-3-2. Reference Point Adjusting Method 2",
+      "bbox": {
+        "l": 106.379778,
+        "t": 629.774768,
+        "r": 527.4051480000011,
+        "b": 586.8831449281769
+      },
+      "content": "This time, move the current position \"EXTERNAL\" coordinate to be 380.000 (SKT100) and 314.000 (SKT200), set the coordinate X at \"0\" and then move it about 1/2 (6,000) of ball screw pitch in the opposite direction from Reference Point Return."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0549",
+      "reading_order": 723,
+      "section": "1-3-2. Reference Point Adjusting Method 2",
+      "bbox": {
+        "l": 106.37977800000002,
+        "t": 578.774972,
+        "r": 527.3570520000001,
+        "b": 552.923360928177
+      },
+      "content": "Move the reference point return dog to the position where the reference point reduction signal is turned ON."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0550",
+      "reading_order": 724,
+      "section": "1-3-2. Reference Point Adjusting Method 2",
+      "bbox": {
+        "l": 106.37877600000004,
+        "t": 323.7759920000001,
+        "r": 279.8349960000002,
+        "b": 314.90427292817685
+      },
+      "content": "Reference point return the X-axis."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0139",
+      "reading_order": 725,
+      "section": "1-3-2. Reference Point Adjusting Method 2",
+      "bbox": {
+        "l": 64.20597839355469,
+        "t": 533.3312072753906,
+        "r": 532.9785766601562,
+        "b": 369.6631164550781
+      },
+      "image_path": "figures/figure_0139.png",
+      "previous_block_id": "txt_0550",
+      "next_block_id": "txt_0551",
+      "caption_id": "txt_0551",
+      "caption": "Reference Point Return Dog Movement",
+      "figure_number": "Fig. 5-4",
+      "image_hash": "d1fceaa2f89ba17e4a73dd40f6abf9eb2a49cefe2f98a8c2885067711a749908",
+      "width": 469,
+      "height": 163
+    },
+    {
+      "type": "caption",
+      "id": "txt_0551",
+      "reading_order": 726,
+      "section": "1-3-2. Reference Point Adjusting Method 2",
+      "bbox": {
+        "l": 190.43856000000005,
+        "t": 357.79589600000014,
+        "r": 407.75733,
+        "b": 348.9241769281769
+      },
+      "content": "Fig. 5-4  Reference Point Return Dog Movement",
+      "caption_for": "fig_0139"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0140",
+      "reading_order": 727,
+      "section": "1-3-2. Reference Point Adjusting Method 2",
+      "bbox": {
+        "l": 70.79891204833984,
+        "t": 295.3131103515625,
+        "r": 532.9004516601562,
+        "b": 119.507080078125
+      },
+      "image_path": "figures/figure_0140.png",
+      "previous_block_id": "txt_0551",
+      "image_hash": "76a00679e95738c27fec883c09ec8a476714d5457d2e65bae00f649cd31b2456",
+      "width": 462,
+      "height": 175
+    },
+    {
+      "type": "figure",
+      "id": "fig_0141",
+      "reading_order": 728,
+      "section": "1-3-2. Reference Point Adjusting Method 2",
+      "bbox": {
+        "l": 218.69049072265625,
+        "t": 738.8729019165039,
+        "r": 334.6393127441406,
+        "b": 708.0608215332031
+      },
+      "image_path": "figures/figure_0141.png",
+      "previous_block_id": "txt_0551",
+      "image_hash": "ffbe0ad0aa0ecbb5098736a4f4a11b8b550a845203f14552550677ee874f5bd5",
+      "width": 116,
+      "height": 31
+    }
+  ],
+  "page_stats": {
+    "block_count": 9,
+    "text_blocks": 6,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 5,
+    "captions": 1,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 3,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "tbl_0073",
+  "page": 189,
+  "section": "Note",
+  "title": null,
+  "markdown": "|   SPM indication (*1) | Faulty location and remedy                                                          | Description                                                                                                                                                                                                   |\n|-----------------------|-------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n|                    28 | 1 Replace the cable. 2 Re-adjust the BZ sensor signal.                              | The position detection signal (connector JY5)for Cs contour control is abnormal. (Unconnected cable, adjustment error, etc.)                                                                                  |\n|                    29 | Check and correct the load status.                                                  | Excessive load has been applied continuously for a certain period of time. (This alarm is issued also when the motor shaft has been locked in the excitation state.)                                          |\n|                    30 | Check and correct the power supply voltage.                                         | Overcurrent is detected in PSM main circuit input. (PSM alarm indication : 1) Unbalanced power supply. PSM selection error (The maximum PSM output specification is exceeded.)                                |\n|                    31 | 1 Check and correct the load status. 2 Replace the motor sensor cable (JY2 or JY5). | The motor cannot rotate at a specified speed. (A level not exceeding the SST level for the rotation command has existed continuously.) Abnormality in the speed detection signal.                             |\n|                    32 | Replace the SPM control printed circuit board.                                      | Abnormality in an SPM control circuit \"component is detected. (The LSI device for serial transfer is abnormal.)                                                                                               |\n|                    33 | Check and correct the power supply voltage. 2 Replace the PSM unit.                 | Charging of direct current power supply voltage in the power circuit section is insufficient when the magnetic contractor in the amplifier is turned on (such as open phase and defective charging resistor). |",
+  "block_id": "#/tables/72",
+  "reading_order": 1715,
+  "bbox": {
+    "l": 64.3836898803711,
+    "t": 732.1823425292969,
+    "r": 530.7000732421875,
+    "b": 268.1573486328125
+  }
+}

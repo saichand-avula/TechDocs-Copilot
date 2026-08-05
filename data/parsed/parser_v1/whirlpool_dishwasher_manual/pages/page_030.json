@@ -1,0 +1,442 @@
+{
+  "page": 30,
+  "document_id": "doc_16216d0c",
+  "page_bbox": {
+    "width": 612.0,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0415",
+      "reading_order": 473,
+      "section": "For Service Technician Use Only",
+      "bbox": {
+        "l": 165.5044,
+        "t": 731.3319,
+        "r": 427.0263999999999,
+        "b": 716.5582010526316
+      },
+      "content": "For Service Technician Use Only",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0416",
+      "reading_order": 474,
+      "section": "DANGER",
+      "bbox": {
+        "l": 130.6418,
+        "t": 699.862444,
+        "r": 222.9106244,
+        "b": 682.3214012833168
+      },
+      "content": "DANGER",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0047",
+      "reading_order": 475,
+      "section": "DANGER",
+      "bbox": {
+        "l": 137.10862731933594,
+        "t": 674.1228637695312,
+        "r": 178.36912536621094,
+        "b": 628.75830078125
+      },
+      "image_path": "figures/figure_0047.png",
+      "previous_block_id": "txt_0416",
+      "next_block_id": "txt_0417",
+      "image_hash": "50685c854051ddeb487c935f7ef2b5f8a906c3de33066a7e146f2200ffb4afe4",
+      "width": 41,
+      "height": 45
+    },
+    {
+      "type": "heading",
+      "id": "txt_0417",
+      "reading_order": 476,
+      "section": "Electrical Shock Hazard",
+      "bbox": {
+        "l": 107.5916,
+        "t": 614.6737318,
+        "r": 218.36499379999995,
+        "b": 605.9962174112267
+      },
+      "content": "Electrical Shock Hazard",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0418",
+      "reading_order": 477,
+      "section": "Electrical Shock Hazard",
+      "bbox": {
+        "l": 46.2060617,
+        "t": 599.5300768000001,
+        "r": 253.5862043,
+        "b": 580.5939574112267
+      },
+      "content": "Only authorized technicians should perform diagnostic voltage measurements."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0419",
+      "reading_order": 478,
+      "section": "Electrical Shock Hazard",
+      "bbox": {
+        "l": 46.2060617,
+        "t": 574.1278168000001,
+        "r": 237.30921769999995,
+        "b": 555.1916974112268
+      },
+      "content": "After performing voltage measurements, disconnect power before servicing."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0420",
+      "reading_order": 479,
+      "section": "Electrical Shock Hazard",
+      "bbox": {
+        "l": 46.2060617,
+        "t": 548.7255568000002,
+        "r": 270.9769823,
+        "b": 529.7894374112268
+      },
+      "content": "Failure to follow these instructions can result in death or electrical shock."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0421",
+      "reading_order": 480,
+      "section": "Control Board SPECIFICATIONS",
+      "bbox": {
+        "l": 35.46,
+        "t": 499.8168,
+        "r": 127.69999999999999,
+        "b": 470.15932100840337
+      },
+      "content": "Control Board SPECIFICATIONS",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0422",
+      "reading_order": 481,
+      "section": "ELECTRICAL SUPPLY:",
+      "bbox": {
+        "l": 35.46,
+        "t": 452.02479999999997,
+        "r": 118.25000000000004,
+        "b": 444.4169008403361
+      },
+      "content": "ELECTRICAL SUPPLY:",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0423",
+      "reading_order": 482,
+      "section": "ELECTRICAL SUPPLY:",
+      "bbox": {
+        "l": 35.46,
+        "t": 439.02479999999997,
+        "r": 150.39000000000001,
+        "b": 431.4169008403361
+      },
+      "content": "(Under Load): 60Hz 120V AC"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0424",
+      "reading_order": 483,
+      "section": "SUPPLY WATER FLOW RATE :",
+      "bbox": {
+        "l": 35.46,
+        "t": 413.02479999999997,
+        "r": 152.04,
+        "b": 405.4169008403361
+      },
+      "content": "SUPPLY WATER FLOW RATE :",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0425",
+      "reading_order": 484,
+      "section": "SUPPLY WATER FLOW RATE :",
+      "bbox": {
+        "l": 35.46,
+        "t": 400.02479999999997,
+        "r": 266.94,
+        "b": 382.4169008403361
+      },
+      "content": "To fill 4 qt (3.8 L) in 36 seconds, 100 psi maximum, 20 psi minimum."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0426",
+      "reading_order": 485,
+      "section": "SUPPLY WATER TEMPERATURE:",
+      "bbox": {
+        "l": 35.46,
+        "t": 364.02479999999997,
+        "r": 164.18999999999997,
+        "b": 356.4169008403361
+      },
+      "content": "SUPPLY WATER TEMPERATURE:",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0427",
+      "reading_order": 486,
+      "section": "SUPPLY WATER TEMPERATURE:",
+      "bbox": {
+        "l": 35.46,
+        "t": 351.02479999999997,
+        "r": 267.2999999999999,
+        "b": 333.4169008403361
+      },
+      "content": "120°F (49°C) (Before starting a cycle, run water from sink faucet until hot.)"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0428",
+      "reading_order": 487,
+      "section": "WATER CHARGE:",
+      "bbox": {
+        "l": 35.46,
+        "t": 315.02479999999997,
+        "r": 104.27000000000002,
+        "b": 307.4169008403361
+      },
+      "content": "WATER CHARGE:",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0429",
+      "reading_order": 488,
+      "section": "WATER CHARGE:",
+      "bbox": {
+        "l": 35.46,
+        "t": 302.02479999999997,
+        "r": 135.86,
+        "b": 294.4169008403361
+      },
+      "content": "4 qt. (3.8 L) Approximate"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0430",
+      "reading_order": 489,
+      "section": "LOWER SPRAY ARM ROTATION:",
+      "bbox": {
+        "l": 35.46,
+        "t": 276.0247999999999,
+        "r": 166.54999999999995,
+        "b": 268.4169008403361
+      },
+      "content": "LOWER SPRAY ARM ROTATION:",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0431",
+      "reading_order": 490,
+      "section": "LOWER SPRAY ARM ROTATION:",
+      "bbox": {
+        "l": 35.46,
+        "t": 263.0247999999999,
+        "r": 90.46,
+        "b": 255.4169008403361
+      },
+      "content": "20 TO 40 rpm"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0432",
+      "reading_order": 491,
+      "section": "UPPER SPRAY ARM ROTATION:",
+      "bbox": {
+        "l": 35.46,
+        "t": 237.0247999999999,
+        "r": 163.96999999999997,
+        "b": 229.4169008403361
+      },
+      "content": "UPPER SPRAY ARM ROTATION:",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0433",
+      "reading_order": 492,
+      "section": "UPPER SPRAY ARM ROTATION:",
+      "bbox": {
+        "l": 35.46,
+        "t": 224.0247999999999,
+        "r": 90.46,
+        "b": 216.4169008403361
+      },
+      "content": "15 TO 40 rpm"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0434",
+      "reading_order": 493,
+      "section": "UPPER SPRAY ARM ROTATION:",
+      "bbox": {
+        "l": 56.1631,
+        "t": 44.86829999999998,
+        "r": 72.4687,
+        "b": 32.765719354838666
+      },
+      "content": "n"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0435",
+      "reading_order": 494,
+      "section": "Component Testing",
+      "bbox": {
+        "l": 302.2725,
+        "t": 705.4774,
+        "r": 430.11249999999995,
+        "b": 693.3047613445378
+      },
+      "content": "Component Testing",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0436",
+      "reading_order": 495,
+      "section": "TESTING DISHWASHER COMPONENTS FROM THE CONTROL BOARD",
+      "bbox": {
+        "l": 302.2725,
+        "t": 684.9494,
+        "r": 547.9004999999999,
+        "b": 663.8199210084034
+      },
+      "content": "TESTING DISHWASHER COMPONENTS FROM THE CONTROL BOARD",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0437",
+      "reading_order": 496,
+      "section": "TESTING DISHWASHER COMPONENTS FROM THE CONTROL BOARD",
+      "bbox": {
+        "l": 302.2725,
+        "t": 658.6854000000001,
+        "r": 550.5325,
+        "b": 641.0775008403361
+      },
+      "content": "Before testing any of the components, perform the following checks:"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0438",
+      "reading_order": 497,
+      "section": "TESTING DISHWASHER COMPONENTS FROM THE CONTROL BOARD",
+      "bbox": {
+        "l": 316.2725,
+        "t": 635.6854000000001,
+        "r": 549.8525000000004,
+        "b": 598.0775008403361
+      },
+      "content": "The most common cause for misdiagnosed control failure is poor connections. Therefore, disconnecting, inspecting and reconnecting wires will be necessary throughout test procedures."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0439",
+      "reading_order": 498,
+      "section": "TESTING DISHWASHER COMPONENTS FROM THE CONTROL BOARD",
+      "bbox": {
+        "l": 316.2725,
+        "t": 592.6854000000001,
+        "r": 548.3025000000001,
+        "b": 565.0775008403361
+      },
+      "content": "All tests/checks should be made with a VOM or DVM having a sensitivity of 20,000 ohms-per-volt DC, or greater."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0440",
+      "reading_order": 499,
+      "section": "TESTING DISHWASHER COMPONENTS FROM THE CONTROL BOARD",
+      "bbox": {
+        "l": 316.2725,
+        "t": 559.6854000000001,
+        "r": 548.8024999999999,
+        "b": 532.0775008403361
+      },
+      "content": "Check all connections before replacing components, looking for broken or loose wires, failed terminals, or wires not pressed into connectors far enough."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0441",
+      "reading_order": 500,
+      "section": "TESTING DISHWASHER COMPONENTS FROM THE CONTROL BOARD",
+      "bbox": {
+        "l": 316.2725,
+        "t": 526.6854000000001,
+        "r": 533.7825000000003,
+        "b": 509.07750084033614
+      },
+      "content": "Voltage checks must be made with all connectors attached to the boards."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0442",
+      "reading_order": 501,
+      "section": "TESTING DISHWASHER COMPONENTS FROM THE CONTROL BOARD",
+      "bbox": {
+        "l": 316.2725,
+        "t": 503.6854,
+        "r": 549.6825000000001,
+        "b": 476.07750084033614
+      },
+      "content": "Resistance checks must be made with power cord unplugged or power disconnected, and with wiring harness or connectors disconnected from the control."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0443",
+      "reading_order": 502,
+      "section": "TESTING DISHWASHER COMPONENTS FROM THE CONTROL BOARD",
+      "bbox": {
+        "l": 316.2725,
+        "t": 470.6854,
+        "r": 558.9425000000001,
+        "b": 443.07750084033614
+      },
+      "content": "The testing procedures in this section may require the use of needle probes to measure voltage. Failure to use needle probes will damage the connectors."
+    }
+  ],
+  "page_stats": {
+    "block_count": 30,
+    "text_blocks": 29,
+    "paragraphs": 11,
+    "headings": 12,
+    "list_items": 6,
+    "captions": 0,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 1,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

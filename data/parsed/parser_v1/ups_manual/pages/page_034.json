@@ -1,0 +1,89 @@
+{
+  "page": 34,
+  "document_id": "doc_1032c87b",
+  "page_bbox": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0050",
+      "reading_order": 320,
+      "section": "3.4.3 LBS (Load Bus Synchronization)",
+      "bbox": {
+        "l": 135.63385199818978,
+        "t": 717.9806056417306,
+        "r": 438.4551383483717,
+        "b": 443.0701947622089
+      },
+      "image_path": "figures/figure_0050.png",
+      "next_block_id": "txt_0264",
+      "image_hash": "4cc3c74d7f8852bfb719e8b2030d772742cca45bd2094b85b1077757f2b718cd",
+      "width": 302,
+      "height": 275
+    },
+    {
+      "type": "caption",
+      "id": "txt_0264",
+      "reading_order": 321,
+      "section": "3.4.3 LBS (Load Bus Synchronization)",
+      "bbox": {
+        "l": 118.7,
+        "t": 412.39766291015627,
+        "r": 500.81568,
+        "b": 402.92610136319496
+      },
+      "content": "Figure 3-21: Typical stand-alone dual bus system (STS and LBS cables are used)",
+      "caption_for": "fig_0051"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0051",
+      "reading_order": 322,
+      "section": "3.4.3 LBS (Load Bus Synchronization)",
+      "bbox": {
+        "l": 124.65108066181487,
+        "t": 399.614974212804,
+        "r": 470.58785891546046,
+        "b": 125.67439608596646
+      },
+      "image_path": "figures/figure_0051.png",
+      "previous_block_id": "txt_0264",
+      "next_block_id": "txt_0265",
+      "caption_id": "txt_0265",
+      "caption": ": Typical parallel dual bus system (STS and LBS cables are used)",
+      "figure_number": "Figure 3-22",
+      "image_hash": "9660b1a858218fc760d819c3af8d4758eae629097f0708f23c9ac5fdc0b97044",
+      "width": 346,
+      "height": 274
+    },
+    {
+      "type": "caption",
+      "id": "txt_0265",
+      "reading_order": 323,
+      "section": "3.4.3 LBS (Load Bus Synchronization)",
+      "bbox": {
+        "l": 118.58,
+        "t": 102.03166291015623,
+        "r": 484.85568,
+        "b": 92.56010136319492
+      },
+      "content": "Figure 3-22: Typical parallel dual bus system (STS and LBS cables are used)",
+      "caption_for": "fig_0051"
+    }
+  ],
+  "page_stats": {
+    "block_count": 4,
+    "text_blocks": 2,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 0,
+    "captions": 2,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 2,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

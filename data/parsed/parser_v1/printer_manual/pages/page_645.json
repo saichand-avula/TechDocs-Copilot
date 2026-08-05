@@ -1,0 +1,152 @@
+{
+  "page": 645,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_4817",
+      "reading_order": 6690,
+      "section": "13. Remove the right cover.",
+      "bbox": {
+        "l": 122.0,
+        "t": 732.29,
+        "r": 496.85000000000025,
+        "b": 720.7
+      },
+      "content": "Disconnect one connector (callout 1), and then move the guide out of the way (callout 2)."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_4818",
+      "reading_order": 6691,
+      "section": "13. Remove the right cover.",
+      "bbox": {
+        "l": 122.0,
+        "t": 470.42,
+        "r": 516.2400100000002,
+        "b": 446.83
+      },
+      "content": "Slightly lift up the formatter case (callout 1), rotate the top of the case away from the chassis (callout 2), and then lift up the case to release it (callout 3)."
+    },
+    {
+      "type": "figure",
+      "id": "fig_1830",
+      "reading_order": 6692,
+      "section": "13. Remove the right cover.",
+      "bbox": {
+        "l": 142.94070535346617,
+        "t": 698.5592575073242,
+        "r": 432.3605504174318,
+        "b": 482.070556640625
+      },
+      "image_path": "figures/figure_1830.png",
+      "caption": "Disconnect one connector",
+      "figure_number": "Figure 1-1078",
+      "image_hash": "7fd069a028c993e3181f536ce55e32882aafeddc1d72809787f07e3a59c48737",
+      "width": 289,
+      "height": 217,
+      "previous_block_id": "txt_4818",
+      "next_block_id": "txt_4819",
+      "caption_id": "txt_4819"
+    },
+    {
+      "type": "caption",
+      "id": "txt_4819",
+      "reading_order": 6693,
+      "section": "13. Remove the right cover.",
+      "bbox": {
+        "l": 144.00004,
+        "t": 711.29,
+        "r": 309.3500399999999,
+        "b": 699.7
+      },
+      "content": "Figure 1-1078  Disconnect one connector",
+      "caption_for": "fig_1830"
+    },
+    {
+      "type": "figure",
+      "id": "fig_1831",
+      "reading_order": 6694,
+      "section": "13. Remove the right cover.",
+      "bbox": {
+        "l": 127.93249651599176,
+        "t": 437.1726379394531,
+        "r": 142.37705162968174,
+        "b": 423.9067077636719
+      },
+      "image_path": "figures/figure_1831.png",
+      "decorative": true,
+      "width": 14,
+      "height": 13,
+      "image_hash": "6aa535d73ea5c7f7b9d8f181ec498a090d901095ecb06f8e2d24f178549c38f3",
+      "previous_block_id": "txt_4819",
+      "next_block_id": "txt_4820"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_4820",
+      "reading_order": 6695,
+      "section": "13. Remove the right cover.",
+      "bbox": {
+        "l": 144.0,
+        "t": 434.92,
+        "r": 535.03,
+        "b": 423.33
+      },
+      "content": "CAUTION: Pass the FFC through the opening (callout 4) in the formatter while removing the case.",
+      "severity": "caution"
+    },
+    {
+      "type": "figure",
+      "id": "fig_1832",
+      "reading_order": 6696,
+      "section": "13. Remove the right cover.",
+      "bbox": {
+        "l": 142.88412188307515,
+        "t": 399.6782531738281,
+        "r": 432.68156628934275,
+        "b": 182.56634521484375
+      },
+      "image_path": "figures/figure_1832.png",
+      "caption": "Release the formatter case",
+      "figure_number": "Figure 1-1079",
+      "image_hash": "d681c621d791ec862232efdd2c1c65e91733c4be50ca332bc81d590d097df044",
+      "width": 290,
+      "height": 217,
+      "previous_block_id": "txt_4820",
+      "next_block_id": "txt_4821",
+      "caption_id": "txt_4821"
+    },
+    {
+      "type": "caption",
+      "id": "txt_4821",
+      "reading_order": 6697,
+      "section": "13. Remove the right cover.",
+      "bbox": {
+        "l": 144.0,
+        "t": 412.42,
+        "r": 314.52000999999984,
+        "b": 400.83
+      },
+      "content": "Figure 1-1079  Release the formatter case",
+      "caption_for": "fig_1832"
+    }
+  ],
+  "page_stats": {
+    "block_count": 8,
+    "text_blocks": 5,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 2,
+    "captions": 2,
+    "admonitions": 1,
+    "references": 0,
+    "figures": 3,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

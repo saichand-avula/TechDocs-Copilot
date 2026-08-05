@@ -1,0 +1,146 @@
+{
+  "page": 93,
+  "document_id": "doc_f7e949ab",
+  "page_bbox": {
+    "width": 612.0,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_0876",
+      "reading_order": 1035,
+      "section": "Unit Description",
+      "bbox": {
+        "l": 135.0,
+        "t": 705.8025,
+        "r": 372.7559499999999,
+        "b": 692.24625
+      },
+      "content": "l Temperature unit : measures temperature data."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0877",
+      "reading_order": 1036,
+      "section": "Patient Isolation",
+      "bbox": {
+        "l": 302.25,
+        "t": 689.3895,
+        "r": 368.1044999999997,
+        "b": 679.61325
+      },
+      "content": "Patient Isolation",
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "id": "fig_0119",
+      "reading_order": 1037,
+      "section": "Patient Isolation",
+      "bbox": {
+        "l": 175.742431640625,
+        "t": 675.3019866943359,
+        "r": 489.4952697753906,
+        "b": 442.9116516113281
+      },
+      "image_path": "figures/figure_0119.png",
+      "previous_block_id": "txt_0877",
+      "next_block_id": "txt_0878"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0878",
+      "reading_order": 1038,
+      "section": "Patient Isolation",
+      "bbox": {
+        "l": 210.75,
+        "t": 440.3025,
+        "r": 428.95619999999946,
+        "b": 426.9375
+      },
+      "content": "Figure 23. Temperature Unit Block Diagram"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0879",
+      "reading_order": 1039,
+      "section": "Patient Isolation",
+      "bbox": {
+        "l": 135.0,
+        "t": 413.3025,
+        "r": 538.9114500000002,
+        "b": 386.24625
+      },
+      "content": "l Analog control unit: analog circuit control, PIC16C65  - selection of ECG channels and filter, size adjustment, verification of lead off, QRS, heart rate, etc."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0120",
+      "reading_order": 1040,
+      "section": "Patient Isolation",
+      "bbox": {
+        "l": 155.93899536132812,
+        "t": 381.79681396484375,
+        "r": 515.24609375,
+        "b": 174.29443359375
+      },
+      "image_path": "figures/figure_0120.png",
+      "previous_block_id": "txt_0879",
+      "next_block_id": "txt_0880"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0880",
+      "reading_order": 1041,
+      "section": "Patient Isolation",
+      "bbox": {
+        "l": 204.75,
+        "t": 170.3025,
+        "r": 433.4826999999999,
+        "b": 156.9375
+      },
+      "content": "Figure 24. Analog Control Unit Block Diagram"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0881",
+      "reading_order": 1042,
+      "section": "External Interface",
+      "bbox": {
+        "l": 72.0,
+        "t": 143.3025,
+        "r": 164.0625,
+        "b": 129.9375
+      },
+      "content": "External Interface",
+      "level": 2
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0882",
+      "reading_order": 1043,
+      "section": "External Interface",
+      "bbox": {
+        "l": 135.0,
+        "t": 116.30250000000001,
+        "r": 287.8125,
+        "b": 102.74625000000003
+      },
+      "content": "l TCP/IP : Network connector"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0883",
+      "reading_order": 1044,
+      "section": "External Interface",
+      "bbox": {
+        "l": 135.0,
+        "t": 102.80250000000001,
+        "r": 422.8125,
+        "b": 89.24625000000003
+      },
+      "content": "l Serial I/O : a female 15 pin sub-miniature D shell connector"
+    }
+  ]
+}

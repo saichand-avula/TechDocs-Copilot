@@ -1,0 +1,249 @@
+{
+  "page": 251,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_2131",
+      "reading_order": 2848,
+      "section": "11. Remove the right cover.",
+      "bbox": {
+        "l": 122.0,
+        "t": 732.29,
+        "r": 533.9700000000003,
+        "b": 708.7
+      },
+      "content": "Continue to rotate the front edge of the cover away from the printer (callout 1), and then slide the cover toward the rear of the printer (callout 2) to remove it."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0690",
+      "reading_order": 2849,
+      "section": "11. Remove the right cover.",
+      "bbox": {
+        "l": 127.77154628336743,
+        "t": 698.8185882568359,
+        "r": 140.098522211209,
+        "b": 685.4818878173828
+      },
+      "image_path": "figures/figure_0690.png",
+      "decorative": true,
+      "width": 12,
+      "height": 13,
+      "image_hash": "37ec000655dd6b3ee55008017ca8afed208ae525889d00a2c27078a14c5665a9",
+      "previous_block_id": "txt_2131",
+      "next_block_id": "txt_2132"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_2132",
+      "reading_order": 2850,
+      "section": "11. Remove the right cover.",
+      "bbox": {
+        "l": 144.0,
+        "t": 696.79,
+        "r": 530.5800000000002,
+        "b": 673.2
+      },
+      "content": "NOTE: If the cover is difficult to rotate or slide as shown below, make sure that the bottom tabs (released in the previous step) are completely disengaged from the chassis.",
+      "severity": "note"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0691",
+      "reading_order": 2851,
+      "section": "11. Remove the right cover.",
+      "bbox": {
+        "l": 142.98783282610987,
+        "t": 649.6687316894531,
+        "r": 432.53774361392846,
+        "b": 432.682373046875
+      },
+      "image_path": "figures/figure_0691.png",
+      "caption": "Remove the cover",
+      "figure_number": "Figure 1-374",
+      "image_hash": "ad8f485ca852edd2d46d74a24c4b3ef71884dd69b3fd36fd460426b20694e9c9",
+      "width": 290,
+      "height": 217,
+      "previous_block_id": "txt_2132",
+      "next_block_id": "txt_2133",
+      "caption_id": "txt_2133"
+    },
+    {
+      "type": "caption",
+      "id": "txt_2133",
+      "reading_order": 2852,
+      "section": "11. Remove the right cover.",
+      "bbox": {
+        "l": 144.0,
+        "t": 662.29,
+        "r": 272.8999899999999,
+        "b": 650.7
+      },
+      "content": "Figure 1-374  Remove the cover",
+      "caption_for": "fig_0691"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2134",
+      "reading_order": 2853,
+      "section": "11. Remove the right cover.",
+      "bbox": {
+        "l": 100.0,
+        "t": 421.42,
+        "r": 440.20000000000016,
+        "b": 409.83
+      },
+      "content": "Remove the integrated-scanner assembly (ISA) (M527/E52545/M528/E52645)."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0692",
+      "reading_order": 2854,
+      "section": "11. Remove the right cover.",
+      "bbox": {
+        "l": 105.72447574212678,
+        "t": 400.3396911621094,
+        "r": 118.49861360214996,
+        "b": 386.5038146972656
+      },
+      "image_path": "figures/figure_0692.png",
+      "decorative": true,
+      "width": 12,
+      "height": 13,
+      "image_hash": "7852028aa356400a4cf19d31cda34bfe88989e8992b9a7108b8f6b88881a0802",
+      "previous_block_id": "txt_2134",
+      "next_block_id": "txt_2135"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_2135",
+      "reading_order": 2855,
+      "section": "11. Remove the right cover.",
+      "bbox": {
+        "l": 122.0,
+        "t": 397.92,
+        "r": 526.3500000000001,
+        "b": 374.33
+      },
+      "content": "NOTE: The ISA includes the document feeder, sub-scanner assembly (SSA), and the scanner control board (SCB).",
+      "severity": "note"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0693",
+      "reading_order": 2856,
+      "section": "11. Remove the right cover.",
+      "bbox": {
+        "l": 120.82234879049841,
+        "t": 360.9680480957031,
+        "r": 129.36547671654614,
+        "b": 352.91558837890625
+      },
+      "image_path": "figures/figure_0693.png",
+      "decorative": true,
+      "width": 8,
+      "height": 8,
+      "image_hash": "dcb4e1ceebffdf0e73f77828b9463c2dc896a54cde1dbd7ebad89890fc832574",
+      "previous_block_id": "txt_2135",
+      "next_block_id": "txt_2136"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2136",
+      "reading_order": 2857,
+      "section": "11. Remove the right cover.",
+      "bbox": {
+        "l": 122.0,
+        "t": 363.42,
+        "r": 264.03,
+        "b": 351.83
+      },
+      "content": "Remove one screw (callout 1)."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2137",
+      "reading_order": 2858,
+      "section": "11. Remove the right cover.",
+      "bbox": {
+        "l": 144.0,
+        "t": 339.92,
+        "r": 538.9500000000003,
+        "b": 328.33
+      },
+      "content": "IMPORTANT: This screw fastens the ISA ground plate to the printer chassis. Do not lose this screw."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0694",
+      "reading_order": 2859,
+      "section": "11. Remove the right cover.",
+      "bbox": {
+        "l": 127.60498345853182,
+        "t": 342.52886962890625,
+        "r": 140.0763921261585,
+        "b": 329.1221923828125
+      },
+      "image_path": "figures/figure_0694.png",
+      "decorative": true,
+      "width": 12,
+      "height": 13,
+      "image_hash": "86fba9249a55ce2f56c7db895ea3e31b4ff7d78b9c16af97fa9d1d1746664cf5",
+      "previous_block_id": "txt_2137",
+      "next_block_id": "txt_2138"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0695",
+      "reading_order": 2860,
+      "section": "11. Remove the right cover.",
+      "bbox": {
+        "l": 143.03285557667436,
+        "t": 305.47906494140625,
+        "r": 432.7012713685194,
+        "b": 87.921630859375
+      },
+      "image_path": "figures/figure_0695.png",
+      "caption": "Remove one screw",
+      "figure_number": "Figure 1-375",
+      "image_hash": "f8a53da7ba968f0770c2022bbaef322eaf5e073b1df6d51a1efa0a0c22b627ba",
+      "width": 290,
+      "height": 217,
+      "previous_block_id": "txt_2137",
+      "next_block_id": "txt_2138",
+      "caption_id": "txt_2138"
+    },
+    {
+      "type": "caption",
+      "id": "txt_2138",
+      "reading_order": 2861,
+      "section": "11. Remove the right cover.",
+      "bbox": {
+        "l": 144.0,
+        "t": 317.42,
+        "r": 276.6099899999999,
+        "b": 305.83
+      },
+      "content": "Figure 1-375  Remove one screw",
+      "caption_for": "fig_0695"
+    }
+  ],
+  "page_stats": {
+    "block_count": 14,
+    "text_blocks": 8,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 4,
+    "captions": 2,
+    "admonitions": 2,
+    "references": 0,
+    "figures": 6,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

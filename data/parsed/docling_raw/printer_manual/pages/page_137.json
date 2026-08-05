@@ -1,0 +1,317 @@
+{
+  "page": 137,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_1288",
+      "reading_order": 1656,
+      "section": "Post service test",
+      "bbox": {
+        "l": 122.0,
+        "t": 732.29,
+        "r": 304.4299999999999,
+        "b": 720.7
+      },
+      "content": "Pull down on the assembly to remove it."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1289",
+      "reading_order": 1657,
+      "section": "Post service test",
+      "bbox": {
+        "l": 100.0,
+        "t": 470.42,
+        "r": 262.63999999999993,
+        "b": 458.83
+      },
+      "content": "Unpack the replacement assembly."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1290",
+      "reading_order": 1658,
+      "section": "Post service test",
+      "bbox": {
+        "l": 122.0,
+        "t": 449.42,
+        "r": 261.1099999999999,
+        "b": 437.83
+      },
+      "content": "Dispose of the defective part."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0347",
+      "reading_order": 1659,
+      "section": "Post service test",
+      "bbox": {
+        "l": 142.94651621659796,
+        "t": 698.6914825439453,
+        "r": 432.61555732442304,
+        "b": 482.06341552734375
+      },
+      "image_path": "figures/figure_0347.png",
+      "caption": "Remove the cover",
+      "figure_number": "Figure 1-169",
+      "image_hash": "2d51b7e86843c09253c887569f919623569ade4c8d5723c571d853da1c5d0320",
+      "width": 290,
+      "height": 217,
+      "previous_block_id": "txt_1290",
+      "next_block_id": "txt_1291",
+      "caption_id": "txt_1291"
+    },
+    {
+      "type": "caption",
+      "id": "txt_1291",
+      "reading_order": 1660,
+      "section": "Post service test",
+      "bbox": {
+        "l": 144.00001,
+        "t": 711.29,
+        "r": 272.90000999999995,
+        "b": 699.7
+      },
+      "content": "Figure 1-169  Remove the cover",
+      "caption_for": "fig_0347"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0348",
+      "reading_order": 1661,
+      "section": "Post service test",
+      "bbox": {
+        "l": 127.69119317992943,
+        "t": 428.3660888671875,
+        "r": 140.5047030692826,
+        "b": 414.503173828125
+      },
+      "image_path": "figures/figure_0348.png",
+      "caption": "Remove the cover",
+      "decorative": true,
+      "width": 12,
+      "height": 13,
+      "figure_number": "Figure 1-169",
+      "image_hash": "bb1a709b06a7ddb7612f5cbfc7213504517730b3b9ac3ee0d0139bcf480ccc52",
+      "previous_block_id": "txt_1291",
+      "next_block_id": "txt_1292"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_1292",
+      "reading_order": 1662,
+      "section": "Post service test",
+      "bbox": {
+        "l": 144.0,
+        "t": 425.92,
+        "r": 413.8599999999999,
+        "b": 414.33
+      },
+      "content": "NOTE: HP recommends responsible disposal of the defective part.",
+      "severity": "note"
+    },
+    {
+      "type": "reference",
+      "id": "txt_1293",
+      "reading_order": 1663,
+      "section": "Post service test",
+      "bbox": {
+        "l": 143.99998,
+        "t": 404.92,
+        "r": 467.28998,
+        "b": 393.33
+      },
+      "content": "http://www8.hp.com/us/en/hp-information/environment/product-recycling.html"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1294",
+      "reading_order": 1664,
+      "section": "Post service test",
+      "bbox": {
+        "l": 122.0,
+        "t": 382.42,
+        "r": 342.5199999999998,
+        "b": 370.83
+      },
+      "content": "Unpack the replacement part from the packaging."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0349",
+      "reading_order": 1665,
+      "section": "Post service test",
+      "bbox": {
+        "l": 128.0231520814915,
+        "t": 360.8780822753906,
+        "r": 141.93824757938,
+        "b": 347.63616943359375
+      },
+      "image_path": "figures/figure_0349.png",
+      "decorative": true,
+      "width": 13,
+      "height": 13,
+      "image_hash": "6aa535d73ea5c7f7b9d8f181ec498a090d901095ecb06f8e2d24f178549c38f3",
+      "previous_block_id": "txt_1294",
+      "next_block_id": "txt_1295"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_1295",
+      "reading_order": 1666,
+      "severity": "caution",
+      "content": "CAUTION: Some parts are sensitive to electrostatic discharge (ESD). Always perform service",
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 144.0,
+        "t": 353.53499,
+        "r": 181.75,
+        "b": 341.94499
+      }
+    },
+    {
+      "type": "figure",
+      "id": "fig_0350",
+      "reading_order": 1668,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 191.29317200212515,
+        "t": 357.6687316894531,
+        "r": 210.65501371210428,
+        "b": 336.49530029296875
+      },
+      "image_path": "figures/figure_0350.png",
+      "decorative": true,
+      "width": 19,
+      "height": 21,
+      "image_hash": "1a6bdd4489f37486fa2d2734c370291f729bba90f8a0ee5303dcc1ef660b5628",
+      "previous_block_id": "txt_1296",
+      "next_block_id": "txt_1297"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1297",
+      "reading_order": 1669,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 144.0,
+        "t": 334.92,
+        "r": 549.7700400000001,
+        "b": 299.33
+      },
+      "content": "work at an ESD-protected workstation or mat. If an ESD workstation or mat is not available, touch the sheet-metal chassis to provide a static ground before touching an ESD-sensitive assembly. Protect the ESD-sensitive assemblies by placing them in ESD pouches when they are out of the printer."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1298",
+      "reading_order": 1670,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 144.00004,
+        "t": 289.92,
+        "r": 548.6300400000002,
+        "b": 254.32999999999993
+      },
+      "content": "If the replacement part is a roller or pad, avoid touching the spongy part of it. Skin oils on the roller or pad can cause paper pickup and/or print-quality problems. HP recommends using disposable gloves when handling rollers or pads or washing your hands before touching rollers or pads."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1299",
+      "reading_order": 1671,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 144.0,
+        "t": 244.91999999999996,
+        "r": 541.73,
+        "b": 221.32999999999993
+      },
+      "content": "IMPORTANT: Make sure that all of the shipping materials (for example shipping tape) are removed from the replacement part prior to installation."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1300",
+      "reading_order": 1672,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 122.0,
+        "t": 210.41999999999996,
+        "r": 343.02,
+        "b": 198.83000000000004
+      },
+      "content": "To install an assembly, reverse the removal steps."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1301",
+      "reading_order": 1673,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 144.00002,
+        "t": 189.41999999999996,
+        "r": 551.6100400000003,
+        "b": 153.83000000000004
+      },
+      "content": "When applicable, special installation instructions are provided for an assembly at the end of the removal procedure. Always completely read the removal instructions and follow all special installation instructions."
+    },
+    {
+      "type": "heading",
+      "id": "txt_1302",
+      "reading_order": 1674,
+      "section": "Removal and replacement: Right cover",
+      "bbox": {
+        "l": 54.00004,
+        "t": 140.41999999999996,
+        "r": 208.35003999999998,
+        "b": 128.83000000000004
+      },
+      "content": "Removal and replacement: Right cover",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1303",
+      "reading_order": 1675,
+      "section": "Removal and replacement: Right cover",
+      "bbox": {
+        "l": 100.00005,
+        "t": 120.41999999999996,
+        "r": 293.80004999999994,
+        "b": 108.83000000000004
+      },
+      "content": "Learn how to remove and replace the right cover"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1304",
+      "reading_order": 1676,
+      "section": "Removal and replacement: Right cover",
+      "bbox": {
+        "l": 100.00005999999999,
+        "t": 99.41999999999996,
+        "r": 334.76005999999995,
+        "b": 87.83000000000004
+      },
+      "content": "To view a short video of this procedure, click the link below.",
+      "hyperlink_hint": true
+    }
+  ],
+  "page_stats": {
+    "block_count": 20,
+    "text_blocks": 16,
+    "paragraphs": 5,
+    "headings": 1,
+    "list_items": 6,
+    "captions": 1,
+    "admonitions": 2,
+    "references": 1,
+    "figures": 4,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

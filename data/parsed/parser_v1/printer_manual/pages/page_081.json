@@ -1,0 +1,150 @@
+{
+  "page": 81,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0208",
+      "reading_order": 991,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 127.93330485128305,
+        "t": 731.9247398376465,
+        "r": 139.89752125264218,
+        "b": 718.1362609863281
+      },
+      "image_path": "figures/figure_0208.png",
+      "decorative": true,
+      "width": 11,
+      "height": 13,
+      "image_hash": "78596d107f706ac66b95175dd5da3c7340e7a8313dc4d5205668ef5b2c7e5290",
+      "next_block_id": "txt_0771"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0771",
+      "reading_order": 992,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 144.0,
+        "t": 729.79,
+        "r": 380.03999999999996,
+        "b": 718.2
+      },
+      "content": "NOTE: Replacement retention clips are supplied in the kit."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0772",
+      "reading_order": 993,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 122.0,
+        "t": 462.4503,
+        "r": 500.1000000000002,
+        "b": 450.8603
+      },
+      "content": "Install the replacement clips (callout 1) in the openings (callout 2) in the document feeder ."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0773",
+      "reading_order": 994,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 144.0,
+        "t": 438.95031,
+        "r": 465.31,
+        "b": 427.36030999999997
+      },
+      "content": "NOTE: Make sure that the springs are correctly installed. See the previous step."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0209",
+      "reading_order": 995,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 142.7798313788882,
+        "t": 691.8269348144531,
+        "r": 479.5464672278707,
+        "b": 474.0049133300781
+      },
+      "image_path": "figures/figure_0209.png",
+      "caption": "Check the retention clip spring",
+      "figure_number": "Figure 1-89",
+      "image_hash": "9d1e0d9f15598f1bb59128ce517042b6dd81b870f6db658acb23ae07cd099abc",
+      "width": 337,
+      "height": 218,
+      "previous_block_id": "txt_0773",
+      "next_block_id": "txt_0774",
+      "caption_id": "txt_0774"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0774",
+      "reading_order": 996,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 144.0,
+        "t": 707.29,
+        "r": 316.07999999999987,
+        "b": 695.7
+      },
+      "content": "Figure 1-89  Check the retention clip spring",
+      "caption_for": "fig_0209"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0210",
+      "reading_order": 997,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 143.0872428153305,
+        "t": 399.0106201171875,
+        "r": 432.6963603503345,
+        "b": 186.20745849609375
+      },
+      "image_path": "figures/figure_0210.png",
+      "caption": "Install the retention clip",
+      "figure_number": "Figure 1-90",
+      "image_hash": "4b4684dd2f0d0df7057d43362041d30ac03b4894671688d6cb1cecdc56cf5b9c",
+      "width": 290,
+      "height": 213,
+      "previous_block_id": "txt_0774",
+      "next_block_id": "txt_0775",
+      "caption_id": "txt_0775"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0775",
+      "reading_order": 998,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 144.0,
+        "t": 416.4503,
+        "r": 289.44999999999993,
+        "b": 404.8603
+      },
+      "content": "Figure 1-90  Install the retention clip",
+      "caption_for": "fig_0210"
+    }
+  ],
+  "page_stats": {
+    "block_count": 8,
+    "text_blocks": 5,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 3,
+    "captions": 2,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 3,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

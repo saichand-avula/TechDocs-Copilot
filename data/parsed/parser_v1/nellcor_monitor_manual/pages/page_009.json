@@ -1,0 +1,366 @@
+{
+  "page": 9,
+  "document_id": "doc_f7e949ab",
+  "page_bbox": {
+    "width": 612.0,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0013",
+      "reading_order": 53,
+      "section": "Warnings",
+      "bbox": {
+        "l": 102.74968719482422,
+        "t": 689.1255798339844,
+        "r": 129.33468627929688,
+        "b": 666.7723922729492
+      },
+      "image_path": "figures/figure_0013.png",
+      "next_block_id": "txt_0039",
+      "width": 26,
+      "height": 22,
+      "image_hash": "43da9149e225a8c196e1c84d966a64f328f2a4f30beacdc3ec1f28e1a1f6192c"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0014",
+      "reading_order": 54,
+      "section": "Warnings",
+      "bbox": {
+        "l": 102.72442626953125,
+        "t": 630.1263427734375,
+        "r": 129.26417541503906,
+        "b": 607.40283203125
+      },
+      "image_path": "figures/figure_0014.png",
+      "next_block_id": "txt_0039",
+      "width": 26,
+      "height": 22,
+      "image_hash": "6e965f0028946e4f72bd92040909e85af685e3b9d1feeda56f96af062b3211de"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_0039",
+      "reading_order": 55,
+      "section": "Warnings",
+      "bbox": {
+        "l": 149.249625,
+        "t": 686.3025,
+        "r": 535.7784749999994,
+        "b": 659.4375
+      },
+      "content": "WARNING:  During  the  safety  test,  AC  mains  voltage  will  be  present  on  the applied part terminals. Exercise caution to avoid electrical shock hazard.",
+      "severity": "warning"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_0040",
+      "reading_order": 56,
+      "section": "Warnings",
+      "bbox": {
+        "l": 149.24962499999998,
+        "t": 640.5525,
+        "r": 537.1229624999994,
+        "b": 586.6875
+      },
+      "content": "WARNING: Do not place the N5500 into operation after repair or maintenance has been performed, until all Performance Tests and Safety Tests listed in section 3 of this service manual have been performed. Failure to perform all tests could result in erroneous monitor readings.",
+      "severity": "warning"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0015",
+      "reading_order": 57,
+      "section": "Warnings",
+      "bbox": {
+        "l": 102.52446746826172,
+        "t": 571.4381103515625,
+        "r": 129.2693328857422,
+        "b": 548.3881225585938
+      },
+      "image_path": "figures/figure_0015.png",
+      "previous_block_id": "txt_0040",
+      "next_block_id": "txt_0041",
+      "width": 26,
+      "height": 23,
+      "image_hash": "6201610458a7a5f361e18618f1194488129708ceb0f9b4504d3c3c3a0193ded5"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_0041",
+      "reading_order": 58,
+      "section": "Warnings",
+      "bbox": {
+        "l": 149.24962499999998,
+        "t": 567.8025,
+        "r": 538.312875,
+        "b": 540.9375
+      },
+      "content": "WARNING: High  voltage  is  generated  by  the  LCD  backlight  driver.  Exercise caution when operating monitor with covers open..",
+      "severity": "warning"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0042",
+      "reading_order": 59,
+      "section": "Cautions",
+      "bbox": {
+        "l": 108.75,
+        "t": 514.3665,
+        "r": 167.062425,
+        "b": 497.4375
+      },
+      "content": "Cautions",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0016",
+      "reading_order": 60,
+      "section": "Cautions",
+      "bbox": {
+        "l": 107.39295959472656,
+        "t": 399.0378723144531,
+        "r": 127.57496643066406,
+        "b": 379.0542907714844
+      },
+      "image_path": "figures/figure_0016.png",
+      "previous_block_id": "txt_0042",
+      "next_block_id": "txt_0043",
+      "width": 20,
+      "height": 19,
+      "image_hash": "5976623e0ea95f30d274b13bc46d7297eccd5edb1c41e2d0da6472c40dad17b0"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0017",
+      "reading_order": 61,
+      "section": "Cautions",
+      "bbox": {
+        "l": 107.42451477050781,
+        "t": 344.8146057128906,
+        "r": 127.42569732666016,
+        "b": 324.5274658203125
+      },
+      "image_path": "figures/figure_0017.png",
+      "previous_block_id": "txt_0042",
+      "next_block_id": "txt_0043",
+      "width": 20,
+      "height": 20,
+      "image_hash": "e2ca4eb784b35e2b65055ae4f49ce381aae565a819b9f7c4652fea8e7c4c6fa5"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0018",
+      "reading_order": 62,
+      "section": "Cautions",
+      "bbox": {
+        "l": 107.5484619140625,
+        "t": 303.79681396484375,
+        "r": 127.62145233154297,
+        "b": 284.3087463378906
+      },
+      "image_path": "figures/figure_0018.png",
+      "previous_block_id": "txt_0042",
+      "next_block_id": "txt_0043",
+      "width": 20,
+      "height": 19,
+      "image_hash": "dc71b2683f73dfb9bfdd1c4b85c08ac5597ce67877532e175c9565b7c241ee77"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0019",
+      "reading_order": 63,
+      "section": "Cautions",
+      "bbox": {
+        "l": 107.33709716796875,
+        "t": 250.3909912109375,
+        "r": 127.7387924194336,
+        "b": 230.3800048828125
+      },
+      "image_path": "figures/figure_0019.png",
+      "previous_block_id": "txt_0042",
+      "next_block_id": "txt_0043",
+      "width": 20,
+      "height": 20,
+      "image_hash": "bc862508ba7e24fb78cf62328cb98c1f121047e21df095924e1d9e1eb7c5a5d4"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0020",
+      "reading_order": 64,
+      "section": "Cautions",
+      "bbox": {
+        "l": 107.36506652832031,
+        "t": 197.72509765625,
+        "r": 127.69159698486328,
+        "b": 177.08660888671875
+      },
+      "image_path": "figures/figure_0020.png",
+      "previous_block_id": "txt_0042",
+      "next_block_id": "txt_0043",
+      "width": 20,
+      "height": 20,
+      "image_hash": "c01cf9f223f67f661929f847710fa16b167542383663a1fe968ee95cfcb64eba"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0021",
+      "reading_order": 65,
+      "section": "Cautions",
+      "bbox": {
+        "l": 107.37107849121094,
+        "t": 130.385986328125,
+        "r": 127.5789794921875,
+        "b": 110.505615234375
+      },
+      "image_path": "figures/figure_0021.png",
+      "previous_block_id": "txt_0042",
+      "next_block_id": "txt_0043",
+      "width": 20,
+      "height": 19,
+      "image_hash": "325d0f5d390bf864f8f043ac702977e1c7b8c8da61bfd21596e95ce3abd76aa7"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0022",
+      "reading_order": 66,
+      "section": "Cautions",
+      "bbox": {
+        "l": 290.642822265625,
+        "t": 494.2672119140625,
+        "r": 316.890380859375,
+        "b": 468.14508056640625
+      },
+      "image_path": "figures/figure_0022.png",
+      "previous_block_id": "txt_0042",
+      "next_block_id": "txt_0043",
+      "width": 26,
+      "height": 26,
+      "image_hash": "821c191c9b71ce40dc45c0d09c77ac8c9d26399beeda72c7150070578700fcc6"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0043",
+      "reading_order": 67,
+      "section": "Cautions",
+      "bbox": {
+        "l": 150.75,
+        "t": 462.0525,
+        "r": 451.312875,
+        "b": 448.6875
+      },
+      "content": "Cautions are identified by the Caution symbol shown above."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0044",
+      "reading_order": 68,
+      "section": "Cautions",
+      "bbox": {
+        "l": 150.75112499999997,
+        "t": 438.80325000000005,
+        "r": 539.063775,
+        "b": 411.93825000000004
+      },
+      "content": "Cautions alert the user to exercise care necessary for the safe and effective use of the N5500 monitor."
+    },
+    {
+      "type": "admonition",
+      "id": "txt_0045",
+      "reading_order": 69,
+      "section": "Cautions",
+      "bbox": {
+        "l": 150.75,
+        "t": 398.3025,
+        "r": 539.0707500000001,
+        "b": 357.9375
+      },
+      "content": "CAUTION:  Observe  ESD  (electrostatic  discharge)  precautions  when  working within the unit and/or when disassembling and reassembling the N5500 patient monitor and when handling any of the components of the N5500 patient monitor.",
+      "severity": "caution"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0046",
+      "reading_order": 70,
+      "section": "Cautions",
+      "bbox": {
+        "l": 150.74887499999997,
+        "t": 344.3025,
+        "r": 537.4105875000005,
+        "b": 317.4375
+      },
+      "content": "CAUTION:  When  reassembling  the  N5500,  over-tightening  could  strip  out  the screw holes in the cases, rendering it unusable."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0047",
+      "reading_order": 71,
+      "section": "Cautions",
+      "bbox": {
+        "l": 150.75,
+        "t": 303.8025,
+        "r": 537.059475,
+        "b": 263.4375
+      },
+      "content": "CAUTION:  If  any  problem  with  N5500  built  in  an  optional  printer,  check  a printer 's  door  is  closed  well.  Operating  error  may  be  caused  if  the  cover  is  not closed correctly."
+    },
+    {
+      "type": "admonition",
+      "id": "txt_0048",
+      "reading_order": 72,
+      "section": "Cautions",
+      "bbox": {
+        "l": 150.75,
+        "t": 249.8025,
+        "r": 539.0595000000001,
+        "b": 209.4375
+      },
+      "content": "CAUTION:  If  internal  battery  cable  has  been  disconnected,  pay  particular attention  to  polarity  of  the  cable  before  reattaching.  If  battery  cable  polarity  is reversed, it is likely that circuit damage will occur.",
+      "severity": "caution"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_0049",
+      "reading_order": 73,
+      "section": "Cautions",
+      "bbox": {
+        "l": 150.75000000000017,
+        "t": 195.8025,
+        "r": 538.4560499999999,
+        "b": 141.9375
+      },
+      "content": "CAUTION: Ferrite Cores are used for electromagnetic compatibility. Please do not  remove  Ferrite  Cores  while  disassembling  or  reassembling,  otherwise  the monitor can be affected by electromagnetic interference and measure inaccurate data to be displayed or stored.",
+      "severity": "caution"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_0050",
+      "reading_order": 74,
+      "section": "Cautions",
+      "bbox": {
+        "l": 150.75000000000014,
+        "t": 128.3025,
+        "r": 539.5859999999994,
+        "b": 87.9375
+      },
+      "content": "CAUTION: When reassembling, never forget that one of four screws on the back bracket must be connected to green ground cable of the power inlet. This method is for protecting dormant electrical shock hazards to operator or service engineer.",
+      "severity": "caution"
+    }
+  ],
+  "page_stats": {
+    "block_count": 22,
+    "text_blocks": 12,
+    "paragraphs": 2,
+    "headings": 1,
+    "list_items": 2,
+    "captions": 0,
+    "admonitions": 7,
+    "references": 0,
+    "figures": 10,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

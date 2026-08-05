@@ -1,0 +1,249 @@
+{
+  "page": 103,
+  "document_id": "doc_caa693b1",
+  "page_bbox": {
+    "width": 595.0,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_0585",
+      "reading_order": 775,
+      "section": "1-4. X- and Z-axes Backlash Adjusting Method",
+      "bbox": {
+        "l": 99.3,
+        "t": 755.6546599999999,
+        "r": 256.7512740000001,
+        "b": 746.7829409281768
+      },
+      "content": "Setting Sequence of Backlash"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0586",
+      "reading_order": 776,
+      "section": "1-4. X- and Z-axes Backlash Adjusting Method",
+      "bbox": {
+        "l": 120.540396,
+        "t": 738.674768,
+        "r": 343.46635800000007,
+        "b": 729.8030489281768
+      },
+      "content": "Display the parameter screen as in above 1)."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0587",
+      "reading_order": 777,
+      "section": "1-4. X- and Z-axes Backlash Adjusting Method",
+      "bbox": {
+        "l": 120.540396,
+        "t": 721.694876,
+        "r": 527.3193299999988,
+        "b": 695.7831449281769
+      },
+      "content": "Confirm  the  cursor  is  positioned  at  no.  of  the  axis  to  be  compensated,  key  in  the compensated value and then press INSERT key."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0588",
+      "reading_order": 778,
+      "section": "1-4. X- and Z-axes Backlash Adjusting Method",
+      "bbox": {
+        "l": 120.54039600000002,
+        "t": 670.6950800000001,
+        "r": 300.91843199999994,
+        "b": 661.823360928177
+      },
+      "content": "Ex.  1)    X-axis backlash compensation"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0589",
+      "reading_order": 779,
+      "section": "1-4. X- and Z-axes Backlash Adjusting Method",
+      "bbox": {
+        "l": 163.08331200000003,
+        "t": 653.655068,
+        "r": 328.19688,
+        "b": 644.7833489281769
+      },
+      "content": "If 0.012 of backlash is compensated,"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0590",
+      "reading_order": 780,
+      "section": "1-4. X- and Z-axes Backlash Adjusting Method",
+      "bbox": {
+        "l": 163.08331200000003,
+        "t": 636.6751760000001,
+        "r": 461.3042879999999,
+        "b": 627.8029409281769
+      },
+      "content": "Compensation =          Backlash Value               =  0.012   = 24 mm"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0591",
+      "reading_order": 781,
+      "section": "1-4. X- and Z-axes Backlash Adjusting Method",
+      "bbox": {
+        "l": 163.08303600000002,
+        "t": 619.6947680000001,
+        "r": 416.46779400000025,
+        "b": 610.823048928177
+      },
+      "content": "Compensated Unit (0.0005)       0.0005"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0592",
+      "reading_order": 782,
+      "section": "1-4. X- and Z-axes Backlash Adjusting Method",
+      "bbox": {
+        "l": 120.54012,
+        "t": 585.6748640000001,
+        "r": 300.3600419999999,
+        "b": 576.803144928177
+      },
+      "content": "Ex.  2) Z-axis backlash compensation"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0593",
+      "reading_order": 783,
+      "section": "1-4. X- and Z-axes Backlash Adjusting Method",
+      "bbox": {
+        "l": 163.08303600000002,
+        "t": 568.6949720000001,
+        "r": 328.196604,
+        "b": 559.823252928177
+      },
+      "content": "If 0.015 of backlash is compensated,"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0594",
+      "reading_order": 784,
+      "section": "1-4. X- and Z-axes Backlash Adjusting Method",
+      "bbox": {
+        "l": 163.08303600000002,
+        "t": 551.6549600000001,
+        "r": 461.3042879999999,
+        "b": 542.7829409281768
+      },
+      "content": "Compensation =          Backlash Value               =  0.015   = 15 mm"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0595",
+      "reading_order": 785,
+      "section": "1-4. X- and Z-axes Backlash Adjusting Method",
+      "bbox": {
+        "l": 163.08303600000002,
+        "t": 534.674768,
+        "r": 413.5760220000003,
+        "b": 525.8030489281768
+      },
+      "content": "Compensated Unit (0.001)          0.001"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0596",
+      "reading_order": 786,
+      "section": "1-4. X- and Z-axes Backlash Adjusting Method",
+      "bbox": {
+        "l": 141.84163800000002,
+        "t": 500.65486400000003,
+        "r": 387.47191799999933,
+        "b": 491.7831449281768
+      },
+      "content": "In the above method, input the specific backlash value."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0597",
+      "reading_order": 787,
+      "section": "1-4. X- and Z-axes Backlash Adjusting Method",
+      "bbox": {
+        "l": 120.54012,
+        "t": 483.674972,
+        "r": 317.95816800000034,
+        "b": 474.8032529281768
+      },
+      "content": "Turn OFF and then re-apply the power."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0154",
+      "reading_order": 788,
+      "section": "1-4. X- and Z-axes Backlash Adjusting Method",
+      "bbox": {
+        "l": 224.36619567871094,
+        "t": 450.24664306640625,
+        "r": 340.7447814941406,
+        "b": 419.2663269042969
+      },
+      "image_path": "figures/figure_0154.png",
+      "previous_block_id": "txt_0597",
+      "next_block_id": "txt_0598",
+      "image_hash": "0a44f05b4d27d2ed66e705fb8a2601d129798227c79396085e8354df2bea1588",
+      "width": 117,
+      "height": 31
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0598",
+      "reading_order": 789,
+      "section": "1-4. X- and Z-axes Backlash Adjusting Method",
+      "bbox": {
+        "l": 159.18,
+        "t": 394.27466000000004,
+        "r": 450.29106,
+        "b": 385.4029409281768
+      },
+      "content": "If para. c being not performed, it is impossible to operate properly."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0599",
+      "reading_order": 790,
+      "section": "1-4. X- and Z-axes Backlash Adjusting Method",
+      "bbox": {
+        "l": 99.299646,
+        "t": 357.79476800000003,
+        "r": 208.3984079999999,
+        "b": 348.9230489281768
+      },
+      "content": "Checking Backlash"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0600",
+      "reading_order": 791,
+      "section": "1-4. X- and Z-axes Backlash Adjusting Method",
+      "bbox": {
+        "l": 120.541044,
+        "t": 340.75475600000004,
+        "r": 357.80462400000044,
+        "b": 331.8830369281768
+      },
+      "content": "Check the setting value is proper in the method of 2)."
+    }
+  ],
+  "page_stats": {
+    "block_count": 17,
+    "text_blocks": 16,
+    "paragraphs": 9,
+    "headings": 0,
+    "list_items": 7,
+    "captions": 0,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 1,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

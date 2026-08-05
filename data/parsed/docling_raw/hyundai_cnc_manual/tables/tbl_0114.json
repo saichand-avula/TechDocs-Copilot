@@ -1,0 +1,15 @@
+{
+  "id": "tbl_0114",
+  "page": 224,
+  "section": "9) Overheat alarms",
+  "title": null,
+  "markdown": "|   No. | Message                 | Contents                                                                                                                                                                                                           |\n|-------|-------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n|   700 | OVERHEAT : CONTROL UNIT | Control unit overheat. Check that the fan motor operates normally, and clean the air filer.                                                                                                                        |\n|   701 | OVERHEAT : FAN MOTOR    | The fan motor on the top of the cabinet for the control unit is overheated. Check the operation of the fan motor and replace the motor if necessary.                                                               |\n|   704 | OVERHEAT : SPINDLE      | Spindle overheat in the spindle fluctuation detection. 1. If the cutting load is heavy, relive the cutting condition. 2. Check whether the cutting tool is share. 3. Another possible cause is faulty spindle amp. |",
+  "block_id": "#/tables/113",
+  "reading_order": 1833,
+  "bbox": {
+    "l": 69.78630065917969,
+    "t": 332.63433837890625,
+    "r": 530.9089965820312,
+    "b": 142.7982177734375
+  }
+}

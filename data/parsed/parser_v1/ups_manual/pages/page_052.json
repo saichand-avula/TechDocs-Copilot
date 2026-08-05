@@ -1,0 +1,264 @@
+{
+  "page": 52,
+  "document_id": "doc_1032c87b",
+  "page_bbox": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0473",
+      "reading_order": 578,
+      "section": "4.9.3 Turn Off the Parallel UPS System",
+      "bbox": {
+        "l": 74.664,
+        "t": 723.1959829101563,
+        "r": 302.80600000000004,
+        "b": 712.4328447886094
+      },
+      "content": "4.9.3 Turn Off the Parallel UPS System",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0474",
+      "reading_order": 579,
+      "section": "4.9.3 Turn Off the Parallel UPS System",
+      "bbox": {
+        "l": 77.664,
+        "t": 693.2276629101563,
+        "r": 187.18568,
+        "b": 683.756101363195
+      },
+      "content": "Switch off all loads;"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0475",
+      "reading_order": 580,
+      "section": "4.9.3 Turn Off the Parallel UPS System",
+      "bbox": {
+        "l": 78.864,
+        "t": 664.5476629101563,
+        "r": 541.61566,
+        "b": 590.156101363195
+      },
+      "content": "Click On/Off icon ' ' in main interface, select 'OFF', and then press 'YES' to power off the UPS.  This  operation  can  power  off  the  rectifier  and  inverter,  disconnect  static  switch,  and disconnect  power  supply  of  the  load,  please  operate  carefully.  After  powering  off  the  UPS, disconnect output switch, battery switch, rectifier switch, and bypass switch of UPS1, and REC, INV, OUT, BYP, and BAT indicator lights on panel are off;"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0476",
+      "reading_order": 581,
+      "section": "4.9.3 Turn Off the Parallel UPS System",
+      "bbox": {
+        "l": 77.664,
+        "t": 584.0276629101563,
+        "r": 404.31568,
+        "b": 574.556101363195
+      },
+      "content": "Switch off UPS2, UPS3……UPS N by above sequences in step 2;"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0477",
+      "reading_order": 582,
+      "section": "4.9.3 Turn Off the Parallel UPS System",
+      "bbox": {
+        "l": 78.024,
+        "t": 568.3976629101563,
+        "r": 486.41568,
+        "b": 558.926101363195
+      },
+      "content": "Please take operations in step 2 to exit a stand-alone UPS from the parallel system."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0090",
+      "reading_order": 583,
+      "section": "4.9.3 Turn Off the Parallel UPS System",
+      "bbox": {
+        "l": 176.14378682070358,
+        "t": 678.4071725346391,
+        "r": 200.09251222941367,
+        "b": 656.206050744487
+      },
+      "image_path": "figures/figure_0090.png",
+      "previous_block_id": "txt_0477",
+      "next_block_id": "txt_0478",
+      "width": 23,
+      "height": 22,
+      "image_hash": "2b74b264e66fc0ecc8d7b7e1cda94e4e4a4255f288e2f13c4e68fe2b5fe412ec"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0478",
+      "reading_order": 584,
+      "section": "4.9.4 Operating of Maintenance Mode of Parallel UPS system",
+      "bbox": {
+        "l": 74.664,
+        "t": 541.1259829101563,
+        "r": 429.43600000000004,
+        "b": 530.3628447886093
+      },
+      "content": "4.9.4 Operating of Maintenance Mode of Parallel UPS system",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0479",
+      "reading_order": 585,
+      "section": "4.9.4 Operating of Maintenance Mode of Parallel UPS system",
+      "bbox": {
+        "l": 78.024,
+        "t": 511.27766291015627,
+        "r": 484.59568,
+        "b": 501.80610136319495
+      },
+      "content": "Set manual bypass 'BYP' of UPS1, UPS2, UPS3……UPS N as 'ON' by sequence;"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0480",
+      "reading_order": 586,
+      "section": "4.9.4 Operating of Maintenance Mode of Parallel UPS system",
+      "bbox": {
+        "l": 78.024,
+        "t": 482.5976629101563,
+        "r": 541.59648,
+        "b": 439.406101363195
+      },
+      "content": "Switch on maintenance switch of the UPS needing maintenance, click On/Off icon ' ' in main interface, select 'OFF'; and then press 'YES'. Disconnect output switch, battery switch, rectifier switch, and bypass switch of the UPS;"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0481",
+      "reading_order": 587,
+      "section": "4.9.4 Operating of Maintenance Mode of Parallel UPS system",
+      "bbox": {
+        "l": 78.024,
+        "t": 433.27766291015627,
+        "r": 541.4101599999996,
+        "b": 408.206101363195
+      },
+      "content": "It  can  start  maintenance  after  the  UPS  is  under  full  power  down  condition  and  electrolytic capacitor is discharged completely (The bus voltage is less than 36V);"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0482",
+      "reading_order": 588,
+      "section": "4.9.4 Operating of Maintenance Mode of Parallel UPS system",
+      "bbox": {
+        "l": 78.024,
+        "t": 402.0576629101563,
+        "r": 541.61472,
+        "b": 330.186101363195
+      },
+      "content": "After finishing maintenance, carefully check whether there is any object left in the UPS cabinet, and recover internal wiring of UPS to status before maintenance. Switch on rectifier switch and bypass switch, press 'ON', the fan start run. At that time, the UPS is operating under bypass mode.  About  15  s  later,  green  INV  indicator  light  is  flashing  continually,  which  means  that operations of powering on the UPS has been finished;"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0483",
+      "reading_order": 589,
+      "section": "4.9.4 Operating of Maintenance Mode of Parallel UPS system",
+      "bbox": {
+        "l": 78.024,
+        "t": 324.0576629101563,
+        "r": 541.4977599999997,
+        "b": 298.98610136319496
+      },
+      "content": "Ensure  all  UPSs  in  parallel  system  are  under  bypass  mode,  switch  on  output  switch  of  the maintained UPS, and then disconnect its maintenance switch;"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0484",
+      "reading_order": 590,
+      "section": "4.9.4 Operating of Maintenance Mode of Parallel UPS system",
+      "bbox": {
+        "l": 80.664,
+        "t": 292.85766291015625,
+        "r": 541.61568,
+        "b": 236.58610136319498
+      },
+      "content": "Switch  on  battery  switch  of  the  UPS,  and  set  'manual  bypass'  of  UPS1,  UPS2  and UPS3……UPS N as 'off' by sequence. At that time, REC, INV, OUT, STATUS indicator lights of all UPSs are green, BYP and BAT indicator lights are off, and all UPSs in parallel system are switched to main power supply mode."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0485",
+      "reading_order": 591,
+      "section": "4.9.4 Operating of Maintenance Mode of Parallel UPS system",
+      "bbox": {
+        "l": 80.664,
+        "t": 230.45766291015627,
+        "r": 333.24568,
+        "b": 220.98610136319496
+      },
+      "content": "View the load and load equal-division of each UPS."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0091",
+      "reading_order": 592,
+      "section": "4.9.4 Operating of Maintenance Mode of Parallel UPS system",
+      "bbox": {
+        "l": 473.21588901401884,
+        "t": 496.79250592119865,
+        "r": 498.8816323563895,
+        "b": 474.85962340777024
+      },
+      "image_path": "figures/figure_0091.png",
+      "previous_block_id": "txt_0485",
+      "next_block_id": "txt_0486",
+      "width": 25,
+      "height": 21,
+      "image_hash": "c935860d27a760db8cb6b4ff1201699335f6a58aa6c1783327ca6d96701680c3"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0092",
+      "reading_order": 593,
+      "section": "4.9.4 Operating of Maintenance Mode of Parallel UPS system",
+      "bbox": {
+        "l": 80.26632127334528,
+        "t": 213.65413253031443,
+        "r": 101.04290849174757,
+        "b": 194.47785448095362
+      },
+      "image_path": "figures/figure_0092.png",
+      "previous_block_id": "txt_0485",
+      "next_block_id": "txt_0486",
+      "width": 20,
+      "height": 19,
+      "image_hash": "0da4ed8db33ad60301b3fbfbc7aa63f8d0b056309a11c7c41724799858b69fb9"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_0486",
+      "reading_order": 594,
+      "section": "4.9.4 Operating of Maintenance Mode of Parallel UPS system",
+      "bbox": {
+        "l": 84.984,
+        "t": 201.86766291015624,
+        "r": 541.6224,
+        "b": 142.956101363195
+      },
+      "content": "Note: If parallel line is disconnected when parallel system is under maintenance mode, other UPSs in parallel system may under power down condition, and it is suggested to switch other UPSs in parallel system to maintenance bypass mode if it needs to disconnect the parallel line for maintenance.",
+      "severity": "note"
+    }
+  ],
+  "page_stats": {
+    "block_count": 17,
+    "text_blocks": 14,
+    "paragraphs": 0,
+    "headings": 2,
+    "list_items": 11,
+    "captions": 0,
+    "admonitions": 1,
+    "references": 0,
+    "figures": 3,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

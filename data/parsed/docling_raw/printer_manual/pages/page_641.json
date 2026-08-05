@@ -1,0 +1,167 @@
+{
+  "page": 641,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_1820",
+      "reading_order": 6662,
+      "section": "13. Remove the right cover.",
+      "bbox": {
+        "l": 142.91735513967407,
+        "t": 719.508903503418,
+        "r": 432.66951751801963,
+        "b": 502.76910400390625
+      },
+      "image_path": "figures/figure_1820.png",
+      "caption": "Release two tabs",
+      "figure_number": "Figure 1-1070",
+      "image_hash": "75a7b4fc57c88d31d865929b900dd204b150f5027d0d590f895af3138759b948",
+      "width": 290,
+      "height": 217,
+      "previous_block_id": "txt_4798",
+      "next_block_id": "txt_4799",
+      "caption_id": "txt_4799"
+    },
+    {
+      "type": "caption",
+      "id": "txt_4799",
+      "reading_order": 6663,
+      "section": "13. Remove the right cover.",
+      "bbox": {
+        "l": 144.0,
+        "t": 732.29,
+        "r": 274.77000999999996,
+        "b": 720.7
+      },
+      "content": "Figure 1-1070  Release two tabs",
+      "caption_for": "fig_1820"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_4800",
+      "reading_order": 6664,
+      "section": "13. Remove the right cover.",
+      "bbox": {
+        "l": 122.0,
+        "t": 491.41999999999996,
+        "r": 208.86999999999998,
+        "b": 479.83000000000004
+      },
+      "content": "Remove the bin."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_4801",
+      "reading_order": 6665,
+      "section": "13. Remove the right cover.",
+      "bbox": {
+        "l": 100.0,
+        "t": 229.54999999999995,
+        "r": 233.88999999999993,
+        "b": 217.96000000000004
+      },
+      "content": "Remove the formatter case."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_4802",
+      "reading_order": 6666,
+      "section": "13. Remove the right cover.",
+      "bbox": {
+        "l": 121.99998,
+        "t": 208.54999999999995,
+        "r": 551.4899500000004,
+        "b": 184.96000000000004
+      },
+      "content": "M506/E50045/M507/E50145 only: Remove two screws (callout 1), and then remove the sheet-metal plate (callout 2)."
+    },
+    {
+      "type": "figure",
+      "id": "fig_1821",
+      "reading_order": 6667,
+      "section": "13. Remove the right cover.",
+      "bbox": {
+        "l": 142.88296276077065,
+        "t": 458.0323486328125,
+        "r": 432.5541848487213,
+        "b": 240.5450439453125
+      },
+      "image_path": "figures/figure_1821.png",
+      "caption": "Remove he bin",
+      "figure_number": "Figure 1-1071",
+      "image_hash": "ee2ac5ba4b59e19a6b0a0b4f251eb43ce56025a7ca44552dd47649a1360f2b0c",
+      "width": 290,
+      "height": 217,
+      "previous_block_id": "txt_4802",
+      "next_block_id": "txt_4803",
+      "caption_id": "txt_4803"
+    },
+    {
+      "type": "caption",
+      "id": "txt_4803",
+      "reading_order": 6668,
+      "section": "13. Remove the right cover.",
+      "bbox": {
+        "l": 143.99999,
+        "t": 470.42,
+        "r": 265.45998999999995,
+        "b": 458.83
+      },
+      "content": "Figure 1-1071  Remove he bin",
+      "caption_for": "fig_1821"
+    },
+    {
+      "type": "figure",
+      "id": "fig_1822",
+      "reading_order": 6669,
+      "section": "13. Remove the right cover.",
+      "bbox": {
+        "l": 127.90515038057099,
+        "t": 175.1920166015625,
+        "r": 140.43633010492607,
+        "b": 161.860595703125
+      },
+      "image_path": "figures/figure_1822.png",
+      "caption": "Remove he bin",
+      "decorative": true,
+      "width": 12,
+      "height": 13,
+      "figure_number": "Figure 1-1071",
+      "image_hash": "d2271c32088cc96ef0d678059ea649af24a9049dd9705866124537fe9ecf1685",
+      "previous_block_id": "txt_4803",
+      "next_block_id": "txt_4804"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_4804",
+      "reading_order": 6670,
+      "section": "13. Remove the right cover.",
+      "bbox": {
+        "l": 144.0,
+        "t": 173.05000999999993,
+        "r": 541.8400000000001,
+        "b": 149.46001
+      },
+      "content": "NOTE: M507/E50145 only: The M507/E50145 sheet-metal plate includes a separate black plastic cable guide (not shown). Do not lose the guide when removing the plate.",
+      "severity": "note"
+    }
+  ],
+  "page_stats": {
+    "block_count": 9,
+    "text_blocks": 6,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 3,
+    "captions": 2,
+    "admonitions": 1,
+    "references": 0,
+    "figures": 3,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

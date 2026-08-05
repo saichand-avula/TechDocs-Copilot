@@ -1,0 +1,78 @@
+{
+  "page": 186,
+  "document_id": "doc_caa693b1",
+  "page_bbox": {
+    "width": 595.0,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "paragraph",
+      "id": "txt_1268",
+      "reading_order": 1708,
+      "section": "Note",
+      "bbox": {
+        "l": 70.92,
+        "t": 755.71466,
+        "r": 327.0863100000001,
+        "b": 746.8429409281769
+      },
+      "content": "Maintenance Instruction Related To Fanuc Spindle Alarm"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1269",
+      "reading_order": 1709,
+      "section": "Note",
+      "bbox": {
+        "l": 70.92,
+        "t": 721.694756,
+        "r": 527.3420219999998,
+        "b": 678.8031329281769
+      },
+      "content": "When a serial spindle alarm occurs, the following number is displayed on the CNC. n is a number corresponding to the spindle on which an alarm occurs. (n = 1 : First spindle:  n = 2 : Second spindle; etc.)"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_1270",
+      "reading_order": 1710,
+      "severity": "note",
+      "content": "NOTE: Note that the meanings of the SPM indications differ depending on which LED, the red or yellow LED, is on. When the red LED is on, the SPM indicates a 2-digit alarm number. When the yellow LED is on, the SOM indicates an error number that designates a sequence problem (for emergency stop state not released).",
+      "section": "Note",
+      "bbox": {
+        "l": 70.92,
+        "t": 656.07794,
+        "r": 105.90355199999999,
+        "b": 643.7000325524862
+      }
+    },
+    {
+      "type": "table",
+      "id": "tbl_0070",
+      "reading_order": 1712,
+      "section": "Note",
+      "bbox": {
+        "l": 64.34065246582031,
+        "t": 506.67266845703125,
+        "r": 525.2288818359375,
+        "b": 180.0556640625
+      },
+      "markdown": "| SPM indication (*1)   | Faulty location and remedy                                                                                   | Description                                                                                                                                                                                                             |\n|-----------------------|--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| A0 A                  | 1 Replace the ROM on the SPM control printed circuit board. 2 Replace the SPM control printed circuit board. | The program does not start normally. ROM series error or hardware abnormality on the SPM control printed circuit board.                                                                                                 |\n| A1                    | Replace the SPM control printed circuit board.                                                               | An abnormality was detected in the CPU peripheral circuit of the SPM control circuit.                                                                                                                                   |\n| 01                    | 1 Check and correct the peripheral temperature and load status. 2 If the cooling fan stops, replace it.      | The thermostat embedded in the motor winding operated. The internally temperature of the motor exceeds the specified level. The motor is used in excess of the continuous rating, or the cooling component is abnormal. |\n| 02                    | 1 Check and correct the cutting conditions to decrease the load. 2 Correct parameter No.4082.                | The motor speed cannot follow a specified speed. An excessive motor load torque is detected. The acceleration/deceleration time in parameter No.4082 is insufficient.                                                   |",
+      "rows": 5,
+      "cols": 3
+    }
+  ],
+  "page_stats": {
+    "block_count": 4,
+    "text_blocks": 3,
+    "paragraphs": 2,
+    "headings": 0,
+    "list_items": 0,
+    "captions": 0,
+    "admonitions": 1,
+    "references": 0,
+    "figures": 0,
+    "tables": 1,
+    "toc_tables": 0
+  }
+}

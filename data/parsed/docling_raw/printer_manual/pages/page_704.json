@@ -1,0 +1,158 @@
+{
+  "page": 704,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_2014",
+      "reading_order": 7440,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 133.56172823299568,
+        "t": 719.3703079223633,
+        "r": 332.5935210237953,
+        "b": 501.7602844238281
+      },
+      "image_path": "figures/figure_2014.png",
+      "caption": "TPM location (M507/E50145/M528/E52645)",
+      "figure_number": "Figure 1-1169",
+      "image_hash": "ec6142d56ca03153ed8b9f09f2f9fdfa7d68fdd1f6d110621a774365334ed731",
+      "width": 199,
+      "height": 217,
+      "previous_block_id": "txt_5376",
+      "next_block_id": "txt_5377",
+      "caption_id": "txt_5377"
+    },
+    {
+      "type": "figure",
+      "id": "fig_2015",
+      "reading_order": 7441,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 342.930360212847,
+        "t": 719.7429580688477,
+        "r": 549.3312425513228,
+        "b": 502.0995178222656
+      },
+      "image_path": "figures/figure_2015.png",
+      "caption": "TPM location (M507/E50145/M528/E52645)",
+      "figure_number": "Figure 1-1169",
+      "image_hash": "61e80e9f7e4ed74ff9a22812114642c8c3d1d81dfdcd2e797e0706d63855e60c",
+      "width": 206,
+      "height": 218,
+      "previous_block_id": "txt_5376",
+      "next_block_id": "txt_5377"
+    },
+    {
+      "type": "caption",
+      "id": "txt_5377",
+      "reading_order": 7442,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 135.0,
+        "t": 732.29,
+        "r": 375.89001000000013,
+        "b": 720.7
+      },
+      "content": "Figure 1-1169  TPM location (M507/E50145/M528/E52645)",
+      "caption_for": "fig_2014"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_5378",
+      "reading_order": 7443,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 113.0,
+        "t": 490.7661,
+        "r": 530.9800000000004,
+        "b": 467.17609999999996
+      },
+      "content": "M507/E50145 only: Align the connector on the TPM (callout 1) with the connector on the formatter (callout 2)."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_5379",
+      "reading_order": 7444,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 135.0,
+        "t": 455.2661,
+        "r": 420.57999999999987,
+        "b": 443.67609999999996
+      },
+      "content": "NOTE: The TPM can only be installed in one direction on the formatter."
+    },
+    {
+      "type": "figure",
+      "id": "fig_2016",
+      "reading_order": 7445,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 118.7998710142519,
+        "t": 457.3150634765625,
+        "r": 131.86356830206708,
+        "b": 444.150146484375
+      },
+      "image_path": "figures/figure_2016.png",
+      "decorative": true,
+      "width": 13,
+      "height": 13,
+      "image_hash": "09f0b4bd94a5f9d8687879701d0025f653c2db0d6c02a67c7d610b1cf011e18a",
+      "previous_block_id": "txt_5379",
+      "next_block_id": "txt_5380"
+    },
+    {
+      "type": "figure",
+      "id": "fig_2017",
+      "reading_order": 7446,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 133.62596801124013,
+        "t": 420.7024841308594,
+        "r": 424.0878335237378,
+        "b": 203.30645751953125
+      },
+      "image_path": "figures/figure_2017.png",
+      "caption": "Align the connectors (M507/E50145)",
+      "figure_number": "Figure 1-1170",
+      "image_hash": "c4f71b7ad007988b95525e78135a6d4dd459d8d9da5834ff8cb832b6e3a66297",
+      "width": 290,
+      "height": 218,
+      "previous_block_id": "txt_5379",
+      "next_block_id": "txt_5380",
+      "caption_id": "txt_5380"
+    },
+    {
+      "type": "caption",
+      "id": "txt_5380",
+      "reading_order": 7447,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 135.0,
+        "t": 432.7661,
+        "r": 344.65001,
+        "b": 421.17609999999996
+      },
+      "content": "Figure 1-1170  Align the connectors (M507/E50145)",
+      "caption_for": "fig_2017"
+    }
+  ],
+  "page_stats": {
+    "block_count": 8,
+    "text_blocks": 4,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 2,
+    "captions": 2,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 4,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

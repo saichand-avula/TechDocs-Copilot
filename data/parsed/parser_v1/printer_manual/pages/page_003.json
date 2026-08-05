@@ -1,0 +1,81 @@
+{
+  "page": 3,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0007",
+      "reading_order": 8,
+      "section": "Service Manual: Repair",
+      "bbox": {
+        "l": 53.35556642450471,
+        "t": 539.1165771484375,
+        "r": 108.82478474547085,
+        "b": 483.3887939453125
+      },
+      "image_path": "figures/figure_0007.png",
+      "image_hash": "599a971f8b7e3d575085432e9d8549c92c38a23cf79b892c312c9a4b753edc06",
+      "width": 56,
+      "height": 56,
+      "next_block_id": "txt_0003"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0003",
+      "reading_order": 9,
+      "section": "SUMMARY",
+      "bbox": {
+        "l": 54.00000000000006,
+        "t": 198.28999999999996,
+        "r": 94.61000000000006,
+        "b": 186.70000000000005
+      },
+      "content": "SUMMARY",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0004",
+      "reading_order": 10,
+      "section": "SUMMARY",
+      "bbox": {
+        "l": 54.00000000000006,
+        "t": 176.28999999999996,
+        "r": 535.1101000000002,
+        "b": 128.70000000000005
+      },
+      "content": "Learn how to remove and replace supported service parts on the printer. Parts are either customer-self repair (CSR) replaceable, or field replaceable units (FRUs) which require installation by a trained field-service technician. Use the provided parts diagrams and tables to identify the required part. For printer theory and troubleshooting information, see the Troubleshooting Manual ."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0005",
+      "reading_order": 11,
+      "section": "SUMMARY",
+      "bbox": {
+        "l": 147.95399,
+        "t": 538.838,
+        "r": 541.0939900000001,
+        "b": 417.34000000000003
+      },
+      "content": "HP LaserJet Pro M501; HP LaserJet Enterprise M506, M507 and MFP M527, MFP M528; HP LaserJet Managed E50045 and MFP E52545; HP LaserJet Managed E50145 and MFP E52645 - Service Manual: Repair"
+    }
+  ],
+  "page_stats": {
+    "block_count": 4,
+    "text_blocks": 3,
+    "paragraphs": 2,
+    "headings": 1,
+    "list_items": 0,
+    "captions": 0,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 1,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

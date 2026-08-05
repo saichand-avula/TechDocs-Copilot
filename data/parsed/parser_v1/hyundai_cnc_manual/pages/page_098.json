@@ -1,0 +1,141 @@
+{
+  "page": 98,
+  "document_id": "doc_caa693b1",
+  "page_bbox": {
+    "width": 595.0,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_0559",
+      "reading_order": 738,
+      "section": "1-3-2. Reference Point Adjusting Method 2",
+      "bbox": {
+        "l": 106.38,
+        "t": 755.71466,
+        "r": 157.701438,
+        "b": 746.8429409281769
+      },
+      "content": "Z-axis"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0144",
+      "reading_order": 739,
+      "section": "1-3-2. Reference Point Adjusting Method 2",
+      "bbox": {
+        "l": 69.87643432617188,
+        "t": 734.5627365112305,
+        "r": 532.7373657226562,
+        "b": 442.7800598144531
+      },
+      "image_path": "figures/figure_0144.png",
+      "previous_block_id": "txt_0559",
+      "next_block_id": "txt_0560",
+      "image_hash": "aa18e18501a03da956b0160a8b81e28a865512edc26cbb1ecf9f3825f5aef9c4",
+      "width": 463,
+      "height": 292
+    },
+    {
+      "type": "caption",
+      "id": "txt_0560",
+      "reading_order": 740,
+      "section": "1-3-2. Reference Point Adjusting Method 2",
+      "bbox": {
+        "l": 230.75926199999998,
+        "t": 415.6959800000002,
+        "r": 367.5112200000005,
+        "b": 406.82426092817695
+      },
+      "content": "Tab le 5-1. Chuck Dimensions",
+      "caption_for": "tbl_0038"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0561",
+      "reading_order": 741,
+      "section": "1-3-2. Reference Point Adjusting Method 2",
+      "bbox": {
+        "l": 493.439574,
+        "t": 738.6746479999999,
+        "r": 527.387334,
+        "b": 729.8029289281768
+      },
+      "content": "mm(in)"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0562",
+      "reading_order": 742,
+      "section": "1-3-2. Reference Point Adjusting Method 2",
+      "bbox": {
+        "l": 490.618944,
+        "t": 398.7160880000002,
+        "r": 527.352264,
+        "b": 389.84436892817695
+      },
+      "content": "mm (in)"
+    },
+    {
+      "type": "table",
+      "id": "tbl_0038",
+      "reading_order": 743,
+      "section": "1-3-2. Reference Point Adjusting Method 2",
+      "bbox": {
+        "l": 69.43990325927734,
+        "t": 369.4298400878906,
+        "r": 535.5921630859375,
+        "b": 205.32257080078125
+      },
+      "markdown": "| Type   | Type   |\n|--------|--------|\n|        | Chuck  |",
+      "caption_id": "txt_0560",
+      "rows": 2,
+      "cols": 2
+    },
+    {
+      "type": "figure",
+      "id": "fig_0145",
+      "reading_order": 744,
+      "section": "1-3-2. Reference Point Adjusting Method 2",
+      "bbox": {
+        "l": 224.34219360351562,
+        "t": 178.054443359375,
+        "r": 340.9920349121094,
+        "b": 147.061767578125
+      },
+      "image_path": "figures/figure_0145.png",
+      "previous_block_id": "txt_0562",
+      "next_block_id": "txt_0563",
+      "image_hash": "0a44f05b4d27d2ed66e705fb8a2601d129798227c79396085e8354df2bea1588",
+      "width": 117,
+      "height": 31
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0563",
+      "reading_order": 745,
+      "section": "1-3-2. Reference Point Adjusting Method 2",
+      "bbox": {
+        "l": 76.32,
+        "t": 122.35465999999997,
+        "r": 526.605773999999,
+        "b": 96.4429289281768
+      },
+      "content": "For SKT100/200, the reference point of Z-axis is different in diameter as shown in the above table, so adjust it after checking the specification of Chuck."
+    }
+  ],
+  "page_stats": {
+    "block_count": 8,
+    "text_blocks": 5,
+    "paragraphs": 3,
+    "headings": 0,
+    "list_items": 1,
+    "captions": 1,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 2,
+    "tables": 1,
+    "toc_tables": 0
+  }
+}

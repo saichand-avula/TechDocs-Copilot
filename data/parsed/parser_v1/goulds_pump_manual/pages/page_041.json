@@ -1,0 +1,55 @@
+{
+  "page": 41,
+  "document_id": "doc_b0587846",
+  "page_bbox": {
+    "width": 612.0,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0578",
+      "reading_order": 664,
+      "section": "Example: Discharge piping equipment",
+      "bbox": {
+        "l": 54.0,
+        "t": 743.64184,
+        "r": 219.00000000000003,
+        "b": 732.40184
+      },
+      "content": "Example: Discharge piping equipment",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0052",
+      "reading_order": 665,
+      "section": "Example: Discharge piping equipment",
+      "bbox": {
+        "l": 142.90252685546875,
+        "t": 724.5683517456055,
+        "r": 558.8262329101562,
+        "b": 444.3134460449219
+      },
+      "image_path": "figures/figure_0052.png",
+      "previous_block_id": "txt_0578",
+      "image_hash": "b10ec1f54445d56c8eabe74c0add50120f3388f85a449eb48dd22869846d2b6c",
+      "width": 416,
+      "height": 281
+    }
+  ],
+  "page_stats": {
+    "block_count": 2,
+    "text_blocks": 1,
+    "paragraphs": 0,
+    "headings": 1,
+    "list_items": 0,
+    "captions": 0,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 1,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

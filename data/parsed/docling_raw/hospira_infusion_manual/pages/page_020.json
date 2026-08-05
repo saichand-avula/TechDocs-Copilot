@@ -1,0 +1,64 @@
+{
+  "page": 20,
+  "document_id": "doc_37f23c38",
+  "page_bbox": {
+    "width": 612.0,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "table",
+      "id": "tbl_0009",
+      "reading_order": 114,
+      "section": "1.9 BIOMED SETTINGS",
+      "bbox": {
+        "l": 70.75035095214844,
+        "t": 739.2338752746582,
+        "r": 507.8563537597656,
+        "b": 502.56982421875
+      },
+      "markdown": "| Table 1-2. System Configuration Data          | Table 1-2. System Configuration Data           | Table 1-2. System Configuration Data   |\n|-----------------------------------------------|------------------------------------------------|----------------------------------------|\n| Data                                          | Options Range                                  | Factory Setting                        |\n| Maximum macro IV mode delivery rate           | 0.1 - 99.9 mL/hr and 100 - 999 mL/hr           | 999 mL/hr                              |\n| Macro distal occlusion alarm (pressure level) | 1 to 15 psi                                    | 6 psi                                  |\n| Deliver together enable                       | Concurrent or Piggyback                        | Piggyback                              |\n| Delayed start/standby enable                  | Yes or No                                      | Yes                                    |\n| Continue rate                                 | Rate or KVO                                    | KVO                                    |\n| Nurse callback default                        | Yes or No                                      | No                                     |\n| Time                                          | (24 hr) 00:00 - 23:59 in one minute increments | Factory time                           |\n| Date                                          | 1/1/2002 - 12/31/2098                          | Factory date                           |"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0010",
+      "reading_order": 115,
+      "section": "1.9 BIOMED SETTINGS",
+      "bbox": {
+        "l": 176.5567169189453,
+        "t": 390.0960693359375,
+        "r": 412.0666198730469,
+        "b": 169.90997314453125
+      },
+      "image_path": "figures/figure_0010.png",
+      "previous_block_id": "txt_0097",
+      "next_block_id": "txt_0098"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0098",
+      "reading_order": 116,
+      "section": "1.9 BIOMED SETTINGS",
+      "bbox": {
+        "l": 384.92178,
+        "t": 171.01831249999998,
+        "r": 412.2137775999999,
+        "b": 165.71112500000004
+      },
+      "content": "05K03002"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0099",
+      "reading_order": 117,
+      "section": "1.9 BIOMED SETTINGS",
+      "bbox": {
+        "l": 215.58,
+        "t": 148.45128718,
+        "r": 360.19386719450057,
+        "b": 139.23827792999998
+      },
+      "content": "Figure 1-2. Biomed Settings"
+    }
+  ]
+}

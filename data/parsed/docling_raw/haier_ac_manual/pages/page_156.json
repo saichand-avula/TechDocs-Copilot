@@ -1,0 +1,97 @@
+{
+  "page": 156,
+  "document_id": "doc_229deb31",
+  "page_bbox": {
+    "width": 595.219970703125,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_1285",
+      "reading_order": 1695,
+      "section": "FOR18K",
+      "bbox": {
+        "l": 23.3958,
+        "t": 787.2759560000001,
+        "r": 77.674183,
+        "b": 774.3665900000001
+      },
+      "content": "FOR18K",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "id": "txt_1286",
+      "reading_order": 1696,
+      "section": "module board Circuit    Diagrams",
+      "bbox": {
+        "l": 18.3697,
+        "t": 759.1048427999999,
+        "r": 235.20052351999996,
+        "b": 745.2534569999999
+      },
+      "content": "module board Circuit    Diagrams",
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "id": "fig_0323",
+      "reading_order": 1697,
+      "section": "module board Circuit    Diagrams",
+      "bbox": {
+        "l": 26.042463127058,
+        "t": 742.110221862793,
+        "r": 504.15659301493844,
+        "b": 497.9208679199219
+      },
+      "image_path": "figures/figure_0323.png",
+      "previous_block_id": "txt_1286",
+      "next_block_id": "txt_1287"
+    },
+    {
+      "type": "heading",
+      "id": "txt_1287",
+      "reading_order": 1698,
+      "section": "control board Circuit    Diagrams",
+      "bbox": {
+        "l": 18.3697,
+        "t": 482.7955428,
+        "r": 242.70802314,
+        "b": 468.944157
+      },
+      "content": "control board Circuit    Diagrams",
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "id": "fig_0324",
+      "reading_order": 1699,
+      "section": "control board Circuit    Diagrams",
+      "bbox": {
+        "l": 17.561547606890755,
+        "t": 470.8287048339844,
+        "r": 566.3872937560081,
+        "b": 106.52996826171875
+      },
+      "image_path": "figures/figure_0324.png",
+      "previous_block_id": "txt_1287",
+      "next_block_id": "txt_1288"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0325",
+      "reading_order": 1700,
+      "section": "control board Circuit    Diagrams",
+      "bbox": {
+        "l": 47.13338550669806,
+        "t": 39.01116943359375,
+        "r": 81.57586267377648,
+        "b": 28.172607421875
+      },
+      "image_path": "figures/figure_0325.png",
+      "previous_block_id": "txt_1287",
+      "next_block_id": "txt_1288"
+    }
+  ]
+}

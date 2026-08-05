@@ -1,0 +1,84 @@
+{
+  "page": 65,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_0632",
+      "reading_order": 802,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 122.0,
+        "t": 732.29,
+        "r": 528.0700000000004,
+        "b": 720.7
+      },
+      "content": "Install three screws (callout 1), make sure that the grounding clip is correctly installed (callout 2)."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0633",
+      "reading_order": 803,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 144.0,
+        "t": 708.79,
+        "r": 538.5900000000004,
+        "b": 685.2
+      },
+      "content": "TIP: The screwdriver (supplied with the kit) has a reversible shaft. Simply pull the shaft out of the handle, and then reinstall it with the desired end facing out."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0160",
+      "reading_order": 804,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 145.33266099007847,
+        "t": 660.2890167236328,
+        "r": 436.31483515281576,
+        "b": 371.3177795410156
+      },
+      "image_path": "figures/figure_0160.png",
+      "caption": "Install three screws",
+      "figure_number": "Figure 1-66",
+      "image_hash": "e0dd5f9166d8cd726474533983e4cab397e55a7fefab17a3b471b2830ccbaf88",
+      "width": 291,
+      "height": 289,
+      "previous_block_id": "txt_0633",
+      "next_block_id": "txt_0634",
+      "caption_id": "txt_0634"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0634",
+      "reading_order": 805,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 144.0,
+        "t": 674.29,
+        "r": 272.9699999999999,
+        "b": 662.7
+      },
+      "content": "Figure 1-66  Install three screws",
+      "caption_for": "fig_0160"
+    }
+  ],
+  "page_stats": {
+    "block_count": 4,
+    "text_blocks": 3,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 2,
+    "captions": 1,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 1,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

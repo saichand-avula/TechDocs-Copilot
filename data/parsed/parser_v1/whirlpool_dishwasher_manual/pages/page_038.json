@@ -1,0 +1,557 @@
+{
+  "page": 38,
+  "document_id": "doc_16216d0c",
+  "page_bbox": {
+    "width": 612.0,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0068",
+      "reading_order": 745,
+      "section": "Test Procedure",
+      "bbox": {
+        "l": 61.305824279785156,
+        "t": 45.05535888671875,
+        "r": 70.49329376220703,
+        "b": 35.77984619140625
+      },
+      "image_path": "figures/figure_0068.png",
+      "next_block_id": "txt_0664",
+      "width": 9,
+      "height": 9,
+      "decorative": true,
+      "image_hash": "e4f6b5d99fccf13549a76c45bf680df23304007eeaddff602c52001308992f61"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0664",
+      "reading_order": 746,
+      "section": "Test Procedure",
+      "bbox": {
+        "l": 61.6631,
+        "t": 44.86829999999998,
+        "r": 77.9687,
+        "b": 32.765719354838666
+      },
+      "content": "n"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0665",
+      "reading_order": 747,
+      "section": "For Service Technician Use Only",
+      "bbox": {
+        "l": 166.4194,
+        "t": 730.505,
+        "r": 427.94139999999993,
+        "b": 715.7313010526316
+      },
+      "content": "For Service Technician Use Only",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0666",
+      "reading_order": 748,
+      "section": "DANGER",
+      "bbox": {
+        "l": 131.1818,
+        "t": 699.496944,
+        "r": 223.4506244,
+        "b": 681.9559012833168
+      },
+      "content": "DANGER",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0069",
+      "reading_order": 749,
+      "section": "DANGER",
+      "bbox": {
+        "l": 137.41506958007812,
+        "t": 674.3189544677734,
+        "r": 178.76722717285156,
+        "b": 628.4856719970703
+      },
+      "image_path": "figures/figure_0069.png",
+      "previous_block_id": "txt_0666",
+      "next_block_id": "txt_0667",
+      "width": 41,
+      "height": 45,
+      "image_hash": "77bd7a53fef42d2c9b35ef10940b012eaa777b4a3c710ec61810cfb478911e80"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0667",
+      "reading_order": 750,
+      "section": "Electrical Shock Hazard",
+      "bbox": {
+        "l": 108.1317,
+        "t": 614.3082318,
+        "r": 218.90509379999995,
+        "b": 605.6307174112267
+      },
+      "content": "Electrical Shock Hazard",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0668",
+      "reading_order": 751,
+      "section": "Electrical Shock Hazard",
+      "bbox": {
+        "l": 46.746161699999995,
+        "t": 599.1645768000001,
+        "r": 254.1263043,
+        "b": 580.2284574112267
+      },
+      "content": "Only authorized technicians should perform diagnostic voltage measurements."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0669",
+      "reading_order": 752,
+      "section": "Electrical Shock Hazard",
+      "bbox": {
+        "l": 46.746161699999995,
+        "t": 573.7623168000001,
+        "r": 237.84931769999994,
+        "b": 554.8261974112268
+      },
+      "content": "After performing voltage measurements, disconnect power before servicing."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0670",
+      "reading_order": 753,
+      "section": "Electrical Shock Hazard",
+      "bbox": {
+        "l": 46.746161699999995,
+        "t": 548.3600568000002,
+        "r": 271.51708229999997,
+        "b": 529.4239374112268
+      },
+      "content": "Failure to follow these instructions can result in death or electrical shock."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0671",
+      "reading_order": 754,
+      "section": "Flow Meter",
+      "bbox": {
+        "l": 36.0,
+        "t": 486.27200000000005,
+        "r": 112.38400000000001,
+        "b": 474.09936134453784
+      },
+      "content": "Flow Meter",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0672",
+      "reading_order": 755,
+      "section": "Test Procedure",
+      "bbox": {
+        "l": 36.0,
+        "t": 452.744,
+        "r": 109.53600000000003,
+        "b": 443.61452100840336
+      },
+      "content": "Test Procedure",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0673",
+      "reading_order": 756,
+      "section": "Test Procedure",
+      "bbox": {
+        "l": 36.0,
+        "t": 438.48,
+        "r": 281.3099999999999,
+        "b": 420.87210084033615
+      },
+      "content": "This test checks the electrical connections to the flow meter and the flow meter itself."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0674",
+      "reading_order": 757,
+      "section": "Test Procedure",
+      "bbox": {
+        "l": 42.0,
+        "t": 415.48,
+        "r": 287.36999999999995,
+        "b": 377.87210084033615
+      },
+      "content": "Perform the 'Service Mode Test' on page 2-3. If error code E1 is generated, the dishwasher is detecting less than 3 L of water after 30 seconds of starting the test. Go to step 2."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0675",
+      "reading_order": 758,
+      "section": "Test Procedure",
+      "bbox": {
+        "l": 42.0,
+        "t": 372.48,
+        "r": 274.51,
+        "b": 354.87210084033615
+      },
+      "content": "Did the water inlet valve turn on and was water heard entering the tub?"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0676",
+      "reading_order": 759,
+      "section": "Test Procedure",
+      "bbox": {
+        "l": 50.0,
+        "t": 350.70000000000005,
+        "r": 283.66999999999996,
+        "b": 331.87210084033615
+      },
+      "content": "¾ ¾ No, the valve did not turn on. Go to Water Inlet Valve test on page 3-8."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0677",
+      "reading_order": 760,
+      "section": "Test Procedure",
+      "bbox": {
+        "l": 50.0,
+        "t": 327.70000000000005,
+        "r": 272.5,
+        "b": 308.87210084033615
+      },
+      "content": "¾ ¾ Yes, the valve turned on, but no water entered the drum. Go to step 3."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0678",
+      "reading_order": 761,
+      "section": "Test Procedure",
+      "bbox": {
+        "l": 50.0,
+        "t": 304.70000000000005,
+        "r": 285.4099999999999,
+        "b": 285.87210084033615
+      },
+      "content": "¾ ¾ Yes, the valve turned on and water entered the drum. Go to step 4."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0679",
+      "reading_order": 762,
+      "section": "Test Procedure",
+      "bbox": {
+        "l": 42.0,
+        "t": 280.48,
+        "r": 279.8199999999999,
+        "b": 252.8721008403361
+      },
+      "content": "Verify the water supply is turned on and supply line is adequate. Check for debris in the water line or fill valve inlet screen. Repair as necessary and retest."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0680",
+      "reading_order": 763,
+      "section": "Test Procedure",
+      "bbox": {
+        "l": 42.0,
+        "t": 247.48000000000002,
+        "r": 218.54999999999998,
+        "b": 239.8721008403361
+      },
+      "content": "Unplug dishwasher or disconnect power."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0681",
+      "reading_order": 764,
+      "section": "Test Procedure",
+      "bbox": {
+        "l": 1.2226799999999995,
+        "t": 220.89488000000006,
+        "r": 104.42382,
+        "b": 209.75983394048694
+      },
+      "content": "LOW METER SWITCH"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0682",
+      "reading_order": 765,
+      "section": "STRIP CIRCUIT - FLOW METER",
+      "bbox": {
+        "l": 37.0,
+        "t": 205.8139,
+        "r": 183.01599999999993,
+        "b": 196.68442100840332
+      },
+      "content": "STRIP CIRCUIT - FLOW METER",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0070",
+      "reading_order": 766,
+      "section": "STRIP CIRCUIT - FLOW METER",
+      "bbox": {
+        "l": 60.676700592041016,
+        "t": 186.94891357421875,
+        "r": 535.1347045898438,
+        "b": 72.857421875
+      },
+      "image_path": "figures/figure_0070.png",
+      "previous_block_id": "txt_0682",
+      "next_block_id": "txt_0683",
+      "caption_id": "txt_0683",
+      "caption": "Flow Meter Strip Circuit",
+      "figure_number": "Figure 2",
+      "image_hash": "bee512be067977314594ce5eab2711a364d39f0dff374e0925aa15b446c6af5f",
+      "width": 474,
+      "height": 114
+    },
+    {
+      "type": "caption",
+      "id": "txt_0683",
+      "reading_order": 767,
+      "section": "STRIP CIRCUIT - FLOW METER",
+      "bbox": {
+        "l": 234.7742,
+        "t": 60.93799999999999,
+        "r": 359.62219999999996,
+        "b": 54.09089075630254
+      },
+      "content": "Figure 2 - Flow Meter Strip Circuit",
+      "caption_for": "fig_0070"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0684",
+      "reading_order": 768,
+      "section": "STRIP CIRCUIT - FLOW METER",
+      "bbox": {
+        "l": 309.375,
+        "t": 705.82,
+        "r": 539.7850000000002,
+        "b": 688.2121008403361
+      },
+      "content": "Remove access panel. Remove control board cover to access control board."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0685",
+      "reading_order": 769,
+      "section": "STRIP CIRCUIT - FLOW METER",
+      "bbox": {
+        "l": 309.375,
+        "t": 682.82,
+        "r": 497.1087,
+        "b": 675.2121008403361
+      },
+      "content": "Unplug connector CN4 from control board."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0686",
+      "reading_order": 770,
+      "section": "STRIP CIRCUIT - FLOW METER",
+      "bbox": {
+        "l": 309.375,
+        "t": 669.82,
+        "r": 531.8350000000003,
+        "b": 652.2121008403361
+      },
+      "content": "With an ohmmeter, check the harness between the Control Board ( CN4 ) and flow meter for continuity."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0687",
+      "reading_order": 771,
+      "section": "STRIP CIRCUIT - FLOW METER",
+      "bbox": {
+        "l": 317.375,
+        "t": 648.04,
+        "r": 468.79500000000013,
+        "b": 638.7303225806452
+      },
+      "content": "¾ ¾ If there is continuity, go to step 8."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0688",
+      "reading_order": 772,
+      "section": "STRIP CIRCUIT - FLOW METER",
+      "bbox": {
+        "l": 317.375,
+        "t": 635.04,
+        "r": 513.5850000000004,
+        "b": 625.7303225806452
+      },
+      "content": "¾ ¾ If there is no continuity, replace the harness."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0689",
+      "reading_order": 773,
+      "section": "STRIP CIRCUIT - FLOW METER",
+      "bbox": {
+        "l": 309.375,
+        "t": 620.82,
+        "r": 554.0450000000001,
+        "b": 553.2121008403361
+      },
+      "content": "With voltmeter set to DC, connect leads to CN4, pins 2 and 4. Run a wash cycle and measure the flow meter voltage when the inlet water valves open and water is entering the washer. A nominal reading of approximately 1.9 VDC should be measured when water is flowing through the flow meter (voltage will vary depending on household water pressure). No water flowing = 0V."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0690",
+      "reading_order": 774,
+      "section": "STRIP CIRCUIT - FLOW METER",
+      "bbox": {
+        "l": 317.375,
+        "t": 549.04,
+        "r": 523.2650000000002,
+        "b": 530.2121008403361
+      },
+      "content": "¾ ¾ If voltage is present, the flow meter is working properly. Go to step 9."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0691",
+      "reading_order": 775,
+      "section": "STRIP CIRCUIT - FLOW METER",
+      "bbox": {
+        "l": 317.375,
+        "t": 526.04,
+        "r": 542.1850000000003,
+        "b": 507.2121008403361
+      },
+      "content": "¾ ¾ If voltage is not present when water is entering the washer, replace the flow meter."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0692",
+      "reading_order": 776,
+      "section": "STRIP CIRCUIT - FLOW METER",
+      "bbox": {
+        "l": 309.375,
+        "t": 501.82,
+        "r": 540.3750000000002,
+        "b": 484.2121008403361
+      },
+      "content": "If the preceding steps did not correct the fill problem, replace the Control Board."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0693",
+      "reading_order": 777,
+      "section": "STRIP CIRCUIT - FLOW METER",
+      "bbox": {
+        "l": 317.375,
+        "t": 480.04,
+        "r": 497.9250000000002,
+        "b": 470.7303225806452
+      },
+      "content": "¾ ¾ Unplug dishwasher or disconnect power."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0694",
+      "reading_order": 778,
+      "section": "STRIP CIRCUIT - FLOW METER",
+      "bbox": {
+        "l": 317.375,
+        "t": 467.04,
+        "r": 442.1350000000001,
+        "b": 457.7303225806452
+      },
+      "content": "¾ ¾ Replace the Control Board."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0695",
+      "reading_order": 779,
+      "section": "STRIP CIRCUIT - FLOW METER",
+      "bbox": {
+        "l": 317.375,
+        "t": 454.04,
+        "r": 465.18500000000034,
+        "b": 444.7303225806452
+      },
+      "content": "¾ ¾ Reassemble all parts and panels."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0696",
+      "reading_order": 780,
+      "section": "STRIP CIRCUIT - FLOW METER",
+      "bbox": {
+        "l": 317.375,
+        "t": 441.04,
+        "r": 555.3149999999999,
+        "b": 422.2121008403361
+      },
+      "content": "¾ ¾ Perform the 'Service Mode Test' on page 2-3 to verify repair."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0071",
+      "reading_order": 781,
+      "section": "STRIP CIRCUIT - FLOW METER",
+      "bbox": {
+        "l": 305.73541259765625,
+        "t": 415.0548095703125,
+        "r": 554.298583984375,
+        "b": 234.67767333984375
+      },
+      "image_path": "figures/figure_0071.png",
+      "previous_block_id": "txt_0696",
+      "next_block_id": "txt_0697",
+      "caption_id": "txt_0697",
+      "caption": "Flow Meter in Air-break Assembly",
+      "figure_number": "Figure 1",
+      "image_hash": "84be6ba26fdbc8fd9fab119968defdab47de427192349a2d1bd29fb2759150e9",
+      "width": 248,
+      "height": 180
+    },
+    {
+      "type": "caption",
+      "id": "txt_0697",
+      "reading_order": 782,
+      "section": "STRIP CIRCUIT - FLOW METER",
+      "bbox": {
+        "l": 349.0825,
+        "t": 229.33799999999997,
+        "r": 511.9284999999999,
+        "b": 222.49089075630252
+      },
+      "content": "Figure 1 - Flow Meter in Air-break Assembly",
+      "caption_for": "fig_0071"
+    }
+  ],
+  "page_stats": {
+    "block_count": 38,
+    "text_blocks": 34,
+    "paragraphs": 6,
+    "headings": 6,
+    "list_items": 20,
+    "captions": 2,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 4,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

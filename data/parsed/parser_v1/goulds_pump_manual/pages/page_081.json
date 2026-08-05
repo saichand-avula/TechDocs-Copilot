@@ -1,0 +1,249 @@
+{
+  "page": 81,
+  "document_id": "doc_b0587846",
+  "page_bbox": {
+    "width": 612.0,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0130",
+      "reading_order": 1391,
+      "section": "Disassemble the power end ( STi and MTi with duplex bearings)",
+      "bbox": {
+        "l": 169.364013671875,
+        "t": 732.8973007202148,
+        "r": 355.2558898925781,
+        "b": 576.3202514648438
+      },
+      "image_path": "figures/figure_0130.png",
+      "next_block_id": "txt_1206",
+      "image_hash": "6b88f439307d4eb544a1433c9a470f5332f6175146cc00031277b7d0578dd54c",
+      "width": 186,
+      "height": 157
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1206",
+      "reading_order": 1392,
+      "section": "Disassemble the power end ( STi and MTi with duplex bearings)",
+      "bbox": {
+        "l": 143.9986,
+        "t": 567.1312499999999,
+        "r": 303.08859999999993,
+        "b": 555.89125
+      },
+      "content": "Remove the inboard bearing (168A)."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1207",
+      "reading_order": 1393,
+      "section": "Disassemble the power end ( STi and MTi with duplex bearings)",
+      "bbox": {
+        "l": 143.99837,
+        "t": 400.96715,
+        "r": 410.80837,
+        "b": 389.72715
+      },
+      "content": "Remove the bearing locknut (136) and bearing lockwasher (382)."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1208",
+      "reading_order": 1394,
+      "section": "Disassemble the power end ( STi and MTi with duplex bearings)",
+      "bbox": {
+        "l": 143.99831999999998,
+        "t": 387.16716,
+        "r": 312.2683199999999,
+        "b": 375.92716
+      },
+      "content": "Remove the outboard bearings (112A)."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0131",
+      "reading_order": 1395,
+      "section": "Disassemble the power end ( STi and MTi with duplex bearings)",
+      "bbox": {
+        "l": 166.91326904296875,
+        "t": 538.859130859375,
+        "r": 365.50531005859375,
+        "b": 413.358642578125
+      },
+      "image_path": "figures/figure_0131.png",
+      "previous_block_id": "txt_1208",
+      "next_block_id": "txt_1209",
+      "image_hash": "f3aef495518db58c3fb01a8271a65914565eb263962ff8604911ff766a1b9380",
+      "width": 199,
+      "height": 126
+    },
+    {
+      "type": "admonition",
+      "id": "txt_1209",
+      "reading_order": 1396,
+      "section": "Disassemble the power end ( STi and MTi with duplex bearings)",
+      "bbox": {
+        "l": 161.99831,
+        "t": 365.64717,
+        "r": 552.1483200000002,
+        "b": 342.40717
+      },
+      "content": "NOTICE: Use force only on the inner race when you press bearings off  the shaft. Do not use force in situations in which you might break a part. Doing so may result in equipment damage.",
+      "severity": "note"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_1210",
+      "reading_order": 1397,
+      "severity": "note",
+      "content": "NOTICE: Save the bearings for inspection. Do not reuse the bearings. Doing so may result in decreased performance.",
+      "section": "NOTICE:",
+      "bbox": {
+        "l": 161.99832,
+        "t": 327.64718,
+        "r": 205.45832000000004,
+        "b": 316.40718
+      }
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1212",
+      "reading_order": 1399,
+      "section": "NOTICE:",
+      "bbox": {
+        "l": 143.99832,
+        "t": 280.3272,
+        "r": 557.1483000000003,
+        "b": 242.56720999999993
+      },
+      "content": "Remove the outboard labyrinth oil seal (332A) from the bearing housing (134). Remove the O-rings (497F and 497G) if it is necessary. Labyrinth oil seal O-rings are part of  the 3196 maintenance kits and they are sold separately."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1213",
+      "reading_order": 1400,
+      "section": "NOTICE:",
+      "bbox": {
+        "l": 210.85308286488,
+        "t": 229.53926886244403,
+        "r": 235.31462650612798,
+        "b": 216.1584244667
+      },
+      "content": "497G"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1214",
+      "reading_order": 1401,
+      "section": "NOTICE:",
+      "bbox": {
+        "l": 186.89156510874,
+        "t": 219.25514482798394,
+        "r": 210.24303869922,
+        "b": 205.87430043224003
+      },
+      "content": "332A"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1215",
+      "reading_order": 1402,
+      "section": "NOTICE:",
+      "bbox": {
+        "l": 170.23050804684,
+        "t": 204.25136354998403,
+        "r": 193.021946296392,
+        "b": 190.87051915424001
+      },
+      "content": "497F"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0132",
+      "reading_order": 1403,
+      "section": "NOTICE:",
+      "bbox": {
+        "l": 169.4165802001953,
+        "t": 229.86419677734375,
+        "r": 287.98046875,
+        "b": 155.23321533203125
+      },
+      "image_path": "figures/figure_0132.png",
+      "previous_block_id": "txt_1215",
+      "next_block_id": "txt_1216",
+      "image_hash": "cd40876e20d56322159ca1c5aa28a0be458286087bc405b803d8b44fd83ca575",
+      "width": 119,
+      "height": 75
+    },
+    {
+      "type": "heading",
+      "id": "txt_1216",
+      "reading_order": 1404,
+      "section": "Disassemble the power end ( LTi )",
+      "bbox": {
+        "l": 53.99986,
+        "t": 141.49712,
+        "r": 246.93586000000002,
+        "b": 128.10511999999994
+      },
+      "content": "Disassemble the power end ( LTi )",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1217",
+      "reading_order": 1405,
+      "section": "Disassemble the power end ( LTi )",
+      "bbox": {
+        "l": 143.99588,
+        "t": 124.81597,
+        "r": 418.1458800000001,
+        "b": 113.57596999999998
+      },
+      "content": "Remove the clamp screws (370C) and back off the jam nuts (423)."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1218",
+      "reading_order": 1406,
+      "section": "Disassemble the power end ( LTi )",
+      "bbox": {
+        "l": 143.99588,
+        "t": 111.01598000000001,
+        "r": 542.6958800000003,
+        "b": 87.77598
+      },
+      "content": "Evenly tighten the jack screws (370D) to move the bearing housing (134) out of  the bearing frame (228A)."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1219",
+      "reading_order": 1407,
+      "section": "Disassemble the power end ( LTi )",
+      "bbox": {
+        "l": 143.99586,
+        "t": 85.21599000000003,
+        "r": 390.92586,
+        "b": 73.97599000000002
+      },
+      "content": "Remove the shaft assembly from the bearing frame (228A)."
+    }
+  ],
+  "page_stats": {
+    "block_count": 16,
+    "text_blocks": 13,
+    "paragraphs": 3,
+    "headings": 1,
+    "list_items": 7,
+    "captions": 0,
+    "admonitions": 2,
+    "references": 0,
+    "figures": 3,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "page": 121,
+  "document_id": "doc_e02482e6",
+  "page_bbox": {
+    "width": 595.0,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0944",
+      "reading_order": 1354,
+      "section": "Procedure",
+      "bbox": {
+        "l": 56.55,
+        "t": 772.235,
+        "r": 111.264,
+        "b": 759.959
+      },
+      "content": "Procedure",
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "id": "fig_0315",
+      "reading_order": 1355,
+      "section": "Procedure",
+      "bbox": {
+        "l": 194.75289916992188,
+        "t": 759.7049713134766,
+        "r": 415.6975402832031,
+        "b": 416.7259521484375
+      },
+      "image_path": "figures/figure_0315.png",
+      "previous_block_id": "txt_0944",
+      "next_block_id": "txt_0945"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0945",
+      "reading_order": 1356,
+      "section": "Procedure",
+      "bbox": {
+        "l": 272.55,
+        "t": 402.49,
+        "r": 365.56,
+        "b": 391.41999999999996
+      },
+      "content": "Oil system components"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0316",
+      "reading_order": 1357,
+      "section": "Procedure",
+      "bbox": {
+        "l": 203.25210571289062,
+        "t": 362.6489562988281,
+        "r": 477.8139343261719,
+        "b": 180.8316650390625
+      },
+      "image_path": "figures/figure_0316.png",
+      "previous_block_id": "txt_0945",
+      "next_block_id": "txt_0946"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0946",
+      "reading_order": 1358,
+      "section": "Procedure",
+      "bbox": {
+        "l": 308.55,
+        "t": 148.39,
+        "r": 371.54,
+        "b": 137.31999999999994
+      },
+      "content": "Oil drain plugs"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0317",
+      "reading_order": 1359,
+      "section": "Procedure",
+      "bbox": {
+        "l": 519.5205688476562,
+        "t": 815.9043769836426,
+        "r": 567.1891479492188,
+        "b": 793.0875244140625
+      },
+      "image_path": "figures/figure_0317.png",
+      "previous_block_id": "txt_0946",
+      "next_block_id": "txt_0947"
+    }
+  ]
+}

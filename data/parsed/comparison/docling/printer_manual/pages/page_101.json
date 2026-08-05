@@ -1,0 +1,402 @@
+{
+  "page": 101,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0254",
+      "reading_order": 1224,
+      "section": "Post service test",
+      "bbox": {
+        "l": 127.96728543673619,
+        "t": 731.8297996520996,
+        "r": 140.38773847779245,
+        "b": 718.1071624755859
+      },
+      "image_path": "figures/figure_0254.png",
+      "width": 12,
+      "height": 13,
+      "image_hash": "78596d107f706ac66b95175dd5da3c7340e7a8313dc4d5205668ef5b2c7e5290",
+      "previous_block_id": "txt_0954",
+      "next_block_id": "txt_0955"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0955",
+      "reading_order": 1225,
+      "section": "Post service test",
+      "bbox": {
+        "l": 144.0,
+        "t": 729.79,
+        "r": 413.8599999999999,
+        "b": 718.2
+      },
+      "content": "NOTE: HP recommends responsible disposal of the defective part."
+    },
+    {
+      "type": "reference",
+      "id": "txt_0956",
+      "reading_order": 1226,
+      "section": "Post service test",
+      "bbox": {
+        "l": 143.99998,
+        "t": 708.79,
+        "r": 467.28998,
+        "b": 697.2
+      },
+      "content": "http://www8.hp.com/us/en/hp-information/environment/product-recycling.html"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0957",
+      "reading_order": 1227,
+      "section": "Post service test",
+      "bbox": {
+        "l": 122.0,
+        "t": 686.29,
+        "r": 342.5199999999998,
+        "b": 674.7
+      },
+      "content": "Unpack the replacement part from the packaging."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0255",
+      "reading_order": 1228,
+      "section": "Post service test",
+      "bbox": {
+        "l": 128.09614628345682,
+        "t": 665.1613845825195,
+        "r": 142.61917092683998,
+        "b": 650.4036407470703
+      },
+      "image_path": "figures/figure_0255.png",
+      "width": 14,
+      "height": 14,
+      "image_hash": "a10957d8059edd96f24f467eebb9b1355e235e81dd3fa0c62a598839a3af9a3c",
+      "previous_block_id": "txt_0957",
+      "next_block_id": "txt_0958"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0256",
+      "reading_order": 1229,
+      "section": "Post service test",
+      "bbox": {
+        "l": 127.69705742369368,
+        "t": 548.9634857177734,
+        "r": 140.031933685137,
+        "b": 535.3981018066406
+      },
+      "image_path": "figures/figure_0256.png",
+      "width": 12,
+      "height": 13,
+      "image_hash": "8d7c9869efa4a6af3f330e366ade9ef22f87a456b515276696637a31dd0ba5cb",
+      "previous_block_id": "txt_0957",
+      "next_block_id": "txt_0958"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_0958",
+      "reading_order": 1230,
+      "severity": "caution",
+      "content": "CAUTION: Some parts are sensitive to electrostatic discharge (ESD). Always perform service",
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 144.0,
+        "t": 657.405,
+        "r": 181.75,
+        "b": 645.815
+      }
+    },
+    {
+      "type": "figure",
+      "id": "fig_0257",
+      "reading_order": 1232,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 191.02806852979728,
+        "t": 661.0378875732422,
+        "r": 210.53981830728938,
+        "b": 640.2034301757812
+      },
+      "image_path": "figures/figure_0257.png",
+      "width": 19,
+      "height": 20,
+      "image_hash": "52b973d481d6c454892e404b71ff0705301fcfe8edda6f2bf4c5964135f7cb25",
+      "previous_block_id": "txt_0959",
+      "next_block_id": "txt_0960"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0960",
+      "reading_order": 1233,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 144.0,
+        "t": 638.79,
+        "r": 549.7700400000001,
+        "b": 603.2
+      },
+      "content": "work at an ESD-protected workstation or mat. If an ESD workstation or mat is not available, touch the sheet-metal chassis to provide a static ground before touching an ESD-sensitive assembly. Protect the ESD-sensitive assemblies by placing them in ESD pouches when they are out of the printer."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0961",
+      "reading_order": 1234,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 144.00004,
+        "t": 593.79,
+        "r": 548.6300400000002,
+        "b": 558.2
+      },
+      "content": "If the replacement part is a roller or pad, avoid touching the spongy part of it. Skin oils on the roller or pad can cause paper pickup and/or print-quality problems. HP recommends using disposable gloves when handling rollers or pads or washing your hands before touching rollers or pads."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0962",
+      "reading_order": 1235,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 144.0,
+        "t": 548.79,
+        "r": 541.73,
+        "b": 525.2
+      },
+      "content": "IMPORTANT: Make sure that all of the shipping materials (for example shipping tape) are removed from the replacement part prior to installation."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0963",
+      "reading_order": 1236,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 122.0,
+        "t": 514.29,
+        "r": 551.6100400000003,
+        "b": 457.7
+      },
+      "content": "To install an assembly, reverse the removal steps. When applicable, special installation instructions are provided for an assembly at the end of the removal procedure. Always completely read the removal instructions and follow all special installation instructions."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0964",
+      "reading_order": 1237,
+      "section": "Removal and replacement: Control-panel cover (MFP)",
+      "bbox": {
+        "l": 54.00004,
+        "t": 444.29,
+        "r": 266.84004000000004,
+        "b": 432.7
+      },
+      "content": "Removal and replacement: Control-panel cover (MFP)",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0965",
+      "reading_order": 1238,
+      "section": "Removal and replacement: Control-panel cover (MFP)",
+      "bbox": {
+        "l": 100.00002,
+        "t": 424.29,
+        "r": 482.4200200000002,
+        "b": 412.7
+      },
+      "content": "Learn how to remove and replace the control-panel cable cover (M527/E52545/M528/E52645)."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0966",
+      "reading_order": 1239,
+      "section": "Removal and replacement: Control-panel cover (MFP)",
+      "bbox": {
+        "l": 100.0,
+        "t": 403.29,
+        "r": 334.75999999999993,
+        "b": 391.7
+      },
+      "content": "To view a short video of this procedure, click the link below.",
+      "hyperlink_hint": true
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0967",
+      "reading_order": 1240,
+      "section": "Removal and replacement: Control-panel cover (MFP)",
+      "bbox": {
+        "l": 100.0,
+        "t": 382.29,
+        "r": 365.86999999999995,
+        "b": 370.7
+      },
+      "content": "View a video of how to remove and replace the control panel cover.",
+      "hyperlink_hint": true
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0968",
+      "reading_order": 1241,
+      "section": "Removal and replacement: Control-panel cover (MFP)",
+      "bbox": {
+        "l": 100.0,
+        "t": 358.29,
+        "r": 222.25,
+        "b": 346.7
+      },
+      "content": "Mean time to repair: 8 minutes"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0969",
+      "reading_order": 1242,
+      "section": "Removal and replacement: Control-panel cover (MFP)",
+      "bbox": {
+        "l": 100.0,
+        "t": 337.29,
+        "r": 173.01999999999998,
+        "b": 325.7
+      },
+      "content": "Service level: Easy"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0970",
+      "reading_order": 1243,
+      "section": "Before performing service",
+      "bbox": {
+        "l": 100.0,
+        "t": 312.29,
+        "r": 204.23999999999998,
+        "b": 300.7
+      },
+      "content": "Before performing service",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0971",
+      "reading_order": 1244,
+      "section": "Turn the printer power off",
+      "bbox": {
+        "l": 100.00002,
+        "t": 292.29,
+        "r": 202.98002,
+        "b": 280.7
+      },
+      "content": "Turn the printer power off",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0972",
+      "reading_order": 1245,
+      "section": "Turn the printer power off",
+      "bbox": {
+        "l": 100.00003000000001,
+        "t": 271.28999999999996,
+        "r": 234.21002999999993,
+        "b": 259.70000000000005
+      },
+      "content": "Disconnect the power cable."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0258",
+      "reading_order": 1246,
+      "section": "Turn the printer power off",
+      "bbox": {
+        "l": 106.21710272154169,
+        "t": 249.831298828125,
+        "r": 120.17187528094559,
+        "b": 236.651611328125
+      },
+      "image_path": "figures/figure_0258.png",
+      "width": 13,
+      "height": 13,
+      "image_hash": "dd3ccaafe8241dd04c92da398bccb04c42ae02ea919dd6112ad760af8c27d480",
+      "previous_block_id": "txt_0972",
+      "next_block_id": "txt_0973"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_0973",
+      "reading_order": 1247,
+      "section": "Turn the printer power off",
+      "bbox": {
+        "l": 122.0,
+        "t": 247.78999999999996,
+        "r": 533.0700000000002,
+        "b": 224.20000000000005
+      },
+      "content": "WARNING! To avoid damage to the printer, turn the printer off, wait 30 seconds, and then remove the power cord before attempting to service the printer.",
+      "severity": "warning"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0974",
+      "reading_order": 1248,
+      "section": "Turn the printer power off",
+      "bbox": {
+        "l": 100.0,
+        "t": 213.28999999999996,
+        "r": 479.47000000000025,
+        "b": 189.70000000000005
+      },
+      "content": "Use the table below to identify the correct part number for your printer . To order the part, go to www.hp.com/buy/parts."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0975",
+      "reading_order": 1249,
+      "section": "Table 1-13  Part number",
+      "bbox": {
+        "l": 100.0,
+        "t": 178.66100000000006,
+        "r": 188.281,
+        "b": 168.22998000000007
+      },
+      "content": "Table 1-13  Part number",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "table",
+      "id": "tbl_0018",
+      "reading_order": 1250,
+      "section": "Table 1-13  Part number",
+      "bbox": {
+        "l": 99.1207958314607,
+        "t": 165.8765869140625,
+        "r": 550.4510157039123,
+        "b": 104.328857421875
+      },
+      "markdown": "| Control-panel cover part number   |                                   |\n|-----------------------------------|-----------------------------------|\n| B5L46-60117                       | Control-panel cover (M527/E52545) |\n| B5L47-67018                       | Control-panel cover (M528/E52645) |",
+      "title": "Table 1-13  Part number",
+      "table_number": "Table 1-13",
+      "rows": 3,
+      "cols": 1
+    }
+  ],
+  "page_stats": {
+    "block_count": 26,
+    "text_blocks": 20,
+    "paragraphs": 8,
+    "headings": 4,
+    "list_items": 5,
+    "captions": 0,
+    "admonitions": 2,
+    "references": 1,
+    "figures": 5,
+    "tables": 1,
+    "toc_tables": 0
+  }
+}

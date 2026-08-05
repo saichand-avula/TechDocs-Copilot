@@ -1,0 +1,193 @@
+{
+  "page": 346,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_2903",
+      "reading_order": 3900,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 113.0,
+        "t": 732.29,
+        "r": 346.09999000000005,
+        "b": 720.7
+      },
+      "content": "M527/E52545/M528/E52645 only: Do the following."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2904",
+      "reading_order": 3901,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 135.0,
+        "t": 711.29,
+        "r": 540.4100000000003,
+        "b": 687.7
+      },
+      "content": "Locate the DIMM component on the formatter, release two locking arms (callout 1), and then let the bottom edge of the DIMM rotate away from the holder (callout 2)."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2905",
+      "reading_order": 3902,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 135.0,
+        "t": 433.92,
+        "r": 393.8000000000002,
+        "b": 422.33
+      },
+      "content": "Pull the DIMM down and away from the holder to remove it."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2906",
+      "reading_order": 3903,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 91.0,
+        "t": 172.04999999999995,
+        "r": 203.39999999999995,
+        "b": 160.46000000000004
+      },
+      "content": "Remove the formatter."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0961",
+      "reading_order": 3904,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 157.1525361613081,
+        "t": 663.3200988769531,
+        "r": 537.0592486748989,
+        "b": 444.809326171875
+      },
+      "image_path": "figures/figure_0961.png",
+      "caption": "Release the DIMM (M527/E52545/M528/E52645)",
+      "figure_number": "Figure 1-531",
+      "image_hash": "074d875ea262dbdf5757b37cffd0e9ab1c94d3ba061f9fa87bb46c1c457eb7cc",
+      "width": 380,
+      "height": 218,
+      "previous_block_id": "txt_2906",
+      "next_block_id": "txt_2907",
+      "caption_id": "txt_2907"
+    },
+    {
+      "type": "caption",
+      "id": "txt_2907",
+      "reading_order": 3905,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 157.00002,
+        "t": 678.29,
+        "r": 412.43002,
+        "b": 666.7
+      },
+      "content": "Figure 1-531  Release the DIMM (M527/E52545/M528/E52645)",
+      "caption_for": "fig_0961"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0962",
+      "reading_order": 3906,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 155.64788864879486,
+        "t": 400.6569519042969,
+        "r": 445.7507617822997,
+        "b": 183.01910400390625
+      },
+      "image_path": "figures/figure_0962.png",
+      "caption": "Remove the DIMM (M527/E52545/M528/E52645)",
+      "figure_number": "Figure 1-532",
+      "image_hash": "dd25eb93dbe9e2a09d0bf0682a80e75af5e9d6c7abff80a9128474e6c0d651a0",
+      "width": 290,
+      "height": 218,
+      "previous_block_id": "txt_2907",
+      "next_block_id": "txt_2908",
+      "caption_id": "txt_2908"
+    },
+    {
+      "type": "caption",
+      "id": "txt_2908",
+      "reading_order": 3907,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 157.00002,
+        "t": 412.92,
+        "r": 413.7400200000001,
+        "b": 401.33
+      },
+      "content": "Figure 1-532  Remove the DIMM (M527/E52545/M528/E52645)",
+      "caption_for": "fig_0962"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0963",
+      "reading_order": 3908,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 97.13009478312784,
+        "t": 150.5872802734375,
+        "r": 111.47366136603777,
+        "b": 137.7896728515625
+      },
+      "image_path": "figures/figure_0963.png",
+      "caption": "Remove the DIMM (M527/E52545/M528/E52645)",
+      "decorative": true,
+      "width": 14,
+      "height": 12,
+      "figure_number": "Figure 1-532",
+      "image_hash": "f41748aac114c9e3c4efaa845fd4131daad3092dc6b203a77e2d8e9ea70b6c87",
+      "previous_block_id": "txt_2908",
+      "next_block_id": "txt_2909"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_2909",
+      "reading_order": 3909,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 113.0,
+        "t": 148.55000999999993,
+        "r": 528.1300000000001,
+        "b": 124.96001000000001
+      },
+      "content": "CAUTION: Never remove and then install a replacement DCC and formatter at the same time. Doing so will cause the printer to become unstable.",
+      "severity": "caution"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_2910",
+      "reading_order": 3910,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 113.00002,
+        "t": 115.55000999999993,
+        "r": 533.7700100000002,
+        "b": 91.96001000000001
+      },
+      "content": "If a replacement DCC and formatter must be installed, first remove and install the formatter. Test operate the printer, and then if necessary install a replacement DCC."
+    }
+  ],
+  "page_stats": {
+    "block_count": 11,
+    "text_blocks": 8,
+    "paragraphs": 1,
+    "headings": 0,
+    "list_items": 4,
+    "captions": 2,
+    "admonitions": 1,
+    "references": 0,
+    "figures": 3,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

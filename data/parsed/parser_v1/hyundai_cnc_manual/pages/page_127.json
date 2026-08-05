@@ -1,0 +1,211 @@
+{
+  "page": 127,
+  "document_id": "doc_caa693b1",
+  "page_bbox": {
+    "width": 595.0,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_0817",
+      "reading_order": 1070,
+      "section": "2-6-2. Around the Machine",
+      "bbox": {
+        "l": 99.3,
+        "t": 741.9146599999999,
+        "r": 247.81744200000009,
+        "b": 733.0429409281768
+      },
+      "content": "Adjustment of Belt Tensions"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0818",
+      "reading_order": 1071,
+      "section": "2-6-2. Around the Machine",
+      "bbox": {
+        "l": 120.540396,
+        "t": 724.8746479999999,
+        "r": 307.4915519999997,
+        "b": 716.0029289281767
+      },
+      "content": "Adjusting the tension of spindle belt."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0819",
+      "reading_order": 1072,
+      "section": "2-6-2. Around the Machine",
+      "bbox": {
+        "l": 141.841914,
+        "t": 707.8947559999999,
+        "r": 247.44469800000002,
+        "b": 699.0230369281768
+      },
+      "content": "The spindle belt should"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0215",
+      "reading_order": 1073,
+      "section": "2-6-2. Around the Machine",
+      "bbox": {
+        "l": 78.79706573486328,
+        "t": 684.1095886230469,
+        "r": 542.7005615234375,
+        "b": 494.9020690917969
+      },
+      "image_path": "figures/figure_0215.png",
+      "previous_block_id": "txt_0819",
+      "next_block_id": "txt_0820",
+      "image_hash": "8042184aa6c0be81c267ef418a12e827568e7431ec503d121371ae1485da1d64",
+      "width": 464,
+      "height": 189
+    },
+    {
+      "type": "caption",
+      "id": "txt_0820",
+      "reading_order": 1074,
+      "section": "2-6-2. Around the Machine",
+      "bbox": {
+        "l": 236.400654,
+        "t": 469.87566800000013,
+        "r": 375.934164,
+        "b": 461.0039489281769
+      },
+      "content": "Fig. 5-32  Spindle Belt Tension",
+      "caption_for": "tbl_0041"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0821",
+      "reading_order": 1075,
+      "section": "2-6-2. Around the Machine",
+      "bbox": {
+        "l": 251.700192,
+        "t": 435.9158840000001,
+        "r": 360.63162,
+        "b": 427.0441649281769
+      },
+      "content": "Table 5-2.  Belt Tension",
+      "caption_for": "tbl_0041"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0822",
+      "reading_order": 1076,
+      "section": "2-6-2. Around the Machine",
+      "bbox": {
+        "l": 478.680246,
+        "t": 418.87587200000013,
+        "r": 544.1759760000002,
+        "b": 410.0041529281769
+      },
+      "content": "Unit : mm (in)"
+    },
+    {
+      "type": "table",
+      "id": "tbl_0041",
+      "reading_order": 1077,
+      "section": "2-6-2. Around the Machine",
+      "bbox": {
+        "l": 64.50408935546875,
+        "t": 392.00433349609375,
+        "r": 539.2305908203125,
+        "b": 326.33050537109375
+      },
+      "markdown": "| Model   | Belt Displacement   | Load          |\n|---------|---------------------|---------------|\n| SKT100  | 10.8mm(0.43)        | 15.4kgf(154N) |\n| SKT200  | 10.9mm(0.43)        | 17kgf(170N)   |",
+      "caption_id": "txt_0821",
+      "title": "Table 5-2.  Belt Tension",
+      "table_number": "Table 5-2",
+      "rows": 3,
+      "cols": 3
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0823",
+      "reading_order": 1078,
+      "section": "2-6-2. Around the Machine",
+      "bbox": {
+        "l": 120.540042,
+        "t": 302.8948680000001,
+        "r": 285.00130799999994,
+        "b": 294.02314892817685
+      },
+      "content": "Used tool: wrench (6mm and 12mm)"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0824",
+      "reading_order": 1079,
+      "section": "2-6-2. Around the Machine",
+      "bbox": {
+        "l": 120.540042,
+        "t": 285.914976,
+        "r": 466.936451999999,
+        "b": 277.0432569281768
+      },
+      "content": "Unscrew bolts, turn setscrews under bracket and then adjust the tension."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0825",
+      "reading_order": 1080,
+      "section": "2-6-2. Around the Machine",
+      "bbox": {
+        "l": 120.54004199999997,
+        "t": 268.8749640000001,
+        "r": 478.0967279999998,
+        "b": 260.00324492817685
+      },
+      "content": "After adjustment of tension, secure bolts and engage the above set screws."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0216",
+      "reading_order": 1081,
+      "section": "2-6-2. Around the Machine",
+      "bbox": {
+        "l": 229.5865936279297,
+        "t": 234.98297119140625,
+        "r": 261.7569580078125,
+        "b": 203.23162841796875
+      },
+      "image_path": "figures/figure_0216.png",
+      "previous_block_id": "txt_0825",
+      "next_block_id": "txt_0826",
+      "width": 32,
+      "height": 31,
+      "decorative": true,
+      "image_hash": "809e2dcc29037473aa9c99e195e036ee63cca5d0613f88120d79cd3202e792cd"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_0826",
+      "reading_order": 1082,
+      "severity": "caution",
+      "content": "CAUTION: When adjusting the tension belt, tighten both of setscrews in bracket to equally to allot the bracket to move horizontally.",
+      "section": "CAUTION",
+      "bbox": {
+        "l": 271.86,
+        "t": 226.14275999999995,
+        "r": 349.206162,
+        "b": 211.95863429834253
+      }
+    }
+  ],
+  "page_stats": {
+    "block_count": 13,
+    "text_blocks": 10,
+    "paragraphs": 3,
+    "headings": 0,
+    "list_items": 4,
+    "captions": 2,
+    "admonitions": 1,
+    "references": 0,
+    "figures": 2,
+    "tables": 1,
+    "toc_tables": 0
+  }
+}

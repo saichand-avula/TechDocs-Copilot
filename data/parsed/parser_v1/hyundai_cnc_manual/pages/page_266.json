@@ -1,0 +1,70 @@
+{
+  "page": 266,
+  "document_id": "doc_caa693b1",
+  "page_bbox": {
+    "width": 595.0,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_1891",
+      "reading_order": 2429,
+      "section": "2-4-8. SIGNAL DETAILS - The peripheral equipment",
+      "bbox": {
+        "l": 70.92,
+        "t": 757.5146659999999,
+        "r": 316.99115999999987,
+        "b": 748.6429469281768
+      },
+      "content": "2-4-8. SIGNAL DETAILS - The peripheral equipment",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0393",
+      "reading_order": 2430,
+      "section": "2-4-8. SIGNAL DETAILS - The peripheral equipment",
+      "bbox": {
+        "l": 253.0263214111328,
+        "t": 270.7340087890625,
+        "r": 284.8586120605469,
+        "b": 237.77734375
+      },
+      "image_path": "figures/figure_0393.png",
+      "previous_block_id": "txt_1891",
+      "image_hash": "4895e398935c84a305a04b8e995e3ee6ccfa868eca5e49b0fdcf6872ccb5d1ea",
+      "width": 32,
+      "height": 33
+    },
+    {
+      "type": "table",
+      "id": "tbl_0148",
+      "reading_order": 2431,
+      "section": "2-4-8. SIGNAL DETAILS - The peripheral equipment",
+      "bbox": {
+        "l": 70.241455078125,
+        "t": 738.0026168823242,
+        "r": 516.27685546875,
+        "b": 113.9351806640625
+      },
+      "markdown": "| SYMB   | ADD.   | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |\n|--------|--------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| DEN2   | X64.0  | Remaining travel in-range signal This signal indicates that, in the servo unit, the number of axis move command distribution pulses that have not been used for axis movement (residual movement amount) is smaller than a parameter-specified value. • The signal becomes 1 when : - The number of axis move command distribution pulses that have not been used for axis movement (residual movement amount) is smaller than a parameter-specified value. • The signal becomes 0 when : - The number of axis move command distribution pulses that have not been used for axis movement (residual movement amount) is larger than a parameter-specified value. - When the value of a parameter for the remaining travel in-range signal is 0. CAUTION 1. The DEN2 signal remains 0 during jog feed (JOG). 2. The DEN2 signal maintains its current state |\n| IPLX   | X64.1  | Distribution pulse signal This signal indicates that the servo unit has axis move command distribution pulses that have not been used for axis movement (residual movement amount). • The signal is 1 when : - There are axis move command distribution pulses that have not been used for axis movement (residual movement amount). • The signal is 0 when : - There are no axis move command distribution pulses that have not been used for axis movement (residual movement amount). CAUTION The IPLX signal is valid while jog feed (JOG)                                                                                                                                                                                                                                                                                                             |\n| SUPX   | X64.2  | Acceleration/deceleration pulse signal This signal indicates that the servo unit has accumulated pulses in the acceleration/deceleration control section. • The signal is 1 when axis movement distribution pulses are accumulated in the ACC/DEC control section. • The signal is 0 when no axis movement distribution pulses are ac- cumulated in the ACC/DEC control section.                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |",
+      "rows": 4,
+      "cols": 3
+    }
+  ],
+  "page_stats": {
+    "block_count": 3,
+    "text_blocks": 1,
+    "paragraphs": 0,
+    "headings": 1,
+    "list_items": 0,
+    "captions": 0,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 1,
+    "tables": 1,
+    "toc_tables": 0
+  }
+}

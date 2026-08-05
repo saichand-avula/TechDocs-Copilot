@@ -1,0 +1,211 @@
+{
+  "page": 79,
+  "document_id": "doc_1032c87b",
+  "page_bbox": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  },
+  "blocks": [
+    {
+      "type": "paragraph",
+      "id": "txt_0654",
+      "reading_order": 825,
+      "section": "7.4.3 iStars Email settings",
+      "bbox": {
+        "l": 77.904,
+        "t": 722.8676629101562,
+        "r": 541.4120799999994,
+        "b": 682.196101363195
+      },
+      "content": "After setting Email address of recipient, and then click on \"Send test Email\" to test whether sending function of Email is normal or not. If function of Email is normal, Email recipient will receive a test Email."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0655",
+      "reading_order": 826,
+      "section": "7.4.4 iStars Short Message Settings",
+      "bbox": {
+        "l": 74.664,
+        "t": 664.3959829101562,
+        "r": 286.846,
+        "b": 653.6328447886093
+      },
+      "content": "7.4.4 iStars Short Message Settings",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0656",
+      "reading_order": 827,
+      "section": "7.4.4 iStars Short Message Settings",
+      "bbox": {
+        "l": 77.904,
+        "t": 634.4276629101563,
+        "r": 541.4159199999997,
+        "b": 562.5261013631949
+      },
+      "content": "For short message function, iStars should be connected to GPRS module. Related data and event of  UPS that detected is sent in the form of short message. The setting interface includes short message communication status, test setting and mobile phone of recipient of short message (used to  receive  event notification).  After settings are completed, click on \"Apply\" and the operation is completed."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0130",
+      "reading_order": 828,
+      "section": "7.4.4 iStars Short Message Settings",
+      "bbox": {
+        "l": 168.76471347439596,
+        "t": 561.3283950575957,
+        "r": 447.6009542331976,
+        "b": 372.82751158061444
+      },
+      "image_path": "figures/figure_0130.png",
+      "previous_block_id": "txt_0656",
+      "next_block_id": "txt_0657"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0657",
+      "reading_order": 829,
+      "section": "7.4.4 iStars Short Message Settings",
+      "bbox": {
+        "l": 210.77,
+        "t": 369.1776629101563,
+        "r": 403.11568,
+        "b": 359.706101363195
+      },
+      "content": "Figure 7-11: Short message setting page"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0658",
+      "reading_order": 830,
+      "section": "(1) Status of short message",
+      "bbox": {
+        "l": 77.904,
+        "t": 353.5776629101563,
+        "r": 214.42568,
+        "b": 344.10610136319497
+      },
+      "content": "(1) Status of short message",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0659",
+      "reading_order": 831,
+      "section": "(1) Status of short message",
+      "bbox": {
+        "l": 77.904,
+        "t": 337.9776629101563,
+        "r": 541.61568,
+        "b": 312.9061013631949
+      },
+      "content": "To  display  communication  status,  signal  quality,  manufacture  and  other  related  information  of external GPRS module of iStars."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0660",
+      "reading_order": 832,
+      "section": "(2) Short message setting",
+      "bbox": {
+        "l": 77.904,
+        "t": 306.7776629101563,
+        "r": 206.38567999999998,
+        "b": 297.306101363195
+      },
+      "content": "(2) Short message setting",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0661",
+      "reading_order": 833,
+      "section": "(2) Short message setting",
+      "bbox": {
+        "l": 77.904,
+        "t": 291.1776629101563,
+        "r": 541.3159999999997,
+        "b": 266.10610136319497
+      },
+      "content": "Network type-setting and set whether to send the related event through short message when it detects abnormal stats of UPS."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0662",
+      "reading_order": 834,
+      "section": "(2) Short message setting",
+      "bbox": {
+        "l": 77.904,
+        "t": 259.97766291015625,
+        "r": 218.86568,
+        "b": 250.50610136319494
+      },
+      "content": "Mobile phone number 1~8"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0663",
+      "reading_order": 835,
+      "section": "(2) Short message setting",
+      "bbox": {
+        "l": 77.904,
+        "t": 244.37766291015623,
+        "r": 484.35568,
+        "b": 234.90610136319492
+      },
+      "content": "Set receiver's mobile phone number and it supports 8 mobile phone numbers at most."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0664",
+      "reading_order": 836,
+      "section": "(2) Short message setting",
+      "bbox": {
+        "l": 77.904,
+        "t": 228.77766291015632,
+        "r": 130.99568,
+        "b": 219.306101363195
+      },
+      "content": "Select"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0665",
+      "reading_order": 837,
+      "section": "(2) Short message setting",
+      "bbox": {
+        "l": 77.904,
+        "t": 213.14766291015633,
+        "r": 541.2451199999995,
+        "b": 188.076101363195
+      },
+      "content": "The  page  selects  the  events  detected  by  iStars  and  sends  them,  in  whole  or  in  part,  to  the corresponding mobile phone number. Specific events are shown in Figure 7-10."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0666",
+      "reading_order": 838,
+      "section": "(5) Test setting",
+      "bbox": {
+        "l": 77.904,
+        "t": 181.94766291015628,
+        "r": 154.75567999999998,
+        "b": 172.47610136319497
+      },
+      "content": "(5) Test setting",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0667",
+      "reading_order": 839,
+      "section": "(5) Test setting",
+      "bbox": {
+        "l": 77.904,
+        "t": 166.34766291015626,
+        "r": 541.4129599999994,
+        "b": 125.6761013631949
+      },
+      "content": "Test receiver's mobile phone number of short messages. Test whether functions of the page can be used and whether the receiver's mobile phone number can receive message. Click on \"Test\" and then the receiver will receive a test message."
+    }
+  ]
+}

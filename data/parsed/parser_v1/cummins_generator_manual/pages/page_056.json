@@ -1,0 +1,253 @@
+{
+  "page": 56,
+  "document_id": "doc_c203a4f3",
+  "page_bbox": {
+    "width": 612.3599853515625,
+    "height": 792.4320068359375
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0656",
+      "reading_order": 693,
+      "section": "MUFFLER/SPARK ARRESTER",
+      "bbox": {
+        "l": 83.7921,
+        "t": 738.0270068359374,
+        "r": 255.15689999999995,
+        "b": 727.2077469606776
+      },
+      "content": "MUFFLER/SPARK ARRESTER",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0657",
+      "reading_order": 694,
+      "section": "MUFFLER/SPARK ARRESTER",
+      "bbox": {
+        "l": 47.5654,
+        "t": 718.5436068359375,
+        "r": 291.6268000000006,
+        "b": 645.3593492035387
+      },
+      "content": "It may be necessary to clean out the spark arrester if the generator set is experiencing low power. Park the vehicle away from grass, brush or debris that could be ignited by sparks expelled during this procedure. The spark arrester meets U.S. Forest Service requirements."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0658",
+      "reading_order": 695,
+      "section": "MUFFLER/SPARK ARRESTER",
+      "bbox": {
+        "l": 47.5654,
+        "t": 632.5412068359375,
+        "r": 291.5673999999999,
+        "b": 546.7718492035389
+      },
+      "content": "To clean the spark arrester, park the vehicle on a non-flammable, washable surface, and remove the 1/8 inch pipe plug from the bottom of the muffler. Run the generator set with a full load for five minutes.  Stop the generator set and allow the muffler to cool.  Replace the pipe plug in the muffler.  See Figure 7-8.",
+      "hyperlink_hint": true
+    },
+    {
+      "type": "figure",
+      "id": "fig_0036",
+      "reading_order": 696,
+      "section": "MUFFLER/SPARK ARRESTER",
+      "bbox": {
+        "l": 46.16001323232309,
+        "t": 535.8262327939291,
+        "r": 290.99287255208793,
+        "b": 363.1880184417788
+      },
+      "image_path": "figures/figure_0036.png",
+      "previous_block_id": "txt_0658",
+      "next_block_id": "txt_0659",
+      "caption_id": "txt_0659",
+      "caption": ".  EXHAUST MUFFLER",
+      "figure_number": "FIGURE 8-8",
+      "image_hash": "46fb4447779e65f7e7ec4ca2277668b7524016e9eda95a613ca5280371dfb1de",
+      "width": 245,
+      "height": 172
+    },
+    {
+      "type": "caption",
+      "id": "txt_0659",
+      "reading_order": 697,
+      "section": "MUFFLER/SPARK ARRESTER",
+      "bbox": {
+        "l": 87.874,
+        "t": 351.5327068359375,
+        "r": 249.28599999999994,
+        "b": 342.51665693988764
+      },
+      "content": "FIGURE 8-8.  EXHAUST MUFFLER",
+      "caption_for": "fig_0036"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0660",
+      "reading_order": 698,
+      "section": "ALTERNATOR",
+      "bbox": {
+        "l": 402.463,
+        "t": 738.0270068359374,
+        "r": 483.21939999999995,
+        "b": 727.2077469606776
+      },
+      "content": "ALTERNATOR",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0661",
+      "reading_order": 699,
+      "section": "Note: There is a consumer alternator service strategy change starting with HDKAG Spec J to K alternators/serialized alternators. See below for more information.",
+      "bbox": {
+        "l": 320.9386,
+        "t": 720.0367068359375,
+        "r": 564.7866000000007,
+        "b": 677.5136569398877
+      },
+      "content": "Note: There is a consumer alternator service strategy change starting with HDKAG Spec J to K alternators/serialized alternators. See below for more information.",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0662",
+      "reading_order": 700,
+      "section": "Note: There is a consumer alternator service strategy change starting with HDKAG Spec J to K alternators/serialized alternators. See below for more information.",
+      "bbox": {
+        "l": 320.9386,
+        "t": 670.9783068359375,
+        "r": 564.7645999999997,
+        "b": 610.4935492035388
+      },
+      "content": "Beginning with HDKAG Spec K the rotor (A) and stator (B) will no longer be orderable as individual service parts. Going forward there will be one part number for the complete alternator assembly (C). See Table 8 -2."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0663",
+      "reading_order": 701,
+      "section": "TABLE 8 -2. SUMMARY OF SERVICE STRATEGY CHANGE",
+      "bbox": {
+        "l": 326.83349999999996,
+        "t": 604.1379068359375,
+        "r": 558.7772999999999,
+        "b": 581.5779519502827
+      },
+      "content": "TABLE 8 -2. SUMMARY OF SERVICE STRATEGY CHANGE",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "table",
+      "id": "tbl_0004",
+      "reading_order": 702,
+      "section": "TABLE 8 -2. SUMMARY OF SERVICE STRATEGY CHANGE",
+      "bbox": {
+        "l": 319.75285206358956,
+        "t": 575.6087088035067,
+        "r": 566.5893650008549,
+        "b": 484.92876477562584
+      },
+      "markdown": "|                | Before - Spec J Alternators   | After - Spec K Alternators                     |\n|----------------|-------------------------------|------------------------------------------------|\n| Rotor Failure  | Replace with A                | Replace with C (Alternator Assembly) Assembly) |\n| Stator Failure | Replace with B                | Replace with C (Alternator Assembly) Assembly) |",
+      "title": "TABLE 8 -2. SUMMARY OF SERVICE STRATEGY CHANGE",
+      "table_number": "TABLE 8",
+      "rows": 3,
+      "cols": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0664",
+      "reading_order": 703,
+      "section": "TABLE 8 -2. SUMMARY OF SERVICE STRATEGY CHANGE",
+      "bbox": {
+        "l": 320.9386,
+        "t": 480.1500068359375,
+        "r": 564.7909999999997,
+        "b": 356.39654920353894
+      },
+      "content": "The new (Spec K) may have slightly different characteristics,  but  the  overall  form,  fit,  function,  and performance will be the same as that of existing alternators. New spec alternators will be backwards compatible  with  old  spec  generator  set  models. However,  the  new  spec  and  old  spec  alternator parts are not interchangeable. If a rotor or stator fails in the existing alternator, the entire alternator must be replaced with the new (Spec K) alternator assembly."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0665",
+      "reading_order": 704,
+      "section": "TABLE 8 -2. SUMMARY OF SERVICE STRATEGY CHANGE",
+      "bbox": {
+        "l": 320.9386,
+        "t": 350.0981068359377,
+        "r": 564.8823000000004,
+        "b": 327.54024920353896
+      },
+      "content": "Wiring connections and labels will remain the same as the old spec alternators."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0666",
+      "reading_order": 705,
+      "section": "TABLE 8 -2. SUMMARY OF SERVICE STRATEGY CHANGE",
+      "bbox": {
+        "l": 320.9386,
+        "t": 321.1846068359377,
+        "r": 564.758,
+        "b": 285.984449203539
+      },
+      "content": "Each new spec alternator is serialized. The serial number sticker will be located on the stator and rotor."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0667",
+      "reading_order": 706,
+      "section": "TABLE 8 -2. SUMMARY OF SERVICE STRATEGY CHANGE",
+      "bbox": {
+        "l": 320.9386,
+        "t": 279.62880683593767,
+        "r": 564.7008000000006,
+        "b": 257.07094920353893
+      },
+      "content": "New spec alternators may have different cold resistive (R) values depending on model."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0668",
+      "reading_order": 707,
+      "section": "TABLE 8 -2. SUMMARY OF SERVICE STRATEGY CHANGE",
+      "bbox": {
+        "l": 320.9386,
+        "t": 250.77250683593775,
+        "r": 564.7007999999997,
+        "b": 228.214649203539
+      },
+      "content": "Bearings and slip rings with not be individually replaceable on the new spec alternators."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0669",
+      "reading_order": 708,
+      "section": "TABLE 8 -2. SUMMARY OF SERVICE STRATEGY CHANGE",
+      "bbox": {
+        "l": 320.9386,
+        "t": 221.85900683593775,
+        "r": 564.7899000000002,
+        "b": 161.37424920353897
+      },
+      "content": "The alternator brush block, end bell and stator can be removed from the top of the alternator/engine base, leaving the rotor in place. It is necessary to remove the rotor drive pulley before the rotor can be pulled up out of the base."
+    }
+  ],
+  "page_stats": {
+    "block_count": 16,
+    "text_blocks": 14,
+    "paragraphs": 9,
+    "headings": 4,
+    "list_items": 0,
+    "captions": 1,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 1,
+    "tables": 1,
+    "toc_tables": 0
+  }
+}

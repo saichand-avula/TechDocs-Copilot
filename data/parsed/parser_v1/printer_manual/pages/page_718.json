@@ -1,0 +1,83 @@
+{
+  "page": 718,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_5524",
+      "reading_order": 7613,
+      "section": "Printer front view (MFP)",
+      "bbox": {
+        "l": 45.0,
+        "t": 733.806,
+        "r": 176.55800000000002,
+        "b": 717.58
+      },
+      "content": "Printer front view (MFP)",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_5525",
+      "reading_order": 7614,
+      "section": "Printer front view (MFP)",
+      "bbox": {
+        "l": 90.99799999999999,
+        "t": 709.29,
+        "r": 258.61799999999994,
+        "b": 697.7
+      },
+      "content": "Locate features on the front of the printer ."
+    },
+    {
+      "type": "figure",
+      "id": "fig_2034",
+      "reading_order": 7615,
+      "section": "Printer front view (MFP)",
+      "bbox": {
+        "l": 89.89040751430136,
+        "t": 689.1571960449219,
+        "r": 378.06512644908884,
+        "b": 415.0434265136719
+      },
+      "image_path": "figures/figure_2034.png",
+      "image_hash": "4a1c9022dd8d9cf3265a39cc95038ee0384e006b16462f48786e4ed8edac3153",
+      "width": 288,
+      "height": 274,
+      "previous_block_id": "txt_5525"
+    },
+    {
+      "type": "table",
+      "id": "tbl_0058",
+      "reading_order": 7616,
+      "section": "Printer front view (MFP)",
+      "bbox": {
+        "l": 89.63218251775419,
+        "t": 412.10076904296875,
+        "r": 541.1345396782295,
+        "b": 93.48529052734375
+      },
+      "markdown": "|   1 | Document-feeder cover (access for clearing jams)                                                                                                 |\n|-----|--------------------------------------------------------------------------------------------------------------------------------------------------|\n|   2 | Document-feeder input tray                                                                                                                       |\n|   3 | Document-feeder output bin NOTE: When feeding long paper through the document feeder, extend the paper stop at the right side of the output bin. |\n|   4 | Control panel with color touchscreen display (tilts up for easier viewing)                                                                       |\n|   5 | Physical keyboard (c and z models only). Pull the keyboard straight out to use it.                                                               |\n|   6 | Convenience stapler (c, f, and z models only)                                                                                                    |\n|   7 | On/off button                                                                                                                                    |\n|   8 | Formatter cover                                                                                                                                  |\n|   9 | Optional 1 x 550-sheet paper feeder (Tray 3)                                                                                                     |\n|  10 | Tray 2                                                                                                                                           |\n|  11 | Model name                                                                                                                                       |\n|  12 | Tray 1                                                                                                                                           |\n|  13 | Top cover (access to the toner cartridge) NOTE: The release button for the top cover is on the left side of the printer .                        |\n|  14 | Standard output bin                                                                                                                              |",
+      "rows": 14,
+      "cols": 2
+    }
+  ],
+  "page_stats": {
+    "block_count": 4,
+    "text_blocks": 2,
+    "paragraphs": 1,
+    "headings": 1,
+    "list_items": 0,
+    "captions": 0,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 1,
+    "tables": 1,
+    "toc_tables": 0
+  }
+}

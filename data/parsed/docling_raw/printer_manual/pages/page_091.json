@@ -1,0 +1,145 @@
+{
+  "page": 91,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_0844",
+      "reading_order": 1090,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 122.0,
+        "t": 732.29,
+        "r": 545.1000000000004,
+        "b": 708.7
+      },
+      "content": "If the flat cable (callout 1) is not in the opening (callout 2) in the control panel base, carefully reach in and thread the flat cable through the opening."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0845",
+      "reading_order": 1091,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 122.0,
+        "t": 458.42,
+        "r": 480.67000000000024,
+        "b": 446.83
+      },
+      "content": "Position the keyboard flat cable in the connector, and then close the connector latch."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0846",
+      "reading_order": 1092,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 144.0,
+        "t": 434.92,
+        "r": 512.5100000000001,
+        "b": 423.33
+      },
+      "content": "IMPORTANT: Slightly tug on the cable to make sure that it is fully captured in the connector ."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0847",
+      "reading_order": 1093,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 144.0,
+        "t": 413.92,
+        "r": 541.8900000000001,
+        "b": 390.33
+      },
+      "content": "NOTE: When the connector latch is closed and the cable is correctly installed, the white line on the cable is parallel to the connector latch."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0233",
+      "reading_order": 1094,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 142.94157469519453,
+        "t": 686.9210052490234,
+        "r": 432.6602445395836,
+        "b": 469.649169921875
+      },
+      "image_path": "figures/figure_0233.png",
+      "caption": "Check the flat cable",
+      "figure_number": "Figure 1-106",
+      "image_hash": "9c6a29a3f3c4c5f5b11f4ddb80ad8df741176be1f0eca02830720b512e53b3d8",
+      "width": 290,
+      "height": 217,
+      "previous_block_id": "txt_0847",
+      "next_block_id": "txt_0848",
+      "caption_id": "txt_0848"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0848",
+      "reading_order": 1095,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 144.00006000000002,
+        "t": 699.29,
+        "r": 278.71004999999997,
+        "b": 687.7
+      },
+      "content": "Figure 1-106  Check the flat cable",
+      "caption_for": "fig_0233"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0234",
+      "reading_order": 1096,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 142.84189017700706,
+        "t": 367.48101806640625,
+        "r": 410.71784579276164,
+        "b": 125.758056640625
+      },
+      "image_path": "figures/figure_0234.png",
+      "caption": "Close the flat cable latch",
+      "figure_number": "Figure 1-107",
+      "image_hash": "bf3969dc66fb2ec712bc8699c1ca3114816988a93d6486d29b56e0db43a69b46",
+      "width": 268,
+      "height": 241,
+      "previous_block_id": "txt_0848",
+      "next_block_id": "txt_0849",
+      "caption_id": "txt_0849"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0849",
+      "reading_order": 1097,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 144.0,
+        "t": 379.42,
+        "r": 298.05999999999995,
+        "b": 367.83
+      },
+      "content": "Figure 1-107  Close the flat cable latch",
+      "caption_for": "fig_0234"
+    }
+  ],
+  "page_stats": {
+    "block_count": 8,
+    "text_blocks": 6,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 4,
+    "captions": 2,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 2,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

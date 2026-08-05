@@ -1,0 +1,178 @@
+{
+  "page": 199,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_1774",
+      "reading_order": 2330,
+      "section": "12. Remove the right cover.",
+      "bbox": {
+        "l": 122.0,
+        "t": 732.29,
+        "r": 376.89000000000004,
+        "b": 720.7
+      },
+      "content": "Rotate the front of the cover up and away from the printer."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0531",
+      "reading_order": 2331,
+      "section": "12. Remove the right cover.",
+      "bbox": {
+        "l": 128.02540931966345,
+        "t": 710.7083587646484,
+        "r": 142.27453031217007,
+        "b": 697.9434280395508
+      },
+      "image_path": "figures/figure_0531.png",
+      "decorative": true,
+      "width": 14,
+      "height": 12,
+      "image_hash": "6ddc14fae5c97fc2ddc652822307af1aafa4a823318be6921a15605ea36ce536",
+      "previous_block_id": "txt_1774",
+      "next_block_id": "txt_1775"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_1775",
+      "reading_order": 2332,
+      "section": "12. Remove the right cover.",
+      "bbox": {
+        "l": 144.0,
+        "t": 708.79,
+        "r": 536.6,
+        "b": 685.2
+      },
+      "content": "CAUTION: As the cover is rotated up, carefully pass the cables and wire harnesses the hole in the cover (callout 1).",
+      "severity": "caution"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0532",
+      "reading_order": 2333,
+      "section": "12. Remove the right cover.",
+      "bbox": {
+        "l": 142.94012579231392,
+        "t": 661.902587890625,
+        "r": 432.53460178241886,
+        "b": 444.4852294921875
+      },
+      "image_path": "figures/figure_0532.png",
+      "caption": "Rotate the front of the cover up",
+      "figure_number": "Figure 1-278",
+      "image_hash": "ebec4079b2c66a5d93167e6a7acdab1847130cdcdc78d4802d53407aa1d0f5ae",
+      "width": 290,
+      "height": 218,
+      "previous_block_id": "txt_1775",
+      "next_block_id": "txt_1776",
+      "caption_id": "txt_1776"
+    },
+    {
+      "type": "caption",
+      "id": "txt_1776",
+      "reading_order": 2334,
+      "section": "12. Remove the right cover.",
+      "bbox": {
+        "l": 144.0,
+        "t": 674.29,
+        "r": 326.4299899999999,
+        "b": 662.7
+      },
+      "content": "Figure 1-278  Rotate the front of the cover up",
+      "caption_for": "fig_0532"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1777",
+      "reading_order": 2335,
+      "section": "12. Remove the right cover.",
+      "bbox": {
+        "l": 122.0,
+        "t": 433.42,
+        "r": 217.14000999999993,
+        "b": 421.83
+      },
+      "content": "Remove the cover."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1778",
+      "reading_order": 2336,
+      "section": "12. Remove the right cover.",
+      "bbox": {
+        "l": 100.0,
+        "t": 171.54999999999995,
+        "r": 262.63999999999993,
+        "b": 159.96000000000004
+      },
+      "content": "Unpack the replacement assembly."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1779",
+      "reading_order": 2337,
+      "section": "12. Remove the right cover.",
+      "bbox": {
+        "l": 122.0,
+        "t": 150.54999999999995,
+        "r": 261.1099999999999,
+        "b": 138.96000000000004
+      },
+      "content": "Dispose of the defective part."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0533",
+      "reading_order": 2338,
+      "section": "12. Remove the right cover.",
+      "bbox": {
+        "l": 142.95176277018678,
+        "t": 399.9231872558594,
+        "r": 432.4653289731154,
+        "b": 182.6220703125
+      },
+      "image_path": "figures/figure_0533.png",
+      "caption": "Remove the cover",
+      "figure_number": "Figure 1-279",
+      "image_hash": "d02657f9b1ca1cd3e97abdecbbfbb5720c581e2a65d0635a38e2bc949fa2df21",
+      "width": 289,
+      "height": 217,
+      "previous_block_id": "txt_1779",
+      "next_block_id": "txt_1780",
+      "caption_id": "txt_1780"
+    },
+    {
+      "type": "caption",
+      "id": "txt_1780",
+      "reading_order": 2339,
+      "section": "12. Remove the right cover.",
+      "bbox": {
+        "l": 144.00002,
+        "t": 412.42,
+        "r": 272.9000199999999,
+        "b": 400.83
+      },
+      "content": "Figure 1-279  Remove the cover",
+      "caption_for": "fig_0533"
+    }
+  ],
+  "page_stats": {
+    "block_count": 10,
+    "text_blocks": 7,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 4,
+    "captions": 2,
+    "admonitions": 1,
+    "references": 0,
+    "figures": 3,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

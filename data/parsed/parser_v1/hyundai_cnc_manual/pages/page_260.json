@@ -1,0 +1,110 @@
+{
+  "page": 260,
+  "document_id": "doc_caa693b1",
+  "page_bbox": {
+    "width": 595.0,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_1873",
+      "reading_order": 2397,
+      "section": "CAUTION",
+      "bbox": {
+        "l": 85.14,
+        "t": 770.1104,
+        "r": 255.29306400000002,
+        "b": 757.84592
+      },
+      "content": "β AMP Dl signal(PMM CNC)"
+    },
+    {
+      "type": "table",
+      "id": "tbl_0144",
+      "reading_order": 2398,
+      "section": "CAUTION",
+      "bbox": {
+        "l": 74.52788543701172,
+        "t": 735.3283233642578,
+        "r": 554.951904296875,
+        "b": 460.2317810058594
+      },
+      "markdown": "| ADRESS              | 7                                            | 6                                            | 5                                            | 4                                            | 3                                            | 2                                            | 1                                            | 0                                            |\n|---------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|\n| ADRESS              | 128                                          | 64                                           | 32                                           | 16                                           | 8                                            | 4                                            | 2                                            | 1                                            |\n| Y64 (016)           | OPC4                                         | OPC3                                         | OPC2                                         | OPC1                                         | INPX                                         | SUPX                                         | IPLX                                         | DEN2                                         |\n| Y64 (016)           |                                              |                                              |                                              |                                              | 1                                            |                                              |                                              |                                              |\n| Y65 (017)           | OP                                           | SA                                           | STL                                          | UCPC2                                        |                                              |                                              | DRCO                                         | ABSWT                                        |\n| Y65 (017)           | 1                                            | 1                                            |                                              |                                              |                                              |                                              |                                              |                                              |\n| Y66 (018)           | MA                                           | AL                                           | DSP2                                         | DSP1                                         | DSALO                                        | TRQM                                         | RST                                          | ZPX                                          |\n| Y66 (018)           | 1                                            | 1                                            |                                              |                                              |                                              |                                              |                                              |                                              |\n| Y67(019) ~ X70(022) | Response DATA (Current TOOL NO.) BINARY DATA | Response DATA (Current TOOL NO.) BINARY DATA | Response DATA (Current TOOL NO.) BINARY DATA | Response DATA (Current TOOL NO.) BINARY DATA | Response DATA (Current TOOL NO.) BINARY DATA | Response DATA (Current TOOL NO.) BINARY DATA | Response DATA (Current TOOL NO.) BINARY DATA | Response DATA (Current TOOL NO.) BINARY DATA |\n| Y71 (023)           |                                              | SVERX                                        |                                              | PSG2                                         | PSG1                                         | MVX                                          | APBAL                                        | MVDX                                         |\n| Y71 (023)           |                                              |                                              |                                              | 1                                            | 1                                            |                                              |                                              |                                              |",
+      "rows": 11,
+      "cols": 9
+    },
+    {
+      "type": "figure",
+      "id": "fig_0383",
+      "reading_order": 2399,
+      "section": "CAUTION",
+      "bbox": {
+        "l": 226.45782470703125,
+        "t": 423.3201599121094,
+        "r": 257.9415283203125,
+        "b": 392.3948669433594
+      },
+      "image_path": "figures/figure_0383.png",
+      "previous_block_id": "txt_1873",
+      "next_block_id": "txt_1874",
+      "image_hash": "1f890bf36bb82e8df44b0170a11c993ec6a901543ed39bec6e2b04b77cd58d84",
+      "width": 32,
+      "height": 31
+    },
+    {
+      "type": "heading",
+      "id": "txt_1874",
+      "reading_order": 2400,
+      "section": "CAUTION",
+      "bbox": {
+        "l": 274.68,
+        "t": 410.34266,
+        "r": 352.03257,
+        "b": 396.15853429834254
+      },
+      "content": "CAUTION",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1875",
+      "reading_order": 2401,
+      "section": "CAUTION",
+      "bbox": {
+        "l": 99.300408,
+        "t": 369.854786,
+        "r": 503.56933199999884,
+        "b": 360.98306692817675
+      },
+      "content": "DGN numbers 016 to 031 correspond to signal addresses Xx+O to Xx+15. respectively."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1876",
+      "reading_order": 2402,
+      "section": "CAUTION",
+      "bbox": {
+        "l": 99.300408,
+        "t": 358.334792,
+        "r": 516.9660719999998,
+        "b": 337.94307892817676
+      },
+      "content": "DGN numbers 024 to 031 (signal addresses Xx+8 to Xx+15)are not used for the peripheral equipment control interface are used as response area for power motion manager."
+    }
+  ],
+  "page_stats": {
+    "block_count": 6,
+    "text_blocks": 4,
+    "paragraphs": 0,
+    "headings": 1,
+    "list_items": 3,
+    "captions": 0,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 1,
+    "tables": 1,
+    "toc_tables": 0
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "page": 190,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_1720",
+      "reading_order": 2245,
+      "section": "10. Remove the left cover.",
+      "bbox": {
+        "l": 113.0,
+        "t": 732.29,
+        "r": 335.1099999999999,
+        "b": 720.7
+      },
+      "content": "At the bottom edge of the cover, release two tabs."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1721",
+      "reading_order": 2246,
+      "section": "10. Remove the left cover.",
+      "bbox": {
+        "l": 113.0,
+        "t": 470.42,
+        "r": 524.9700000000003,
+        "b": 446.83
+      },
+      "content": "Continue to rotate the front edge of the cover away from the printer (callout 1), and then slide the cover toward the rear of the printer (callout 2) to remove it."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0500",
+      "reading_order": 2247,
+      "section": "10. Remove the left cover.",
+      "bbox": {
+        "l": 133.65581541058114,
+        "t": 698.634635925293,
+        "r": 423.8478952067051,
+        "b": 482.2189025878906
+      },
+      "image_path": "figures/figure_0500.png",
+      "caption": "Release two tabs",
+      "figure_number": "Figure 1-260",
+      "image_hash": "a19f0aa42a7d098598cec0a1cbefdefb3ae633f7e9a67b1dba07876590192e53",
+      "width": 290,
+      "height": 217,
+      "previous_block_id": "txt_1721",
+      "next_block_id": "txt_1722",
+      "caption_id": "txt_1722"
+    },
+    {
+      "type": "caption",
+      "id": "txt_1722",
+      "reading_order": 2248,
+      "section": "10. Remove the left cover.",
+      "bbox": {
+        "l": 134.99998,
+        "t": 711.29,
+        "r": 260.40996999999993,
+        "b": 699.7
+      },
+      "content": "Figure 1-260  Release two tabs",
+      "caption_for": "fig_0500"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0501",
+      "reading_order": 2249,
+      "section": "10. Remove the left cover.",
+      "bbox": {
+        "l": 118.79042264230925,
+        "t": 437.07342529296875,
+        "r": 132.26846802496203,
+        "b": 423.8034362792969
+      },
+      "image_path": "figures/figure_0501.png",
+      "decorative": true,
+      "width": 13,
+      "height": 13,
+      "image_hash": "468c4ba106e84a62763eac96911df844706e17e4d5c68772da1433bc8b208991",
+      "previous_block_id": "txt_1722",
+      "next_block_id": "txt_1723"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_1723",
+      "reading_order": 2250,
+      "section": "10. Remove the left cover.",
+      "bbox": {
+        "l": 135.0,
+        "t": 434.92,
+        "r": 521.5800000000002,
+        "b": 411.33
+      },
+      "content": "NOTE: If the cover is difficult to rotate or slide as shown below, make sure that the bottom tabs (released in the previous step) are completely disengaged from the chassis.",
+      "severity": "note"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0502",
+      "reading_order": 2251,
+      "section": "10. Remove the left cover.",
+      "bbox": {
+        "l": 133.53232313032348,
+        "t": 387.8244323730469,
+        "r": 423.7201782306797,
+        "b": 170.478759765625
+      },
+      "image_path": "figures/figure_0502.png",
+      "caption": "Remove the cover",
+      "figure_number": "Figure 1-261",
+      "image_hash": "a3806871921e425e90f4f3acadf16eb2ce1ec363154487eae521809e12c9c9b7",
+      "width": 290,
+      "height": 218,
+      "previous_block_id": "txt_1723",
+      "next_block_id": "txt_1724",
+      "caption_id": "txt_1724"
+    },
+    {
+      "type": "caption",
+      "id": "txt_1724",
+      "reading_order": 2252,
+      "section": "10. Remove the left cover.",
+      "bbox": {
+        "l": 135.0,
+        "t": 400.42,
+        "r": 263.8999899999999,
+        "b": 388.83
+      },
+      "content": "Figure 1-261  Remove the cover",
+      "caption_for": "fig_0502"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1725",
+      "reading_order": 2253,
+      "section": "10. Remove the left cover.",
+      "bbox": {
+        "l": 91.0,
+        "t": 159.54999999999995,
+        "r": 431.20000000000016,
+        "b": 147.96000000000004
+      },
+      "content": "Remove the integrated-scanner assembly (ISA) (M527/E52545/M528/E52645)."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1726",
+      "reading_order": 2254,
+      "section": "10. Remove the left cover.",
+      "bbox": {
+        "l": 113.0,
+        "t": 136.05000999999993,
+        "r": 517.3500000000001,
+        "b": 112.46001000000001
+      },
+      "content": "NOTE: The ISA includes the document feeder, sub-scanner assembly (SSA), and the scanner control board (SCB)."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1727",
+      "reading_order": 2255,
+      "section": "10. Remove the left cover.",
+      "bbox": {
+        "l": 113.0,
+        "t": 101.54999999999995,
+        "r": 255.02999999999994,
+        "b": 89.96000000000004
+      },
+      "content": "Remove one screw (callout 1)."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0503",
+      "reading_order": 2256,
+      "section": "10. Remove the left cover.",
+      "bbox": {
+        "l": 96.8580899576054,
+        "t": 137.7420654296875,
+        "r": 110.05410258164082,
+        "b": 125.033203125
+      },
+      "image_path": "figures/figure_0503.png",
+      "decorative": true,
+      "width": 13,
+      "height": 12,
+      "image_hash": "c1de408d038c058ed8b358c538e5e092188ed4409e1d4fc38f057d486689e4fd",
+      "previous_block_id": "txt_1727",
+      "next_block_id": "txt_1728"
+    }
+  ],
+  "page_stats": {
+    "block_count": 12,
+    "text_blocks": 8,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 5,
+    "captions": 2,
+    "admonitions": 1,
+    "references": 0,
+    "figures": 4,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "page": 96,
+  "document_id": "doc_229deb31",
+  "page_bbox": {
+    "width": 595.219970703125,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0218",
+      "reading_order": 1031,
+      "section": "PCB(2) (module PCB)",
+      "bbox": {
+        "l": 36.37881593331694,
+        "t": 697.4645080566406,
+        "r": 562.5397414756673,
+        "b": 355.10302734375
+      },
+      "image_path": "figures/figure_0218.png",
+      "next_block_id": "txt_0756",
+      "caption_id": "txt_0756",
+      "caption": "PCB(2)",
+      "image_hash": "f232d537d11525ce968d3df3e295c707d802b56c925eeaeb70c1250a90a13204",
+      "width": 527,
+      "height": 342
+    },
+    {
+      "type": "caption",
+      "id": "txt_0756",
+      "reading_order": 1032,
+      "section": "PCB(2) (module PCB)",
+      "bbox": {
+        "l": 267.1567,
+        "t": 764.8233152,
+        "r": 300.42273315,
+        "b": 755.570538
+      },
+      "content": "PCB(2)",
+      "caption_for": "fig_0218"
+    }
+  ],
+  "page_stats": {
+    "block_count": 2,
+    "text_blocks": 1,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 0,
+    "captions": 1,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 1,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

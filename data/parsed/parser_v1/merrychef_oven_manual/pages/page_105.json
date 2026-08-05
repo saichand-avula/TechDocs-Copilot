@@ -1,0 +1,210 @@
+{
+  "page": 105,
+  "document_id": "doc_27a62e0f",
+  "page_bbox": {
+    "width": 594.9600219726562,
+    "height": 842.52001953125
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0364",
+      "reading_order": 1835,
+      "section": "6.18 Technical Data Summary Sheet",
+      "bbox": {
+        "l": 10.242710412815487,
+        "t": 718.1093436987321,
+        "r": 22.46571836360151,
+        "b": 706.279733495621
+      },
+      "image_path": "figures/figure_0364.png",
+      "next_block_id": "txt_1409",
+      "width": 12,
+      "height": 11,
+      "image_hash": "683d2dc1914c9a6eeb1a2a5aa54f7e88d3e83c1d0bbccbce94561f080e8f89d9"
+    },
+    {
+      "type": "heading",
+      "id": "txt_1409",
+      "reading_order": 1836,
+      "section": "7 Circuit boards and diagrams",
+      "bbox": {
+        "l": 36.0,
+        "t": 786.90447953125,
+        "r": 247.72319999999996,
+        "b": 774.1323086051509
+      },
+      "content": "7 Circuit boards and diagrams",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "heading",
+      "id": "txt_1410",
+      "reading_order": 1837,
+      "section": "7.1 IO circuit board",
+      "bbox": {
+        "l": 49.54859999999999,
+        "t": 748.7437595312499,
+        "r": 200.91384,
+        "b": 735.9715886051508
+      },
+      "content": "7.1 IO circuit board",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "heading",
+      "id": "txt_1411",
+      "reading_order": 1838,
+      "section": "IO LEDs",
+      "bbox": {
+        "l": 27.24336,
+        "t": 715.88055953125,
+        "r": 69.18,
+        "b": 705.959665790792
+      },
+      "content": "IO LEDs",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1412",
+      "reading_order": 1839,
+      "section": "IO LEDs",
+      "bbox": {
+        "l": 44.043,
+        "t": 689.58591953125,
+        "r": 339.42299999999994,
+        "b": 681.1382344167463
+      },
+      "content": " P-Bus - irregular flashing, indicating data communication with UI."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1413",
+      "reading_order": 1840,
+      "section": "IO LEDs",
+      "bbox": {
+        "l": 44.04299999999995,
+        "t": 676.8689195312501,
+        "r": 358.62899999999996,
+        "b": 668.4212344167463
+      },
+      "content": " Run - Pulsing 1 second flash, indicating that the board has booted up."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1414",
+      "reading_order": 1841,
+      "section": "IO LEDs",
+      "bbox": {
+        "l": 44.05200000000002,
+        "t": 664.0259195312501,
+        "r": 374.235,
+        "b": 655.5782344167463
+      },
+      "content": " 12V, 5V & 3.3V - lit to show voltages from SMPS and inboard transformer."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1415",
+      "reading_order": 1842,
+      "section": "IO LEDs",
+      "bbox": {
+        "l": 44.05200000000002,
+        "t": 651.1829195312501,
+        "r": 414.07800000000003,
+        "b": 642.7352344167464
+      },
+      "content": " Relay and triac - lit to show that a signal has been sent to energise that component."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1416",
+      "reading_order": 1843,
+      "section": "IO LEDs",
+      "bbox": {
+        "l": 44.061000000000035,
+        "t": 638.3399195312502,
+        "r": 230.11800000000005,
+        "b": 629.8922344167464
+      },
+      "content": " Door switches - lit to show door closed."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1417",
+      "reading_order": 1844,
+      "section": "IO LEDs",
+      "bbox": {
+        "l": 44.061000000000035,
+        "t": 625.4969195312502,
+        "r": 338.29800000000006,
+        "b": 617.0492344167465
+      },
+      "content": " Overheat thermostats - lit to show portion of closed safety circuit."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1418",
+      "reading_order": 1845,
+      "section": "IO LEDs",
+      "bbox": {
+        "l": 26.061000000000035,
+        "t": 609.7739195312503,
+        "r": 97.40400000000004,
+        "b": 601.6862344167464
+      },
+      "content": "LED positions ~"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0365",
+      "reading_order": 1846,
+      "section": "IO LEDs",
+      "bbox": {
+        "l": 445.00595621193344,
+        "t": 700.5842934738787,
+        "r": 526.7466489915901,
+        "b": 605.2999078047905
+      },
+      "image_path": "figures/figure_0365.png",
+      "previous_block_id": "txt_1418",
+      "image_hash": "95717f273fe8feba31149ad98d4e7cada8bc576b348d0095e607024cef0a691f",
+      "width": 82,
+      "height": 95
+    },
+    {
+      "type": "figure",
+      "id": "fig_0366",
+      "reading_order": 1847,
+      "section": "IO LEDs",
+      "bbox": {
+        "l": 24.07406213504513,
+        "t": 585.2408702747182,
+        "r": 527.1525665403915,
+        "b": 82.30583284627357
+      },
+      "image_path": "figures/figure_0366.png",
+      "previous_block_id": "txt_1418",
+      "image_hash": "2fed0fbb6e2cad4526cb86badc2ba92222ea8b7d9e3bbbbdc5ef11b4589a3a8c",
+      "width": 503,
+      "height": 503
+    }
+  ],
+  "page_stats": {
+    "block_count": 13,
+    "text_blocks": 10,
+    "paragraphs": 1,
+    "headings": 3,
+    "list_items": 6,
+    "captions": 0,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 3,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

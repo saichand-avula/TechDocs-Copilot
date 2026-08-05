@@ -1,0 +1,186 @@
+{
+  "page": 547,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_1556",
+      "reading_order": 5821,
+      "section": "Post service test",
+      "bbox": {
+        "l": 143.6219184815023,
+        "t": 715.3714904785156,
+        "r": 568.6641824617357,
+        "b": 493.4945373535156
+      },
+      "image_path": "figures/figure_1556.png",
+      "caption": "Release the HDD",
+      "figure_number": "Figure 1-900",
+      "image_hash": "5e4f77753a9daf6935f7bfb732d4b98c06eafde80d6ba53223c856c4c9475472",
+      "width": 425,
+      "height": 222,
+      "previous_block_id": "txt_4223",
+      "next_block_id": "txt_4224",
+      "caption_id": "txt_4224"
+    },
+    {
+      "type": "caption",
+      "id": "txt_4224",
+      "reading_order": 5822,
+      "section": "Post service test",
+      "bbox": {
+        "l": 144.0,
+        "t": 732.29,
+        "r": 267.7699899999999,
+        "b": 720.7
+      },
+      "content": "Figure 1-900  Release the HDD",
+      "caption_for": "fig_1556"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_4225",
+      "reading_order": 5823,
+      "section": "Post service test",
+      "bbox": {
+        "l": 122.0,
+        "t": 482.74672,
+        "r": 548.0800000000004,
+        "b": 459.15672
+      },
+      "content": "Rotate the connector end of the HDD out and away from the formatter (callout 1), and then slide it as shown (callout 2) to remove it."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_4226",
+      "reading_order": 5824,
+      "section": "Post service test",
+      "bbox": {
+        "l": 100.0,
+        "t": 208.87672999999995,
+        "r": 379.3400000000003,
+        "b": 197.28673000000003
+      },
+      "content": "Remove the fax PCA (M527/E52545/M528/E52645 fax models)."
+    },
+    {
+      "type": "figure",
+      "id": "fig_1557",
+      "reading_order": 5825,
+      "section": "Post service test",
+      "bbox": {
+        "l": 142.3856687889192,
+        "t": 439.258544921875,
+        "r": 432.848388391536,
+        "b": 219.0843505859375
+      },
+      "image_path": "figures/figure_1557.png",
+      "caption": "Remove the HDD",
+      "figure_number": "Figure 1-901",
+      "image_hash": "02987f758b271d08a61d3a37467dff2f08de01bcee7f9d77b775ed9948553ea5",
+      "width": 291,
+      "height": 220,
+      "previous_block_id": "txt_4226",
+      "next_block_id": "txt_4227",
+      "caption_id": "txt_4227"
+    },
+    {
+      "type": "caption",
+      "id": "txt_4227",
+      "reading_order": 5826,
+      "section": "Post service test",
+      "bbox": {
+        "l": 144.00001,
+        "t": 449.74672000000004,
+        "r": 269.08000999999996,
+        "b": 438.15672
+      },
+      "content": "Figure 1-901  Remove the HDD",
+      "caption_for": "fig_1557"
+    },
+    {
+      "type": "figure",
+      "id": "fig_1558",
+      "reading_order": 5827,
+      "section": "Post service test",
+      "bbox": {
+        "l": 106.0181683560309,
+        "t": 187.6778564453125,
+        "r": 120.13826835991956,
+        "b": 173.95013427734375
+      },
+      "image_path": "figures/figure_1558.png",
+      "caption": "Remove the HDD",
+      "decorative": true,
+      "width": 14,
+      "height": 13,
+      "figure_number": "Figure 1-901",
+      "image_hash": "d2a6e7e6c33eb8a2e44bb2d31540353f1fc06dfb41898c4090e70219947f39b0",
+      "previous_block_id": "txt_4227",
+      "next_block_id": "txt_4228"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_4228",
+      "reading_order": 5828,
+      "severity": "caution",
+      "content": "CAUTION: ESD-sensitive part.",
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 122.0,
+        "t": 179.99172,
+        "r": 159.75,
+        "b": 168.40171999999995
+      }
+    },
+    {
+      "type": "figure",
+      "id": "fig_1559",
+      "reading_order": 5830,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 169.05031655268792,
+        "t": 184.29827880859375,
+        "r": 188.66859882092965,
+        "b": 162.7137451171875
+      },
+      "image_path": "figures/figure_1559.png",
+      "decorative": true,
+      "width": 19,
+      "height": 21,
+      "image_hash": "e6846aa5390dcd0aa0e6ba848a80280e1d072eee434832b9112509a97aef2b7d",
+      "previous_block_id": "txt_4229",
+      "next_block_id": "txt_4230"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_4230",
+      "reading_order": 5831,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 122.0,
+        "t": 150.87672999999995,
+        "r": 302.0099999999999,
+        "b": 139.28673000000003
+      },
+      "content": "Disconnect three connectors (callout 1)."
+    }
+  ],
+  "page_stats": {
+    "block_count": 10,
+    "text_blocks": 6,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 3,
+    "captions": 2,
+    "admonitions": 1,
+    "references": 0,
+    "figures": 4,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "page": 53,
+  "document_id": "doc_27a62e0f",
+  "page_bbox": {
+    "width": 594.9600219726562,
+    "height": 842.52001953125
+  },
+  "blocks": [
+    {
+      "type": "table",
+      "id": "tbl_0045",
+      "reading_order": 780,
+      "section": "Error codes & fault-finding tips",
+      "bbox": {
+        "l": 34.84606246773091,
+        "t": 794.1316849983486,
+        "r": 559.2138887591221,
+        "b": 261.5802877813684
+      },
+      "markdown": "| E111: Cavity Sensor Failure UI displays; E111 Cavity Sensor Failure. Please contact your Merrychef service partner to resolve.               | Cavity thermocouple damaged or unplugged (open circuit).                               | Check that the thermocouple is correctly fitted and secure on to the IO board connection X530. If the thermocouple generates erratic values, or is more than 25 o C out of range, it will need to be replaced if the connection is in good condition and intact. If the fault reoccurs after replacing the thermocouple, replace the IO board. Check the error log. If the cavity temp reads 328 o C the sensor was open circuit or not connected. A closed circuit will register the IO board temperature and will not generate the E111 error.   |\n|----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| E112: IO BOARD TEMP SENSOR UI displays; E112 IO Board Temperature sensor failure. Please contact your Merrychef service partner to           | Ambient temperature sensor failure on the IO board                                     | IO board failure. Replace IO board (Don't forget to remove the old PM chip and insert into the new IO board). Download the up to date firmware from merrycheftechnical.com and load on to the oven if required                                                                                                                                                                                                                                                                                                                                     |\n| E113: MAGNETRON ON WITHOUT REQUEST UI displays; E113 Microwave On Without Request. Please contact your Merrychef service partner to resolve. | A current draw >1A detected on the IO board when the microwave circuit is switched off | IO board failure. Replace IO board (Don't forget to remove the old PM chip and insert into the new IO board). Download the up to date firmware from merrycheftechnical.com and load on to the oven                                                                                                                                                                                                                                                                                                                                                 |\n| E116: Heater Not Responding UI displays; E116 Heater not responding. Please contact your Merrychef service partner to resolve.               | The oven asked for heating, but did not reach 100 o C within 30 minutes                | Check all the connections are in good condition and secure, from the incoming power supply through the Filter, Fuses F3 & F4, IO board and the heating element. The heater element rarely fails, checking all of the connections first is imperative. Ensure you counter hold the rear bolt of the element connections before tightening the front nut on the element. Lastly replace IO board                                                                                                                                                     |",
+      "rows": 4,
+      "cols": 3
+    }
+  ],
+  "page_stats": {
+    "block_count": 1,
+    "text_blocks": 0,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 0,
+    "captions": 0,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 0,
+    "tables": 1,
+    "toc_tables": 0
+  }
+}

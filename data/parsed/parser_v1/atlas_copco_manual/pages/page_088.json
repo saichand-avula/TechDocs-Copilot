@@ -1,0 +1,214 @@
+{
+  "page": 88,
+  "document_id": "doc_e02482e6",
+  "page_bbox": {
+    "width": 595.0,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0245",
+      "reading_order": 923,
+      "section": "Recovery water flow",
+      "bbox": {
+        "l": 26.500751495361328,
+        "t": 816.195556640625,
+        "r": 73.95873260498047,
+        "b": 792.8967666625977
+      },
+      "image_path": "figures/figure_0245.png",
+      "next_block_id": "txt_0605",
+      "width": 47,
+      "height": 23,
+      "image_hash": "7577891dcf1743bd2e7a735ef2621e01244d960bde43e28868c27d7c1437ddb9"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0605",
+      "reading_order": 924,
+      "section": "Water requiremts for closed water circuits",
+      "bbox": {
+        "l": 29.59,
+        "t": 771.3951000000001,
+        "r": 242.63909999999993,
+        "b": 759.1191
+      },
+      "content": "Water requiremts for closed water circuits",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0606",
+      "reading_order": 925,
+      "section": "Water requiremts for closed water circuits",
+      "bbox": {
+        "l": 63.609700000000004,
+        "t": 751.6809000000001,
+        "r": 530.8753999999993,
+        "b": 685.9241
+      },
+      "content": "The use of a closed water circuit minimises make-up water requirements. Therefore, the use of soft or even demineralised water is economically feasible and eliminates the problem of scale deposits. Although the heat exchanger is made of stainless steel, the water circuit connected to the compressor may require corrosion inhibitors. Consult section Cooling water requirements to minimise problems due to bad water quality. If in any doubt, consult  Atlas Copco."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0607",
+      "reading_order": 926,
+      "section": "Water requiremts for closed water circuits",
+      "bbox": {
+        "l": 63.6105,
+        "t": 678.5409,
+        "r": 517.4286999999995,
+        "b": 653.1638999999999
+      },
+      "content": "Add an anti-freeze product such as ethylene-glycol to the water in proportion to the expected temperature to avoid freezing."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0608",
+      "reading_order": 927,
+      "section": "Water requirements for open water circuits",
+      "bbox": {
+        "l": 29.5908,
+        "t": 634.4748999999999,
+        "r": 247.8670999999999,
+        "b": 622.1988999999999
+      },
+      "content": "Water requirements for open water circuits",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0609",
+      "reading_order": 928,
+      "section": "Water requirements for open water circuits",
+      "bbox": {
+        "l": 63.6105,
+        "t": 614.8212,
+        "r": 534.0331999999993,
+        "b": 576.244
+      },
+      "content": "For open, non-recirculation water circuits, the major problems usually encountered are related to deposit control, corrosion control and microbiological growth control. To minimize these problems, the water should meet a number of requirements. See section Cooling water requirements. If in any doubt, consult Atlas Copco."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0610",
+      "reading_order": 929,
+      "section": "5.3    Operation",
+      "bbox": {
+        "l": 29.59,
+        "t": 550.86,
+        "r": 147.32440000000003,
+        "b": 533.004
+      },
+      "content": "5.3    Operation",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0611",
+      "reading_order": 930,
+      "section": "General",
+      "bbox": {
+        "l": 29.59,
+        "t": 512.375,
+        "r": 73.80779999999999,
+        "b": 500.099
+      },
+      "content": "General",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0612",
+      "reading_order": 931,
+      "section": "General",
+      "bbox": {
+        "l": 63.609700000000004,
+        "t": 492.6608,
+        "r": 477.6694999999996,
+        "b": 467.28380000000004
+      },
+      "content": "The compressor oil flow is controlled by two thermostatic valves (BV1 and BV2), ensuring reliable compressor operation and optimum energy recovery."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0613",
+      "reading_order": 932,
+      "section": "Detailed description",
+      "bbox": {
+        "l": 29.590000000000003,
+        "t": 448.5948,
+        "r": 133.1011000000001,
+        "b": 436.3188
+      },
+      "content": "Detailed description",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0614",
+      "reading_order": 933,
+      "section": "Detailed description",
+      "bbox": {
+        "l": 63.609699999999975,
+        "t": 429.06100000000004,
+        "r": 539.1330999999988,
+        "b": 377.88460000000003
+      },
+      "content": "Bypass valve (BV2) is integrated in the ER unit and controls the working of the oil/water heat exchanger (HE) of the ER unit. Bypass valve (BV1) is integrated in the oil filter housing of the compressor and controls the working of the main oil cooler (Co) of the compressor. Both bypass valves consist of an insert (thermostat) mounted in a housing. Bypass valve BV2 has a separate housing, while BV1 is integrated in the oil filter housing."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0246",
+      "reading_order": 934,
+      "section": "Detailed description",
+      "bbox": {
+        "l": 111.17389678955078,
+        "t": 365.28338623046875,
+        "r": 439.9791259765625,
+        "b": 132.49700927734375
+      },
+      "image_path": "figures/figure_0246.png",
+      "previous_block_id": "txt_0614",
+      "next_block_id": "txt_0615",
+      "caption_id": "txt_0615",
+      "caption": "Flow diagram of comprssor with energy recovery system",
+      "image_hash": "e83054c6edf90b674d8f7832ddd60bd10c555faf5558c1cbeda53a025853bd9a",
+      "width": 329,
+      "height": 233
+    },
+    {
+      "type": "caption",
+      "id": "txt_0615",
+      "reading_order": 935,
+      "section": "Detailed description",
+      "bbox": {
+        "l": 169.09,
+        "t": 117.25,
+        "r": 399.32599999999906,
+        "b": 106.18000000000006
+      },
+      "content": "Flow diagram of comprssor with energy recovery system",
+      "caption_for": "fig_0246"
+    }
+  ],
+  "page_stats": {
+    "block_count": 13,
+    "text_blocks": 11,
+    "paragraphs": 5,
+    "headings": 5,
+    "list_items": 0,
+    "captions": 1,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 2,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

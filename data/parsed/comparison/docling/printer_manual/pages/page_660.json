@@ -1,0 +1,190 @@
+{
+  "page": 660,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_1874",
+      "reading_order": 6909,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 119.08589206869331,
+        "t": 732.2301025390625,
+        "r": 133.42659897486516,
+        "b": 718.7538146972656
+      },
+      "image_path": "figures/figure_1874.png",
+      "decorative": true,
+      "width": 14,
+      "height": 13,
+      "image_hash": "87cd4c0aae265fca0e80d58f4e0f9aad48ba346f56e4c7d10d6c745d970a8b07",
+      "previous_block_id": "txt_4988",
+      "next_block_id": "txt_4989"
+    },
+    {
+      "type": "figure",
+      "id": "fig_1875",
+      "reading_order": 6910,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 119.17667727287186,
+        "t": 708.2366485595703,
+        "r": 131.62340121089537,
+        "b": 695.2948532104492
+      },
+      "image_path": "figures/figure_1875.png",
+      "decorative": true,
+      "width": 12,
+      "height": 12,
+      "image_hash": "f2023c30b42361826d8df4f6d9fe0b7e812825dd159589e1d535a98d8d975770",
+      "previous_block_id": "txt_4988",
+      "next_block_id": "txt_4989"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_4989",
+      "reading_order": 6911,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 135.0,
+        "t": 729.79,
+        "r": 437.1,
+        "b": 718.2
+      },
+      "content": "CAUTION: The printer is heavy. HP recommends two people lift the printer."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_4990",
+      "reading_order": 6912,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 135.0,
+        "t": 708.79,
+        "r": 377.12999999999994,
+        "b": 697.2
+      },
+      "content": "NOTE: The printer accepts up to three optional paper trays."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_4991",
+      "reading_order": 6913,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 113.0,
+        "t": 446.33571,
+        "r": 258.7999999999999,
+        "b": 434.74571
+      },
+      "content": "Slide the tray out of the printer ."
+    },
+    {
+      "type": "figure",
+      "id": "fig_1876",
+      "reading_order": 6914,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 133.3488767740262,
+        "t": 672.6369247436523,
+        "r": 396.3731582165704,
+        "b": 483.0794982910156
+      },
+      "image_path": "figures/figure_1876.png",
+      "caption": "Remove shipping tape",
+      "figure_number": "Figure 1-1097",
+      "image_hash": "df753cd462b71f416ae718ea60577bfb4488074d45cc7ab409927885a485b169",
+      "width": 263,
+      "height": 190,
+      "previous_block_id": "txt_4991",
+      "next_block_id": "txt_4992",
+      "caption_id": "txt_4992"
+    },
+    {
+      "type": "caption",
+      "id": "txt_4992",
+      "reading_order": 6915,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 135.0,
+        "t": 686.29,
+        "r": 286.19001,
+        "b": 674.7
+      },
+      "content": "Figure 1-1097  Remove shipping tape",
+      "caption_for": "fig_1876"
+    },
+    {
+      "type": "figure",
+      "id": "fig_1877",
+      "reading_order": 6916,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 133.53157580146927,
+        "t": 412.0217590332031,
+        "r": 373.0339865896006,
+        "b": 238.6279296875
+      },
+      "image_path": "figures/figure_1877.png",
+      "caption": "Open the tray",
+      "figure_number": "Figure 1-1098",
+      "image_hash": "6a3cfe44381c5949636ed2f7fee2bd154afb7bea492bb423e87a8fe2565da5f4",
+      "width": 239,
+      "height": 173,
+      "previous_block_id": "txt_4992",
+      "next_block_id": "txt_4993",
+      "caption_id": "txt_4993"
+    },
+    {
+      "type": "figure",
+      "id": "fig_1878",
+      "reading_order": 6917,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 405.2707335420485,
+        "t": 673.5098342895508,
+        "r": 560.7083330022313,
+        "b": 458.26507568359375
+      },
+      "image_path": "figures/figure_1878.png",
+      "caption": "Open the tray",
+      "figure_number": "Figure 1-1098",
+      "image_hash": "bb6d44f3a88e5a778726430d2230bae16e7a84e086218d198b7fe59aaaba0a65",
+      "width": 156,
+      "height": 216,
+      "previous_block_id": "txt_4992",
+      "next_block_id": "txt_4993"
+    },
+    {
+      "type": "caption",
+      "id": "txt_4993",
+      "reading_order": 6918,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 134.99999,
+        "t": 425.33571,
+        "r": 251.54998999999995,
+        "b": 413.74571
+      },
+      "content": "Figure 1-1098  Open the tray",
+      "caption_for": "fig_1877"
+    }
+  ],
+  "page_stats": {
+    "block_count": 10,
+    "text_blocks": 5,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 3,
+    "captions": 2,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 5,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "tbl_0113",
+  "page": 224,
+  "section": "8) Servo alarms(2/2)",
+  "title": null,
+  "markdown": "|   No. | Message                          | Contents                                                                                                 |\n|-------|----------------------------------|----------------------------------------------------------------------------------------------------------|\n|   600 | n AXIS:INV.DC LINK OVER CURRENT  | DC link current is too large.                                                                            |\n|   601 | n AXIS:INV.RADIATOR FAN FAILURE  | The external dissipator stirring fan failed.                                                             |\n|   602 | n AXIS: OVERHEAT                 | The servo amplifier was overheated.                                                                      |\n|   603 | n AXIS:INV.IPM ALARM (OH)        | The IPM (intelligent power module) detected an overheat alarm.                                           |\n|   604 | n AXIS: AMP. COMMUNICATION ERROR | Communication between the SVM and the PSM failed.                                                        |\n|   605 | n AXIS:CNV.EX. DISCHARGE POW     | SPMR : Regenerative power is too large.                                                                  |\n|   606 | n AXIS:CNV.RADIATOR FAN FAILURE  | SPM : The external dissipator stirring fan failed. SPMR : The external dissipator stirring fan failed.   |\n|   607 | n AXIS:CNV. SINGLE PHASE FAILURE | PSM : Input voltage is in the open-phase condition. PSMR : Input voltage is in the open-phase condition. |",
+  "block_id": "#/tables/112",
+  "reading_order": 1831,
+  "bbox": {
+    "l": 69.85186004638672,
+    "t": 660.5958251953125,
+    "r": 530.8219604492188,
+    "b": 383.65692138671875
+  }
+}

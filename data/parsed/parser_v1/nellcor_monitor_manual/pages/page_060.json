@@ -1,0 +1,178 @@
+{
+  "page": 60,
+  "document_id": "doc_f7e949ab",
+  "page_bbox": {
+    "width": 612.0,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0668",
+      "reading_order": 745,
+      "section": "A1-3. LCD Backlight Inverter Disassembly",
+      "bbox": {
+        "l": 139.5,
+        "t": 697.31625,
+        "r": 345.5625,
+        "b": 684.1875
+      },
+      "content": "A1-3. LCD Backlight Inverter Disassembly",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0054",
+      "reading_order": 746,
+      "section": "A1-3. LCD Backlight Inverter Disassembly",
+      "bbox": {
+        "l": 137.82742309570312,
+        "t": 680.2056503295898,
+        "r": 322.3890075683594,
+        "b": 541.2803497314453
+      },
+      "image_path": "figures/figure_0054.png",
+      "previous_block_id": "txt_0668",
+      "next_block_id": "txt_0669",
+      "image_hash": "a5f82490be922527bcb043ed4249df200588302978a63fd797bbcf4d2df1c50f",
+      "width": 184,
+      "height": 139
+    },
+    {
+      "type": "figure",
+      "id": "fig_0055",
+      "reading_order": 747,
+      "section": "A1-3. LCD Backlight Inverter Disassembly",
+      "bbox": {
+        "l": 136.6852569580078,
+        "t": 535.6969604492188,
+        "r": 323.8863830566406,
+        "b": 394.1546936035156
+      },
+      "image_path": "figures/figure_0055.png",
+      "previous_block_id": "txt_0668",
+      "next_block_id": "txt_0669",
+      "image_hash": "8c8b41dd9f5960c87dc1a45912827a212638924db67298ff26870c5c18c5707d",
+      "width": 187,
+      "height": 142
+    },
+    {
+      "type": "caption",
+      "id": "txt_0669",
+      "reading_order": 748,
+      "section": "A1-3. LCD Backlight Inverter Disassembly",
+      "bbox": {
+        "l": 139.5,
+        "t": 388.31625,
+        "r": 313.3125,
+        "b": 375.1875
+      },
+      "content": "A1-4. Alarm LED PCB Disassembly",
+      "caption_for": "fig_0056"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0056",
+      "reading_order": 749,
+      "section": "A1-3. LCD Backlight Inverter Disassembly",
+      "bbox": {
+        "l": 138.43405151367188,
+        "t": 369.0368347167969,
+        "r": 322.43634033203125,
+        "b": 232.00177001953125
+      },
+      "image_path": "figures/figure_0056.png",
+      "previous_block_id": "txt_0669",
+      "next_block_id": "txt_0670",
+      "caption_id": "txt_0669",
+      "caption": "A1-4. Alarm LED PCB Disassembly",
+      "image_hash": "afb4053fdc6670b21e9f84efa045472c1cbf57932b83225854b289965200aeb0",
+      "width": 184,
+      "height": 137
+    },
+    {
+      "type": "figure",
+      "id": "fig_0057",
+      "reading_order": 750,
+      "section": "A1-3. LCD Backlight Inverter Disassembly",
+      "bbox": {
+        "l": 135.9954833984375,
+        "t": 227.24176025390625,
+        "r": 323.4378967285156,
+        "b": 85.3302001953125
+      },
+      "image_path": "figures/figure_0057.png",
+      "previous_block_id": "txt_0669",
+      "next_block_id": "txt_0670",
+      "image_hash": "325f846f35c5bf5f38709e30b1c4d6e81b05f5430cab1db15897319d9bbc2ab2",
+      "width": 187,
+      "height": 142
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0670",
+      "reading_order": 751,
+      "section": "A1-3. LCD Backlight Inverter Disassembly",
+      "bbox": {
+        "l": 336.75,
+        "t": 678.00375,
+        "r": 524.1883000000005,
+        "b": 629.24625
+      },
+      "content": "Disconnect the LCD backlight wire and the Inverter wire from the Backlight inverter."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0671",
+      "reading_order": 752,
+      "section": "A1-3. LCD Backlight Inverter Disassembly",
+      "bbox": {
+        "l": 339.75,
+        "t": 624.00375,
+        "r": 507.56235000000055,
+        "b": 593.24625
+      },
+      "content": "Remove 3 screws on the Backlight inverter"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0672",
+      "reading_order": 753,
+      "section": "A1-3. LCD Backlight Inverter Disassembly",
+      "bbox": {
+        "l": 337.5,
+        "t": 369.00375,
+        "r": 522.5639999999999,
+        "b": 338.24625
+      },
+      "content": "Disconnect the Alarm LED board wire from the Alarm LED PCB."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0673",
+      "reading_order": 754,
+      "section": "A1-3. LCD Backlight Inverter Disassembly",
+      "bbox": {
+        "l": 337.5,
+        "t": 333.00375,
+        "r": 516.5636499999998,
+        "b": 302.24625
+      },
+      "content": "Remove 2 screws on the Alarm LED PCB."
+    }
+  ],
+  "page_stats": {
+    "block_count": 10,
+    "text_blocks": 6,
+    "paragraphs": 0,
+    "headings": 1,
+    "list_items": 4,
+    "captions": 1,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 4,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

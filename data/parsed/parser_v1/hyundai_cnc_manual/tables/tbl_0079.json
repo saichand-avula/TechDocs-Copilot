@@ -1,0 +1,18 @@
+{
+  "id": "tbl_0079",
+  "page": 195,
+  "section": "3-9-7. Alarm List",
+  "title": null,
+  "markdown": "|   No. | Message                       | Contents                                                                                                                                                                             |\n|-------|-------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n|   067 | CAN NOT OPERATE IN MDI MODE   | G70, G71, G72, or G73 command with address P and Q was specified. Modify the program.                                                                                                |\n|   069 | FORMAT ERROR IN G70-G73       | The final move command in the blocks specified by P and Q of G70, G71, G72, or G73 ended with chamfering or corner R.                                                                |\n|   070 | NO PROGRAM SPACE IN MEMORY    | The memory area is insufficient. Delete any unnecessary program, then retry.                                                                                                         |\n|   071 | DATA NOT FOUND                | The address to be searched was not found, or the program with specified program number was not found in program number search. Check the data.                                       |\n|   072 | TOO MANY PROGRAMS             | The number of programs to be stored exceeded 63(basic), 125(option), 200(option), 400(option), or 1000 (option). Delete unnecessary programs and execute program registration again. |\n|   073 | PROGRAM NUMBER ALREADY IN USE | The commanded program number has already been used. Change the program number or delete unnecessary programs and execute program registration again.                                 |\n|   074 | ILLEGAL PROGRAM NUMBER        | The program number is other than 1 to 9999. Modify the program number.                                                                                                               |\n|   075 | PROTECT                       | An attempt was made to register a program whose number was protected.                                                                                                                |\n|   076 | ADDRESS P NOT DEFINED         | Address P (program number) was not commanded in the block which includes an M98, G65, or G66 command. Modify the program.                                                            |\n|   077 | SUB PROGRAM NESTING ERROR     | The subprogram was called in five folds. Modify the program.                                                                                                                         |",
+  "block_id": "#/tables/78",
+  "reading_order": 1727,
+  "bbox": {
+    "l": 64.30171203613281,
+    "t": 732.0536270141602,
+    "r": 530.9022216796875,
+    "b": 317.1068115234375
+  },
+  "rows": 11,
+  "cols": 3,
+  "type": "table"
+}

@@ -1,0 +1,143 @@
+{
+  "page": 140,
+  "document_id": "doc_caa693b1",
+  "page_bbox": {
+    "width": 595.0,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_0966",
+      "reading_order": 1248,
+      "section": "3-3-2. Tool Post Home Position Setting",
+      "bbox": {
+        "l": 99.3,
+        "t": 755.71466,
+        "r": 293.5196639999998,
+        "b": 695.8431449281769
+      },
+      "content": "Press the 'CALL LIGHT OFF' switch. The  turret  is  clamped  and  ALARM '2067' disappears on the alarm screen."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0967",
+      "reading_order": 1249,
+      "section": "3-3-2. Tool Post Home Position Setting",
+      "bbox": {
+        "l": 99.3,
+        "t": 636.675056,
+        "r": 293.510646,
+        "b": 593.843552928177
+      },
+      "content": "Verify  that  bit  \"7\"  of  X1000  has  been changed to \"1\" in the diagnostic screen."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0968",
+      "reading_order": 1250,
+      "section": "3-3-2. Tool Post Home Position Setting",
+      "bbox": {
+        "l": 99.3,
+        "t": 551.7154760000002,
+        "r": 293.4745739999999,
+        "b": 491.84396092817695
+      },
+      "content": "With the Emergency stop switch pressed,  press  the  Spindle  'STOP' Mode  \"SELECT',  and  'FEED  HOLD' switches simultaneously."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0969",
+      "reading_order": 1251,
+      "section": "3-3-2. Tool Post Home Position Setting",
+      "bbox": {
+        "l": 99.3,
+        "t": 398.7160880000002,
+        "r": 293.50162800000015,
+        "b": 338.84457292817694
+      },
+      "content": "Reset the Emergency Stop switch. Now the home position setting of tool post  is  completed  and  enables  the turret index."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0242",
+      "reading_order": 1252,
+      "section": "3-3-2. Tool Post Home Position Setting",
+      "bbox": {
+        "l": 307.2679138183594,
+        "t": 757.4164276123047,
+        "r": 536.9871826171875,
+        "b": 665.0876007080078
+      },
+      "image_path": "figures/figure_0242.png",
+      "previous_block_id": "txt_0969",
+      "image_hash": "0fd4f118388f552806514d96121dd5bbe28e26884a52fba1c931a67f20b759f2",
+      "width": 230,
+      "height": 92
+    },
+    {
+      "type": "figure",
+      "id": "fig_0243",
+      "reading_order": 1253,
+      "section": "3-3-2. Tool Post Home Position Setting",
+      "bbox": {
+        "l": 308.4095764160156,
+        "t": 642.8006744384766,
+        "r": 538.9503784179688,
+        "b": 572.0777587890625
+      },
+      "image_path": "figures/figure_0243.png",
+      "previous_block_id": "txt_0969",
+      "image_hash": "7f2857fedff3cc23fdd9aa0654d5e096c8ac3b7fda3e30991415136907953f99",
+      "width": 231,
+      "height": 71
+    },
+    {
+      "type": "figure",
+      "id": "fig_0244",
+      "reading_order": 1254,
+      "section": "3-3-2. Tool Post Home Position Setting",
+      "bbox": {
+        "l": 311.0077819824219,
+        "t": 552.8151550292969,
+        "r": 541.6686401367188,
+        "b": 415.5391845703125
+      },
+      "image_path": "figures/figure_0244.png",
+      "previous_block_id": "txt_0969",
+      "image_hash": "b773d24a92eb619bc453e203244d7d7ff7d56b39685334831dceaf4292f6857b",
+      "width": 231,
+      "height": 137
+    },
+    {
+      "type": "figure",
+      "id": "fig_0245",
+      "reading_order": 1255,
+      "section": "3-3-2. Tool Post Home Position Setting",
+      "bbox": {
+        "l": 315.6295166015625,
+        "t": 402.3822326660156,
+        "r": 545.9313354492188,
+        "b": 264.9642333984375
+      },
+      "image_path": "figures/figure_0245.png",
+      "previous_block_id": "txt_0969",
+      "image_hash": "4f3885cfac1a67f0791da9ff77a3a33d1473e47ec672ca52eac124e39fc343a3",
+      "width": 230,
+      "height": 137
+    }
+  ],
+  "page_stats": {
+    "block_count": 8,
+    "text_blocks": 4,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 4,
+    "captions": 0,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 4,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

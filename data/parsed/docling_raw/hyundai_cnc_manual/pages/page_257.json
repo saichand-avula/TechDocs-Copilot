@@ -1,0 +1,167 @@
+{
+  "page": 257,
+  "document_id": "doc_caa693b1",
+  "page_bbox": {
+    "width": 595.0,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_1851",
+      "reading_order": 2372,
+      "section": "2-4-1. β SERVO TURRET CONTROL TIME CHART",
+      "bbox": {
+        "l": 106.38,
+        "t": 757.09466,
+        "r": 527.2220040000007,
+        "b": 696.4435889281768
+      },
+      "content": "When the host NC program executes a T code command, the PMC on the host NC sets the function code, command data 1, and command data 2, then sends the ST signal or +X/-X signal to the servo unit. Upon receipt of the data, the servo unit returns the operation completion 1 signal to the NC, and also outputs the unclamp command signal."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1852",
+      "reading_order": 2373,
+      "section": "2-4-1. β SERVO TURRET CONTROL TIME CHART",
+      "bbox": {
+        "l": 106.38000000000002,
+        "t": 686.054864,
+        "r": 517.6478939999989,
+        "b": 642.6832829281768
+      },
+      "content": "When unclamp completion notification is sent from the host NC, the servo unit returns the operation completion 2 signal to the host NC, then starts movement to the position corresponding to a specified turret/magazine number."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1853",
+      "reading_order": 2374,
+      "section": "2-4-1. β SERVO TURRET CONTROL TIME CHART",
+      "bbox": {
+        "l": 106.381002,
+        "t": 632.3546779999999,
+        "r": 509.84932799999854,
+        "b": 606.2034689281768
+      },
+      "content": "Upon completion of the movement, the servo unit returns the operation completion 3 signal to the NC, and also outputs the clamp command signal."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1854",
+      "reading_order": 2375,
+      "section": "2-4-1. β SERVO TURRET CONTROL TIME CHART",
+      "bbox": {
+        "l": 106.381002,
+        "t": 595.8157459999999,
+        "r": 518.7240419999998,
+        "b": 552.4441649281767
+      },
+      "content": "When clamp completion notification is sent from the host NC, the servo unit returns response data (turret/magazine number or coordinatesland the operation completion 4 signal, and is placed in the start enabled state."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1855",
+      "reading_order": 2376,
+      "section": "2-4-1. β SERVO TURRET CONTROL TIME CHART",
+      "bbox": {
+        "l": 106.381002,
+        "t": 542.1155599999998,
+        "r": 519.2390699999995,
+        "b": 515.9633489281767
+      },
+      "content": "Upon receipt of the operation completion 4 signal, the PMC on the host NC returns the FIN signal."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1856",
+      "reading_order": 2377,
+      "section": "2-4-1. β SERVO TURRET CONTROL TIME CHART",
+      "bbox": {
+        "l": 106.381002,
+        "t": 505.5746239999999,
+        "r": 520.9554960000015,
+        "b": 444.9816689281767
+      },
+      "content": "If an alarm is issued while the servo unit is executing an instruction, the AL signal is output. So, the PMC on the host NC is to perform processing such as alarm indication. In this case, the number of alarms and alarm numbers can be included in the response data by setting the DSAL signal to 1."
+    },
+    {
+      "type": "heading",
+      "id": "txt_1857",
+      "reading_order": 2378,
+      "section": "[Supplementary information]",
+      "bbox": {
+        "l": 70.92122400000005,
+        "t": 417.31245199999995,
+        "r": 198.7684080000001,
+        "b": 408.4407329281767
+      },
+      "content": "[Supplementary information]",
+      "level": 2
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1858",
+      "reading_order": 2379,
+      "section": "[Supplementary information]",
+      "bbox": {
+        "l": 106.38100200000005,
+        "t": 392.3526319999999,
+        "r": 519.8623140000001,
+        "b": 366.20142292817667
+      },
+      "content": "The unclamp/clamp command signal and state signal are used for communication with the host."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1859",
+      "reading_order": 2380,
+      "section": "[Supplementary information]",
+      "bbox": {
+        "l": 106.38200400000008,
+        "t": 355.8728179999999,
+        "r": 516.5076179999991,
+        "b": 312.4411169281766
+      },
+      "content": "Whether the unclamp/clamp state signal is to be checked is specified by setting bit 2 (IGCP)of parameter No. 003. When IGCP is set such that no check is to be made, the operation completion 2 signal and operation completion 3 signal are not output."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1860",
+      "reading_order": 2381,
+      "section": "[Supplementary information]",
+      "bbox": {
+        "l": 106.38200400000008,
+        "t": 302.1125119999999,
+        "r": 512.1829859999991,
+        "b": 258.7399289281766
+      },
+      "content": "Use parameter No. 167 to set the period between the servo unit being turned on and the output of the unclamp command signal. Use parameter No. 168 to set the period between the clamp command signal being output and the servo unit being turned off."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1861",
+      "reading_order": 2382,
+      "section": "[Supplementary information]",
+      "bbox": {
+        "l": 106.38100200000008,
+        "t": 248.35120399999983,
+        "r": 418.5470879999992,
+        "b": 239.4794849281766
+      },
+      "content": "The \"ST\" signal can be accepted in the start enabled state only."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1862",
+      "reading_order": 2383,
+      "section": "[Supplementary information]",
+      "bbox": {
+        "l": 106.38100200000008,
+        "t": 229.09075999999982,
+        "r": 425.89775999999927,
+        "b": 220.21904092817658
+      },
+      "content": "The start enabled state is that state in which the STL signal is off."
+    }
+  ]
+}

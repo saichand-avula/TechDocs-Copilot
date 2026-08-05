@@ -1,0 +1,18 @@
+{
+  "id": "tbl_0007",
+  "page": 18,
+  "section": "Failure Solutions:",
+  "title": null,
+  "markdown": "| ERROR CODE SSD*   | ERROR CODE NON-SSD*                      | ERROR                     | CAUSES                                                                                                            | WHAT TO CHECK                                                                                                                                                                                       |\n|-------------------|------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| E1                | 'QUICK' INDICATOR FLASHES                | WATER INLET FAILURE       | DURING THE WATER INLET STEP, IF THE FLOW METER CAN'T DETECT A CORRECT FILL AFTER 4 MINUTES, E1 WILL BE DISPLAYED. | 1. CHECK THE WATER SUPPLY. 2. CHECK THE INLET VALVE. 3. CHECK THE INLET. 4. CHECK THE FLOW METER. 5. CHECK THE PRESSURE SWITCH. 6. CHECK THE DRAIN. 7. CHECK THE CONTROL.                           |\n| E3                | 'QUICK' & 'GLASS' INDICTORS FLASH        | HEATER FAILURE            | WHEN THE TEMPERATURE DOESN'T REACH THE CORRECT VALUE AFTER 90 MINUTES, E3 WILL BE DISPLAYED.                      | 1. CHECK THE HEATER. 2. CHECK THE THERMISTOR. 3. CHECK THE CONTROL.                                                                                                                                 |\n| E4                | 'LIGHT' INDICATOR FLASHES                | OVERFLOW                  | IF WATER FLOWS INTO THE BASE AND ACTIVATES THE OVERFLOW SWITCH, THE DISHWASHER WILL DISPLAY E4 .                  | 1. CHECK THE USE OF THE DETERGENT. 2. CHECK WHETHER THE APPLIANCE IS LEVEL. 3. CHECK THE OVERFLOW SWITCH. 4. CHECK THE DRAIN PUMP. 5. CHECK THE AMOUNT OF WATER IN SUMP. 6. LOCATE LEAK AND REPAIR. |\n| E6                | 'LIGHT' & 'GLASS' INDICATORS FLASH       | NTC OPEN CIRCUIT FAILURE  | TEMPERATURE SENSOR OPEN CIRCUIT, E6 WILL BE DISPLAYED.                                                            | 1. CHECK THE INLET WATER TEMPERATURE. 2. CHECK THE THERMISTOR. 3. CHECK THE CONTROL.                                                                                                                |\n| E7                | 'LIGHT, GLASS, & QUICK' INDICATORS FLASH | NTC SHORT CIRCUIT FAILURE | TEMPERATURE SENSOR SHORT CIRCUIT, E7 WILL BE DISPLAYED.                                                           | 1. CHECK THE INLET WATER TEMPERATURE. 2. CHECK THE THERMISTOR. 3. CHECK THE CONTROL.                                                                                                                |",
+  "block_id": "#/tables/6",
+  "reading_order": 258,
+  "bbox": {
+    "l": 35.94942092895508,
+    "t": 433.8149719238281,
+    "r": 558.7784423828125,
+    "b": 63.820556640625
+  },
+  "rows": 6,
+  "cols": 5,
+  "type": "table"
+}

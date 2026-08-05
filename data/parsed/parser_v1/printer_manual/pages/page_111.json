@@ -1,0 +1,145 @@
+{
+  "page": 111,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_1077",
+      "reading_order": 1377,
+      "section": "Post service test",
+      "bbox": {
+        "l": 122.0,
+        "t": 732.29,
+        "r": 508.4200000000003,
+        "b": 720.7
+      },
+      "content": "Slide the cover toward the rear of the printer to release two bosses at the front of the cover ."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1078",
+      "reading_order": 1378,
+      "section": "Post service test",
+      "bbox": {
+        "l": 122.0,
+        "t": 470.42,
+        "r": 217.13999999999993,
+        "b": 458.83
+      },
+      "content": "Remove the cover."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1079",
+      "reading_order": 1379,
+      "section": "Post service test",
+      "bbox": {
+        "l": 100.0,
+        "t": 208.54999999999995,
+        "r": 359.6300000000001,
+        "b": 196.96000000000004
+      },
+      "content": "Remove the top-rear cover (M527/E52545/M528/E52645)."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1080",
+      "reading_order": 1380,
+      "section": "Post service test",
+      "bbox": {
+        "l": 121.99998,
+        "t": 187.54999999999995,
+        "r": 379.48997999999995,
+        "b": 175.96000000000004
+      },
+      "content": "Remove one screw (callout 1), and then open the rear door."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0282",
+      "reading_order": 1381,
+      "section": "Post service test",
+      "bbox": {
+        "l": 143.03163544793279,
+        "t": 698.3518905639648,
+        "r": 432.65170363839246,
+        "b": 481.8358459472656
+      },
+      "image_path": "figures/figure_0282.png",
+      "caption": "Slide the cover",
+      "figure_number": "Figure 1-128",
+      "image_hash": "561871f9fb666f5c54997b79712285eb7c3dd3fa04202badfd16ba234997ff3c",
+      "width": 290,
+      "height": 216,
+      "previous_block_id": "txt_1080",
+      "next_block_id": "txt_1081",
+      "caption_id": "txt_1081"
+    },
+    {
+      "type": "caption",
+      "id": "txt_1081",
+      "reading_order": 1382,
+      "section": "Post service test",
+      "bbox": {
+        "l": 144.00008,
+        "t": 711.29,
+        "r": 259.2700799999999,
+        "b": 699.7
+      },
+      "content": "Figure 1-128  Slide the cover",
+      "caption_for": "fig_0282"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0283",
+      "reading_order": 1383,
+      "section": "Post service test",
+      "bbox": {
+        "l": 143.15010994874066,
+        "t": 437.4386291503906,
+        "r": 432.5788924557384,
+        "b": 220.0074462890625
+      },
+      "image_path": "figures/figure_0283.png",
+      "caption": "Remove the cover",
+      "figure_number": "Figure 1-129",
+      "image_hash": "c9f646ef28afbd2e4aef5fa4eb5ea9e06defb258bd7a60195315bea495c34ead",
+      "width": 290,
+      "height": 217,
+      "previous_block_id": "txt_1081",
+      "next_block_id": "txt_1082",
+      "caption_id": "txt_1082"
+    },
+    {
+      "type": "caption",
+      "id": "txt_1082",
+      "reading_order": 1384,
+      "section": "Post service test",
+      "bbox": {
+        "l": 144.0,
+        "t": 449.42,
+        "r": 272.8999899999999,
+        "b": 437.83
+      },
+      "content": "Figure 1-129  Remove the cover",
+      "caption_for": "fig_0283"
+    }
+  ],
+  "page_stats": {
+    "block_count": 8,
+    "text_blocks": 6,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 4,
+    "captions": 2,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 2,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

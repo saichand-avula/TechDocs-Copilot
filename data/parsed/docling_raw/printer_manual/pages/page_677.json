@@ -1,0 +1,324 @@
+{
+  "page": 677,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_5151",
+      "reading_order": 7126,
+      "section": "5. Install the formatter cover .",
+      "bbox": {
+        "l": 122.0,
+        "t": 732.29,
+        "r": 542.6400000000003,
+        "b": 708.7
+      },
+      "content": "M506/E50045/M507/E50145/M527/E52545/M528/E52645: Slide it toward the front of the printer to install it."
+    },
+    {
+      "type": "figure",
+      "id": "fig_1929",
+      "reading_order": 7127,
+      "section": "5. Install the formatter cover .",
+      "bbox": {
+        "l": 142.6737716880259,
+        "t": 664.2040023803711,
+        "r": 339.1542142737344,
+        "b": 478.6106262207031
+      },
+      "image_path": "figures/figure_1929.png",
+      "caption": "Install the formatter cover (M506/E50045/M507/E50145/M527/E52545/M528/ E52645)",
+      "figure_number": "Figure 1-1125",
+      "image_hash": "9cb8044b3ffa36bcf5c65e6d5fbb48567fc3fef7f8c080b39605b97e2ff86eb9",
+      "width": 196,
+      "height": 185,
+      "previous_block_id": "txt_5151",
+      "next_block_id": "txt_5152",
+      "caption_id": "txt_5152"
+    },
+    {
+      "type": "caption",
+      "id": "txt_5152",
+      "reading_order": 7128,
+      "section": "5. Install the formatter cover .",
+      "bbox": {
+        "l": 144.0,
+        "t": 699.29,
+        "r": 526.8600100000001,
+        "b": 675.7
+      },
+      "content": "Figure 1-1125  Install the formatter cover (M506/E50045/M507/E50145/M527/E52545/M528/ E52645)",
+      "caption_for": "fig_1929"
+    },
+    {
+      "type": "heading",
+      "id": "txt_5153",
+      "reading_order": 7129,
+      "section": "Install accessory: Internal USB ports (MFP)",
+      "bbox": {
+        "l": 54.0,
+        "t": 455.3203,
+        "r": 255.14400000000003,
+        "b": 441.4123
+      },
+      "content": "Install accessory: Internal USB ports (MFP)",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_5154",
+      "reading_order": 7130,
+      "section": "Install accessory: Internal USB ports (MFP)",
+      "bbox": {
+        "l": 100.00399,
+        "t": 433.0623,
+        "r": 326.16398999999996,
+        "b": 421.47229999999996
+      },
+      "content": "Learn how to remove and replace the internal USB ports."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_5155",
+      "reading_order": 7131,
+      "section": "Install accessory: Internal USB ports (MFP)",
+      "bbox": {
+        "l": 100.00396,
+        "t": 412.0623,
+        "r": 334.76395999999994,
+        "b": 400.47229999999996
+      },
+      "content": "To view a short video of this procedure, click the link below.",
+      "hyperlink_hint": true
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_5156",
+      "reading_order": 7132,
+      "section": "Install accessory: Internal USB ports (MFP)",
+      "bbox": {
+        "l": 100.0,
+        "t": 391.0623,
+        "r": 363.48999999999995,
+        "b": 379.47229999999996
+      },
+      "content": "View a video of how to remove and replace the internal USB ports.",
+      "hyperlink_hint": true
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_5157",
+      "reading_order": 7133,
+      "section": "Install accessory: Internal USB ports (MFP)",
+      "bbox": {
+        "l": 100.00002,
+        "t": 367.0623,
+        "r": 222.25001999999998,
+        "b": 355.47229999999996
+      },
+      "content": "Mean time to repair: 7 minutes"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_5158",
+      "reading_order": 7134,
+      "section": "Install accessory: Internal USB ports (MFP)",
+      "bbox": {
+        "l": 100.00002,
+        "t": 346.0623,
+        "r": 173.02002,
+        "b": 334.47229999999996
+      },
+      "content": "Service level: Easy"
+    },
+    {
+      "type": "heading",
+      "id": "txt_5159",
+      "reading_order": 7135,
+      "section": "Before performing service",
+      "bbox": {
+        "l": 100.00002,
+        "t": 321.0623,
+        "r": 204.24001999999996,
+        "b": 309.47229999999996
+      },
+      "content": "Before performing service",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "heading",
+      "id": "txt_5160",
+      "reading_order": 7136,
+      "section": "Turn the printer power off",
+      "bbox": {
+        "l": 100.00004,
+        "t": 301.0623,
+        "r": 202.98003,
+        "b": 289.47229999999996
+      },
+      "content": "Turn the printer power off",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_5161",
+      "reading_order": 7137,
+      "section": "Turn the printer power off",
+      "bbox": {
+        "l": 100.00004,
+        "t": 280.0623,
+        "r": 234.21003999999994,
+        "b": 268.4722999999999
+      },
+      "content": "Disconnect the power cable."
+    },
+    {
+      "type": "figure",
+      "id": "fig_1930",
+      "reading_order": 7138,
+      "section": "Turn the printer power off",
+      "bbox": {
+        "l": 106.12117009923458,
+        "t": 258.6165771484375,
+        "r": 120.1573481231161,
+        "b": 245.62213134765625
+      },
+      "image_path": "figures/figure_1930.png",
+      "decorative": true,
+      "width": 14,
+      "height": 12,
+      "image_hash": "02550dfa73f737c5ea5f0e16a3642619d56d5f294ad50caa4062ef77a5f62dc0",
+      "previous_block_id": "txt_5161",
+      "next_block_id": "txt_5162"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_5162",
+      "reading_order": 7139,
+      "section": "Turn the printer power off",
+      "bbox": {
+        "l": 122.0,
+        "t": 256.56231,
+        "r": 533.0700000000002,
+        "b": 232.97231
+      },
+      "content": "WARNING! To avoid damage to the printer, turn the printer off, wait 30 seconds, and then remove the power cord before attempting to service the printer.",
+      "severity": "warning"
+    },
+    {
+      "type": "figure",
+      "id": "fig_1931",
+      "reading_order": 7140,
+      "section": "Turn the printer power off",
+      "bbox": {
+        "l": 83.93076493407624,
+        "t": 221.715576171875,
+        "r": 137.85159412714333,
+        "b": 204.30438232421875
+      },
+      "image_path": "figures/figure_1931.png",
+      "decorative": true,
+      "width": 53,
+      "height": 17,
+      "image_hash": "da59d52caa87acd68474b14852e7c8afb619522906eee662630060d7153206ff",
+      "previous_block_id": "txt_5162",
+      "next_block_id": "txt_5163"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_5163",
+      "reading_order": 7141,
+      "section": "Turn the printer power off",
+      "bbox": {
+        "l": 166.61,
+        "t": 214.17731000000003,
+        "r": 539.76,
+        "b": 202.58731
+      },
+      "content": "This part contains components that are electrostatic discharge (ESD) sensitive. To reduce the"
+    },
+    {
+      "type": "figure",
+      "id": "fig_1932",
+      "reading_order": 7142,
+      "section": "Turn the printer power off",
+      "bbox": {
+        "l": 147.1088176508129,
+        "t": 218.47247314453125,
+        "r": 166.78818261418024,
+        "b": 196.62054443359375
+      },
+      "image_path": "figures/figure_1932.png",
+      "decorative": true,
+      "width": 19,
+      "height": 21,
+      "image_hash": "0173c113dd887f88d57f41424bcd9dd4eecbb68cf379a1763d45c4dd55e2f017",
+      "previous_block_id": "txt_5163",
+      "next_block_id": "txt_5164"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_5164",
+      "reading_order": 7143,
+      "section": "Turn the printer power off",
+      "bbox": {
+        "l": 100.0,
+        "t": 195.56231000000002,
+        "r": 531.4300000000003,
+        "b": 171.97231
+      },
+      "content": "possibility of ESD damage, always touch the sheet-metal chassis to ground yourself before touching an ESD sensitive part."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_5165",
+      "reading_order": 7144,
+      "section": "Turn the printer power off",
+      "bbox": {
+        "l": 100.0,
+        "t": 161.06232999999997,
+        "r": 479.47000000000025,
+        "b": 137.47233000000006
+      },
+      "content": "Use the table below to identify the correct part number for your printer . To order the part, go to www.hp.com/buy/parts."
+    },
+    {
+      "type": "figure",
+      "id": "fig_1933",
+      "reading_order": 7145,
+      "section": "Turn the printer power off",
+      "bbox": {
+        "l": 367.8393799819585,
+        "t": 665.5562133789062,
+        "r": 575.6328257564237,
+        "b": 478.7203674316406
+      },
+      "image_path": "figures/figure_1933.png",
+      "image_hash": "ef358b0b14290ad1f392df8e462d8006c7249f80ade5e81011af0a33750b9f4f",
+      "width": 208,
+      "height": 187,
+      "previous_block_id": "txt_5165",
+      "next_block_id": "txt_5166"
+    }
+  ],
+  "page_stats": {
+    "block_count": 20,
+    "text_blocks": 15,
+    "paragraphs": 8,
+    "headings": 3,
+    "list_items": 2,
+    "captions": 1,
+    "admonitions": 1,
+    "references": 0,
+    "figures": 5,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

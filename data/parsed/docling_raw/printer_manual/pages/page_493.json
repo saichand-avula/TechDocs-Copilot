@@ -1,0 +1,251 @@
+{
+  "page": 493,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_1391",
+      "reading_order": 5305,
+      "section": "Turn the printer power off",
+      "bbox": {
+        "l": 106.26448947154299,
+        "t": 732.0151290893555,
+        "r": 120.12677627233477,
+        "b": 719.2599563598633
+      },
+      "image_path": "figures/figure_1391.png",
+      "image_hash": "dd3ccaafe8241dd04c92da398bccb04c42ae02ea919dd6112ad760af8c27d480",
+      "width": 14,
+      "height": 13,
+      "previous_block_id": "txt_3874",
+      "next_block_id": "txt_3875"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_3875",
+      "reading_order": 5306,
+      "section": "Turn the printer power off",
+      "bbox": {
+        "l": 122.0,
+        "t": 729.79,
+        "r": 533.0700000000002,
+        "b": 706.2
+      },
+      "content": "WARNING! To avoid damage to the printer, turn the printer off, wait 30 seconds, and then remove the power cord before attempting to service the printer.",
+      "severity": "warning"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_3876",
+      "reading_order": 5307,
+      "section": "Turn the printer power off",
+      "bbox": {
+        "l": 100.0,
+        "t": 695.29,
+        "r": 479.47000000000025,
+        "b": 671.7
+      },
+      "content": "Use the table below to identify the correct part number for your printer . To order the part, go to www.hp.com/buy/parts."
+    },
+    {
+      "type": "heading",
+      "id": "txt_3877",
+      "reading_order": 5308,
+      "section": "Table 1-39  Part number",
+      "bbox": {
+        "l": 100.0,
+        "t": 660.661,
+        "r": 188.281,
+        "b": 650.23
+      },
+      "content": "Table 1-39  Part number",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "table",
+      "id": "tbl_0042",
+      "reading_order": 5309,
+      "section": "Table 1-39  Part number",
+      "bbox": {
+        "l": 98.98249423860204,
+        "t": 647.3379058837891,
+        "r": 550.3796381725296,
+        "b": 586.6320037841797
+      },
+      "markdown": "| Fuser power supply (FPS) part number   |                                              |\n|----------------------------------------|----------------------------------------------|\n| RM2-7948-000CN                         | Fixing (fuser) power supply (FPS; 110V-127V) |\n| RM2-7949-000CN                         | Fixing (fuser) power supply (FPS; 220V-240V) |",
+      "title": "Table 1-39  Part number",
+      "table_number": "Table 1-39",
+      "rows": 3,
+      "cols": 1
+    },
+    {
+      "type": "heading",
+      "id": "txt_3878",
+      "reading_order": 5310,
+      "section": "Required tools",
+      "bbox": {
+        "l": 100.0,
+        "t": 565.165,
+        "r": 158.23999999999998,
+        "b": 553.575
+      },
+      "content": "Required tools",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_3879",
+      "reading_order": 5311,
+      "section": "Required tools",
+      "bbox": {
+        "l": 100.0,
+        "t": 545.165,
+        "r": 234.80999999999997,
+        "b": 533.575
+      },
+      "content": "Small flat-blade screwdriver"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_3880",
+      "reading_order": 5312,
+      "section": "Required tools",
+      "bbox": {
+        "l": 99.99998,
+        "t": 523.91585,
+        "r": 423.9999800000002,
+        "b": 512.32585
+      },
+      "content": "#2 Phillips screwdriver with a magnetic tip and a 152 mm (6 in) shaft length"
+    },
+    {
+      "type": "heading",
+      "id": "txt_3881",
+      "reading_order": 5313,
+      "section": "After performing service",
+      "bbox": {
+        "l": 100.0,
+        "t": 498.6667,
+        "r": 197.32999999999996,
+        "b": 487.0767
+      },
+      "content": "After performing service",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "heading",
+      "id": "txt_3882",
+      "reading_order": 5314,
+      "section": "Turn the printer power on",
+      "bbox": {
+        "l": 100.00002,
+        "t": 478.6667,
+        "r": 202.35002,
+        "b": 467.07669999999996
+      },
+      "content": "Turn the printer power on",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_3883",
+      "reading_order": 5315,
+      "section": "Turn the printer power on",
+      "bbox": {
+        "l": 100.00002,
+        "t": 457.6667,
+        "r": 222.84001999999998,
+        "b": 446.07669999999996
+      },
+      "content": "Connect the power cable."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_3884",
+      "reading_order": 5316,
+      "section": "Turn the printer power on",
+      "bbox": {
+        "l": 100.00001,
+        "t": 436.41756000000004,
+        "r": 294.29002,
+        "b": 424.82756
+      },
+      "content": "Use the power switch to turn the power on."
+    },
+    {
+      "type": "heading",
+      "id": "txt_3885",
+      "reading_order": 5317,
+      "section": "Post service test",
+      "bbox": {
+        "l": 100.0,
+        "t": 411.16841,
+        "r": 165.89,
+        "b": 399.57840999999996
+      },
+      "content": "Post service test",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_3886",
+      "reading_order": 5318,
+      "section": "Post service test",
+      "bbox": {
+        "l": 100.0,
+        "t": 391.16841,
+        "r": 311.99999999999994,
+        "b": 379.57840999999996
+      },
+      "content": "Make sure that the printer initializes to a Ready state."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_3887",
+      "reading_order": 5319,
+      "section": "Post service test",
+      "bbox": {
+        "l": 100.0,
+        "t": 370.16841,
+        "r": 373.2600000000001,
+        "b": 358.57840999999996
+      },
+      "content": "Remove the control panel (M506x/E50045x/M507x/E50145x)."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_3888",
+      "reading_order": 5320,
+      "section": "Post service test",
+      "bbox": {
+        "l": 121.99998,
+        "t": 349.16841,
+        "r": 334.42997999999994,
+        "b": 337.57840999999996
+      },
+      "content": "Tilt the control panel to the fully raised position."
+    }
+  ],
+  "page_stats": {
+    "block_count": 16,
+    "text_blocks": 14,
+    "paragraphs": 2,
+    "headings": 5,
+    "list_items": 6,
+    "captions": 0,
+    "admonitions": 1,
+    "references": 0,
+    "figures": 1,
+    "tables": 1,
+    "toc_tables": 0
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "page": 51,
+  "document_id": "doc_229deb31",
+  "page_bbox": {
+    "width": 595.219970703125,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0446",
+      "reading_order": 628,
+      "section": "7    Service Diagnosis",
+      "bbox": {
+        "l": 56.962,
+        "t": 773.5502988,
+        "r": 250.90966188000021,
+        "b": 755.1003969999999
+      },
+      "content": "7    Service Diagnosis",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "id": "txt_0447",
+      "reading_order": 629,
+      "section": "7.1 Caution for Diagnosis",
+      "bbox": {
+        "l": 56.962,
+        "t": 741.3711416,
+        "r": 249.85115425000004,
+        "b": 725.691554
+      },
+      "content": "7.1 Caution for Diagnosis",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0448",
+      "reading_order": 630,
+      "section": "7.1 Caution for Diagnosis",
+      "bbox": {
+        "l": 136.7193,
+        "t": 715.6398152,
+        "r": 456.94619565999983,
+        "b": 706.3870380000001
+      },
+      "content": "The operation lamp flashes when any of the following errors is detected."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0449",
+      "reading_order": 631,
+      "section": "7.1 Caution for Diagnosis",
+      "bbox": {
+        "l": 140.7246083,
+        "t": 700.0819598,
+        "r": 550.6604215799988,
+        "b": 675.2713272000001
+      },
+      "content": "1.When a protection device of the indoor or outdoor unit is activated or when the thermistor malfunctions, disabling equipment operation."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0450",
+      "reading_order": 632,
+      "section": "7.1 Caution for Diagnosis",
+      "bbox": {
+        "l": 140.7246083,
+        "t": 668.9662490000001,
+        "r": 550.6963794599994,
+        "b": 644.1556164000001
+      },
+      "content": "2.When a signal transmission error occurs between the indoor and outdoor units.In either case, conduct the diagnostic procedure described in the following pages."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0451",
+      "reading_order": 633,
+      "section": "7.2.Problem Symptoms and Measures",
+      "bbox": {
+        "l": 56.962,
+        "t": 632.4756416,
+        "r": 346.6850342499999,
+        "b": 616.796054
+      },
+      "content": "7.2.Problem Symptoms and Measures",
+      "level": 2
+    },
+    {
+      "type": "table",
+      "id": "tbl_0040",
+      "reading_order": 634,
+      "section": "7.2.Problem Symptoms and Measures",
+      "bbox": {
+        "l": 55.97026944756507,
+        "t": 611.8900604248047,
+        "r": 541.8879443164383,
+        "b": 359.79339599609375
+      },
+      "markdown": "| Sympt R m                                                                   | Check Item                                                    | Details of Measure                                                                                                                                                                                                                                |\n|-----------------------------------------------------------------------------|---------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| None of the units operates                                                  | Check the power supply.                                       | Check to make sure that the rated voltage is supplied.                                                                                                                                                                                            |\n| None of the units operates                                                  | Check the indoor PCB                                          | Check to make sure that the indoor PCB is broken                                                                                                                                                                                                  |\n| Operation sometimes stops.                                                  | Check the power supply.                                       | A power failure of 2 to 10 cycles can stop air conditioner operation.                                                                                                                                                                             |\n| Equipment operates but does not cool, or does not heat (only for heat pump) | Check for faulty operation of the electronic expansion valve. | Set the units to cooling operation, and compare the temperatures of the liquid side connection pipes of the connection section among rooms to check the opening and closing operation of the electronic expansion valves of the individual units. |\n| Equipment operates but does not cool, or does not heat (only for heat pump) | Diagnosis by service port pressure and operating current.     | Check for insufficient gas.                                                                                                                                                                                                                       |\n| Large operating noise and vibrations                                        | Check the installation condition.                             | Check to make sure that the required spaces for installation (specified in the Technical Guide, etc.) are provided.                                                                                                                               |"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0145",
+      "reading_order": 635,
+      "section": "7.2.Problem Symptoms and Measures",
+      "bbox": {
+        "l": 60.55294142269662,
+        "t": 63.0528564453125,
+        "r": 92.49596736063914,
+        "b": 52.32891845703125
+      },
+      "image_path": "figures/figure_0145.png",
+      "previous_block_id": "txt_0451",
+      "next_block_id": "txt_0452"
+    }
+  ]
+}

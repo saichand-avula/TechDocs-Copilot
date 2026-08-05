@@ -1,0 +1,456 @@
+{
+  "page": 200,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0534",
+      "reading_order": 2340,
+      "section": "12. Remove the right cover.",
+      "bbox": {
+        "l": 119.12826866504948,
+        "t": 731.8838806152344,
+        "r": 132.32003371590326,
+        "b": 718.4382553100586
+      },
+      "image_path": "figures/figure_0534.png",
+      "width": 13,
+      "height": 13,
+      "image_hash": "df7bb5338f8fbe84a1d08fd6d1fe460d2b94766f18f6328775845c41b0730ec4",
+      "previous_block_id": "txt_1780",
+      "next_block_id": "txt_1781"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1781",
+      "reading_order": 2341,
+      "section": "12. Remove the right cover.",
+      "bbox": {
+        "l": 135.0,
+        "t": 729.79,
+        "r": 404.8599999999999,
+        "b": 718.2
+      },
+      "content": "NOTE: HP recommends responsible disposal of the defective part."
+    },
+    {
+      "type": "reference",
+      "id": "txt_1782",
+      "reading_order": 2342,
+      "section": "12. Remove the right cover.",
+      "bbox": {
+        "l": 134.99998,
+        "t": 708.79,
+        "r": 458.28998,
+        "b": 697.2
+      },
+      "content": "http://www8.hp.com/us/en/hp-information/environment/product-recycling.html"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1783",
+      "reading_order": 2343,
+      "section": "12. Remove the right cover.",
+      "bbox": {
+        "l": 113.0,
+        "t": 686.29,
+        "r": 333.5199999999998,
+        "b": 674.7
+      },
+      "content": "Unpack the replacement part from the packaging."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0535",
+      "reading_order": 2344,
+      "section": "12. Remove the right cover.",
+      "bbox": {
+        "l": 119.23269643371988,
+        "t": 664.8019180297852,
+        "r": 132.82952897517058,
+        "b": 651.1159057617188
+      },
+      "image_path": "figures/figure_0535.png",
+      "width": 13,
+      "height": 13,
+      "image_hash": "b9f093ada46ffbbb4a5818353bb4a0247027b5ab257e2cf1f44ac7a99d80ce7c",
+      "previous_block_id": "txt_1783",
+      "next_block_id": "txt_1784"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0536",
+      "reading_order": 2345,
+      "section": "12. Remove the right cover.",
+      "bbox": {
+        "l": 118.89857942944613,
+        "t": 548.7591857910156,
+        "r": 131.78133162488425,
+        "b": 535.6022033691406
+      },
+      "image_path": "figures/figure_0536.png",
+      "width": 12,
+      "height": 13,
+      "image_hash": "c69d9d63dffaaeca8c8d47fe0704314fd6788e252054b8a67210177dfc52d3a7",
+      "previous_block_id": "txt_1783",
+      "next_block_id": "txt_1784"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_1784",
+      "reading_order": 2346,
+      "severity": "caution",
+      "content": "CAUTION: Some parts are sensitive to electrostatic discharge (ESD). Always perform service",
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 135.0,
+        "t": 657.405,
+        "r": 172.75,
+        "b": 645.815
+      }
+    },
+    {
+      "type": "figure",
+      "id": "fig_0537",
+      "reading_order": 2348,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 181.76814547128694,
+        "t": 661.2544860839844,
+        "r": 202.2422412904856,
+        "b": 640.2349548339844
+      },
+      "image_path": "figures/figure_0537.png",
+      "width": 20,
+      "height": 21,
+      "image_hash": "db50a16dc14b8c6fb87164ac03515bd6d3e3e7f95b3c713328015cecca1de3fc",
+      "previous_block_id": "txt_1785",
+      "next_block_id": "txt_1786"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1786",
+      "reading_order": 2349,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 135.0,
+        "t": 638.79,
+        "r": 540.7700400000001,
+        "b": 603.2
+      },
+      "content": "work at an ESD-protected workstation or mat. If an ESD workstation or mat is not available, touch the sheet-metal chassis to provide a static ground before touching an ESD-sensitive assembly. Protect the ESD-sensitive assemblies by placing them in ESD pouches when they are out of the printer."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1787",
+      "reading_order": 2350,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 135.00004,
+        "t": 593.79,
+        "r": 539.6300400000002,
+        "b": 558.2
+      },
+      "content": "If the replacement part is a roller or pad, avoid touching the spongy part of it. Skin oils on the roller or pad can cause paper pickup and/or print-quality problems. HP recommends using disposable gloves when handling rollers or pads or washing your hands before touching rollers or pads."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1788",
+      "reading_order": 2351,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 135.0,
+        "t": 548.79,
+        "r": 532.73,
+        "b": 525.2
+      },
+      "content": "IMPORTANT: Make sure that all of the shipping materials (for example shipping tape) are removed from the replacement part prior to installation."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1789",
+      "reading_order": 2352,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 113.0,
+        "t": 514.29,
+        "r": 334.02,
+        "b": 502.70000000000005
+      },
+      "content": "To install an assembly, reverse the removal steps."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1790",
+      "reading_order": 2353,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 135.00002,
+        "t": 493.28999999999996,
+        "r": 542.6100400000003,
+        "b": 457.7
+      },
+      "content": "When applicable, special installation instructions are provided for an assembly at the end of the removal procedure. Always completely read the removal instructions and follow all special installation instructions."
+    },
+    {
+      "type": "heading",
+      "id": "txt_1791",
+      "reading_order": 2354,
+      "section": "Removal and replacement: Top cover (SFP)",
+      "bbox": {
+        "l": 45.00004,
+        "t": 444.29,
+        "r": 215.55004000000002,
+        "b": 432.7
+      },
+      "content": "Removal and replacement: Top cover (SFP)",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1792",
+      "reading_order": 2355,
+      "section": "Removal and replacement: Top cover (SFP)",
+      "bbox": {
+        "l": 91.00005,
+        "t": 424.29,
+        "r": 435.68005000000005,
+        "b": 412.7
+      },
+      "content": "Learn how to remove and replace the top cover (M501/M506/E50045/M507/E50145)."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1793",
+      "reading_order": 2356,
+      "section": "Removal and replacement: Top cover (SFP)",
+      "bbox": {
+        "l": 91.00004,
+        "t": 403.29,
+        "r": 325.76003999999995,
+        "b": 391.7
+      },
+      "content": "To view a short video of this procedure, click the link below.",
+      "hyperlink_hint": true
+    },
+    {
+      "type": "heading",
+      "id": "txt_1794",
+      "reading_order": 2357,
+      "section": "M501",
+      "bbox": {
+        "l": 91.0,
+        "t": 382.29,
+        "r": 113.99,
+        "b": 370.7
+      },
+      "content": "M501",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1795",
+      "reading_order": 2358,
+      "section": "M501",
+      "bbox": {
+        "l": 91.0,
+        "t": 361.29,
+        "r": 349.65,
+        "b": 349.7
+      },
+      "content": "View a video of how to remove and replace the top cover (M501).",
+      "hyperlink_hint": true
+    },
+    {
+      "type": "heading",
+      "id": "txt_1796",
+      "reading_order": 2359,
+      "section": "M506/E50045",
+      "bbox": {
+        "l": 91.0,
+        "t": 337.29,
+        "r": 149.32999999999998,
+        "b": 325.7
+      },
+      "content": "M506/E50045",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1797",
+      "reading_order": 2360,
+      "section": "M506/E50045",
+      "bbox": {
+        "l": 91.0,
+        "t": 316.29,
+        "r": 384.99,
+        "b": 304.7
+      },
+      "content": "View a video of how to remove and replace the top cover (M506/E50045).",
+      "hyperlink_hint": true
+    },
+    {
+      "type": "heading",
+      "id": "txt_1798",
+      "reading_order": 2361,
+      "section": "M507/E50145",
+      "bbox": {
+        "l": 91.00002,
+        "t": 292.29,
+        "r": 149.33002,
+        "b": 280.7
+      },
+      "content": "M507/E50145",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1799",
+      "reading_order": 2362,
+      "section": "M507/E50145",
+      "bbox": {
+        "l": 91.0,
+        "t": 271.28999999999996,
+        "r": 381.54,
+        "b": 259.70000000000005
+      },
+      "content": "View a video of how to remove and replace the top cover (M507E50145).",
+      "hyperlink_hint": true
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1800",
+      "reading_order": 2363,
+      "section": "M507/E50145",
+      "bbox": {
+        "l": 91.0,
+        "t": 247.28999999999996,
+        "r": 213.25,
+        "b": 235.70000000000005
+      },
+      "content": "Mean time to repair: 8 minutes"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1801",
+      "reading_order": 2364,
+      "section": "M507/E50145",
+      "bbox": {
+        "l": 91.0,
+        "t": 226.28999999999996,
+        "r": 164.01999999999998,
+        "b": 214.70000000000005
+      },
+      "content": "Service level: Easy"
+    },
+    {
+      "type": "heading",
+      "id": "txt_1802",
+      "reading_order": 2365,
+      "section": "Before performing service",
+      "bbox": {
+        "l": 91.0,
+        "t": 201.28999999999996,
+        "r": 195.23999999999998,
+        "b": 189.70000000000005
+      },
+      "content": "Before performing service",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "heading",
+      "id": "txt_1803",
+      "reading_order": 2366,
+      "section": "Turn the printer power off",
+      "bbox": {
+        "l": 91.00002,
+        "t": 181.28999999999996,
+        "r": 193.98002,
+        "b": 169.70000000000005
+      },
+      "content": "Turn the printer power off",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1804",
+      "reading_order": 2367,
+      "section": "Turn the printer power off",
+      "bbox": {
+        "l": 91.00003000000001,
+        "t": 160.28999999999996,
+        "r": 225.21002999999993,
+        "b": 148.70000000000005
+      },
+      "content": "Disconnect the power cable."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0538",
+      "reading_order": 2368,
+      "section": "Turn the printer power off",
+      "bbox": {
+        "l": 97.08275378795435,
+        "t": 138.79132080078125,
+        "r": 111.31889566097237,
+        "b": 126.066650390625
+      },
+      "image_path": "figures/figure_0538.png",
+      "width": 14,
+      "height": 12,
+      "image_hash": "f4a4a846a90ac97d4103192a5f880f09ff0587981347830511b26981e69797e9",
+      "previous_block_id": "txt_1804",
+      "next_block_id": "txt_1805"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_1805",
+      "reading_order": 2369,
+      "section": "Turn the printer power off",
+      "bbox": {
+        "l": 113.0,
+        "t": 136.78999999999996,
+        "r": 524.0700000000002,
+        "b": 113.20000000000005
+      },
+      "content": "WARNING! To avoid damage to the printer, turn the printer off, wait 30 seconds, and then remove the power cord before attempting to service the printer.",
+      "severity": "warning"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1806",
+      "reading_order": 2370,
+      "section": "Turn the printer power off",
+      "bbox": {
+        "l": 91.0,
+        "t": 102.28999999999996,
+        "r": 470.47000000000025,
+        "b": 78.70000000000005
+      },
+      "content": "Use the table below to identify the correct part number for your printer . To order the part, go to www.hp.com/buy/parts."
+    }
+  ],
+  "page_stats": {
+    "block_count": 30,
+    "text_blocks": 25,
+    "paragraphs": 10,
+    "headings": 6,
+    "list_items": 6,
+    "captions": 0,
+    "admonitions": 2,
+    "references": 1,
+    "figures": 5,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

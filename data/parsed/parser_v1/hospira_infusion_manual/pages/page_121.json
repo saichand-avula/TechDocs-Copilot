@@ -1,0 +1,70 @@
+{
+  "page": 121,
+  "document_id": "doc_37f23c38",
+  "page_bbox": {
+    "width": 612.0,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0049",
+      "reading_order": 1285,
+      "section": "7.2.12.6 MECHANISM ASSEMBLY REPLACEMENT",
+      "bbox": {
+        "l": 107.67393493652344,
+        "t": 606.9827423095703,
+        "r": 539.7855224609375,
+        "b": 238.46246337890625
+      },
+      "image_path": "figures/figure_0049.png",
+      "next_block_id": "txt_1198",
+      "caption_id": "txt_1199",
+      "caption": ". Mechanism Assembly Replacement",
+      "figure_number": "Figure 7-14",
+      "image_hash": "5942b87d32bfa0471c06f1e145990253804ffe051d4a7cf37583cb03ac64cd8c",
+      "width": 432,
+      "height": 369
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1198",
+      "reading_order": 1286,
+      "section": "7.2.12.6 MECHANISM ASSEMBLY REPLACEMENT",
+      "bbox": {
+        "l": 508.4853,
+        "t": 209.53859999999997,
+        "r": 535.8402118,
+        "b": 208.27855799999998
+      },
+      "content": "05K01071"
+    },
+    {
+      "type": "caption",
+      "id": "txt_1199",
+      "reading_order": 1287,
+      "section": "7.2.12.6 MECHANISM ASSEMBLY REPLACEMENT",
+      "bbox": {
+        "l": 202.14,
+        "t": 193.45128,
+        "r": 445.62813599999924,
+        "b": 184.23828000000003
+      },
+      "content": "Figure 7-14. Mechanism Assembly Replacement",
+      "caption_for": "fig_0049"
+    }
+  ],
+  "page_stats": {
+    "block_count": 3,
+    "text_blocks": 2,
+    "paragraphs": 1,
+    "headings": 0,
+    "list_items": 0,
+    "captions": 1,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 1,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

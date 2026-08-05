@@ -1,0 +1,462 @@
+{
+  "page": 12,
+  "document_id": "doc_1032c87b",
+  "page_bbox": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_0096",
+      "reading_order": 107,
+      "section": "2.4 UPS Display Interface",
+      "bbox": {
+        "l": 93.384,
+        "t": 730.7617429101563,
+        "r": 101.27232000000001,
+        "b": 724.4765577711129
+      },
+      "content": ""
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0097",
+      "reading_order": 108,
+      "section": "2.4 UPS Display Interface",
+      "bbox": {
+        "l": 119.66,
+        "t": 730.3076629101563,
+        "r": 155.83568,
+        "b": 720.836101363195
+      },
+      "content": "Battery"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0098",
+      "reading_order": 109,
+      "section": "2.4 UPS Display Interface",
+      "bbox": {
+        "l": 116.66,
+        "t": 716.6276629101563,
+        "r": 189.46568,
+        "b": 695.156101363195
+      },
+      "content": "Battery voltage Battery current"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0099",
+      "reading_order": 110,
+      "section": "2.4 UPS Display Interface",
+      "bbox": {
+        "l": 116.66,
+        "t": 692.5076629101563,
+        "r": 207.70568,
+        "b": 683.036101363195
+      },
+      "content": "Battery information"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0100",
+      "reading_order": 111,
+      "section": "2.4 UPS Display Interface",
+      "bbox": {
+        "l": 93.384,
+        "t": 679.0417429101562,
+        "r": 379.95568,
+        "b": 643.316101363195
+      },
+      "content": " Logs of historical event It shall update logs of historical event if there is any fault It can record 10,000 historical events at most"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0101",
+      "reading_order": 112,
+      "section": "2.4 UPS Display Interface",
+      "bbox": {
+        "l": 77.904,
+        "t": 638.7476629101562,
+        "r": 165.46568,
+        "b": 629.2761013631949
+      },
+      "content": "LED display"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0102",
+      "reading_order": 113,
+      "section": "2.4 UPS Display Interface",
+      "bbox": {
+        "l": 95.664,
+        "t": 623.1476629101563,
+        "r": 369.96567999999996,
+        "b": 613.676101363195
+      },
+      "content": "Power flow of the system is displayed by 5 bi-color LEDs."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0103",
+      "reading_order": 114,
+      "section": "2.4 UPS Display Interface",
+      "bbox": {
+        "l": 93.384,
+        "t": 608.0017429101563,
+        "r": 161.11568,
+        "b": 598.076101363195
+      },
+      "content": " Rectifier"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0104",
+      "reading_order": 115,
+      "section": "2.4 UPS Display Interface",
+      "bbox": {
+        "l": 93.384,
+        "t": 592.4017429101563,
+        "r": 155.83568,
+        "b": 582.476101363195
+      },
+      "content": " Battery"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0105",
+      "reading_order": 116,
+      "section": "2.4 UPS Display Interface",
+      "bbox": {
+        "l": 93.384,
+        "t": 576.7717429101563,
+        "r": 162.07567999999998,
+        "b": 566.846101363195
+      },
+      "content": " Bypass"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0106",
+      "reading_order": 117,
+      "section": "2.4 UPS Display Interface",
+      "bbox": {
+        "l": 93.384,
+        "t": 561.1717429101562,
+        "r": 163.39568,
+        "b": 551.246101363195
+      },
+      "content": " Inverter"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0107",
+      "reading_order": 118,
+      "section": "2.4 UPS Display Interface",
+      "bbox": {
+        "l": 93.384,
+        "t": 545.5717429101562,
+        "r": 145.99568,
+        "b": 535.6461013631949
+      },
+      "content": " Load"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0108",
+      "reading_order": 119,
+      "section": "2.4 UPS Display Interface",
+      "bbox": {
+        "l": 95.664,
+        "t": 531.4376629101563,
+        "r": 541.5984,
+        "b": 485.846101363195
+      },
+      "content": "It  means  corresponding  circuit  is  under  normal  operation  when  LED  is  green  and  it  means corresponding circuit is under abnormal operation when LED is red. It means corresponding circuit  is  shutdown  when  LED  is  distinguished,  and  it  means  corresponding  circuit  is  under startup or ready status when LED is flashing. Red LED is used for fault warning."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0109",
+      "reading_order": 120,
+      "section": "2.4 UPS Display Interface",
+      "bbox": {
+        "l": 77.904,
+        "t": 481.27766291015627,
+        "r": 134.47567999999998,
+        "b": 471.80610136319495
+      },
+      "content": "Button"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0110",
+      "reading_order": 121,
+      "section": "2.4 UPS Display Interface",
+      "bbox": {
+        "l": 95.664,
+        "t": 451.8776629101563,
+        "r": 502.24511999999936,
+        "b": 442.406101363195
+      },
+      "content": "Panel operation provides LCD touch screen and 9 keys, including 4 menu keys (switch '"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0111",
+      "reading_order": 122,
+      "section": "2.4 UPS Display Interface",
+      "bbox": {
+        "l": 142.82,
+        "t": 421.5176629101563,
+        "r": 187.73168,
+        "b": 412.04610136319496
+      },
+      "content": "',  down  '"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0009",
+      "reading_order": 123,
+      "section": "2.4 UPS Display Interface",
+      "bbox": {
+        "l": 94.99186529673307,
+        "t": 433.7986760361788,
+        "r": 146.54314328446327,
+        "b": 411.82365275246934
+      },
+      "image_path": "figures/figure_0009.png",
+      "previous_block_id": "txt_0111",
+      "next_block_id": "txt_0112"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0112",
+      "reading_order": 124,
+      "section": "2.4 UPS Display Interface",
+      "bbox": {
+        "l": 214.85,
+        "t": 421.5176629101563,
+        "r": 280.97672,
+        "b": 412.04610136319496
+      },
+      "content": "',  and  enter  '"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0113",
+      "reading_order": 125,
+      "section": "2.4 UPS Display Interface",
+      "bbox": {
+        "l": 535.2,
+        "t": 451.8776629101563,
+        "r": 544.50336,
+        "b": 442.406101363195
+      },
+      "content": "',"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0010",
+      "reading_order": 126,
+      "section": "2.4 UPS Display Interface",
+      "bbox": {
+        "l": 500.82420488389977,
+        "t": 467.1907660835721,
+        "r": 540.6098123644205,
+        "b": 442.50808387926406
+      },
+      "image_path": "figures/figure_0010.png",
+      "previous_block_id": "txt_0113",
+      "next_block_id": "txt_0114"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0114",
+      "reading_order": 127,
+      "section": "2.4 UPS Display Interface",
+      "bbox": {
+        "l": 307.99,
+        "t": 421.5176629101563,
+        "r": 541.5745599999998,
+        "b": 412.04610136319496
+      },
+      "content": "'),  power-on  'ON',  power-off  'OFF',  emergency"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0011",
+      "reading_order": 128,
+      "section": "2.4 UPS Display Interface",
+      "bbox": {
+        "l": 184.57081728296026,
+        "t": 435.3194055276527,
+        "r": 218.20753539329505,
+        "b": 413.0219336418001
+      },
+      "image_path": "figures/figure_0011.png",
+      "previous_block_id": "txt_0114",
+      "next_block_id": "txt_0115"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0012",
+      "reading_order": 129,
+      "section": "2.4 UPS Display Interface",
+      "bbox": {
+        "l": 278.34991061211946,
+        "t": 434.58760252049865,
+        "r": 312.20975586399436,
+        "b": 411.67114039195917
+      },
+      "image_path": "figures/figure_0012.png",
+      "previous_block_id": "txt_0114",
+      "next_block_id": "txt_0115"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0115",
+      "reading_order": 130,
+      "section": "2.4 UPS Display Interface",
+      "bbox": {
+        "l": 95.664,
+        "t": 403.2576629101563,
+        "r": 487.73568,
+        "b": 393.786101363195
+      },
+      "content": "power off 'EPO', fault muffle 'SILENCE ON/OFF', and fault clear 'FAULT CLEAR'."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0116",
+      "reading_order": 131,
+      "section": "2.4 UPS Display Interface",
+      "bbox": {
+        "l": 92.064,
+        "t": 388.1117429101563,
+        "r": 541.2103999999993,
+        "b": 362.586101363195
+      },
+      "content": " 4 menu keys and LCD touch screen can be used to select the menu displayed by liquid crystal display screen."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0117",
+      "reading_order": 132,
+      "section": "2.4 UPS Display Interface",
+      "bbox": {
+        "l": 92.064,
+        "t": 356.91174291015625,
+        "r": 341.28568,
+        "b": 346.98610136319496
+      },
+      "content": " ON/OFF is used to turn on/off the UPS system."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0118",
+      "reading_order": 133,
+      "section": "2.4 UPS Display Interface",
+      "bbox": {
+        "l": 92.064,
+        "t": 341.3117429101563,
+        "r": 541.5783999999999,
+        "b": 300.186101363195
+      },
+      "content": " Emergency Power Off key (EPO) is used to quickly shut down in case of emergency. After pressing  EPO  button,  the  UPS  needs  power  off  completely  so  that  the  system  can  exit emergency power off condition."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0119",
+      "reading_order": 134,
+      "section": "2.4 UPS Display Interface",
+      "bbox": {
+        "l": 92.064,
+        "t": 294.5117429101563,
+        "r": 358.08567999999997,
+        "b": 284.586101363195
+      },
+      "content": " FAULT CLEAR is used to clear fault lock condition."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0120",
+      "reading_order": 135,
+      "section": "2.4 UPS Display Interface",
+      "bbox": {
+        "l": 92.064,
+        "t": 278.91174291015625,
+        "r": 399.03568,
+        "b": 268.98610136319496
+      },
+      "content": " SILENCE ON/OFF is used to turn off the warning of buzzer."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0121",
+      "reading_order": 136,
+      "section": "2.5 Fault Protection and Alarms",
+      "bbox": {
+        "l": 80.784,
+        "t": 243.98886291015629,
+        "r": 324.78688,
+        "b": 229.67388920849885
+      },
+      "content": "2.5 Fault Protection and Alarms",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "id": "txt_0122",
+      "reading_order": 137,
+      "section": "1. Alarm information",
+      "bbox": {
+        "l": 77.904,
+        "t": 204.62766291015623,
+        "r": 179.50567999999998,
+        "b": 195.15610136319492
+      },
+      "content": "1. Alarm information",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0123",
+      "reading_order": 138,
+      "section": "1. Alarm information",
+      "bbox": {
+        "l": 90.264,
+        "t": 189.02766291015632,
+        "r": 541.61568,
+        "b": 163.956101363195
+      },
+      "content": "UPS will give alarm information to remind the user in case of following cases listed in the Table besides giving alarm information in case of fault."
+    },
+    {
+      "type": "table",
+      "id": "tbl_0005",
+      "reading_order": 139,
+      "section": "1. Alarm information",
+      "bbox": {
+        "l": 92.67136592520949,
+        "t": 146.55394243043702,
+        "r": 491.55191720704386,
+        "b": 66.05603884898937
+      },
+      "markdown": "Table 2-2: Alarm information\n\n| Output overload            | Effective of maintenance bypass   | Pressing of EPO button   | Open circuit of bypass   |\n|----------------------------|-----------------------------------|--------------------------|--------------------------|\n| Effective of manual bypass | Disconnection of battery          | Disconnection of fan     |                          |"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0124",
+      "reading_order": 140,
+      "section": "1. Alarm information",
+      "bbox": {
+        "l": 240.17,
+        "t": 157.82766291015628,
+        "r": 373.80568,
+        "b": 148.35610136319497
+      },
+      "content": "Table 2-2: Alarm information"
+    }
+  ]
+}

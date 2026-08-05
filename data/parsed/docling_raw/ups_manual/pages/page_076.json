@@ -1,0 +1,186 @@
+{
+  "page": 76,
+  "document_id": "doc_1032c87b",
+  "page_bbox": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0611",
+      "reading_order": 777,
+      "section": "7.4 Email and SMS Platform of SNMP",
+      "bbox": {
+        "l": 74.664,
+        "t": 723.1959829101563,
+        "r": 294.766,
+        "b": 712.4328447886094
+      },
+      "content": "7.4 Email and SMS Platform of SNMP",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "id": "txt_0612",
+      "reading_order": 778,
+      "section": "7.4.1 Web page login",
+      "bbox": {
+        "l": 74.664,
+        "t": 693.5559829101563,
+        "r": 202.70600000000002,
+        "b": 682.7928447886094
+      },
+      "content": "7.4.1 Web page login",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0613",
+      "reading_order": 779,
+      "section": "7.4.1 Web page login",
+      "bbox": {
+        "l": 77.904,
+        "t": 663.7076629101563,
+        "r": 542.57568,
+        "b": 591.836101363195
+      },
+      "content": "Before logging in the web page, enter \"Function setting\" option in the control panel of UPS and set the communication protocol as \"EA protocol\", and then the following operations can be carried out. After  hardware  connection  between  iStars  and  network  and  settings  are  completed,  enter  the corresponding IP address obtained through iStars in the browser to log in the monitoring web page of iStars to remotely monitor UPS or set the related information."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0125",
+      "reading_order": 780,
+      "section": "7.4.1 Web page login",
+      "bbox": {
+        "l": 77.9386769478538,
+        "t": 585.1714964121483,
+        "r": 99.8631514022839,
+        "b": 565.76211673775
+      },
+      "image_path": "figures/figure_0125.png",
+      "previous_block_id": "txt_0613",
+      "next_block_id": "txt_0614"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0614",
+      "reading_order": 781,
+      "section": "7.4.1 Web page login",
+      "bbox": {
+        "l": 90.264,
+        "t": 572.2376629101562,
+        "r": 541.2804799999993,
+        "b": 545.006101363195
+      },
+      "content": "Please make sure the IP address setting and address of user's host are in the same network segment."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0615",
+      "reading_order": 782,
+      "section": "7.4.1 Web page login",
+      "bbox": {
+        "l": 77.904,
+        "t": 538.8776629101563,
+        "r": 435.63568,
+        "b": 529.406101363195
+      },
+      "content": "Open the browser and enter the IP address of iStars (such as 192.168.6.6)."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0616",
+      "reading_order": 783,
+      "section": "7.4.1 Web page login",
+      "bbox": {
+        "l": 77.904,
+        "t": 523.2776629101563,
+        "r": 541.2641599999995,
+        "b": 482.60610136319497
+      },
+      "content": "Enter user name and password, click on \"Enter\" to enter the monitoring web page. The user name of  default  administrator account is admin and password is admin. Users can add or delete user account and permission in setting according to their actual need."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0126",
+      "reading_order": 784,
+      "section": "7.4.1 Web page login",
+      "bbox": {
+        "l": 212.34894794554396,
+        "t": 474.14448141478965,
+        "r": 396.82762890970884,
+        "b": 331.0751931501835
+      },
+      "image_path": "figures/figure_0126.png",
+      "previous_block_id": "txt_0616",
+      "next_block_id": "txt_0617"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0617",
+      "reading_order": 785,
+      "section": "7.4.1 Web page login",
+      "bbox": {
+        "l": 188.21,
+        "t": 306.4176629101563,
+        "r": 425.67568,
+        "b": 296.946101363195
+      },
+      "content": "Figure 7-7: Logging in interface of iStars web page"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0618",
+      "reading_order": 786,
+      "section": "7.4.2 iStars web page operation",
+      "bbox": {
+        "l": 74.664,
+        "t": 279.14598291015636,
+        "r": 263.546,
+        "b": 268.3828447886094
+      },
+      "content": "7.4.2 iStars web page operation",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0619",
+      "reading_order": 787,
+      "section": "7.4.2 iStars web page operation",
+      "bbox": {
+        "l": 77.904,
+        "t": 249.1776629101563,
+        "r": 541.61376,
+        "b": 239.706101363195
+      },
+      "content": "The current user name and the permission, function menu of system, information  and status of"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0620",
+      "reading_order": 788,
+      "section": "7.4.2 iStars web page operation",
+      "bbox": {
+        "l": 77.904,
+        "t": 233.57766291015628,
+        "r": 541.3718399999995,
+        "b": 208.47610136319497
+      },
+      "content": "system, and other information will be displayed on the front page after entering iStars web page. Main functions of system menu includes: UPS information and status, setting and control, query log"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0621",
+      "reading_order": 789,
+      "section": "7.4.2 iStars web page operation",
+      "bbox": {
+        "l": 77.904,
+        "t": 202.34766291015626,
+        "r": 215.74568,
+        "b": 192.87610136319495
+      },
+      "content": "and miscellaneous function."
+    }
+  ]
+}

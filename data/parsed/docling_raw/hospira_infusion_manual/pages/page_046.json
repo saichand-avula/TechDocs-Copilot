@@ -1,0 +1,183 @@
+{
+  "page": 46,
+  "document_id": "doc_37f23c38",
+  "page_bbox": {
+    "width": 612.0,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0362",
+      "reading_order": 398,
+      "section": "4.2.3.4.1",
+      "bbox": {
+        "l": 72.0,
+        "t": 738.12273681,
+        "r": 106.97955511999999,
+        "b": 728.8081107637603
+      },
+      "content": "4.2.3.4.1",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "id": "txt_0363",
+      "reading_order": 399,
+      "section": "Transmitter Circuitry",
+      "bbox": {
+        "l": 72.0,
+        "t": 726.7603700000001,
+        "r": 207.12229200000007,
+        "b": 713.686239338843
+      },
+      "content": "Transmitter Circuitry",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0364",
+      "reading_order": 400,
+      "section": "Transmitter Circuitry",
+      "bbox": {
+        "l": 72.0,
+        "t": 697.68278681,
+        "r": 503.9388412730994,
+        "b": 676.7875348800329
+      },
+      "content": "The transmitter circuitry consists of a voltage sweep oscillator (VSO), a voltage-controlled oscillator (VCO), and a transmitter amplifier, and are located on the APP PWA."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0365",
+      "reading_order": 401,
+      "section": "Transmitter Circuitry",
+      "bbox": {
+        "l": 71.99914049589998,
+        "t": 661.6832270659,
+        "r": 504.1002303319012,
+        "b": 592.7880747360331
+      },
+      "content": "The voltage sweep oscillator circuit oscillates at approximately 12 kHz at 50 percent duty cycle. The output of the sweep oscillator is between +2 V DC  and +3 V DC , and is used to sweep the VCO. The VCO sweeps through the sensor's peak coupling frequency, which is between 3 and 6 MHz. A resistor and capacitor are used to configure the VCO center frequency. The VCO is enabled when the CPU asserts either DIARE or PXARE control signals."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0366",
+      "reading_order": 402,
+      "section": "Transmitter Circuitry",
+      "bbox": {
+        "l": 71.99914049589995,
+        "t": 577.6837669219002,
+        "r": 503.9919650232001,
+        "b": 544.7886949439331
+      },
+      "content": "The transmitter amplifier consists of a push-pull, emitter-follower, complementary pair of transistors.  The  transmitter  amplifier  drives  both  proximal  and  distal  sensors simultaneously."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0367",
+      "reading_order": 403,
+      "section": "4.2.3.4.2",
+      "bbox": {
+        "l": 71.99914049589995,
+        "t": 523.6846763060003,
+        "r": 106.97869561589994,
+        "b": 514.3700502597605
+      },
+      "content": "4.2.3.4.2",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "id": "txt_0368",
+      "reading_order": 404,
+      "section": "Receiver Circuitry",
+      "bbox": {
+        "l": 72.0,
+        "t": 512.3204000000001,
+        "r": 185.35221660000008,
+        "b": 499.246269338843
+      },
+      "content": "Receiver Circuitry",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0369",
+      "reading_order": 405,
+      "section": "Receiver Circuitry",
+      "bbox": {
+        "l": 72.0,
+        "t": 483.24275681,
+        "r": 503.9994977340007,
+        "b": 414.34822468803276
+      },
+      "content": "When the cassette's test port is filled with fluid, the transmitted signal will be coupled to an  identical  piezoelectric  crystal,  where  it  is  amplified  and  detected  by  the  receiver circuitry. The receiver circuitry consists of an amplifier, a peak detector, and an adjustable gain  buffer  stage.  There  is  a  separate,  symmetrical  receiver  circuit  for  each  channel (proximal and distal). Component references (called out in this design description) will be made to the distal channel only."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0370",
+      "reading_order": 406,
+      "section": "Receiver Circuitry",
+      "bbox": {
+        "l": 72.00000000000006,
+        "t": 399.2439168739,
+        "r": 504.0658314006003,
+        "b": 353.5434069899
+      },
+      "content": "The first amplifier includes two, directly coupled common emitter stages, biased from the V2_5 supply. DIARE and PXARE are used to enable the distal and proximal sensors, respectively. The detector stage consists of an emitter follower, charging a 400 microsecond time constant, refreshed every 40 µ sec (twice per VCO sweep)."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0371",
+      "reading_order": 407,
+      "section": "Receiver Circuitry",
+      "bbox": {
+        "l": 71.99980079980003,
+        "t": 339.2447170338,
+        "r": 504.0412301758996,
+        "b": 294.34982500783275
+      },
+      "content": "The peak detector output is buffered by an op-amp configured as a basic non-inverting amplifier  with  a  trimming  potentiometer  for  gain  adjustment.  Each  sensor  has  an independent  gain  adjustment.  The  two  air  sensor,  gain-trimming  potentiometers  are accessible for calibration in an assembled mechanism."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0372",
+      "reading_order": 408,
+      "section": "Receiver Circuitry",
+      "bbox": {
+        "l": 71.99980079980006,
+        "t": 279.2455171936999,
+        "r": 420.3321269307,
+        "b": 270.35008531173276
+      },
+      "content": "The following final signals are read by the CPU subsystem via the ADC:"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0373",
+      "reading_order": 409,
+      "section": "Receiver Circuitry",
+      "bbox": {
+        "l": 80.99956623570006,
+        "t": 261.2456875216001,
+        "r": 265.93802791670043,
+        "b": 252.3502556396328
+      },
+      "content": "PXAIR proximal air sensor output"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0374",
+      "reading_order": 410,
+      "section": "Receiver Circuitry",
+      "bbox": {
+        "l": 80.99956623570006,
+        "t": 243.7856903915,
+        "r": 249.8605797747001,
+        "b": 234.89025850953283
+      },
+      "content": "DIAIR distal air sensor output"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "tbl_0022",
+  "page": 56,
+  "section": "5.1.1 Simulated Status Diagram",
+  "title": null,
+  "markdown": "| Green and on   | Power of load is supplied by bypass                                                                            |\n|----------------|----------------------------------------------------------------------------------------------------------------|\n| Red and on     | Power of bypass is in fault or exceeds normal range, bypass static switch is in fault or load impact to bypass |\n| Off            | Bypass is normal                                                                                               |",
+  "block_id": "#/tables/21",
+  "reading_order": 639,
+  "bbox": {
+    "l": 119.97605178544627,
+    "t": 443.2153530853276,
+    "r": 544.9944935173672,
+    "b": 377.9883370075149
+  }
+}

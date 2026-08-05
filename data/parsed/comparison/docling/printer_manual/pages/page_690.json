@@ -1,0 +1,180 @@
+{
+  "page": 690,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_5259",
+      "reading_order": 7278,
+      "section": "Post service test",
+      "bbox": {
+        "l": 113.0,
+        "t": 732.29,
+        "r": 333.5199999999998,
+        "b": 720.7
+      },
+      "content": "Unpack the replacement part from the packaging."
+    },
+    {
+      "type": "reference",
+      "id": "txt_5260",
+      "reading_order": 7279,
+      "section": "Post service test",
+      "bbox": {
+        "l": 135.00002,
+        "t": 711.29,
+        "r": 458.29003000000006,
+        "b": 699.7
+      },
+      "content": "http://www8.hp.com/us/en/hp-information/environment/product-recycling.html"
+    },
+    {
+      "type": "figure",
+      "id": "fig_1971",
+      "reading_order": 7280,
+      "section": "Post service test",
+      "bbox": {
+        "l": 135.01177498432298,
+        "t": 676.8150634765625,
+        "r": 359.9094277549942,
+        "b": 468.4565734863281
+      },
+      "image_path": "figures/figure_1971.png",
+      "caption": "Recycle and unpack",
+      "figure_number": "Figure 1-1146",
+      "image_hash": "cdf146da783c010a658c5eb78af479e18652026eab902f3e190fe814ff3ddebc",
+      "width": 225,
+      "height": 209,
+      "previous_block_id": "txt_5260",
+      "next_block_id": "txt_5261",
+      "caption_id": "txt_5261"
+    },
+    {
+      "type": "caption",
+      "id": "txt_5261",
+      "reading_order": 7281,
+      "section": "Post service test",
+      "bbox": {
+        "l": 135.00004,
+        "t": 690.29,
+        "r": 276.07003999999995,
+        "b": 678.7
+      },
+      "content": "Figure 1-1146  Recycle and unpack",
+      "caption_for": "fig_1971"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_5262",
+      "reading_order": 7282,
+      "section": "Post service test",
+      "bbox": {
+        "l": 91.0,
+        "t": 457.79262,
+        "r": 262.17999999999995,
+        "b": 446.20261999999997
+      },
+      "content": "Install the internal USB ports module."
+    },
+    {
+      "type": "figure",
+      "id": "fig_1972",
+      "reading_order": 7283,
+      "section": "Post service test",
+      "bbox": {
+        "l": 96.98023247044267,
+        "t": 436.53814697265625,
+        "r": 110.83775314333764,
+        "b": 423.2356262207031
+      },
+      "image_path": "figures/figure_1972.png",
+      "decorative": true,
+      "width": 13,
+      "height": 13,
+      "image_hash": "bc3e95686abc19f3d7cbc17641799c84557e2d0adefd6a0189b3a1826982988d",
+      "previous_block_id": "txt_5262",
+      "next_block_id": "txt_5263"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_5263",
+      "reading_order": 7284,
+      "severity": "caution",
+      "content": "CAUTION: ESD-sensitive part.",
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 113.0,
+        "t": 428.90761,
+        "r": 150.75,
+        "b": 417.31761
+      }
+    },
+    {
+      "type": "figure",
+      "id": "fig_1973",
+      "reading_order": 7286,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 159.8498595187206,
+        "t": 433.0258483886719,
+        "r": 179.2179696401096,
+        "b": 411.5204162597656
+      },
+      "image_path": "figures/figure_1973.png",
+      "decorative": true,
+      "width": 19,
+      "height": 21,
+      "image_hash": "ed60993229b7667138af1d51c4067644af268effa416a55e305b03ca809ca3d5",
+      "previous_block_id": "txt_5264",
+      "next_block_id": "txt_5265"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_5265",
+      "reading_order": 7287,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 113.0,
+        "t": 399.79262,
+        "r": 533.6200000000002,
+        "b": 376.20261999999997
+      },
+      "content": "Position the notches on the internal USB ports PCA over the clips on the PCA holder and press down to attach the PCA to the holder. Make sure that the clips snap into place."
+    },
+    {
+      "type": "figure",
+      "id": "fig_1974",
+      "reading_order": 7288,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 133.31517071753993,
+        "t": 365.7652282714844,
+        "r": 382.4684490645946,
+        "b": 177.2037353515625
+      },
+      "image_path": "figures/figure_1974.png",
+      "image_hash": "63c1978862ae5c9188133bf8ae169bc0ef7f4cbdbdbc386a2b74e3a9d03b6f02",
+      "width": 249,
+      "height": 189,
+      "previous_block_id": "txt_5265",
+      "next_block_id": "txt_5266"
+    }
+  ],
+  "page_stats": {
+    "block_count": 10,
+    "text_blocks": 6,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 3,
+    "captions": 1,
+    "admonitions": 1,
+    "references": 1,
+    "figures": 4,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "page": 21,
+  "document_id": "doc_b0587846",
+  "page_bbox": {
+    "width": 612.0,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0263",
+      "reading_order": 307,
+      "section": "Installation",
+      "bbox": {
+        "l": 54.0,
+        "t": 744.2059399999999,
+        "r": 180.69600000000003,
+        "b": 717.42194
+      },
+      "content": "Installation",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "id": "txt_0264",
+      "reading_order": 308,
+      "section": "Preinstallation",
+      "bbox": {
+        "l": 53.992,
+        "t": 698.27063,
+        "r": 164.248,
+        "b": 680.41463
+      },
+      "content": "Preinstallation",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "id": "txt_0265",
+      "reading_order": 309,
+      "section": "Precautions",
+      "bbox": {
+        "l": 53.998,
+        "t": 673.64184,
+        "r": 104.218,
+        "b": 662.40184
+      },
+      "content": "Precautions",
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "id": "fig_0026",
+      "reading_order": 310,
+      "section": "Precautions",
+      "bbox": {
+        "l": 70.2669906616211,
+        "t": 651.9251403808594,
+        "r": 121.1891098022461,
+        "b": 608.4804077148438
+      },
+      "image_path": "figures/figure_0026.png",
+      "previous_block_id": "txt_0265",
+      "next_block_id": "txt_0266"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0266",
+      "reading_order": 311,
+      "section": "WARNING:",
+      "bbox": {
+        "l": 144.0,
+        "t": 648.64184,
+        "r": 197.11,
+        "b": 637.40184
+      },
+      "content": "WARNING:",
+      "level": 2
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0267",
+      "reading_order": 312,
+      "section": "WARNING:",
+      "bbox": {
+        "l": 153.00002,
+        "t": 634.8418399999999,
+        "r": 554.4900200000002,
+        "b": 623.60184
+      },
+      "content": "When installing in a potentially explosive environment, make sure that the motor is properly certified."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0268",
+      "reading_order": 313,
+      "section": "WARNING:",
+      "bbox": {
+        "l": 153.0,
+        "t": 621.04184,
+        "r": 555.4000000000002,
+        "b": 597.80184
+      },
+      "content": "You must earth (ground) all electrical equipment. This applies to the pump equipment, the driver, and any monitoring equipment. Test the earth (ground) lead to verify that it is connected correctly."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0269",
+      "reading_order": 314,
+      "section": "WARNING:",
+      "bbox": {
+        "l": 143.99996,
+        "t": 577.04183,
+        "r": 557.7099700000003,
+        "b": 553.80183
+      },
+      "content": "NOTICE: Supervision by an authorized ITT representative is recommended to ensure proper installation. Failure to do so may result in equipment damage or decreased performance."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0270",
+      "reading_order": 315,
+      "section": "Pump location guidelines",
+      "bbox": {
+        "l": 53.99798,
+        "t": 540.43679,
+        "r": 223.59398,
+        "b": 524.81279
+      },
+      "content": "Pump location guidelines",
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "id": "fig_0027",
+      "reading_order": 316,
+      "section": "Pump location guidelines",
+      "bbox": {
+        "l": 70.49882507324219,
+        "t": 514.8232421875,
+        "r": 121.31880187988281,
+        "b": 470.7993469238281
+      },
+      "image_path": "figures/figure_0027.png",
+      "previous_block_id": "txt_0270",
+      "next_block_id": "txt_0271"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0271",
+      "reading_order": 317,
+      "section": "WARNING:",
+      "bbox": {
+        "l": 144.0,
+        "t": 511.04183,
+        "r": 197.11,
+        "b": 499.80183
+      },
+      "content": "WARNING:",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0272",
+      "reading_order": 318,
+      "section": "WARNING:",
+      "bbox": {
+        "l": 143.99996,
+        "t": 496.52182999999997,
+        "r": 557.8300000000006,
+        "b": 449.28184999999996
+      },
+      "content": "Assembled units and their components are heavy. Failure to properly lift and support this equipment can result in serious physical injury and/or equipment damage. Lift equipment only at the specifically identified lifting points. Lifting devices such as eyebolts, slings, and spreaders must be rated, selected, and used for the entire load being lifted."
+    },
+    {
+      "type": "table",
+      "id": "tbl_0021",
+      "reading_order": 319,
+      "section": "WARNING:",
+      "bbox": {
+        "l": 142.98348999023438,
+        "t": 435.8800964355469,
+        "r": 558.8948364257812,
+        "b": 101.96014404296875
+      },
+      "markdown": "| Guideline                                                                                                                                           | Explanation/comment                                                                                                                                                                                                                                |\n|-----------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Keep the pump as close to the liquid source as practically possible.                                                                                | This minimizes the friction loss and keeps the suction piping as short as possible.                                                                                                                                                                |\n| Make sure that the space around the pump is sufficient.                                                                                             | This facilitates ventilation, inspection, maintenance, and service.                                                                                                                                                                                |\n| If you require lifting equipment such as a hoist or tackle, make sure that there is enough space above the pump.                                    | This makes it easier to properly use the lifting equipment and safely remove and relocate the components to a safe location.                                                                                                                       |\n| Protect the unit from weather and water damage due to rain, flooding, and freezing temperatures.                                                    | This is applicable if nothing else is specified.                                                                                                                                                                                                   |\n| Do not install and operate the equipment in closed systems unless the system is constructed with properly-sized safety devices and control devices. | Acceptable devices: • Pressure relief valves • Compression tanks • Pressure controls • Temperature controls • Flow controls If the system does not include these devices, consult the engineer or architect in charge before you operate the pump. |\n| Take into consideration the occurrence of unwanted noise and vibration.                                                                             | The best pump location for noise and vibration absorption is on a concrete floor with subsoil underneath.                                                                                                                                          |\n| If the pump location is overhead, undertake special precautions to reduce possible noise transmission.                                              | Consider a consultation with a noise specialist.                                                                                                                                                                                                   |"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "page": 129,
+  "document_id": "doc_e02482e6",
+  "page_bbox": {
+    "width": 595.0,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0330",
+      "reading_order": 1435,
+      "section": "Faults and remedies",
+      "bbox": {
+        "l": 519.4776000976562,
+        "t": 815.5828227996826,
+        "r": 567.1786499023438,
+        "b": 793.0445327758789
+      },
+      "image_path": "figures/figure_0330.png",
+      "image_hash": "b28a1d23de5124d82d6f84120acacff249829ec0e42f4c826059a188d93e4d2e",
+      "width": 48,
+      "height": 23
+    },
+    {
+      "type": "table",
+      "id": "tbl_0106",
+      "reading_order": 1436,
+      "section": "Faults and remedies",
+      "bbox": {
+        "l": 86.71263885498047,
+        "t": 755.9444732666016,
+        "r": 567.0283203125,
+        "b": 428.7665100097656
+      },
+      "markdown": "| -   | Condition                                                                      | Fault                                                                                   | Remedy                                                                                                                                                                   |\n|-----|--------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n|     | Compressor element outlet temperature or delivery air temperature above normal | Oil level too low                                                                       | Check and correct                                                                                                                                                        |\n|     |                                                                                | On air-cooled compressors, insufficient cooling air or cooling air temperature too high | Check for cooling air restriction or improve ventilation of the compressor room. Avoid recirculating of cooling air. If installed, check capacity of compressor room fan |\n|     |                                                                                | On water-cooled compressors, cooling water flow too low                                 | Increase flow                                                                                                                                                            |\n|     |                                                                                | On water-cooled compressors, restriction in cooling water system                        | Consult Atlas Copco Customer Centre                                                                                                                                      |\n|     |                                                                                | Oil cooler clogged                                                                      | Clean cooler                                                                                                                                                             |\n|     |                                                                                | By-pass valve malfunctioning                                                            | Have valve tested                                                                                                                                                        |",
+      "rows": 7,
+      "cols": 4
+    },
+    {
+      "type": "table",
+      "id": "tbl_0107",
+      "reading_order": 1437,
+      "section": "Faults and remedies",
+      "bbox": {
+        "l": 86.84811401367188,
+        "t": 412.3414306640625,
+        "r": 567.212646484375,
+        "b": 349.4734191894531
+      },
+      "markdown": "| -   | Condition   | Fault                           | Remedy                              |\n|-----|-------------|---------------------------------|-------------------------------------|\n|     |             | Air cooler clogged              | Clean cooler                        |\n|     |             | Compressor element out of order | Consult Atlas Copco Customer Centre |",
+      "rows": 3,
+      "cols": 4
+    }
+  ],
+  "page_stats": {
+    "block_count": 3,
+    "text_blocks": 0,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 0,
+    "captions": 0,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 1,
+    "tables": 2,
+    "toc_tables": 0
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "page": 139,
+  "document_id": "doc_caa693b1",
+  "page_bbox": {
+    "width": 595.0,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_0959",
+      "reading_order": 1238,
+      "section": "3-3-2. Tool Post Home Position Setting",
+      "bbox": {
+        "l": 99.3,
+        "t": 741.9146599999999,
+        "r": 258.4145940000001,
+        "b": 733.0429409281768
+      },
+      "content": "Home Position Setting Method"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0960",
+      "reading_order": 1239,
+      "section": "3-3-2. Tool Post Home Position Setting",
+      "bbox": {
+        "l": 120.540396,
+        "t": 724.8746479999999,
+        "r": 293.49862199999995,
+        "b": 648.0232409281768
+      },
+      "content": "Unclamp the turret by simultaneously pressing '[SPINDLE STOP]' and '[SELECT]',  '[FEED  HOLD]'  on the Operating Panel."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0961",
+      "reading_order": 1240,
+      "section": "3-3-2. Tool Post Home Position Setting",
+      "bbox": {
+        "l": 141.83991,
+        "t": 639.915068,
+        "r": 293.49962400000015,
+        "b": 580.043552928177
+      },
+      "content": "The  Message,  '2067  TURRET COMPULSORY  UNCLAMP'  will be displayed on the alarm screen. Parameter K0#3=\"1\""
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0962",
+      "reading_order": 1241,
+      "section": "3-3-2. Tool Post Home Position Setting",
+      "bbox": {
+        "l": 141.83991,
+        "t": 571.87526,
+        "r": 293.503632,
+        "b": 495.0238529281769
+      },
+      "content": "Unclamp the turret by Simultaneously pressing [TURRET  INDEX],  [ROTATING TOOL  STOP]  on  the  operating panel."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0963",
+      "reading_order": 1242,
+      "section": "3-3-2. Tool Post Home Position Setting",
+      "bbox": {
+        "l": 120.540396,
+        "t": 469.87566800000013,
+        "r": 296.89640399999996,
+        "b": 461.0039489281769
+      },
+      "content": "Press the Emergency Stop switch."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0964",
+      "reading_order": 1243,
+      "section": "3-3-2. Tool Post Home Position Setting",
+      "bbox": {
+        "l": 120.540396,
+        "t": 282.91649600000005,
+        "r": 300.4865700000002,
+        "b": 206.00496892817682
+      },
+      "content": "Turn the turret by hand and set the No.  1  tool.  Turn  the  turret  and remain it on the position where the arrows of turret and tool post body are aligned."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0965",
+      "reading_order": 1244,
+      "section": "3-3-2. Tool Post Home Position Setting",
+      "bbox": {
+        "l": 120.540396,
+        "t": 180.91690400000005,
+        "r": 300.48556799999994,
+        "b": 155.00517292817688
+      },
+      "content": "Release the Emergency Stop state and press the \"STAND-BY\" switch."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0239",
+      "reading_order": 1245,
+      "section": "3-3-2. Tool Post Home Position Setting",
+      "bbox": {
+        "l": 310.81964111328125,
+        "t": 726.9795761108398,
+        "r": 541.2747802734375,
+        "b": 511.8626708984375
+      },
+      "image_path": "figures/figure_0239.png",
+      "previous_block_id": "txt_0965",
+      "image_hash": "9939fd6d8760c40873b477c39a321f8ec0023e890699ca5d32153ead03c57016",
+      "width": 230,
+      "height": 215
+    },
+    {
+      "type": "figure",
+      "id": "fig_0240",
+      "reading_order": 1246,
+      "section": "3-3-2. Tool Post Home Position Setting",
+      "bbox": {
+        "l": 311.7907409667969,
+        "t": 472.7685241699219,
+        "r": 539.8881225585938,
+        "b": 322.96978759765625
+      },
+      "image_path": "figures/figure_0240.png",
+      "previous_block_id": "txt_0965",
+      "image_hash": "712faf66606a2afbef4a334ffcb5853f286408555c73381ae2882a59e04f4019",
+      "width": 228,
+      "height": 150
+    },
+    {
+      "type": "figure",
+      "id": "fig_0241",
+      "reading_order": 1247,
+      "section": "3-3-2. Tool Post Home Position Setting",
+      "bbox": {
+        "l": 316.93548583984375,
+        "t": 283.46044921875,
+        "r": 546.2130126953125,
+        "b": 135.55255126953125
+      },
+      "image_path": "figures/figure_0241.png",
+      "previous_block_id": "txt_0965",
+      "image_hash": "df1ad8f5e845dccd8f7c08b2dc7abca7c180c9fc94d0cd877f1ea6b5642a1216",
+      "width": 229,
+      "height": 147
+    }
+  ],
+  "page_stats": {
+    "block_count": 10,
+    "text_blocks": 7,
+    "paragraphs": 2,
+    "headings": 0,
+    "list_items": 5,
+    "captions": 0,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 3,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

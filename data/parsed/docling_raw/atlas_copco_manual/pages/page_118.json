@@ -1,0 +1,172 @@
+{
+  "page": 118,
+  "document_id": "doc_e02482e6",
+  "page_bbox": {
+    "width": 595.0,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0309",
+      "reading_order": 1312,
+      "section": "General",
+      "bbox": {
+        "l": 26.44679069519043,
+        "t": 816.1955871582031,
+        "r": 73.97456359863281,
+        "b": 792.9324989318848
+      },
+      "image_path": "figures/figure_0309.png",
+      "previous_block_id": "txt_0909",
+      "next_block_id": "txt_0910"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0910",
+      "reading_order": 1313,
+      "section": "Intervals",
+      "bbox": {
+        "l": 28.21,
+        "t": 771.455,
+        "r": 73.20660000000001,
+        "b": 759.179
+      },
+      "content": "Intervals",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0911",
+      "reading_order": 1314,
+      "section": "Intervals",
+      "bbox": {
+        "l": 62.2297,
+        "t": 751.7408,
+        "r": 494.97079999999926,
+        "b": 726.3638
+      },
+      "content": "The local Atlas Copco Customer Centre may overrule the maintenance schedule, especially the service intervals, depending on the environmental and working conditions of the compressor."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0912",
+      "reading_order": 1315,
+      "section": "Intervals",
+      "bbox": {
+        "l": 62.2297,
+        "t": 718.6209,
+        "r": 381.01629999999983,
+        "b": 706.4439
+      },
+      "content": "The longer interval checks must also include the shorter interval checks."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0913",
+      "reading_order": 1316,
+      "section": "Service plans for compressors with an Elektronikon® Graphic controller",
+      "bbox": {
+        "l": 28.21,
+        "t": 686.3755,
+        "r": 395.73759999999936,
+        "b": 674.0994999999999
+      },
+      "content": "Service plans for compressors with an Elektronikon® Graphic controller",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0914",
+      "reading_order": 1317,
+      "section": "Service plans for compressors with an Elektronikon® Graphic controller",
+      "bbox": {
+        "l": 62.2297,
+        "t": 665.822,
+        "r": 531.7338999999996,
+        "b": 653.645
+      },
+      "content": "Besides the daily and 3-monthly checks, preventive service operations are specified in the schedule below."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0915",
+      "reading_order": 1318,
+      "section": "Service plans for compressors with an Elektronikon® Graphic controller",
+      "bbox": {
+        "l": 62.2297,
+        "t": 646.3223,
+        "r": 532.5214999999996,
+        "b": 607.744
+      },
+      "content": "Each plan has a programmed time interval at which all service actions belonging to that plan are to be carried out. When reaching the interval, a message will appear on the screen indicating which service plans are to be carried out; see section Service menu. After servicing, the intervals must be reset, see section Service menu."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0916",
+      "reading_order": 1319,
+      "section": "Preventive maintenance schedule",
+      "bbox": {
+        "l": 28.21,
+        "t": 589.0550000000001,
+        "r": 203.7172,
+        "b": 576.779
+      },
+      "content": "Preventive maintenance schedule",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "id": "txt_0917",
+      "reading_order": 1320,
+      "section": "Check list",
+      "bbox": {
+        "l": 62.2297,
+        "t": 568.2012000000001,
+        "r": 104.23540000000004,
+        "b": 556.0242000000001
+      },
+      "content": "Check list",
+      "level": 2
+    },
+    {
+      "type": "table",
+      "id": "tbl_0096",
+      "reading_order": 1321,
+      "section": "Check list",
+      "bbox": {
+        "l": 60.655792236328125,
+        "t": 555.2304382324219,
+        "r": 511.3191833496094,
+        "b": 366.6936340332031
+      },
+      "markdown": "| Period        | Operation                                                                                                                                                                                                                                                |\n|---------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Daily         | Check oil level. Check readings on display.Check air filter service indicator.Check that the condensate is discharged during operation Drain condensate                                                                                                  |\n| Daily         | On water-cooled units: check for cooling water flow.                                                                                                                                                                                                     |\n| 3-monthly (1) | Check coolers, clean if necessary. Remove the air filter element and inspect. If necessary, clean using an air jet. Replace damaged or heavily contaminated elements. Check the filter element of the electric cabinet (if fitted). Replace if necessary |\n| 3-monthly     | Check that condensate is discharged when pressing the test button on top of the electronic water drain(s).                                                                                                                                               |\n| 3-monthly (1) | On Full-Feature units: Check condenser of dryer and clean if necessary.                                                                                                                                                                                  |"
+    },
+    {
+      "type": "footnote",
+      "id": "txt_0918",
+      "reading_order": 1322,
+      "section": "Check list",
+      "bbox": {
+        "l": 73.5102,
+        "t": 350.28130000000004,
+        "r": 324.0252999999997,
+        "b": 338.1043000000001
+      },
+      "content": "(1): More frequently when operating in a dusty atmosphere."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0919",
+      "reading_order": 1323,
+      "section": "Check list",
+      "bbox": {
+        "l": 73.5102,
+        "t": 330.0017,
+        "r": 222.7648000000001,
+        "b": 317.8247000000001
+      },
+      "content": "Preventive Maintenance schedule"
+    }
+  ]
+}

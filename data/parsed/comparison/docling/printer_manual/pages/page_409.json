@@ -1,0 +1,165 @@
+{
+  "page": 409,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_3325",
+      "reading_order": 4510,
+      "section": "NOTE: Stapler models only.",
+      "bbox": {
+        "l": 122.0,
+        "t": 732.29,
+        "r": 464.66000000000025,
+        "b": 720.7
+      },
+      "content": "Release one tab (callout 1), and then slide the guide out of the printer (callout 2)."
+    },
+    {
+      "type": "figure",
+      "id": "fig_1147",
+      "reading_order": 4511,
+      "section": "NOTE: Stapler models only.",
+      "bbox": {
+        "l": 127.9209052929467,
+        "t": 710.7108612060547,
+        "r": 142.25700621311907,
+        "b": 697.4848709106445
+      },
+      "image_path": "figures/figure_1147.png",
+      "decorative": true,
+      "width": 14,
+      "height": 13,
+      "image_hash": "ced0fbc060a1844dc39891c7e44f57eb304665731bfdb2e8df57a2565f2d915a",
+      "previous_block_id": "txt_3325",
+      "next_block_id": "txt_3326"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_3326",
+      "reading_order": 4512,
+      "section": "NOTE: Stapler models only.",
+      "bbox": {
+        "l": 144.0,
+        "t": 708.79,
+        "r": 181.75,
+        "b": 697.2
+      },
+      "content": "CAUTION:",
+      "severity": "caution"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_3327",
+      "reading_order": 4513,
+      "section": "NOTE: Stapler models only.",
+      "bbox": {
+        "l": 191.75,
+        "t": 708.79,
+        "r": 392.37999999999994,
+        "b": 697.2
+      },
+      "content": "Be careful, the tab (callout 1) can be easily broken."
+    },
+    {
+      "type": "figure",
+      "id": "fig_1148",
+      "reading_order": 4514,
+      "section": "NOTE: Stapler models only.",
+      "bbox": {
+        "l": 143.06007969922098,
+        "t": 674.6816787719727,
+        "r": 432.62449476745513,
+        "b": 456.2176513671875
+      },
+      "image_path": "figures/figure_1148.png",
+      "caption": "Remove the guide",
+      "figure_number": "Figure 1-648",
+      "image_hash": "25f4b2a92631f8c3e5da4362e3c69c180f8e417bb9643a2c8683bed88fa73297",
+      "width": 290,
+      "height": 219,
+      "previous_block_id": "txt_3327",
+      "next_block_id": "txt_3328",
+      "caption_id": "txt_3328"
+    },
+    {
+      "type": "caption",
+      "id": "txt_3328",
+      "reading_order": 4515,
+      "section": "NOTE: Stapler models only.",
+      "bbox": {
+        "l": 144.0,
+        "t": 686.29,
+        "r": 273.30998999999997,
+        "b": 674.7
+      },
+      "content": "Figure 1-648  Remove the guide",
+      "caption_for": "fig_1148"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_3329",
+      "reading_order": 4516,
+      "section": "NOTE: Stapler models only.",
+      "bbox": {
+        "l": 122.0,
+        "t": 445.42,
+        "r": 545.48,
+        "b": 421.83
+      },
+      "content": "Use a small flat-blade screwdriver to gently pry the white-plastic door arm (callout 1) off of the grayplastic pressure-release link (callout 2) to release the door arm."
+    },
+    {
+      "type": "figure",
+      "id": "fig_1149",
+      "reading_order": 4517,
+      "section": "NOTE: Stapler models only.",
+      "bbox": {
+        "l": 142.92954117548067,
+        "t": 399.9136657714844,
+        "r": 432.4615465740165,
+        "b": 182.2952880859375
+      },
+      "image_path": "figures/figure_1149.png",
+      "caption": "Release the pressure-release link",
+      "figure_number": "Figure 1-649",
+      "image_hash": "37302ab2537a539bc73369f39ac95ba58a6a72453489de82d1fd163cb515eae3",
+      "width": 289,
+      "height": 218,
+      "previous_block_id": "txt_3329",
+      "next_block_id": "txt_3330",
+      "caption_id": "txt_3330"
+    },
+    {
+      "type": "caption",
+      "id": "txt_3330",
+      "reading_order": 4518,
+      "section": "NOTE: Stapler models only.",
+      "bbox": {
+        "l": 144.00004,
+        "t": 412.42,
+        "r": 334.4600399999998,
+        "b": 400.83
+      },
+      "content": "Figure 1-649  Release the pressure-release link",
+      "caption_for": "fig_1149"
+    }
+  ],
+  "page_stats": {
+    "block_count": 9,
+    "text_blocks": 6,
+    "paragraphs": 1,
+    "headings": 0,
+    "list_items": 2,
+    "captions": 2,
+    "admonitions": 1,
+    "references": 0,
+    "figures": 3,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

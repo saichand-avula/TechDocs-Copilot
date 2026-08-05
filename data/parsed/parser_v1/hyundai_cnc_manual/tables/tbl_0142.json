@@ -1,0 +1,18 @@
+{
+  "id": "tbl_0142",
+  "page": 258,
+  "section": "2-4-2. Coordinate System Setting",
+  "title": null,
+  "markdown": "| HOST CNC   | HOST CNC                                                                                                        | SERVO AMP UNIT                                                                                                  |\n|------------|-----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|\n| PMC CNC    |                                                                                                                 | AUTO MODE Start enabled state                                                                                   |\n|            | Command data 1 (Turret N° , setting)                                                                            | Command data 1 (Turret N° , setting)                                                                            |\n|            | End of ST signal acceptance Operation completion 1                                                              | End of ST signal acceptance Operation completion 1                                                              |\n|            | A workpiece coordinate system is established which uses the current position as specified absolute coordinates. | A workpiece coordinate system is established which uses the current position as specified absolute coordinates. |\n|            | Operation completion 4                                                                                          | Operation completion 4                                                                                          |\n| End of     |                                                                                                                 |                                                                                                                 |\n| coordinate |                                                                                                                 |                                                                                                                 |\n| system     | Start enabled state                                                                                             | Start enabled state                                                                                             |\n| setting    |                                                                                                                 |                                                                                                                 |",
+  "block_id": "#/tables/141",
+  "reading_order": 2385,
+  "bbox": {
+    "l": 72.82396697998047,
+    "t": 749.6412353515625,
+    "r": 563.5760498046875,
+    "b": 225.99896240234375
+  },
+  "rows": 10,
+  "cols": 3,
+  "type": "table"
+}

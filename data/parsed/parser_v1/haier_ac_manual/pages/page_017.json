@@ -1,0 +1,235 @@
+{
+  "page": 17,
+  "document_id": "doc_229deb31",
+  "page_bbox": {
+    "width": 595.219970703125,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0085",
+      "reading_order": 145,
+      "section": "5.1.1.3 Wind volume limit",
+      "bbox": {
+        "l": 56.962,
+        "t": 769.0491856,
+        "r": 202.53947751000007,
+        "b": 757.968114
+      },
+      "content": "5.1.1.3 Wind volume limit",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0086",
+      "reading_order": 146,
+      "section": "5.1.1.3 Wind volume limit",
+      "bbox": {
+        "l": 101.777,
+        "t": 752.9764152,
+        "r": 550.8419785300005,
+        "b": 728.1657826000001
+      },
+      "content": "When the compressor is working and the max setting for indoor fan motor is medium or weak, the upper limit of indicated frequency is as follows:"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0087",
+      "reading_order": 147,
+      "section": "5.1.1.3 Wind volume limit",
+      "bbox": {
+        "l": 101.777,
+        "t": 721.8607044,
+        "r": 279.63865809999993,
+        "b": 712.6079272000001
+      },
+      "content": "Frequency control form for wind volume"
+    },
+    {
+      "type": "table",
+      "id": "tbl_0016",
+      "reading_order": 148,
+      "section": "5.1.1.3 Wind volume limit",
+      "bbox": {
+        "l": 106.69486402576523,
+        "t": 711.1878814697266,
+        "r": 497.94085597310743,
+        "b": 614.6989593505859
+      },
+      "markdown": "|                                           | Limited frequency variables   | Limited frequency   |\n|-------------------------------------------|-------------------------------|---------------------|\n| Medium wind volume                        | FQLIMMD                       | 70Hz                |\n| Weak wind volume                          | FQLIMLO                       | 58Hz                |\n| Limited frequency for up/down health wind | FUPHEAL                       | 48Hz                |",
+      "rows": 4,
+      "cols": 2
+    },
+    {
+      "type": "heading",
+      "id": "txt_0088",
+      "reading_order": 149,
+      "section": "5.1.2 Main functions",
+      "bbox": {
+        "l": 56.9618,
+        "t": 572.950856,
+        "r": 185.85310167999984,
+        "b": 560.0414900000001
+      },
+      "content": "5.1.2 Main functions",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0089",
+      "reading_order": 150,
+      "section": "5.1.2.1 Warm boot",
+      "bbox": {
+        "l": 56.9618,
+        "t": 548.7407856,
+        "r": 168.30608827999995,
+        "b": 537.659714
+      },
+      "content": "5.1.2.1 Warm boot",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0090",
+      "reading_order": 151,
+      "section": "5.1.2.1 Warm boot",
+      "bbox": {
+        "l": 101.777,
+        "t": 532.6690152,
+        "r": 550.7880417099984,
+        "b": 507.85738338
+      },
+      "content": "When the heat running starts or the frost removing ends and the compressor starts again, in order to avoid cold wind, warm boot wind volume control should be done."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0047",
+      "reading_order": 152,
+      "section": "5.1.2.1 Warm boot",
+      "bbox": {
+        "l": 55.43820483572781,
+        "t": 504.1394348144531,
+        "r": 519.0380692060504,
+        "b": 297.57391357421875
+      },
+      "image_path": "figures/figure_0047.png",
+      "previous_block_id": "txt_0090",
+      "next_block_id": "txt_0091",
+      "image_hash": "53dcf069ad93fc50051017c0df3b7c927ab18593a7ac9b02b6661b6fcc12eded",
+      "width": 464,
+      "height": 206
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0091",
+      "reading_order": 153,
+      "section": "5.1.2.1 Warm boot",
+      "bbox": {
+        "l": 200.562,
+        "t": 303.4465130000001,
+        "r": 226.67341386,
+        "b": 294.1937358
+      },
+      "content": "weak weak"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0092",
+      "reading_order": 154,
+      "section": "5.1.2.1 Warm boot",
+      "bbox": {
+        "l": 101.77992689999999,
+        "t": 280.5891044,
+        "r": 550.9537779000007,
+        "b": 255.77847180000003
+      },
+      "content": "To  control  the  indoor  fan  motor  as  shown  in  the  table  above  according  to  the  heat  exchange temperature"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0093",
+      "reading_order": 155,
+      "section": "5.1.2.1 Warm boot",
+      "bbox": {
+        "l": 101.77992689999999,
+        "t": 249.62327660000005,
+        "r": 421.05593639999995,
+        "b": 239.6051526875001
+      },
+      "content": "The fan motor stops when the heat exchange temperature is below 25 ć"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0094",
+      "reading_order": 156,
+      "section": "5.1.2.1 Warm boot",
+      "bbox": {
+        "l": 101.76893976999997,
+        "t": 234.06542120000006,
+        "r": 550.7879721199996,
+        "b": 208.4894418875001
+      },
+      "content": "The  fan  motor  is  working  slightly  weak  when  the  heat  exchange  temperature  is  above25 ć and below 35 ć"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0095",
+      "reading_order": 157,
+      "section": "5.1.2.1 Warm boot",
+      "bbox": {
+        "l": 101.76893976999997,
+        "t": 202.94971040000007,
+        "r": 545.2494597699999,
+        "b": 192.9315864875001
+      },
+      "content": "The fan motor is working weak when the heat exchange temperature is above35 ć and below 37 ć"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0096",
+      "reading_order": 158,
+      "section": "5.1.2.1 Warm boot",
+      "bbox": {
+        "l": 101.75895146999989,
+        "t": 171.83300038000004,
+        "r": 477.0902993999999,
+        "b": 161.81487646750008
+      },
+      "content": "The fan motor works as set if the he heat exchange temperature remains above 38 ć"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0048",
+      "reading_order": 159,
+      "section": "5.1.2.1 Warm boot",
+      "bbox": {
+        "l": 55.98497672607856,
+        "t": 62.85662841796875,
+        "r": 87.86574668538357,
+        "b": 52.4306640625
+      },
+      "image_path": "figures/figure_0048.png",
+      "previous_block_id": "txt_0096",
+      "width": 31,
+      "height": 10,
+      "image_hash": "4932c2d5d0b7074cda725139f9d9564f1f04035ce7b4f980001f49bec2498beb"
+    }
+  ],
+  "page_stats": {
+    "block_count": 15,
+    "text_blocks": 12,
+    "paragraphs": 9,
+    "headings": 3,
+    "list_items": 0,
+    "captions": 0,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 2,
+    "tables": 1,
+    "toc_tables": 0
+  }
+}

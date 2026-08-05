@@ -1,0 +1,152 @@
+{
+  "page": 538,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_4138",
+      "reading_order": 5704,
+      "section": "13. Remove the right cover.",
+      "bbox": {
+        "l": 113.0,
+        "t": 732.29,
+        "r": 255.02999999999994,
+        "b": 720.7
+      },
+      "content": "Remove one screw (callout 1)."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_4139",
+      "reading_order": 5705,
+      "section": "13. Remove the right cover.",
+      "bbox": {
+        "l": 113.0,
+        "t": 470.42,
+        "r": 207.19999999999993,
+        "b": 458.83
+      },
+      "content": "Release four tabs."
+    },
+    {
+      "type": "figure",
+      "id": "fig_1526",
+      "reading_order": 5706,
+      "section": "13. Remove the right cover.",
+      "bbox": {
+        "l": 133.7666336035356,
+        "t": 699.1278076171875,
+        "r": 423.8279155985617,
+        "b": 482.0865783691406
+      },
+      "image_path": "figures/figure_1526.png",
+      "caption": "Remove one screw",
+      "figure_number": "Figure 1-886",
+      "image_hash": "d5ad66525d582ec850aa17d61e30302c82cfb4b0086064915ab02a1aa29cb094",
+      "width": 290,
+      "height": 217,
+      "previous_block_id": "txt_4139",
+      "next_block_id": "txt_4140",
+      "caption_id": "txt_4140"
+    },
+    {
+      "type": "caption",
+      "id": "txt_4140",
+      "reading_order": 5707,
+      "section": "13. Remove the right cover.",
+      "bbox": {
+        "l": 134.99998,
+        "t": 711.29,
+        "r": 267.60997,
+        "b": 699.7
+      },
+      "content": "Figure 1-886  Remove one screw",
+      "caption_for": "fig_1526"
+    },
+    {
+      "type": "figure",
+      "id": "fig_1527",
+      "reading_order": 5708,
+      "section": "13. Remove the right cover.",
+      "bbox": {
+        "l": 119.23076710514725,
+        "t": 448.3891296386719,
+        "r": 129.5758116599861,
+        "b": 436.30841064453125
+      },
+      "image_path": "figures/figure_1527.png",
+      "decorative": true,
+      "width": 10,
+      "height": 12,
+      "image_hash": "f3f9d56f22351c7103f51ea3a3bfa2cc14ebeac9f5f9074efc2c8fcd84165b51",
+      "previous_block_id": "txt_4140",
+      "next_block_id": "txt_4141"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_4141",
+      "reading_order": 5709,
+      "section": "13. Remove the right cover.",
+      "bbox": {
+        "l": 135.0,
+        "t": 446.92,
+        "r": 508.65002000000004,
+        "b": 435.33
+      },
+      "content": "TIP: It might be easier to release the upper two tabs by using a small flat-blade screw driver .",
+      "severity": "tip"
+    },
+    {
+      "type": "figure",
+      "id": "fig_1528",
+      "reading_order": 5710,
+      "section": "13. Remove the right cover.",
+      "bbox": {
+        "l": 133.5866341109333,
+        "t": 411.6507568359375,
+        "r": 423.77108810242237,
+        "b": 194.6263427734375
+      },
+      "image_path": "figures/figure_1528.png",
+      "caption": "Release four tabs",
+      "figure_number": "Figure 1-887",
+      "image_hash": "2a2b1f79dcbac41ad125528b86a746b4c2b9f829863ae464abb9c3bb3896a1f6",
+      "width": 290,
+      "height": 217,
+      "previous_block_id": "txt_4141",
+      "next_block_id": "txt_4142",
+      "caption_id": "txt_4142"
+    },
+    {
+      "type": "caption",
+      "id": "txt_4142",
+      "reading_order": 5711,
+      "section": "13. Remove the right cover.",
+      "bbox": {
+        "l": 135.0,
+        "t": 424.42,
+        "r": 261.6599899999999,
+        "b": 412.83
+      },
+      "content": "Figure 1-887  Release four tabs",
+      "caption_for": "fig_1528"
+    }
+  ],
+  "page_stats": {
+    "block_count": 8,
+    "text_blocks": 5,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 2,
+    "captions": 2,
+    "admonitions": 1,
+    "references": 0,
+    "figures": 3,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

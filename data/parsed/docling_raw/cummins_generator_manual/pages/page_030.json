@@ -1,0 +1,260 @@
+{
+  "page": 30,
+  "document_id": "doc_c203a4f3",
+  "page_bbox": {
+    "width": 612.3599853515625,
+    "height": 792.4320068359375
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0352",
+      "reading_order": 368,
+      "section": "GENERATOR SET DISASSEMBLY/ASSEMBLY",
+      "bbox": {
+        "l": 92.1821,
+        "t": 738.0270068359374,
+        "r": 246.73609999999994,
+        "b": 713.4881469606776
+      },
+      "content": "GENERATOR SET DISASSEMBLY/ASSEMBLY",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0353",
+      "reading_order": 369,
+      "section": "GENERATOR SET DISASSEMBLY/ASSEMBLY",
+      "bbox": {
+        "l": 47.5654,
+        "t": 700.8555068359375,
+        "r": 291.3815000000003,
+        "b": 665.6553492035388
+      },
+      "content": "The following  sections  describe  the  disassembly and reassembly procedures for the generator set. Figure 5-8 illustrates generator set disassembly."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0354",
+      "reading_order": 370,
+      "section": "GENERATOR SET DISASSEMBLY/ASSEMBLY",
+      "bbox": {
+        "l": 47.565599999999996,
+        "t": 650.5121068359375,
+        "r": 291.42570000000006,
+        "b": 577.3829519502827
+      },
+      "content": "WARNING generator set components are heavy and can cause severe personal injury if dropped  during  service.    Be  careful,  use  appropriate  lifting  techniques,  keep  hands  and feet clear during service, and use the recommended service procedures."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0355",
+      "reading_order": 371,
+      "section": "GENERATOR SET DISASSEMBLY/ASSEMBLY",
+      "bbox": {
+        "l": 47.5654,
+        "t": 563.3941068359375,
+        "r": 291.5973999999999,
+        "b": 509.7030569398877
+      },
+      "content": "Note that the control box and air cleaner assembly need not be removed from the set to disassemble the generator set.  These components may remain attached to the stator housing, and will be removed with it."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0356",
+      "reading_order": 372,
+      "section": "Disassembly",
+      "bbox": {
+        "l": 47.5654,
+        "t": 496.1750068359375,
+        "r": 120.93339999999996,
+        "b": 485.3557469606776
+      },
+      "content": "Disassembly",
+      "level": 2
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0357",
+      "reading_order": 373,
+      "section": "Disassembly",
+      "bbox": {
+        "l": 55.8425,
+        "t": 472.7799068359375,
+        "r": 291.60330000000005,
+        "b": 437.52254920353874
+      },
+      "content": "Remove the generator set from the vehicle and place it on a sturdy work bench.  Refer to Section 1 of this manual for removal guidelines."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0358",
+      "reading_order": 374,
+      "section": "Disassembly",
+      "bbox": {
+        "l": 69.16560000000001,
+        "t": 422.3799068359375,
+        "r": 291.4096,
+        "b": 361.8930519502827
+      },
+      "content": "WARNING Accidental  starting  of  the  set can cause severe personal injury or death. Disconnect the battery cables, negative (-) lead first, when repairs are made to the engine, controls or generator set."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0359",
+      "reading_order": 375,
+      "section": "Disassembly",
+      "bbox": {
+        "l": 55.84240000000001,
+        "t": 347.8296068359376,
+        "r": 291.5833999999999,
+        "b": 274.702549203539
+      },
+      "content": "Remove the cover from the AC control box and disconnect all stator leads (Q1-Q50/60, T1-T2-T3-T4,  F1-F2,  S1-S2).    Disconnect leads at the load circuit breaker(s).  If the lead markings do not clearly identify reconnection, mark the leads with tape."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0360",
+      "reading_order": 376,
+      "section": "Disassembly",
+      "bbox": {
+        "l": 55.84240000000001,
+        "t": 260.69420683593773,
+        "r": 291.3788000000002,
+        "b": 238.13634920353888
+      },
+      "content": "Remove the bonding strap between the stator assembly and the drip pan."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0361",
+      "reading_order": 377,
+      "section": "Disassembly",
+      "bbox": {
+        "l": 55.84240000000001,
+        "t": 228.09570683593768,
+        "r": 291.3953000000002,
+        "b": 192.89554920353896
+      },
+      "content": "Loosen and remove the two bolts that extend through the rear generator set mounts (under the stator housing)."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0362",
+      "reading_order": 378,
+      "section": "Disassembly",
+      "bbox": {
+        "l": 329.2155,
+        "t": 737.9919068359377,
+        "r": 565.0169999999987,
+        "b": 576.3687492035392
+      },
+      "content": "Lift the rear of the set and place a wooden block under the generator set adapter to hold the stator and housing in place.  Make certain that the engine-to-generator set adapter (bolted to the engine) is propped up high enough for the generator set adapter assembly (bolted to the generator  set)  to  clear  the  rear  generator  set mounts when it is pulled off the set.  A block approximately 3.5 inches wide (standard 2 x 4 lumber  width) will hold the adapter high enough.  Remove the two rubber vibration isolators  whose  bolts  were  removed  in  the  last step."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0363",
+      "reading_order": 379,
+      "section": "Disassembly",
+      "bbox": {
+        "l": 329.2155,
+        "t": 567.1223068359379,
+        "r": 564.9564999999996,
+        "b": 531.9221492035392
+      },
+      "content": "Remove the end bell cover and disconnect F1 (outer) and F2 (inner) lead wires from the brush holder terminals."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0364",
+      "reading_order": 380,
+      "section": "Disassembly",
+      "bbox": {
+        "l": 329.2155,
+        "t": 519.104006835938,
+        "r": 564.9059000000003,
+        "b": 483.90384920353927
+      },
+      "content": "Pull  each  brush  away  from  the  commutator rings  and  insert  a  piece  of  stiff  wire  into  the small hole in the brush holder.  See Figure 5-7."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0365",
+      "reading_order": 381,
+      "section": "Note that the brushes may be secured (as described in the last two steps) at any convenient point during this procedure.",
+      "bbox": {
+        "l": 342.5386,
+        "t": 471.1548068359375,
+        "r": 564.8426000000005,
+        "b": 439.80175693988764
+      },
+      "content": "Note that the brushes may be secured (as described in the last two steps) at any convenient point during this procedure.",
+      "level": 2
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0366",
+      "reading_order": 382,
+      "section": "Note that the brushes may be secured (as described in the last two steps) at any convenient point during this procedure.",
+      "bbox": {
+        "l": 329.2158,
+        "t": 427.4822068359375,
+        "r": 564.8577999999998,
+        "b": 379.6397492035388
+      },
+      "content": "Remove four nuts and lock washers from the generator set stud bolts.  Remove the end bell cover and pry the end bell free of the rotor bearing.  Be careful not to damage the brush holder."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0367",
+      "reading_order": 383,
+      "section": "Note that the brushes may be secured (as described in the last two steps) at any convenient point during this procedure.",
+      "bbox": {
+        "l": 329.2147,
+        "t": 370.3933068359376,
+        "r": 564.7510999999995,
+        "b": 335.1931492035389
+      },
+      "content": "Pull the stator/wrapper assembly with the control boxes off the rotor and away from the engine.  Set it aside."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0368",
+      "reading_order": 384,
+      "section": "Note that the brushes may be secured (as described in the last two steps) at any convenient point during this procedure.",
+      "bbox": {
+        "l": 323.09209999999996,
+        "t": 326.00280683593763,
+        "r": 564.7752999999993,
+        "b": 278.160349203539
+      },
+      "content": "Remove the four bolts that hold the generator set adapter and fan guard to the engine-to-generator set adapter.  Pull the adapter/guard assembly off the adapter and set it aside."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0369",
+      "reading_order": 385,
+      "section": "Note that the brushes may be secured (as described in the last two steps) at any convenient point during this procedure.",
+      "bbox": {
+        "l": 323.88630000000006,
+        "t": 268.9139068359377,
+        "r": 564.9578999999997,
+        "b": 221.07144920353892
+      },
+      "content": "Loosen the six bolts that hold the rotor drive disk to the engine flywheel.  Loosen these bolts in an alternating pattern, so that the drive disk does not bend from the weight of the rotor."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0370",
+      "reading_order": 386,
+      "section": "Note that the brushes may be secured (as described in the last two steps) at any convenient point during this procedure.",
+      "bbox": {
+        "l": 323.0921,
+        "t": 215.45280683593774,
+        "r": 564.7697999999996,
+        "b": 192.89494920353889
+      },
+      "content": "Pull the rotor, fan and drive disk assembly off the flywheel and set them aside."
+    }
+  ]
+}

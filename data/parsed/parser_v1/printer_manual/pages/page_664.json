@@ -1,0 +1,105 @@
+{
+  "page": 664,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_1886",
+      "reading_order": 6962,
+      "section": "Post service test",
+      "bbox": {
+        "l": 133.54455492095786,
+        "t": 720.0744094848633,
+        "r": 424.177268960496,
+        "b": 502.39434814453125
+      },
+      "image_path": "figures/figure_1886.png",
+      "caption": "Open the door",
+      "figure_number": "Figure 1-1103",
+      "image_hash": "d14e3c630cedf039a0b38448b568a7ad20cd222acdfb0ad4b8103a933300633d",
+      "width": 290,
+      "height": 218,
+      "next_block_id": "txt_5030",
+      "caption_id": "txt_5030"
+    },
+    {
+      "type": "caption",
+      "id": "txt_5030",
+      "reading_order": 6963,
+      "section": "Post service test",
+      "bbox": {
+        "l": 135.0,
+        "t": 732.29,
+        "r": 254.48000999999996,
+        "b": 720.7
+      },
+      "content": "Figure 1-1103  Open the door",
+      "caption_for": "fig_1886"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_5031",
+      "reading_order": 6964,
+      "section": "Post service test",
+      "bbox": {
+        "l": 113.0,
+        "t": 491.41999999999996,
+        "r": 473.09000000000015,
+        "b": 479.83000000000004
+      },
+      "content": "Raise the blue lever to release the document feeder pickup and feed roller assembly."
+    },
+    {
+      "type": "figure",
+      "id": "fig_1887",
+      "reading_order": 6965,
+      "section": "Post service test",
+      "bbox": {
+        "l": 133.43803768181752,
+        "t": 457.62713623046875,
+        "r": 455.8616331284099,
+        "b": 240.14373779296875
+      },
+      "image_path": "figures/figure_1887.png",
+      "caption": "Raise the blue lever",
+      "figure_number": "Figure 1-1104",
+      "image_hash": "e9723e26e182bcadb44c1b0c8652372f3b351a983551186a05d584cf897a60b3",
+      "width": 323,
+      "height": 218,
+      "previous_block_id": "txt_5031",
+      "next_block_id": "txt_5032",
+      "caption_id": "txt_5032"
+    },
+    {
+      "type": "caption",
+      "id": "txt_5032",
+      "reading_order": 6966,
+      "section": "Post service test",
+      "bbox": {
+        "l": 135.00004,
+        "t": 470.42,
+        "r": 275.44003999999995,
+        "b": 458.83
+      },
+      "content": "Figure 1-1104  Raise the blue lever",
+      "caption_for": "fig_1887"
+    }
+  ],
+  "page_stats": {
+    "block_count": 5,
+    "text_blocks": 3,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 1,
+    "captions": 2,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 2,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

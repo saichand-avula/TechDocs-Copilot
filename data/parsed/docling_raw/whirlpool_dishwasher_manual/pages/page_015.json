@@ -1,0 +1,212 @@
+{
+  "page": 15,
+  "document_id": "doc_16216d0c",
+  "page_bbox": {
+    "width": 612.0,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0177",
+      "reading_order": 204,
+      "section": "Service Mode",
+      "bbox": {
+        "l": 54.375,
+        "t": 706.112,
+        "r": 144.903,
+        "b": 693.9393613445378
+      },
+      "content": "Service Mode",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0178",
+      "reading_order": 205,
+      "section": "Service Mode",
+      "bbox": {
+        "l": 54.375,
+        "t": 689.32,
+        "r": 563.5950000000003,
+        "b": 661.7121008403361
+      },
+      "content": "All ADA 18' & 24' dishwashers are programmed with a service mode to aid the technician in troubleshooting the dishwasher. Each component is cycled to verify if it is functioning correctly. Essentially, the procedure to enter service mode is similar between models except for a slight variation in button selection."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0179",
+      "reading_order": 206,
+      "section": "To Enter Service Mode-24' Dishwasher, Front Display",
+      "bbox": {
+        "l": 54.375,
+        "t": 638.112,
+        "r": 414.823,
+        "b": 625.9393613445378
+      },
+      "content": "To Enter Service Mode-24' Dishwasher, Front Display",
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "id": "fig_0026",
+      "reading_order": 207,
+      "section": "To Enter Service Mode-24' Dishwasher, Front Display",
+      "bbox": {
+        "l": 60.08595657348633,
+        "t": 615.5425109863281,
+        "r": 569.460205078125,
+        "b": 458.718505859375
+      },
+      "image_path": "figures/figure_0026.png",
+      "previous_block_id": "txt_0179",
+      "next_block_id": "txt_0180"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0180",
+      "reading_order": 208,
+      "section": "To Enter Service Mode-24' Dishwasher, Front Display",
+      "bbox": {
+        "l": 241.2261,
+        "t": 450.688,
+        "r": 389.5281,
+        "b": 443.84089075630254
+      },
+      "content": "Figure 1 - 24' Dishwasher, Front Display"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0181",
+      "reading_order": 209,
+      "section": "To Enter Service Mode-24' Dishwasher, Front Display",
+      "bbox": {
+        "l": 60.375,
+        "t": 432.32,
+        "r": 293.945,
+        "b": 424.7121008403361
+      },
+      "content": "Turn the dishwasher off and make sure no LED's are lit."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0182",
+      "reading_order": 210,
+      "section": "To Enter Service Mode-24' Dishwasher, Front Display",
+      "bbox": {
+        "l": 60.375,
+        "t": 419.32,
+        "r": 221.97499999999994,
+        "b": 411.7121008403361
+      },
+      "content": "Disconnect power to the dishwasher."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0183",
+      "reading_order": 211,
+      "section": "To Enter Service Mode-24' Dishwasher, Front Display",
+      "bbox": {
+        "l": 60.375,
+        "t": 406.32,
+        "r": 571.7205,
+        "b": 388.7121008403361
+      },
+      "content": "Reapply power with the door open and quickly press and hold both the On/Off and Start/Pause buttons within 60 seconds from connecting power. Close the door and then the dishwasher will run as below."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0184",
+      "reading_order": 212,
+      "section": "Service Mode Chart",
+      "bbox": {
+        "l": 54.375,
+        "t": 365.112,
+        "r": 184.711,
+        "b": 352.9393613445378
+      },
+      "content": "Service Mode Chart",
+      "level": 2
+    },
+    {
+      "type": "table",
+      "id": "tbl_0004",
+      "reading_order": 213,
+      "section": "Service Mode Chart",
+      "bbox": {
+        "l": 54.03346633911133,
+        "t": 345.3961181640625,
+        "r": 577.2705688476562,
+        "b": 165.784423828125
+      },
+      "markdown": "|   NO. | COMPONENT                | SSD*               | NOTE                                                                                                                                                                                                                                     |\n|-------|--------------------------|--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n|     1 | WATER VALVE              | 05 TURBIDITY VALUE | TURN ON WATER VALVE. THE FLOW METER WILL ALLOW 3 L OF WATER TO ENTER THE DISHWASHER. (THIS STEP WILL DISPLAY THE TURBIDITY VALUE ON THE SSD.)                                                                                            |\n|     2 | WASH PUMP HEATER         | 04                 | TURN ON THE WASH PUMP. AFTER 10 SECONDS THE HEATER WILL TURN ON. THE BEEPER WILL SOUND WHEN THE TEMPERATURE HAS RISEN 3 - 5 DEGREES. THE DISHWASHER WILL STOP WHEN THE TEMPERATURE HAS REACHED 57°C. PRESS START TO ENTER THE NEXT STEP. |\n|     3 | HIGH WASH PUMP DISPENSER | 03                 | TURN ON THE WASH PUMP FOR 8 SECONDS AFTER 2 SECOND DELAY. THEN TURN ON THE DISPENSER FOR 45 SECONDS.                                                                                                                                     |\n|     4 | PAUSE                    | 02                 | PAUSE FOR 30 SECONDS.                                                                                                                                                                                                                    |\n|     5 | DRAIN PUMP               | 01                 | TURN ON THE DRAIN PUMP FOR 30 SECONDS.                                                                                                                                                                                                   |\n|     6 | END                      | BOARD TYPE CODE    | BEEP ONE TIME. (THE SSD WILL SHOW THE BOARD TYPE CODE.)                                                                                                                                                                                  |"
+    },
+    {
+      "type": "footnote",
+      "id": "txt_0185",
+      "reading_order": 214,
+      "section": "Service Mode Chart",
+      "bbox": {
+        "l": 54.38170000000022,
+        "t": 162.71440000000007,
+        "r": 177.69170000000025,
+        "b": 155.10650084033614
+      },
+      "content": "*SSD = Seven Segment Display"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0186",
+      "reading_order": 215,
+      "section": "To Exit Service Mode:",
+      "bbox": {
+        "l": 54.375,
+        "t": 107.11199999999997,
+        "r": 196.34300000000005,
+        "b": 94.93936134453782
+      },
+      "content": "To Exit Service Mode:",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0187",
+      "reading_order": 216,
+      "section": "To Exit Service Mode:",
+      "bbox": {
+        "l": 54.375,
+        "t": 90.31999999999994,
+        "r": 206.23499999999993,
+        "b": 82.71210084033612
+      },
+      "content": "Disconnect power to the dishwasher."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0188",
+      "reading_order": 217,
+      "section": "For Service Technician Use Only",
+      "bbox": {
+        "l": 184.2319,
+        "t": 731.505,
+        "r": 445.75389999999993,
+        "b": 716.7313010526316
+      },
+      "content": "For Service Technician Use Only",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0189",
+      "reading_order": 218,
+      "section": "For Service Technician Use Only",
+      "bbox": {
+        "l": 545.1313,
+        "t": 44.86829999999998,
+        "r": 561.3369,
+        "b": 32.765719354838666
+      },
+      "content": "n"
+    }
+  ]
+}

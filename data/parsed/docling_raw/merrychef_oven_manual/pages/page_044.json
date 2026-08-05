@@ -1,0 +1,264 @@
+{
+  "page": 44,
+  "document_id": "doc_27a62e0f",
+  "page_bbox": {
+    "width": 594.9600219726562,
+    "height": 842.52001953125
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0524",
+      "reading_order": 669,
+      "section": "Event log",
+      "bbox": {
+        "l": 36.0,
+        "t": 781.96801953125,
+        "r": 90.00000000000001,
+        "b": 771.1844393785782
+      },
+      "content": "Event log",
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "id": "fig_0107",
+      "reading_order": 670,
+      "section": "Event log",
+      "bbox": {
+        "l": 31.572663723926468,
+        "t": 756.5839306093832,
+        "r": 302.0510539351454,
+        "b": 522.3910249591333
+      },
+      "image_path": "figures/figure_0107.png",
+      "previous_block_id": "txt_0524",
+      "next_block_id": "txt_0525"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0108",
+      "reading_order": 671,
+      "section": "Event log",
+      "bbox": {
+        "l": 74.88190835179417,
+        "t": 497.12038736611004,
+        "r": 263.3786341976061,
+        "b": 385.7135795242952
+      },
+      "image_path": "figures/figure_0108.png",
+      "previous_block_id": "txt_0524",
+      "next_block_id": "txt_0525"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0109",
+      "reading_order": 672,
+      "section": "Event log",
+      "bbox": {
+        "l": 67.71991401231855,
+        "t": 314.7550114322529,
+        "r": 270.3408433775566,
+        "b": 196.58874876222717
+      },
+      "image_path": "figures/figure_0109.png",
+      "previous_block_id": "txt_0524",
+      "next_block_id": "txt_0525"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0525",
+      "reading_order": 673,
+      "section": "Event log",
+      "bbox": {
+        "l": 314.04,
+        "t": 748.5060195312501,
+        "r": 534.1800000000002,
+        "b": 728.1783344167462
+      },
+      "content": "Enter the Service Settings and select      'Event Log' to display a listing of oven component errors & events."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0526",
+      "reading_order": 674,
+      "section": "Event log",
+      "bbox": {
+        "l": 314.031,
+        "t": 661.1460195312501,
+        "r": 534.0665999999999,
+        "b": 640.8183344167462
+      },
+      "content": "The Log can be displayed by Day, Week, Month or Year      as selected."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0527",
+      "reading_order": 675,
+      "section": "Event log",
+      "bbox": {
+        "l": 314.03099999999995,
+        "t": 513.6660195312501,
+        "r": 548.571,
+        "b": 493.3383344167462
+      },
+      "content": "Selecting 'Details' shows more information pertaining to the entry."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0528",
+      "reading_order": 676,
+      "section": "Event log",
+      "bbox": {
+        "l": 316.659,
+        "t": 484.50601953125005,
+        "r": 378.99299999999994,
+        "b": 476.0583344167462
+      },
+      "content": " Event code"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0529",
+      "reading_order": 677,
+      "section": "Event log",
+      "bbox": {
+        "l": 316.65,
+        "t": 467.2260195312501,
+        "r": 444.513,
+        "b": 458.77833441674625
+      },
+      "content": " Time and date of the entry"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0530",
+      "reading_order": 678,
+      "section": "Event log",
+      "bbox": {
+        "l": 316.65,
+        "t": 449.9460195312501,
+        "r": 405.74999999999994,
+        "b": 441.4983344167463
+      },
+      "content": " Event description"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0531",
+      "reading_order": 679,
+      "section": "Event log",
+      "bbox": {
+        "l": 316.65,
+        "t": 432.5490195312501,
+        "r": 394.22999999999996,
+        "b": 424.1013344167463
+      },
+      "content": " Supply voltage"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0532",
+      "reading_order": 680,
+      "section": "Event log",
+      "bbox": {
+        "l": 316.65,
+        "t": 415.2690195312501,
+        "r": 405.9839999999999,
+        "b": 406.82133441674625
+      },
+      "content": " Supply frequency"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0533",
+      "reading_order": 681,
+      "section": "Event log",
+      "bbox": {
+        "l": 316.64099999999996,
+        "t": 397.9890195312501,
+        "r": 487.5779999999999,
+        "b": 389.5413344167463
+      },
+      "content": " UI & IO board ambient temperatures"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0534",
+      "reading_order": 682,
+      "section": "Event log",
+      "bbox": {
+        "l": 316.64099999999996,
+        "t": 380.70901953125014,
+        "r": 413.9076000000003,
+        "b": 372.2613344167463
+      },
+      "content": " Cavity temperature"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0535",
+      "reading_order": 683,
+      "section": "Event log",
+      "bbox": {
+        "l": 316.64099999999996,
+        "t": 363.42901953125016,
+        "r": 438.73499999999996,
+        "b": 354.98133441674634
+      },
+      "content": " Convection fan speed (%)"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0536",
+      "reading_order": 684,
+      "section": "Event log",
+      "bbox": {
+        "l": 316.63199999999995,
+        "t": 346.03201953125017,
+        "r": 423.48899999999986,
+        "b": 337.58433441674634
+      },
+      "content": " Cooling fan speed (%)"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0537",
+      "reading_order": 685,
+      "section": "Event log",
+      "bbox": {
+        "l": 316.68,
+        "t": 328.74601953125,
+        "r": 445.97999999999996,
+        "b": 320.29833441674623
+      },
+      "content": " Magnetron(s) current draw"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0538",
+      "reading_order": 686,
+      "section": "Event log",
+      "bbox": {
+        "l": 314.03100000000006,
+        "t": 308.94601953124993,
+        "r": 551.6940000000001,
+        "b": 288.61833441674617
+      },
+      "content": "The diagnostics view screen can be accessed by selected the button in the bottom right of the screen."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0539",
+      "reading_order": 687,
+      "section": "Event log",
+      "bbox": {
+        "l": 314.01300000000015,
+        "t": 277.74301953124996,
+        "r": 531.6330000000003,
+        "b": 257.4153344167462
+      },
+      "content": "Selecting 'Diagnose' provides a QR code to access further assistance online."
+    }
+  ]
+}

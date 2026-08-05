@@ -1,0 +1,165 @@
+{
+  "page": 652,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_1847",
+      "reading_order": 6770,
+      "section": "Post service test",
+      "bbox": {
+        "l": 133.64039603360936,
+        "t": 719.6666946411133,
+        "r": 424.06553567098535,
+        "b": 502.54998779296875
+      },
+      "image_path": "figures/figure_1847.png",
+      "caption": "Pull the tray out until it stops",
+      "figure_number": "Figure 1-1088",
+      "image_hash": "b87dc800898576f70cb5aca152bc15101c18183434d6f43756377bb900dddeef",
+      "width": 290,
+      "height": 217,
+      "previous_block_id": "txt_4878",
+      "next_block_id": "txt_4879",
+      "caption_id": "txt_4879"
+    },
+    {
+      "type": "caption",
+      "id": "txt_4879",
+      "reading_order": 6771,
+      "section": "Post service test",
+      "bbox": {
+        "l": 135.0,
+        "t": 732.29,
+        "r": 312.1900099999999,
+        "b": 720.7
+      },
+      "content": "Figure 1-1088  Pull the tray out until it stops",
+      "caption_for": "fig_1847"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_4880",
+      "reading_order": 6772,
+      "section": "Post service test",
+      "bbox": {
+        "l": 113.0,
+        "t": 491.41999999999996,
+        "r": 415.7900000000001,
+        "b": 479.83000000000004
+      },
+      "content": "Lift the front of the tray, and then pull it out of the printer to remove it."
+    },
+    {
+      "type": "figure",
+      "id": "fig_1848",
+      "reading_order": 6773,
+      "section": "Post service test",
+      "bbox": {
+        "l": 118.73077359845503,
+        "t": 470.15643310546875,
+        "r": 132.26750717357803,
+        "b": 456.68170166015625
+      },
+      "image_path": "figures/figure_1848.png",
+      "decorative": true,
+      "width": 13,
+      "height": 13,
+      "image_hash": "0076b5a70b5666138600a48e88caca86d138380cc837f445c9e612f6b6a1f0a6",
+      "previous_block_id": "txt_4880",
+      "next_block_id": "txt_4881"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_4881",
+      "reading_order": 6774,
+      "section": "Post service test",
+      "bbox": {
+        "l": 135.0,
+        "t": 467.92,
+        "r": 537.6900400000002,
+        "b": 444.33
+      },
+      "content": "NOTE: If the tray has Fixed Tray Guides installed and are still required, move the hardware to new tray. If necessary, order new kit: 3GY19-67901 Kit-Fixed Tray Guide. Only one kit required per engine.",
+      "severity": "note"
+    },
+    {
+      "type": "figure",
+      "id": "fig_1849",
+      "reading_order": 6775,
+      "section": "Post service test",
+      "bbox": {
+        "l": 133.6752459607909,
+        "t": 421.4506530761719,
+        "r": 423.9915958692453,
+        "b": 204.07904052734375
+      },
+      "image_path": "figures/figure_1849.png",
+      "caption": "Release and remove the tray",
+      "figure_number": "Figure 1-1089",
+      "image_hash": "51871f1d9732953033b82f6a37b498bc1a30697c12c497045ed03ea4478d8ebf",
+      "width": 290,
+      "height": 217,
+      "previous_block_id": "txt_4881",
+      "next_block_id": "txt_4882",
+      "caption_id": "txt_4882"
+    },
+    {
+      "type": "caption",
+      "id": "txt_4882",
+      "reading_order": 6776,
+      "section": "Post service test",
+      "bbox": {
+        "l": 135.0,
+        "t": 433.42,
+        "r": 312.0200099999998,
+        "b": 421.83
+      },
+      "content": "Figure 1-1089  Release and remove the tray",
+      "caption_for": "fig_1849"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_4883",
+      "reading_order": 6777,
+      "section": "Post service test",
+      "bbox": {
+        "l": 91.0,
+        "t": 192.54999999999995,
+        "r": 253.63999999999993,
+        "b": 180.96000000000004
+      },
+      "content": "Unpack the replacement assembly."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_4884",
+      "reading_order": 6778,
+      "section": "Post service test",
+      "bbox": {
+        "l": 113.0,
+        "t": 171.54999999999995,
+        "r": 252.10999999999987,
+        "b": 159.96000000000004
+      },
+      "content": "Dispose of the defective part."
+    }
+  ],
+  "page_stats": {
+    "block_count": 9,
+    "text_blocks": 6,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 3,
+    "captions": 2,
+    "admonitions": 1,
+    "references": 0,
+    "figures": 3,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

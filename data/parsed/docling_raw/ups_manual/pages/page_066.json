@@ -1,0 +1,91 @@
+{
+  "page": 66,
+  "document_id": "doc_1032c87b",
+  "page_bbox": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  },
+  "blocks": [
+    {
+      "type": "paragraph",
+      "id": "txt_0543",
+      "reading_order": 697,
+      "section": "5.1.7 Current Information Record Window",
+      "bbox": {
+        "l": 77.904,
+        "t": 710.0276629101563,
+        "r": 422.2318399999997,
+        "b": 682.196101363195
+      },
+      "content": "For complete historical record, please see historical record information in ' Event list of UPS displayed in front panel of it can be seen in Table 5-13."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0544",
+      "reading_order": 698,
+      "section": "5.2 Display Events",
+      "bbox": {
+        "l": 80.784,
+        "t": 657.1988629101563,
+        "r": 225.28688,
+        "b": 642.8838892084989
+      },
+      "content": "5.2 Display Events",
+      "level": 2
+    },
+    {
+      "type": "table",
+      "id": "tbl_0037",
+      "reading_order": 699,
+      "section": "5.2 Display Events",
+      "bbox": {
+        "l": 49.836870710327126,
+        "t": 606.5459145466496,
+        "r": 539.4945888656027,
+        "b": 92.2378766674442
+      },
+      "markdown": "Table 5-13: List of display events\n\n| UPS Events                                                                                | Description                                                                                             |\n|-------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|\n| Occurrence of equalizing charge for battery                                               | Battery status (is equalizing charging.)                                                                |\n| Occurrence of floating charge for battery                                                 | Battery status (is floating charging.)                                                                  |\n| Occurrence of battery discharge                                                           | Battery status (is discharging.)                                                                        |\n| Battery self-testing                                                                      | Battery status (is self-testing.)                                                                       |\n| Occurrence of normal working of rectifier                                                 | Rectifier is working normally.                                                                          |\n| No occurrence of battery                                                                  | Battery is disconnected.                                                                                |\n| Occurrence of battery connected                                                           | Battery is connected.                                                                                   |\n| Occurrence of close of output air switch                                                  | UPS output power supply switch is on.                                                                   |\n| Occurrence of disconnection of output air switch                                          | UPS output power supply switch is off.                                                                  |\n| Occurrence of power supplied by bypass                                                    | Bypass is normal.                                                                                       |\n| Occurrence of power not supplied by bypass                                                | Bypass is abnormal.                                                                                     |\n| Occurrence of soft-start of inverter                                                      | Soft-start of inverter.                                                                                 |\n| Occurrence of normal working of inverter                                                  | Inverter is working normally.                                                                           |\n| Occurrence of power not supplied by inverter                                              | Inverter is off or in fault.                                                                            |\n| Occurrence of no power supplied by inverter                                               | Inverter doesn't supply the power.                                                                      |\n| Occurrence of power supplying of inverter                                                 | Inverter is supplying power.                                                                            |\n| Occurrence of close of maintenance bypass air switch Maintenance bypass air switch is on. | Occurrence of close of maintenance bypass air switch Maintenance bypass air switch is on.               |\n| Occurrence of disconnection of maintenance bypass air switch                              | Maintenance bypass air switch is off.                                                                   |\n| Occurrence of emergency power off                                                         | Emergent power off: directly press EPO button panel or receive command of external emergency power off. |\n| Occurrence of close of inverter static switch                                             | Inverter static switch is on.                                                                           |\n| Occurrence of disconnection of inverter static switch                                     | Inverter static switch is off.                                                                          |\n| Occurrence of effectiveness of manual bypass                                              | Manual bypass is effective.                                                                             |\n| Occurrence of cancel of manual bypass                                                     | Manual bypass is ineffective.                                                                           |\n| Occurrence of fault of main power                                                         | Main power is in fault.                                                                                 |\n| Disappearance of fault of main power                                                      | Main power is normal.                                                                                   |\n| Occurrence of fault of rectifier                                                          | Rectifier is in fault.                                                                                  |\n| Disappearance of fault of rectifier                                                       | Rectifier is normal.                                                                                    |\n| Occurrence of fault of inverter                                                           | Inverter is abnormal.                                                                                   |"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0545",
+      "reading_order": 700,
+      "section": "5.2 Display Events",
+      "bbox": {
+        "l": 229.37,
+        "t": 617.8676629101562,
+        "r": 384.63568,
+        "b": 608.3961013631949
+      },
+      "content": "Table 5-13: List of display events"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0120",
+      "reading_order": 701,
+      "section": "5.2 Display Events",
+      "bbox": {
+        "l": 419.84775457452326,
+        "t": 722.6211634378569,
+        "r": 457.20853566869215,
+        "b": 702.6609861973724
+      },
+      "image_path": "figures/figure_0120.png",
+      "previous_block_id": "txt_0545",
+      "next_block_id": "txt_0546"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0546",
+      "reading_order": 702,
+      "section": "5.2 Display Events",
+      "bbox": {
+        "l": 451.66,
+        "t": 710.0276629101563,
+        "r": 466.35568,
+        "b": 700.556101363195
+      },
+      "content": "'."
+    }
+  ]
+}

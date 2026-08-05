@@ -1,0 +1,209 @@
+{
+  "page": 703,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_5368",
+      "reading_order": 7427,
+      "section": "Post service test",
+      "bbox": {
+        "l": 122.0,
+        "t": 732.29,
+        "r": 548.0800000000004,
+        "b": 708.7
+      },
+      "content": "Rotate the connector end of the HDD out and away from the formatter (callout 1), and then slide it as shown (callout 2) to remove it."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_5369",
+      "reading_order": 7428,
+      "section": "Post service test",
+      "bbox": {
+        "l": 100.0,
+        "t": 458.42,
+        "r": 282.97999999999996,
+        "b": 446.83
+      },
+      "content": "Remove the accessory from its package."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_5370",
+      "reading_order": 7429,
+      "section": "Post service test",
+      "bbox": {
+        "l": 122.00001,
+        "t": 437.42,
+        "r": 271.32001,
+        "b": 425.83
+      },
+      "content": "Save all packaging for recycling."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_5371",
+      "reading_order": 7430,
+      "section": "Post service test",
+      "bbox": {
+        "l": 122.00001,
+        "t": 416.42,
+        "r": 518.34997,
+        "b": 392.83
+      },
+      "content": "For complete information about HP recycling programs, go to http://www8.hp.com/us/en/hpinformation/environment/product-recycling.html."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_5372",
+      "reading_order": 7431,
+      "section": "Post service test",
+      "bbox": {
+        "l": 99.99996999999999,
+        "t": 383.42,
+        "r": 183.16996,
+        "b": 371.83
+      },
+      "content": "Install the TPM."
+    },
+    {
+      "type": "figure",
+      "id": "fig_2010",
+      "reading_order": 7432,
+      "section": "Post service test",
+      "bbox": {
+        "l": 142.38008669992644,
+        "t": 686.9800109863281,
+        "r": 432.5450033799409,
+        "b": 469.5801696777344
+      },
+      "image_path": "figures/figure_2010.png",
+      "caption": "Remove the HDD",
+      "figure_number": "Figure 1-1168",
+      "image_hash": "0e8e586036913de7c3af81d7bc46a4560374e10340b446a84dfca17602e06d50",
+      "width": 291,
+      "height": 217,
+      "previous_block_id": "txt_5372",
+      "next_block_id": "txt_5373",
+      "caption_id": "txt_5373"
+    },
+    {
+      "type": "caption",
+      "id": "txt_5373",
+      "reading_order": 7433,
+      "section": "Post service test",
+      "bbox": {
+        "l": 144.00001,
+        "t": 699.29,
+        "r": 274.4400099999999,
+        "b": 687.7
+      },
+      "content": "Figure 1-1168  Remove the HDD",
+      "caption_for": "fig_2010"
+    },
+    {
+      "type": "figure",
+      "id": "fig_2011",
+      "reading_order": 7434,
+      "section": "Post service test",
+      "bbox": {
+        "l": 98.96535905558741,
+        "t": 381.9727478027344,
+        "r": 107.7859747606901,
+        "b": 373.4064025878906
+      },
+      "image_path": "figures/figure_2011.png",
+      "caption": "Remove the HDD",
+      "decorative": true,
+      "width": 8,
+      "height": 8,
+      "figure_number": "Figure 1-1168",
+      "image_hash": "5411837457a552f75f0ee8653d7dc2cca5effa15c4f3a315ca9ea5cad9eddfaa",
+      "previous_block_id": "txt_5373",
+      "next_block_id": "txt_5374"
+    },
+    {
+      "type": "figure",
+      "id": "fig_2012",
+      "reading_order": 7435,
+      "section": "Post service test",
+      "bbox": {
+        "l": 106.01576622757091,
+        "t": 362.1611633300781,
+        "r": 120.1219567638055,
+        "b": 348.4582214355469
+      },
+      "image_path": "figures/figure_2012.png",
+      "decorative": true,
+      "width": 14,
+      "height": 13,
+      "image_hash": "f8355f2f790d74f13adf9f995914a80533b8222d72187529cd4e84da24b551d2",
+      "previous_block_id": "txt_5373",
+      "next_block_id": "txt_5374"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_5374",
+      "reading_order": 7436,
+      "severity": "caution",
+      "content": "CAUTION: ESD-sensitive part.",
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 122.0,
+        "t": 354.53499,
+        "r": 159.75,
+        "b": 342.94499
+      }
+    },
+    {
+      "type": "figure",
+      "id": "fig_2013",
+      "reading_order": 7438,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 169.3478449463234,
+        "t": 359.0256042480469,
+        "r": 188.40250399399926,
+        "b": 337.8237609863281
+      },
+      "image_path": "figures/figure_2013.png",
+      "decorative": true,
+      "width": 19,
+      "height": 21,
+      "image_hash": "a58ef87fca9b2aa6c43ad54d5b428be7bafaf38037a50bf2bd39ea970783042c",
+      "previous_block_id": "txt_5375",
+      "next_block_id": "txt_5376"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_5376",
+      "reading_order": 7439,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 122.0,
+        "t": 325.42,
+        "r": 526.5900000000004,
+        "b": 313.83
+      },
+      "content": "Note the location on the formatter of an installed TPM (M507/E50145 right; M528/E52645 left)."
+    }
+  ],
+  "page_stats": {
+    "block_count": 12,
+    "text_blocks": 8,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 6,
+    "captions": 1,
+    "admonitions": 1,
+    "references": 0,
+    "figures": 4,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

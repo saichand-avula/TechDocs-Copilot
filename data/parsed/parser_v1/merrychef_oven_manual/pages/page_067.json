@@ -1,0 +1,482 @@
+{
+  "page": 67,
+  "document_id": "doc_27a62e0f",
+  "page_bbox": {
+    "width": 594.9600219726562,
+    "height": 842.52001953125
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0857",
+      "reading_order": 1080,
+      "section": "High voltage magnetron test",
+      "bbox": {
+        "l": 39.12,
+        "t": 787.84801953125,
+        "r": 200.76,
+        "b": 777.0644393785782
+      },
+      "content": "High voltage magnetron test",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0858",
+      "reading_order": 1081,
+      "section": "High voltage magnetron test",
+      "bbox": {
+        "l": 38.88,
+        "t": 757.1460195312501,
+        "r": 351.423,
+        "b": 749.0583344167462
+      },
+      "content": "Ensure the following requirements have been met before starting the test:"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0859",
+      "reading_order": 1082,
+      "section": "High voltage magnetron test",
+      "bbox": {
+        "l": 56.88000000000005,
+        "t": 742.02601953125,
+        "r": 551.6910000000001,
+        "b": 720.7353344167462
+      },
+      "content": " The appliance has been disconnected from the power supply and protective measures have been taken to ensure the power cannot be switched on again."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0860",
+      "reading_order": 1083,
+      "section": "High voltage magnetron test",
+      "bbox": {
+        "l": 56.871000000000095,
+        "t": 716.10601953125,
+        "r": 166.48200000000008,
+        "b": 707.6583344167462
+      },
+      "content": " The appliance is cool."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0861",
+      "reading_order": 1084,
+      "section": "High voltage magnetron test",
+      "bbox": {
+        "l": 56.86200000000008,
+        "t": 703.50601953125,
+        "r": 366.99300000000005,
+        "b": 695.0583344167462
+      },
+      "content": " The high voltage capacitors are discharged before commencing work."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0862",
+      "reading_order": 1085,
+      "section": "High voltage magnetron test",
+      "bbox": {
+        "l": 56.853000000000065,
+        "t": 690.78901953125,
+        "r": 273.61800000000005,
+        "b": 682.3413344167462
+      },
+      "content": " The casing of the appliance has been removed."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0863",
+      "reading_order": 1086,
+      "section": "DANGER",
+      "bbox": {
+        "l": 50.04,
+        "t": 659.34601953125,
+        "r": 90.063,
+        "b": 651.1587304760582
+      },
+      "content": "DANGER",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0174",
+      "reading_order": 1087,
+      "section": "DANGER",
+      "bbox": {
+        "l": 34.29712626971539,
+        "t": 664.4332119725459,
+        "r": 46.17521148981104,
+        "b": 652.2743215856726
+      },
+      "image_path": "figures/figure_0174.png",
+      "previous_block_id": "txt_0863",
+      "next_block_id": "txt_0864",
+      "width": 11,
+      "height": 12,
+      "decorative": true,
+      "image_hash": "db1bde18f515f3d74424630da4befba7795b50b62b1397a37b5bcf5b73cb4744"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0864",
+      "reading_order": 1088,
+      "section": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit.",
+      "bbox": {
+        "l": 36.0,
+        "t": 647.10601953125,
+        "r": 461.07,
+        "b": 638.9187304760582
+      },
+      "content": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit.",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0865",
+      "reading_order": 1089,
+      "section": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit.",
+      "bbox": {
+        "l": 35.97300000000001,
+        "t": 634.86601953125,
+        "r": 301.60799999999995,
+        "b": 626.7783344167461
+      },
+      "content": "It is very dangerous to work near this part when the oven is on."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0866",
+      "reading_order": 1090,
+      "section": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit.",
+      "bbox": {
+        "l": 35.990999999999985,
+        "t": 622.74301953125,
+        "r": 549.171,
+        "b": 602.4153344167461
+      },
+      "content": "NEVER make any electrical measurements on the high voltage circuits, including the magnetron filament, whilst the oven is connected to the mains power supply."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0867",
+      "reading_order": 1091,
+      "section": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit.",
+      "bbox": {
+        "l": 43.42500000000001,
+        "t": 594.1860195312499,
+        "r": 277.10999999999996,
+        "b": 585.9987304760581
+      },
+      "content": "Remove all electric connections from the magnetron."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0868",
+      "reading_order": 1092,
+      "section": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit.",
+      "bbox": {
+        "l": 43.40699999999998,
+        "t": 582.18901953125,
+        "r": 287.1809999999999,
+        "b": 574.0017304760581
+      },
+      "content": "Using a Digital Multi-Meter (DMM), check for continuity."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0869",
+      "reading_order": 1093,
+      "section": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit.",
+      "bbox": {
+        "l": 43.39799999999994,
+        "t": 569.94901953125,
+        "r": 161.41499999999996,
+        "b": 561.8613344167461
+      },
+      "content": "Result should be as follows:"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0175",
+      "reading_order": 1094,
+      "section": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit.",
+      "bbox": {
+        "l": 41.2834732320371,
+        "t": 556.6967984725184,
+        "r": 183.89110117528526,
+        "b": 480.43458070705867
+      },
+      "image_path": "figures/figure_0175.png",
+      "previous_block_id": "txt_0869",
+      "next_block_id": "txt_0870",
+      "image_hash": "1ddab18326995bddb69af91c4436e99f26f1fa0791c402224d2c672ed8da6416",
+      "width": 143,
+      "height": 76
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0870",
+      "reading_order": 1095,
+      "section": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit.",
+      "bbox": {
+        "l": 43.2,
+        "t": 475.62601953125,
+        "r": 217.2734999999999,
+        "b": 455.17833441674617
+      },
+      "content": "Connect the DMM to both terminals of the magnetron."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0871",
+      "reading_order": 1096,
+      "section": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit.",
+      "bbox": {
+        "l": 43.2,
+        "t": 451.02601953125003,
+        "r": 200.82240000000007,
+        "b": 430.6983344167462
+      },
+      "content": "The test is passed if the DMM display reads 1 Ω or less."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0176",
+      "reading_order": 1097,
+      "section": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit.",
+      "bbox": {
+        "l": 227.96617302116195,
+        "t": 555.5502958689967,
+        "r": 371.55062589113516,
+        "b": 480.62904999676476
+      },
+      "image_path": "figures/figure_0176.png",
+      "previous_block_id": "txt_0871",
+      "next_block_id": "txt_0872",
+      "image_hash": "239a350a1c6b71bc94b2e85d1d3bf90eb2d5894444825d6bf2d3619cadedd3e8",
+      "width": 144,
+      "height": 75
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0872",
+      "reading_order": 1098,
+      "section": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit.",
+      "bbox": {
+        "l": 229.8,
+        "t": 475.62601953125,
+        "r": 481.48229999999967,
+        "b": 418.4583344167462
+      },
+      "content": "Using a megger/insulation tester connect to one terminal and the metal outer case of the magnetron. The test is passed if the megger/insulation tester display reads an infinite resistance, \"open circuit\". Repeat the test for the other filament terminal and the metal outer case."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0873",
+      "reading_order": 1099,
+      "section": "5.8 Mains voltage components (casing removed)",
+      "bbox": {
+        "l": 49.56,
+        "t": 393.90457953125,
+        "r": 399.29639999999995,
+        "b": 381.13240860515083
+      },
+      "content": "5.8 Mains voltage components (casing removed)",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0874",
+      "reading_order": 1100,
+      "section": "Convection fan: motor",
+      "bbox": {
+        "l": 39.12,
+        "t": 363.28801953125003,
+        "r": 166.92000000000002,
+        "b": 352.5044393785783
+      },
+      "content": "Convection fan: motor",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0875",
+      "reading_order": 1101,
+      "section": "Convection fan: motor",
+      "bbox": {
+        "l": 36.0,
+        "t": 335.70601953125,
+        "r": 555.6600000000001,
+        "b": 315.37833441674616
+      },
+      "content": "The convection fan motor is a 3-phase AC motor having a maximum speed of approximately 7000 rpm (approximately 5200 rpm 16A/13A ovens) controlled by a motor speed controller (VFD)."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0876",
+      "reading_order": 1102,
+      "section": "Convection fan: motor",
+      "bbox": {
+        "l": 35.9910000000001,
+        "t": 311.10901953124994,
+        "r": 560.0880000000001,
+        "b": 290.6643344167462
+      },
+      "content": "The windings are thermally protected. In the event of a thermal fault, the trip inside the motor (IP) will open circuit and cause the VFD to enter a fault mode."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0877",
+      "reading_order": 1103,
+      "section": "Convection fan: motor speed controller",
+      "bbox": {
+        "l": 39.12,
+        "t": 273.4080195312499,
+        "r": 261.12,
+        "b": 262.62443937857824
+      },
+      "content": "Convection fan: motor speed controller",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0878",
+      "reading_order": 1104,
+      "section": "Convection fan: motor speed controller",
+      "bbox": {
+        "l": 36.0,
+        "t": 245.94601953125004,
+        "r": 554.4630000000001,
+        "b": 213.37833441674616
+      },
+      "content": "The convection motor speed controller provides a 3-phase AC switched mode drive to the convection motor and is controlled by a 0 to 10 Volt signal from the IO board (connection X519) on 30A ovens and a 0 to 7.5 Volt signal on 13A & 16A ovens."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0879",
+      "reading_order": 1105,
+      "section": "Convection fan: motor speed controller",
+      "bbox": {
+        "l": 36.0,
+        "t": 208.86601953125,
+        "r": 483.54300000000006,
+        "b": 200.77833441674625
+      },
+      "content": "This allows the motor to be adjusted from approximately 1400 rpm to 7000 rpm (5200 rpm) in steps of 1%."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0880",
+      "reading_order": 1106,
+      "section": "Convection fan: motor speed controller",
+      "bbox": {
+        "l": 54.000000000000114,
+        "t": 196.98601953125,
+        "r": 250.27200000000008,
+        "b": 188.53833441674624
+      },
+      "content": " Door open, Approx. 1400 rpm (10% @ 1V)."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0881",
+      "reading_order": 1107,
+      "section": "Convection fan: motor speed controller",
+      "bbox": {
+        "l": 54.00900000000007,
+        "t": 184.62901953125004,
+        "r": 533.823,
+        "b": 176.17833441674622
+      },
+      "content": " Door open (cleaning cool down), >100 o C Approx. 5800 rpm (85% @ 8.5V). >50 o C Approx. 3500 rpm (50% @ 5V)."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0882",
+      "reading_order": 1108,
+      "section": "Convection fan: motor speed controller",
+      "bbox": {
+        "l": 54.00599999999997,
+        "t": 172.38601953124999,
+        "r": 312.198,
+        "b": 163.93833441674622
+      },
+      "content": " Door closed (not cooking), Approx. 2500 rpm (30% @ 3V)."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0883",
+      "reading_order": 1109,
+      "section": "Convection fan: motor speed controller",
+      "bbox": {
+        "l": 54.015000000000015,
+        "t": 160.14601953124998,
+        "r": 307.88700000000006,
+        "b": 151.6983344167462
+      },
+      "content": " Door closed (heating up), Approx. 3500 rpm (50% @ 5V)."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0884",
+      "reading_order": 1110,
+      "section": "Convection fan: motor speed controller",
+      "bbox": {
+        "l": 54.024000000000086,
+        "t": 148.14901953125002,
+        "r": 530.2139999999999,
+        "b": 139.70133441674625
+      },
+      "content": " Door closed (cooking), speed as specified by program or setting up to a maximum of 7000 rpm (100% @ 10V)."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0885",
+      "reading_order": 1111,
+      "section": "Convection fan: motor speed controller LED status display",
+      "bbox": {
+        "l": 39.12,
+        "t": 122.08801953124998,
+        "r": 365.03999999999996,
+        "b": 111.30443937857831
+      },
+      "content": "Convection fan: motor speed controller LED status display",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0886",
+      "reading_order": 1112,
+      "section": "Convection fan: motor speed controller LED status display",
+      "bbox": {
+        "l": 39.12,
+        "t": 94.74591953125002,
+        "r": 414.06,
+        "b": 86.65823441674615
+      },
+      "content": "The VFD contains a diagnostic indicator (Red LED) to display the drives operational status;"
+    }
+  ],
+  "page_stats": {
+    "block_count": 33,
+    "text_blocks": 30,
+    "paragraphs": 10,
+    "headings": 7,
+    "list_items": 13,
+    "captions": 0,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 3,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

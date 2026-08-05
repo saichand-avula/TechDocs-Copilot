@@ -1,0 +1,63 @@
+{
+  "page": 65,
+  "document_id": "doc_1032c87b",
+  "page_bbox": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  },
+  "blocks": [
+    {
+      "type": "table",
+      "id": "tbl_0036",
+      "reading_order": 693,
+      "section": "Reminder: please set single battery voltage first, and then set other parameters.",
+      "bbox": {
+        "l": 76.41540482258972,
+        "t": 727.4096258781195,
+        "r": 518.145954953397,
+        "b": 202.9672209811739
+      },
+      "markdown": "| Battery management enable   | Display battery backup time and residual capacity in battery parameters interface. The default is off.                                                                                                                 |\n|-----------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Battery sharing enable      | Share battery pack. The default is off.                                                                                                                                                                                |\n| Battery self-test settings  | Self-test function enable: off / according to the voltage / according to the time.                                                                                                                                     |\n| Battery self-test settings  | Self-test cycle: self-test cycle setting [30, 365], the default is 90 days.                                                                                                                                            |\n| Battery self-test settings  | Self-test time: self test duration [5, 240], the default is 5 minutes.                                                                                                                                                 |\n| Battery self-test settings  | Self-test voltage: voltage point at end of self-test [EOD * battery quantities, floating charge voltage * battery quantities]. For 30 pcs batteries, the default is 360 V. For 50 pcs batteries, the default is 500 V. |\n| Battery self-test settings  | Period of time of self-test: allowable period of time of self test [0000, 2359].The default [0000, 0500] is 0:00 to 6:00 am.                                                                                           |\n| Online detection function   | Battery monitoring method is settable [off / drop the benchmark / auxiliary contact]. The default is dropping the benchmark.                                                                                           |\n| Battery quality enable      | On / off settable, the default is off.                                                                                                                                                                                 |\n| Battery installation year   | Enter the date of battery installation                                                                                                                                                                                 |\n| Battery installation month  | Enter the date of battery installation                                                                                                                                                                                 |\n| Battery installation day    | Enter the date of battery installation                                                                                                                                                                                 |\n| Battery quality standards   | 0 - 100% settable, 20% by default, the default is off.                                                                                                                                                                 |\n| Battery replacement cycle   | The default is 5 years. 1 - 8 year(s) is settable.                                                                                                                                                                     |"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0540",
+      "reading_order": 694,
+      "section": "5.1.7 Current Information Record Window",
+      "bbox": {
+        "l": 74.664,
+        "t": 171.35598291015629,
+        "r": 314.80600000000004,
+        "b": 160.59284478860934
+      },
+      "content": "5.1.7 Current Information Record Window",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0541",
+      "reading_order": 695,
+      "section": "5.1.7 Current Information Record Window",
+      "bbox": {
+        "l": 77.904,
+        "t": 141.50766291015634,
+        "r": 541.2134399999993,
+        "b": 116.43610136319501
+      },
+      "content": "This window records events of UPS under current operating mode, and does not record the solved status."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0542",
+      "reading_order": 696,
+      "section": "5.1.7 Current Information Record Window",
+      "bbox": {
+        "l": 77.904,
+        "t": 110.3076629101563,
+        "r": 357.96567999999996,
+        "b": 100.83610136319498
+      },
+      "content": "Click 'current alarm' in main interface to browse the events."
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "page": 510,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_3983",
+      "reading_order": 5465,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 113.0,
+        "t": 732.29,
+        "r": 417.85000000000014,
+        "b": 720.7
+      },
+      "content": "Continue to rotate the cover away from the printer to release one boss."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_3984",
+      "reading_order": 5466,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 113.0,
+        "t": 470.42,
+        "r": 208.13999999999993,
+        "b": 458.83
+      },
+      "content": "Remove the cover."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_3985",
+      "reading_order": 5467,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 91.0,
+        "t": 208.54999999999995,
+        "r": 243.30999999999997,
+        "b": 196.96000000000004
+      },
+      "content": "Remove the rear door assembly."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_3986",
+      "reading_order": 5468,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 113.00001,
+        "t": 187.54999999999995,
+        "r": 358.2400100000001,
+        "b": 175.96000000000004
+      },
+      "content": "At the rear of the printer, remove two screws (callout 1)."
+    },
+    {
+      "type": "figure",
+      "id": "fig_1442",
+      "reading_order": 5469,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 133.67463589642009,
+        "t": 698.587043762207,
+        "r": 423.86808833737837,
+        "b": 481.8708190917969
+      },
+      "image_path": "figures/figure_1442.png",
+      "caption": "Release one boss",
+      "figure_number": "Figure 1-833",
+      "image_hash": "9ee3f334d7aa9c1dce953e55eb727ee34e331b27fe582b038891296b675bb8f8",
+      "width": 290,
+      "height": 217,
+      "previous_block_id": "txt_3986",
+      "next_block_id": "txt_3987",
+      "caption_id": "txt_3987"
+    },
+    {
+      "type": "caption",
+      "id": "txt_3987",
+      "reading_order": 5470,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 135.00004,
+        "t": 711.29,
+        "r": 261.6800399999999,
+        "b": 699.7
+      },
+      "content": "Figure 1-833  Release one boss",
+      "caption_for": "fig_1442"
+    },
+    {
+      "type": "figure",
+      "id": "fig_1443",
+      "reading_order": 5471,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 133.72156509814332,
+        "t": 437.6109619140625,
+        "r": 423.94019794600604,
+        "b": 220.27117919921875
+      },
+      "image_path": "figures/figure_1443.png",
+      "caption": "Remove the cover",
+      "figure_number": "Figure 1-834",
+      "image_hash": "1f66a2f8912eeb1c297a1e364824aea4bdedc4b9087a6f4a347f64e81c1e0ea9",
+      "width": 290,
+      "height": 218,
+      "previous_block_id": "txt_3987",
+      "next_block_id": "txt_3988",
+      "caption_id": "txt_3988"
+    },
+    {
+      "type": "caption",
+      "id": "txt_3988",
+      "reading_order": 5472,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 135.0,
+        "t": 449.42,
+        "r": 263.8999899999999,
+        "b": 437.83
+      },
+      "content": "Figure 1-834  Remove the cover",
+      "caption_for": "fig_1443"
+    }
+  ],
+  "page_stats": {
+    "block_count": 8,
+    "text_blocks": 6,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 4,
+    "captions": 2,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 2,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

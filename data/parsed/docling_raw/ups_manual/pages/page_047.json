@@ -1,0 +1,203 @@
+{
+  "page": 47,
+  "document_id": "doc_1032c87b",
+  "page_bbox": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  },
+  "blocks": [
+    {
+      "type": "table",
+      "id": "tbl_0017",
+      "reading_order": 495,
+      "section": "4.2.1 Start ECO Mode",
+      "bbox": {
+        "l": 88.66873370510362,
+        "t": 668.8763095605145,
+        "r": 506.4514362794512,
+        "b": 623.6980624620121
+      },
+      "markdown": "Table 4-4\n\n| LED No.        | REC   | INV                 | OUTPUT   | BAT   | BYP   | STATUS   |\n|----------------|-------|---------------------|----------|-------|-------|----------|\n| Display status | Green | Green light flashes | Green    | Off   | Green | Green    |"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0406",
+      "reading_order": 496,
+      "section": "4.2.1 Start ECO Mode",
+      "bbox": {
+        "l": 283.87,
+        "t": 677.9876629101562,
+        "r": 330.00568,
+        "b": 668.5161013631949
+      },
+      "content": "Table 4-4"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0407",
+      "reading_order": 497,
+      "section": "4.2.2 Shut Down ECO Mode",
+      "bbox": {
+        "l": 74.664,
+        "t": 592.8759829101563,
+        "r": 240.746,
+        "b": 582.1128447886093
+      },
+      "content": "4.2.2 Shut Down ECO Mode",
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "id": "fig_0075",
+      "reading_order": 498,
+      "section": "4.2.2 Shut Down ECO Mode",
+      "bbox": {
+        "l": 145.05847375772018,
+        "t": 565.3002770866251,
+        "r": 171.47257469324944,
+        "b": 542.8069925122184
+      },
+      "image_path": "figures/figure_0075.png",
+      "previous_block_id": "txt_0407",
+      "next_block_id": "txt_0408"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0408",
+      "reading_order": 499,
+      "section": "4.2.2 Shut Down ECO Mode",
+      "bbox": {
+        "l": 77.904,
+        "t": 548.4776629101563,
+        "r": 541.61088,
+        "b": 491.126101363195
+      },
+      "content": "Click set icon ' ' in main interface and menu of 'advanced setting' (enter right password), and click to enter 'mode setting', select 'UPS mode' and then press 'YES'. Here, the 'UPS mode' is not effective, please make the UPS power down, and then power up, then the configured 'ECO mode' become effective. Operate according to normal startup steps, the UPS will work in UPS mode."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0409",
+      "reading_order": 500,
+      "section": "4.3 Manual Bypass",
+      "bbox": {
+        "l": 80.784,
+        "t": 466.1288629101563,
+        "r": 235.96688,
+        "b": 451.81388920849884
+      },
+      "content": "4.3 Manual Bypass",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0410",
+      "reading_order": 501,
+      "section": "4.3 Manual Bypass",
+      "bbox": {
+        "l": 77.904,
+        "t": 426.7976629101563,
+        "r": 541.4814399999999,
+        "b": 370.506101363195
+      },
+      "content": "If you need to manually switch the inverter power supply to the bypass power supply, you can use the  manual bypass enable function. Manual bypass can be set at any time, and it has memory function (that is, manual bypass mode only needs to be set once, after taking effect, UPS will keep working in manual bypass mode, even if the UPS is self-starting)."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0076",
+      "reading_order": 502,
+      "section": "4.3 Manual Bypass",
+      "bbox": {
+        "l": 301.5487822620965,
+        "t": 367.6027579033601,
+        "r": 330.66504982709887,
+        "b": 343.0602906443391
+      },
+      "image_path": "figures/figure_0076.png",
+      "previous_block_id": "txt_0410",
+      "next_block_id": "txt_0411"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0411",
+      "reading_order": 503,
+      "section": "4.3 Manual Bypass",
+      "bbox": {
+        "l": 77.904,
+        "t": 349.0176629101563,
+        "r": 541.5063999999999,
+        "b": 261.306101363195
+      },
+      "content": "Operation  steps  are  as  follows:  click  set  icon  ' '  in  main  interface  and  menu  of  'advanced setting' (enter right password), then click to enter 'mode setting', and then press 'YES' to enter the current mode. Click to enter 'basic parameter' setting, and press 'Manual Byp', select 'ON', and then press 'YES'. Here, the output is switched to bypass power supply, it will display 'Manual Byp On' in left bottom corner of LCD display screen. It can be set as 'OFF' if needs to switch off the manual bypass."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0077",
+      "reading_order": 504,
+      "section": "4.3 Manual Bypass",
+      "bbox": {
+        "l": 74.72216523466632,
+        "t": 254.87311541912925,
+        "r": 95.03898687883115,
+        "b": 235.32419212235936
+      },
+      "image_path": "figures/figure_0077.png",
+      "previous_block_id": "txt_0411",
+      "next_block_id": "txt_0412"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0412",
+      "reading_order": 505,
+      "section": "4.3 Manual Bypass",
+      "bbox": {
+        "l": 74.784,
+        "t": 242.57766291015628,
+        "r": 541.4399199999997,
+        "b": 214.47610136319497
+      },
+      "content": "Note:  When  UPS  is  in  bypass  mode,  the  load  cannot  be  protected  by  UPS  if  voltage  and frequency are fluctuated or power is failure."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0413",
+      "reading_order": 506,
+      "section": "4.4 Maintenance Bypass",
+      "bbox": {
+        "l": 80.784,
+        "t": 189.4788629101563,
+        "r": 277.86688,
+        "b": 175.16388920849886
+      },
+      "content": "4.4 Maintenance Bypass",
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "id": "fig_0078",
+      "reading_order": 507,
+      "section": "4.4 Maintenance Bypass",
+      "bbox": {
+        "l": 74.51075551229364,
+        "t": 150.10585094652095,
+        "r": 95.33284601125428,
+        "b": 130.10146556632264
+      },
+      "image_path": "figures/figure_0078.png",
+      "previous_block_id": "txt_0413",
+      "next_block_id": "txt_0414"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0414",
+      "reading_order": 508,
+      "section": "4.4 Maintenance Bypass",
+      "bbox": {
+        "l": 74.784,
+        "t": 137.5476629101563,
+        "r": 541.5311199999994,
+        "b": 93.88010136319497
+      },
+      "content": "Note: Please read the warning information in Chapter 1 and operate the maintenance bypass carefully, otherwise it may damage the UPS or cause power down of the load and even endanger personal safety."
+    }
+  ]
+}

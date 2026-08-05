@@ -1,0 +1,152 @@
+{
+  "page": 286,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_2344",
+      "reading_order": 3161,
+      "section": "d. Remove the cover.",
+      "bbox": {
+        "l": 113.0,
+        "t": 732.29,
+        "r": 525.2300000000002,
+        "b": 708.7
+      },
+      "content": "Disconnect three connectors (callout 1), and then pass the wire harnesses and cables through the opening in the cover (callout 2)."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0789",
+      "reading_order": 3162,
+      "section": "d. Remove the cover.",
+      "bbox": {
+        "l": 119.08658601691509,
+        "t": 698.613166809082,
+        "r": 129.64901938448122,
+        "b": 686.2234725952148
+      },
+      "image_path": "figures/figure_0789.png",
+      "decorative": true,
+      "width": 10,
+      "height": 12,
+      "image_hash": "489b917c005530d43ba3f70e9f9ae381bbda98b1e8ab162f3d5a6115156790a7",
+      "previous_block_id": "txt_2344",
+      "next_block_id": "txt_2345"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_2345",
+      "reading_order": 3163,
+      "section": "d. Remove the cover.",
+      "bbox": {
+        "l": 135.0,
+        "t": 696.79,
+        "r": 531.0700000000002,
+        "b": 673.2
+      },
+      "content": "TIP: It might be easier if the WiFi PCA and holder (callout 3) is detached from the printer, and then moved out of the way.",
+      "severity": "tip"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0790",
+      "reading_order": 3164,
+      "section": "d. Remove the cover.",
+      "bbox": {
+        "l": 133.413985893999,
+        "t": 649.9765014648438,
+        "r": 423.8743720003975,
+        "b": 433.1713562011719
+      },
+      "image_path": "figures/figure_0790.png",
+      "caption": "Disconnect cables and connectors",
+      "figure_number": "Figure 1-438",
+      "image_hash": "fd17435257804689174c02231f2c5fdcbd2f0ad79d5487fcc11442c4a63a0fd4",
+      "width": 291,
+      "height": 217,
+      "previous_block_id": "txt_2345",
+      "next_block_id": "txt_2346",
+      "caption_id": "txt_2346"
+    },
+    {
+      "type": "caption",
+      "id": "txt_2346",
+      "reading_order": 3165,
+      "section": "d. Remove the cover.",
+      "bbox": {
+        "l": 135.0,
+        "t": 662.29,
+        "r": 326.91999,
+        "b": 650.7
+      },
+      "content": "Figure 1-438  Disconnect cables and connectors",
+      "caption_for": "fig_0790"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2347",
+      "reading_order": 3166,
+      "section": "d. Remove the cover.",
+      "bbox": {
+        "l": 113.0,
+        "t": 422.31441,
+        "r": 218.85000999999997,
+        "b": 410.72441
+      },
+      "content": "Remove four screws."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0791",
+      "reading_order": 3167,
+      "section": "d. Remove the cover.",
+      "bbox": {
+        "l": 133.83305436190562,
+        "t": 389.1546630859375,
+        "r": 423.9745750733002,
+        "b": 171.76824951171875
+      },
+      "image_path": "figures/figure_0791.png",
+      "caption": "Remove four screws",
+      "figure_number": "Figure 1-439",
+      "image_hash": "84b4ba9c1e1b7276e00a6f9a1b4dab88b0e26fae2f6f42cb284155b9acdafa98",
+      "width": 290,
+      "height": 217,
+      "previous_block_id": "txt_2347",
+      "next_block_id": "txt_2348",
+      "caption_id": "txt_2348"
+    },
+    {
+      "type": "caption",
+      "id": "txt_2348",
+      "reading_order": 3168,
+      "section": "d. Remove the cover.",
+      "bbox": {
+        "l": 135.00001,
+        "t": 401.31441,
+        "r": 273.3100099999999,
+        "b": 389.72441
+      },
+      "content": "Figure 1-439  Remove four screws",
+      "caption_for": "fig_0791"
+    }
+  ],
+  "page_stats": {
+    "block_count": 8,
+    "text_blocks": 5,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 2,
+    "captions": 2,
+    "admonitions": 1,
+    "references": 0,
+    "figures": 3,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "page": 87,
+  "document_id": "doc_37f23c38",
+  "page_bbox": {
+    "width": 612.0,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_0766",
+      "reading_order": 834,
+      "section": "6.4 TROUBLESHOOTING PROCEDURES",
+      "bbox": {
+        "l": 108.0,
+        "t": 738.18877681,
+        "r": 468.3632760000003,
+        "b": 700.7010044628099
+      },
+      "content": "6.4 TROUBLESHOOTING PROCEDURES",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0767",
+      "reading_order": 835,
+      "section": "6.4 TROUBLESHOOTING PROCEDURES",
+      "bbox": {
+        "l": 108.0,
+        "t": 687.24272681,
+        "r": 539.9401360744009,
+        "b": 654.347654832033
+      },
+      "content": "This  section  details  recommended  procedures  for  problems  not  associated  with malfunction alarms. Before performing any troubleshooting procedure, turn the infuser off, then on."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0768",
+      "reading_order": 836,
+      "section": "6.4 TROUBLESHOOTING PROCEDURES",
+      "bbox": {
+        "l": 108.0,
+        "t": 639.2433470179001,
+        "r": 370.2033388561,
+        "b": 630.3479151359329
+      },
+      "content": "Allow the self test to complete and proceed as follows:"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0769",
+      "reading_order": 837,
+      "section": "6.4 TROUBLESHOOTING PROCEDURES",
+      "bbox": {
+        "l": 125.5805132511,
+        "t": 615.2436073218,
+        "r": 540.0772854121011,
+        "b": 594.8881879338329
+      },
+      "content": "If  a  malfunction  exists,  carefully  inspect  the  infuser  for  damage  as  described in Section 5.2.2."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0770",
+      "reading_order": 838,
+      "section": "6.4 TROUBLESHOOTING PROCEDURES",
+      "bbox": {
+        "l": 125.5806128512,
+        "t": 588.3635323338001,
+        "r": 539.9629444972996,
+        "b": 556.607785899733
+      },
+      "content": "If  an  infuser  inspection  has  not  disclosed  a  malfunction,  perform  the  PVT in Section 5.2. See Table 64 for section reference, probable cause, and corrective actions."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0771",
+      "reading_order": 839,
+      "section": "6.4 TROUBLESHOOTING PROCEDURES",
+      "bbox": {
+        "l": 125.58031405090003,
+        "t": 550.0233702397002,
+        "r": 539.980474114901,
+        "b": 529.727611311633
+      },
+      "content": "If, after completing step 1 and step 2, a malfunction has not been located, or if the infuser persistently fails, contact Hospira (see Section 6.1) ."
+    },
+    {
+      "type": "table",
+      "id": "tbl_0037",
+      "reading_order": 840,
+      "section": "6.4 TROUBLESHOOTING PROCEDURES",
+      "bbox": {
+        "l": 106.52885437011719,
+        "t": 511.8613586425781,
+        "r": 542.7620239257812,
+        "b": 75.66131591796875
+      },
+      "markdown": "| Table 6-4. Troubleshooting with the PVT              | Table 6-4. Troubleshooting with the PVT   | Table 6-4. Troubleshooting with the PVT             |\n|------------------------------------------------------|-------------------------------------------|-----------------------------------------------------|\n| Test Failure                                         | Probable Cause                            | Corrective Action                                   |\n| Self test (Section 5.2.4)                            | Cassette not properly installed           | Reseat cassette                                     |\n| Self test (Section 5.2.4)                            | Defective CPU PWA                         | Replace CPU PWA (see Section 7.2.12.4)              |\n| Cassette alarm test (Section 5.2.5)                  | Cassette not properly seated              | Reseat cassette                                     |\n| Cassette alarm test (Section 5.2.5)                  | Defective cassette                        | Replace cassette                                    |\n| Free flow test (Section 5.2.6)                       | Cassette not properly seated              | Reseat cassette                                     |\n| Free flow test (Section 5.2.6)                       | Defective cassette                        | Replace cassette                                    |\n| Free flow test (Section 5.2.6)                       | Defective or dirty valve pins             | Clean valve pins                                    |\n| Free flow test (Section 5.2.6)                       |                                           | Replace mechanism assembly (see Section 7.2.12.6)   |\n| Display test (Section 5.2.7)                         | Defective display assembly                | Replace display assembly (see Section 7.2.12.3)     |\n| Keypad verification/ functional test (Section 5.2.8) | Defective keypad                          | Replace keypad (see Section 7.2.12.2)               |\n| Alarm loudness test (Section 5.2.9)                  | Defective CPU                             | Replace CPU PWA (see Section 7.2.12.4)              |\n| Alarm loudness test (Section 5.2.9)                  | Defective peripheral PWA                  | Replace peripheral assembly (see Section 7.2.6)     |\n| Alarm loudness test (Section 5.2.9)                  | Defective piezo alarm assembly            | Replace piezo alarm assembly (see Section 7.2.12.5) |"
+    }
+  ]
+}

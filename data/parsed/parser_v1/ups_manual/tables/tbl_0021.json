@@ -1,0 +1,19 @@
+{
+  "id": "tbl_0021",
+  "page": 56,
+  "section": "5.1.1 Simulated Status Diagram",
+  "title": "Table 5-2: Description for status of indicator light of rectifier (REC)",
+  "markdown": "Table 5-3: Description for status of indicator light of battery (BATT)\n\n| Green and on       | Battery discharges normally                                                |\n|--------------------|----------------------------------------------------------------------------|\n| Green and flashing | Battery low voltage discharge or battery is taking manual maintenance test |\n| Red and on         | Battery is in fault (fault of battery or no battery)                       |\n| Off                | Battery is being charged.                                                  |",
+  "block_id": "#/tables/20",
+  "reading_order": 636,
+  "bbox": {
+    "l": 120.02420388975126,
+    "t": 555.3490439087414,
+    "r": 545.0386456688099,
+    "b": 473.389487252376
+  },
+  "table_number": "Table 5-2",
+  "rows": 4,
+  "cols": 2,
+  "type": "table"
+}

@@ -1,0 +1,735 @@
+{
+  "page": 34,
+  "document_id": "doc_16216d0c",
+  "page_bbox": {
+    "width": 612.0,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "paragraph",
+      "id": "txt_0526",
+      "reading_order": 594,
+      "section": "Test Procedure",
+      "bbox": {
+        "l": 61.6631,
+        "t": 44.86829999999998,
+        "r": 77.9687,
+        "b": 32.765719354838666
+      },
+      "content": "n"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0527",
+      "reading_order": 595,
+      "section": "For Service Technician Use Only",
+      "bbox": {
+        "l": 166.4194,
+        "t": 733.755,
+        "r": 427.94139999999993,
+        "b": 718.9813010526316
+      },
+      "content": "For Service Technician Use Only",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0528",
+      "reading_order": 596,
+      "section": "DANGER",
+      "bbox": {
+        "l": 130.7763,
+        "t": 702.746944,
+        "r": 223.0451244,
+        "b": 685.2059012833168
+      },
+      "content": "DANGER",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0056",
+      "reading_order": 597,
+      "section": "DANGER",
+      "bbox": {
+        "l": 137.03067016601562,
+        "t": 677.1691589355469,
+        "r": 178.28399658203125,
+        "b": 631.4505462646484
+      },
+      "image_path": "figures/figure_0056.png",
+      "previous_block_id": "txt_0528",
+      "next_block_id": "txt_0529",
+      "width": 41,
+      "height": 45,
+      "decorative": true,
+      "image_hash": "886f45e60662793df065be84d6d8bd0d3fe330814aa4edccd1ad37502039ccf7"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0529",
+      "reading_order": 598,
+      "section": "Electrical Shock Hazard",
+      "bbox": {
+        "l": 107.7262,
+        "t": 617.5582318,
+        "r": 218.49959379999996,
+        "b": 608.8807174112267
+      },
+      "content": "Electrical Shock Hazard",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0530",
+      "reading_order": 599,
+      "section": "Electrical Shock Hazard",
+      "bbox": {
+        "l": 46.340661700000005,
+        "t": 602.4145768000001,
+        "r": 253.7208043,
+        "b": 583.4784574112267
+      },
+      "content": "Only authorized technicians should perform diagnostic voltage measurements."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0531",
+      "reading_order": 600,
+      "section": "Electrical Shock Hazard",
+      "bbox": {
+        "l": 46.340661700000005,
+        "t": 577.0123168000001,
+        "r": 237.44381769999995,
+        "b": 558.0761974112268
+      },
+      "content": "After performing voltage measurements, disconnect power before servicing."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0532",
+      "reading_order": 601,
+      "section": "Electrical Shock Hazard",
+      "bbox": {
+        "l": 46.340661700000005,
+        "t": 551.6100568000002,
+        "r": 271.1115823,
+        "b": 532.6739374112268
+      },
+      "content": "Failure to follow these instructions can result in death or electrical shock."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0533",
+      "reading_order": 602,
+      "section": "Heating Element",
+      "bbox": {
+        "l": 36.0,
+        "t": 502.83200000000005,
+        "r": 145.904,
+        "b": 490.65936134453784
+      },
+      "content": "Heating Element",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0534",
+      "reading_order": 603,
+      "section": "Heating Element",
+      "bbox": {
+        "l": 36.0,
+        "t": 473.04,
+        "r": 281.0599999999999,
+        "b": 445.43210084033615
+      },
+      "content": "This test will check the wiring to the heater element, the control board, and the heating element itself.  The following items are part of the heater circuit."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0535",
+      "reading_order": 604,
+      "section": "Heating Element",
+      "bbox": {
+        "l": 36.0,
+        "t": 441.26000000000005,
+        "r": 131.82,
+        "b": 431.9503225806452
+      },
+      "content": "  Harness/Connection"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0536",
+      "reading_order": 605,
+      "section": "Heating Element",
+      "bbox": {
+        "l": 36.0,
+        "t": 428.26000000000005,
+        "r": 112.49000000000002,
+        "b": 418.9503225806452
+      },
+      "content": "  Heater Element"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0537",
+      "reading_order": 606,
+      "section": "Heating Element",
+      "bbox": {
+        "l": 36.0,
+        "t": 415.26000000000005,
+        "r": 105.36999999999999,
+        "b": 405.9503225806452
+      },
+      "content": "  Control Board"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0538",
+      "reading_order": 607,
+      "section": "Test Procedure",
+      "bbox": {
+        "l": 36.0,
+        "t": 384.30400000000003,
+        "r": 109.53600000000003,
+        "b": 375.1745210084034
+      },
+      "content": "Test Procedure",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0539",
+      "reading_order": 608,
+      "section": "Test Procedure",
+      "bbox": {
+        "l": 42.0,
+        "t": 357.04,
+        "r": 220.80999999999997,
+        "b": 349.43210084033615
+      },
+      "content": "Unplug dishwasher or disconnect power."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0540",
+      "reading_order": 609,
+      "section": "Test Procedure",
+      "bbox": {
+        "l": 42.0,
+        "t": 344.04,
+        "r": 272.41,
+        "b": 326.43210084033615
+      },
+      "content": "Remove access panel. Remove control board cover to access control board."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0541",
+      "reading_order": 610,
+      "section": "Test Procedure",
+      "bbox": {
+        "l": 42.0,
+        "t": 321.04,
+        "r": 288.3899999999999,
+        "b": 293.43210084033615
+      },
+      "content": "Lay the dishwasher on its back. Use a small flat-blade screwdriver to unclip snaps around the drip-pan. Remove drip-pan/float switch to access under tub components."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0542",
+      "reading_order": 611,
+      "section": "Test Procedure",
+      "bbox": {
+        "l": 42.0,
+        "t": 288.04,
+        "r": 262.05959999999993,
+        "b": 280.43210084033615
+      },
+      "content": "Disconnect P02 and CON1 from the control board."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0543",
+      "reading_order": 612,
+      "section": "Test Procedure",
+      "bbox": {
+        "l": 42.0,
+        "t": 275.03999999999996,
+        "r": 291.9199999999999,
+        "b": 257.43210084033615
+      },
+      "content": "Using an ohmmeter, measure resistance between P02 and CON1-1 (Neutral)."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0544",
+      "reading_order": 613,
+      "section": "Test Procedure",
+      "bbox": {
+        "l": 50.0,
+        "t": 253.26,
+        "r": 238.05999999999983,
+        "b": 243.9503225806452
+      },
+      "content": "¾ ¾ If an open circuit is detected, go to step 6."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0545",
+      "reading_order": 614,
+      "section": "Test Procedure",
+      "bbox": {
+        "l": 50.0,
+        "t": 240.26,
+        "r": 290.9799999999999,
+        "b": 230.9503225806452
+      },
+      "content": "¾ ¾ If the resistance is approximately 14 ohms, go to step 7."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0546",
+      "reading_order": 615,
+      "section": "STRIP CIRCUIT - HEATER",
+      "bbox": {
+        "l": 36.0938,
+        "t": 218.77139999999997,
+        "r": 153.46579999999997,
+        "b": 209.64192100840341
+      },
+      "content": "STRIP CIRCUIT - HEATER",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0547",
+      "reading_order": 616,
+      "section": "STRIP CIRCUIT - HEATER",
+      "bbox": {
+        "l": 22.627,
+        "t": 213.14016760000004,
+        "r": 108.9769275,
+        "b": 202.9868888609558
+      },
+      "content": "HEATING ELEMENT"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0548",
+      "reading_order": 617,
+      "section": "STRIP CIRCUIT - HEATER",
+      "bbox": {
+        "l": 309.0,
+        "t": 709.07,
+        "r": 552.0400000000002,
+        "b": 681.4621008403361
+      },
+      "content": "Visually check the wire connections between the control board and heater element. If the connections look good, check for continuity across the heater element."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0549",
+      "reading_order": 618,
+      "section": "STRIP CIRCUIT - HEATER",
+      "bbox": {
+        "l": 317.0,
+        "t": 677.29,
+        "r": 527.3200000000005,
+        "b": 667.9803225806452
+      },
+      "content": "¾ ¾ Replace heater element if it is electrically open."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0550",
+      "reading_order": 619,
+      "section": "STRIP CIRCUIT - HEATER",
+      "bbox": {
+        "l": 317.0,
+        "t": 664.29,
+        "r": 549.2000000000004,
+        "b": 654.9803225806452
+      },
+      "content": "¾ ¾ Repair or replace wire harness if test fails continuity."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0551",
+      "reading_order": 620,
+      "section": "STRIP CIRCUIT - HEATER",
+      "bbox": {
+        "l": 309.0,
+        "t": 650.07,
+        "r": 497.71070000000003,
+        "b": 642.4621008403361
+      },
+      "content": "Reconnect P02 and CON1 to control board."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0552",
+      "reading_order": 621,
+      "section": "STRIP CIRCUIT - HEATER",
+      "bbox": {
+        "l": 309.0,
+        "t": 637.07,
+        "r": 549.7800000000002,
+        "b": 609.4621008403361
+      },
+      "content": "Set voltmeter to AC and connect leads to P02 and CON1 on the control board. Plug in dishwasher or reconnect power."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0553",
+      "reading_order": 622,
+      "section": "STRIP CIRCUIT - HEATER",
+      "bbox": {
+        "l": 309.0,
+        "t": 604.07,
+        "r": 541.5500000000003,
+        "b": 576.4621008403361
+      },
+      "content": "Start the Service Mode Test and at step-2 measure for AC out of the control between P02 and CON1 using a voltmeter set to AC."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0554",
+      "reading_order": 623,
+      "section": "STRIP CIRCUIT - HEATER",
+      "bbox": {
+        "l": 317.0,
+        "t": 572.29,
+        "r": 557.1600000000002,
+        "b": 553.4621008403361
+      },
+      "content": "¾ ¾ If 120 VAC is measured and heater element is on, go to step 10."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0555",
+      "reading_order": 624,
+      "section": "STRIP CIRCUIT - HEATER",
+      "bbox": {
+        "l": 317.0,
+        "t": 549.29,
+        "r": 546.6900000000002,
+        "b": 539.9803225806452
+      },
+      "content": "¾ ¾ If no AC voltage is measured, replace control board."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0556",
+      "reading_order": 625,
+      "section": "STRIP CIRCUIT - HEATER",
+      "bbox": {
+        "l": 304.0,
+        "t": 535.07,
+        "r": 496.3300000000001,
+        "b": 527.4621008403361
+      },
+      "content": "Perform Service Mode Test to verify repair."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0557",
+      "reading_order": 626,
+      "section": "STRIP CIRCUIT - HEATER",
+      "bbox": {
+        "l": 304.0,
+        "t": 522.07,
+        "r": 487.9900000000001,
+        "b": 514.4621008403361
+      },
+      "content": "Unplug dishwasher or disconnect power."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0558",
+      "reading_order": 627,
+      "section": "STRIP CIRCUIT - HEATER",
+      "bbox": {
+        "l": 304.0,
+        "t": 509.07,
+        "r": 455.07000000000033,
+        "b": 501.4621008403361
+      },
+      "content": "Reassemble all parts and panels."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0559",
+      "reading_order": 628,
+      "section": "STRIP CIRCUIT - HEATER",
+      "bbox": {
+        "l": 304.0,
+        "t": 496.07,
+        "r": 482.73000000000013,
+        "b": 488.4621008403361
+      },
+      "content": "Plug in dishwasher or reconnect power."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0057",
+      "reading_order": 629,
+      "section": "STRIP CIRCUIT - HEATER",
+      "bbox": {
+        "l": 303.64703369140625,
+        "t": 471.3841857910156,
+        "r": 557.9526977539062,
+        "b": 265.9371337890625
+      },
+      "image_path": "figures/figure_0057.png",
+      "previous_block_id": "txt_0559",
+      "next_block_id": "txt_0560",
+      "caption_id": "txt_0560",
+      "caption": "Heater Connectors",
+      "figure_number": "Figure 1",
+      "image_hash": "28457675746a8d84da6f20290ec875fe09fab08d98568a37b264536aba912796",
+      "width": 254,
+      "height": 205
+    },
+    {
+      "type": "caption",
+      "id": "txt_0560",
+      "reading_order": 630,
+      "section": "STRIP CIRCUIT - HEATER",
+      "bbox": {
+        "l": 377.4675,
+        "t": 255.438,
+        "r": 483.34349999999984,
+        "b": 248.59089075630254
+      },
+      "content": "Figure 1 - Heater Connectors",
+      "caption_for": "fig_0057"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0561",
+      "reading_order": 631,
+      "section": "STRIP CIRCUIT - HEATER",
+      "bbox": {
+        "l": 315.6439,
+        "t": 246.44012499999997,
+        "r": 341.3240349999999,
+        "b": 240.35514999999998
+      },
+      "content": "),   / ,"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0562",
+      "reading_order": 632,
+      "section": "STRIP CIRCUIT - HEATER",
+      "bbox": {
+        "l": 436.94287000000014,
+        "t": 247.2103750000001,
+        "r": 472.8930050000002,
+        "b": 241.12540000000013
+      },
+      "content": ",   ,      '"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0563",
+      "reading_order": 633,
+      "section": "STRIP CIRCUIT - HEATER",
+      "bbox": {
+        "l": 315.64903499999997,
+        "t": 234.270175,
+        "r": 372.62185999999997,
+        "b": 228.1852
+      },
+      "content": "),      0+0    6"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0564",
+      "reading_order": 634,
+      "section": "STRIP CIRCUIT - HEATER",
+      "bbox": {
+        "l": 315.64903499999997,
+        "t": 228.1852,
+        "r": 379.5130300000001,
+        "b": 222.10022500000002
+      },
+      "content": "C       6 26"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0565",
+      "reading_order": 635,
+      "section": "STRIP CIRCUIT - HEATER",
+      "bbox": {
+        "l": 315.64390000000003,
+        "t": 222.10022500000002,
+        "r": 376.9455300000001,
+        "b": 216.01525000000004
+      },
+      "content": "C? 3    6  '"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0566",
+      "reading_order": 636,
+      "section": "STRIP CIRCUIT - HEATER",
+      "bbox": {
+        "l": 315.63876500000003,
+        "t": 216.01525000000004,
+        "r": 375.22530500000005,
+        "b": 209.93027500000005
+      },
+      "content": "!C/     6  '"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0567",
+      "reading_order": 637,
+      "section": "STRIP CIRCUIT - HEATER",
+      "bbox": {
+        "l": 315.63363000000004,
+        "t": 209.93027500000005,
+        "r": 371.7951250000001,
+        "b": 203.84530000000007
+      },
+      "content": "C,        '"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0568",
+      "reading_order": 638,
+      "section": "STRIP CIRCUIT - HEATER",
+      "bbox": {
+        "l": 315.62849500000004,
+        "t": 203.84530000000007,
+        "r": 371.21487000000013,
+        "b": 197.76032500000008
+      },
+      "content": "AC,       '"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0569",
+      "reading_order": 639,
+      "section": "STRIP CIRCUIT - HEATER",
+      "bbox": {
+        "l": 315.6233600000001,
+        "t": 191.6753500000001,
+        "r": 358.4389900000001,
+        "b": 185.5903750000001
+      },
+      "content": ")    )   ?"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0570",
+      "reading_order": 640,
+      "section": "STRIP CIRCUIT - HEATER",
+      "bbox": {
+        "l": 436.94287000000014,
+        "t": 235.04042500000003,
+        "r": 519.6933950000001,
+        "b": 228.95545000000004
+      },
+      "content": ",        $        '  6   5 4   '"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0571",
+      "reading_order": 641,
+      "section": "STRIP CIRCUIT - HEATER",
+      "bbox": {
+        "l": 436.9480050000001,
+        "t": 222.87047500000006,
+        "r": 472.24086000000017,
+        "b": 216.78550000000007
+      },
+      "content": ",!  #  4 '  5"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0572",
+      "reading_order": 642,
+      "section": "STRIP CIRCUIT - HEATER",
+      "bbox": {
+        "l": 436.9480050000001,
+        "t": 210.70052500000008,
+        "r": 569.636405,
+        "b": 204.6155500000001
+      },
+      "content": ",   1    2             1    ' '   $  %   $    $"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0573",
+      "reading_order": 643,
+      "section": "STRIP CIRCUIT - HEATER",
+      "bbox": {
+        "l": 436.958275,
+        "t": 198.530575,
+        "r": 522.846285,
+        "b": 192.4456
+      },
+      "content": ",A        %  %    ' '        $"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0058",
+      "reading_order": 644,
+      "section": "STRIP CIRCUIT - HEATER",
+      "bbox": {
+        "l": 34.74372863769531,
+        "t": 188.2940673828125,
+        "r": 557.703125,
+        "b": 77.58160400390625
+      },
+      "image_path": "figures/figure_0058.png",
+      "previous_block_id": "txt_0573",
+      "next_block_id": "txt_0574",
+      "caption_id": "txt_0574",
+      "caption": "Heater Strip Circuit",
+      "figure_number": "Figure 2",
+      "image_hash": "308fa7a3d39ab1d69b0a2f8bcbaf5829e85670639857b5c59f93fee2722cd3fe",
+      "width": 523,
+      "height": 110
+    },
+    {
+      "type": "caption",
+      "id": "txt_0574",
+      "reading_order": 645,
+      "section": "STRIP CIRCUIT - HEATER",
+      "bbox": {
+        "l": 242.3567,
+        "t": 61.93799999999999,
+        "r": 350.0326999999999,
+        "b": 55.09089075630254
+      },
+      "content": "Figure 2 - Heater Strip Circuit",
+      "caption_for": "fig_0058"
+    }
+  ],
+  "page_stats": {
+    "block_count": 52,
+    "text_blocks": 49,
+    "paragraphs": 19,
+    "headings": 6,
+    "list_items": 22,
+    "captions": 2,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 3,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

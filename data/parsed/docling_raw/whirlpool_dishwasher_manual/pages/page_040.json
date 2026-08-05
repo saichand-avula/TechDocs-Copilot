@@ -1,0 +1,544 @@
+{
+  "page": 40,
+  "document_id": "doc_16216d0c",
+  "page_bbox": {
+    "width": 612.0,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0074",
+      "reading_order": 828,
+      "section": "STRIP CIRCUIT - WASH PUMP WASH PUMP",
+      "bbox": {
+        "l": 61.466026306152344,
+        "t": 45.01287841796875,
+        "r": 70.53797149658203,
+        "b": 35.88330078125
+      },
+      "image_path": "figures/figure_0074.png",
+      "previous_block_id": "txt_0739",
+      "next_block_id": "txt_0740"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0740",
+      "reading_order": 829,
+      "section": "STRIP CIRCUIT - WASH PUMP WASH PUMP",
+      "bbox": {
+        "l": 61.6631,
+        "t": 44.86829999999998,
+        "r": 77.9687,
+        "b": 32.765719354838666
+      },
+      "content": "n"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0741",
+      "reading_order": 830,
+      "section": "For Service Technician Use Only",
+      "bbox": {
+        "l": 166.5444,
+        "t": 730.505,
+        "r": 428.06639999999993,
+        "b": 715.7313010526316
+      },
+      "content": "For Service Technician Use Only",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "id": "txt_0742",
+      "reading_order": 831,
+      "section": "DANGER",
+      "bbox": {
+        "l": 130.5568,
+        "t": 700.496944,
+        "r": 222.8256244,
+        "b": 682.9559012833168
+      },
+      "content": "DANGER",
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "id": "fig_0075",
+      "reading_order": 832,
+      "section": "DANGER",
+      "bbox": {
+        "l": 137.13597106933594,
+        "t": 674.7232208251953,
+        "r": 178.08738708496094,
+        "b": 629.6189880371094
+      },
+      "image_path": "figures/figure_0075.png",
+      "previous_block_id": "txt_0742",
+      "next_block_id": "txt_0743"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0743",
+      "reading_order": 833,
+      "section": "Electrical Shock Hazard",
+      "bbox": {
+        "l": 107.5067,
+        "t": 615.3082318,
+        "r": 218.28009379999995,
+        "b": 606.6307174112267
+      },
+      "content": "Electrical Shock Hazard",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0744",
+      "reading_order": 834,
+      "section": "Electrical Shock Hazard",
+      "bbox": {
+        "l": 46.121161699999995,
+        "t": 600.1645768000001,
+        "r": 253.5013043,
+        "b": 581.2284574112267
+      },
+      "content": "Only authorized technicians should perform diagnostic voltage measurements."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0745",
+      "reading_order": 835,
+      "section": "Electrical Shock Hazard",
+      "bbox": {
+        "l": 46.121161699999995,
+        "t": 574.7623168000001,
+        "r": 237.22431769999994,
+        "b": 555.8261974112268
+      },
+      "content": "After performing voltage measurements, disconnect power before servicing."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0746",
+      "reading_order": 836,
+      "section": "Electrical Shock Hazard",
+      "bbox": {
+        "l": 46.121161699999995,
+        "t": 549.3600568000002,
+        "r": 270.89208229999997,
+        "b": 530.4239374112268
+      },
+      "content": "Failure to follow these instructions can result in death or electrical shock."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0747",
+      "reading_order": 837,
+      "section": "Drain Pump",
+      "bbox": {
+        "l": 36.0,
+        "t": 502.47200000000004,
+        "r": 114.176,
+        "b": 490.29936134453783
+      },
+      "content": "Drain Pump",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0748",
+      "reading_order": 838,
+      "section": "Drain Pump",
+      "bbox": {
+        "l": 36.0,
+        "t": 472.68,
+        "r": 285.1038,
+        "b": 415.07210084033613
+      },
+      "content": "The drain pump is located under the tub and operates on 120 VAC. It is energized for the first 60 seconds of a new cycle and 90 seconds after the wash pump shuts down to remove any water in the dishwasher sump. The drain pump forces water out of the drain line. A check valve flapper on the drain pump prevents the dirty water from reentering the sump."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0749",
+      "reading_order": 839,
+      "section": "Drain Pump",
+      "bbox": {
+        "l": 36.0,
+        "t": 396.68,
+        "r": 289.59,
+        "b": 369.07210084033613
+      },
+      "content": "This test will check the wiring to the drain pump and the drain pump itself. The following items are part of the drain pump circuit."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0750",
+      "reading_order": 840,
+      "section": "Drain Pump",
+      "bbox": {
+        "l": 36.0,
+        "t": 364.90000000000003,
+        "r": 131.82,
+        "b": 355.5903225806452
+      },
+      "content": "  Harness/Connection"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0751",
+      "reading_order": 841,
+      "section": "Drain Pump",
+      "bbox": {
+        "l": 36.0,
+        "t": 351.90000000000003,
+        "r": 96.68,
+        "b": 342.5903225806452
+      },
+      "content": "  Drain Pump"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0752",
+      "reading_order": 842,
+      "section": "Drain Pump",
+      "bbox": {
+        "l": 36.0,
+        "t": 338.90000000000003,
+        "r": 105.36999999999999,
+        "b": 329.5903225806452
+      },
+      "content": "  Control Board"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0753",
+      "reading_order": 843,
+      "section": "Test Procedure",
+      "bbox": {
+        "l": 36.0,
+        "t": 309.944,
+        "r": 109.53600000000003,
+        "b": 300.8145210084034
+      },
+      "content": "Test Procedure",
+      "level": 2
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0754",
+      "reading_order": 844,
+      "section": "Test Procedure",
+      "bbox": {
+        "l": 42.0,
+        "t": 295.68,
+        "r": 285.23,
+        "b": 248.07210084033613
+      },
+      "content": "Verify that drain hose or drain path is not obstructed. Check for blockage from sump check valve to customer's plumbing. Check for plugged hoses, plugged garbage disposal, or disposal plug not knocked out. Repair as needed."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0755",
+      "reading_order": 845,
+      "section": "Test Procedure",
+      "bbox": {
+        "l": 42.0,
+        "t": 242.68000000000006,
+        "r": 279.79999999999995,
+        "b": 215.07210084033613
+      },
+      "content": "Check the drain pump and electrical connections by performing 'Service Mode Test' on page 2-3. The following steps assume that this step was unsuccessful."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0756",
+      "reading_order": 846,
+      "section": "STRIP CIRCUIT - DRAIN PUMP DRAIN PUMP",
+      "bbox": {
+        "l": 21.827,
+        "t": 211.39040679999994,
+        "r": 181.704,
+        "b": 195.13682100840333
+      },
+      "content": "STRIP CIRCUIT - DRAIN PUMP DRAIN PUMP",
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "id": "fig_0076",
+      "reading_order": 847,
+      "section": "STRIP CIRCUIT - DRAIN PUMP DRAIN PUMP",
+      "bbox": {
+        "l": 34.447654724121094,
+        "t": 186.68316650390625,
+        "r": 558.8041381835938,
+        "b": 65.03155517578125
+      },
+      "image_path": "figures/figure_0076.png",
+      "previous_block_id": "txt_0756",
+      "next_block_id": "txt_0757"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0757",
+      "reading_order": 848,
+      "section": "STRIP CIRCUIT - DRAIN PUMP DRAIN PUMP",
+      "bbox": {
+        "l": 235.0291,
+        "t": 57.43799999999999,
+        "r": 361.3261,
+        "b": 50.59089075630254
+      },
+      "content": "Figure 2 - Drain Pump Strip Circuit"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0758",
+      "reading_order": 849,
+      "section": "STRIP CIRCUIT - DRAIN PUMP DRAIN PUMP",
+      "bbox": {
+        "l": 309.0,
+        "t": 706.82,
+        "r": 487.8100000000002,
+        "b": 699.2121008403361
+      },
+      "content": "Unplug dishwasher or disconnect power."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0759",
+      "reading_order": 850,
+      "section": "STRIP CIRCUIT - DRAIN PUMP DRAIN PUMP",
+      "bbox": {
+        "l": 309.0,
+        "t": 693.82,
+        "r": 539.4100000000002,
+        "b": 676.2121008403361
+      },
+      "content": "Remove access panel. Remove control board cover to access control board."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0760",
+      "reading_order": 851,
+      "section": "STRIP CIRCUIT - DRAIN PUMP DRAIN PUMP",
+      "bbox": {
+        "l": 309.0,
+        "t": 670.82,
+        "r": 555.3900000000002,
+        "b": 643.2121008403361
+      },
+      "content": "Lay the dishwasher on its back. Use a small flat-blade screwdriver to unclip snaps around the drip-pan. Remove drip-pan/float switch to access under tub components."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0761",
+      "reading_order": 852,
+      "section": "STRIP CIRCUIT - DRAIN PUMP DRAIN PUMP",
+      "bbox": {
+        "l": 309.0,
+        "t": 637.82,
+        "r": 503.4237,
+        "b": 630.2121008403361
+      },
+      "content": "Unplug connector CON2 from control board."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0762",
+      "reading_order": 853,
+      "section": "STRIP CIRCUIT - DRAIN PUMP DRAIN PUMP",
+      "bbox": {
+        "l": 309.0,
+        "t": 624.82,
+        "r": 557.2500000000001,
+        "b": 607.2121008403361
+      },
+      "content": "Check the drain motor-using an ohmmeter, measure the resistance between CON2-1 and CON1-1."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0763",
+      "reading_order": 854,
+      "section": "STRIP CIRCUIT - DRAIN PUMP DRAIN PUMP",
+      "bbox": {
+        "l": 317.0,
+        "t": 604.04,
+        "r": 538.0100000000001,
+        "b": 586.2121008403361
+      },
+      "content": "¾ ¾ If the resistance is between 25-35 ohms, the drain motor and harness are good. Go to step 8."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0764",
+      "reading_order": 855,
+      "section": "STRIP CIRCUIT - DRAIN PUMP DRAIN PUMP",
+      "bbox": {
+        "l": 317.0,
+        "t": 583.04,
+        "r": 532.2000000000003,
+        "b": 573.7303225806452
+      },
+      "content": "¾ ¾ If far outside the range, replace the drain pump."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0765",
+      "reading_order": 856,
+      "section": "STRIP CIRCUIT - DRAIN PUMP DRAIN PUMP",
+      "bbox": {
+        "l": 317.0,
+        "t": 571.04,
+        "r": 556.0900000000001,
+        "b": 544.2121008403361
+      },
+      "content": "¾ ¾ If an open circuit is detected, check connections and harness continuity between control and drain pump. If good, replace the drain pump."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0766",
+      "reading_order": 857,
+      "section": "STRIP CIRCUIT - DRAIN PUMP DRAIN PUMP",
+      "bbox": {
+        "l": 309.0,
+        "t": 538.82,
+        "r": 462.4307,
+        "b": 531.2121008403361
+      },
+      "content": "Reconnect CON2 to control board."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0767",
+      "reading_order": 858,
+      "section": "STRIP CIRCUIT - DRAIN PUMP DRAIN PUMP",
+      "bbox": {
+        "l": 309.0,
+        "t": 525.82,
+        "r": 543.96,
+        "b": 498.2121008403361
+      },
+      "content": "Set voltmeter to AC. Connect red lead to CON2-1 and black lead to and CON1-1 on the control board. Plug in dishwasher or reconnect power."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0768",
+      "reading_order": 859,
+      "section": "STRIP CIRCUIT - DRAIN PUMP DRAIN PUMP",
+      "bbox": {
+        "l": 304.0,
+        "t": 492.82,
+        "r": 554.8500000000003,
+        "b": 475.2121008403361
+      },
+      "content": "Start the Service Mode Test and at step-5 measure for AC out of the control between CON2-1 and CON1-1."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0769",
+      "reading_order": 860,
+      "section": "STRIP CIRCUIT - DRAIN PUMP DRAIN PUMP",
+      "bbox": {
+        "l": 321.0,
+        "t": 469.82,
+        "r": 552.8400000000001,
+        "b": 452.2121008403361
+      },
+      "content": "IMPORTANT : The Drain Motor must be connected to the control board to measure voltage accurately!"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0770",
+      "reading_order": 861,
+      "section": "STRIP CIRCUIT - DRAIN PUMP DRAIN PUMP",
+      "bbox": {
+        "l": 317.0,
+        "t": 449.04,
+        "r": 557.7500000000002,
+        "b": 431.2121008403361
+      },
+      "content": "¾ ¾ If no AC voltage is measured, replace the control board and retest."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0771",
+      "reading_order": 862,
+      "section": "STRIP CIRCUIT - DRAIN PUMP DRAIN PUMP",
+      "bbox": {
+        "l": 317.0,
+        "t": 428.04,
+        "r": 551.7300000000001,
+        "b": 410.2121008403361
+      },
+      "content": "¾ ¾ If 120 VAC is measured and drain pump is running, go to step 11."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0772",
+      "reading_order": 863,
+      "section": "STRIP CIRCUIT - DRAIN PUMP DRAIN PUMP",
+      "bbox": {
+        "l": 304.0,
+        "t": 404.82,
+        "r": 487.9900000000001,
+        "b": 397.2121008403361
+      },
+      "content": "Unplug dishwasher or disconnect power."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0773",
+      "reading_order": 864,
+      "section": "STRIP CIRCUIT - DRAIN PUMP DRAIN PUMP",
+      "bbox": {
+        "l": 304.0,
+        "t": 391.82,
+        "r": 455.07000000000033,
+        "b": 384.2121008403361
+      },
+      "content": "Reassemble all parts and panels."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0774",
+      "reading_order": 865,
+      "section": "STRIP CIRCUIT - DRAIN PUMP DRAIN PUMP",
+      "bbox": {
+        "l": 304.0,
+        "t": 378.82,
+        "r": 546.4600000000003,
+        "b": 361.2121008403361
+      },
+      "content": "Plug in dishwasher or reconnect power and run Service Mode to verify repair."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0077",
+      "reading_order": 866,
+      "section": "STRIP CIRCUIT - DRAIN PUMP DRAIN PUMP",
+      "bbox": {
+        "l": 308.9477233886719,
+        "t": 357.0885009765625,
+        "r": 545.7833251953125,
+        "b": 223.69830322265625
+      },
+      "image_path": "figures/figure_0077.png",
+      "previous_block_id": "txt_0774",
+      "next_block_id": "txt_0775"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0775",
+      "reading_order": 867,
+      "section": "STRIP CIRCUIT - DRAIN PUMP DRAIN PUMP",
+      "bbox": {
+        "l": 390.2898,
+        "t": 220.558,
+        "r": 471.2358,
+        "b": 213.71089075630255
+      },
+      "content": "Figure 1 - Drain Pump"
+    }
+  ]
+}

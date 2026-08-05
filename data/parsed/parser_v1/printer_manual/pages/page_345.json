@@ -1,0 +1,231 @@
+{
+  "page": 345,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_2895",
+      "reading_order": 3887,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 122.0,
+        "t": 733.87,
+        "r": 550.9000100000003,
+        "b": 708.7
+      },
+      "content": "▲ Locate the eMMC component on the formatter, and then pull it straight off of the formatter to remove it."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2896",
+      "reading_order": 3888,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 100.0,
+        "t": 433.7394,
+        "r": 317.97,
+        "b": 422.14939999999996
+      },
+      "content": "Remove the dual in-line memory module (DIMM)."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0956",
+      "reading_order": 3889,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 143.25514778178186,
+        "t": 686.8236083984375,
+        "r": 560.6967417791861,
+        "b": 449.4073486328125
+      },
+      "image_path": "figures/figure_0956.png",
+      "caption": "Remove the eMMC",
+      "figure_number": "Figure 1-529",
+      "image_hash": "d56cf28757004aa2fcbe6370d24224cdbde88e578d062497b7539ca978b00d36",
+      "width": 418,
+      "height": 238,
+      "previous_block_id": "txt_2896",
+      "next_block_id": "txt_2897",
+      "caption_id": "txt_2897"
+    },
+    {
+      "type": "caption",
+      "id": "txt_2897",
+      "reading_order": 3890,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 144.00004,
+        "t": 699.29,
+        "r": 274.8900399999999,
+        "b": 687.7
+      },
+      "content": "Figure 1-529  Remove the eMMC",
+      "caption_for": "fig_0956"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0957",
+      "reading_order": 3891,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 105.98332605465401,
+        "t": 412.4840087890625,
+        "r": 120.22518728114822,
+        "b": 398.58270263671875
+      },
+      "image_path": "figures/figure_0957.png",
+      "caption": "Remove the eMMC",
+      "decorative": true,
+      "width": 14,
+      "height": 13,
+      "figure_number": "Figure 1-529",
+      "image_hash": "74d8976608a27ae521032696d1ed3c393a3592e6c270d85f4372aa4741bfbca6",
+      "previous_block_id": "txt_2897",
+      "next_block_id": "txt_2898"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0958",
+      "reading_order": 3892,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 105.90507767329525,
+        "t": 376.9562683105469,
+        "r": 117.92171385571471,
+        "b": 363.7284240722656
+      },
+      "image_path": "figures/figure_0958.png",
+      "decorative": true,
+      "width": 12,
+      "height": 13,
+      "image_hash": "76a797e945a5d29bcadc9d33add0ce9052d382e80cc56c6d49c64e1a810e1b03",
+      "previous_block_id": "txt_2897",
+      "next_block_id": "txt_2898"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_2898",
+      "reading_order": 3893,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 122.0,
+        "t": 404.85439,
+        "r": 159.75,
+        "b": 393.26439000000005
+      },
+      "content": "CAUTION:",
+      "severity": "caution"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_2899",
+      "reading_order": 3894,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 188.61,
+        "t": 404.8544,
+        "r": 265.09,
+        "b": 393.2644
+      },
+      "content": "ESD sensitive part."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0959",
+      "reading_order": 3895,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 168.8995696466651,
+        "t": 409.5252685546875,
+        "r": 188.6932759247282,
+        "b": 387.48846435546875
+      },
+      "image_path": "figures/figure_0959.png",
+      "decorative": true,
+      "width": 19,
+      "height": 22,
+      "image_hash": "b6a783f7c8e2829a12dcc73455587d2922bfd20e7abccb09fedae050d03e976d",
+      "previous_block_id": "txt_2899",
+      "next_block_id": "txt_2900"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2900",
+      "reading_order": 3896,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 122.0,
+        "t": 377.23940000000005,
+        "r": 517.2500000000002,
+        "b": 365.6494
+      },
+      "content": "NOTE: The M506/E50045/M507/E50145 printers use a Slim dual in-line memory module (DIMM)."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2901",
+      "reading_order": 3897,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 122.0,
+        "t": 354.7394,
+        "r": 536.6899900000005,
+        "b": 331.14939999999996
+      },
+      "content": "M506/E50045/M507/E50145 only: Locate the DIMM component on the formatter, and then pull it straight off of the formatter to remove it."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0960",
+      "reading_order": 3898,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 142.48262326904737,
+        "t": 308.5039367675781,
+        "r": 432.63532341003673,
+        "b": 91.24322509765625
+      },
+      "image_path": "figures/figure_0960.png",
+      "caption": "Remove the DIMM (M506/E50045/M507/E50145)",
+      "figure_number": "Figure 1-530",
+      "image_hash": "b82bd6281d85838efa4fe0de3f88149bb0fa7ff7fb8b55bd74bddc5b8fb7f225",
+      "width": 291,
+      "height": 218,
+      "previous_block_id": "txt_2901",
+      "next_block_id": "txt_2902",
+      "caption_id": "txt_2902"
+    },
+    {
+      "type": "caption",
+      "id": "txt_2902",
+      "reading_order": 3899,
+      "section": "CAUTION:",
+      "bbox": {
+        "l": 144.00002,
+        "t": 321.7394,
+        "r": 400.7400200000001,
+        "b": 310.14939999999996
+      },
+      "content": "Figure 1-530  Remove the DIMM (M506/E50045/M507/E50145)",
+      "caption_for": "fig_0960"
+    }
+  ],
+  "page_stats": {
+    "block_count": 13,
+    "text_blocks": 8,
+    "paragraphs": 1,
+    "headings": 0,
+    "list_items": 4,
+    "captions": 2,
+    "admonitions": 1,
+    "references": 0,
+    "figures": 5,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

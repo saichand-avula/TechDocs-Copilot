@@ -1,0 +1,180 @@
+{
+  "page": 38,
+  "document_id": "doc_f7e949ab",
+  "page_bbox": {
+    "width": 612.0,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "paragraph",
+      "id": "txt_0509",
+      "reading_order": 553,
+      "section": "4.2 Service Menu",
+      "bbox": {
+        "l": 149.25,
+        "t": 702.75375,
+        "r": 407.8125,
+        "b": 689.99625
+      },
+      "content": "11. Turn the monitor off, then power the monitor on again."
+    },
+    {
+      "type": "admonition",
+      "id": "txt_0510",
+      "reading_order": 554,
+      "section": "4.2 Service Menu",
+      "bbox": {
+        "l": 154.5,
+        "t": 675.75375,
+        "r": 538.9880999999997,
+        "b": 635.99625
+      },
+      "content": "Note: The monitor must be powered off upon selecting  'Done' to save any changes into the monitor, and then the changes made to the Power on defaults will be in effect next time the unit is powered up.",
+      "severity": "note"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_0511",
+      "reading_order": 555,
+      "section": "4.2 Service Menu",
+      "bbox": {
+        "l": 154.5,
+        "t": 624.00375,
+        "r": 539.1312000000003,
+        "b": 584.24625
+      },
+      "content": "Note: If you do not select 'YES' on save current values or back to factory defaults as power-on  default,  the  monitor  will  not  save  any  changes  and  it  will  be automatically powered off upon selecting 'Done' to exit Service menu screen.",
+      "severity": "note"
+    },
+    {
+      "type": "table",
+      "id": "tbl_0013",
+      "reading_order": 556,
+      "section": "4.2 Service Menu",
+      "bbox": {
+        "l": 142.1793670654297,
+        "t": 561.4569244384766,
+        "r": 540.0560913085938,
+        "b": 278.8345947265625
+      },
+      "markdown": "Table 9. Service menu\n\n| Menu Item                                        | Response                                                                                                                           |\n|--------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|\n| Save Current Values as Power-On Default          | YES, NO                                                                                                                            |\n| Save Factory Default Setting as Power-On Default | YES, NO                                                                                                                            |\n| Alarm Suspend                                    | On, Off                                                                                                                            |\n| Alarm Silence Period                             | 30, 60, 90, 120, 180 sec                                                                                                           |\n| Audible Alarm Type                               | GN924, IEC60601-1-8                                                                                                                |\n| AC Line Frequency                                | 50Hz, 60Hz                                                                                                                         |\n| Language                                         | Chinese, Danish, Dutch, English, Finnish, French, German, Greek, Italian, Norwegian, Polish, Portuguese, Russian, Spanish, Swedish |\n| NIBP Test Mode                                   | Activate NIBP Test Mode screen (see Table 11)                                                                                      |\n| System Information                               | Activate System Information screen (see Table 12)                                                                                  |\n| Done                                             | The monitor will be powered off upon selecting 'Done', then any changes will be in effect next time the unit is powered up.        |",
+      "caption_id": "txt_0512",
+      "title": "Table 9. Service menu",
+      "table_number": "Table 9",
+      "rows": 11,
+      "cols": 2
+    },
+    {
+      "type": "caption",
+      "id": "txt_0512",
+      "reading_order": 557,
+      "section": "4.2 Service Menu",
+      "bbox": {
+        "l": 282.0,
+        "t": 573.0525,
+        "r": 394.3125,
+        "b": 559.6875
+      },
+      "content": "Table 9. Service menu",
+      "caption_for": "tbl_0013"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0513",
+      "reading_order": 558,
+      "section": "Save Current Values as Power-On Default",
+      "bbox": {
+        "l": 72.0,
+        "t": 264.8025,
+        "r": 280.3125,
+        "b": 251.4375
+      },
+      "content": "Save Current Values as Power-On Default",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0514",
+      "reading_order": 559,
+      "section": "Save Current Values as Power-On Default",
+      "bbox": {
+        "l": 146.25,
+        "t": 250.50374999999997,
+        "r": 534.6704999999998,
+        "b": 224.24625000000003
+      },
+      "content": "The current N5500 settings become the power-up defaults next time the unit is powered up."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0515",
+      "reading_order": 560,
+      "section": "Save Factory Default Setting as Power-On Default",
+      "bbox": {
+        "l": 72.0,
+        "t": 210.8025,
+        "r": 315.0414,
+        "b": 197.4375
+      },
+      "content": "Save Factory Default Setting as Power-On Default",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0516",
+      "reading_order": 561,
+      "section": "Save Factory Default Setting as Power-On Default",
+      "bbox": {
+        "l": 146.25,
+        "t": 196.50374999999997,
+        "r": 527.0629500000002,
+        "b": 170.24625000000003
+      },
+      "content": "The N5500 factory default settings become the power-up defaults next time the unit is powered up. See section 4.4 Factory Default Settings and Table 12."
+    },
+    {
+      "type": "heading",
+      "id": "txt_0517",
+      "reading_order": 562,
+      "section": "Alarm Suspend",
+      "bbox": {
+        "l": 72.0,
+        "t": 156.8025,
+        "r": 146.30339999999998,
+        "b": 143.4375
+      },
+      "content": "Alarm Suspend",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0518",
+      "reading_order": 563,
+      "section": "Alarm Suspend",
+      "bbox": {
+        "l": 146.25,
+        "t": 142.50374999999997,
+        "r": 542.0625,
+        "b": 75.74625000000003
+      },
+      "content": "If 'On' is chosen, the monitor may be able to invoke the Alarm Suspend mode by pressing and holding the Alarm silence/suspend switch for 2 seconds. Some institutions may wish to prevent Alarm Suspend from being invoked. If so, 'Off' should be selected. In this case, Alarm Suspend via the corresponding numeric parameter menus or the alarm/limits menu is also prevented from being invoked."
+    }
+  ],
+  "page_stats": {
+    "block_count": 11,
+    "text_blocks": 10,
+    "paragraphs": 4,
+    "headings": 3,
+    "list_items": 0,
+    "captions": 1,
+    "admonitions": 2,
+    "references": 0,
+    "figures": 0,
+    "tables": 1,
+    "toc_tables": 0
+  }
+}

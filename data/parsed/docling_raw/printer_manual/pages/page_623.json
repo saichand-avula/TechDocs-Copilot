@@ -1,0 +1,165 @@
+{
+  "page": 623,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_4692",
+      "reading_order": 6498,
+      "section": "6. Remove the formatter.",
+      "bbox": {
+        "l": 122.0,
+        "t": 732.29,
+        "r": 464.66000000000025,
+        "b": 720.7
+      },
+      "content": "Release one tab (callout 1), and then slide the guide out of the printer (callout 2)."
+    },
+    {
+      "type": "figure",
+      "id": "fig_1763",
+      "reading_order": 6499,
+      "section": "6. Remove the formatter.",
+      "bbox": {
+        "l": 127.76263934355386,
+        "t": 710.5388793945312,
+        "r": 142.42105252242516,
+        "b": 697.5685195922852
+      },
+      "image_path": "figures/figure_1763.png",
+      "decorative": true,
+      "width": 14,
+      "height": 12,
+      "image_hash": "6ddc14fae5c97fc2ddc652822307af1aafa4a823318be6921a15605ea36ce536",
+      "previous_block_id": "txt_4692",
+      "next_block_id": "txt_4693"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_4693",
+      "reading_order": 6500,
+      "section": "6. Remove the formatter.",
+      "bbox": {
+        "l": 144.0,
+        "t": 708.79,
+        "r": 181.75,
+        "b": 697.2
+      },
+      "content": "CAUTION:",
+      "severity": "caution"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_4694",
+      "reading_order": 6501,
+      "section": "6. Remove the formatter.",
+      "bbox": {
+        "l": 191.75,
+        "t": 708.79,
+        "r": 392.37999999999994,
+        "b": 697.2
+      },
+      "content": "Be careful, the tab (callout 1) can be easily broken."
+    },
+    {
+      "type": "figure",
+      "id": "fig_1764",
+      "reading_order": 6502,
+      "section": "6. Remove the formatter.",
+      "bbox": {
+        "l": 143.06512798188928,
+        "t": 674.5723114013672,
+        "r": 432.6076874940398,
+        "b": 456.2532958984375
+      },
+      "image_path": "figures/figure_1764.png",
+      "caption": "Remove the guide",
+      "figure_number": "Figure 1-1036",
+      "image_hash": "05a2e7e6cf12683ce4b63ba34b4034d461207d1d45881f3d94ca5693375e2064",
+      "width": 290,
+      "height": 219,
+      "previous_block_id": "txt_4694",
+      "next_block_id": "txt_4695",
+      "caption_id": "txt_4695"
+    },
+    {
+      "type": "caption",
+      "id": "txt_4695",
+      "reading_order": 6503,
+      "section": "6. Remove the formatter.",
+      "bbox": {
+        "l": 144.0,
+        "t": 686.29,
+        "r": 278.67000999999993,
+        "b": 674.7
+      },
+      "content": "Figure 1-1036  Remove the guide",
+      "caption_for": "fig_1764"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_4696",
+      "reading_order": 6504,
+      "section": "6. Remove the formatter.",
+      "bbox": {
+        "l": 122.0,
+        "t": 445.42,
+        "r": 545.48,
+        "b": 421.83
+      },
+      "content": "Use a small flat-blade screwdriver to gently pry the white-plastic door arm (callout 1) off of the grayplastic pressure-release link (callout 2) to release the door arm."
+    },
+    {
+      "type": "figure",
+      "id": "fig_1765",
+      "reading_order": 6505,
+      "section": "6. Remove the formatter.",
+      "bbox": {
+        "l": 142.93018174307,
+        "t": 399.9164733886719,
+        "r": 432.4287861173049,
+        "b": 182.30352783203125
+      },
+      "image_path": "figures/figure_1765.png",
+      "caption": "Release the pressure-release link",
+      "figure_number": "Figure 1-1037",
+      "image_hash": "be076272c4894d0607936cf61852f83dd8f4b0c90bde5171518a3eb9a82c4446",
+      "width": 289,
+      "height": 218,
+      "previous_block_id": "txt_4696",
+      "next_block_id": "txt_4697",
+      "caption_id": "txt_4697"
+    },
+    {
+      "type": "caption",
+      "id": "txt_4697",
+      "reading_order": 6506,
+      "section": "6. Remove the formatter.",
+      "bbox": {
+        "l": 144.00004,
+        "t": 412.42,
+        "r": 339.82003999999984,
+        "b": 400.83
+      },
+      "content": "Figure 1-1037  Release the pressure-release link",
+      "caption_for": "fig_1765"
+    }
+  ],
+  "page_stats": {
+    "block_count": 9,
+    "text_blocks": 6,
+    "paragraphs": 1,
+    "headings": 0,
+    "list_items": 2,
+    "captions": 2,
+    "admonitions": 1,
+    "references": 0,
+    "figures": 3,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

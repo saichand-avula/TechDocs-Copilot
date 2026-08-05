@@ -1,0 +1,38 @@
+{
+  "page": 111,
+  "document_id": "doc_27a62e0f",
+  "page_bbox": {
+    "width": 594.9600219726562,
+    "height": 842.52001953125
+  },
+  "blocks": [
+    {
+      "type": "paragraph",
+      "id": "txt_1437",
+      "reading_order": 1879,
+      "section": "IO BOARD",
+      "bbox": {
+        "l": 26.04,
+        "t": 792.44535953125,
+        "r": 42.7296,
+        "b": 791.5826731190363
+      },
+      "content": "7 CIRCUIT BOARDS AND DIAGRAMS"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0376",
+      "reading_order": 1880,
+      "section": "IO BOARD",
+      "bbox": {
+        "l": 64.33626075989388,
+        "t": 760.2302450414743,
+        "r": 536.1680129982782,
+        "b": 55.262828499043394
+      },
+      "image_path": "figures/figure_0376.png",
+      "previous_block_id": "txt_1437",
+      "next_block_id": "txt_1438"
+    }
+  ]
+}

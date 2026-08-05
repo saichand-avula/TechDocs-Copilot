@@ -1,0 +1,385 @@
+{
+  "page": 60,
+  "document_id": "doc_229deb31",
+  "page_bbox": {
+    "width": 595.219970703125,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0160",
+      "reading_order": 758,
+      "section": "7. 3 .6    Overheat Protection For Exhaust Temperature",
+      "bbox": {
+        "l": 55.67815786262175,
+        "t": 812.1849956512451,
+        "r": 88.30037080693458,
+        "b": 801.9515037536621
+      },
+      "image_path": "figures/figure_0160.png",
+      "previous_block_id": "txt_0557",
+      "next_block_id": "txt_0558"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0161",
+      "reading_order": 759,
+      "section": "7. 3 .6    Overheat Protection For Exhaust Temperature",
+      "bbox": {
+        "l": 54.60046619269997,
+        "t": 782.1324462890625,
+        "r": 570.2661075894322,
+        "b": 558.4736022949219
+      },
+      "image_path": "figures/figure_0161.png",
+      "previous_block_id": "txt_0557",
+      "next_block_id": "txt_0558"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0558",
+      "reading_order": 760,
+      "section": "7. 3 .7 The EEPROM Abnormality (Indoor or outdoor unit)",
+      "bbox": {
+        "l": 56.962,
+        "t": 538.5009428,
+        "r": 423.4311698499999,
+        "b": 524.649557
+      },
+      "content": "7. 3 .7 The EEPROM Abnormality (Indoor or outdoor unit)",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "id": "txt_0559",
+      "reading_order": 761,
+      "section": "Indoor Display",
+      "bbox": {
+        "l": 56.962,
+        "t": 513.3444152,
+        "r": 126.27181252999999,
+        "b": 504.091638
+      },
+      "content": "Indoor Display",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "id": "txt_0560",
+      "reading_order": 762,
+      "section": "Method of Malfunction Detection",
+      "bbox": {
+        "l": 56.96100117,
+        "t": 466.61089580000004,
+        "r": 115.76012561,
+        "b": 432.52750160000005
+      },
+      "content": "Method of Malfunction Detection",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0561",
+      "reading_order": 763,
+      "section": "Method of Malfunction Detection",
+      "bbox": {
+        "l": 56.962,
+        "t": 416.7737152,
+        "r": 115.76112444,
+        "b": 407.520938
+      },
+      "content": "Malfunction"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0562",
+      "reading_order": 764,
+      "section": "Method of Malfunction Detection",
+      "bbox": {
+        "l": 56.96200000000002,
+        "t": 405.22373122000005,
+        "r": 98.60721802000002,
+        "b": 395.97095402
+      },
+      "content": "Decision"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0563",
+      "reading_order": 765,
+      "section": "Method of Malfunction Detection",
+      "bbox": {
+        "l": 56.962,
+        "t": 393.7984152,
+        "r": 109.07895174000001,
+        "b": 384.545638
+      },
+      "content": "Conditions"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0564",
+      "reading_order": 766,
+      "section": "Supposed Causes",
+      "bbox": {
+        "l": 56.95948659999999,
+        "t": 367.95101520000003,
+        "r": 147.67391862999992,
+        "b": 345.773538
+      },
+      "content": "Supposed Causes",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0565",
+      "reading_order": 767,
+      "section": "Supposed Causes",
+      "bbox": {
+        "l": 149.8229,
+        "t": 368.1608514,
+        "r": 159.87470000000002,
+        "b": 358.1427274875
+      },
+      "content": "Ƶ"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0566",
+      "reading_order": 768,
+      "section": "Supposed Causes",
+      "bbox": {
+        "l": 147.0109,
+        "t": 355.2361514,
+        "r": 157.0627,
+        "b": 345.21802748749997
+      },
+      "content": "Ƶ"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0567",
+      "reading_order": 769,
+      "section": "Supposed Causes",
+      "bbox": {
+        "l": 169.8073,
+        "t": 367.95101520000003,
+        "r": 279.9263098399999,
+        "b": 358.698238
+      },
+      "content": "Faulty    EEPROM data"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0568",
+      "reading_order": 770,
+      "section": "Supposed Causes",
+      "bbox": {
+        "l": 166.9952,
+        "t": 355.0263152,
+        "r": 250.07787940000014,
+        "b": 345.773538
+      },
+      "content": "Faulty    EEPROM"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0569",
+      "reading_order": 771,
+      "section": "Supposed Causes",
+      "bbox": {
+        "l": 145.9932,
+        "t": 342.4314514,
+        "r": 160.9502784,
+        "b": 332.4133274875
+      },
+      "content": "Ƶ"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0570",
+      "reading_order": 772,
+      "section": "Supposed Causes",
+      "bbox": {
+        "l": 166.9352,
+        "t": 342.22161520000003,
+        "r": 277.1540928399999,
+        "b": 332.968838
+      },
+      "content": "Faulty    PCB"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0571",
+      "reading_order": 773,
+      "section": "Troubleshooting        * Caution",
+      "bbox": {
+        "l": 56.964017,
+        "t": 317.0930152000001,
+        "r": 205.98339103999993,
+        "b": 307.83945422
+      },
+      "content": "Troubleshooting        * Caution",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0572",
+      "reading_order": 774,
+      "section": "Troubleshooting        * Caution",
+      "bbox": {
+        "l": 208.2194,
+        "t": 317.0930152000001,
+        "r": 551.7929480800011,
+        "b": 307.840238
+      },
+      "content": "Be sure to turn off power switch before connect or disconnect connector,      or"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0573",
+      "reading_order": 775,
+      "section": "Troubleshooting        * Caution",
+      "bbox": {
+        "l": 202.71584670000001,
+        "t": 301.65406698000004,
+        "r": 346.0069996700003,
+        "b": 292.40128978000007
+      },
+      "content": "parts damage may be occurred."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0162",
+      "reading_order": 776,
+      "section": "Troubleshooting        * Caution",
+      "bbox": {
+        "l": 63.830691603597785,
+        "t": 282.6094970703125,
+        "r": 488.9479390265686,
+        "b": 98.7431640625
+      },
+      "image_path": "figures/figure_0162.png",
+      "previous_block_id": "txt_0573",
+      "next_block_id": "txt_0574"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0574",
+      "reading_order": 777,
+      "section": "Troubleshooting        * Caution",
+      "bbox": {
+        "l": 150.98985854,
+        "t": 513.3444152,
+        "r": 163.20255295,
+        "b": 504.091638
+      },
+      "content": "E4"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0575",
+      "reading_order": 778,
+      "section": "Troubleshooting        * Caution",
+      "bbox": {
+        "l": 163.2275237,
+        "t": 513.3444152,
+        "r": 166.0042711,
+        "b": 504.091638
+      },
+      "content": ":"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0576",
+      "reading_order": 779,
+      "section": "Troubleshooting        * Caution",
+      "bbox": {
+        "l": 147.06645430000003,
+        "t": 497.7865598,
+        "r": 164.28828116000005,
+        "b": 488.5337826
+      },
+      "content": "F12"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0577",
+      "reading_order": 780,
+      "section": "Troubleshooting        * Caution",
+      "bbox": {
+        "l": 171.0084094,
+        "t": 513.5542514,
+        "r": 180.99670940000001,
+        "b": 503.5361274875
+      },
+      "content": "˖"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0578",
+      "reading_order": 781,
+      "section": "Troubleshooting        * Caution",
+      "bbox": {
+        "l": 180.99670940000001,
+        "t": 513.3444152,
+        "r": 281.83658854000004,
+        "b": 504.091638
+      },
+      "content": "Indoor EEPROM error"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0579",
+      "reading_order": 782,
+      "section": "Troubleshooting        * Caution",
+      "bbox": {
+        "l": 174.22464200000002,
+        "t": 497.7865598,
+        "r": 279.9867553800001,
+        "b": 488.5337826
+      },
+      "content": "Outdoor EEPROM error"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0580",
+      "reading_order": 783,
+      "section": "Troubleshooting        * Caution",
+      "bbox": {
+        "l": 164.29427414000003,
+        "t": 497.996396,
+        "r": 174.28257414000004,
+        "b": 487.9782720875
+      },
+      "content": "˖"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0581",
+      "reading_order": 784,
+      "section": "Troubleshooting        * Caution",
+      "bbox": {
+        "l": 144.37860277000001,
+        "t": 466.61089580000004,
+        "r": 468.00351808999994,
+        "b": 457.3581186
+      },
+      "content": "the    Data    detected by the    EEPROM    are used to determine    MCU"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0582",
+      "reading_order": 785,
+      "section": "Troubleshooting        * Caution",
+      "bbox": {
+        "l": 142.76149700000002,
+        "t": 416.7737152,
+        "r": 462.88850966000064,
+        "b": 407.520938
+      },
+      "content": "when the    Data of EEPROM    is error or    the EEPROM    is damaged"
+    }
+  ]
+}

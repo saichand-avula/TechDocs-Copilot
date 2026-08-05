@@ -1,0 +1,287 @@
+{
+  "page": 78,
+  "document_id": "doc_27a62e0f",
+  "page_bbox": {
+    "width": 594.9600219726562,
+    "height": 842.52001953125
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_1024",
+      "reading_order": 1286,
+      "section": "Tools required",
+      "bbox": {
+        "l": 36.0,
+        "t": 787.84801953125,
+        "r": 120.36,
+        "b": 777.0644393785782
+      },
+      "content": "Tools required",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1025",
+      "reading_order": 1287,
+      "section": "Tools required",
+      "bbox": {
+        "l": 35.99999999999999,
+        "t": 769.2660195312501,
+        "r": 139.5,
+        "b": 714.8553344167461
+      },
+      "content": "M5.5 hex socket wrench 7mm open spanner Spacer kit Discharge Tool"
+    },
+    {
+      "type": "heading",
+      "id": "txt_1026",
+      "reading_order": 1288,
+      "section": "Adjusting the door microswitches",
+      "bbox": {
+        "l": 36.0,
+        "t": 696.16801953125,
+        "r": 225.35999999999999,
+        "b": 685.3844393785782
+      },
+      "content": "Adjusting the door microswitches",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1027",
+      "reading_order": 1289,
+      "section": "Adjusting the door microswitches",
+      "bbox": {
+        "l": 36.0,
+        "t": 667.2660195312501,
+        "r": 560.097,
+        "b": 646.2183344167462
+      },
+      "content": "Located on the door hinge brackets are 3 safety interlock microswitches, to prevent microwave emissions escaping when the oven door is opened:"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1028",
+      "reading_order": 1290,
+      "section": "Adjusting the door microswitches",
+      "bbox": {
+        "l": 72.00900000000001,
+        "t": 641.7060195312499,
+        "r": 560.5109999999999,
+        "b": 620.4153344167462
+      },
+      "content": " The primary microswitch (SW3), located on the left-hand side of the oven, breaks the electrical supply circuit to the  HV transformers."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1029",
+      "reading_order": 1291,
+      "section": "Adjusting the door microswitches",
+      "bbox": {
+        "l": 72.05399999999986,
+        "t": 615.9030195312499,
+        "r": 541.197,
+        "b": 594.6123344167462
+      },
+      "content": " The secondary microswitch (SW2), located on the right-hand side of the oven (outer), breaks the microwave circuit if  the primary (SW3) fails."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1030",
+      "reading_order": 1292,
+      "section": "Adjusting the door microswitches",
+      "bbox": {
+        "l": 72.06299999999996,
+        "t": 590.21701953125,
+        "r": 549.3870000000001,
+        "b": 568.9263344167463
+      },
+      "content": " The monitor microswitch (SW1), located on the right-hand side of the oven (inner), will short out the microwave circuit  blowing the F5 / F6 fuse, if the secondary microswitch (SW2) fails closed circuit."
+    },
+    {
+      "type": "admonition",
+      "id": "txt_1031",
+      "reading_order": 1293,
+      "severity": "important",
+      "content": "IMPORTANT: In the event that the monitor switch (SW1) causes the microwave circuit F6 / F7 fuse to blow, the secondary (SW2) and monitor (SW1) microswitches must be replaced due to exposure to high short-circuit currents.",
+      "section": "IMPORTANT:",
+      "bbox": {
+        "l": 36.10799999999998,
+        "t": 551.5710195312502,
+        "r": 95.21099999999998,
+        "b": 543.3837304760583
+      }
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1033",
+      "reading_order": 1295,
+      "section": "IMPORTANT:",
+      "bbox": {
+        "l": 36.16200000000049,
+        "t": 497.68801953125,
+        "r": 559.0620000000006,
+        "b": 476.6403344167462
+      },
+      "content": "The purpose of the following adjustment procedure is to set the interlock to switch off the microwave circuit when the door is opened more than 5 mm and for the microwave circuit to operate when the door is closed, and the door seal expands."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1034",
+      "reading_order": 1296,
+      "section": "IMPORTANT:",
+      "bbox": {
+        "l": 36.0,
+        "t": 456.42601953125,
+        "r": 559.008,
+        "b": 435.4953344167462
+      },
+      "content": "Open the appliance door and position the two white 3mm spacers over the top corners of the door seal. Then carefully close the door ensuring the spacers are still in position."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1035",
+      "reading_order": 1297,
+      "section": "IMPORTANT:",
+      "bbox": {
+        "l": 36.0,
+        "t": 252.30591953124997,
+        "r": 251.46899999999997,
+        "b": 244.11863047605823
+      },
+      "content": "Loosen the interlock adjuster and locking nuts."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1036",
+      "reading_order": 1298,
+      "section": "IMPORTANT:",
+      "bbox": {
+        "l": 36.00899999999996,
+        "t": 239.46291953125,
+        "r": 409.02299999999997,
+        "b": 231.27563047605827
+      },
+      "content": "Loosen the two flange head screws just enough to let the microswitch bracket move."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1037",
+      "reading_order": 1299,
+      "section": "IMPORTANT:",
+      "bbox": {
+        "l": 36.0,
+        "t": 226.50291953124997,
+        "r": 492.2819999999999,
+        "b": 218.31563047605823
+      },
+      "content": "Pull up the microswitch bracket until is sits against the underside of the insulation (as far as it will travel)."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1038",
+      "reading_order": 1300,
+      "section": "IMPORTANT:",
+      "bbox": {
+        "l": 35.98199999999997,
+        "t": 213.78591953125,
+        "r": 325.24199999999996,
+        "b": 205.59863047605825
+      },
+      "content": "Screw the interlock adjuster to begin closing the switch actuator."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1039",
+      "reading_order": 1301,
+      "section": "IMPORTANT:",
+      "bbox": {
+        "l": 35.98199999999997,
+        "t": 200.94291953125003,
+        "r": 448.254,
+        "b": 192.7556304760583
+      },
+      "content": "As soon as the primary door switch (SW3) closes, nip up the two flange head screws to 2.1Nm."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1040",
+      "reading_order": 1302,
+      "section": "IMPORTANT:",
+      "bbox": {
+        "l": 35.99100000000004,
+        "t": 188.22591953124993,
+        "r": 438.77700000000004,
+        "b": 180.0386304760582
+      },
+      "content": "Tighten the interlock adjuster locking nut against the bracket using a 7mm spanner to 1Nm."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0210",
+      "reading_order": 1303,
+      "section": "IMPORTANT:",
+      "bbox": {
+        "l": 35.01087301812808,
+        "t": 417.5384360844201,
+        "r": 222.70026099222454,
+        "b": 274.3968387797987
+      },
+      "image_path": "figures/figure_0210.png",
+      "previous_block_id": "txt_1040",
+      "image_hash": "0d8185f164492c9709cdc2285aace16da177978b18096ca673cf081a69773a1d",
+      "width": 188,
+      "height": 143
+    },
+    {
+      "type": "figure",
+      "id": "fig_0211",
+      "reading_order": 1304,
+      "section": "IMPORTANT:",
+      "bbox": {
+        "l": 231.64134110922794,
+        "t": 417.61889561802184,
+        "r": 397.12526239728663,
+        "b": 272.4403728046593
+      },
+      "image_path": "figures/figure_0211.png",
+      "previous_block_id": "txt_1040",
+      "image_hash": "f484f743014bec09a6978fc770be0a34cdc7864f92ed9e0df28417a962779f3a",
+      "width": 165,
+      "height": 145
+    },
+    {
+      "type": "figure",
+      "id": "fig_0212",
+      "reading_order": 1305,
+      "section": "IMPORTANT:",
+      "bbox": {
+        "l": 407.66227409486197,
+        "t": 417.34521730300725,
+        "r": 519.2710770899821,
+        "b": 274.0116822254686
+      },
+      "image_path": "figures/figure_0212.png",
+      "previous_block_id": "txt_1040",
+      "image_hash": "80677101a102351cb2f9891fd633014e97fea6df1beefb7e048c002c4c626cae",
+      "width": 111,
+      "height": 144
+    }
+  ],
+  "page_stats": {
+    "block_count": 19,
+    "text_blocks": 16,
+    "paragraphs": 3,
+    "headings": 2,
+    "list_items": 10,
+    "captions": 0,
+    "admonitions": 1,
+    "references": 0,
+    "figures": 3,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

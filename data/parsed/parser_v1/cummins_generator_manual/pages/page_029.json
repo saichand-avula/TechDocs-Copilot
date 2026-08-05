@@ -1,0 +1,92 @@
+{
+  "page": 29,
+  "document_id": "doc_c203a4f3",
+  "page_bbox": {
+    "width": 612.3599853515625,
+    "height": 792.4320068359375
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0014",
+      "reading_order": 364,
+      "section": "Generator Set Bearing",
+      "bbox": {
+        "l": 46.11724440714198,
+        "t": 739.9298126574399,
+        "r": 290.63044635944215,
+        "b": 469.6841257946857
+      },
+      "image_path": "figures/figure_0014.png",
+      "next_block_id": "txt_0350",
+      "caption_id": "txt_0350",
+      "caption": ".  CHECKING GENERATOR SET BEARING AND BRUSH BLOCK",
+      "figure_number": "FIGURE 5-6",
+      "image_hash": "ada0faa32c8074b07ab28a876dbbc4d57bde859e80c5fa47bbb914a4247b5f6d",
+      "width": 245,
+      "height": 270
+    },
+    {
+      "type": "caption",
+      "id": "txt_0350",
+      "reading_order": 365,
+      "section": "Generator Set Bearing",
+      "bbox": {
+        "l": 66.4441,
+        "t": 446.0398068359375,
+        "r": 270.65709999999996,
+        "b": 426.0817569398876
+      },
+      "content": "FIGURE 5-6.  CHECKING GENERATOR SET BEARING AND BRUSH BLOCK",
+      "caption_for": "fig_0014"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0015",
+      "reading_order": 366,
+      "section": "Generator Set Bearing",
+      "bbox": {
+        "l": 319.78668542962305,
+        "t": 739.9570644526634,
+        "r": 563.959767393147,
+        "b": 401.3379058114516
+      },
+      "image_path": "figures/figure_0015.png",
+      "previous_block_id": "txt_0350",
+      "next_block_id": "txt_0351",
+      "caption_id": "txt_0351",
+      "caption": ".  BRUSH REPLACEMENT",
+      "figure_number": "FIGURE 5-7",
+      "image_hash": "574ca7c3a5da0d8f078ffa3c889a403e0290794373164c4492e8c89f1d34a1a0",
+      "width": 244,
+      "height": 339
+    },
+    {
+      "type": "caption",
+      "id": "txt_0351",
+      "reading_order": 367,
+      "section": "Generator Set Bearing",
+      "bbox": {
+        "l": 353.2536,
+        "t": 387.4761068359375,
+        "r": 530.6666000000007,
+        "b": 378.46005693988764
+      },
+      "content": "FIGURE 5-7.  BRUSH REPLACEMENT",
+      "caption_for": "fig_0015"
+    }
+  ],
+  "page_stats": {
+    "block_count": 4,
+    "text_blocks": 2,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 0,
+    "captions": 2,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 2,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

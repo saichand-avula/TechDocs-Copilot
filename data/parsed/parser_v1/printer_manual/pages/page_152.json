@@ -1,0 +1,105 @@
+{
+  "page": 152,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0394",
+      "reading_order": 1848,
+      "section": "Post service test",
+      "bbox": {
+        "l": 133.43024410948064,
+        "t": 717.874755859375,
+        "r": 544.5097208096388,
+        "b": 426.8079528808594
+      },
+      "image_path": "figures/figure_0394.png",
+      "caption": "Release the support shaft",
+      "figure_number": "Figure 1-193",
+      "image_hash": "ca07d4e4f2c9ee5189ae4a10e74a2f317e7919e4c9d37956cce13a5f86b93682",
+      "width": 412,
+      "height": 291,
+      "next_block_id": "txt_1432",
+      "caption_id": "txt_1432"
+    },
+    {
+      "type": "caption",
+      "id": "txt_1432",
+      "reading_order": 1849,
+      "section": "Post service test",
+      "bbox": {
+        "l": 135.0,
+        "t": 732.29,
+        "r": 295.1699899999999,
+        "b": 720.7
+      },
+      "content": "Figure 1-193  Release the support shaft",
+      "caption_for": "fig_0394"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_1433",
+      "reading_order": 1850,
+      "section": "Post service test",
+      "bbox": {
+        "l": 113.0,
+        "t": 415.6284,
+        "r": 242.01999999999998,
+        "b": 404.03839999999997
+      },
+      "content": "Remove the support shaft."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0395",
+      "reading_order": 1851,
+      "section": "Post service test",
+      "bbox": {
+        "l": 133.61172300818214,
+        "t": 382.4403076171875,
+        "r": 423.97237884156533,
+        "b": 166.12353515625
+      },
+      "image_path": "figures/figure_0395.png",
+      "caption": "Remove the support shaft",
+      "figure_number": "Figure 1-194",
+      "image_hash": "dd1eee62d8eadb207ef30106cbe0c208fff6a93acd9d15aeca14aa5ee345768e",
+      "width": 290,
+      "height": 216,
+      "previous_block_id": "txt_1433",
+      "next_block_id": "txt_1434",
+      "caption_id": "txt_1434"
+    },
+    {
+      "type": "caption",
+      "id": "txt_1434",
+      "reading_order": 1852,
+      "section": "Post service test",
+      "bbox": {
+        "l": 135.00002,
+        "t": 394.6284,
+        "r": 296.48001999999997,
+        "b": 383.03839999999997
+      },
+      "content": "Figure 1-194  Remove the support shaft",
+      "caption_for": "fig_0395"
+    }
+  ],
+  "page_stats": {
+    "block_count": 5,
+    "text_blocks": 3,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 1,
+    "captions": 2,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 2,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "page": 265,
+  "document_id": "doc_7e4fe272",
+  "page_bbox": {
+    "width": 594.7200317382812,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_2234",
+      "reading_order": 2995,
+      "section": "Post service test",
+      "bbox": {
+        "l": 122.0,
+        "t": 732.29,
+        "r": 550.1899700000002,
+        "b": 708.7
+      },
+      "content": "Beginning at the right side of the control-panel cover, carefully release five tabs along the top edge of the cover."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0733",
+      "reading_order": 2996,
+      "section": "Post service test",
+      "bbox": {
+        "l": 127.70376813177239,
+        "t": 698.8568420410156,
+        "r": 140.6680020497345,
+        "b": 685.2830429077148
+      },
+      "image_path": "figures/figure_0733.png",
+      "decorative": true,
+      "width": 12,
+      "height": 13,
+      "image_hash": "cdeef53bb530eac912a1cb6a2414b38269f6787e9707e911974a467f0e1a5795",
+      "previous_block_id": "txt_2234",
+      "next_block_id": "txt_2235"
+    },
+    {
+      "type": "admonition",
+      "id": "txt_2235",
+      "reading_order": 2997,
+      "section": "Post service test",
+      "bbox": {
+        "l": 144.0,
+        "t": 696.79,
+        "r": 509.96000000000004,
+        "b": 685.2
+      },
+      "content": "NOTE: The thin black-plastic cover will separate from the white-plastic control-panel base.",
+      "severity": "note"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0734",
+      "reading_order": 2998,
+      "section": "Post service test",
+      "bbox": {
+        "l": 142.95723809791463,
+        "t": 662.2472229003906,
+        "r": 432.8342959045707,
+        "b": 407.5751647949219
+      },
+      "image_path": "figures/figure_0734.png",
+      "caption": "Release five tabs",
+      "figure_number": "Figure 1-397",
+      "image_hash": "b67cbe9d40a2b9c584b0548396940e92439d2f918d24b65f7c3af3a10c2145f1",
+      "width": 290,
+      "height": 254,
+      "previous_block_id": "txt_2235",
+      "next_block_id": "txt_2236",
+      "caption_id": "txt_2236"
+    },
+    {
+      "type": "caption",
+      "id": "txt_2236",
+      "reading_order": 2999,
+      "section": "Post service test",
+      "bbox": {
+        "l": 144.0,
+        "t": 674.29,
+        "r": 268.33001,
+        "b": 662.7
+      },
+      "content": "Figure 1-397  Release five tabs",
+      "caption_for": "fig_0734"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_2237",
+      "reading_order": 3000,
+      "section": "Post service test",
+      "bbox": {
+        "l": 122.0,
+        "t": 396.69991,
+        "r": 520.4200000000001,
+        "b": 385.10990999999996
+      },
+      "content": "Continue to rotate the top edge of the cover away from the printer, and then remove the cover."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0735",
+      "reading_order": 3001,
+      "section": "Post service test",
+      "bbox": {
+        "l": 142.91802621048194,
+        "t": 363.1452941894531,
+        "r": 432.7199088350471,
+        "b": 93.1734619140625
+      },
+      "image_path": "figures/figure_0735.png",
+      "caption": "Remove the cover",
+      "figure_number": "Figure 1-398",
+      "image_hash": "a3e38b450a401598f6953c19501d088e6ad90e05e1346144d3efe3178e6816a2",
+      "width": 290,
+      "height": 270,
+      "previous_block_id": "txt_2237",
+      "next_block_id": "txt_2238",
+      "caption_id": "txt_2238"
+    },
+    {
+      "type": "caption",
+      "id": "txt_2238",
+      "reading_order": 3002,
+      "section": "Post service test",
+      "bbox": {
+        "l": 144.0,
+        "t": 375.69991,
+        "r": 272.8999899999999,
+        "b": 364.10990999999996
+      },
+      "content": "Figure 1-398  Remove the cover",
+      "caption_for": "fig_0735"
+    }
+  ],
+  "page_stats": {
+    "block_count": 8,
+    "text_blocks": 5,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 2,
+    "captions": 2,
+    "admonitions": 1,
+    "references": 0,
+    "figures": 3,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "page": 32,
+  "document_id": "doc_f7e949ab",
+  "page_bbox": {
+    "width": 612.0,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_0452",
+      "reading_order": 488,
+      "section": "3.4.2.3 Patient Leakage Current",
+      "bbox": {
+        "l": 144.0,
+        "t": 699.75375,
+        "r": 539.0640000000001,
+        "b": 673.49625
+      },
+      "content": "Connect  the  ECG  test  cable between  the  ECG  connector  on  the  N5500  and  the appropriate input connector on the analyzer."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0453",
+      "reading_order": 489,
+      "section": "3.4.2.3 Patient Leakage Current",
+      "bbox": {
+        "l": 144.0000000000001,
+        "t": 659.25375,
+        "r": 244.3128750000001,
+        "b": 646.49625
+      },
+      "content": "Turn on the N5500."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0454",
+      "reading_order": 490,
+      "section": "3.4.2.3 Patient Leakage Current",
+      "bbox": {
+        "l": 144.0000000000001,
+        "t": 632.25375,
+        "r": 539.0634375000003,
+        "b": 605.99625
+      },
+      "content": "Perform  the  patient  leakage  current  test  as  recommended  by  the  analyzer  operating instructions."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0455",
+      "reading_order": 491,
+      "section": "3.4.2.3 Patient Leakage Current",
+      "bbox": {
+        "l": 144.0000000000001,
+        "t": 591.75375,
+        "r": 539.0625,
+        "b": 565.49625
+      },
+      "content": "Repeat the patient leakage current test for the SpO2  and  temperature patient connections, using the appropriate test cables."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0456",
+      "reading_order": 492,
+      "section": "3.4.2.3 Patient Leakage Current",
+      "bbox": {
+        "l": 143.99962499999998,
+        "t": 551.25375,
+        "r": 539.063175,
+        "b": 511.49625
+      },
+      "content": "Note: Patient leakage current is measured under various conditions of the AC mains and protective earth conductor. For each condition, the measured  leakage current must not exceed that indicated in Table 5."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0457",
+      "reading_order": 493,
+      "section": "3.4.2.3 Patient Leakage Current",
+      "bbox": {
+        "l": 144.00074999999995,
+        "t": 497.25375,
+        "r": 539.06265,
+        "b": 403.49625
+      },
+      "content": "Note: This test requires a test cable for each patient connector. For  example, the ECG test  cable  consists  of  the  ECG  cable  connector,  with  all  conductors  shorted together,  connected  to  a   test  lead  from  the  electrical  safety analyzer. Test cables for  SpO2  and  temperature  can  be  configured  in  a  similar  manner,  by  wrapping each sensor end individually with aluminum foil filled with conductive gel (only enough gel to ensure conductivity). Attach a wire to the foil that is connected to a test lead from the electrical safety analyzer."
+    },
+    {
+      "type": "table",
+      "id": "tbl_0009",
+      "reading_order": 494,
+      "section": "3.4.2.3 Patient Leakage Current",
+      "bbox": {
+        "l": 140.9250946044922,
+        "t": 377.9232482910156,
+        "r": 541.7059936523438,
+        "b": 273.03411865234375
+      },
+      "markdown": "Table 5. Patient Leakage Current Values\n\n| Test Condition                 |   Allowable Leakage Current (microamps) |\n|--------------------------------|-----------------------------------------|\n| Normal polarity                |                                      10 |\n| Normal polarity; Neutral open  |                                      50 |\n| Normal polarity; Earth open    |                                      10 |\n| Reverse polarity               |                                      50 |\n| Reverse polarity; Neutral open |                                      50 |\n| Reverse polarity; Earth open   |                                      50 |"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0458",
+      "reading_order": 495,
+      "section": "3.4.2.3 Patient Leakage Current",
+      "bbox": {
+        "l": 235.49962499999998,
+        "t": 390.0525,
+        "r": 439.31137499999994,
+        "b": 376.6875
+      },
+      "content": "Table 5. Patient Leakage Current Values"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0459",
+      "reading_order": 496,
+      "section": "3.4.2.4 Patient Leakage Current - (Mains Voltage on the Applied Part)",
+      "bbox": {
+        "l": 72.0,
+        "t": 258.8025,
+        "r": 419.81174999999996,
+        "b": 245.4375
+      },
+      "content": "3.4.2.4 Patient Leakage Current - (Mains Voltage on the Applied Part)",
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "id": "fig_0030",
+      "reading_order": 497,
+      "section": "3.4.2.4 Patient Leakage Current - (Mains Voltage on the Applied Part)",
+      "bbox": {
+        "l": 99.45176696777344,
+        "t": 229.6197509765625,
+        "r": 125.81364440917969,
+        "b": 206.177001953125
+      },
+      "image_path": "figures/figure_0030.png",
+      "previous_block_id": "txt_0459",
+      "next_block_id": "txt_0460"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0460",
+      "reading_order": 498,
+      "section": "3.4.2.4 Patient Leakage Current - (Mains Voltage on the Applied Part)",
+      "bbox": {
+        "l": 146.24962499999998,
+        "t": 225.8025,
+        "r": 534.5625,
+        "b": 198.9375
+      },
+      "content": "WARNING:  AC  mains  voltage  will  be  present  on  the  applied  part  terminals during this test. Exercise caution to avoid electrical shock hazard."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0031",
+      "reading_order": 499,
+      "section": "3.4.2.4 Patient Leakage Current - (Mains Voltage on the Applied Part)",
+      "bbox": {
+        "l": 99.33956146240234,
+        "t": 178.60089111328125,
+        "r": 125.94642639160156,
+        "b": 156.4326171875
+      },
+      "image_path": "figures/figure_0031.png",
+      "previous_block_id": "txt_0460",
+      "next_block_id": "txt_0461"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0461",
+      "reading_order": 500,
+      "section": "3.4.2.4 Patient Leakage Current - (Mains Voltage on the Applied Part)",
+      "bbox": {
+        "l": 146.249625,
+        "t": 175.5525,
+        "r": 533.3544749999994,
+        "b": 148.6875
+      },
+      "content": "WARNING: Do not touch the patient leads clips or the simulator parts connected to patient leads during this test as an electrical shock will occur."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0462",
+      "reading_order": 501,
+      "section": "3.4.2.4 Patient Leakage Current - (Mains Voltage on the Applied Part)",
+      "bbox": {
+        "l": 143.99887499999988,
+        "t": 128.25374999999997,
+        "r": 540.50085,
+        "b": 74.99625000000003
+      },
+      "content": "This  test  measures  patient  leakage  current  in  accordance  with  IEC60601-1,  clause  19, for Class I, type CF equipment. In this test, 110% of mains voltage is applied between each  patient  connection  and  earth  (power  ground).  Patient  leakage  current  is  then measured from any individual patient connection to earth."
+    }
+  ]
+}

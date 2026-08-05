@@ -1,0 +1,119 @@
+{
+  "page": 30,
+  "document_id": "doc_1032c87b",
+  "page_bbox": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0042",
+      "reading_order": 291,
+      "section": "3.3.3 Cabinet Parallel Installation",
+      "bbox": {
+        "l": 207.53384438401417,
+        "t": 726.3967216574762,
+        "r": 402.4499443326584,
+        "b": 556.1061130692572
+      },
+      "image_path": "figures/figure_0042.png",
+      "previous_block_id": "txt_0242",
+      "next_block_id": "txt_0243"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0243",
+      "reading_order": 292,
+      "section": "3.3.3 Cabinet Parallel Installation",
+      "bbox": {
+        "l": 168.17,
+        "t": 537.1976629101563,
+        "r": 450.99568,
+        "b": 527.726101363195
+      },
+      "content": "Figure 3-14 Signal cable connection of 400 ~ 500 kVA UPS"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0244",
+      "reading_order": 293,
+      "section": "3.3.3 Cabinet Parallel Installation",
+      "bbox": {
+        "l": 77.904,
+        "t": 521.5976629101563,
+        "r": 541.5304,
+        "b": 434.126101363195
+      },
+      "content": "Connection of dry contacts: the wiring terminal of dry contacts is located below the interior door of rectifier cabinet. Dry contacts are as shown in Figure 3-15. Dry contacts \"1\" and \"2\" are the wiring terminal for cold start of battery (Note: The terminal carries strong current during the operation of UPS. \"1\" refers to fire wire and \"2\" refers to neutral wire); dry contacts \"4\" and \"5\" are wiring terminals of auxiliary contacts in maintenance bypass (option); dry contact \"6\" and \"7\" for the battery switch undervoltage release wiring terminals."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0043",
+      "reading_order": 294,
+      "section": "3.3.3 Cabinet Parallel Installation",
+      "bbox": {
+        "l": 168.9056278443183,
+        "t": 425.5844298725651,
+        "r": 440.2767046682975,
+        "b": 298.1924846221973
+      },
+      "image_path": "figures/figure_0043.png",
+      "previous_block_id": "txt_0244",
+      "next_block_id": "txt_0245"
+    },
+    {
+      "type": "caption",
+      "id": "txt_0245",
+      "reading_order": 295,
+      "section": "3.3.3 Cabinet Parallel Installation",
+      "bbox": {
+        "l": 193.25,
+        "t": 273.6576629101563,
+        "r": 420.75568,
+        "b": 264.186101363195
+      },
+      "content": "Figure 3-15: Dry contacts of 400 ~ 500 kVA UPS"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0246",
+      "reading_order": 296,
+      "section": "3.3.4 Wiring Routing",
+      "bbox": {
+        "l": 74.664,
+        "t": 246.38598291015626,
+        "r": 194.066,
+        "b": 235.6228447886093
+      },
+      "content": "3.3.4 Wiring Routing",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0247",
+      "reading_order": 297,
+      "section": "3.3.4 Wiring Routing",
+      "bbox": {
+        "l": 77.904,
+        "t": 216.38766291015622,
+        "r": 541.4640799999995,
+        "b": 160.11610136319496
+      },
+      "content": "Full  series UPS and battery cabinet can use lower wiring and side wiring. When lower wiring is used, the wiring channel can be seen when the front door of UPS is opened and the baffle below the wiring terminal is removed. When side wiring is used, the side wiring channel can be seen when the baffle on the left or right of cabinet is removed."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0248",
+      "reading_order": 298,
+      "section": "3.3.4 Wiring Routing",
+      "bbox": {
+        "l": 77.904,
+        "t": 153.98766291015636,
+        "r": 541.60608,
+        "b": 128.9161013631949
+      },
+      "content": "When upper wiring is required, please select power distribution cabinet (for 80 ~ 300 kVA UPS) or maintenance bypass switch cabinet (for 400 ~ 500 kVA UPS)"
+    }
+  ]
+}

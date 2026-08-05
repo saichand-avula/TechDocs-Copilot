@@ -1,0 +1,83 @@
+{
+  "page": 142,
+  "document_id": "doc_229deb31",
+  "page_bbox": {
+    "width": 595.219970703125,
+    "height": 842.0
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "txt_1262",
+      "reading_order": 1647,
+      "section": "7.3.8    Communication error between the indoor and outdoor units",
+      "bbox": {
+        "l": 56.962,
+        "t": 789.669156,
+        "r": 466.42307111999924,
+        "b": 776.7597900000001
+      },
+      "content": "7.3.8    Communication error between the indoor and outdoor units",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "table",
+      "id": "tbl_0088",
+      "reading_order": 1648,
+      "section": "7.3.8    Communication error between the indoor and outdoor units",
+      "bbox": {
+        "l": 55.58244225294994,
+        "t": 756.727165222168,
+        "r": 540.2791344293526,
+        "b": 595.9748992919922
+      },
+      "markdown": "| Indoor display Outdoor : display ˖       | E7 ˗ LED1 flash 15 times                                                                                                                                                                   |\n|------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Method of Malfunction Detection          | The date received from the another unit in indoor unit-outdoor unit signal transmission is checked whether is normal                                                                       |\n| Malfunction Decision Conditions Supposed | When the date sent from the another unit cannot be received normally,or when the content of the data is abnormal Ƶ indoor unit- outdoor unit signal transmission error due to wiring error |",
+      "rows": 3,
+      "cols": 2
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_1263",
+      "reading_order": 1649,
+      "section": "7.3.8    Communication error between the indoor and outdoor units",
+      "bbox": {
+        "l": 56.96116559999999,
+        "t": 587.7765152000001,
+        "r": 550.1714336400005,
+        "b": 563.0857890000001
+      },
+      "content": "Troubleshooting        * Caution Be sure to turn off power switch before connect or disconnect connector, or else parts damage may be occurred."
+    },
+    {
+      "type": "figure",
+      "id": "fig_0300",
+      "reading_order": 1650,
+      "section": "7.3.8    Communication error between the indoor and outdoor units",
+      "bbox": {
+        "l": 0.8693320782148345,
+        "t": 528.6508483886719,
+        "r": 497.1064106308988,
+        "b": 131.9368896484375
+      },
+      "image_path": "figures/figure_0300.png",
+      "previous_block_id": "txt_1263",
+      "image_hash": "95455a7142b00c7ec4bdf316b4d1d02a7ae06858bed9d4471ef3ba3e844a3aee",
+      "width": 496,
+      "height": 397
+    }
+  ],
+  "page_stats": {
+    "block_count": 4,
+    "text_blocks": 2,
+    "paragraphs": 1,
+    "headings": 1,
+    "list_items": 0,
+    "captions": 0,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 1,
+    "tables": 1,
+    "toc_tables": 0
+  }
+}

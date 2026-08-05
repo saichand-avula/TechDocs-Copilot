@@ -1,0 +1,89 @@
+{
+  "page": 26,
+  "document_id": "doc_1032c87b",
+  "page_bbox": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0033",
+      "reading_order": 261,
+      "section": "3.3.1 Clearance",
+      "bbox": {
+        "l": 145.28915806211094,
+        "t": 641.1464621284778,
+        "r": 456.34634735590834,
+        "b": 410.3872658309135
+      },
+      "image_path": "figures/figure_0033.png",
+      "next_block_id": "txt_0223",
+      "image_hash": "639c6feefbb623272557a7c04b7c90959d5baa4801e5c4ab398cb755bbfc5fc9",
+      "width": 311,
+      "height": 231
+    },
+    {
+      "type": "caption",
+      "id": "txt_0223",
+      "reading_order": 262,
+      "section": "3.3.1 Clearance",
+      "bbox": {
+        "l": 144.86,
+        "t": 381.1776629101563,
+        "r": 474.51568,
+        "b": 371.706101363195
+      },
+      "content": "Figure 3-6: Installation space diagram of 80 ~ 300 kVA UPS (unit: mm)",
+      "caption_for": "fig_0034"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0034",
+      "reading_order": 263,
+      "section": "3.3.1 Clearance",
+      "bbox": {
+        "l": 185.94402247440507,
+        "t": 367.2822622406073,
+        "r": 416.6802499173976,
+        "b": 172.32859238601702
+      },
+      "image_path": "figures/figure_0034.png",
+      "previous_block_id": "txt_0223",
+      "next_block_id": "txt_0224",
+      "caption_id": "txt_0224",
+      "caption": ": Installation space diagram of 400 ~ 500 kVA UPS (unit: mm)",
+      "figure_number": "Figure 3-7",
+      "image_hash": "87d5999ca198b0cd6658e8e8eeaa95ece8ae744128ed756c09779f004ea61e5c",
+      "width": 231,
+      "height": 195
+    },
+    {
+      "type": "caption",
+      "id": "txt_0224",
+      "reading_order": 264,
+      "section": "3.3.1 Clearance",
+      "bbox": {
+        "l": 139.22,
+        "t": 148.82766291015628,
+        "r": 479.91568,
+        "b": 139.35610136319497
+      },
+      "content": "Figure 3-7: Installation space diagram of 400 ~ 500 kVA UPS (unit: mm)",
+      "caption_for": "fig_0034"
+    }
+  ],
+  "page_stats": {
+    "block_count": 4,
+    "text_blocks": 2,
+    "paragraphs": 0,
+    "headings": 0,
+    "list_items": 0,
+    "captions": 2,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 2,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

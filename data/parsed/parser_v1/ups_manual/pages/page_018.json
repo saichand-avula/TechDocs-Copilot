@@ -1,0 +1,140 @@
+{
+  "page": 18,
+  "document_id": "doc_1032c87b",
+  "page_bbox": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  },
+  "blocks": [
+    {
+      "type": "figure",
+      "id": "fig_0022",
+      "reading_order": 167,
+      "section": "(1) The model of 80 ~120 kVA UPS",
+      "bbox": {
+        "l": 135.35478658455918,
+        "t": 725.3605957668951,
+        "r": 476.34907346490553,
+        "b": 636.1107163665896
+      },
+      "image_path": "figures/figure_0022.png",
+      "next_block_id": "txt_0141",
+      "caption_id": "txt_0141",
+      "caption": ": Communication port of 200 ~ 300 kVA UPS",
+      "figure_number": "Figure 2-17",
+      "image_hash": "38d64c7d88b2a994fdc3ac1e8faea83aea7864b2c6b1d628e8dfe49385e330e8",
+      "width": 341,
+      "height": 89
+    },
+    {
+      "type": "caption",
+      "id": "txt_0141",
+      "reading_order": 168,
+      "section": "(1) The model of 80 ~120 kVA UPS",
+      "bbox": {
+        "l": 175.25,
+        "t": 615.2276629101563,
+        "r": 438.75568,
+        "b": 605.756101363195
+      },
+      "content": "Figure 2-17: Communication port of 200 ~ 300 kVA UPS",
+      "caption_for": "fig_0022"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0023",
+      "reading_order": 169,
+      "section": "(1) The model of 80 ~120 kVA UPS",
+      "bbox": {
+        "l": 114.47263572468039,
+        "t": 602.056595123228,
+        "r": 495.76954689350197,
+        "b": 424.59120761921446
+      },
+      "image_path": "figures/figure_0023.png",
+      "previous_block_id": "txt_0141",
+      "next_block_id": "txt_0142",
+      "caption_id": "txt_0142",
+      "caption": ": Internal module of 200 ~ 300 kVA UPS",
+      "figure_number": "Figure 2-18",
+      "image_hash": "f7dba11cd43fd31028d10dfbaeb92be2a82c8c0dab7b06dd6ad2aa27a5d604d0",
+      "width": 382,
+      "height": 177
+    },
+    {
+      "type": "caption",
+      "id": "txt_0142",
+      "reading_order": 170,
+      "section": "(1) The model of 80 ~120 kVA UPS",
+      "bbox": {
+        "l": 186.05,
+        "t": 398.4576629101563,
+        "r": 427.95568,
+        "b": 388.98610136319496
+      },
+      "content": "Figure 2-18: Internal module of 200 ~ 300 kVA UPS",
+      "caption_for": "fig_0023"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0143",
+      "reading_order": 171,
+      "section": "(1) The model of 80 ~120 kVA UPS",
+      "bbox": {
+        "l": 77.904,
+        "t": 382.8576629101563,
+        "r": 252.94567999999998,
+        "b": 373.386101363195
+      },
+      "content": "(4) The model of 400 ~ 500 kVA UPS"
+    },
+    {
+      "type": "figure",
+      "id": "fig_0024",
+      "reading_order": 172,
+      "section": "(1) The model of 80 ~120 kVA UPS",
+      "bbox": {
+        "l": 242.67144557048073,
+        "t": 366.6926576328085,
+        "r": 365.2852219967281,
+        "b": 174.9642671812768
+      },
+      "image_path": "figures/figure_0024.png",
+      "previous_block_id": "txt_0143",
+      "next_block_id": "txt_0144",
+      "caption_id": "txt_0144",
+      "caption": ": Static switch module of 400 ~ 500 kVA UPS",
+      "figure_number": "Figure 2-19",
+      "image_hash": "e59968b2a82b74b96f2aed1b3d30d172e6978fc5c2a38afba68910993f5ce8e2",
+      "width": 122,
+      "height": 192
+    },
+    {
+      "type": "caption",
+      "id": "txt_0144",
+      "reading_order": 173,
+      "section": "(1) The model of 80 ~120 kVA UPS",
+      "bbox": {
+        "l": 177.53,
+        "t": 150.38766291015622,
+        "r": 441.99568,
+        "b": 140.9161013631949
+      },
+      "content": "Figure 2-19: Static switch module of 400 ~ 500 kVA UPS",
+      "caption_for": "fig_0024"
+    }
+  ],
+  "page_stats": {
+    "block_count": 7,
+    "text_blocks": 4,
+    "paragraphs": 1,
+    "headings": 0,
+    "list_items": 0,
+    "captions": 3,
+    "admonitions": 0,
+    "references": 0,
+    "figures": 3,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}

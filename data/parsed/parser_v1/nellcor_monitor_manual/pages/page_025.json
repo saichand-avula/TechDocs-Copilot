@@ -1,0 +1,273 @@
+{
+  "page": 25,
+  "document_id": "doc_f7e949ab",
+  "page_bbox": {
+    "width": 612.0,
+    "height": 792.0
+  },
+  "blocks": [
+    {
+      "type": "list_item",
+      "id": "txt_0308",
+      "reading_order": 342,
+      "section": "3.3.5.1 ECG Operation with an ECG Simulator",
+      "bbox": {
+        "l": 148.5,
+        "t": 699.75375,
+        "r": 326.0625,
+        "b": 686.99625
+      },
+      "content": "Connect all the leads to the monitor."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0309",
+      "reading_order": 343,
+      "section": "3.3.5.1 ECG Operation with an ECG Simulator",
+      "bbox": {
+        "l": 168.0,
+        "t": 686.25375,
+        "r": 442.3125,
+        "b": 673.49625
+      },
+      "content": "Select ECG menu and set ECG Lead selection to Lead I."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0310",
+      "reading_order": 344,
+      "section": "3.3.5.1 ECG Operation with an ECG Simulator",
+      "bbox": {
+        "l": 168.0,
+        "t": 672.75375,
+        "r": 301.3125,
+        "b": 659.99625
+      },
+      "content": "Verify the lead selection."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0311",
+      "reading_order": 345,
+      "section": "3.3.5.1 ECG Operation with an ECG Simulator",
+      "bbox": {
+        "l": 168.0,
+        "t": 659.25375,
+        "r": 410.0625,
+        "b": 646.49625
+      },
+      "content": "Repeat step 10-a for all the ECG Lead selections."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0312",
+      "reading_order": 346,
+      "section": "3.3.5.1 ECG Operation with an ECG Simulator",
+      "bbox": {
+        "l": 148.5,
+        "t": 632.25375,
+        "r": 323.8125,
+        "b": 619.49625
+      },
+      "content": "Set ECG Lead selection to Lead II."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0313",
+      "reading_order": 347,
+      "section": "3.3.5.1 ECG Operation with an ECG Simulator",
+      "bbox": {
+        "l": 148.5,
+        "t": 605.25375,
+        "r": 539.0604999999995,
+        "b": 578.99625
+      },
+      "content": "Change ECG waveform size to all the selectable sizes and verify an appropriate size of the waveform displays"
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0314",
+      "reading_order": 348,
+      "section": "3.3.5.1 ECG Operation with an ECG Simulator",
+      "bbox": {
+        "l": 148.5,
+        "t": 564.75375,
+        "r": 393.5625,
+        "b": 551.99625
+      },
+      "content": "Disconnect 3 ECG leads and connect 5 ECG leads."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0315",
+      "reading_order": 349,
+      "section": "3.3.5.1 ECG Operation with an ECG Simulator",
+      "bbox": {
+        "l": 148.5,
+        "t": 537.75375,
+        "r": 395.0625,
+        "b": 524.99625
+      },
+      "content": "Set ECG cable type to '5 Leads' via Set-up Menu."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0316",
+      "reading_order": 350,
+      "section": "3.3.5.1 ECG Operation with an ECG Simulator",
+      "bbox": {
+        "l": 148.5,
+        "t": 510.75375,
+        "r": 256.3125,
+        "b": 497.99625
+      },
+      "content": "Repeat step 9 to 12."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0317",
+      "reading_order": 351,
+      "section": "3.3.5.1 ECG Operation with an ECG Simulator",
+      "bbox": {
+        "l": 148.5,
+        "t": 483.75375,
+        "r": 260.0625,
+        "b": 470.99625
+      },
+      "content": "Turn the monitor off."
+    },
+    {
+      "type": "admonition",
+      "id": "txt_0318",
+      "reading_order": 352,
+      "section": "3.3.5.1 ECG Operation with an ECG Simulator",
+      "bbox": {
+        "l": 148.5,
+        "t": 456.75375,
+        "r": 538.8130000000002,
+        "b": 430.49625
+      },
+      "content": "Note: The accuracy of N5500 ECG measurements is ±3 bpm. In the procedure, add the tolerance of the simulator to the acceptable range of readings.",
+      "severity": "note"
+    },
+    {
+      "type": "heading",
+      "id": "txt_0319",
+      "reading_order": 353,
+      "section": "3.3.5.2 Pneumatic System Operation with NIBP simulator",
+      "bbox": {
+        "l": 72.0,
+        "t": 417.0525,
+        "r": 354.9375,
+        "b": 403.6875
+      },
+      "content": "3.3.5.2 Pneumatic System Operation with NIBP simulator",
+      "level": 2,
+      "role": "section"
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0320",
+      "reading_order": 354,
+      "section": "3.3.5.2 Pneumatic System Operation with NIBP simulator",
+      "bbox": {
+        "l": 147.75,
+        "t": 402.75375,
+        "r": 539.0626500000001,
+        "b": 362.99625
+      },
+      "content": "These  tests  verify  the  functionality  of  the  N5500  pneumatic  system.  The  Bio-Tek simulator or any equivalent NIBP simulator is required to perform these tests. Each of the tests must be performed to verify pneumatic system functionality."
+    },
+    {
+      "type": "paragraph",
+      "id": "txt_0321",
+      "reading_order": 355,
+      "section": "3.3.5.2 Pneumatic System Operation with NIBP simulator",
+      "bbox": {
+        "l": 147.75,
+        "t": 349.31625,
+        "r": 539.0624000000001,
+        "b": 322.49625
+      },
+      "content": "The N5500 must be placed in NIBP Test Mode . For a detailed explanation of the NIBP Test Mode, refer to Service Menu and Factory Default Settings section ."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0322",
+      "reading_order": 356,
+      "section": "3.3.5.2 Pneumatic System Operation with NIBP simulator",
+      "bbox": {
+        "l": 147.75,
+        "t": 308.25375,
+        "r": 539.71965,
+        "b": 268.4962499999999
+      },
+      "content": "Note: Before accessing the NIBP Test mode, ensure that current patient mode is proper for the Pneumatic system to be test. You can set Patient mode; Adult/Pediatric or Neonatal via Set-up menu."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0323",
+      "reading_order": 357,
+      "section": "3.3.5.2 Pneumatic System Operation with NIBP simulator",
+      "bbox": {
+        "l": 147.75,
+        "t": 254.25374999999997,
+        "r": 538.4644000000012,
+        "b": 214.49625000000003
+      },
+      "content": "Note: In the  NIBP Test Mode, no function switch will have no effect except the knob. All  the  tests  will  start  to  be  performed  by  pressing  or  rotating  the  knob.  If  you would like to stop the test during test progressing, press the knob."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0324",
+      "reading_order": 358,
+      "section": "3.3.5.2 Pneumatic System Operation with NIBP simulator",
+      "bbox": {
+        "l": 147.75,
+        "t": 200.25374999999997,
+        "r": 539.06235,
+        "b": 173.99625000000003
+      },
+      "content": "Turn on Bio-Tek simulator and press 'Pressure Test' button to place simulator in test mode."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0325",
+      "reading_order": 359,
+      "section": "3.3.5.2 Pneumatic System Operation with NIBP simulator",
+      "bbox": {
+        "l": 147.75,
+        "t": 159.75374999999997,
+        "r": 399.5625,
+        "b": 146.99625000000003
+      },
+      "content": "Connect simulator hose to NIBP connector on N5500."
+    },
+    {
+      "type": "list_item",
+      "id": "txt_0326",
+      "reading_order": 360,
+      "section": "3.3.5.2 Pneumatic System Operation with NIBP simulator",
+      "bbox": {
+        "l": 147.75,
+        "t": 132.75374999999997,
+        "r": 515.0625,
+        "b": 119.99625000000003
+      },
+      "content": "Place N5500 in NIBP Test Mode with NIBP Test screen active. (See Table 10)"
+    }
+  ],
+  "page_stats": {
+    "block_count": 19,
+    "text_blocks": 19,
+    "paragraphs": 2,
+    "headings": 1,
+    "list_items": 15,
+    "captions": 0,
+    "admonitions": 1,
+    "references": 0,
+    "figures": 0,
+    "tables": 0,
+    "toc_tables": 0
+  }
+}
