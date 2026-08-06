@@ -17,7 +17,24 @@
         "r": 234.20999999999995,
         "b": 720.7
       },
-      "content": "Disconnect the power cable."
+      "content": "Disconnect the power cable.",
+      "section_id": "sec_auto_1139",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Remove the keyboard."
+        },
+        {
+          "id": "sec_auto_1139",
+          "title": "Before performing service"
+        }
+      ],
+      "page": 95,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -35,7 +52,24 @@
       "width": 14,
       "height": 13,
       "previous_block_id": "txt_0890",
-      "next_block_id": "txt_0891"
+      "next_block_id": "txt_0891",
+      "section_id": "sec_auto_1139",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Remove the keyboard."
+        },
+        {
+          "id": "sec_auto_1139",
+          "title": "Before performing service"
+        }
+      ],
+      "page": 95,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "admonition",
@@ -49,7 +83,24 @@
         "b": 685.2
       },
       "content": "WARNING! To avoid damage to the printer, turn the printer off, wait 30 seconds, and then remove the power cord before attempting to service the printer.",
-      "severity": "warning"
+      "severity": "warning",
+      "section_id": "sec_auto_1139",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Remove the keyboard."
+        },
+        {
+          "id": "sec_auto_1139",
+          "title": "Before performing service"
+        }
+      ],
+      "page": 95,
+      "chunk_hint": "admonition",
+      "semantic_role": "warning",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -62,7 +113,24 @@
         "r": 479.47000000000025,
         "b": 650.7
       },
-      "content": "Use the table below to identify the correct part number for your printer . To order the part, go to www.hp.com/buy/parts."
+      "content": "Use the table below to identify the correct part number for your printer . To order the part, go to www.hp.com/buy/parts.",
+      "section_id": "sec_auto_1139",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Remove the keyboard."
+        },
+        {
+          "id": "sec_auto_1139",
+          "title": "Before performing service"
+        }
+      ],
+      "page": 95,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -77,7 +145,23 @@
       },
       "content": "Table 1-11  Part number",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1145",
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Remove the keyboard."
+        },
+        {
+          "id": "sec_auto_1145",
+          "title": "Table 1-11  Part number"
+        }
+      ],
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "page": 95,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -94,7 +178,24 @@
       "title": "Table 1-11  Part number",
       "table_number": "Table 1-11",
       "rows": 4,
-      "cols": 1
+      "cols": 1,
+      "section_id": "sec_auto_1145",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Remove the keyboard."
+        },
+        {
+          "id": "sec_auto_1145",
+          "title": "Table 1-11  Part number"
+        }
+      ],
+      "page": 95,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -109,7 +210,23 @@
       },
       "content": "Required tools",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1147",
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Remove the keyboard."
+        },
+        {
+          "id": "sec_auto_1147",
+          "title": "Required tools"
+        }
+      ],
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "page": 95,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -122,7 +239,24 @@
         "r": 353.38,
         "b": 494.07500000000005
       },
-      "content": "No special tools are required to remove or install this assembly."
+      "content": "No special tools are required to remove or install this assembly.",
+      "section_id": "sec_auto_1147",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Remove the keyboard."
+        },
+        {
+          "id": "sec_auto_1147",
+          "title": "Required tools"
+        }
+      ],
+      "page": 95,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -137,7 +271,23 @@
       },
       "content": "After performing service",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1149",
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Remove the keyboard."
+        },
+        {
+          "id": "sec_auto_1149",
+          "title": "After performing service"
+        }
+      ],
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "page": 95,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -152,7 +302,23 @@
       },
       "content": "Turn the printer power on",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1150",
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Remove the keyboard."
+        },
+        {
+          "id": "sec_auto_1150",
+          "title": "Turn the printer power on"
+        }
+      ],
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "page": 95,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -165,7 +331,24 @@
         "r": 222.84004999999996,
         "b": 428.075
       },
-      "content": "Connect the power cable."
+      "content": "Connect the power cable.",
+      "section_id": "sec_auto_1150",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Remove the keyboard."
+        },
+        {
+          "id": "sec_auto_1150",
+          "title": "Turn the printer power on"
+        }
+      ],
+      "page": 95,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -178,7 +361,24 @@
         "r": 294.29004,
         "b": 406.82585
       },
-      "content": "Use the power switch to turn the power on."
+      "content": "Use the power switch to turn the power on.",
+      "section_id": "sec_auto_1150",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Remove the keyboard."
+        },
+        {
+          "id": "sec_auto_1150",
+          "title": "Turn the printer power on"
+        }
+      ],
+      "page": 95,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -193,7 +393,23 @@
       },
       "content": "Post service test",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1153",
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Remove the keyboard."
+        },
+        {
+          "id": "sec_auto_1153",
+          "title": "Post service test"
+        }
+      ],
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "page": 95,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -206,7 +422,24 @@
         "r": 298.0900399999999,
         "b": 361.57669999999996
       },
-      "content": "No post service test is available for this assembly."
+      "content": "No post service test is available for this assembly.",
+      "section_id": "sec_auto_1153",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Remove the keyboard."
+        },
+        {
+          "id": "sec_auto_1153",
+          "title": "Post service test"
+        }
+      ],
+      "page": 95,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -219,7 +452,24 @@
         "r": 236.25001999999992,
         "b": 340.57669999999996
       },
-      "content": "Remove the formatter cover."
+      "content": "Remove the formatter cover.",
+      "section_id": "sec_auto_1153",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Remove the keyboard."
+        },
+        {
+          "id": "sec_auto_1153",
+          "title": "Post service test"
+        }
+      ],
+      "page": 95,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -232,7 +482,24 @@
         "r": 239.11001999999996,
         "b": 318.6567
       },
-      "content": "▲ Do one of the following:"
+      "content": "▲ Do one of the following:",
+      "section_id": "sec_auto_1153",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Remove the keyboard."
+        },
+        {
+          "id": "sec_auto_1153",
+          "title": "Post service test"
+        }
+      ],
+      "page": 95,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -245,7 +512,24 @@
         "r": 520.0200200000003,
         "b": 285.96623
       },
-      "content": "M501: Remove one screw (callout 1), and then slide the cover toward the rear of the printer to remove it (callout 2)."
+      "content": "M501: Remove one screw (callout 1), and then slide the cover toward the rear of the printer to remove it (callout 2).",
+      "section_id": "sec_auto_1153",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Remove the keyboard."
+        },
+        {
+          "id": "sec_auto_1153",
+          "title": "Post service test"
+        }
+      ],
+      "page": 95,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

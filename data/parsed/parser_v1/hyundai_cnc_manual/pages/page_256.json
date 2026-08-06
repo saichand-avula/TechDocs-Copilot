@@ -18,8 +18,21 @@
         "b": 760.1029409281768
       },
       "content": "2-4. TURRET SERVO AMP",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "2",
+      "section_id": "sec_2",
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-4. TURRET SERVO AMP"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 256,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -33,8 +46,21 @@
         "b": 747.3454879999999
       },
       "content": "2-4-1. β SERVO TURRET CONTROL TIME CHART",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "2",
+      "section_id": "sec_2",
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-4-1. β SERVO TURRET CONTROL TIME CHART"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 256,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -51,7 +77,20 @@
       "previous_block_id": "txt_1850",
       "image_hash": "06cf2d2029db041c27ec771557d0d0065a60634e0d908b0337e31e0c1100636b",
       "width": 464,
-      "height": 621
+      "height": 621,
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-4-1. β SERVO TURRET CONTROL TIME CHART"
+        }
+      ],
+      "page": 256,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

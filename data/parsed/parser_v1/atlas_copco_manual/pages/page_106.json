@@ -21,7 +21,24 @@
       "next_block_id": "txt_0819",
       "width": 47,
       "height": 21,
-      "image_hash": "18a68e09be7fbb444875d8149d31d10042cee4bab42e45bca2ad7db29504c9df"
+      "image_hash": "18a68e09be7fbb444875d8149d31d10042cee4bab42e45bca2ad7db29504c9df",
+      "section_id": "sec_auto_1178",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7       Operating instructions"
+        },
+        {
+          "id": "sec_auto_1178",
+          "title": "The following control modes can be selected:"
+        }
+      ],
+      "page": 106,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -34,7 +51,24 @@
         "r": 529.0677999999994,
         "b": 746.704
       },
-      "content": "Remote control: The compressor will react to commands from external switches. Emergency stop remains active. Compressor start/stop commands via Clock function are still possible."
+      "content": "Remote control: The compressor will react to commands from external switches. Emergency stop remains active. Compressor start/stop commands via Clock function are still possible.",
+      "section_id": "sec_auto_1178",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7       Operating instructions"
+        },
+        {
+          "id": "sec_auto_1178",
+          "title": "The following control modes can be selected:"
+        }
+      ],
+      "page": 106,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -49,7 +83,23 @@
       },
       "content": "For remote starting and stopping:",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1183",
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7       Operating instructions"
+        },
+        {
+          "id": "sec_auto_1183",
+          "title": "For remote starting and stopping:"
+        }
+      ],
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "page": 106,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -62,7 +112,24 @@
         "r": 534.6865999999993,
         "b": 641.1039999999996
       },
-      "content": "On compressors with an Elektronikon Graphic controller, bridge terminals 1 and 2 of connector (X109) (= DIO6 on the controller). In this mode, the outlet pressure is still sensed by pressure transducer (PT20), resulting in loading and unloading of the compressor at the pressures programmed in the Elektronikon regulator. If terminals 1 and 2 of connector (X109) are not bridged, the compressor is switched out of automatic load/unload operation and remains running unloaded."
+      "content": "On compressors with an Elektronikon Graphic controller, bridge terminals 1 and 2 of connector (X109) (= DIO6 on the controller). In this mode, the outlet pressure is still sensed by pressure transducer (PT20), resulting in loading and unloading of the compressor at the pressures programmed in the Elektronikon regulator. If terminals 1 and 2 of connector (X109) are not bridged, the compressor is switched out of automatic load/unload operation and remains running unloaded.",
+      "section_id": "sec_auto_1183",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7       Operating instructions"
+        },
+        {
+          "id": "sec_auto_1183",
+          "title": "For remote starting and stopping:"
+        }
+      ],
+      "page": 106,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -75,7 +142,24 @@
         "r": 527.734600000001,
         "b": 707.1039999999998
       },
-      "content": "Connect a start/programmed stop button (S1') between terminals 1 and 2 of connector (X108)(=DIO3 on the controller)."
+      "content": "Connect a start/programmed stop button (S1') between terminals 1 and 2 of connector (X108)(=DIO3 on the controller).",
+      "section_id": "sec_auto_1183",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7       Operating instructions"
+        },
+        {
+          "id": "sec_auto_1183",
+          "title": "For remote starting and stopping:"
+        }
+      ],
+      "page": 106,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -90,7 +174,23 @@
       },
       "content": "For remote loading/unloading (via external pressure switch):",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1186",
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7       Operating instructions"
+        },
+        {
+          "id": "sec_auto_1186",
+          "title": "For remote loading/unloading (via external pressure switch):"
+        }
+      ],
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "page": 106,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -103,7 +203,24 @@
         "r": 527.5959999999993,
         "b": 601.5039999999995
       },
-      "content": "Compressors with an Elektronikon Graphic controller can also be wired to load and unload depending from the status of a pressure switch:"
+      "content": "Compressors with an Elektronikon Graphic controller can also be wired to load and unload depending from the status of a pressure switch:",
+      "section_id": "sec_auto_1186",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7       Operating instructions"
+        },
+        {
+          "id": "sec_auto_1186",
+          "title": "For remote loading/unloading (via external pressure switch):"
+        }
+      ],
+      "page": 106,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -116,7 +233,24 @@
         "r": 534.6238999999985,
         "b": 548.7039999999993
       },
-      "content": "Bridge terminals 1 and 3 of connector (X1 08a) (=DIO5 on the controller) and connect a load/unload (pressure) switch (S4') between terminals 1 and 2 of connector strip (X109) (= DIO6 on the controller). This results in loading and unloading of the compressor at the closing and opening pressures of the external pressure switch respectively."
+      "content": "Bridge terminals 1 and 3 of connector (X1 08a) (=DIO5 on the controller) and connect a load/unload (pressure) switch (S4') between terminals 1 and 2 of connector strip (X109) (= DIO6 on the controller). This results in loading and unloading of the compressor at the closing and opening pressures of the external pressure switch respectively.",
+      "section_id": "sec_auto_1186",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7       Operating instructions"
+        },
+        {
+          "id": "sec_auto_1186",
+          "title": "For remote loading/unloading (via external pressure switch):"
+        }
+      ],
+      "page": 106,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -129,7 +263,24 @@
         "r": 310.8232,
         "b": 535.5039999999992
       },
-      "content": "See section Electrical system to locate the connectors."
+      "content": "See section Electrical system to locate the connectors.",
+      "section_id": "sec_auto_1186",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7       Operating instructions"
+        },
+        {
+          "id": "sec_auto_1186",
+          "title": "For remote loading/unloading (via external pressure switch):"
+        }
+      ],
+      "page": 106,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -142,7 +293,24 @@
         "r": 458.6236000000007,
         "b": 521.457
       },
-      "content": "LAN control: The compressor is controlled via a local network. Consult Atlas Copco."
+      "content": "LAN control: The compressor is controlled via a local network. Consult Atlas Copco.",
+      "section_id": "sec_auto_1186",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7       Operating instructions"
+        },
+        {
+          "id": "sec_auto_1186",
+          "title": "For remote loading/unloading (via external pressure switch):"
+        }
+      ],
+      "page": 106,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -157,7 +325,24 @@
       },
       "content": "7.2    Initial start-up",
       "level": 2,
-      "role": "section"
+      "section_number": "7.2",
+      "section_id": "sec_7_2",
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7       Operating instructions"
+        },
+        {
+          "id": "sec_7_2",
+          "title": "7.2    Initial start-up"
+        }
+      ],
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "page": 106,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -172,7 +357,23 @@
       },
       "content": "Safety",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1192",
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7       Operating instructions"
+        },
+        {
+          "id": "sec_auto_1192",
+          "title": "Safety"
+        }
+      ],
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "page": 106,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -187,7 +388,23 @@
       },
       "content": "Procedure",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1193",
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7       Operating instructions"
+        },
+        {
+          "id": "sec_auto_1193",
+          "title": "Procedure"
+        }
+      ],
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "page": 106,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -205,7 +422,24 @@
       "next_block_id": "txt_0831",
       "width": 26,
       "height": 22,
-      "image_hash": "ced17d2908d94ebc35dcc2f6546a2dd027209d3a8e20758497d828b22d1fa481"
+      "image_hash": "ced17d2908d94ebc35dcc2f6546a2dd027209d3a8e20758497d828b22d1fa481",
+      "section_id": "sec_auto_1193",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7       Operating instructions"
+        },
+        {
+          "id": "sec_auto_1193",
+          "title": "Procedure"
+        }
+      ],
+      "page": 106,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -223,7 +457,24 @@
       "next_block_id": "txt_0831",
       "width": 22,
       "height": 23,
-      "image_hash": "6b44e6863e9330b6cbda2db6f581644792e67f6498605a3fd099dc9779f2f47d"
+      "image_hash": "6b44e6863e9330b6cbda2db6f581644792e67f6498605a3fd099dc9779f2f47d",
+      "section_id": "sec_auto_1193",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7       Operating instructions"
+        },
+        {
+          "id": "sec_auto_1193",
+          "title": "Procedure"
+        }
+      ],
+      "page": 106,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -236,7 +487,24 @@
         "r": 383.0617803,
         "b": 412.400404
       },
-      "content": "The operator must apply all relevant Safety precautions."
+      "content": "The operator must apply all relevant Safety precautions.",
+      "section_id": "sec_auto_1193",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7       Operating instructions"
+        },
+        {
+          "id": "sec_auto_1193",
+          "title": "Procedure"
+        }
+      ],
+      "page": 106,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -249,7 +517,24 @@
         "r": 529.2256888099998,
         "b": 318.32334160000005
       },
-      "content": "For the location of the air outlet valve and the drain connections, see sections Introduction and Condensate system."
+      "content": "For the location of the air outlet valve and the drain connections, see sections Introduction and Condensate system.",
+      "section_id": "sec_auto_1193",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7       Operating instructions"
+        },
+        {
+          "id": "sec_auto_1193",
+          "title": "Procedure"
+        }
+      ],
+      "page": 106,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

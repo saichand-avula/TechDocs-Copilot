@@ -19,7 +19,19 @@
       },
       "content": "Examples",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_217",
+      "section_path": [
+        {
+          "id": "sec_auto_217",
+          "title": "Examples"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 2,
+      "page": 13,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -34,7 +46,20 @@
       },
       "markdown": "| Pump type                                 | Lifting method                                                |\n|-------------------------------------------|---------------------------------------------------------------|\n| Mounted on top of a Polyshield ANSI Combo | See separate information regarding the Polyshield ANSI Combo. |",
       "rows": 2,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_auto_217",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_217",
+          "title": "Examples"
+        }
+      ],
+      "page": 13,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -50,12 +75,26 @@
       "image_path": "figures/figure_0016.png",
       "previous_block_id": "txt_0197",
       "next_block_id": "txt_0198",
-      "caption_id": "txt_0198",
       "caption": ": Example of a proper lifting method",
       "figure_number": "Figure 1",
       "image_hash": "a5de6369513e683f8b4049a615eac02627897231c952845e8d02853e23b56765",
       "width": 82,
-      "height": 133
+      "height": 133,
+      "section_id": "sec_auto_217",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_217",
+          "title": "Examples"
+        }
+      ],
+      "page": 13,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0016",
+      "source": "pdf_text",
+      "caption_id": "txt_0198"
     },
     {
       "type": "caption",
@@ -69,6 +108,20 @@
         "b": 514.2741
       },
       "content": "Figure 1: Example of a proper lifting method",
+      "section_id": "sec_auto_217",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_217",
+          "title": "Examples"
+        }
+      ],
+      "page": 13,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0016",
+      "source": "pdf_text",
       "caption_for": "fig_0016"
     },
     {
@@ -87,7 +140,20 @@
       "next_block_id": "txt_0199",
       "image_hash": "dd88e5e6180cd555097aebfb1bbf64d0ffe5bc73e48a298f210db307e8e3514f",
       "width": 134,
-      "height": 136
+      "height": 136,
+      "section_id": "sec_auto_217",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_217",
+          "title": "Examples"
+        }
+      ],
+      "page": 13,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "admonition",
@@ -101,7 +167,20 @@
         "b": 321.40360999999996
       },
       "content": "NOTICE: Do not use this lifting method to lift a Polyshield ANSI Combo with the pump and motor mounted. Doing so may result in equipment damage.",
-      "severity": "note"
+      "severity": "note",
+      "section_id": "sec_auto_217",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_217",
+          "title": "Examples"
+        }
+      ],
+      "page": 13,
+      "chunk_hint": "admonition",
+      "semantic_role": "note",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -117,12 +196,26 @@
       "image_path": "figures/figure_0018.png",
       "previous_block_id": "txt_0199",
       "next_block_id": "txt_0200",
-      "caption_id": "txt_0202",
       "caption": ": Example of a proper lifting method",
       "figure_number": "Figure 3",
       "image_hash": "45397c441c8a66b121568686d4af011da565b4ff84a1b870ab9c5d4935898cb3",
       "width": 136,
-      "height": 138
+      "height": 138,
+      "section_id": "sec_auto_217",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_217",
+          "title": "Examples"
+        }
+      ],
+      "page": 13,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0018",
+      "source": "pdf_text",
+      "caption_id": "txt_0202"
     },
     {
       "type": "caption",
@@ -136,6 +229,19 @@
         "b": 300.90999999999997
       },
       "content": "Figure 2: Example of a proper lifting method",
+      "section_id": "sec_auto_217",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_217",
+          "title": "Examples"
+        }
+      ],
+      "page": 13,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "source": "pdf_text",
       "caption_for": "fig_0018"
     },
     {
@@ -150,7 +256,20 @@
         "b": 93.86625000000004
       },
       "content": "NOTICE: Do not use this lifting method to lift a Polyshield ANSI Combo with the pump and motor mounted. Doing so may result in equipment damage.",
-      "severity": "note"
+      "severity": "note",
+      "section_id": "sec_auto_217",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_217",
+          "title": "Examples"
+        }
+      ],
+      "page": 13,
+      "chunk_hint": "admonition",
+      "semantic_role": "note",
+      "source": "pdf_text"
     },
     {
       "type": "caption",
@@ -164,6 +283,20 @@
         "b": 73.37263999999993
       },
       "content": "Figure 3: Example of a proper lifting method",
+      "section_id": "sec_auto_217",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_217",
+          "title": "Examples"
+        }
+      ],
+      "page": 13,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0018",
+      "source": "pdf_text",
       "caption_for": "fig_0018"
     }
   ],

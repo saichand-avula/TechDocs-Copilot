@@ -19,7 +19,23 @@
       },
       "content": "MUFFLER/SPARK ARRESTER",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_693",
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8. Routine Maintenance"
+        },
+        {
+          "id": "sec_auto_693",
+          "title": "MUFFLER/SPARK ARRESTER"
+        }
+      ],
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "page": 56,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -32,7 +48,24 @@
         "r": 291.6268000000006,
         "b": 645.3593492035387
       },
-      "content": "It may be necessary to clean out the spark arrester if the generator set is experiencing low power. Park the vehicle away from grass, brush or debris that could be ignited by sparks expelled during this procedure. The spark arrester meets U.S. Forest Service requirements."
+      "content": "It may be necessary to clean out the spark arrester if the generator set is experiencing low power. Park the vehicle away from grass, brush or debris that could be ignited by sparks expelled during this procedure. The spark arrester meets U.S. Forest Service requirements.",
+      "section_id": "sec_auto_693",
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8. Routine Maintenance"
+        },
+        {
+          "id": "sec_auto_693",
+          "title": "MUFFLER/SPARK ARRESTER"
+        }
+      ],
+      "page": 56,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -46,7 +79,24 @@
         "b": 546.7718492035389
       },
       "content": "To clean the spark arrester, park the vehicle on a non-flammable, washable surface, and remove the 1/8 inch pipe plug from the bottom of the muffler. Run the generator set with a full load for five minutes.  Stop the generator set and allow the muffler to cool.  Replace the pipe plug in the muffler.  See Figure 7-8.",
-      "hyperlink_hint": true
+      "hyperlink_hint": true,
+      "section_id": "sec_auto_693",
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8. Routine Maintenance"
+        },
+        {
+          "id": "sec_auto_693",
+          "title": "MUFFLER/SPARK ARRESTER"
+        }
+      ],
+      "page": 56,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -62,12 +112,30 @@
       "image_path": "figures/figure_0036.png",
       "previous_block_id": "txt_0658",
       "next_block_id": "txt_0659",
-      "caption_id": "txt_0659",
       "caption": ".  EXHAUST MUFFLER",
       "figure_number": "FIGURE 8-8",
       "image_hash": "46fb4447779e65f7e7ec4ca2277668b7524016e9eda95a613ca5280371dfb1de",
       "width": 245,
-      "height": 172
+      "height": 172,
+      "section_id": "sec_auto_693",
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8. Routine Maintenance"
+        },
+        {
+          "id": "sec_auto_693",
+          "title": "MUFFLER/SPARK ARRESTER"
+        }
+      ],
+      "page": 56,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0036",
+      "source": "pdf_text",
+      "caption_id": "txt_0659"
     },
     {
       "type": "caption",
@@ -81,6 +149,24 @@
         "b": 342.51665693988764
       },
       "content": "FIGURE 8-8.  EXHAUST MUFFLER",
+      "section_id": "sec_auto_693",
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8. Routine Maintenance"
+        },
+        {
+          "id": "sec_auto_693",
+          "title": "MUFFLER/SPARK ARRESTER"
+        }
+      ],
+      "page": 56,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0036",
+      "source": "pdf_text",
       "caption_for": "fig_0036"
     },
     {
@@ -96,7 +182,23 @@
       },
       "content": "ALTERNATOR",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_698",
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8. Routine Maintenance"
+        },
+        {
+          "id": "sec_auto_698",
+          "title": "ALTERNATOR"
+        }
+      ],
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "page": 56,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -111,7 +213,23 @@
       },
       "content": "Note: There is a consumer alternator service strategy change starting with HDKAG Spec J to K alternators/serialized alternators. See below for more information.",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_699",
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8. Routine Maintenance"
+        },
+        {
+          "id": "sec_auto_699",
+          "title": "Note: There is a consumer alternator service strategy change starting with HDKAG Spec J to K alternators/serialized alternators. See below for more information."
+        }
+      ],
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "page": 56,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -124,7 +242,24 @@
         "r": 564.7645999999997,
         "b": 610.4935492035388
       },
-      "content": "Beginning with HDKAG Spec K the rotor (A) and stator (B) will no longer be orderable as individual service parts. Going forward there will be one part number for the complete alternator assembly (C). See Table 8 -2."
+      "content": "Beginning with HDKAG Spec K the rotor (A) and stator (B) will no longer be orderable as individual service parts. Going forward there will be one part number for the complete alternator assembly (C). See Table 8 -2.",
+      "section_id": "sec_auto_699",
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8. Routine Maintenance"
+        },
+        {
+          "id": "sec_auto_699",
+          "title": "Note: There is a consumer alternator service strategy change starting with HDKAG Spec J to K alternators/serialized alternators. See below for more information."
+        }
+      ],
+      "page": 56,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -139,7 +274,23 @@
       },
       "content": "TABLE 8 -2. SUMMARY OF SERVICE STRATEGY CHANGE",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_701",
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8. Routine Maintenance"
+        },
+        {
+          "id": "sec_auto_701",
+          "title": "TABLE 8 -2. SUMMARY OF SERVICE STRATEGY CHANGE"
+        }
+      ],
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "page": 56,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -156,7 +307,24 @@
       "title": "TABLE 8 -2. SUMMARY OF SERVICE STRATEGY CHANGE",
       "table_number": "TABLE 8",
       "rows": 3,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_auto_701",
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8. Routine Maintenance"
+        },
+        {
+          "id": "sec_auto_701",
+          "title": "TABLE 8 -2. SUMMARY OF SERVICE STRATEGY CHANGE"
+        }
+      ],
+      "page": 56,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -169,7 +337,24 @@
         "r": 564.7909999999997,
         "b": 356.39654920353894
       },
-      "content": "The new (Spec K) may have slightly different characteristics,  but  the  overall  form,  fit,  function,  and performance will be the same as that of existing alternators. New spec alternators will be backwards compatible  with  old  spec  generator  set  models. However,  the  new  spec  and  old  spec  alternator parts are not interchangeable. If a rotor or stator fails in the existing alternator, the entire alternator must be replaced with the new (Spec K) alternator assembly."
+      "content": "The new (Spec K) may have slightly different characteristics,  but  the  overall  form,  fit,  function,  and performance will be the same as that of existing alternators. New spec alternators will be backwards compatible  with  old  spec  generator  set  models. However,  the  new  spec  and  old  spec  alternator parts are not interchangeable. If a rotor or stator fails in the existing alternator, the entire alternator must be replaced with the new (Spec K) alternator assembly.",
+      "section_id": "sec_auto_701",
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8. Routine Maintenance"
+        },
+        {
+          "id": "sec_auto_701",
+          "title": "TABLE 8 -2. SUMMARY OF SERVICE STRATEGY CHANGE"
+        }
+      ],
+      "page": 56,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -182,7 +367,24 @@
         "r": 564.8823000000004,
         "b": 327.54024920353896
       },
-      "content": "Wiring connections and labels will remain the same as the old spec alternators."
+      "content": "Wiring connections and labels will remain the same as the old spec alternators.",
+      "section_id": "sec_auto_701",
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8. Routine Maintenance"
+        },
+        {
+          "id": "sec_auto_701",
+          "title": "TABLE 8 -2. SUMMARY OF SERVICE STRATEGY CHANGE"
+        }
+      ],
+      "page": 56,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -195,7 +397,24 @@
         "r": 564.758,
         "b": 285.984449203539
       },
-      "content": "Each new spec alternator is serialized. The serial number sticker will be located on the stator and rotor."
+      "content": "Each new spec alternator is serialized. The serial number sticker will be located on the stator and rotor.",
+      "section_id": "sec_auto_701",
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8. Routine Maintenance"
+        },
+        {
+          "id": "sec_auto_701",
+          "title": "TABLE 8 -2. SUMMARY OF SERVICE STRATEGY CHANGE"
+        }
+      ],
+      "page": 56,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -208,7 +427,24 @@
         "r": 564.7008000000006,
         "b": 257.07094920353893
       },
-      "content": "New spec alternators may have different cold resistive (R) values depending on model."
+      "content": "New spec alternators may have different cold resistive (R) values depending on model.",
+      "section_id": "sec_auto_701",
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8. Routine Maintenance"
+        },
+        {
+          "id": "sec_auto_701",
+          "title": "TABLE 8 -2. SUMMARY OF SERVICE STRATEGY CHANGE"
+        }
+      ],
+      "page": 56,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -221,7 +457,24 @@
         "r": 564.7007999999997,
         "b": 228.214649203539
       },
-      "content": "Bearings and slip rings with not be individually replaceable on the new spec alternators."
+      "content": "Bearings and slip rings with not be individually replaceable on the new spec alternators.",
+      "section_id": "sec_auto_701",
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8. Routine Maintenance"
+        },
+        {
+          "id": "sec_auto_701",
+          "title": "TABLE 8 -2. SUMMARY OF SERVICE STRATEGY CHANGE"
+        }
+      ],
+      "page": 56,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -234,7 +487,24 @@
         "r": 564.7899000000002,
         "b": 161.37424920353897
       },
-      "content": "The alternator brush block, end bell and stator can be removed from the top of the alternator/engine base, leaving the rotor in place. It is necessary to remove the rotor drive pulley before the rotor can be pulled up out of the base."
+      "content": "The alternator brush block, end bell and stator can be removed from the top of the alternator/engine base, leaving the rotor in place. It is necessary to remove the rotor drive pulley before the rotor can be pulled up out of the base.",
+      "section_id": "sec_auto_701",
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8. Routine Maintenance"
+        },
+        {
+          "id": "sec_auto_701",
+          "title": "TABLE 8 -2. SUMMARY OF SERVICE STRATEGY CHANGE"
+        }
+      ],
+      "page": 56,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

@@ -19,7 +19,23 @@
       },
       "content": "PCB(1)",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_970",
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Introduction"
+        },
+        {
+          "id": "sec_auto_970",
+          "title": "PCB(1)"
+        }
+      ],
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "page": 90,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -36,7 +52,24 @@
       "previous_block_id": "txt_0699",
       "image_hash": "0e1ee6996121ad67ff17758709fa2219517c1ae126fc2f1a055f0bc79d4d2222",
       "width": 537,
-      "height": 414
+      "height": 414,
+      "section_id": "sec_auto_970",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Introduction"
+        },
+        {
+          "id": "sec_auto_970",
+          "title": "PCB(1)"
+        }
+      ],
+      "page": 90,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

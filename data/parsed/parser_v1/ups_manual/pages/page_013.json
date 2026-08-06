@@ -18,8 +18,21 @@
         "b": 720.836101363195
       },
       "content": "2. Fault protection",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "2",
+      "section_id": "sec_2",
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2. Fault protection"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 13,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -32,7 +45,20 @@
         "r": 541.2125599999995,
         "b": 689.756101363195
       },
-      "content": "UPS will give sound and light alarm if any fault, and it can inquire the type and time of faults in menu of historical record."
+      "content": "UPS will give sound and light alarm if any fault, and it can inquire the type and time of faults in menu of historical record.",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2. Fault protection"
+        }
+      ],
+      "page": 13,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -46,11 +72,25 @@
         "b": 261.0736369539335
       },
       "markdown": "Table 2-3: Fault protection\n\n| Fault Protection Item                    | UPS Motion Method                                                                                                                                                                                            |\n|------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Fault of low output voltage in phase A   | switch, convert the output to bypass; after troubleshooting, press button 'FAULT CLEAR' on panel to exit the UPS from fault mode, recover the normal working status, and the load will not power down again. |\n| Fault of high output voltage in phase A  | switch, convert the output to bypass; after troubleshooting, press button 'FAULT CLEAR' on panel to exit the UPS from fault mode, recover the normal working status, and the load will not power down again. |\n| Fault of low output voltage in phase B   | switch, convert the output to bypass; after troubleshooting, press button 'FAULT CLEAR' on panel to exit the UPS from fault mode, recover the normal working status, and the load will not power down again. |\n| Fault of high output voltage in phase B  | switch, convert the output to bypass; after troubleshooting, press button 'FAULT CLEAR' on panel to exit the UPS from fault mode, recover the normal working status, and the load will not power down again. |\n| Fault of low output voltage in phase C   | switch, convert the output to bypass; after troubleshooting, press button 'FAULT CLEAR' on panel to exit the UPS from fault mode, recover the normal working status, and the load will not power down again. |\n| Fault of high output voltage in phase C  | switch, convert the output to bypass; after troubleshooting, press button 'FAULT CLEAR' on panel to exit the UPS from fault mode, recover the normal working status, and the load will not power down again. |\n| Fault of overvoltage of bus              | switch, convert the output to bypass; after troubleshooting, press button 'FAULT CLEAR' on panel to exit the UPS from fault mode, recover the normal working status, and the load will not power down again. |\n| Fault of low voltage of bus              | switch, convert the output to bypass; after troubleshooting, press button 'FAULT CLEAR' on panel to exit the UPS from fault mode, recover the normal working status, and the load will not power down again. |\n| Fault of over-temperature of radiator    | switch, convert the output to bypass; after troubleshooting, press button 'FAULT CLEAR' on panel to exit the UPS from fault mode, recover the normal working status, and the load will not power down again. |\n| Fault of input soft -start               | switch, convert the output to bypass; after troubleshooting, press button 'FAULT CLEAR' on panel to exit the UPS from fault mode, recover the normal working status, and the load will not power down again. |\n| Fault of rectifier                       | switch, convert the output to bypass; after troubleshooting, press button 'FAULT CLEAR' on panel to exit the UPS from fault mode, recover the normal working status, and the load will not power down again. |\n| Fault of short circuit of bus            | switch, convert the output to bypass; after troubleshooting, press button 'FAULT CLEAR' on panel to exit the UPS from fault mode, recover the normal working status, and the load will not power down again. |\n| Fault of fuse                            | switch, convert the output to bypass; after troubleshooting, press button 'FAULT CLEAR' on panel to exit the UPS from fault mode, recover the normal working status, and the load will not power down again. |\n| Fault of over-temperature of inverter    | switch, convert the output to bypass; after troubleshooting, press button 'FAULT CLEAR' on panel to exit the UPS from fault mode, recover the normal working status, and the load will not power down again. |\n| Fault of inverter IGBT over-current      | switch, convert the output to bypass; after troubleshooting, press button 'FAULT CLEAR' on panel to exit the UPS from fault mode, recover the normal working status, and the load will not power down again. |\n| Fault of rectification IGBT over-current | switch, convert the output to bypass; after troubleshooting, press button 'FAULT CLEAR' on panel to exit the UPS from fault mode, recover the normal working status, and the load will not power down again. |\n| Fault of inverter soft-start             | switch, convert the output to bypass; after troubleshooting, press button 'FAULT CLEAR' on panel to exit the UPS from fault mode, recover the normal working status, and the load will not power down again. |\n| Fault of inverter SCR                    | switch, convert the output to bypass; after troubleshooting, press button 'FAULT CLEAR' on panel to exit the UPS from fault mode, recover the normal working status, and the load will not power down again. |\n| Fault of charger                         | switch, convert the output to bypass; after troubleshooting, press button 'FAULT CLEAR' on panel to exit the UPS from fault mode, recover the normal working status, and the load will not power down again. |\n| Fault of bypass SCR                      | Power off (ECO mode, output to inverter)                                                                                                                                                                     |\n| Fault of bypass overload delay           | Power off                                                                                                                                                                                                    |\n| Fault of output short circuit            | Switch to bypass                                                                                                                                                                                             |\n| Fault of main power                      | Forbid to start the rectifier                                                                                                                                                                                |\n| Fault of bypass                          | Forbid to switch                                                                                                                                                                                             |",
-      "caption_id": "txt_0127",
       "title": "Table 2-3: Fault protection",
       "table_number": "Table 2-3",
       "rows": 25,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2. Fault protection"
+        }
+      ],
+      "page": 13,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "group_id": "grp_tbl_0006",
+      "source": "pdf_text",
+      "caption_id": "txt_0127"
     },
     {
       "type": "caption",
@@ -64,6 +104,20 @@
         "b": 674.156101363195
       },
       "content": "Table 2-3: Fault protection",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2. Fault protection"
+        }
+      ],
+      "page": 13,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_tbl_0006",
+      "source": "pdf_text",
       "caption_for": "tbl_0006"
     },
     {
@@ -79,7 +133,24 @@
       },
       "content": "2.6 Product Structure",
       "level": 2,
-      "role": "section"
+      "section_number": "2.6",
+      "section_id": "sec_2_6",
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2. Fault protection"
+        },
+        {
+          "id": "sec_2_6",
+          "title": "2.6 Product Structure"
+        }
+      ],
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "page": 13,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -92,7 +163,24 @@
         "r": 541.3401599999992,
         "b": 158.556101363195
       },
-      "content": "It considers operability of site maintenance for structure design, it uses advanced front maintenance design concept, realize modular design by functions for internal of UPS, and it is convenient for installation and maintenance."
+      "content": "It considers operability of site maintenance for structure design, it uses advanced front maintenance design concept, realize modular design by functions for internal of UPS, and it is convenient for installation and maintenance.",
+      "section_id": "sec_2_6",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2. Fault protection"
+        },
+        {
+          "id": "sec_2_6",
+          "title": "2.6 Product Structure"
+        }
+      ],
+      "page": 13,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

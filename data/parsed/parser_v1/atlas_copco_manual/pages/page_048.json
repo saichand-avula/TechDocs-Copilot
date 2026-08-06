@@ -21,7 +21,24 @@
       "next_block_id": "txt_0329",
       "width": 47,
       "height": 23,
-      "image_hash": "7577891dcf1743bd2e7a735ef2621e01244d960bde43e28868c27d7c1437ddb9"
+      "image_hash": "7577891dcf1743bd2e7a735ef2621e01244d960bde43e28868c27d7c1437ddb9",
+      "section_id": "sec_auto_496",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3       Elektronikon® Graphic controller"
+        },
+        {
+          "id": "sec_auto_496",
+          "title": "Procedure"
+        }
+      ],
+      "page": 48,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -36,7 +53,23 @@
       },
       "content": "Text on figure",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_503",
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3       Elektronikon® Graphic controller"
+        },
+        {
+          "id": "sec_auto_503",
+          "title": "Text on figure"
+        }
+      ],
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "page": 48,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -51,7 +84,24 @@
       },
       "markdown": "| (1)   | Configuration     |\n|-------|-------------------|\n| (2)   | Pressure Settings |\n| (3)   | Main screen       |",
       "rows": 3,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_auto_503",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3       Elektronikon® Graphic controller"
+        },
+        {
+          "id": "sec_auto_503",
+          "title": "Text on figure"
+        }
+      ],
+      "page": 48,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -64,7 +114,24 @@
         "r": 488.10599999999914,
         "b": 675.904
       },
-      "content": "Using the scroll keys (1), move the cursor to the settings icon (see above, section Menu icon)"
+      "content": "Using the scroll keys (1), move the cursor to the settings icon (see above, section Menu icon)",
+      "section_id": "sec_auto_503",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3       Elektronikon® Graphic controller"
+        },
+        {
+          "id": "sec_auto_503",
+          "title": "Text on figure"
+        }
+      ],
+      "page": 48,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -77,7 +144,24 @@
         "r": 369.6513999999999,
         "b": 656.764
       },
-      "content": "Press the enter key (2), a screen similar to the one below appears:"
+      "content": "Press the enter key (2), a screen similar to the one below appears:",
+      "section_id": "sec_auto_503",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3       Elektronikon® Graphic controller"
+        },
+        {
+          "id": "sec_auto_503",
+          "title": "Text on figure"
+        }
+      ],
+      "page": 48,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -92,7 +176,24 @@
       },
       "content": "3.10    Service menu",
       "level": 2,
-      "role": "section"
+      "section_number": "3.10",
+      "section_id": "sec_3_10",
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3       Elektronikon® Graphic controller"
+        },
+        {
+          "id": "sec_3_10",
+          "title": "3.10    Service menu"
+        }
+      ],
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "page": 48,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -107,7 +208,23 @@
       },
       "content": "Control panel",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_508",
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3       Elektronikon® Graphic controller"
+        },
+        {
+          "id": "sec_auto_508",
+          "title": "Control panel"
+        }
+      ],
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "page": 48,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -122,7 +239,23 @@
       },
       "content": "Menu icon, service",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_509",
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3       Elektronikon® Graphic controller"
+        },
+        {
+          "id": "sec_auto_509",
+          "title": "Menu icon, service"
+        }
+      ],
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "page": 48,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -137,7 +270,23 @@
       },
       "content": "Function",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_510",
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3       Elektronikon® Graphic controller"
+        },
+        {
+          "id": "sec_auto_510",
+          "title": "Function"
+        }
+      ],
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "page": 48,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -150,7 +299,24 @@
         "r": 290.1354000000001,
         "b": 190.44399999999996
       },
-      "content": "To reset the service plans which are carried out."
+      "content": "To reset the service plans which are carried out.",
+      "section_id": "sec_auto_510",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3       Elektronikon® Graphic controller"
+        },
+        {
+          "id": "sec_auto_510",
+          "title": "Function"
+        }
+      ],
+      "page": 48,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -163,7 +329,24 @@
         "r": 339.6585,
         "b": 171.30399999999997
       },
-      "content": "To check when the next service plans are to be carried out."
+      "content": "To check when the next service plans are to be carried out.",
+      "section_id": "sec_auto_510",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3       Elektronikon® Graphic controller"
+        },
+        {
+          "id": "sec_auto_510",
+          "title": "Function"
+        }
+      ],
+      "page": 48,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -176,7 +359,24 @@
         "r": 340.42959999999977,
         "b": 152.10349999999994
       },
-      "content": "To find out which service plans were carried out previously."
+      "content": "To find out which service plans were carried out previously.",
+      "section_id": "sec_auto_510",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3       Elektronikon® Graphic controller"
+        },
+        {
+          "id": "sec_auto_510",
+          "title": "Function"
+        }
+      ],
+      "page": 48,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -191,7 +391,23 @@
       },
       "content": "Procedure",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_514",
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3       Elektronikon® Graphic controller"
+        },
+        {
+          "id": "sec_auto_514",
+          "title": "Procedure"
+        }
+      ],
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "page": 48,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -204,7 +420,24 @@
         "r": 281.1715,
         "b": 100.62350000000004
       },
-      "content": "Starting from the Main screen (see Main screen):"
+      "content": "Starting from the Main screen (see Main screen):",
+      "section_id": "sec_auto_514",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3       Elektronikon® Graphic controller"
+        },
+        {
+          "id": "sec_auto_514",
+          "title": "Procedure"
+        }
+      ],
+      "page": 48,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -217,7 +450,24 @@
         "r": 506.19299999999964,
         "b": 81.48350000000005
       },
-      "content": "Move the cursor to the action button Menu and press the enter key (2), following screen appears:"
+      "content": "Move the cursor to the action button Menu and press the enter key (2), following screen appears:",
+      "section_id": "sec_auto_514",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3       Elektronikon® Graphic controller"
+        },
+        {
+          "id": "sec_auto_514",
+          "title": "Procedure"
+        }
+      ],
+      "page": 48,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -234,7 +484,24 @@
       "previous_block_id": "txt_0341",
       "image_hash": "1bf47d87ce0b037eff90c2b1be199c202015f93f05cfb025aaa957cfb00363b1",
       "width": 204,
-      "height": 189
+      "height": 189,
+      "section_id": "sec_auto_514",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3       Elektronikon® Graphic controller"
+        },
+        {
+          "id": "sec_auto_514",
+          "title": "Procedure"
+        }
+      ],
+      "page": 48,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -252,7 +519,24 @@
       "width": 39,
       "height": 38,
       "decorative": true,
-      "image_hash": "34fee5cadbbec36667f2fa3f79d568696dce2189c4d08c9365d051d9dcfa5c3b"
+      "image_hash": "34fee5cadbbec36667f2fa3f79d568696dce2189c4d08c9365d051d9dcfa5c3b",
+      "section_id": "sec_auto_514",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3       Elektronikon® Graphic controller"
+        },
+        {
+          "id": "sec_auto_514",
+          "title": "Procedure"
+        }
+      ],
+      "page": 48,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

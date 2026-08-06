@@ -19,7 +19,23 @@
       },
       "content": "Parameters",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_720",
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3       Elektronikon® Graphic controller"
+        },
+        {
+          "id": "sec_auto_720",
+          "title": "Parameters"
+        }
+      ],
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "page": 67,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -34,7 +50,24 @@
       },
       "markdown": "|                              |            |   Minimum setting |   Factory setting |   Maximum setting |\n|------------------------------|------------|-------------------|-------------------|-------------------|\n| Motor running time in star   | sec        |                 5 |                10 |                10 |\n| Load delay time (star-delta) | sec        |                 0 |                 0 |                10 |\n| Number of motor starts       | starts/day |                 0 |               240 |               240 |\n| Minimum stop time            | sec        |                10 |                20 |                30 |\n| Programmed stop time         | sec        |                 0 |                 3 |                20 |\n| Power recovery time (ARAVF)  | sec        |                10 |                10 |              3600 |\n| Restart delay                | sec        |                 0 |                 0 |              1200 |\n| Communication time-out       | sec        |                10 |                30 |                60 |",
       "rows": 9,
-      "cols": 3
+      "cols": 3,
+      "section_id": "sec_auto_720",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3       Elektronikon® Graphic controller"
+        },
+        {
+          "id": "sec_auto_720",
+          "title": "Parameters"
+        }
+      ],
+      "page": 67,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -49,7 +82,23 @@
       },
       "content": "Protections",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_722",
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3       Elektronikon® Graphic controller"
+        },
+        {
+          "id": "sec_auto_722",
+          "title": "Protections"
+        }
+      ],
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "page": 67,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -64,7 +113,24 @@
       },
       "markdown": "|                                                                 |    |   Minimum setting |   Factory setting |   Maximum setting |\n|-----------------------------------------------------------------|----|-------------------|-------------------|-------------------|\n| Compressor element outlet temperature (shut-down warning level) | °C |                50 |               110 |               119 |\n| Compressor element outlet temperature (shut-down level)         | °C |               111 |               120 |               120 |",
       "rows": 3,
-      "cols": 3
+      "cols": 3,
+      "section_id": "sec_auto_722",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3       Elektronikon® Graphic controller"
+        },
+        {
+          "id": "sec_auto_722",
+          "title": "Protections"
+        }
+      ],
+      "page": 67,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -79,7 +145,24 @@
       },
       "markdown": "| For water-cooled compressors also:               |    |   Minimum setting |   Factory setting |   Maximum setting |\n|--------------------------------------------------|----|-------------------|-------------------|-------------------|\n| Cooling water inlet temperature (warning level)  | °C |                 0 |                50 |                99 |\n| Cooling water outlet temperature (warning level) | °C |                 0 |                60 |                99 |",
       "rows": 3,
-      "cols": 4
+      "cols": 4,
+      "section_id": "sec_auto_722",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3       Elektronikon® Graphic controller"
+        },
+        {
+          "id": "sec_auto_722",
+          "title": "Protections"
+        }
+      ],
+      "page": 67,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -94,7 +177,23 @@
       },
       "content": "Service plan",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_725",
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3       Elektronikon® Graphic controller"
+        },
+        {
+          "id": "sec_auto_725",
+          "title": "Service plan"
+        }
+      ],
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "page": 67,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -107,7 +206,24 @@
         "r": 565.7977999999993,
         "b": 337.444
       },
-      "content": "The built-in service timers will give a Service warning message after their respective preprogrammed time interval has elapsed."
+      "content": "The built-in service timers will give a Service warning message after their respective preprogrammed time interval has elapsed.",
+      "section_id": "sec_auto_725",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3       Elektronikon® Graphic controller"
+        },
+        {
+          "id": "sec_auto_725",
+          "title": "Service plan"
+        }
+      ],
+      "page": 67,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -120,7 +236,24 @@
         "r": 322.7,
         "b": 318.3040000000001
       },
-      "content": "Also see section Preventive maintenance schedule."
+      "content": "Also see section Preventive maintenance schedule.",
+      "section_id": "sec_auto_725",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3       Elektronikon® Graphic controller"
+        },
+        {
+          "id": "sec_auto_725",
+          "title": "Service plan"
+        }
+      ],
+      "page": 67,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -133,7 +266,24 @@
         "r": 537.2736999999989,
         "b": 285.9035000000001
       },
-      "content": "Consult Atlas Copco if a timer setting has to be changed. The intervals must not exceed the nominal intervals and must coincide logically. See section Modifying general settings."
+      "content": "Consult Atlas Copco if a timer setting has to be changed. The intervals must not exceed the nominal intervals and must coincide logically. See section Modifying general settings.",
+      "section_id": "sec_auto_725",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3       Elektronikon® Graphic controller"
+        },
+        {
+          "id": "sec_auto_725",
+          "title": "Service plan"
+        }
+      ],
+      "page": 67,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -148,7 +298,23 @@
       },
       "content": "Terminology",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_729",
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3       Elektronikon® Graphic controller"
+        },
+        {
+          "id": "sec_auto_729",
+          "title": "Terminology"
+        }
+      ],
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "page": 67,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -163,7 +329,24 @@
       },
       "markdown": "| Term                       | Explanation                                                                                                                                                                                                                                                                                                                                                                                           |\n|----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| ARAVF                      | Automatic Restart After Voltage Failure. See section Elektronikon regulator.                                                                                                                                                                                                                                                                                                                          |\n| Power recovery time        | Is the period within which the voltage must be restored to have an automatic restart. Is accessible if the automatic restart is activated. To activate the automatic restart function, consult Atlas Copco.                                                                                                                                                                                           |\n| Restart delay              | This parameter allows to programme that not all compressors are restarted at the same time after a power failure (ARAVF active).                                                                                                                                                                                                                                                                      |\n| Compressor element outlet  | The recommended minimum setting is 70 °C. For testing the temperature sensor the setting can be decreased to 50 °C. Reset the value after testing. The regulator does not accept illogical settings, e.g. if the warning level is programmed at 95 °C, the minimum limit for the shut-down level changes to 96 °C. The recommended difference between the warning level and shut-down level is 10 °C. |\n| Delay at shut- down signal | Is the time for which the signal must exist before the compressor is shut down. If it is required to program this setting to another value, consult Atlas Copco.                                                                                                                                                                                                                                      |",
       "rows": 6,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_auto_729",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3       Elektronikon® Graphic controller"
+        },
+        {
+          "id": "sec_auto_729",
+          "title": "Terminology"
+        }
+      ],
+      "page": 67,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -180,7 +363,24 @@
       "previous_block_id": "txt_0480",
       "image_hash": "b28a1d23de5124d82d6f84120acacff249829ec0e42f4c826059a188d93e4d2e",
       "width": 48,
-      "height": 23
+      "height": 23,
+      "section_id": "sec_auto_729",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3       Elektronikon® Graphic controller"
+        },
+        {
+          "id": "sec_auto_729",
+          "title": "Terminology"
+        }
+      ],
+      "page": 67,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

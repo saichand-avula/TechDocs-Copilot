@@ -18,8 +18,21 @@
         "b": 733.0429409281768
       },
       "content": "1. General",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "1",
+      "section_id": "sec_1",
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. General"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 59,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -32,7 +45,20 @@
         "r": 527.4251880000006,
         "b": 699.0230369281768
       },
-      "content": "This CNC lathe contains three major elements - Body of machine, the Electric Control Panel, Hydraulic Unit, and etc. and each of them is connected with wires and hydraulic pipes."
+      "content": "This CNC lathe contains three major elements - Body of machine, the Electric Control Panel, Hydraulic Unit, and etc. and each of them is connected with wires and hydraulic pipes.",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. General"
+        }
+      ],
+      "page": 59,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -45,7 +71,20 @@
         "r": 527.3179739999988,
         "b": 665.0031329281768
       },
-      "content": "Sine all devices are attached to the body of machine, you can move it as necessary without overhauling the machine."
+      "content": "Sine all devices are attached to the body of machine, you can move it as necessary without overhauling the machine.",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. General"
+        }
+      ],
+      "page": 59,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -58,7 +97,20 @@
         "r": 342.90889199999964,
         "b": 648.0232409281768
       },
-      "content": "There are 2 methods of moving by crane or fork lift."
+      "content": "There are 2 methods of moving by crane or fork lift.",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. General"
+        }
+      ],
+      "page": 59,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -71,7 +123,20 @@
         "r": 527.3470320000002,
         "b": 614.0033369281769
       },
-      "content": "To achieve the desired working, you should follow the installation procedures given in this manual."
+      "content": "To achieve the desired working, you should follow the installation procedures given in this manual.",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. General"
+        }
+      ],
+      "page": 59,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -85,8 +150,21 @@
         "b": 580.043552928177
       },
       "content": "2. Layout of Machine",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "2",
+      "section_id": "sec_2",
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2. Layout of Machine"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 59,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "caption",
@@ -100,6 +178,19 @@
         "b": 546.023648928177
       },
       "content": "Figure 4-1 shows the dimension concerned when attaching special accessories, ie. the chip box and chip conveyor to the body of machine.",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2. Layout of Machine"
+        }
+      ],
+      "page": 59,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "source": "pdf_text",
       "caption_for": "fig_0077"
     },
     {
@@ -116,12 +207,26 @@
       "image_path": "figures/figure_0077.png",
       "previous_block_id": "txt_0312",
       "next_block_id": "txt_0313",
-      "caption_id": "txt_0313",
       "caption": "Layout of Machine",
       "figure_number": "Fig. 4-1",
       "image_hash": "dac43f7ca236d7e0d1b9f1f416dc0d277bddca9888cc7e0efffa40e486b9b54d",
       "width": 444,
-      "height": 361
+      "height": 361,
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2. Layout of Machine"
+        }
+      ],
+      "page": 59,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0077",
+      "source": "pdf_text",
+      "caption_id": "txt_0313"
     },
     {
       "type": "caption",
@@ -135,6 +240,20 @@
         "b": 121.04538892817686
       },
       "content": "Fig. 4-1 Layout of Machine",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2. Layout of Machine"
+        }
+      ],
+      "page": 59,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0077",
+      "source": "pdf_text",
       "caption_for": "fig_0077"
     }
   ],

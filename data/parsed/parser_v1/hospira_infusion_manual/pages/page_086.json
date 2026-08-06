@@ -19,7 +19,24 @@
       },
       "markdown": "| Table 6-3. Error Codes Requiring Technical Service   | Table 6-3. Error Codes Requiring Technical Service   | Table 6-3. Error Codes Requiring Technical Service                | Table 6-3. Error Codes Requiring Technical Service                                                                                                                                            |\n|------------------------------------------------------|------------------------------------------------------|-------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Error Code                                           | Malfunction                                          | Possible Cause                                                    | Corrective Action                                                                                                                                                                             |\n| E451                                                 | Inaccurate delivery                                  | Over/under delivery detected                                      | Turn power off, then on, to reset the infuser Reset time and date, if required (see Section 1.9.2) If error codes recur,                                                                      |\n| E452                                                 | Software failure                                     | Miscellaneous software failures                                   | Turn power off, then on, to reset the infuser Reset time and date, if required (see Section 1.9.2) If error codes recur,                                                                      |\n| E453                                                 | Two SEEP CRC errors                                  | NVRAM data block corrupted                                        | Replace mechanism assembly (see Section 7.2.12.6) Replace CPU PWA (see Section 7.2.12.4) Replace CPU/driver cable (see Section 7.2.12.6) Reset time and date, if required (see Section 1.9.2) |\n| E454                                                 | NVRAM over capacity                                  | Software trying to write into non-existent NVRAM space            | Replace mechanism assembly (see Section 7.2.12.6) Replace CPU PWA (see Section 7.2.12.4) Replace CPU/driver cable (see Section 7.2.12.6) Reset time and date, if required (see Section 1.9.2) |\n| E455                                                 | Invalid device configuration                         | Incorrect flash memory on peripheral PWA                          | Turn power off, then on, to reset the infuser Replace peripheral assembly (see Section 7.2.6)                                                                                                 |\n| E456                                                 | Invalid drug library                                 | A drug library install was started but not completed successfully | Attempt to reinstall the drug library (see the system operating manual) Replace peripheral assembly (see Section 7.2.6)                                                                       |\n| E457                                                 | Drug library corrupted                               | CRC failure on drug library                                       | Reload the library (see the system operating manual)                                                                                                                                          |",
       "rows": 9,
-      "cols": 4
+      "cols": 4,
+      "section_id": "sec_auto_822",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_auto_822",
+          "title": "ERROR CODES REQUIRING TECHNICAL SERVICE"
+        }
+      ],
+      "page": 86,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "footnote",
@@ -32,7 +49,24 @@
         "r": 82.656,
         "b": 224.04009999999994
       },
-      "content": ""
+      "content": "",
+      "section_id": "sec_auto_822",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_auto_822",
+          "title": "ERROR CODES REQUIRING TECHNICAL SERVICE"
+        }
+      ],
+      "page": 86,
+      "chunk_hint": "footnote",
+      "semantic_role": "footnote",
+      "source": "pdf_text"
     },
     {
       "type": "footnote",
@@ -45,7 +79,24 @@
         "r": 471.43885163299984,
         "b": 221.92743492803277
       },
-      "content": "Note: The following error codes are not generated in the biomed service mode:"
+      "content": "Note: The following error codes are not generated in the biomed service mode:",
+      "section_id": "sec_auto_822",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_auto_822",
+          "title": "ERROR CODES REQUIRING TECHNICAL SERVICE"
+        }
+      ],
+      "page": 86,
+      "chunk_hint": "footnote",
+      "semantic_role": "footnote",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -60,7 +111,24 @@
       },
       "markdown": "| E320   | E323   | E326   | E346   | E373   | E376   | E379   | E431   | E441   |\n|--------|--------|--------|--------|--------|--------|--------|--------|--------|\n| E321   | E324   | E343   | E371   | E374   | E377   | E380   | E432   | E447   |\n| E322   | E325   | E345   | E372   | E375   | E378   | E430   | E433   |        |",
       "rows": 3,
-      "cols": 9
+      "cols": 9,
+      "section_id": "sec_auto_822",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_auto_822",
+          "title": "ERROR CODES REQUIRING TECHNICAL SERVICE"
+        }
+      ],
+      "page": 86,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "footnote",
@@ -73,7 +141,24 @@
         "r": 504.08851135110024,
         "b": 108.40779483203278
       },
-      "content": " Note: Some error codes include sub-ID codes. These sub-ID codes are intended for Hospira internal use only, and should be included when contacting Hospira Technical Support Operations (see Section 6.1) ."
+      "content": " Note: Some error codes include sub-ID codes. These sub-ID codes are intended for Hospira internal use only, and should be included when contacting Hospira Technical Support Operations (see Section 6.1) .",
+      "section_id": "sec_auto_822",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_auto_822",
+          "title": "ERROR CODES REQUIRING TECHNICAL SERVICE"
+        }
+      ],
+      "page": 86,
+      "chunk_hint": "footnote",
+      "semantic_role": "footnote",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

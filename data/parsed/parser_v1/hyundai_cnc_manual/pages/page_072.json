@@ -18,8 +18,21 @@
         "b": 755.7829409281768
       },
       "content": "7-3. Oiling Hydraulic Chuck",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "7",
+      "section_id": "sec_7",
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7-3. Oiling Hydraulic Chuck"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 72,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -32,7 +45,20 @@
         "r": 480.63880199999977,
         "b": 738.8030489281768
       },
-      "content": "Fill up the chuck daily while opening and closing it by means of the grease gun."
+      "content": "Fill up the chuck daily while opening and closing it by means of the grease gun.",
+      "section_id": "sec_7",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7-3. Oiling Hydraulic Chuck"
+        }
+      ],
+      "page": 72,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -48,12 +74,26 @@
       "image_path": "figures/figure_0099.png",
       "previous_block_id": "txt_0417",
       "next_block_id": "txt_0418",
-      "caption_id": "txt_0419",
       "caption": ". Lubrication Oiling Table",
       "figure_number": "Table 4-1",
       "image_hash": "043dd00c35347d79da4fb0edcc7e68bd527cd7956152c107e4c2074ce01be044",
       "width": 445,
-      "height": 169
+      "height": 169,
+      "section_id": "sec_7",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7-3. Oiling Hydraulic Chuck"
+        }
+      ],
+      "page": 72,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0099",
+      "source": "pdf_text",
+      "caption_id": "txt_0419"
     },
     {
       "type": "caption",
@@ -67,6 +107,19 @@
         "b": 534.8038649281771
       },
       "content": "Fig 4-9 Greasing Chuck",
+      "section_id": "sec_7",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7-3. Oiling Hydraulic Chuck"
+        }
+      ],
+      "page": 72,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "source": "pdf_text",
       "caption_for": "fig_0099"
     },
     {
@@ -84,7 +137,20 @@
       "title": "Table 4-1. Lubrication Oiling Table",
       "table_number": "Table 4-1",
       "rows": 11,
-      "cols": 7
+      "cols": 7,
+      "section_id": "sec_7",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7-3. Oiling Hydraulic Chuck"
+        }
+      ],
+      "page": 72,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "caption",
@@ -98,6 +164,20 @@
         "b": 517.8239729281771
       },
       "content": "Table 4-1. Lubrication Oiling Table",
+      "section_id": "sec_7",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7-3. Oiling Hydraulic Chuck"
+        }
+      ],
+      "page": 72,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0099",
+      "source": "pdf_text",
       "caption_for": "fig_0099"
     }
   ],

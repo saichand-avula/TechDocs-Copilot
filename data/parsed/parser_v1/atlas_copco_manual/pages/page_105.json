@@ -18,8 +18,21 @@
         "b": 754.9440000000001
       },
       "content": "7       Operating instructions",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "7",
+      "section_id": "sec_7",
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7       Operating instructions"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 105,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -34,7 +47,24 @@
       },
       "content": "7.1     Before initial start-up",
       "level": 2,
-      "role": "section"
+      "section_number": "7.1",
+      "section_id": "sec_7_1",
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7       Operating instructions"
+        },
+        {
+          "id": "sec_7_1",
+          "title": "7.1     Before initial start-up"
+        }
+      ],
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "page": 105,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -49,7 +79,23 @@
       },
       "content": "Safety",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1160",
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7       Operating instructions"
+        },
+        {
+          "id": "sec_auto_1160",
+          "title": "Safety"
+        }
+      ],
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "page": 105,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -67,7 +113,24 @@
       "next_block_id": "txt_0803",
       "width": 26,
       "height": 23,
-      "image_hash": "8f72291ef31c8f643f8d6a23b611a2d6070aeaa49acc1b7be4e9b988b0a43785"
+      "image_hash": "8f72291ef31c8f643f8d6a23b611a2d6070aeaa49acc1b7be4e9b988b0a43785",
+      "section_id": "sec_auto_1160",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7       Operating instructions"
+        },
+        {
+          "id": "sec_auto_1160",
+          "title": "Safety"
+        }
+      ],
+      "page": 105,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -80,7 +143,24 @@
         "r": 520.3234008899999,
         "b": 640.2956488000001
       },
-      "content": "The operator must apply all relevant safety precautions, including those mentioned in this book."
+      "content": "The operator must apply all relevant safety precautions, including those mentioned in this book.",
+      "section_id": "sec_auto_1160",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7       Operating instructions"
+        },
+        {
+          "id": "sec_auto_1160",
+          "title": "Safety"
+        }
+      ],
+      "page": 105,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -95,7 +175,23 @@
       },
       "content": "Outdoor/altitude operation",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1163",
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7       Operating instructions"
+        },
+        {
+          "id": "sec_auto_1163",
+          "title": "Outdoor/altitude operation"
+        }
+      ],
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "page": 105,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -108,7 +204,24 @@
         "r": 545.7937000000002,
         "b": 557.9438
       },
-      "content": "If the compressor is installed outdoors or if the air inlet temperature can be below 0 °C , precautions must be taken. In this case, and also if operating above 1000 m , consult Atlas Copco."
+      "content": "If the compressor is installed outdoors or if the air inlet temperature can be below 0 °C , precautions must be taken. In this case, and also if operating above 1000 m , consult Atlas Copco.",
+      "section_id": "sec_auto_1163",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7       Operating instructions"
+        },
+        {
+          "id": "sec_auto_1163",
+          "title": "Outdoor/altitude operation"
+        }
+      ],
+      "page": 105,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -123,7 +236,23 @@
       },
       "content": "Moving/lifting",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1165",
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7       Operating instructions"
+        },
+        {
+          "id": "sec_auto_1165",
+          "title": "Moving/lifting"
+        }
+      ],
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "page": 105,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -136,7 +265,24 @@
         "r": 566.1051999999995,
         "b": 428.2241
       },
-      "content": "The compressor can be moved by a lift truck using the slots in the frame. Take care not to damage the bodywork during lifting or transport. Before lifting, reinstall the transport securing bolts. Make sure that the forks protrude from the other side of the frame. The compressor can also be lifted after inserting beams in the slots. Make sure that the beams cannot slide and that they protrude from the frame equally. The chains must be held parallel to the bodywork by chain spreaders in order not to damage the compressor. The lifting equipment must be placed in such a way that the compressor is lifted perpendicularly. Lift gently and avoid twisting."
+      "content": "The compressor can be moved by a lift truck using the slots in the frame. Take care not to damage the bodywork during lifting or transport. Before lifting, reinstall the transport securing bolts. Make sure that the forks protrude from the other side of the frame. The compressor can also be lifted after inserting beams in the slots. Make sure that the beams cannot slide and that they protrude from the frame equally. The chains must be held parallel to the bodywork by chain spreaders in order not to damage the compressor. The lifting equipment must be placed in such a way that the compressor is lifted perpendicularly. Lift gently and avoid twisting.",
+      "section_id": "sec_auto_1165",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7       Operating instructions"
+        },
+        {
+          "id": "sec_auto_1165",
+          "title": "Moving/lifting"
+        }
+      ],
+      "page": 105,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -154,7 +300,24 @@
       "next_block_id": "txt_0808",
       "width": 27,
       "height": 23,
-      "image_hash": "72ba9c8fbfcd57f11aab52cf9d094de612dc1e0e44b1fecf54cc799f4166c93a"
+      "image_hash": "72ba9c8fbfcd57f11aab52cf9d094de612dc1e0e44b1fecf54cc799f4166c93a",
+      "section_id": "sec_auto_1165",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7       Operating instructions"
+        },
+        {
+          "id": "sec_auto_1165",
+          "title": "Moving/lifting"
+        }
+      ],
+      "page": 105,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -167,7 +330,24 @@
         "r": 548.9548574900012,
         "b": 367.1278792
       },
-      "content": "In case of units equipped with the Lifting Device Option, it is not allowed to lift the compressor if the canopy parts or lifting supports are not completely installed. When the compressor is  being lifted, it is also forbidden to come under the load or to perform maintenance activities to it."
+      "content": "In case of units equipped with the Lifting Device Option, it is not allowed to lift the compressor if the canopy parts or lifting supports are not completely installed. When the compressor is  being lifted, it is also forbidden to come under the load or to perform maintenance activities to it.",
+      "section_id": "sec_auto_1165",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7       Operating instructions"
+        },
+        {
+          "id": "sec_auto_1165",
+          "title": "Moving/lifting"
+        }
+      ],
+      "page": 105,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -182,7 +362,23 @@
       },
       "content": "Compressor status indication on compressors equipped with an Elektronikon® Graphic controller",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1169",
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7       Operating instructions"
+        },
+        {
+          "id": "sec_auto_1169",
+          "title": "Compressor status indication on compressors equipped with an Elektronikon® Graphic controller"
+        }
+      ],
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "page": 105,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -195,7 +391,24 @@
         "r": 508.3233000000007,
         "b": 295.0835000000001
       },
-      "content": "The controller is provided with auxiliary contacts (K05, K07 and K08) for remote indication of:"
+      "content": "The controller is provided with auxiliary contacts (K05, K07 and K08) for remote indication of:",
+      "section_id": "sec_auto_1169",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7       Operating instructions"
+        },
+        {
+          "id": "sec_auto_1169",
+          "title": "Compressor status indication on compressors equipped with an Elektronikon® Graphic controller"
+        }
+      ],
+      "page": 105,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -208,7 +421,24 @@
         "r": 326.4163,
         "b": 273.6566
       },
-      "content": "manual load/unload or automatic operation (K07)"
+      "content": "manual load/unload or automatic operation (K07)",
+      "section_id": "sec_auto_1169",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7       Operating instructions"
+        },
+        {
+          "id": "sec_auto_1169",
+          "title": "Compressor status indication on compressors equipped with an Elektronikon® Graphic controller"
+        }
+      ],
+      "page": 105,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -221,7 +451,24 @@
         "r": 217.5932999999998,
         "b": 257.0367000000001
       },
-      "content": "warning condition (K08)"
+      "content": "warning condition (K08)",
+      "section_id": "sec_auto_1169",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7       Operating instructions"
+        },
+        {
+          "id": "sec_auto_1169",
+          "title": "Compressor status indication on compressors equipped with an Elektronikon® Graphic controller"
+        }
+      ],
+      "page": 105,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -234,7 +481,24 @@
         "r": 222.87330000000017,
         "b": 242.45620000000008
       },
-      "content": "shut-down condition (K05)"
+      "content": "shut-down condition (K05)",
+      "section_id": "sec_auto_1169",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7       Operating instructions"
+        },
+        {
+          "id": "sec_auto_1169",
+          "title": "Compressor status indication on compressors equipped with an Elektronikon® Graphic controller"
+        }
+      ],
+      "page": 105,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -247,7 +511,24 @@
         "r": 531.6861999999991,
         "b": 210.9027000000001
       },
-      "content": "Maximum load for the contacts: 10 A / 250 V AC. Stop the compressor and switch off the voltage before connecting external equipment. Consult Atlas Copco."
+      "content": "Maximum load for the contacts: 10 A / 250 V AC. Stop the compressor and switch off the voltage before connecting external equipment. Consult Atlas Copco.",
+      "section_id": "sec_auto_1169",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7       Operating instructions"
+        },
+        {
+          "id": "sec_auto_1169",
+          "title": "Compressor status indication on compressors equipped with an Elektronikon® Graphic controller"
+        }
+      ],
+      "page": 105,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -262,7 +543,23 @@
       },
       "content": "Compressor control modes",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1175",
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7       Operating instructions"
+        },
+        {
+          "id": "sec_auto_1175",
+          "title": "Compressor control modes"
+        }
+      ],
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "page": 105,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -280,7 +577,24 @@
       "next_block_id": "txt_0816",
       "width": 23,
       "height": 25,
-      "image_hash": "6cf5e766ca1498e6bb641256180a121a5eccd2662d2ad631d1102f3738f23287"
+      "image_hash": "6cf5e766ca1498e6bb641256180a121a5eccd2662d2ad631d1102f3738f23287",
+      "section_id": "sec_auto_1175",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7       Operating instructions"
+        },
+        {
+          "id": "sec_auto_1175",
+          "title": "Compressor control modes"
+        }
+      ],
+      "page": 105,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -293,7 +607,24 @@
         "r": 548.4361578100012,
         "b": 137.06687920000002
       },
-      "content": "Stop the compressor and switch off the voltage before connecting external equipment. Only voltage-free contacts are allowed. Have the modifications checked by Atlas Copco."
+      "content": "Stop the compressor and switch off the voltage before connecting external equipment. Only voltage-free contacts are allowed. Have the modifications checked by Atlas Copco.",
+      "section_id": "sec_auto_1175",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7       Operating instructions"
+        },
+        {
+          "id": "sec_auto_1175",
+          "title": "Compressor control modes"
+        }
+      ],
+      "page": 105,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -308,7 +639,23 @@
       },
       "content": "The following control modes can be selected:",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1178",
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7       Operating instructions"
+        },
+        {
+          "id": "sec_auto_1178",
+          "title": "The following control modes can be selected:"
+        }
+      ],
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "page": 105,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -321,7 +668,24 @@
         "r": 519.9549999999997,
         "b": 67.56380000000001
       },
-      "content": "Local control: The compressor will react to commands entered by the buttons on the control panel Compressor start/stop commands via Clock function are active, if programmed."
+      "content": "Local control: The compressor will react to commands entered by the buttons on the control panel Compressor start/stop commands via Clock function are active, if programmed.",
+      "section_id": "sec_auto_1178",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7       Operating instructions"
+        },
+        {
+          "id": "sec_auto_1178",
+          "title": "The following control modes can be selected:"
+        }
+      ],
+      "page": 105,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -338,7 +702,24 @@
       "previous_block_id": "txt_0818",
       "width": 47,
       "height": 22,
-      "image_hash": "b28a1d23de5124d82d6f84120acacff249829ec0e42f4c826059a188d93e4d2e"
+      "image_hash": "b28a1d23de5124d82d6f84120acacff249829ec0e42f4c826059a188d93e4d2e",
+      "section_id": "sec_auto_1178",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7       Operating instructions"
+        },
+        {
+          "id": "sec_auto_1178",
+          "title": "The following control modes can be selected:"
+        }
+      ],
+      "page": 105,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

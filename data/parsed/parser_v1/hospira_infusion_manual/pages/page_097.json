@@ -19,12 +19,30 @@
       },
       "image_path": "figures/figure_0037.png",
       "next_block_id": "txt_0849",
-      "caption_id": "txt_0849",
       "caption": ". AC Power Cord, Retainer, and Velcro Strap",
       "figure_number": "Figure 7-3",
       "image_hash": "be654b24d28c95bed0160ad9700665ed2021cf9bf64d77dde45218856e5cb60f",
       "width": 433,
-      "height": 343
+      "height": 343,
+      "section_id": "sec_auto_906",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_auto_906",
+          "title": "REPLACEMENT"
+        }
+      ],
+      "page": 97,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0037",
+      "source": "pdf_text",
+      "caption_id": "txt_0849"
     },
     {
       "type": "caption",
@@ -38,6 +56,24 @@
         "b": 229.23828000000003
       },
       "content": "Figure 7-3. AC Power Cord, Retainer, and Velcro Strap",
+      "section_id": "sec_auto_906",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_auto_906",
+          "title": "REPLACEMENT"
+        }
+      ],
+      "page": 97,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0037",
+      "source": "pdf_text",
       "caption_for": "fig_0037"
     }
   ],

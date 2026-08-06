@@ -18,8 +18,21 @@
         "b": 760.1029409281768
       },
       "content": "2-4-2. Coordinate System Setting",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "2",
+      "section_id": "sec_2",
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-4-2. Coordinate System Setting"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 258,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -34,7 +47,20 @@
       },
       "markdown": "| HOST CNC   | HOST CNC                                                                                                        | SERVO AMP UNIT                                                                                                  |\n|------------|-----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|\n| PMC CNC    |                                                                                                                 | AUTO MODE Start enabled state                                                                                   |\n|            | Command data 1 (Turret N° , setting)                                                                            | Command data 1 (Turret N° , setting)                                                                            |\n|            | End of ST signal acceptance Operation completion 1                                                              | End of ST signal acceptance Operation completion 1                                                              |\n|            | A workpiece coordinate system is established which uses the current position as specified absolute coordinates. | A workpiece coordinate system is established which uses the current position as specified absolute coordinates. |\n|            | Operation completion 4                                                                                          | Operation completion 4                                                                                          |\n| End of     |                                                                                                                 |                                                                                                                 |\n| coordinate |                                                                                                                 |                                                                                                                 |\n| system     | Start enabled state                                                                                             | Start enabled state                                                                                             |\n| setting    |                                                                                                                 |                                                                                                                 |",
       "rows": 10,
-      "cols": 3
+      "cols": 3,
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-4-2. Coordinate System Setting"
+        }
+      ],
+      "page": 258,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -47,7 +73,20 @@
         "r": 520.5820199999988,
         "b": 169.7612789281768
       },
-      "content": "In coordinate system setting, the PMC on the host NC sets the function code, command data 1, and command data 2, then sends the ST signal to the servo unit, Upon receipt of the data, the servo unit returns the operation completion 1 signal to the NC."
+      "content": "In coordinate system setting, the PMC on the host NC sets the function code, command data 1, and command data 2, then sends the ST signal to the servo unit, Upon receipt of the data, the servo unit returns the operation completion 1 signal to the NC.",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-4-2. Coordinate System Setting"
+        }
+      ],
+      "page": 258,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -60,7 +99,20 @@
         "r": 512.1582059999996,
         "b": 135.08105692817685
       },
-      "content": "Upon receipt of the operation completion 4 signal, the PMC on the host NC returns the FIN signal."
+      "content": "Upon receipt of the operation completion 4 signal, the PMC on the host NC returns the FIN signal.",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-4-2. Coordinate System Setting"
+        }
+      ],
+      "page": 258,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -73,7 +125,20 @@
         "r": 198.76767600000014,
         "b": 106.28057092817676
       },
-      "content": "[Supplementary information]"
+      "content": "[Supplementary information]",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-4-2. Coordinate System Setting"
+        }
+      ],
+      "page": 258,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -86,7 +151,20 @@
         "r": 398.0955359999995,
         "b": 83.30070292817686
       },
-      "content": "The start enabled state is that state in which the STL signal is off."
+      "content": "The start enabled state is that state in which the STL signal is off.",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-4-2. Coordinate System Setting"
+        }
+      ],
+      "page": 258,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

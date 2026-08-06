@@ -19,12 +19,34 @@
       },
       "image_path": "figures/figure_0061.png",
       "next_block_id": "txt_0312",
-      "caption_id": "txt_0312",
       "caption": ": Schematic diagram for connection of parallel power cable",
       "figure_number": "Figure 3-28",
       "image_hash": "0f514bacb85cc8ea388ecd5d6d91338282cc09325842068916b1c0b3c58874d8",
       "width": 350,
-      "height": 110
+      "height": 110,
+      "section_id": "sec_3_8_2",
+      "parent_section_id": "sec_auto_365",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_auto_365",
+          "title": "External battery connection"
+        },
+        {
+          "id": "sec_3_8_2",
+          "title": "3.8.2 Wiring of Parallel UPS System"
+        }
+      ],
+      "page": 40,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0061",
+      "source": "pdf_text",
+      "caption_id": "txt_0312"
     },
     {
       "type": "caption",
@@ -38,6 +60,28 @@
         "b": 574.556101363195
       },
       "content": "Figure 3-28: Schematic diagram for connection of parallel power cable",
+      "section_id": "sec_3_8_2",
+      "parent_section_id": "sec_auto_365",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_auto_365",
+          "title": "External battery connection"
+        },
+        {
+          "id": "sec_3_8_2",
+          "title": "3.8.2 Wiring of Parallel UPS System"
+        }
+      ],
+      "page": 40,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0061",
+      "source": "pdf_text",
       "caption_for": "fig_0061"
     },
     {
@@ -53,7 +97,24 @@
       },
       "content": "3.9 Control Cable and Communication",
       "level": 2,
-      "role": "section"
+      "section_number": "3.9",
+      "section_id": "sec_3_9",
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_9",
+          "title": "3.9 Control Cable and Communication"
+        }
+      ],
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "page": 40,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -67,8 +128,29 @@
         "b": 499.76284478860936
       },
       "content": "3.9.1 Communication Port",
-      "level": 2,
-      "role": "section"
+      "level": 3,
+      "section_number": "3.9.1",
+      "section_id": "sec_3_9_1",
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_9",
+          "title": "3.9 Control Cable and Communication"
+        },
+        {
+          "id": "sec_3_9_1",
+          "title": "3.9.1 Communication Port"
+        }
+      ],
+      "parent_section_id": "sec_3_9",
+      "section_level": 3,
+      "page": 40,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -81,7 +163,28 @@
         "r": 541.4939199999999,
         "b": 408.80610136319495
       },
-      "content": "According to detail requirements on site, auxiliary connection may be needed for UPS to realize management  of  battery  system  (battery  temperature  sensor),  communication  with  personal computers, provision of alarming signals to external devices or remote emergency power off, etc. These functions are realized by monitoring panel locating at the back of the front door of UPS and communication port module. The monitoring panel can provide the following ports:"
+      "content": "According to detail requirements on site, auxiliary connection may be needed for UPS to realize management  of  battery  system  (battery  temperature  sensor),  communication  with  personal computers, provision of alarming signals to external devices or remote emergency power off, etc. These functions are realized by monitoring panel locating at the back of the front door of UPS and communication port module. The monitoring panel can provide the following ports:",
+      "section_id": "sec_3_9_1",
+      "parent_section_id": "sec_3_9",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_9",
+          "title": "3.9 Control Cable and Communication"
+        },
+        {
+          "id": "sec_3_9_1",
+          "title": "3.9.1 Communication Port"
+        }
+      ],
+      "page": 40,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -94,7 +197,28 @@
         "r": 528.17568,
         "b": 393.186101363195
       },
-      "content": "The following three Figures are diagrams for communication port module of 80 ~ 500 kVA UPS."
+      "content": "The following three Figures are diagrams for communication port module of 80 ~ 500 kVA UPS.",
+      "section_id": "sec_3_9_1",
+      "parent_section_id": "sec_3_9",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_9",
+          "title": "3.9 Control Cable and Communication"
+        },
+        {
+          "id": "sec_3_9_1",
+          "title": "3.9.1 Communication Port"
+        }
+      ],
+      "page": 40,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -110,12 +234,34 @@
       "image_path": "figures/figure_0062.png",
       "previous_block_id": "txt_0316",
       "next_block_id": "txt_0317",
-      "caption_id": "txt_0317",
       "caption": ": Communication port of 80 ~ 160 kVA UPS",
       "figure_number": "Figure 3-29",
       "image_hash": "d373fa6e79bbc0e7ed176b5123c7c2059cd675ca3007bdb676a312dce0c69924",
       "width": 419,
-      "height": 226
+      "height": 226,
+      "section_id": "sec_3_9_1",
+      "parent_section_id": "sec_3_9",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_9",
+          "title": "3.9 Control Cable and Communication"
+        },
+        {
+          "id": "sec_3_9_1",
+          "title": "3.9.1 Communication Port"
+        }
+      ],
+      "page": 40,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0062",
+      "source": "pdf_text",
+      "caption_id": "txt_0317"
     },
     {
       "type": "caption",
@@ -129,6 +275,28 @@
         "b": 140.19610136319488
       },
       "content": "Figure 3-29: Communication port of 80 ~ 160 kVA UPS",
+      "section_id": "sec_3_9_1",
+      "parent_section_id": "sec_3_9",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_9",
+          "title": "3.9 Control Cable and Communication"
+        },
+        {
+          "id": "sec_3_9_1",
+          "title": "3.9.1 Communication Port"
+        }
+      ],
+      "page": 40,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0062",
+      "source": "pdf_text",
       "caption_for": "fig_0062"
     },
     {
@@ -144,7 +312,23 @@
       },
       "content": "Communication Interfaces:",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_390",
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_auto_390",
+          "title": "Communication Interfaces:"
+        }
+      ],
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "page": 40,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -157,7 +341,24 @@
         "r": 340.44568,
         "b": 102.03610136319492
       },
-      "content": "Temperature detection interface of battery (BATTMP)"
+      "content": "Temperature detection interface of battery (BATTMP)",
+      "section_id": "sec_auto_390",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_auto_390",
+          "title": "Communication Interfaces:"
+        }
+      ],
+      "page": 40,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

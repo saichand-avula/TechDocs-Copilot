@@ -19,7 +19,24 @@
       },
       "content": "1.5 About this service and repair manual",
       "level": 2,
-      "role": "section"
+      "section_number": "1.5",
+      "section_id": "sec_1_5",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Manufacturer addresses"
+        },
+        {
+          "id": "sec_1_5",
+          "title": "1.5 About this service and repair manual"
+        }
+      ],
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "page": 6,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -34,7 +51,23 @@
       },
       "content": "Purpose",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_54",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Manufacturer addresses"
+        },
+        {
+          "id": "sec_auto_54",
+          "title": "Purpose"
+        }
+      ],
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "page": 6,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -47,7 +80,24 @@
         "r": 560.34,
         "b": 701.7813344167462
       },
-      "content": "This  service  and  repair  manual  is  intended  for  all  trained  Merrychef  service  technicians  who  work  with  the  microwave combination oven and provides them with the necessary information for carrying out servicing and repair work properly and safely."
+      "content": "This  service  and  repair  manual  is  intended  for  all  trained  Merrychef  service  technicians  who  work  with  the  microwave combination oven and provides them with the necessary information for carrying out servicing and repair work properly and safely.",
+      "section_id": "sec_auto_54",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Manufacturer addresses"
+        },
+        {
+          "id": "sec_auto_54",
+          "title": "Purpose"
+        }
+      ],
+      "page": 6,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -62,7 +112,23 @@
       },
       "content": "Who should read the service and repair manual?",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_56",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Manufacturer addresses"
+        },
+        {
+          "id": "sec_auto_56",
+          "title": "Who should read the service and repair manual?"
+        }
+      ],
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "page": 6,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -75,7 +141,24 @@
         "r": 296.0909999999999,
         "b": 648.6417304760582
       },
-      "content": "Name of target group: Merrychef trained service technicians Tasks: All servicing and repair work"
+      "content": "Name of target group: Merrychef trained service technicians Tasks: All servicing and repair work",
+      "section_id": "sec_auto_56",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Manufacturer addresses"
+        },
+        {
+          "id": "sec_auto_56",
+          "title": "Who should read the service and repair manual?"
+        }
+      ],
+      "page": 6,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -90,7 +173,23 @@
       },
       "content": "Parts of this document that must be read without fail",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_58",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Manufacturer addresses"
+        },
+        {
+          "id": "sec_auto_58",
+          "title": "Parts of this document that must be read without fail"
+        }
+      ],
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "page": 6,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -105,7 +204,23 @@
       },
       "content": "If you do not follow the information in this document, you risk potentially fatal injury and property damage.",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_59",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Manufacturer addresses"
+        },
+        {
+          "id": "sec_auto_59",
+          "title": "If you do not follow the information in this document, you risk potentially fatal injury and property damage."
+        }
+      ],
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "page": 6,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -118,7 +233,24 @@
         "r": 558.6030000000003,
         "b": 583.3443344167463
       },
-      "content": "To guarantee safety, all people who work with the microwave combination oven must have read and understood the following parts of this document before starting any work:"
+      "content": "To guarantee safety, all people who work with the microwave combination oven must have read and understood the following parts of this document before starting any work:",
+      "section_id": "sec_auto_59",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Manufacturer addresses"
+        },
+        {
+          "id": "sec_auto_59",
+          "title": "If you do not follow the information in this document, you risk potentially fatal injury and property damage."
+        }
+      ],
+      "page": 6,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -131,7 +263,24 @@
         "r": 181.19699999999997,
         "b": 570.8613344167463
       },
-      "content": " Section 2 'For your safety'"
+      "content": " Section 2 'For your safety'",
+      "section_id": "sec_auto_59",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Manufacturer addresses"
+        },
+        {
+          "id": "sec_auto_59",
+          "title": "If you do not follow the information in this document, you risk potentially fatal injury and property damage."
+        }
+      ],
+      "page": 6,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -144,7 +293,24 @@
         "r": 302.8769999999999,
         "b": 558.8643344167464
       },
-      "content": " The sections that describe the activity to be carried out"
+      "content": " The sections that describe the activity to be carried out",
+      "section_id": "sec_auto_59",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Manufacturer addresses"
+        },
+        {
+          "id": "sec_auto_59",
+          "title": "If you do not follow the information in this document, you risk potentially fatal injury and property damage."
+        }
+      ],
+      "page": 6,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -159,7 +325,23 @@
       },
       "content": "Safety alert symbol",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_63",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Manufacturer addresses"
+        },
+        {
+          "id": "sec_auto_63",
+          "title": "Safety alert symbol"
+        }
+      ],
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "page": 6,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -177,7 +359,24 @@
       "next_block_id": "txt_0056",
       "width": 24,
       "height": 20,
-      "image_hash": "a8f9a1963100ea25dacfb1cc52f8f0741568ac8710da6ab64db303f24774b180"
+      "image_hash": "a8f9a1963100ea25dacfb1cc52f8f0741568ac8710da6ab64db303f24774b180",
+      "section_id": "sec_auto_63",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Manufacturer addresses"
+        },
+        {
+          "id": "sec_auto_63",
+          "title": "Safety alert symbol"
+        }
+      ],
+      "page": 6,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -190,7 +389,24 @@
         "r": 71.21700000000001,
         "b": 517.7187304760582
       },
-      "content": "Symbol"
+      "content": "Symbol",
+      "section_id": "sec_auto_63",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Manufacturer addresses"
+        },
+        {
+          "id": "sec_auto_63",
+          "title": "Safety alert symbol"
+        }
+      ],
+      "page": 6,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -203,7 +419,24 @@
         "r": 134.82000000000002,
         "b": 517.7187304760582
       },
-      "content": "Meaning"
+      "content": "Meaning",
+      "section_id": "sec_auto_63",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Manufacturer addresses"
+        },
+        {
+          "id": "sec_auto_63",
+          "title": "Safety alert symbol"
+        }
+      ],
+      "page": 6,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -216,7 +449,24 @@
         "r": 420.426,
         "b": 492.74433441674626
       },
-      "content": "Warns of potential injuries. Heed all the warning notices that appear after this symbol to avoid potential injuries or death."
+      "content": "Warns of potential injuries. Heed all the warning notices that appear after this symbol to avoid potential injuries or death.",
+      "section_id": "sec_auto_63",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Manufacturer addresses"
+        },
+        {
+          "id": "sec_auto_63",
+          "title": "Safety alert symbol"
+        }
+      ],
+      "page": 6,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -231,7 +481,23 @@
       },
       "content": "Form of warning notices",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_68",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Manufacturer addresses"
+        },
+        {
+          "id": "sec_auto_68",
+          "title": "Form of warning notices"
+        }
+      ],
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "page": 6,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -244,7 +510,24 @@
         "r": 358.99199999999996,
         "b": 452.4183344167462
       },
-      "content": "The warning notices are categorized according to the following hazard levels:"
+      "content": "The warning notices are categorized according to the following hazard levels:",
+      "section_id": "sec_auto_68",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Manufacturer addresses"
+        },
+        {
+          "id": "sec_auto_68",
+          "title": "Form of warning notices"
+        }
+      ],
+      "page": 6,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -262,7 +545,24 @@
       "next_block_id": "txt_0061",
       "width": 12,
       "height": 12,
-      "image_hash": "6d29f9f44504141db75a7f25cdd53e9d7c0ca7fd76f3b3cd218292206af75091"
+      "image_hash": "6d29f9f44504141db75a7f25cdd53e9d7c0ca7fd76f3b3cd218292206af75091",
+      "section_id": "sec_auto_68",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Manufacturer addresses"
+        },
+        {
+          "id": "sec_auto_68",
+          "title": "Form of warning notices"
+        }
+      ],
+      "page": 6,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -275,7 +575,24 @@
         "r": 94.38000000000001,
         "b": 428.67873047605826
       },
-      "content": "Hazard level"
+      "content": "Hazard level",
+      "section_id": "sec_auto_68",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Manufacturer addresses"
+        },
+        {
+          "id": "sec_auto_68",
+          "title": "Form of warning notices"
+        }
+      ],
+      "page": 6,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -288,7 +605,24 @@
         "r": 175.02,
         "b": 428.67873047605826
       },
-      "content": "Consequences"
+      "content": "Consequences",
+      "section_id": "sec_auto_68",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Manufacturer addresses"
+        },
+        {
+          "id": "sec_auto_68",
+          "title": "Form of warning notices"
+        }
+      ],
+      "page": 6,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -303,7 +637,23 @@
       },
       "content": "Likelihood",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_73",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Manufacturer addresses"
+        },
+        {
+          "id": "sec_auto_73",
+          "title": "Likelihood"
+        }
+      ],
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "page": 6,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "admonition",
@@ -317,7 +667,24 @@
         "t": 424.62601953125,
         "r": 88.02000000000001,
         "b": 416.43873047605825
-      }
+      },
+      "section_id": "sec_auto_73",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Manufacturer addresses"
+        },
+        {
+          "id": "sec_auto_73",
+          "title": "Likelihood"
+        }
+      ],
+      "page": 6,
+      "chunk_hint": "admonition",
+      "semantic_role": "warning",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -330,7 +697,24 @@
         "r": 331.73999999999995,
         "b": 416.5383344167462
       },
-      "content": "Immediate risk"
+      "content": "Immediate risk",
+      "section_id": "sec_auto_73",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Manufacturer addresses"
+        },
+        {
+          "id": "sec_auto_73",
+          "title": "Likelihood"
+        }
+      ],
+      "page": 6,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "admonition",
@@ -344,7 +728,24 @@
         "t": 413.34601953125,
         "r": 95.58,
         "b": 404.19873047605824
-      }
+      },
+      "section_id": "sec_auto_73",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Manufacturer addresses"
+        },
+        {
+          "id": "sec_auto_73",
+          "title": "Likelihood"
+        }
+      ],
+      "page": 6,
+      "chunk_hint": "admonition",
+      "semantic_role": "warning",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -357,7 +758,24 @@
         "r": 323.7,
         "b": 404.2983344167462
       },
-      "content": "Potential risk"
+      "content": "Potential risk",
+      "section_id": "sec_auto_73",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Manufacturer addresses"
+        },
+        {
+          "id": "sec_auto_73",
+          "title": "Likelihood"
+        }
+      ],
+      "page": 6,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "admonition",
@@ -371,7 +789,24 @@
         "t": 400.62601953125,
         "r": 91.74000000000001,
         "b": 391.9587304760583
-      }
+      },
+      "section_id": "sec_auto_73",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Manufacturer addresses"
+        },
+        {
+          "id": "sec_auto_73",
+          "title": "Likelihood"
+        }
+      ],
+      "page": 6,
+      "chunk_hint": "admonition",
+      "semantic_role": "caution",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -384,7 +819,24 @@
         "r": 323.7,
         "b": 392.0583344167462
       },
-      "content": "Potential risk"
+      "content": "Potential risk",
+      "section_id": "sec_auto_73",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Manufacturer addresses"
+        },
+        {
+          "id": "sec_auto_73",
+          "title": "Likelihood"
+        }
+      ],
+      "page": 6,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "admonition",
@@ -398,7 +850,24 @@
         "t": 387.90601953125,
         "r": 83.94,
         "b": 379.7187304760583
-      }
+      },
+      "section_id": "sec_auto_73",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Manufacturer addresses"
+        },
+        {
+          "id": "sec_auto_73",
+          "title": "Likelihood"
+        }
+      ],
+      "page": 6,
+      "chunk_hint": "admonition",
+      "semantic_role": "note",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -411,7 +880,24 @@
         "r": 323.7,
         "b": 379.8183344167462
       },
-      "content": "Potential risk"
+      "content": "Potential risk",
+      "section_id": "sec_auto_73",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Manufacturer addresses"
+        },
+        {
+          "id": "sec_auto_73",
+          "title": "Likelihood"
+        }
+      ],
+      "page": 6,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -429,7 +915,24 @@
       "next_block_id": "txt_0076",
       "width": 12,
       "height": 13,
-      "image_hash": "9cd3009723271a20b29cca9ff4fd74bf87afeb3192f9b790654a4c0a3f887d60"
+      "image_hash": "9cd3009723271a20b29cca9ff4fd74bf87afeb3192f9b790654a4c0a3f887d60",
+      "section_id": "sec_auto_73",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Manufacturer addresses"
+        },
+        {
+          "id": "sec_auto_73",
+          "title": "Likelihood"
+        }
+      ],
+      "page": 6,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -444,7 +947,23 @@
       },
       "content": "Standards",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_87",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Manufacturer addresses"
+        },
+        {
+          "id": "sec_auto_87",
+          "title": "Standards"
+        }
+      ],
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "page": 6,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -457,7 +976,24 @@
         "r": 560.457,
         "b": 326.0583344167462
       },
-      "content": "This service and repair manual has been written and produced in the UK, following UK and EU standards. Any additional local country standards, outside of the UK, must be understood and adhered to."
+      "content": "This service and repair manual has been written and produced in the UK, following UK and EU standards. Any additional local country standards, outside of the UK, must be understood and adhered to.",
+      "section_id": "sec_auto_87",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Manufacturer addresses"
+        },
+        {
+          "id": "sec_auto_87",
+          "title": "Standards"
+        }
+      ],
+      "page": 6,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

@@ -18,8 +18,33 @@
         "b": 757.968114
       },
       "content": "5.1.1.3 Wind volume limit",
-      "level": 2,
-      "role": "section"
+      "level": 4,
+      "section_number": "5.1.1.3",
+      "section_id": "sec_5_1_1_3",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_5_1",
+          "title": "5.1 Main functions and control specification of indoor unit"
+        },
+        {
+          "id": "sec_5_1_1",
+          "title": "5.1.1 Temperature Adjusting function"
+        },
+        {
+          "id": "sec_5_1_1_3",
+          "title": "5.1.1.3 Wind volume limit"
+        }
+      ],
+      "parent_section_id": "sec_5_1_1",
+      "section_level": 4,
+      "page": 17,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -32,7 +57,32 @@
         "r": 550.8419785300005,
         "b": 728.1657826000001
       },
-      "content": "When the compressor is working and the max setting for indoor fan motor is medium or weak, the upper limit of indicated frequency is as follows:"
+      "content": "When the compressor is working and the max setting for indoor fan motor is medium or weak, the upper limit of indicated frequency is as follows:",
+      "section_id": "sec_5_1_1_3",
+      "parent_section_id": "sec_5_1_1",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_5_1",
+          "title": "5.1 Main functions and control specification of indoor unit"
+        },
+        {
+          "id": "sec_5_1_1",
+          "title": "5.1.1 Temperature Adjusting function"
+        },
+        {
+          "id": "sec_5_1_1_3",
+          "title": "5.1.1.3 Wind volume limit"
+        }
+      ],
+      "page": 17,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -45,7 +95,32 @@
         "r": 279.63865809999993,
         "b": 712.6079272000001
       },
-      "content": "Frequency control form for wind volume"
+      "content": "Frequency control form for wind volume",
+      "section_id": "sec_5_1_1_3",
+      "parent_section_id": "sec_5_1_1",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_5_1",
+          "title": "5.1 Main functions and control specification of indoor unit"
+        },
+        {
+          "id": "sec_5_1_1",
+          "title": "5.1.1 Temperature Adjusting function"
+        },
+        {
+          "id": "sec_5_1_1_3",
+          "title": "5.1.1.3 Wind volume limit"
+        }
+      ],
+      "page": 17,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -60,7 +135,32 @@
       },
       "markdown": "|                                           | Limited frequency variables   | Limited frequency   |\n|-------------------------------------------|-------------------------------|---------------------|\n| Medium wind volume                        | FQLIMMD                       | 70Hz                |\n| Weak wind volume                          | FQLIMLO                       | 58Hz                |\n| Limited frequency for up/down health wind | FUPHEAL                       | 48Hz                |",
       "rows": 4,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_5_1_1_3",
+      "parent_section_id": "sec_5_1_1",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_5_1",
+          "title": "5.1 Main functions and control specification of indoor unit"
+        },
+        {
+          "id": "sec_5_1_1",
+          "title": "5.1.1 Temperature Adjusting function"
+        },
+        {
+          "id": "sec_5_1_1_3",
+          "title": "5.1.1.3 Wind volume limit"
+        }
+      ],
+      "page": 17,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -74,8 +174,29 @@
         "b": 560.0414900000001
       },
       "content": "5.1.2 Main functions",
-      "level": 2,
-      "role": "section"
+      "level": 3,
+      "section_number": "5.1.2",
+      "section_id": "sec_5_1_2",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_5_1",
+          "title": "5.1 Main functions and control specification of indoor unit"
+        },
+        {
+          "id": "sec_5_1_2",
+          "title": "5.1.2 Main functions"
+        }
+      ],
+      "parent_section_id": "sec_5_1",
+      "section_level": 3,
+      "page": 17,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -89,8 +210,33 @@
         "b": 537.659714
       },
       "content": "5.1.2.1 Warm boot",
-      "level": 2,
-      "role": "section"
+      "level": 4,
+      "section_number": "5.1.2.1",
+      "section_id": "sec_5_1_2_1",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_5_1",
+          "title": "5.1 Main functions and control specification of indoor unit"
+        },
+        {
+          "id": "sec_5_1_2",
+          "title": "5.1.2 Main functions"
+        },
+        {
+          "id": "sec_5_1_2_1",
+          "title": "5.1.2.1 Warm boot"
+        }
+      ],
+      "parent_section_id": "sec_5_1_2",
+      "section_level": 4,
+      "page": 17,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -103,7 +249,32 @@
         "r": 550.7880417099984,
         "b": 507.85738338
       },
-      "content": "When the heat running starts or the frost removing ends and the compressor starts again, in order to avoid cold wind, warm boot wind volume control should be done."
+      "content": "When the heat running starts or the frost removing ends and the compressor starts again, in order to avoid cold wind, warm boot wind volume control should be done.",
+      "section_id": "sec_5_1_2_1",
+      "parent_section_id": "sec_5_1_2",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_5_1",
+          "title": "5.1 Main functions and control specification of indoor unit"
+        },
+        {
+          "id": "sec_5_1_2",
+          "title": "5.1.2 Main functions"
+        },
+        {
+          "id": "sec_5_1_2_1",
+          "title": "5.1.2.1 Warm boot"
+        }
+      ],
+      "page": 17,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -121,7 +292,32 @@
       "next_block_id": "txt_0091",
       "image_hash": "53dcf069ad93fc50051017c0df3b7c927ab18593a7ac9b02b6661b6fcc12eded",
       "width": 464,
-      "height": 206
+      "height": 206,
+      "section_id": "sec_5_1_2_1",
+      "parent_section_id": "sec_5_1_2",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_5_1",
+          "title": "5.1 Main functions and control specification of indoor unit"
+        },
+        {
+          "id": "sec_5_1_2",
+          "title": "5.1.2 Main functions"
+        },
+        {
+          "id": "sec_5_1_2_1",
+          "title": "5.1.2.1 Warm boot"
+        }
+      ],
+      "page": 17,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -134,7 +330,32 @@
         "r": 226.67341386,
         "b": 294.1937358
       },
-      "content": "weak weak"
+      "content": "weak weak",
+      "section_id": "sec_5_1_2_1",
+      "parent_section_id": "sec_5_1_2",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_5_1",
+          "title": "5.1 Main functions and control specification of indoor unit"
+        },
+        {
+          "id": "sec_5_1_2",
+          "title": "5.1.2 Main functions"
+        },
+        {
+          "id": "sec_5_1_2_1",
+          "title": "5.1.2.1 Warm boot"
+        }
+      ],
+      "page": 17,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -147,7 +368,32 @@
         "r": 550.9537779000007,
         "b": 255.77847180000003
       },
-      "content": "To  control  the  indoor  fan  motor  as  shown  in  the  table  above  according  to  the  heat  exchange temperature"
+      "content": "To  control  the  indoor  fan  motor  as  shown  in  the  table  above  according  to  the  heat  exchange temperature",
+      "section_id": "sec_5_1_2_1",
+      "parent_section_id": "sec_5_1_2",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_5_1",
+          "title": "5.1 Main functions and control specification of indoor unit"
+        },
+        {
+          "id": "sec_5_1_2",
+          "title": "5.1.2 Main functions"
+        },
+        {
+          "id": "sec_5_1_2_1",
+          "title": "5.1.2.1 Warm boot"
+        }
+      ],
+      "page": 17,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -160,7 +406,32 @@
         "r": 421.05593639999995,
         "b": 239.6051526875001
       },
-      "content": "The fan motor stops when the heat exchange temperature is below 25 ć"
+      "content": "The fan motor stops when the heat exchange temperature is below 25 ć",
+      "section_id": "sec_5_1_2_1",
+      "parent_section_id": "sec_5_1_2",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_5_1",
+          "title": "5.1 Main functions and control specification of indoor unit"
+        },
+        {
+          "id": "sec_5_1_2",
+          "title": "5.1.2 Main functions"
+        },
+        {
+          "id": "sec_5_1_2_1",
+          "title": "5.1.2.1 Warm boot"
+        }
+      ],
+      "page": 17,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -173,7 +444,32 @@
         "r": 550.7879721199996,
         "b": 208.4894418875001
       },
-      "content": "The  fan  motor  is  working  slightly  weak  when  the  heat  exchange  temperature  is  above25 ć and below 35 ć"
+      "content": "The  fan  motor  is  working  slightly  weak  when  the  heat  exchange  temperature  is  above25 ć and below 35 ć",
+      "section_id": "sec_5_1_2_1",
+      "parent_section_id": "sec_5_1_2",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_5_1",
+          "title": "5.1 Main functions and control specification of indoor unit"
+        },
+        {
+          "id": "sec_5_1_2",
+          "title": "5.1.2 Main functions"
+        },
+        {
+          "id": "sec_5_1_2_1",
+          "title": "5.1.2.1 Warm boot"
+        }
+      ],
+      "page": 17,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -186,7 +482,32 @@
         "r": 545.2494597699999,
         "b": 192.9315864875001
       },
-      "content": "The fan motor is working weak when the heat exchange temperature is above35 ć and below 37 ć"
+      "content": "The fan motor is working weak when the heat exchange temperature is above35 ć and below 37 ć",
+      "section_id": "sec_5_1_2_1",
+      "parent_section_id": "sec_5_1_2",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_5_1",
+          "title": "5.1 Main functions and control specification of indoor unit"
+        },
+        {
+          "id": "sec_5_1_2",
+          "title": "5.1.2 Main functions"
+        },
+        {
+          "id": "sec_5_1_2_1",
+          "title": "5.1.2.1 Warm boot"
+        }
+      ],
+      "page": 17,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -199,7 +520,32 @@
         "r": 477.0902993999999,
         "b": 161.81487646750008
       },
-      "content": "The fan motor works as set if the he heat exchange temperature remains above 38 ć"
+      "content": "The fan motor works as set if the he heat exchange temperature remains above 38 ć",
+      "section_id": "sec_5_1_2_1",
+      "parent_section_id": "sec_5_1_2",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_5_1",
+          "title": "5.1 Main functions and control specification of indoor unit"
+        },
+        {
+          "id": "sec_5_1_2",
+          "title": "5.1.2 Main functions"
+        },
+        {
+          "id": "sec_5_1_2_1",
+          "title": "5.1.2.1 Warm boot"
+        }
+      ],
+      "page": 17,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -216,7 +562,32 @@
       "previous_block_id": "txt_0096",
       "width": 31,
       "height": 10,
-      "image_hash": "4932c2d5d0b7074cda725139f9d9564f1f04035ce7b4f980001f49bec2498beb"
+      "image_hash": "4932c2d5d0b7074cda725139f9d9564f1f04035ce7b4f980001f49bec2498beb",
+      "section_id": "sec_5_1_2_1",
+      "parent_section_id": "sec_5_1_2",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_5_1",
+          "title": "5.1 Main functions and control specification of indoor unit"
+        },
+        {
+          "id": "sec_5_1_2",
+          "title": "5.1.2 Main functions"
+        },
+        {
+          "id": "sec_5_1_2_1",
+          "title": "5.1.2.1 Warm boot"
+        }
+      ],
+      "page": 17,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

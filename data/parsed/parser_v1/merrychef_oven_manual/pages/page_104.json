@@ -19,7 +19,24 @@
       },
       "content": "6.18 Technical Data Summary Sheet",
       "level": 2,
-      "role": "section"
+      "section_number": "6.18",
+      "section_id": "sec_6_18",
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6 Replacing components"
+        },
+        {
+          "id": "sec_6_18",
+          "title": "6.18 Technical Data Summary Sheet"
+        }
+      ],
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "page": 104,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -34,7 +51,24 @@
       },
       "markdown": "| Fuse Ratings   | Fuse Ratings   |\n|----------------|----------------|\n| F1 - F4        | 25A            |\n| F5 - F6        | 13A (*12A)     |\n| F7             | 3A             |\n| VFD Board      | 6.3A           |",
       "rows": 5,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_6_18",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6 Replacing components"
+        },
+        {
+          "id": "sec_6_18",
+          "title": "6.18 Technical Data Summary Sheet"
+        }
+      ],
+      "page": 104,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -49,7 +83,24 @@
       },
       "markdown": "| Overheat Thermostat settings   | Overheat Thermostat settings   |\n|--------------------------------|--------------------------------|\n| Cavity Stat                    | 300 o C                        |\n| Mag Stat                       | 125 o C                        |\n| Fan IP                         | 160 o C                        |",
       "rows": 4,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_6_18",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6 Replacing components"
+        },
+        {
+          "id": "sec_6_18",
+          "title": "6.18 Technical Data Summary Sheet"
+        }
+      ],
+      "page": 104,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -64,7 +115,24 @@
       },
       "markdown": "| Current Draws @ 230VAC   | Current Draws @ 230VAC   |\n|--------------------------|--------------------------|\n| Magnetron                | 7 - 8A                   |",
       "rows": 2,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_6_18",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6 Replacing components"
+        },
+        {
+          "id": "sec_6_18",
+          "title": "6.18 Technical Data Summary Sheet"
+        }
+      ],
+      "page": 104,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -79,7 +147,24 @@
       },
       "markdown": "| Circuit Breaker Ratings   | Circuit Breaker Ratings   |\n|---------------------------|---------------------------|\n| X12 SP                    | D16                       |\n| X12 & X16 HP 1ph          | D32                       |\n| X12 & X16 HP 2ph          | D16                       |",
       "rows": 4,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_6_18",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6 Replacing components"
+        },
+        {
+          "id": "sec_6_18",
+          "title": "6.18 Technical Data Summary Sheet"
+        }
+      ],
+      "page": 104,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -94,7 +179,24 @@
       },
       "markdown": "| Component Resistances   | Component Resistances   |\n|-------------------------|-------------------------|\n| EMI Filter L - N        | 330k Ω                  |\n| Cooling Fan             | 220 Ω                   |\n| Stirrer Motor           | 7-8 Ω                   |\n| Convection Fan          | 7.5 Ω ± 10%             |\n| X12 Heater Element      | 19 Ω                    |\n| X16 Heater Element      | 26 Ω                    |\n| Magnetron               | <1 Ω                    |\n| HV Transformer Pri      | 0.6 Ω *                 |\n| HV Transformer Sec      | 57 Ω *                  |\n| Capacitor               | 10M Ω                   |\n| Relay Coil              | 295 Ω                   |",
       "rows": 12,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_6_18",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6 Replacing components"
+        },
+        {
+          "id": "sec_6_18",
+          "title": "6.18 Technical Data Summary Sheet"
+        }
+      ],
+      "page": 104,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -109,7 +211,24 @@
       },
       "markdown": "| Maximum Cavity Temperature   |\n|------------------------------|\n| 275 o C                      |",
       "rows": 2,
-      "cols": 1
+      "cols": 1,
+      "section_id": "sec_6_18",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6 Replacing components"
+        },
+        {
+          "id": "sec_6_18",
+          "title": "6.18 Technical Data Summary Sheet"
+        }
+      ],
+      "page": 104,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -124,7 +243,24 @@
       },
       "markdown": "| Component Torque Settings (Nm)   |   Component Torque Settings (Nm) |\n|----------------------------------|----------------------------------|\n| USB Assembly                     |                              2.1 |\n| Door Switches                    |                              1.0 |\n| Door Skin                        |                              2.1 |\n| Door Handle                      |                              2.1 |\n| Fuse Bracket                     |                              2.1 |\n| On/Off Switch PCB                |                              1.0 |\n| Air Filter Assembly              |                              1.0 |\n| Cavity to Base                   |                              2.1 |\n| Cooling Fan                      |                              2.1 |\n| Door Choke                       |                              2.3 |\n| Door Hinges                      |                              3.5 |\n| Mains Filter Bracket             |                              2.1 |\n| Cavity Overheat Thermostat       |                              0.7 |\n| Panels                           |                              2.1 |\n| Partition Plate                  |                              2.1 |\n| Stirrers                         |                              1.0 |\n| Impinger Plate                   |                              1.2 |\n| VFD Bracket                      |                              2.8 |\n| Waveguides                       |                              2.1 |\n| Heating Element Wiring           |                              2.0 |\n| Mains Filter Wiring              |                              1.2 |\n| Magnetron                        |                              2.1 |\n| Convection Fan Motor Assembly    |                              2.1 |\n| Door Switch Bracket              |                              2.8 |\n| UI to panel                      |                              0.8 |\n| IO Bracket                       |                              2.1 |\n| HV Transformer to Base           |                              3.5 |\n| Voltage Selection Relay to Base  |                              0.8 |\n| Speaker                          |                              2.1 |\n| Cavity Thermocouple              |                              1.7 |\n| LV Transformer                   |                              2.1 |\n| Steam Vent Pipe                  |                              2.1 |\n| Front Panel                      |                              2.1 |\n| Mains Filter to Bracket          |                              2.8 |\n| Fuse Holder                      |                              1.0 |\n| VFD to Bracket                   |                              2.8 |\n| Cook Plate Studs                 |                              8.0 |\n| Heating Element                  |                              2.1 |",
       "rows": 39,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_6_18",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6 Replacing components"
+        },
+        {
+          "id": "sec_6_18",
+          "title": "6.18 Technical Data Summary Sheet"
+        }
+      ],
+      "page": 104,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -139,7 +275,24 @@
       },
       "markdown": "| Error Codes   | Error Codes                                   |\n|---------------|-----------------------------------------------|\n| E81           | Firmware updated                              |\n| E82           | Menu updated                                  |\n| E83           | Incompatible IO version                       |\n| E84           | Date not set                                  |\n| E86           | Oven switched on                              |\n| E87           | Touch screen held for 15 sec                  |\n| E88           | Supply voltage <180V                          |\n| E89           | Recommission test failure cooling fan         |\n| E90           | Recommission test failure convection fan      |\n| E92           | Recommission test failure heater(s)           |\n| E93           | Recommission test failure magnetron(s)        |\n| E94           | Recommission test failure air filter in       |\n| E95           | Recommission test failure air filter out      |\n| E96           | Recommission test failure door switches close |\n| E97           | Recommission test failure door switches open  |\n| E98           | Incomplete cleaning cycle                     |\n| E99           | Filter override accepted                      |\n| E100          | Mains supply switched on                      |\n| E101          | Magnetron(s) failed on request.               |\n| E102          | Heater on without request.                    |\n| E103          | Ambient Overheat. UI or IO >70 o C            |\n| E104          | Safety circuit open (Overheat Thermostats)    |\n| E105          | Supply frequency out of range by ± 2Hz        |\n| E106          | Cavity 75 o C above setpoint or 300 o C       |\n| E107          | Communication fault between UI & IO           |\n| E108          | Missing or corrupt UI uSD                     |\n| E109          | Missing or corrupt IO PM                      |\n| E110          | Incompatible IO firmware                      |\n| E111          | Cavity sensor open circuit                    |\n| E112          | IO temperature sensor failure                 |\n| E113          | Magnetron(s) on without request. >1A          |\n| E116          | Heater off on request.                        |\n| E117          | RH Mag Stat open circuit                      |\n| E118          | LH Mag Stat open circuit                      |",
       "rows": 35,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_6_18",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6 Replacing components"
+        },
+        {
+          "id": "sec_6_18",
+          "title": "6.18 Technical Data Summary Sheet"
+        }
+      ],
+      "page": 104,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "footnote",
@@ -152,7 +305,24 @@
         "r": 470.214,
         "b": 167.55672945491415
       },
-      "content": "* see section 3.1 'Technical data, checks and verification' for non-EU model specific readings where they differ."
+      "content": "* see section 3.1 'Technical data, checks and verification' for non-EU model specific readings where they differ.",
+      "section_id": "sec_6_18",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6 Replacing components"
+        },
+        {
+          "id": "sec_6_18",
+          "title": "6.18 Technical Data Summary Sheet"
+        }
+      ],
+      "page": 104,
+      "chunk_hint": "footnote",
+      "semantic_role": "footnote",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

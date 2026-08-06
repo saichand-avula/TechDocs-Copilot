@@ -22,7 +22,24 @@
       "width": 47,
       "height": 23,
       "decorative": true,
-      "image_hash": "7577891dcf1743bd2e7a735ef2621e01244d960bde43e28868c27d7c1437ddb9"
+      "image_hash": "7577891dcf1743bd2e7a735ef2621e01244d960bde43e28868c27d7c1437ddb9",
+      "section_id": "sec_auto_519",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3       Elektronikon® Graphic controller"
+        },
+        {
+          "id": "sec_auto_519",
+          "title": "Text on figure"
+        }
+      ],
+      "page": 50,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -37,7 +54,23 @@
       },
       "content": "Overview",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_528",
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3       Elektronikon® Graphic controller"
+        },
+        {
+          "id": "sec_auto_528",
+          "title": "Overview"
+        }
+      ],
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "page": 50,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -55,7 +88,24 @@
       "next_block_id": "txt_0347",
       "image_hash": "00b7f3d064628ff881b6b7f822d8b0c2c37c81647609a409e99229ce88405d10",
       "width": 203,
-      "height": 174
+      "height": 174,
+      "section_id": "sec_auto_528",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3       Elektronikon® Graphic controller"
+        },
+        {
+          "id": "sec_auto_528",
+          "title": "Overview"
+        }
+      ],
+      "page": 50,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -68,7 +118,24 @@
         "r": 346.4552,
         "b": 546.1841
       },
-      "content": "The overview screen shows all the running and Real Time hours"
+      "content": "The overview screen shows all the running and Real Time hours",
+      "section_id": "sec_auto_528",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3       Elektronikon® Graphic controller"
+        },
+        {
+          "id": "sec_auto_528",
+          "title": "Overview"
+        }
+      ],
+      "page": 50,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -81,7 +148,24 @@
         "r": 195.7617999999999,
         "b": 527.0441
       },
-      "content": "Example for service level (A):"
+      "content": "Example for service level (A):",
+      "section_id": "sec_auto_528",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3       Elektronikon® Graphic controller"
+        },
+        {
+          "id": "sec_auto_528",
+          "title": "Overview"
+        }
+      ],
+      "page": 50,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -94,7 +178,24 @@
         "r": 530.9901000000012,
         "b": 494.6436
       },
-      "content": "The first row from shows the running hours when the first service is needed (light green), the value on the right side of the status bar is the remaining time left (dark green)."
+      "content": "The first row from shows the running hours when the first service is needed (light green), the value on the right side of the status bar is the remaining time left (dark green).",
+      "section_id": "sec_auto_528",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3       Elektronikon® Graphic controller"
+        },
+        {
+          "id": "sec_auto_528",
+          "title": "Overview"
+        }
+      ],
+      "page": 50,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -107,7 +208,24 @@
         "r": 257.2308999999999,
         "b": 475.5036
       },
-      "content": "The second row shows the Real Time hours"
+      "content": "The second row shows the Real Time hours",
+      "section_id": "sec_auto_528",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3       Elektronikon® Graphic controller"
+        },
+        {
+          "id": "sec_auto_528",
+          "title": "Overview"
+        }
+      ],
+      "page": 50,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -122,7 +240,23 @@
       },
       "content": "Service plans",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_534",
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3       Elektronikon® Graphic controller"
+        },
+        {
+          "id": "sec_auto_534",
+          "title": "Service plans"
+        }
+      ],
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "page": 50,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -135,7 +269,24 @@
         "r": 531.1352999999991,
         "b": 410.82360000000006
       },
-      "content": "A number of service operations are grouped (called Level A, Level B, etc...). Each level stands for a number of service actions to be carried out at the time intervals programmed in the Elektronikon regulator."
+      "content": "A number of service operations are grouped (called Level A, Level B, etc...). Each level stands for a number of service actions to be carried out at the time intervals programmed in the Elektronikon regulator.",
+      "section_id": "sec_auto_534",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3       Elektronikon® Graphic controller"
+        },
+        {
+          "id": "sec_auto_534",
+          "title": "Service plans"
+        }
+      ],
+      "page": 50,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -153,7 +304,24 @@
       "next_block_id": "txt_0353",
       "image_hash": "b66175ba219cd204b6328fe070b80df53eb908a7738855bd961846ef290078b0",
       "width": 196,
-      "height": 169
+      "height": 169,
+      "section_id": "sec_auto_534",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3       Elektronikon® Graphic controller"
+        },
+        {
+          "id": "sec_auto_534",
+          "title": "Service plans"
+        }
+      ],
+      "page": 50,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -166,7 +334,24 @@
         "r": 537.8112,
         "b": 178.62350000000004
       },
-      "content": "When a service plan interval is reached, a message will appear on the screen.After carrying out the service actions related to the indicated levels, the timers must be reset."
+      "content": "When a service plan interval is reached, a message will appear on the screen.After carrying out the service actions related to the indicated levels, the timers must be reset.",
+      "section_id": "sec_auto_534",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3       Elektronikon® Graphic controller"
+        },
+        {
+          "id": "sec_auto_534",
+          "title": "Service plans"
+        }
+      ],
+      "page": 50,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -181,7 +366,23 @@
       },
       "content": "Modifying a service plan",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_538",
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3       Elektronikon® Graphic controller"
+        },
+        {
+          "id": "sec_auto_538",
+          "title": "Modifying a service plan"
+        }
+      ],
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "page": 50,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -194,7 +395,24 @@
         "r": 526.537299999999,
         "b": 127.14350000000002
       },
-      "content": "Press the enter button (2) to select the first value from the list, a screen similar to the one below appears:"
+      "content": "Press the enter button (2) to select the first value from the list, a screen similar to the one below appears:",
+      "section_id": "sec_auto_538",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3       Elektronikon® Graphic controller"
+        },
+        {
+          "id": "sec_auto_538",
+          "title": "Modifying a service plan"
+        }
+      ],
+      "page": 50,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

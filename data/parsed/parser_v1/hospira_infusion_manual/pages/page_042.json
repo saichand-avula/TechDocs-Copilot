@@ -18,8 +18,25 @@
         "b": 728.8081107637603
       },
       "content": "4.2.2.8",
-      "level": 2,
-      "role": "section"
+      "level": 4,
+      "section_number": "4.2.2.8",
+      "section_id": "sec_4_2_2_8",
+      "section_path": [
+        {
+          "id": "sec_auto_341",
+          "title": "BATTERY CHARGE/DISCHARGE CURRENT MEASUREMENT"
+        },
+        {
+          "id": "sec_4_2_2_8",
+          "title": "4.2.2.8"
+        }
+      ],
+      "parent_section_id": "sec_auto_341",
+      "section_level": 4,
+      "page": 42,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -34,7 +51,19 @@
       },
       "content": "BATTERY CHARGER",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_344",
+      "section_path": [
+        {
+          "id": "sec_auto_344",
+          "title": "BATTERY CHARGER"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 2,
+      "page": 42,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -47,7 +76,20 @@
         "r": 504.0740982089007,
         "b": 665.2074049280328
       },
-      "content": "The software battery management algorithm controls the battery charger. The charging scheme is a current limit/two stage voltage limit charger. The charge current is limited to 1.3 A and the voltage is limited to either 6.74 V DC  or 7.35 V DC ."
+      "content": "The software battery management algorithm controls the battery charger. The charging scheme is a current limit/two stage voltage limit charger. The charge current is limited to 1.3 A and the voltage is limited to either 6.74 V DC  or 7.35 V DC .",
+      "section_id": "sec_auto_344",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_344",
+          "title": "BATTERY CHARGER"
+        }
+      ],
+      "page": 42,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -60,7 +102,20 @@
         "r": 504.1314296860009,
         "b": 545.2082446880331
       },
-      "content": "The source of the charge current is power MOSFET transistor Q7 operating in the linear mode. Charge current passes through a current sense resistor R57, where it develops a feedback signal for the charger control amplifier consisting of U7, Q6, and associated parts. The feedback signal is compared against a 2.5 V DC  voltage reference U8. A 0.5 A fuse protects  against  damage  due  to  a  short  circuit.  The  battery  management  algorithm maintains on/off control of the charger by the charger enable signal CHG*. When set high, CHG* activates a comparator U7, which overrides the feedback signal and disables the charger.  Excessive voltage  on  the  BATNEG  terminal  indicates  that  there  is  a shorted battery cell, and will disable the charger through the same comparator."
+      "content": "The source of the charge current is power MOSFET transistor Q7 operating in the linear mode. Charge current passes through a current sense resistor R57, where it develops a feedback signal for the charger control amplifier consisting of U7, Q6, and associated parts. The feedback signal is compared against a 2.5 V DC  voltage reference U8. A 0.5 A fuse protects  against  damage  due  to  a  short  circuit.  The  battery  management  algorithm maintains on/off control of the charger by the charger enable signal CHG*. When set high, CHG* activates a comparator U7, which overrides the feedback signal and disables the charger.  Excessive voltage  on  the  BATNEG  terminal  indicates  that  there  is  a shorted battery cell, and will disable the charger through the same comparator.",
+      "section_id": "sec_auto_344",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_344",
+          "title": "BATTERY CHARGER"
+        }
+      ],
+      "page": 42,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -74,8 +129,25 @@
         "b": 510.96953024793385
       },
       "content": "4.2.3",
-      "level": 2,
-      "role": "section"
+      "level": 3,
+      "section_number": "4.2.3",
+      "section_id": "sec_4_2_3",
+      "section_path": [
+        {
+          "id": "sec_auto_344",
+          "title": "BATTERY CHARGER"
+        },
+        {
+          "id": "sec_4_2_3",
+          "title": "4.2.3"
+        }
+      ],
+      "parent_section_id": "sec_auto_344",
+      "section_level": 3,
+      "page": 42,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -90,7 +162,19 @@
       },
       "content": "MECHANISM SUBSYSTEM",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_348",
+      "section_path": [
+        {
+          "id": "sec_auto_348",
+          "title": "MECHANISM SUBSYSTEM"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 2,
+      "page": 42,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -103,7 +187,20 @@
         "r": 503.92499685920023,
         "b": 458.20749488003275
       },
-      "content": "The mechanism subsystem includes the electronics and electromechanical components that interface with the infuser pumping mechanism."
+      "content": "The mechanism subsystem includes the electronics and electromechanical components that interface with the infuser pumping mechanism.",
+      "section_id": "sec_auto_348",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_348",
+          "title": "MECHANISM SUBSYSTEM"
+        }
+      ],
+      "page": 42,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -116,7 +213,20 @@
         "r": 366.78342796700065,
         "b": 434.20775518393276
       },
-      "content": "The mechanism subsystem provides the following functions:"
+      "content": "The mechanism subsystem provides the following functions:",
+      "section_id": "sec_auto_348",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_348",
+          "title": "MECHANISM SUBSYSTEM"
+        }
+      ],
+      "page": 42,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -129,7 +239,20 @@
         "r": 462.79772516679924,
         "b": 416.20792551183274
       },
-      "content": "-Chopper motor drive for three stepper motors (plunger, L/S valve, I/O valve)"
+      "content": "-Chopper motor drive for three stepper motors (plunger, L/S valve, I/O valve)",
+      "section_id": "sec_auto_348",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_348",
+          "title": "MECHANISM SUBSYSTEM"
+        }
+      ],
+      "page": 42,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -142,7 +265,20 @@
         "r": 302.3317052565002,
         "b": 398.8078876419327
       },
-      "content": "-Four motor position sensors (flag detectors)"
+      "content": "-Four motor position sensors (flag detectors)",
+      "section_id": "sec_auto_348",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_348",
+          "title": "MECHANISM SUBSYSTEM"
+        }
+      ],
+      "page": 42,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -155,7 +291,20 @@
         "r": 219.39012038190023,
         "b": 381.3478905118327
       },
-      "content": "-Precision voltage reference"
+      "content": "-Precision voltage reference",
+      "section_id": "sec_auto_348",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_348",
+          "title": "MECHANISM SUBSYSTEM"
+        }
+      ],
+      "page": 42,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -168,7 +317,20 @@
         "r": 252.16472848809988,
         "b": 363.8878933817327
       },
-      "content": "-Two air sensors (distal, proximal)"
+      "content": "-Two air sensors (distal, proximal)",
+      "section_id": "sec_auto_348",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_348",
+          "title": "MECHANISM SUBSYSTEM"
+        }
+      ],
+      "page": 42,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -181,7 +343,20 @@
         "r": 281.49795393909994,
         "b": 346.48785551183266
       },
-      "content": "-Two pressure sensors (distal, proximal)"
+      "content": "-Two pressure sensors (distal, proximal)",
+      "section_id": "sec_auto_348",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_348",
+          "title": "MECHANISM SUBSYSTEM"
+        }
+      ],
+      "page": 42,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -194,7 +369,20 @@
         "r": 271.29790769810006,
         "b": 329.02785838173264
       },
-      "content": "Cassette presence and type detection"
+      "content": "Cassette presence and type detection",
+      "section_id": "sec_auto_348",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_348",
+          "title": "MECHANISM SUBSYSTEM"
+        }
+      ],
+      "page": 42,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -207,7 +395,20 @@
         "r": 305.20158253790015,
         "b": 311.5678612516326
       },
-      "content": "Serial electrically erasable PROM (EEPROM)"
+      "content": "Serial electrically erasable PROM (EEPROM)",
+      "section_id": "sec_auto_348",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_348",
+          "title": "MECHANISM SUBSYSTEM"
+        }
+      ],
+      "page": 42,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -220,7 +421,20 @@
         "r": 299.0965944084005,
         "b": 288.1081532977326
       },
-      "content": "See Table 4-4 for mechanism interface signals."
+      "content": "See Table 4-4 for mechanism interface signals.",
+      "section_id": "sec_auto_348",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_348",
+          "title": "MECHANISM SUBSYSTEM"
+        }
+      ],
+      "page": 42,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -234,8 +448,25 @@
         "b": 240.0463493388429
       },
       "content": "4.2.3.1 MOTORS/MOTOR DRIVE",
-      "level": 2,
-      "role": "section"
+      "level": 4,
+      "section_number": "4.2.3.1",
+      "section_id": "sec_4_2_3_1",
+      "section_path": [
+        {
+          "id": "sec_auto_348",
+          "title": "MECHANISM SUBSYSTEM"
+        },
+        {
+          "id": "sec_4_2_3_1",
+          "title": "4.2.3.1 MOTORS/MOTOR DRIVE"
+        }
+      ],
+      "parent_section_id": "sec_auto_348",
+      "section_level": 4,
+      "page": 42,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -248,7 +479,24 @@
         "r": 503.9803745148001,
         "b": 192.10769483203285
       },
-      "content": "The infuser uses three stepper motors for pumping: one for fluid displacement and two for cassette valve actuation. The stepper motors are driven, under step-by-step control from software, by a unipolar chopper drive."
+      "content": "The infuser uses three stepper motors for pumping: one for fluid displacement and two for cassette valve actuation. The stepper motors are driven, under step-by-step control from software, by a unipolar chopper drive.",
+      "section_id": "sec_4_2_3_1",
+      "parent_section_id": "sec_auto_348",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_auto_348",
+          "title": "MECHANISM SUBSYSTEM"
+        },
+        {
+          "id": "sec_4_2_3_1",
+          "title": "4.2.3.1 MOTORS/MOTOR DRIVE"
+        }
+      ],
+      "page": 42,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

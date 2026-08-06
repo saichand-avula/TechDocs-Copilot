@@ -18,8 +18,21 @@
         "b": 713.6158810919745
       },
       "content": "1 Important Safety Information",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "1",
+      "section_id": "sec_1",
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1 Important Safety Information"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 3,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -32,7 +45,20 @@
         "r": 541.61568,
         "b": 635.6361013631949
       },
-      "content": "Read these instructions carefully and look at the equipment to become familiar with it before trying to install, operate, service or maintain it. Only qualified electricians who has skills and knowledge related to the construction, installation, and operation of electrical equipment are allowed to perform the tasks described in this document."
+      "content": "Read these instructions carefully and look at the equipment to become familiar with it before trying to install, operate, service or maintain it. Only qualified electricians who has skills and knowledge related to the construction, installation, and operation of electrical equipment are allowed to perform the tasks described in this document.",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1 Important Safety Information"
+        }
+      ],
+      "page": 3,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -45,7 +71,20 @@
         "r": 541.55824,
         "b": 588.836101363195
       },
-      "content": "External battery switch can be closed only when the inverter is in normal operation, otherwise, internal devices of UPS and battery will be severely damaged, unless battery cold start option is connected between battery and UPS."
+      "content": "External battery switch can be closed only when the inverter is in normal operation, otherwise, internal devices of UPS and battery will be severely damaged, unless battery cold start option is connected between battery and UPS.",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1 Important Safety Information"
+        }
+      ],
+      "page": 3,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -58,7 +97,20 @@
         "r": 541.61568,
         "b": 542.006101363195
       },
-      "content": "The output end of UPS may still present a shock hazard even when the mains power fails. According to EN 50091-1, installer should examine and distinguish cable or plug powered by UPS and should inform the user."
+      "content": "The output end of UPS may still present a shock hazard even when the mains power fails. According to EN 50091-1, installer should examine and distinguish cable or plug powered by UPS and should inform the user.",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1 Important Safety Information"
+        }
+      ],
+      "page": 3,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -71,7 +123,20 @@
         "r": 541.61604,
         "b": 495.206101363195
       },
-      "content": "The full series of UPS batteries is external. We recommend that the battery should be installed after  UPS can charge it. It  should be  noted  that  if  the  battery  is  failed  to  charge  within  2-3 months, irreparable damage will be caused to the battery."
+      "content": "The full series of UPS batteries is external. We recommend that the battery should be installed after  UPS can charge it. It  should be  noted  that  if  the  battery  is  failed  to  charge  within  2-3 months, irreparable damage will be caused to the battery.",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1 Important Safety Information"
+        }
+      ],
+      "page": 3,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -84,7 +149,20 @@
         "r": 541.5447999999999,
         "b": 448.406101363195
       },
-      "content": "UPS  is  provided  forced  cooling  by  the  internal  centrifugal  fan.  Cold-blast  air  enters  UPS through the front air grid at the top of UPS cabinet; hot-blast air is discharged from the rear air grid at the top of UPS cabinet. Therefore, do not block the air vent (air grid)."
+      "content": "UPS  is  provided  forced  cooling  by  the  internal  centrifugal  fan.  Cold-blast  air  enters  UPS through the front air grid at the top of UPS cabinet; hot-blast air is discharged from the rear air grid at the top of UPS cabinet. Therefore, do not block the air vent (air grid).",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1 Important Safety Information"
+        }
+      ],
+      "page": 3,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -97,7 +175,20 @@
         "r": 541.4775999999998,
         "b": 401.60610136319497
       },
-      "content": "When executing operations for exiting the maintenance mode, it shall set manual bypass to 'on' before switching on the output switch to avoid damage of UPS caused by short circuit of two circuits."
+      "content": "When executing operations for exiting the maintenance mode, it shall set manual bypass to 'on' before switching on the output switch to avoid damage of UPS caused by short circuit of two circuits.",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1 Important Safety Information"
+        }
+      ],
+      "page": 3,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -110,7 +201,20 @@
         "r": 541.61568,
         "b": 370.386101363195
       },
-      "content": "People cannot touch the internal parts which are identified with yellow labels, otherwise they will get an electric shock."
+      "content": "People cannot touch the internal parts which are identified with yellow labels, otherwise they will get an electric shock.",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1 Important Safety Information"
+        }
+      ],
+      "page": 3,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -123,7 +227,20 @@
         "r": 541.5428800000001,
         "b": 323.586101363195
       },
-      "content": "The maintenance outlet may still be charged when the electricity for the UPS is turned off, so please carefully examine whether the external power switch of UPS has been turned off to avoid the electric shock."
+      "content": "The maintenance outlet may still be charged when the electricity for the UPS is turned off, so please carefully examine whether the external power switch of UPS has been turned off to avoid the electric shock.",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1 Important Safety Information"
+        }
+      ],
+      "page": 3,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -136,7 +253,20 @@
         "r": 541.1999999999996,
         "b": 276.78610136319503
       },
-      "content": "Please disconnect the external switch for the battery in time when UPS is not used (especially when UPS is not used for a long time) to avoid the irreparable damage to battery caused by deep discharge of battery."
+      "content": "Please disconnect the external switch for the battery in time when UPS is not used (especially when UPS is not used for a long time) to avoid the irreparable damage to battery caused by deep discharge of battery.",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1 Important Safety Information"
+        }
+      ],
+      "page": 3,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -149,7 +279,20 @@
         "r": 541.61568,
         "b": 229.98610136319496
       },
-      "content": "When fluctuation of bypass power supply is large, please carefully use the ECO mode of UPS to supply power to the load which is possible to power down (maximum power down time: 10 ms)."
+      "content": "When fluctuation of bypass power supply is large, please carefully use the ECO mode of UPS to supply power to the load which is possible to power down (maximum power down time: 10 ms).",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1 Important Safety Information"
+        }
+      ],
+      "page": 3,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -162,7 +305,20 @@
         "r": 541.2843199999992,
         "b": 198.75610136319494
       },
-      "content": "The UPS must be grounded before power on or any operation to this equipment to avoid any personal injury caused by leakage current."
+      "content": "The UPS must be grounded before power on or any operation to this equipment to avoid any personal injury caused by leakage current.",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1 Important Safety Information"
+        }
+      ],
+      "page": 3,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -175,7 +331,20 @@
         "r": 541.6147199999999,
         "b": 167.556101363195
       },
-      "content": "Make sure that all power supplies are disconnected before installation and maintenance, and operation in the UPS can be performed only after electrolytic capacitor is fully discharged."
+      "content": "Make sure that all power supplies are disconnected before installation and maintenance, and operation in the UPS can be performed only after electrolytic capacitor is fully discharged.",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1 Important Safety Information"
+        }
+      ],
+      "page": 3,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -188,7 +357,20 @@
         "r": 536.33568,
         "b": 120.75610136319494
       },
-      "content": "Please pay special attention to emphasized words and with ' ', which are safety instructions and cautions."
+      "content": "Please pay special attention to emphasized words and with ' ', which are safety instructions and cautions.",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1 Important Safety Information"
+        }
+      ],
+      "page": 3,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -201,7 +383,20 @@
         "r": 541.61568,
         "b": 73.96010136319501
       },
-      "content": "When the bypass frequency change rate exceeds 1 Hz / S, the inverter output frequency cannot track the bypass frequency. At this time, the output cannot be switched from the bypass output status to the inverter output status."
+      "content": "When the bypass frequency change rate exceeds 1 Hz / S, the inverter output frequency cannot track the bypass frequency. At this time, the output cannot be switched from the bypass output status to the inverter output status.",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1 Important Safety Information"
+        }
+      ],
+      "page": 3,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

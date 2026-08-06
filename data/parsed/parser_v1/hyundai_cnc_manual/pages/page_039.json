@@ -19,7 +19,23 @@
       },
       "content": "<Option Specification>",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_310",
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3. NC Device Specification (FANUC Oi-TA)"
+        },
+        {
+          "id": "sec_auto_310",
+          "title": "<Option Specification>"
+        }
+      ],
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "page": 39,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -34,7 +50,24 @@
       },
       "markdown": "| Temporarily Stop of Thread Cutting Multiple Start Thread Cutting Manual Absolute Program Restart Optional Block Skip Addition External Tool Offset External Workpiece No. Search External data Input Auxiliary Function Lock Return to the Set Up Point Manual Interruption Point Manual Interruption Point Return Angle Programming for Linear Interpolation Multiple Cornering (Beveling & Rounding) Skip Function Internal Toggle Switch Spindle Index Function Buffering Function   | (G92, G76) G76 Switch exchange type Review spec. when using DI/DO Review machine spec. Review machine spec. Review machine spec. Review machine spec. G31 Review machine spec.   |\n|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|",
       "rows": 1,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_auto_310",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3. NC Device Specification (FANUC Oi-TA)"
+        },
+        {
+          "id": "sec_auto_310",
+          "title": "<Option Specification>"
+        }
+      ],
+      "page": 39,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

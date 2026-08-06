@@ -19,7 +19,24 @@
       },
       "content": "2.5 Warning signs on the microwave combination oven",
       "level": 2,
-      "role": "section"
+      "section_number": "2.5",
+      "section_id": "sec_2_5",
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 For your safety"
+        },
+        {
+          "id": "sec_2_5",
+          "title": "2.5 Warning signs on the microwave combination oven"
+        }
+      ],
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "page": 11,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -34,7 +51,23 @@
       },
       "content": "Warning and safety signs",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_181",
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 For your safety"
+        },
+        {
+          "id": "sec_auto_181",
+          "title": "Warning and safety signs"
+        }
+      ],
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "page": 11,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -52,7 +85,24 @@
       "next_block_id": "txt_0162",
       "image_hash": "3674d5f6401c0507d648ed46133cf72111fec93f4702d34539b8c2cbb5557b4a",
       "width": 481,
-      "height": 145
+      "height": 145,
+      "section_id": "sec_auto_181",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 For your safety"
+        },
+        {
+          "id": "sec_auto_181",
+          "title": "Warning and safety signs"
+        }
+      ],
+      "page": 11,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -67,7 +117,23 @@
       },
       "content": "Mandatory warning signs",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_183",
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 For your safety"
+        },
+        {
+          "id": "sec_auto_183",
+          "title": "Mandatory warning signs"
+        }
+      ],
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "page": 11,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -80,7 +146,24 @@
         "r": 281.33699999999993,
         "b": 430.2183344167462
       },
-      "content": "The following warning signs / notices must be attached to the microwave combination oven and optional accessories in the area indicated so as to be easily visible at all times."
+      "content": "The following warning signs / notices must be attached to the microwave combination oven and optional accessories in the area indicated so as to be easily visible at all times.",
+      "section_id": "sec_auto_183",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 For your safety"
+        },
+        {
+          "id": "sec_auto_183",
+          "title": "Mandatory warning signs"
+        }
+      ],
+      "page": 11,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -99,7 +182,24 @@
       "width": 24,
       "height": 23,
       "decorative": true,
-      "image_hash": "cb0e79e4c79153969466256fb06b5cd1d4501d2834c63a425a639e277ad1edf3"
+      "image_hash": "cb0e79e4c79153969466256fb06b5cd1d4501d2834c63a425a639e277ad1edf3",
+      "section_id": "sec_auto_183",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 For your safety"
+        },
+        {
+          "id": "sec_auto_183",
+          "title": "Mandatory warning signs"
+        }
+      ],
+      "page": 11,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -117,7 +217,24 @@
       "next_block_id": "txt_0164",
       "width": 24,
       "height": 22,
-      "image_hash": "0936b1963a0a96906a65f8d2fb77caa13d34a6c17869251a618c62fb836c36a2"
+      "image_hash": "0936b1963a0a96906a65f8d2fb77caa13d34a6c17869251a618c62fb836c36a2",
+      "section_id": "sec_auto_183",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 For your safety"
+        },
+        {
+          "id": "sec_auto_183",
+          "title": "Mandatory warning signs"
+        }
+      ],
+      "page": 11,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -132,7 +249,24 @@
       },
       "markdown": "| Area        | Warning sign                        | Description                                                                                                      |\n|-------------|-------------------------------------|------------------------------------------------------------------------------------------------------------------|\n| Side & Rear | Microwaves warning.                 | There is a risk of external and internal burns of body parts following exposure to microwave energy.             |\n| Side        | High Voltage Electric shock warning | There is a risk of electric shock if the appliance is serviced without disconnecting the electrical supply.      |\n| Side        | Fire / electric shock warning       | There is a risk of fire / electric shock if the appliance is operated without respecting the minimum clearances. |\n| Rear        | Hot surface warning                 | There is a risk of burns from high temperatures inside the cavity and on the inside of the appliance door.       |\n| Rear        | High Current Electric shock warning | There is a risk of electric shock if the electrical power is not connected to a properly grounded outlet.        |",
       "rows": 6,
-      "cols": 3
+      "cols": 3,
+      "section_id": "sec_auto_183",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 For your safety"
+        },
+        {
+          "id": "sec_auto_183",
+          "title": "Mandatory warning signs"
+        }
+      ],
+      "page": 11,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -151,7 +285,24 @@
       "width": 11,
       "height": 11,
       "decorative": true,
-      "image_hash": "bb8e644c16c82accc32c412b931c9f681f0b0f2e49906bff9f974b8ddd6ff04a"
+      "image_hash": "bb8e644c16c82accc32c412b931c9f681f0b0f2e49906bff9f974b8ddd6ff04a",
+      "section_id": "sec_auto_183",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 For your safety"
+        },
+        {
+          "id": "sec_auto_183",
+          "title": "Mandatory warning signs"
+        }
+      ],
+      "page": 11,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -166,7 +317,23 @@
       },
       "content": "Safety symbols",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_189",
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 For your safety"
+        },
+        {
+          "id": "sec_auto_189",
+          "title": "Safety symbols"
+        }
+      ],
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "page": 11,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -179,7 +346,24 @@
         "r": 567.1620000000001,
         "b": 430.58133441674613
       },
-      "content": "The following safety symbols be attached to the microwave combination oven in the area indicated so as to be easily visible at all times."
+      "content": "The following safety symbols be attached to the microwave combination oven in the area indicated so as to be easily visible at all times.",
+      "section_id": "sec_auto_189",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 For your safety"
+        },
+        {
+          "id": "sec_auto_189",
+          "title": "Safety symbols"
+        }
+      ],
+      "page": 11,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -196,7 +380,24 @@
       "previous_block_id": "txt_0165",
       "image_hash": "a5ab55437762806761befc36fac2ce408063d82500e9549eadbd23fa5e41e3e5",
       "width": 55,
-      "height": 53
+      "height": 53,
+      "section_id": "sec_auto_189",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 For your safety"
+        },
+        {
+          "id": "sec_auto_189",
+          "title": "Safety symbols"
+        }
+      ],
+      "page": 11,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -213,7 +414,24 @@
       "previous_block_id": "txt_0165",
       "image_hash": "2f7ce0eccad905bdc5031542cf74744dd4b6df0ebe7a1616d76dc4ec66a0fe92",
       "width": 57,
-      "height": 72
+      "height": 72,
+      "section_id": "sec_auto_189",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 For your safety"
+        },
+        {
+          "id": "sec_auto_189",
+          "title": "Safety symbols"
+        }
+      ],
+      "page": 11,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -228,7 +446,24 @@
       },
       "markdown": "| Area     | Safety symbol   | Description               |\n|----------|-----------------|---------------------------|\n| Internal |                 | Protective Earth (Ground) |\n| Rear     |                 | Equipotential bonding     |",
       "rows": 3,
-      "cols": 3
+      "cols": 3,
+      "section_id": "sec_auto_189",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 For your safety"
+        },
+        {
+          "id": "sec_auto_189",
+          "title": "Safety symbols"
+        }
+      ],
+      "page": 11,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

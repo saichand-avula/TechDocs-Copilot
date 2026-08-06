@@ -19,7 +19,23 @@
       },
       "content": "II SAFETY",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_116",
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4. Special Accessory"
+        },
+        {
+          "id": "sec_auto_116",
+          "title": "II SAFETY"
+        }
+      ],
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "page": 13,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -34,7 +50,24 @@
       },
       "markdown": "|   1. | General .............................................................................................. 2-1   |\n|------|--------------------------------------------------------------------------------------------------------------|\n|   2. | General Safety Precautions ............................................................. 2-2                 |\n|   3. | Notice When Operating Machine..................................................... 2-6                       |\n|   4. | Notice When Repairing and Checking ............................................ 2-10                         |\n|   5. | Notice on the Electric and NC Device ............................................. 2-13                      |\n|   6. | Safety Device..................................................................................... 2-15      |\n|      | 6-1. Name Plates.............................................................................. 2-15          |\n|      | 6-2. Safety Device ............................................................................ 2-16         |",
       "rows": 8,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_auto_116",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4. Special Accessory"
+        },
+        {
+          "id": "sec_auto_116",
+          "title": "II SAFETY"
+        }
+      ],
+      "page": 13,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

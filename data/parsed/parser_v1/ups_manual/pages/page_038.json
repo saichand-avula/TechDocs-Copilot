@@ -19,7 +19,24 @@
       },
       "content": "3.8 Wiring",
       "level": 2,
-      "role": "section"
+      "section_number": "3.8",
+      "section_id": "sec_3_8",
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_8",
+          "title": "3.8 Wiring"
+        }
+      ],
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "page": 38,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -33,8 +50,29 @@
         "b": 667.1928447886094
       },
       "content": "3.8.1 Wiring of Single UPS System",
-      "level": 2,
-      "role": "section"
+      "level": 3,
+      "section_number": "3.8.1",
+      "section_id": "sec_3_8_1",
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_8",
+          "title": "3.8 Wiring"
+        },
+        {
+          "id": "sec_3_8_1",
+          "title": "3.8.1 Wiring of Single UPS System"
+        }
+      ],
+      "parent_section_id": "sec_3_8",
+      "section_level": 3,
+      "page": 38,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -47,7 +85,28 @@
         "r": 542.09568,
         "b": 638.6361013631949
       },
-      "content": "After the equipment is positioned completely, connect power lines according to the following steps:"
+      "content": "After the equipment is positioned completely, connect power lines according to the following steps:",
+      "section_id": "sec_3_8_1",
+      "parent_section_id": "sec_3_8",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_8",
+          "title": "3.8 Wiring"
+        },
+        {
+          "id": "sec_3_8_1",
+          "title": "3.8.1 Wiring of Single UPS System"
+        }
+      ],
+      "page": 38,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -60,7 +119,28 @@
         "r": 541.3084799999995,
         "b": 607.436101363195
       },
-      "content": "Confirm that all power distribution switches and internal power switches of UPS are cut off. Paste warning identification at the location of switches to prevent faulty operation of others."
+      "content": "Confirm that all power distribution switches and internal power switches of UPS are cut off. Paste warning identification at the location of switches to prevent faulty operation of others.",
+      "section_id": "sec_3_8_1",
+      "parent_section_id": "sec_3_8",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_8",
+          "title": "3.8 Wiring"
+        },
+        {
+          "id": "sec_3_8_1",
+          "title": "3.8.1 Wiring of Single UPS System"
+        }
+      ],
+      "page": 38,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -73,7 +153,28 @@
         "r": 541.3354399999994,
         "b": 560.606101363195
       },
-      "content": "The terminal connecting power cable can be seen when the front door of UPS is opened, but for 200 ~ 300 kVA UPS, the rectifier input terminal can only be seen when the protective cover in front of isolated switch is removed."
+      "content": "The terminal connecting power cable can be seen when the front door of UPS is opened, but for 200 ~ 300 kVA UPS, the rectifier input terminal can only be seen when the protective cover in front of isolated switch is removed.",
+      "section_id": "sec_3_8_1",
+      "parent_section_id": "sec_3_8",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_8",
+          "title": "3.8 Wiring"
+        },
+        {
+          "id": "sec_3_8_1",
+          "title": "3.8.1 Wiring of Single UPS System"
+        }
+      ],
+      "page": 38,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -91,7 +192,28 @@
       "next_block_id": "txt_0288",
       "image_hash": "5f6a94121610a89e9ac22561b578d132608b4118c0e42d1dc33403a046fc5448",
       "width": 20,
-      "height": 22
+      "height": 22,
+      "section_id": "sec_3_8_1",
+      "parent_section_id": "sec_3_8",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_8",
+          "title": "3.8 Wiring"
+        },
+        {
+          "id": "sec_3_8_1",
+          "title": "3.8.1 Wiring of Single UPS System"
+        }
+      ],
+      "page": 38,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "admonition",
@@ -105,7 +227,28 @@
         "b": 498.206101363195
       },
       "content": "Note: When 200 ~ 300 kVA UPS is connected with rectifier input cable, the minimum distance between the fixed screw rod and protective cover should be 3 cm to prevent accidents caused by sparking or short circuit of cabinet due to the insufficient distance of safety regulation.",
-      "severity": "note"
+      "severity": "note",
+      "section_id": "sec_3_8_1",
+      "parent_section_id": "sec_3_8",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_8",
+          "title": "3.8 Wiring"
+        },
+        {
+          "id": "sec_3_8_1",
+          "title": "3.8.1 Wiring of Single UPS System"
+        }
+      ],
+      "page": 38,
+      "chunk_hint": "admonition",
+      "semantic_role": "note",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -118,7 +261,28 @@
         "r": 541.4784799999993,
         "b": 451.406101363195
       },
-      "content": "Connect the protective earth and other necessary earth cables with earth studs at the power equipment base of UPS. All UPS cabinets should be connected with the grounding system of users."
+      "content": "Connect the protective earth and other necessary earth cables with earth studs at the power equipment base of UPS. All UPS cabinets should be connected with the grounding system of users.",
+      "section_id": "sec_3_8_1",
+      "parent_section_id": "sec_3_8",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_8",
+          "title": "3.8 Wiring"
+        },
+        {
+          "id": "sec_3_8_1",
+          "title": "3.8.1 Wiring of Single UPS System"
+        }
+      ],
+      "page": 38,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -131,7 +295,28 @@
         "r": 541.6041600000001,
         "b": 420.206101363195
       },
-      "content": "According to the installation type, select one of following two steps (separated bypass or public input) according to installation mode to mark and connect input cables:"
+      "content": "According to the installation type, select one of following two steps (separated bypass or public input) according to installation mode to mark and connect input cables:",
+      "section_id": "sec_3_8_1",
+      "parent_section_id": "sec_3_8",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_8",
+          "title": "3.8 Wiring"
+        },
+        {
+          "id": "sec_3_8_1",
+          "title": "3.8.1 Wiring of Single UPS System"
+        }
+      ],
+      "page": 38,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -146,7 +331,23 @@
       },
       "content": "Separated bypass connection",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_358",
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_auto_358",
+          "title": "Separated bypass connection"
+        }
+      ],
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "page": 38,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -159,7 +360,24 @@
         "r": 541.61536,
         "b": 357.786101363195
       },
-      "content": "Bypass input and mains input have been separated when the 80 ~ 500 kVA UPS is finished. When connecting cables, only bypass input cable and mains input cable need to be connected separately. Make sure that the phase sequence is correct when wiring."
+      "content": "Bypass input and mains input have been separated when the 80 ~ 500 kVA UPS is finished. When connecting cables, only bypass input cable and mains input cable need to be connected separately. Make sure that the phase sequence is correct when wiring.",
+      "section_id": "sec_auto_358",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_auto_358",
+          "title": "Separated bypass connection"
+        }
+      ],
+      "page": 38,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -174,7 +392,23 @@
       },
       "content": "Public input connection",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_360",
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_auto_360",
+          "title": "Public input connection"
+        }
+      ],
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "page": 38,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -187,7 +421,24 @@
         "r": 541.61568,
         "b": 248.58610136319498
       },
-      "content": "When the bypass input and mains input share the same mains input, 80 ~ 500 kVA UPS needs to be connected to short wires (or copper bar) of bypass input and mains input. 80 ~ 120 kVA and 200 ~ 300 kVA UPS are connected with short wires equipped randomly. 160 kVA UPS uses copper bar connection which is equipped randomly. Switch baffle shall be disassembled during installation. 400 ~ 500 kVA UPS is not equipped with wire and copper bar. (Note: Copper bar of 400 ~ 500 kVA UPS is optional). Make sure that the phase sequence is correct when wiring."
+      "content": "When the bypass input and mains input share the same mains input, 80 ~ 500 kVA UPS needs to be connected to short wires (or copper bar) of bypass input and mains input. 80 ~ 120 kVA and 200 ~ 300 kVA UPS are connected with short wires equipped randomly. 160 kVA UPS uses copper bar connection which is equipped randomly. Switch baffle shall be disassembled during installation. 400 ~ 500 kVA UPS is not equipped with wire and copper bar. (Note: Copper bar of 400 ~ 500 kVA UPS is optional). Make sure that the phase sequence is correct when wiring.",
+      "section_id": "sec_auto_360",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_auto_360",
+          "title": "Public input connection"
+        }
+      ],
+      "page": 38,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -202,7 +453,23 @@
       },
       "content": "System output connection",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_362",
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_auto_362",
+          "title": "System output connection"
+        }
+      ],
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "page": 38,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -215,7 +482,24 @@
         "r": 524.57568,
         "b": 217.38610136319494
       },
-      "content": "Connect the output cable between UPS output terminal (OUTPUT: R/S/T/N) and major load."
+      "content": "Connect the output cable between UPS output terminal (OUTPUT: R/S/T/N) and major load.",
+      "section_id": "sec_auto_362",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_auto_362",
+          "title": "System output connection"
+        }
+      ],
+      "page": 38,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -228,7 +512,24 @@
         "r": 541.2652799999995,
         "b": 186.15610136319492
       },
-      "content": "When debugging engineer comes to the site, please deal with safety insulation at the end of output cable of the system properly if the load is not ready to receive power supply."
+      "content": "When debugging engineer comes to the site, please deal with safety insulation at the end of output cable of the system properly if the load is not ready to receive power supply.",
+      "section_id": "sec_auto_362",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_auto_362",
+          "title": "System output connection"
+        }
+      ],
+      "page": 38,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -243,7 +544,23 @@
       },
       "content": "External battery connection",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_365",
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_auto_365",
+          "title": "External battery connection"
+        }
+      ],
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "page": 38,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -256,7 +573,24 @@
         "r": 355.32568,
         "b": 153.39610136319493
       },
-      "content": "Refer to Chapter 4.5 in EN50091-1 for battery connection."
+      "content": "Refer to Chapter 4.5 in EN50091-1 for battery connection.",
+      "section_id": "sec_auto_365",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_auto_365",
+          "title": "External battery connection"
+        }
+      ],
+      "page": 38,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -269,7 +603,24 @@
         "r": 371.04568,
         "b": 136.59610136319498
       },
-      "content": "Battery cabinet must be connected with protective earth alone."
+      "content": "Battery cabinet must be connected with protective earth alone.",
+      "section_id": "sec_auto_365",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_auto_365",
+          "title": "External battery connection"
+        }
+      ],
+      "page": 38,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

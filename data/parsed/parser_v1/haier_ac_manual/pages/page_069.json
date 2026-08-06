@@ -19,7 +19,24 @@
       },
       "content": "10.2.Outdoor unit",
       "level": 2,
-      "role": "section"
+      "section_number": "10.2",
+      "section_id": "sec_10_2",
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10.Wiring Diagrams 10.1.INDOORUNIT"
+        },
+        {
+          "id": "sec_10_2",
+          "title": "10.2.Outdoor unit"
+        }
+      ],
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "page": 69,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -36,7 +53,24 @@
       "previous_block_id": "txt_0611",
       "image_hash": "09340600d79434e45c6c11de9af7204f4fb46095c6b2d97f0409517f96b193f3",
       "width": 509,
-      "height": 359
+      "height": 359,
+      "section_id": "sec_10_2",
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10.Wiring Diagrams 10.1.INDOORUNIT"
+        },
+        {
+          "id": "sec_10_2",
+          "title": "10.2.Outdoor unit"
+        }
+      ],
+      "page": 69,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

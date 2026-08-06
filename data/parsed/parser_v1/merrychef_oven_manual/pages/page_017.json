@@ -21,7 +21,24 @@
       "next_block_id": "txt_0228",
       "image_hash": "72fbd278dcaeb4d8ff4fc99d9566ef9ca80f6a703250b550cdcc0d02d01d228e",
       "width": 23,
-      "height": 21
+      "height": 21,
+      "section_id": "sec_auto_266",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 For your safety"
+        },
+        {
+          "id": "sec_auto_266",
+          "title": "Safety hazard: electronic component damage"
+        }
+      ],
+      "page": 17,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -36,7 +53,24 @@
       },
       "content": "2.11 Hazards and safety precautions when taking the appliance out of service",
       "level": 2,
-      "role": "section"
+      "section_number": "2.11",
+      "section_id": "sec_2_11",
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 For your safety"
+        },
+        {
+          "id": "sec_2_11",
+          "title": "2.11 Hazards and safety precautions when taking the appliance out of service"
+        }
+      ],
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "page": 17,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -51,7 +85,23 @@
       },
       "content": "Safety hazard: electrical power",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_270",
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 For your safety"
+        },
+        {
+          "id": "sec_auto_270",
+          "title": "Safety hazard: electrical power"
+        }
+      ],
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "page": 17,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -66,7 +116,24 @@
       },
       "markdown": "| Danger                   | Where or in what situations does the hazard arise?     | Preventative action                                                                                                        |\n|--------------------------|--------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|\n| A risk of electric shock | From live parts Under covers Under the operating panel | Work on the electrical system must only be performed by qualified electricians from an authorized customer service company |",
       "rows": 2,
-      "cols": 3
+      "cols": 3,
+      "section_id": "sec_auto_270",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 For your safety"
+        },
+        {
+          "id": "sec_auto_270",
+          "title": "Safety hazard: electrical power"
+        }
+      ],
+      "page": 17,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -81,7 +148,23 @@
       },
       "content": "Safety hazard: moving heavyweights",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_272",
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 For your safety"
+        },
+        {
+          "id": "sec_auto_272",
+          "title": "Safety hazard: moving heavyweights"
+        }
+      ],
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "page": 17,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -96,7 +179,24 @@
       },
       "markdown": "| Danger                                      | Where or in what situations does the hazard arise?          | Preventative action                                                                                                                |\n|---------------------------------------------|-------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|\n| Risk of injury from overstressing your body | When moving the appliance onto and off the moving equipment |  Use a forklift truck or pallet truck  Do not exceed safety limits for lifting and carrying  Wear personal protective equipment |",
       "rows": 2,
-      "cols": 3
+      "cols": 3,
+      "section_id": "sec_auto_272",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 For your safety"
+        },
+        {
+          "id": "sec_auto_272",
+          "title": "Safety hazard: moving heavyweights"
+        }
+      ],
+      "page": 17,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -111,7 +211,23 @@
       },
       "content": "Safety hazard: mechanical parts of the appliance",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_274",
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 For your safety"
+        },
+        {
+          "id": "sec_auto_274",
+          "title": "Safety hazard: mechanical parts of the appliance"
+        }
+      ],
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "page": 17,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -126,7 +242,24 @@
       },
       "markdown": "| Danger                                                                   | Where or in what situations does the hazard arise?                               | Preventative action                                                                                                                                                                                               |\n|--------------------------------------------------------------------------|----------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Risk of body parts being crushed if the appliance tips over or falls off | When the appliance is being moved e.g., to gain better access to the connections | Ensure oven is level and stable Always observe the requirements for the supporting surface when taking the appliance out of service; see section 3 'For your safety' in the conneX ® Installation and User manual |\n| Risk of slipping on damp kitchen floor                                   | In front of the appliance                                                        | Ensure that the floor around the appliance is dry at all times                                                                                                                                                    |",
       "rows": 3,
-      "cols": 3
+      "cols": 3,
+      "section_id": "sec_auto_274",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 For your safety"
+        },
+        {
+          "id": "sec_auto_274",
+          "title": "Safety hazard: mechanical parts of the appliance"
+        }
+      ],
+      "page": 17,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

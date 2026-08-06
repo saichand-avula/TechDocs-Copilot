@@ -18,8 +18,21 @@
         "b": 733.0429409281768
       },
       "content": "3-8-2. Door Safety Glass",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "3",
+      "section_id": "sec_3",
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-8-2. Door Safety Glass"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 167,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -35,12 +48,26 @@
       "image_path": "figures/figure_0297.png",
       "previous_block_id": "txt_1213",
       "next_block_id": "txt_1214",
-      "caption_id": "txt_1214",
       "caption": "Door Safety Glass",
       "figure_number": "Fig. 5-66",
       "image_hash": "7cee0c522f82cf635274b16164abcf789c0d5a1cf96fc906e9eec07639a6b90c",
       "width": 468,
-      "height": 276
+      "height": 276,
+      "section_id": "sec_3",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-8-2. Door Safety Glass"
+        }
+      ],
+      "page": 167,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0297",
+      "source": "pdf_text",
+      "caption_id": "txt_1214"
     },
     {
       "type": "caption",
@@ -54,6 +81,20 @@
         "b": 393.0242609281769
       },
       "content": "Fig. 5-66 Door Safety Glass",
+      "section_id": "sec_3",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-8-2. Door Safety Glass"
+        }
+      ],
+      "page": 167,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0297",
+      "source": "pdf_text",
       "caption_for": "fig_0297"
     },
     {
@@ -67,7 +108,21 @@
         "r": 257.45632800000004,
         "b": 359.0043569281769
       },
-      "content": "Used Tool: + driver, sealing agent"
+      "content": "Used Tool: + driver, sealing agent",
+      "section_id": "sec_3",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-8-2. Door Safety Glass"
+        }
+      ],
+      "page": 167,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text",
+      "group_id": "grp_fig_0297"
     },
     {
       "type": "paragraph",
@@ -80,7 +135,20 @@
         "r": 541.5183179999997,
         "b": 308.00456092817694
       },
-      "content": "If  the  door  safety  glass  has  been  broken  due  to  the  tool  tip  or  workpiece  while  operating  the machine, exchange as follows:"
+      "content": "If  the  door  safety  glass  has  been  broken  due  to  the  tool  tip  or  workpiece  while  operating  the machine, exchange as follows:",
+      "section_id": "sec_3",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-8-2. Door Safety Glass"
+        }
+      ],
+      "page": 167,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -93,7 +161,20 @@
         "r": 219.38333400000002,
         "b": 291.0246689281769
       },
-      "content": "Disconnect the door"
+      "content": "Disconnect the door",
+      "section_id": "sec_3",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-8-2. Door Safety Glass"
+        }
+      ],
+      "page": 167,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -106,7 +187,20 @@
         "r": 387.46181999999993,
         "b": 274.0447769281768
       },
-      "content": "Disconnect the place using + driver and remove the glass."
+      "content": "Disconnect the place using + driver and remove the glass.",
+      "section_id": "sec_3",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-8-2. Door Safety Glass"
+        }
+      ],
+      "page": 167,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -119,7 +213,20 @@
         "r": 292.0894559999998,
         "b": 257.0047649281769
       },
-      "content": "Remove a piece of glass thoroughly."
+      "content": "Remove a piece of glass thoroughly.",
+      "section_id": "sec_3",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-8-2. Door Safety Glass"
+        }
+      ],
+      "page": 167,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -132,7 +239,20 @@
         "r": 491.13074400000085,
         "b": 240.02487292817682
       },
-      "content": "Apply the boundary of guide with sealing agents and insert the packing into glass."
+      "content": "Apply the boundary of guide with sealing agents and insert the packing into glass.",
+      "section_id": "sec_3",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-8-2. Door Safety Glass"
+        }
+      ],
+      "page": 167,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -145,7 +265,20 @@
         "r": 337.20250199999964,
         "b": 223.04498092817687
       },
-      "content": "Put a glass on the guide and engage the plate."
+      "content": "Put a glass on the guide and engage the plate.",
+      "section_id": "sec_3",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-8-2. Door Safety Glass"
+        }
+      ],
+      "page": 167,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

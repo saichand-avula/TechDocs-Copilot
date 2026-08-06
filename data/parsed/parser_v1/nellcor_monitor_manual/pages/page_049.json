@@ -18,8 +18,29 @@
         "b": 689.4375
       },
       "content": "5.5.5 Operational Performance",
-      "level": 2,
-      "role": "section"
+      "level": 3,
+      "section_number": "5.5.5",
+      "section_id": "sec_5_5_5",
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6. Turn monitor off."
+        },
+        {
+          "id": "sec_5_5",
+          "title": "5.5 Troubleshooting Guide"
+        },
+        {
+          "id": "sec_5_5_5",
+          "title": "5.5.5 Operational Performance"
+        }
+      ],
+      "parent_section_id": "sec_5_5",
+      "section_level": 3,
+      "page": 49,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "caption",
@@ -33,6 +54,27 @@
         "b": 635.24625
       },
       "content": "Table 18 lists symptoms of problems relating to operational performance (no error codes displayed) and  recommended  actions. If the action requires replacement of a PCB or module, refer to Disassembly Guide.",
+      "section_id": "sec_5_5_5",
+      "parent_section_id": "sec_5_5",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6. Turn monitor off."
+        },
+        {
+          "id": "sec_5_5",
+          "title": "5.5 Troubleshooting Guide"
+        },
+        {
+          "id": "sec_5_5_5",
+          "title": "5.5.5 Operational Performance"
+        }
+      ],
+      "page": 49,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "source": "pdf_text",
       "caption_for": "tbl_0023"
     },
     {
@@ -47,11 +89,33 @@
         "b": 372.6405334472656
       },
       "markdown": "Table 18. Operational Performance Problems\n\n| Symptom                                                                                    | Recommended Action                                                                                                                                                                                                                                                                                                                           |\n|--------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| 1. Monitor appears to be operational, but physiological values are suspect or nonexistent. | 1. Replace each patient cable (or hose) with a known serviceable cable. 2. Ensure internal ECG, temperature, and SpO 2 cables are connected to main PCB assembly. Ensure hoses in pneumatic system are properly connected, and NIBP pump motor is connected to power supply PCB assembly. 3. If problem persists, replace main PCB assembly. |\n| 2. Printer paper will not advance.                                                         | 1. Open printer door and check paper is present. 2. If problem persists, ensure printer wire is connected to SpO 2 PCB assembly. 3. If problem persists, replace printer.                                                                                                                                                                    |\n| 3. Printer paper will advance, but paper remains blank when printing should be present.    | 1. Open printer door and check paper is oriented correctly. 2. If problem persists, replace printer.                                                                                                                                                                                                                                         |",
-      "caption_id": "txt_0598",
       "title": "Table 18 lists symptoms of problems relating to operational performance (no error codes displayed) and  recommended  actions. If the action requires replacement of a PCB or module, refer to Disassembly Guide.",
       "table_number": "Table 18",
       "rows": 4,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_5_5_5",
+      "parent_section_id": "sec_5_5",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6. Turn monitor off."
+        },
+        {
+          "id": "sec_5_5",
+          "title": "5.5 Troubleshooting Guide"
+        },
+        {
+          "id": "sec_5_5_5",
+          "title": "5.5.5 Operational Performance"
+        }
+      ],
+      "page": 49,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "group_id": "grp_tbl_0023",
+      "source": "pdf_text",
+      "caption_id": "txt_0598"
     },
     {
       "type": "caption",
@@ -65,6 +129,27 @@
         "b": 608.4375
       },
       "content": "Table 18. Operational Performance Problems",
+      "section_id": "sec_5_5_5",
+      "parent_section_id": "sec_5_5",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6. Turn monitor off."
+        },
+        {
+          "id": "sec_5_5",
+          "title": "5.5 Troubleshooting Guide"
+        },
+        {
+          "id": "sec_5_5_5",
+          "title": "5.5.5 Operational Performance"
+        }
+      ],
+      "page": 49,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "source": "pdf_text",
       "caption_for": "tbl_0023"
     },
     {
@@ -79,8 +164,29 @@
         "b": 340.6875
       },
       "content": "5.5.6 Error Codes",
-      "level": 2,
-      "role": "section"
+      "level": 3,
+      "section_number": "5.5.6",
+      "section_id": "sec_5_5_6",
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6. Turn monitor off."
+        },
+        {
+          "id": "sec_5_5",
+          "title": "5.5 Troubleshooting Guide"
+        },
+        {
+          "id": "sec_5_5_6",
+          "title": "5.5.6 Error Codes"
+        }
+      ],
+      "parent_section_id": "sec_5_5",
+      "section_level": 3,
+      "page": 49,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -93,7 +199,28 @@
         "r": 538.5634125000001,
         "b": 299.99625
       },
-      "content": "When the N5500 detects an error condition, the monitor will attempt to show an error code on the display screen."
+      "content": "When the N5500 detects an error condition, the monitor will attempt to show an error code on the display screen.",
+      "section_id": "sec_5_5_6",
+      "parent_section_id": "sec_5_5",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6. Turn monitor off."
+        },
+        {
+          "id": "sec_5_5",
+          "title": "5.5 Troubleshooting Guide"
+        },
+        {
+          "id": "sec_5_5_6",
+          "title": "5.5.6 Error Codes"
+        }
+      ],
+      "page": 49,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -106,7 +233,28 @@
         "r": 536.3507624999995,
         "b": 245.99625000000003
       },
-      "content": "If  such  an  error  occurs  during  monitoring operation,  the  monitor  will  sound  a  lowpriority  alarm.  Audible  alarm  can  be  terminated  by  pressing  Alarm  silence/suspend switch, but it depends on error codes and conditions."
+      "content": "If  such  an  error  occurs  during  monitoring operation,  the  monitor  will  sound  a  lowpriority  alarm.  Audible  alarm  can  be  terminated  by  pressing  Alarm  silence/suspend switch, but it depends on error codes and conditions.",
+      "section_id": "sec_5_5_6",
+      "parent_section_id": "sec_5_5",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6. Turn monitor off."
+        },
+        {
+          "id": "sec_5_5",
+          "title": "5.5 Troubleshooting Guide"
+        },
+        {
+          "id": "sec_5_5_6",
+          "title": "5.5.6 Error Codes"
+        }
+      ],
+      "page": 49,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "caption",
@@ -120,6 +268,28 @@
         "b": 218.99625000000003
       },
       "content": "Table 19 provides a complete list of error codes and problem identification.",
+      "section_id": "sec_5_5_6",
+      "parent_section_id": "sec_5_5",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6. Turn monitor off."
+        },
+        {
+          "id": "sec_5_5",
+          "title": "5.5 Troubleshooting Guide"
+        },
+        {
+          "id": "sec_5_5_6",
+          "title": "5.5.6 Error Codes"
+        }
+      ],
+      "page": 49,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_tbl_0023",
+      "source": "pdf_text",
       "caption_for": "tbl_0023"
     },
     {
@@ -133,7 +303,29 @@
         "r": 368.06325000000004,
         "b": 191.99625000000003
       },
-      "content": "If an error code occurs, take the following actions:"
+      "content": "If an error code occurs, take the following actions:",
+      "section_id": "sec_5_5_6",
+      "parent_section_id": "sec_5_5",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6. Turn monitor off."
+        },
+        {
+          "id": "sec_5_5",
+          "title": "5.5 Troubleshooting Guide"
+        },
+        {
+          "id": "sec_5_5_6",
+          "title": "5.5.6 Error Codes"
+        }
+      ],
+      "page": 49,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text",
+      "group_id": "grp_tbl_0023"
     },
     {
       "type": "list_item",
@@ -146,7 +338,28 @@
         "r": 308.8128750000001,
         "b": 164.99625000000003
       },
-      "content": "Turn monitor off, then on again."
+      "content": "Turn monitor off, then on again.",
+      "section_id": "sec_5_5_6",
+      "parent_section_id": "sec_5_5",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6. Turn monitor off."
+        },
+        {
+          "id": "sec_5_5",
+          "title": "5.5 Troubleshooting Guide"
+        },
+        {
+          "id": "sec_5_5_6",
+          "title": "5.5.6 Error Codes"
+        }
+      ],
+      "page": 49,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "admonition",
@@ -160,7 +373,28 @@
         "b": 110.99625000000003
       },
       "content": "Note:  If  error  code  still  appears,  take  monitor  out  of  service  and  contact  Nellcor Technical Services or your local Nellcor representative for advice on remedial action.",
-      "severity": "note"
+      "severity": "note",
+      "section_id": "sec_5_5_6",
+      "parent_section_id": "sec_5_5",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6. Turn monitor off."
+        },
+        {
+          "id": "sec_5_5",
+          "title": "5.5 Troubleshooting Guide"
+        },
+        {
+          "id": "sec_5_5_6",
+          "title": "5.5.6 Error Codes"
+        }
+      ],
+      "page": 49,
+      "chunk_hint": "admonition",
+      "semantic_role": "note",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

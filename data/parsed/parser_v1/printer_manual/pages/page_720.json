@@ -22,7 +22,24 @@
       "width": 12,
       "height": 13,
       "image_hash": "663d0b8c2c8edfd90539c76c99dec0c28f7c57061b2df975d5e2b9631be58a8c",
-      "next_block_id": "txt_5530"
+      "next_block_id": "txt_5530",
+      "section_id": "sec_auto_7622",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 Parts and diagrams"
+        },
+        {
+          "id": "sec_auto_7622",
+          "title": "Printer back view (MFP)"
+        }
+      ],
+      "page": 720,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -39,7 +56,24 @@
       "image_hash": "52935e0d0568e887eec7d053f81ba5c8d0938897d4c3812bf370bab7cade4cc2",
       "width": 260,
       "height": 242,
-      "next_block_id": "txt_5530"
+      "next_block_id": "txt_5530",
+      "section_id": "sec_auto_7622",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 Parts and diagrams"
+        },
+        {
+          "id": "sec_auto_7622",
+          "title": "Printer back view (MFP)"
+        }
+      ],
+      "page": 720,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -54,7 +88,24 @@
       },
       "markdown": "|   1 | Rear door (access for clearing jams)                             |\n|-----|------------------------------------------------------------------|\n|   2 | Top-cover-release button                                         |\n|   3 | Serial number and product number label                           |\n|   4 | Dust cover for Tray 2 (flips up when legal-size paper is loaded) |\n|   5 | Power connection                                                 |\n|   6 | Formatter (contains the interface ports)                         |",
       "rows": 6,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_auto_7622",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 Parts and diagrams"
+        },
+        {
+          "id": "sec_auto_7622",
+          "title": "Printer back view (MFP)"
+        }
+      ],
+      "page": 720,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -69,7 +120,23 @@
       },
       "content": "How to use the parts lists and diagrams",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_7627",
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 Parts and diagrams"
+        },
+        {
+          "id": "sec_auto_7627",
+          "title": "How to use the parts lists and diagrams"
+        }
+      ],
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "page": 720,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -82,7 +149,24 @@
         "r": 275.28200999999996,
         "b": 314.0016
       },
-      "content": "Learn how to use the parts lists and diagrams."
+      "content": "Learn how to use the parts lists and diagrams.",
+      "section_id": "sec_auto_7627",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 Parts and diagrams"
+        },
+        {
+          "id": "sec_auto_7627",
+          "title": "How to use the parts lists and diagrams"
+        }
+      ],
+      "page": 720,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -95,7 +179,24 @@
         "r": 536.2119100000001,
         "b": 257.00160000000005
       },
-      "content": "The figures in this chapter show the major sub-assemblies in the printer and their component parts. A parts list table follows each exploded view assembly diagram. The table lists the item number, the associated part number, and the description of each part. If a part is not listed in the table, then it is not a field replacement unit (FRU)."
+      "content": "The figures in this chapter show the major sub-assemblies in the printer and their component parts. A parts list table follows each exploded view assembly diagram. The table lists the item number, the associated part number, and the description of each part. If a part is not listed in the table, then it is not a field replacement unit (FRU).",
+      "section_id": "sec_auto_7627",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 Parts and diagrams"
+        },
+        {
+          "id": "sec_auto_7627",
+          "title": "How to use the parts lists and diagrams"
+        }
+      ],
+      "page": 720,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "admonition",
@@ -109,7 +210,24 @@
         "b": 221.50161000000003
       },
       "content": "NOTE: The abbreviation 'PCA' stands for 'printed circuit-board assembly.' Components described as a PCA might consist of a single circuit board or a circuit board plus other parts, such as cables and sensors.",
-      "severity": "note"
+      "severity": "note",
+      "section_id": "sec_auto_7627",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 Parts and diagrams"
+        },
+        {
+          "id": "sec_auto_7627",
+          "title": "How to use the parts lists and diagrams"
+        }
+      ],
+      "page": 720,
+      "chunk_hint": "admonition",
+      "semantic_role": "note",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

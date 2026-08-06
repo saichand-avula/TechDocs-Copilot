@@ -19,7 +19,23 @@
       },
       "content": "FLOW CHART A. ENGINE DOES NOT CRANK",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_256",
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3. Engine Controls"
+        },
+        {
+          "id": "sec_auto_256",
+          "title": "FLOW CHART A. ENGINE DOES NOT CRANK"
+        }
+      ],
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "page": 17,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -32,7 +48,24 @@
         "r": 560.6143000000001,
         "b": 682.6043519502826
       },
-      "content": "Many troubleshooting procedures present hazards that can result in severe personal injury or death.  Only qualified service personnel with knowledge of fuels, electricity, and machinery hazards should perform service procedures.  Review Safety Precautions. WARNING"
+      "content": "Many troubleshooting procedures present hazards that can result in severe personal injury or death.  Only qualified service personnel with knowledge of fuels, electricity, and machinery hazards should perform service procedures.  Review Safety Precautions. WARNING",
+      "section_id": "sec_auto_256",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3. Engine Controls"
+        },
+        {
+          "id": "sec_auto_256",
+          "title": "FLOW CHART A. ENGINE DOES NOT CRANK"
+        }
+      ],
+      "page": 17,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -49,7 +82,24 @@
       "previous_block_id": "txt_0251",
       "image_hash": "8f6cd88cba92dbe6bf66b9af26d3289fc68833c150af24168132efcd4c87edb6",
       "width": 513,
-      "height": 261
+      "height": 261,
+      "section_id": "sec_auto_256",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3. Engine Controls"
+        },
+        {
+          "id": "sec_auto_256",
+          "title": "FLOW CHART A. ENGINE DOES NOT CRANK"
+        }
+      ],
+      "page": 17,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

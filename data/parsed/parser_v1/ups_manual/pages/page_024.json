@@ -19,7 +19,24 @@
       },
       "content": "3.2 Initial Inspection and Unpacking of UPS",
       "level": 2,
-      "role": "section"
+      "section_number": "3.2",
+      "section_id": "sec_3_2",
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_2",
+          "title": "3.2 Initial Inspection and Unpacking of UPS"
+        }
+      ],
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "page": 24,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -32,7 +49,24 @@
         "r": 541.2451199999996,
         "b": 652.556101363195
       },
-      "content": "The equipment cabinet will be fixed on the wooden pallet with screw and be protected by packing materials during the transportation."
+      "content": "The equipment cabinet will be fixed on the wooden pallet with screw and be protected by packing materials during the transportation.",
+      "section_id": "sec_3_2",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_2",
+          "title": "3.2 Initial Inspection and Unpacking of UPS"
+        }
+      ],
+      "page": 24,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -48,12 +82,30 @@
       "image_path": "figures/figure_0030.png",
       "previous_block_id": "txt_0199",
       "next_block_id": "txt_0200",
-      "caption_id": "txt_0200",
       "caption": ": Outer packing and wooden pallet of UPS",
       "figure_number": "Figure 3-3",
       "image_hash": "75c49ed05216d401ec55108506ace507cbeac3b4116911e9fc44dcc169c1f447",
       "width": 219,
-      "height": 281
+      "height": 281,
+      "section_id": "sec_3_2",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_2",
+          "title": "3.2 Initial Inspection and Unpacking of UPS"
+        }
+      ],
+      "page": 24,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0030",
+      "source": "pdf_text",
+      "caption_id": "txt_0200"
     },
     {
       "type": "caption",
@@ -67,6 +119,24 @@
         "b": 310.98610136319496
       },
       "content": "Figure 3-3: Outer packing and wooden pallet of UPS",
+      "section_id": "sec_3_2",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_2",
+          "title": "3.2 Initial Inspection and Unpacking of UPS"
+        }
+      ],
+      "page": 24,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0030",
+      "source": "pdf_text",
       "caption_for": "fig_0030"
     },
     {
@@ -80,7 +150,25 @@
         "r": 353.28568,
         "b": 295.38610136319494
       },
-      "content": "Before installing UPS, the following should be carried out:"
+      "content": "Before installing UPS, the following should be carried out:",
+      "section_id": "sec_3_2",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_2",
+          "title": "3.2 Initial Inspection and Unpacking of UPS"
+        }
+      ],
+      "page": 24,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text",
+      "group_id": "grp_fig_0030"
     },
     {
       "type": "list_item",
@@ -93,7 +181,24 @@
         "r": 541.4600799999995,
         "b": 232.98610136319496
       },
-      "content": " Carefully check the outer packing to confirm that no damage has been caused during the moving. After unpacking the packing-case, take a look at UPS and battery to check if damage has been caused  during  the  transportation.  Please  immediately  inform  the  carrier  and  contact  customer service staff as soon as possible if you find they are damaged."
+      "content": " Carefully check the outer packing to confirm that no damage has been caused during the moving. After unpacking the packing-case, take a look at UPS and battery to check if damage has been caused  during  the  transportation.  Please  immediately  inform  the  carrier  and  contact  customer service staff as soon as possible if you find they are damaged.",
+      "section_id": "sec_3_2",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_2",
+          "title": "3.2 Initial Inspection and Unpacking of UPS"
+        }
+      ],
+      "page": 24,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -106,7 +211,24 @@
         "r": 347.28568,
         "b": 217.38610136319494
       },
-      "content": " Open the packing-case and remove the protective foam."
+      "content": " Open the packing-case and remove the protective foam.",
+      "section_id": "sec_3_2",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_2",
+          "title": "3.2 Initial Inspection and Unpacking of UPS"
+        }
+      ],
+      "page": 24,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -119,7 +241,24 @@
         "r": 541.5102399999998,
         "b": 186.15610136319492
       },
-      "content": " Check up the technical data list to verify that it is the right equipment. Technical data list of UPS locates at label inside the front door, indicating the model, capacity and main parameters of UPS."
+      "content": " Check up the technical data list to verify that it is the right equipment. Technical data list of UPS locates at label inside the front door, indicating the model, capacity and main parameters of UPS.",
+      "section_id": "sec_3_2",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_2",
+          "title": "3.2 Initial Inspection and Unpacking of UPS"
+        }
+      ],
+      "page": 24,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -132,7 +271,24 @@
         "r": 541.4946399999995,
         "b": 139.35610136319497
       },
-      "content": " Remove the fixed screw before unloading the cabinet from the wooden pallet. Remove the front and the back shield at the bottom of UPS cabinet, and then you will see the screw that fix the cabinet and the wooden pallet, as shown in Figure 3-4 and 3-5."
+      "content": " Remove the fixed screw before unloading the cabinet from the wooden pallet. Remove the front and the back shield at the bottom of UPS cabinet, and then you will see the screw that fix the cabinet and the wooden pallet, as shown in Figure 3-4 and 3-5.",
+      "section_id": "sec_3_2",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_2",
+          "title": "3.2 Initial Inspection and Unpacking of UPS"
+        }
+      ],
+      "page": 24,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -145,7 +301,24 @@
         "r": 546.05568,
         "b": 123.75610136319494
       },
-      "content": " Unload UPS cabinet from the wooden pallet and then move it with forklift to the installation position."
+      "content": " Unload UPS cabinet from the wooden pallet and then move it with forklift to the installation position.",
+      "section_id": "sec_3_2",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_2",
+          "title": "3.2 Initial Inspection and Unpacking of UPS"
+        }
+      ],
+      "page": 24,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

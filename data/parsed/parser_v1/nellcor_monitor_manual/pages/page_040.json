@@ -18,11 +18,29 @@
         "b": 452.95233154296875
       },
       "markdown": "Table 10. NIBP Test Mode\n\n| Tests                         | Description                                                                                                                                                                                       |\n|-------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Pressure Sensor Accuracy Test | Verifies that the pneumatic pressure sensor accuracy is within the specification.                                                                                                                 |\n| Over Pressure Test            | Verifies that the valve will open and the pump will be disabled if system pressure reaches the over-pressure protection point (320±10 mmHg in adult/pediatric mode, 160±5 mmHg in neonatal mode). |\n| Air Leakage Test              | Verifies that the pneumatic pressure air leakage is within a pressure drop of 6 mmHg/min.                                                                                                         |\n| Inflation Time Measurement    | Verifies that the pneumatic pressure inflation is at the time of 4.0 to 7.5 seconds (to 250 mmHg)                                                                                                 |\n| Deflation Rate Measurement    | Verifies that the proportional valve will open and bleed off pressure at the rate of 2.8 to 6.0 mmHg/second (260mmHg - 30mmHg).                                                                   |\n| Return                        | Exits NIBP Test Mode screen immediately, returns to Service Menu.                                                                                                                                 |",
-      "caption_id": "txt_0536",
       "title": "Table 10. NIBP Test Mode",
       "table_number": "Table 10",
       "rows": 7,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_auto_581",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6. Turn monitor off."
+        },
+        {
+          "id": "sec_auto_581",
+          "title": "Language"
+        }
+      ],
+      "page": 40,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "group_id": "grp_tbl_0014",
+      "source": "pdf_text",
+      "caption_id": "txt_0536"
     },
     {
       "type": "caption",
@@ -36,6 +54,24 @@
         "b": 690.1875
       },
       "content": "Table 10. NIBP Test Mode",
+      "section_id": "sec_auto_581",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6. Turn monitor off."
+        },
+        {
+          "id": "sec_auto_581",
+          "title": "Language"
+        }
+      ],
+      "page": 40,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_tbl_0014",
+      "source": "pdf_text",
       "caption_for": "tbl_0014"
     },
     {
@@ -51,7 +87,23 @@
       },
       "content": "System Information",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_584",
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6. Turn monitor off."
+        },
+        {
+          "id": "sec_auto_584",
+          "title": "System Information"
+        }
+      ],
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "page": 40,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -64,7 +116,24 @@
         "r": 368.06174999999996,
         "b": 400.49625
       },
-      "content": "This screen displays several system-related items:"
+      "content": "This screen displays several system-related items:",
+      "section_id": "sec_auto_584",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6. Turn monitor off."
+        },
+        {
+          "id": "sec_auto_584",
+          "title": "System Information"
+        }
+      ],
+      "page": 40,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -78,11 +147,29 @@
         "b": 206.38372802734375
       },
       "markdown": "Table 11. System Information\n\n| System Information      | Description                                                                                                                                                                                                |\n|-------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Monitor On Time         | Displays the number of hours, rounded to the nearest hour, that the monitor has been operational.                                                                                                          |\n| Recorder On Time        | Displays the number of hours, rounded to the nearest hour, that the Recorder has been operational.                                                                                                         |\n| Battery Deep Discharges | Displays the number of deep-discharge cycles seen by the battery. The monitor records a deep discharge cycle when the battery voltage reaches the voltage at which a 'Deadly Low Battery' alarm is issued. |\n| System Software Version | Displays the revision level of the system software. The revision level is also shown on the LCD as part of the Copyright screen.                                                                           |",
-      "caption_id": "txt_0539",
       "title": "Table 11. System Information",
       "table_number": "Table 11",
       "rows": 5,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_auto_584",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6. Turn monitor off."
+        },
+        {
+          "id": "sec_auto_584",
+          "title": "System Information"
+        }
+      ],
+      "page": 40,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "group_id": "grp_tbl_0015",
+      "source": "pdf_text",
+      "caption_id": "txt_0539"
     },
     {
       "type": "caption",
@@ -96,6 +183,24 @@
         "b": 375.9375
       },
       "content": "Table 11. System Information",
+      "section_id": "sec_auto_584",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6. Turn monitor off."
+        },
+        {
+          "id": "sec_auto_584",
+          "title": "System Information"
+        }
+      ],
+      "page": 40,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_tbl_0015",
+      "source": "pdf_text",
       "caption_for": "tbl_0015"
     },
     {
@@ -110,7 +215,24 @@
         "b": 155.24625000000003
       },
       "content": "Note: The values of Monitor On Time, Recorder On Time and Battery Deep Discharges may not be reset, but they will be reset to zero when a new Main PCB assembly is installed.",
-      "severity": "note"
+      "severity": "note",
+      "section_id": "sec_auto_584",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6. Turn monitor off."
+        },
+        {
+          "id": "sec_auto_584",
+          "title": "System Information"
+        }
+      ],
+      "page": 40,
+      "chunk_hint": "admonition",
+      "semantic_role": "note",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -125,7 +247,23 @@
       },
       "content": "CMS (Central Monitoring System)",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_589",
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6. Turn monitor off."
+        },
+        {
+          "id": "sec_auto_589",
+          "title": "CMS (Central Monitoring System)"
+        }
+      ],
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "page": 40,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -138,7 +276,24 @@
         "r": 537.8171250000004,
         "b": 89.99625000000003
       },
-      "content": "The N5500 monitor has a capability of transferring patient data to Central Monitoring System (CMS) for N5500. For more information, refer to the CMS instructions for use."
+      "content": "The N5500 monitor has a capability of transferring patient data to Central Monitoring System (CMS) for N5500. For more information, refer to the CMS instructions for use.",
+      "section_id": "sec_auto_589",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6. Turn monitor off."
+        },
+        {
+          "id": "sec_auto_589",
+          "title": "CMS (Central Monitoring System)"
+        }
+      ],
+      "page": 40,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

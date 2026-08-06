@@ -19,7 +19,23 @@
       },
       "content": "Email setting",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_790",
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7 Annex"
+        },
+        {
+          "id": "sec_auto_790",
+          "title": "Email setting"
+        }
+      ],
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "page": 77,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -32,7 +48,24 @@
         "r": 200.50567999999998,
         "b": 110.076101363195
       },
-      "content": "Email server address"
+      "content": "Email server address",
+      "section_id": "sec_auto_790",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7 Annex"
+        },
+        {
+          "id": "sec_auto_790",
+          "title": "Email setting"
+        }
+      ],
+      "page": 77,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -45,7 +78,24 @@
         "r": 283.08567999999997,
         "b": 94.48010136319499
       },
-      "content": "Set the receiver's server address of Email."
+      "content": "Set the receiver's server address of Email.",
+      "section_id": "sec_auto_790",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7 Annex"
+        },
+        {
+          "id": "sec_auto_790",
+          "title": "Email setting"
+        }
+      ],
+      "page": 77,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -61,12 +111,30 @@
       "image_path": "figures/figure_0127.png",
       "previous_block_id": "txt_0624",
       "next_block_id": "txt_0625",
-      "caption_id": "txt_0625",
       "caption": ": Home page of iStars",
       "figure_number": "Figure 7-8",
       "image_hash": "56c715e1185377a9387f26b06c6e3e8522d30c57ed2976b0d0a4fca97aa6a32b",
       "width": 310,
-      "height": 191
+      "height": 191,
+      "section_id": "sec_auto_790",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7 Annex"
+        },
+        {
+          "id": "sec_auto_790",
+          "title": "Email setting"
+        }
+      ],
+      "page": 77,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0127",
+      "source": "pdf_text",
+      "caption_id": "txt_0625"
     },
     {
       "type": "caption",
@@ -80,6 +148,24 @@
         "b": 510.566101363195
       },
       "content": "Figure 7-8: Home page of iStars",
+      "section_id": "sec_auto_790",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7 Annex"
+        },
+        {
+          "id": "sec_auto_790",
+          "title": "Email setting"
+        }
+      ],
+      "page": 77,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0127",
+      "source": "pdf_text",
       "caption_for": "fig_0127"
     },
     {
@@ -94,8 +180,29 @@
         "b": 482.0028447886093
       },
       "content": "7.4.3 iStars Email settings",
-      "level": 2,
-      "role": "section"
+      "level": 3,
+      "section_number": "7.4.3",
+      "section_id": "sec_7_4_3",
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7 Annex"
+        },
+        {
+          "id": "sec_auto_790",
+          "title": "Email setting"
+        },
+        {
+          "id": "sec_7_4_3",
+          "title": "7.4.3 iStars Email settings"
+        }
+      ],
+      "parent_section_id": "sec_auto_790",
+      "section_level": 3,
+      "page": 77,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -108,7 +215,28 @@
         "r": 488.69568,
         "b": 453.326101363195
       },
-      "content": "As for this function, events of equipment and daily statement are sent to user by Email."
+      "content": "As for this function, events of equipment and daily statement are sent to user by Email.",
+      "section_id": "sec_7_4_3",
+      "parent_section_id": "sec_auto_790",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7 Annex"
+        },
+        {
+          "id": "sec_auto_790",
+          "title": "Email setting"
+        },
+        {
+          "id": "sec_7_4_3",
+          "title": "7.4.3 iStars Email settings"
+        }
+      ],
+      "page": 77,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -121,7 +249,28 @@
         "r": 541.3083199999994,
         "b": 375.30610136319495
       },
-      "content": "Function setting: it  can  be  set  whether  to  send  the  information  to  an  Email  of  user  when  iStars detects  related  data  and  event  of  UPS.  Page  setting  includes:  Email  setting,  Email  address  of recipient  (used  to  receive  log  file  of  event),  Email  address  of  recipient  (used  to  receive  daily statement)  and  test  setting.  After  settings  are  completed,  click  on  \"Apply\"  and  the  operation  is completed."
+      "content": "Function setting: it  can  be  set  whether  to  send  the  information  to  an  Email  of  user  when  iStars detects  related  data  and  event  of  UPS.  Page  setting  includes:  Email  setting,  Email  address  of recipient  (used  to  receive  log  file  of  event),  Email  address  of  recipient  (used  to  receive  daily statement)  and  test  setting.  After  settings  are  completed,  click  on  \"Apply\"  and  the  operation  is completed.",
+      "section_id": "sec_7_4_3",
+      "parent_section_id": "sec_auto_790",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7 Annex"
+        },
+        {
+          "id": "sec_auto_790",
+          "title": "Email setting"
+        },
+        {
+          "id": "sec_7_4_3",
+          "title": "7.4.3 iStars Email settings"
+        }
+      ],
+      "page": 77,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -137,12 +286,34 @@
       "image_path": "figures/figure_0128.png",
       "previous_block_id": "txt_0628",
       "next_block_id": "txt_0629",
-      "caption_id": "txt_0629",
       "caption": ": Email setting page",
       "figure_number": "Figure 7-9",
       "image_hash": "6ba0c50e72cde194cf6b4d0fec71ccafd728bbb20f520113f6473428f0305d01",
       "width": 329,
-      "height": 203
+      "height": 203,
+      "section_id": "sec_7_4_3",
+      "parent_section_id": "sec_auto_790",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7 Annex"
+        },
+        {
+          "id": "sec_auto_790",
+          "title": "Email setting"
+        },
+        {
+          "id": "sec_7_4_3",
+          "title": "7.4.3 iStars Email settings"
+        }
+      ],
+      "page": 77,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0128",
+      "source": "pdf_text",
+      "caption_id": "txt_0629"
     },
     {
       "type": "caption",
@@ -156,6 +327,28 @@
         "b": 156.87610136319495
       },
       "content": "Figure 7-9: Email setting page",
+      "section_id": "sec_7_4_3",
+      "parent_section_id": "sec_auto_790",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7 Annex"
+        },
+        {
+          "id": "sec_auto_790",
+          "title": "Email setting"
+        },
+        {
+          "id": "sec_7_4_3",
+          "title": "7.4.3 iStars Email settings"
+        }
+      ],
+      "page": 77,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0128",
+      "source": "pdf_text",
       "caption_for": "fig_0128"
     }
   ],

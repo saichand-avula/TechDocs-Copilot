@@ -18,8 +18,33 @@
         "b": 687.1875
       },
       "content": "3.3.5.2.1 Pressure Sensor Accuracy Test",
-      "level": 2,
-      "role": "section"
+      "level": 5,
+      "section_number": "3.3.5.2.1",
+      "section_id": "sec_3_3_5_2_1",
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. Test #4: Print-on-alarm"
+        },
+        {
+          "id": "sec_3_3_5",
+          "title": "3.3.5 Measurement Parameter Operation Tests"
+        },
+        {
+          "id": "sec_3_3_5_2",
+          "title": "3.3.5.2 Pneumatic System Operation with NIBP simulator"
+        },
+        {
+          "id": "sec_3_3_5_2_1",
+          "title": "3.3.5.2.1 Pressure Sensor Accuracy Test"
+        }
+      ],
+      "parent_section_id": "sec_3_3_5_2",
+      "section_level": 5,
+      "page": 26,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -32,7 +57,32 @@
         "r": 538.3126999999998,
         "b": 659.99625
       },
-      "content": "The pressure sensor accuracy test verifies the pressure accuracy of the N5500 pressure sensor."
+      "content": "The pressure sensor accuracy test verifies the pressure accuracy of the N5500 pressure sensor.",
+      "section_id": "sec_3_3_5_2_1",
+      "parent_section_id": "sec_3_3_5_2",
+      "section_level": 5,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. Test #4: Print-on-alarm"
+        },
+        {
+          "id": "sec_3_3_5",
+          "title": "3.3.5 Measurement Parameter Operation Tests"
+        },
+        {
+          "id": "sec_3_3_5_2",
+          "title": "3.3.5.2 Pneumatic System Operation with NIBP simulator"
+        },
+        {
+          "id": "sec_3_3_5_2_1",
+          "title": "3.3.5.2.1 Pressure Sensor Accuracy Test"
+        }
+      ],
+      "page": 26,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -45,7 +95,32 @@
         "r": 411.5625,
         "b": 632.99625
       },
-      "content": "Ensure Bio-Tek simulator is in Static pressure test mode."
+      "content": "Ensure Bio-Tek simulator is in Static pressure test mode.",
+      "section_id": "sec_3_3_5_2_1",
+      "parent_section_id": "sec_3_3_5_2",
+      "section_level": 5,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. Test #4: Print-on-alarm"
+        },
+        {
+          "id": "sec_3_3_5",
+          "title": "3.3.5 Measurement Parameter Operation Tests"
+        },
+        {
+          "id": "sec_3_3_5_2",
+          "title": "3.3.5.2 Pneumatic System Operation with NIBP simulator"
+        },
+        {
+          "id": "sec_3_3_5_2_1",
+          "title": "3.3.5.2.1 Pressure Sensor Accuracy Test"
+        }
+      ],
+      "page": 26,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -58,7 +133,32 @@
         "r": 539.0625,
         "b": 592.49625
       },
-      "content": "NIBP Test screen is active on N5500, then select 'Pressure Sensor Accuracy Test' by the knob."
+      "content": "NIBP Test screen is active on N5500, then select 'Pressure Sensor Accuracy Test' by the knob.",
+      "section_id": "sec_3_3_5_2_1",
+      "parent_section_id": "sec_3_3_5_2",
+      "section_level": 5,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. Test #4: Print-on-alarm"
+        },
+        {
+          "id": "sec_3_3_5",
+          "title": "3.3.5 Measurement Parameter Operation Tests"
+        },
+        {
+          "id": "sec_3_3_5_2",
+          "title": "3.3.5.2 Pneumatic System Operation with NIBP simulator"
+        },
+        {
+          "id": "sec_3_3_5_2_1",
+          "title": "3.3.5.2.1 Pressure Sensor Accuracy Test"
+        }
+      ],
+      "page": 26,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -71,7 +171,32 @@
         "r": 537.9377,
         "b": 551.99625
       },
-      "content": "Press Select button on simulator until simulator displays 'Pressure Source  Set Test Pressure'. Adjust pressure on the simulator for 250, 150, 50 and 0 mmHg."
+      "content": "Press Select button on simulator until simulator displays 'Pressure Source  Set Test Pressure'. Adjust pressure on the simulator for 250, 150, 50 and 0 mmHg.",
+      "section_id": "sec_3_3_5_2_1",
+      "parent_section_id": "sec_3_3_5_2",
+      "section_level": 5,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. Test #4: Print-on-alarm"
+        },
+        {
+          "id": "sec_3_3_5",
+          "title": "3.3.5 Measurement Parameter Operation Tests"
+        },
+        {
+          "id": "sec_3_3_5_2",
+          "title": "3.3.5.2 Pneumatic System Operation with NIBP simulator"
+        },
+        {
+          "id": "sec_3_3_5_2_1",
+          "title": "3.3.5.2.1 Pressure Sensor Accuracy Test"
+        }
+      ],
+      "page": 26,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -84,7 +209,32 @@
         "r": 539.0624999999998,
         "b": 511.49625
       },
-      "content": "Press Start Pump button on simulator. The simulator will begin to pressurize. Allow 15-20 seconds for pressure to stabilize."
+      "content": "Press Start Pump button on simulator. The simulator will begin to pressurize. Allow 15-20 seconds for pressure to stabilize.",
+      "section_id": "sec_3_3_5_2_1",
+      "parent_section_id": "sec_3_3_5_2",
+      "section_level": 5,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. Test #4: Print-on-alarm"
+        },
+        {
+          "id": "sec_3_3_5",
+          "title": "3.3.5 Measurement Parameter Operation Tests"
+        },
+        {
+          "id": "sec_3_3_5_2",
+          "title": "3.3.5.2 Pneumatic System Operation with NIBP simulator"
+        },
+        {
+          "id": "sec_3_3_5_2_1",
+          "title": "3.3.5.2.1 Pressure Sensor Accuracy Test"
+        }
+      ],
+      "page": 26,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -97,7 +247,32 @@
         "r": 539.0624999999999,
         "b": 443.99625
       },
-      "content": "The  current  pressure  in  mmHg  will  be  displayed  on  both  the  simulator  and  N5500 displays. Ensure N5500 pressure sensor accuracy meets the performance standard of ANSI/AAMI SP-10:1992+A1:1996 (within the specification by more than ±3 mmHg or 2 percent of reading, whichever is greater) to successfully complete the test."
+      "content": "The  current  pressure  in  mmHg  will  be  displayed  on  both  the  simulator  and  N5500 displays. Ensure N5500 pressure sensor accuracy meets the performance standard of ANSI/AAMI SP-10:1992+A1:1996 (within the specification by more than ±3 mmHg or 2 percent of reading, whichever is greater) to successfully complete the test.",
+      "section_id": "sec_3_3_5_2_1",
+      "parent_section_id": "sec_3_3_5_2",
+      "section_level": 5,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. Test #4: Print-on-alarm"
+        },
+        {
+          "id": "sec_3_3_5",
+          "title": "3.3.5 Measurement Parameter Operation Tests"
+        },
+        {
+          "id": "sec_3_3_5_2",
+          "title": "3.3.5.2 Pneumatic System Operation with NIBP simulator"
+        },
+        {
+          "id": "sec_3_3_5_2_1",
+          "title": "3.3.5.2.1 Pressure Sensor Accuracy Test"
+        }
+      ],
+      "page": 26,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -111,8 +286,33 @@
         "b": 417.1875
       },
       "content": "3.3.5.2.2 Over Pressure Test",
-      "level": 2,
-      "role": "section"
+      "level": 5,
+      "section_number": "3.3.5.2.2",
+      "section_id": "sec_3_3_5_2_2",
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. Test #4: Print-on-alarm"
+        },
+        {
+          "id": "sec_3_3_5",
+          "title": "3.3.5 Measurement Parameter Operation Tests"
+        },
+        {
+          "id": "sec_3_3_5_2",
+          "title": "3.3.5.2 Pneumatic System Operation with NIBP simulator"
+        },
+        {
+          "id": "sec_3_3_5_2_2",
+          "title": "3.3.5.2.2 Over Pressure Test"
+        }
+      ],
+      "parent_section_id": "sec_3_3_5_2",
+      "section_level": 5,
+      "page": 26,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -125,7 +325,32 @@
         "r": 512.8125,
         "b": 403.49625
       },
-      "content": "The over-pressure test verifies the functionality of the over-pressure relief system."
+      "content": "The over-pressure test verifies the functionality of the over-pressure relief system.",
+      "section_id": "sec_3_3_5_2_2",
+      "parent_section_id": "sec_3_3_5_2",
+      "section_level": 5,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. Test #4: Print-on-alarm"
+        },
+        {
+          "id": "sec_3_3_5",
+          "title": "3.3.5 Measurement Parameter Operation Tests"
+        },
+        {
+          "id": "sec_3_3_5_2",
+          "title": "3.3.5.2 Pneumatic System Operation with NIBP simulator"
+        },
+        {
+          "id": "sec_3_3_5_2_2",
+          "title": "3.3.5.2.2 Over Pressure Test"
+        }
+      ],
+      "page": 26,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -138,7 +363,32 @@
         "r": 410.0625,
         "b": 378.74625
       },
-      "content": "Ensure Bio-Tek simulator is in Pressure relief test mode."
+      "content": "Ensure Bio-Tek simulator is in Pressure relief test mode.",
+      "section_id": "sec_3_3_5_2_2",
+      "parent_section_id": "sec_3_3_5_2",
+      "section_level": 5,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. Test #4: Print-on-alarm"
+        },
+        {
+          "id": "sec_3_3_5",
+          "title": "3.3.5 Measurement Parameter Operation Tests"
+        },
+        {
+          "id": "sec_3_3_5_2",
+          "title": "3.3.5.2 Pneumatic System Operation with NIBP simulator"
+        },
+        {
+          "id": "sec_3_3_5_2_2",
+          "title": "3.3.5.2.2 Over Pressure Test"
+        }
+      ],
+      "page": 26,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -151,7 +401,32 @@
         "r": 539.0625000000003,
         "b": 338.24625
       },
-      "content": "Ensure NIBP Test screen is active on N5500, then select 'Over Pressure Test' by the knob."
+      "content": "Ensure NIBP Test screen is active on N5500, then select 'Over Pressure Test' by the knob.",
+      "section_id": "sec_3_3_5_2_2",
+      "parent_section_id": "sec_3_3_5_2",
+      "section_level": 5,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. Test #4: Print-on-alarm"
+        },
+        {
+          "id": "sec_3_3_5",
+          "title": "3.3.5 Measurement Parameter Operation Tests"
+        },
+        {
+          "id": "sec_3_3_5_2",
+          "title": "3.3.5.2 Pneumatic System Operation with NIBP simulator"
+        },
+        {
+          "id": "sec_3_3_5_2_2",
+          "title": "3.3.5.2.2 Over Pressure Test"
+        }
+      ],
+      "page": 26,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -164,7 +439,32 @@
         "r": 537.7759500000011,
         "b": 297.74625
       },
-      "content": "Press  Start  Test  button  on  simulator.  The  simulator  will  pressurize  the  system  until the monitor's over-pressure relief system activates."
+      "content": "Press  Start  Test  button  on  simulator.  The  simulator  will  pressurize  the  system  until the monitor's over-pressure relief system activates.",
+      "section_id": "sec_3_3_5_2_2",
+      "parent_section_id": "sec_3_3_5_2",
+      "section_level": 5,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. Test #4: Print-on-alarm"
+        },
+        {
+          "id": "sec_3_3_5",
+          "title": "3.3.5 Measurement Parameter Operation Tests"
+        },
+        {
+          "id": "sec_3_3_5_2",
+          "title": "3.3.5.2 Pneumatic System Operation with NIBP simulator"
+        },
+        {
+          "id": "sec_3_3_5_2_2",
+          "title": "3.3.5.2.2 Over Pressure Test"
+        }
+      ],
+      "page": 26,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -177,7 +477,32 @@
         "r": 537.7482000000006,
         "b": 257.2462499999999
       },
-      "content": "Ensure  the  monitor  activates  over-pressure  relief  system  at  the  point  of  protection pressure."
+      "content": "Ensure  the  monitor  activates  over-pressure  relief  system  at  the  point  of  protection pressure.",
+      "section_id": "sec_3_3_5_2_2",
+      "parent_section_id": "sec_3_3_5_2",
+      "section_level": 5,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. Test #4: Print-on-alarm"
+        },
+        {
+          "id": "sec_3_3_5",
+          "title": "3.3.5 Measurement Parameter Operation Tests"
+        },
+        {
+          "id": "sec_3_3_5_2",
+          "title": "3.3.5.2 Pneumatic System Operation with NIBP simulator"
+        },
+        {
+          "id": "sec_3_3_5_2_2",
+          "title": "3.3.5.2.2 Over Pressure Test"
+        }
+      ],
+      "page": 26,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -190,7 +515,32 @@
         "r": 538.1861499999995,
         "b": 179.99625000000003
       },
-      "content": "Note:  The  test  will  have  been  successfully  completed  if  the  simulator  displays  a pressure reading, approximately, of  320±10 mmHg in adult/pediatric mode and 160±5 mmHg in neonatal mode. However, the motor's inflation pressure speed may cause a slight difference between over-pressure relief values in test and the specified relief values."
+      "content": "Note:  The  test  will  have  been  successfully  completed  if  the  simulator  displays  a pressure reading, approximately, of  320±10 mmHg in adult/pediatric mode and 160±5 mmHg in neonatal mode. However, the motor's inflation pressure speed may cause a slight difference between over-pressure relief values in test and the specified relief values.",
+      "section_id": "sec_3_3_5_2_2",
+      "parent_section_id": "sec_3_3_5_2",
+      "section_level": 5,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. Test #4: Print-on-alarm"
+        },
+        {
+          "id": "sec_3_3_5",
+          "title": "3.3.5 Measurement Parameter Operation Tests"
+        },
+        {
+          "id": "sec_3_3_5_2",
+          "title": "3.3.5.2 Pneumatic System Operation with NIBP simulator"
+        },
+        {
+          "id": "sec_3_3_5_2_2",
+          "title": "3.3.5.2.2 Over Pressure Test"
+        }
+      ],
+      "page": 26,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -204,8 +554,33 @@
         "b": 153.1875
       },
       "content": "3.3.5.2.3 Air Leakage Test",
-      "level": 2,
-      "role": "section"
+      "level": 5,
+      "section_number": "3.3.5.2.3",
+      "section_id": "sec_3_3_5_2_3",
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. Test #4: Print-on-alarm"
+        },
+        {
+          "id": "sec_3_3_5",
+          "title": "3.3.5 Measurement Parameter Operation Tests"
+        },
+        {
+          "id": "sec_3_3_5_2",
+          "title": "3.3.5.2 Pneumatic System Operation with NIBP simulator"
+        },
+        {
+          "id": "sec_3_3_5_2_3",
+          "title": "3.3.5.2.3 Air Leakage Test"
+        }
+      ],
+      "parent_section_id": "sec_3_3_5_2",
+      "section_level": 5,
+      "page": 26,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -218,7 +593,32 @@
         "r": 440.8125,
         "b": 139.49625000000003
       },
-      "content": "The air leakage test verifies the integrity of the pneumatic system."
+      "content": "The air leakage test verifies the integrity of the pneumatic system.",
+      "section_id": "sec_3_3_5_2_3",
+      "parent_section_id": "sec_3_3_5_2",
+      "section_level": 5,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. Test #4: Print-on-alarm"
+        },
+        {
+          "id": "sec_3_3_5",
+          "title": "3.3.5 Measurement Parameter Operation Tests"
+        },
+        {
+          "id": "sec_3_3_5_2",
+          "title": "3.3.5.2 Pneumatic System Operation with NIBP simulator"
+        },
+        {
+          "id": "sec_3_3_5_2_3",
+          "title": "3.3.5.2.3 Air Leakage Test"
+        }
+      ],
+      "page": 26,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -231,7 +631,32 @@
         "r": 373.3125,
         "b": 114.74625000000003
       },
-      "content": "Ensure the monitor is set up with Rigid cuff can."
+      "content": "Ensure the monitor is set up with Rigid cuff can.",
+      "section_id": "sec_3_3_5_2_3",
+      "parent_section_id": "sec_3_3_5_2",
+      "section_level": 5,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. Test #4: Print-on-alarm"
+        },
+        {
+          "id": "sec_3_3_5",
+          "title": "3.3.5 Measurement Parameter Operation Tests"
+        },
+        {
+          "id": "sec_3_3_5_2",
+          "title": "3.3.5.2 Pneumatic System Operation with NIBP simulator"
+        },
+        {
+          "id": "sec_3_3_5_2_3",
+          "title": "3.3.5.2.3 Air Leakage Test"
+        }
+      ],
+      "page": 26,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -244,7 +669,32 @@
         "r": 538.5625000000003,
         "b": 74.24625000000003
       },
-      "content": "Ensure NIBP Test screen is active on N5500, then select 'Air Leakage Test' by the knob."
+      "content": "Ensure NIBP Test screen is active on N5500, then select 'Air Leakage Test' by the knob.",
+      "section_id": "sec_3_3_5_2_3",
+      "parent_section_id": "sec_3_3_5_2",
+      "section_level": 5,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. Test #4: Print-on-alarm"
+        },
+        {
+          "id": "sec_3_3_5",
+          "title": "3.3.5 Measurement Parameter Operation Tests"
+        },
+        {
+          "id": "sec_3_3_5_2",
+          "title": "3.3.5.2 Pneumatic System Operation with NIBP simulator"
+        },
+        {
+          "id": "sec_3_3_5_2_3",
+          "title": "3.3.5.2.3 Air Leakage Test"
+        }
+      ],
+      "page": 26,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

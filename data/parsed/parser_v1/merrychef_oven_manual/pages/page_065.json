@@ -19,7 +19,24 @@
       },
       "content": "5.7 High voltage components (casing removed)",
       "level": 2,
-      "role": "section"
+      "section_number": "5.7",
+      "section_id": "sec_5_7",
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. To recalibrate, promptly access 'Temperature Calibration' in the Service Settings"
+        },
+        {
+          "id": "sec_5_7",
+          "title": "5.7 High voltage components (casing removed)"
+        }
+      ],
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "page": 65,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -34,7 +51,23 @@
       },
       "content": "High voltage transformer test",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_988",
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. To recalibrate, promptly access 'Temperature Calibration' in the Service Settings"
+        },
+        {
+          "id": "sec_auto_988",
+          "title": "High voltage transformer test"
+        }
+      ],
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "page": 65,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -47,7 +80,24 @@
         "r": 351.423,
         "b": 717.7383344167462
       },
-      "content": "Ensure the following requirements have been met before starting the test:"
+      "content": "Ensure the following requirements have been met before starting the test:",
+      "section_id": "sec_auto_988",
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. To recalibrate, promptly access 'Temperature Calibration' in the Service Settings"
+        },
+        {
+          "id": "sec_auto_988",
+          "title": "High voltage transformer test"
+        }
+      ],
+      "page": 65,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -60,7 +110,24 @@
         "r": 559.026,
         "b": 689.4153344167462
       },
-      "content": "The appliance has been disconnected from the power supply and protective measures have been taken to ensure the power cannot be switched on again."
+      "content": "The appliance has been disconnected from the power supply and protective measures have been taken to ensure the power cannot be switched on again.",
+      "section_id": "sec_auto_988",
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. To recalibrate, promptly access 'Temperature Calibration' in the Service Settings"
+        },
+        {
+          "id": "sec_auto_988",
+          "title": "High voltage transformer test"
+        }
+      ],
+      "page": 65,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -73,7 +140,24 @@
         "r": 166.4999999999999,
         "b": 676.2387304760582
       },
-      "content": "The appliance is cool."
+      "content": "The appliance is cool.",
+      "section_id": "sec_auto_988",
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. To recalibrate, promptly access 'Temperature Calibration' in the Service Settings"
+        },
+        {
+          "id": "sec_auto_988",
+          "title": "High voltage transformer test"
+        }
+      ],
+      "page": 65,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -86,7 +170,24 @@
         "r": 366.8849999999999,
         "b": 651.0213344167462
       },
-      "content": "The high voltage capacitors are discharged before commencing work. See section 2.15 'How to discharge the conneX HV'."
+      "content": "The high voltage capacitors are discharged before commencing work. See section 2.15 'How to discharge the conneX HV'.",
+      "section_id": "sec_auto_988",
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. To recalibrate, promptly access 'Temperature Calibration' in the Service Settings"
+        },
+        {
+          "id": "sec_auto_988",
+          "title": "High voltage transformer test"
+        }
+      ],
+      "page": 65,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -99,7 +200,24 @@
         "r": 273.6449999999998,
         "b": 638.2047304760582
       },
-      "content": "The casing of the appliance has been removed."
+      "content": "The casing of the appliance has been removed.",
+      "section_id": "sec_auto_988",
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. To recalibrate, promptly access 'Temperature Calibration' in the Service Settings"
+        },
+        {
+          "id": "sec_auto_988",
+          "title": "High voltage transformer test"
+        }
+      ],
+      "page": 65,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "admonition",
@@ -113,7 +231,24 @@
         "b": 622.8243344167462
       },
       "content": "Note: the rear transformer on the X12 connects to the right hand HV components",
-      "severity": "note"
+      "severity": "note",
+      "section_id": "sec_auto_988",
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. To recalibrate, promptly access 'Temperature Calibration' in the Service Settings"
+        },
+        {
+          "id": "sec_auto_988",
+          "title": "High voltage transformer test"
+        }
+      ],
+      "page": 65,
+      "chunk_hint": "admonition",
+      "semantic_role": "note",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -132,7 +267,24 @@
       "width": 12,
       "height": 11,
       "decorative": true,
-      "image_hash": "d3697dc9c2b244f731b2f52b1d6a59fb83bb318c0eb93cf9160834c66cd5c631"
+      "image_hash": "d3697dc9c2b244f731b2f52b1d6a59fb83bb318c0eb93cf9160834c66cd5c631",
+      "section_id": "sec_auto_988",
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. To recalibrate, promptly access 'Temperature Calibration' in the Service Settings"
+        },
+        {
+          "id": "sec_auto_988",
+          "title": "High voltage transformer test"
+        }
+      ],
+      "page": 65,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -147,7 +299,23 @@
       },
       "content": "DANGER",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_996",
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. To recalibrate, promptly access 'Temperature Calibration' in the Service Settings"
+        },
+        {
+          "id": "sec_auto_996",
+          "title": "DANGER"
+        }
+      ],
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "page": 65,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -162,7 +330,23 @@
       },
       "content": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit.",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_997",
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. To recalibrate, promptly access 'Temperature Calibration' in the Service Settings"
+        },
+        {
+          "id": "sec_auto_997",
+          "title": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit."
+        }
+      ],
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "page": 65,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -175,7 +359,24 @@
         "r": 301.61699999999996,
         "b": 570.2613344167462
       },
-      "content": "It is very dangerous to work near this part when the oven is on."
+      "content": "It is very dangerous to work near this part when the oven is on.",
+      "section_id": "sec_auto_997",
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. To recalibrate, promptly access 'Temperature Calibration' in the Service Settings"
+        },
+        {
+          "id": "sec_auto_997",
+          "title": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit."
+        }
+      ],
+      "page": 65,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -188,7 +389,24 @@
         "r": 559.008,
         "b": 546.0243344167462
       },
-      "content": "NEVER make any electrical measurements on the high voltage circuits, including the magnetron filament, whilst the oven is connected to the mains power supply."
+      "content": "NEVER make any electrical measurements on the high voltage circuits, including the magnetron filament, whilst the oven is connected to the mains power supply.",
+      "section_id": "sec_auto_997",
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. To recalibrate, promptly access 'Temperature Calibration' in the Service Settings"
+        },
+        {
+          "id": "sec_auto_997",
+          "title": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit."
+        }
+      ],
+      "page": 65,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -201,7 +419,24 @@
         "r": 249.15599999999995,
         "b": 526.7277304760582
       },
-      "content": "Remove all connections from the transformer."
+      "content": "Remove all connections from the transformer.",
+      "section_id": "sec_auto_997",
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. To recalibrate, promptly access 'Temperature Calibration' in the Service Settings"
+        },
+        {
+          "id": "sec_auto_997",
+          "title": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit."
+        }
+      ],
+      "page": 65,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -214,7 +449,24 @@
         "r": 356.55299999999994,
         "b": 502.59033441674626
       },
-      "content": "Using a Digital Multi-Meter (DMM), check the resistance of the windings. Results should be as follows:"
+      "content": "Using a Digital Multi-Meter (DMM), check the resistance of the windings. Results should be as follows:",
+      "section_id": "sec_auto_997",
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. To recalibrate, promptly access 'Temperature Calibration' in the Service Settings"
+        },
+        {
+          "id": "sec_auto_997",
+          "title": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit."
+        }
+      ],
+      "page": 65,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -227,7 +479,24 @@
         "r": 182.18699999999998,
         "b": 477.9933344167463
       },
-      "content": "200 - 230V Transformer"
+      "content": "200 - 230V Transformer",
+      "section_id": "sec_auto_997",
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. To recalibrate, promptly access 'Temperature Calibration' in the Service Settings"
+        },
+        {
+          "id": "sec_auto_997",
+          "title": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit."
+        }
+      ],
+      "page": 65,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -240,7 +509,24 @@
         "r": 177.05100000000002,
         "b": 374.07873047605824
       },
-      "content": "Mains winding between tags,"
+      "content": "Mains winding between tags,",
+      "section_id": "sec_auto_997",
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. To recalibrate, promptly access 'Temperature Calibration' in the Service Settings"
+        },
+        {
+          "id": "sec_auto_997",
+          "title": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit."
+        }
+      ],
+      "page": 65,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -253,7 +539,24 @@
         "r": 185.337,
         "b": 313.2182344167462
       },
-      "content": "208 - 240V Transformer"
+      "content": "208 - 240V Transformer",
+      "section_id": "sec_auto_997",
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. To recalibrate, promptly access 'Temperature Calibration' in the Service Settings"
+        },
+        {
+          "id": "sec_auto_997",
+          "title": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit."
+        }
+      ],
+      "page": 65,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -266,7 +569,24 @@
         "r": 177.05100000000002,
         "b": 202.5783344167462
       },
-      "content": "Mains winding between tags, approx.;"
+      "content": "Mains winding between tags, approx.;",
+      "section_id": "sec_auto_997",
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. To recalibrate, promptly access 'Temperature Calibration' in the Service Settings"
+        },
+        {
+          "id": "sec_auto_997",
+          "title": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit."
+        }
+      ],
+      "page": 65,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -279,7 +599,24 @@
         "r": 357.91499999999996,
         "b": 105.6387304760583
       },
-      "content": "Using a megger/insulation tester, test the insulation resistance between:"
+      "content": "Using a megger/insulation tester, test the insulation resistance between:",
+      "section_id": "sec_auto_997",
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. To recalibrate, promptly access 'Temperature Calibration' in the Service Settings"
+        },
+        {
+          "id": "sec_auto_997",
+          "title": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit."
+        }
+      ],
+      "page": 65,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -297,7 +634,24 @@
       "next_block_id": "txt_0795",
       "image_hash": "fccbc65eb989d527a68bc5b6c549077f1b08b30bd449554f9343c1cbfedc8dd5",
       "width": 143,
-      "height": 59
+      "height": 59,
+      "section_id": "sec_auto_997",
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. To recalibrate, promptly access 'Temperature Calibration' in the Service Settings"
+        },
+        {
+          "id": "sec_auto_997",
+          "title": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit."
+        }
+      ],
+      "page": 65,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -310,7 +664,24 @@
         "r": 80.69700000000002,
         "b": 361.93833441674616
       },
-      "content": "approx.;"
+      "content": "approx.;",
+      "section_id": "sec_auto_997",
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. To recalibrate, promptly access 'Temperature Calibration' in the Service Settings"
+        },
+        {
+          "id": "sec_auto_997",
+          "title": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit."
+        }
+      ],
+      "page": 65,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -323,7 +694,24 @@
         "r": 82.25400000000002,
         "b": 349.58133441674613
       },
-      "content": "0 to 230;"
+      "content": "0 to 230;",
+      "section_id": "sec_auto_997",
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. To recalibrate, promptly access 'Temperature Calibration' in the Service Settings"
+        },
+        {
+          "id": "sec_auto_997",
+          "title": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit."
+        }
+      ],
+      "page": 65,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -336,7 +724,24 @@
         "r": 123.42900000000002,
         "b": 349.58133441674613
       },
-      "content": "0.6 Ω"
+      "content": "0.6 Ω",
+      "section_id": "sec_auto_997",
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. To recalibrate, promptly access 'Temperature Calibration' in the Service Settings"
+        },
+        {
+          "id": "sec_auto_997",
+          "title": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit."
+        }
+      ],
+      "page": 65,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -349,7 +754,24 @@
         "r": 82.25400000000002,
         "b": 337.5843344167461
       },
-      "content": "0 to 200;"
+      "content": "0 to 200;",
+      "section_id": "sec_auto_997",
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. To recalibrate, promptly access 'Temperature Calibration' in the Service Settings"
+        },
+        {
+          "id": "sec_auto_997",
+          "title": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit."
+        }
+      ],
+      "page": 65,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -362,7 +784,24 @@
         "r": 123.42900000000002,
         "b": 337.5843344167461
       },
-      "content": "0.5 Ω"
+      "content": "0.5 Ω",
+      "section_id": "sec_auto_997",
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. To recalibrate, promptly access 'Temperature Calibration' in the Service Settings"
+        },
+        {
+          "id": "sec_auto_997",
+          "title": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit."
+        }
+      ],
+      "page": 65,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -375,7 +814,24 @@
         "r": 92.56800000000003,
         "b": 325.2273344167461
       },
-      "content": "200 to 230;"
+      "content": "200 to 230;",
+      "section_id": "sec_auto_997",
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. To recalibrate, promptly access 'Temperature Calibration' in the Service Settings"
+        },
+        {
+          "id": "sec_auto_997",
+          "title": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit."
+        }
+      ],
+      "page": 65,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -388,7 +844,24 @@
         "r": 123.42900000000003,
         "b": 325.2273344167461
       },
-      "content": "0.1 Ω"
+      "content": "0.1 Ω",
+      "section_id": "sec_auto_997",
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. To recalibrate, promptly access 'Temperature Calibration' in the Service Settings"
+        },
+        {
+          "id": "sec_auto_997",
+          "title": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit."
+        }
+      ],
+      "page": 65,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -406,7 +879,24 @@
       "next_block_id": "txt_0802",
       "image_hash": "bd6bf7dbec8c756b6ca12f49e73d97a6bde35b7161ee8d09b83d63eb055128e4",
       "width": 144,
-      "height": 61
+      "height": 61,
+      "section_id": "sec_auto_997",
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. To recalibrate, promptly access 'Temperature Calibration' in the Service Settings"
+        },
+        {
+          "id": "sec_auto_997",
+          "title": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit."
+        }
+      ],
+      "page": 65,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -419,7 +909,24 @@
         "r": 100.97400000000002,
         "b": 190.22133441674623
       },
-      "content": "0 to 200/208;"
+      "content": "0 to 200/208;",
+      "section_id": "sec_auto_997",
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. To recalibrate, promptly access 'Temperature Calibration' in the Service Settings"
+        },
+        {
+          "id": "sec_auto_997",
+          "title": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit."
+        }
+      ],
+      "page": 65,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -432,7 +939,24 @@
         "r": 137.82900000000004,
         "b": 190.22133441674623
       },
-      "content": "0.5 Ω"
+      "content": "0.5 Ω",
+      "section_id": "sec_auto_997",
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. To recalibrate, promptly access 'Temperature Calibration' in the Service Settings"
+        },
+        {
+          "id": "sec_auto_997",
+          "title": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit."
+        }
+      ],
+      "page": 65,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -445,7 +969,24 @@
         "r": 82.25400000000002,
         "b": 178.22433441674616
       },
-      "content": "0 to 220;"
+      "content": "0 to 220;",
+      "section_id": "sec_auto_997",
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. To recalibrate, promptly access 'Temperature Calibration' in the Service Settings"
+        },
+        {
+          "id": "sec_auto_997",
+          "title": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit."
+        }
+      ],
+      "page": 65,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -458,7 +999,24 @@
         "r": 137.82900000000004,
         "b": 178.22433441674616
       },
-      "content": "0.6 Ω"
+      "content": "0.6 Ω",
+      "section_id": "sec_auto_997",
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. To recalibrate, promptly access 'Temperature Calibration' in the Service Settings"
+        },
+        {
+          "id": "sec_auto_997",
+          "title": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit."
+        }
+      ],
+      "page": 65,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -471,7 +1029,24 @@
         "r": 82.25400000000002,
         "b": 165.62433441674614
       },
-      "content": "0 to 240;"
+      "content": "0 to 240;",
+      "section_id": "sec_auto_997",
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. To recalibrate, promptly access 'Temperature Calibration' in the Service Settings"
+        },
+        {
+          "id": "sec_auto_997",
+          "title": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit."
+        }
+      ],
+      "page": 65,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -484,7 +1059,24 @@
         "r": 137.82900000000004,
         "b": 165.62433441674614
       },
-      "content": "0.6 Ω"
+      "content": "0.6 Ω",
+      "section_id": "sec_auto_997",
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. To recalibrate, promptly access 'Temperature Calibration' in the Service Settings"
+        },
+        {
+          "id": "sec_auto_997",
+          "title": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit."
+        }
+      ],
+      "page": 65,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -497,7 +1089,24 @@
         "r": 111.16200000000002,
         "b": 153.38433441674613
       },
-      "content": "208/208 to 220;"
+      "content": "208/208 to 220;",
+      "section_id": "sec_auto_997",
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. To recalibrate, promptly access 'Temperature Calibration' in the Service Settings"
+        },
+        {
+          "id": "sec_auto_997",
+          "title": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit."
+        }
+      ],
+      "page": 65,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -510,7 +1119,24 @@
         "r": 137.70300000000003,
         "b": 153.38433441674613
       },
-      "content": "0.1 Ω"
+      "content": "0.1 Ω",
+      "section_id": "sec_auto_997",
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. To recalibrate, promptly access 'Temperature Calibration' in the Service Settings"
+        },
+        {
+          "id": "sec_auto_997",
+          "title": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit."
+        }
+      ],
+      "page": 65,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -523,7 +1149,24 @@
         "r": 111.27900000000002,
         "b": 141.02733441674616
       },
-      "content": "208/208 to 240;"
+      "content": "208/208 to 240;",
+      "section_id": "sec_auto_997",
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. To recalibrate, promptly access 'Temperature Calibration' in the Service Settings"
+        },
+        {
+          "id": "sec_auto_997",
+          "title": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit."
+        }
+      ],
+      "page": 65,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -536,7 +1179,24 @@
         "r": 137.70300000000003,
         "b": 141.02733441674616
       },
-      "content": "0.1 Ω"
+      "content": "0.1 Ω",
+      "section_id": "sec_auto_997",
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. To recalibrate, promptly access 'Temperature Calibration' in the Service Settings"
+        },
+        {
+          "id": "sec_auto_997",
+          "title": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit."
+        }
+      ],
+      "page": 65,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -549,7 +1209,24 @@
         "r": 92.55900000000004,
         "b": 129.0303344167462
       },
-      "content": "220 to 240;"
+      "content": "220 to 240;",
+      "section_id": "sec_auto_997",
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. To recalibrate, promptly access 'Temperature Calibration' in the Service Settings"
+        },
+        {
+          "id": "sec_auto_997",
+          "title": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit."
+        }
+      ],
+      "page": 65,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -562,7 +1239,24 @@
         "r": 137.82000000000005,
         "b": 129.0303344167462
       },
-      "content": "0.1 Ω"
+      "content": "0.1 Ω",
+      "section_id": "sec_auto_997",
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. To recalibrate, promptly access 'Temperature Calibration' in the Service Settings"
+        },
+        {
+          "id": "sec_auto_997",
+          "title": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit."
+        }
+      ],
+      "page": 65,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -575,7 +1269,24 @@
         "r": 288.5484000000001,
         "b": 93.74133441674621
       },
-      "content": "Primary winding and chassis. Pass if reading is over 10 MΩ"
+      "content": "Primary winding and chassis. Pass if reading is over 10 MΩ",
+      "section_id": "sec_auto_997",
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. To recalibrate, promptly access 'Temperature Calibration' in the Service Settings"
+        },
+        {
+          "id": "sec_auto_997",
+          "title": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit."
+        }
+      ],
+      "page": 65,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -588,7 +1299,24 @@
         "r": 291.0927,
         "b": 81.5013344167462
       },
-      "content": "Filament winding and chassis. Pass if reading is over 10 MΩ"
+      "content": "Filament winding and chassis. Pass if reading is over 10 MΩ",
+      "section_id": "sec_auto_997",
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. To recalibrate, promptly access 'Temperature Calibration' in the Service Settings"
+        },
+        {
+          "id": "sec_auto_997",
+          "title": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit."
+        }
+      ],
+      "page": 65,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "admonition",
@@ -602,7 +1330,24 @@
         "b": 69.01833441674626
       },
       "content": "NOTE: One end of the high voltage (secondary) winding is connected to the chassis, so this is not tested.",
-      "severity": "note"
+      "severity": "note",
+      "section_id": "sec_auto_997",
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. To recalibrate, promptly access 'Temperature Calibration' in the Service Settings"
+        },
+        {
+          "id": "sec_auto_997",
+          "title": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit."
+        }
+      ],
+      "page": 65,
+      "chunk_hint": "admonition",
+      "semantic_role": "note",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -618,11 +1363,29 @@
       "image_path": "figures/figure_0165.png",
       "previous_block_id": "txt_0816",
       "next_block_id": "txt_0817",
-      "caption_id": "txt_0817",
       "caption": "4. High Voltage winding, approx. 57 Ω.",
       "image_hash": "3f2ed30e8e4b20513c67f303b802f403a53e30dc4793554ba5fcac7823b00d07",
       "width": 144,
-      "height": 60
+      "height": 60,
+      "section_id": "sec_auto_997",
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. To recalibrate, promptly access 'Temperature Calibration' in the Service Settings"
+        },
+        {
+          "id": "sec_auto_997",
+          "title": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit."
+        }
+      ],
+      "page": 65,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0165",
+      "source": "pdf_text",
+      "caption_id": "txt_0817"
     },
     {
       "type": "caption",
@@ -636,6 +1399,24 @@
         "b": 363.27333441674614
       },
       "content": "4. High Voltage winding, approx. 57 Ω.",
+      "section_id": "sec_auto_997",
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. To recalibrate, promptly access 'Temperature Calibration' in the Service Settings"
+        },
+        {
+          "id": "sec_auto_997",
+          "title": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit."
+        }
+      ],
+      "page": 65,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0165",
+      "source": "pdf_text",
       "caption_for": "fig_0165"
     },
     {
@@ -652,11 +1433,29 @@
       "image_path": "figures/figure_0166.png",
       "previous_block_id": "txt_0817",
       "next_block_id": "txt_0818",
-      "caption_id": "txt_0818",
       "caption": "4. High Voltage winding, approx. 47 Ω.",
       "image_hash": "40feaef57dff3ba1aca1776989ea2054ae4ff86a746511eea53da13a92df4aee",
       "width": 143,
-      "height": 59
+      "height": 59,
+      "section_id": "sec_auto_997",
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. To recalibrate, promptly access 'Temperature Calibration' in the Service Settings"
+        },
+        {
+          "id": "sec_auto_997",
+          "title": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit."
+        }
+      ],
+      "page": 65,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0166",
+      "source": "pdf_text",
+      "caption_id": "txt_0818"
     },
     {
       "type": "caption",
@@ -670,6 +1469,24 @@
         "b": 203.89833441674614
       },
       "content": "4. High Voltage winding, approx. 47 Ω.",
+      "section_id": "sec_auto_997",
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. To recalibrate, promptly access 'Temperature Calibration' in the Service Settings"
+        },
+        {
+          "id": "sec_auto_997",
+          "title": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit."
+        }
+      ],
+      "page": 65,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0166",
+      "source": "pdf_text",
       "caption_for": "fig_0166"
     },
     {
@@ -686,11 +1503,29 @@
       "image_path": "figures/figure_0167.png",
       "previous_block_id": "txt_0818",
       "next_block_id": "txt_0819",
-      "caption_id": "txt_0819",
       "caption": "5. Filament winding between terminals, less than 1 Ω.",
       "image_hash": "059def2366c44d8b9edf881fefef1c779721d282cbeb538874773950014f8416",
       "width": 142,
-      "height": 65
+      "height": 65,
+      "section_id": "sec_auto_997",
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. To recalibrate, promptly access 'Temperature Calibration' in the Service Settings"
+        },
+        {
+          "id": "sec_auto_997",
+          "title": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit."
+        }
+      ],
+      "page": 65,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0167",
+      "source": "pdf_text",
+      "caption_id": "txt_0819"
     },
     {
       "type": "caption",
@@ -704,6 +1539,24 @@
         "b": 363.26133441674614
       },
       "content": "5. Filament winding between terminals, less than 1 Ω.",
+      "section_id": "sec_auto_997",
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. To recalibrate, promptly access 'Temperature Calibration' in the Service Settings"
+        },
+        {
+          "id": "sec_auto_997",
+          "title": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit."
+        }
+      ],
+      "page": 65,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0167",
+      "source": "pdf_text",
       "caption_for": "fig_0167"
     },
     {
@@ -720,11 +1573,29 @@
       "image_path": "figures/figure_0168.png",
       "previous_block_id": "txt_0819",
       "next_block_id": "txt_0820",
-      "caption_id": "txt_0820",
       "caption": "5. Filament winding between terminals, less than 1 Ω.",
       "image_hash": "649dd6abdde18c33d11541a1ba7847eae82f7f37ab4b319bd38ec7b962614d3c",
       "width": 142,
-      "height": 65
+      "height": 65,
+      "section_id": "sec_auto_997",
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. To recalibrate, promptly access 'Temperature Calibration' in the Service Settings"
+        },
+        {
+          "id": "sec_auto_997",
+          "title": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit."
+        }
+      ],
+      "page": 65,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0168",
+      "source": "pdf_text",
+      "caption_id": "txt_0820"
     },
     {
       "type": "caption",
@@ -738,6 +1609,24 @@
         "b": 203.90133441674618
       },
       "content": "5. Filament winding between terminals, less than 1 Ω.",
+      "section_id": "sec_auto_997",
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. To recalibrate, promptly access 'Temperature Calibration' in the Service Settings"
+        },
+        {
+          "id": "sec_auto_997",
+          "title": "High voltages and significant currents are present at the high voltage capacitor and HV Circuit."
+        }
+      ],
+      "page": 65,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0168",
+      "source": "pdf_text",
       "caption_for": "fig_0168"
     }
   ],

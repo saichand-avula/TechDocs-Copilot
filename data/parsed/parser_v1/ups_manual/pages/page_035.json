@@ -19,7 +19,24 @@
       },
       "content": "3.5 External Protective Devices",
       "level": 2,
-      "role": "section"
+      "section_number": "3.5",
+      "section_id": "sec_3_5",
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_5",
+          "title": "3.5 External Protective Devices"
+        }
+      ],
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "page": 35,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -32,7 +49,24 @@
         "r": 541.5246400000001,
         "b": 636.956101363195
       },
-      "content": "Breaker or other protective devices must be installed at the external power input location of UPS system.  This  chapter  only  provides  general  direction  for  installation  engineer  who  should  know related stipulations on local wiring of equipment to be installed."
+      "content": "Breaker or other protective devices must be installed at the external power input location of UPS system.  This  chapter  only  provides  general  direction  for  installation  engineer  who  should  know related stipulations on local wiring of equipment to be installed.",
+      "section_id": "sec_3_5",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_5",
+          "title": "3.5 External Protective Devices"
+        }
+      ],
+      "page": 35,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -45,7 +79,24 @@
         "r": 541.6043199999999,
         "b": 558.926101363195
       },
-      "content": "Before connecting the rectifier and bypass input with main power, proper over-current protective device  must  be  installed  between  main  power  and  UPS.  According  to  EN50091-1  and  in consideration of leakage current of UPS, leakage protective device with adjustable threshold can be used.  While  external  battery  should  be  equipped  with  DC  compatible  breaker  to  provide over-current protection for UPS and its battery."
+      "content": "Before connecting the rectifier and bypass input with main power, proper over-current protective device  must  be  installed  between  main  power  and  UPS.  According  to  EN50091-1  and  in consideration of leakage current of UPS, leakage protective device with adjustable threshold can be used.  While  external  battery  should  be  equipped  with  DC  compatible  breaker  to  provide over-current protection for UPS and its battery.",
+      "section_id": "sec_3_5",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_5",
+          "title": "3.5 External Protective Devices"
+        }
+      ],
+      "page": 35,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "admonition",
@@ -59,7 +110,24 @@
         "b": 510.566101363195
       },
       "content": "Note: If leakage protective device is used to supply power for UPS, it may be started wrongly due to the greatly high leakage current caused by FRI filtering.",
-      "severity": "note"
+      "severity": "note",
+      "section_id": "sec_3_5",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_5",
+          "title": "3.5 External Protective Devices"
+        }
+      ],
+      "page": 35,
+      "chunk_hint": "admonition",
+      "semantic_role": "note",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -74,7 +142,24 @@
       },
       "content": "3.6 Power Cables",
       "level": 2,
-      "role": "section"
+      "section_number": "3.6",
+      "section_id": "sec_3_6",
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_6",
+          "title": "3.6 Power Cables"
+        }
+      ],
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "page": 35,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -87,7 +172,24 @@
         "r": 541.5620799999999,
         "b": 357.30610136319495
       },
-      "content": "In the design of external wiring cable, the requirements on current capacity of power cable and the overload  capacity  of  the  system,  as  well  as  ambient  temperature  and  physical  support  media, should  be  considered.  Installation  engineer  should  make  selection  according  to  related  local standards and actual situation of users. Length of connecting cable should be 2 ~ 50 m generally. If the cable is too long, low voltage will be caused and corresponding cable section area should be increased."
+      "content": "In the design of external wiring cable, the requirements on current capacity of power cable and the overload  capacity  of  the  system,  as  well  as  ambient  temperature  and  physical  support  media, should  be  considered.  Installation  engineer  should  make  selection  according  to  related  local standards and actual situation of users. Length of connecting cable should be 2 ~ 50 m generally. If the cable is too long, low voltage will be caused and corresponding cable section area should be increased.",
+      "section_id": "sec_3_6",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_6",
+          "title": "3.6 Power Cables"
+        }
+      ],
+      "page": 35,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -101,11 +203,29 @@
         "b": 291.61437446215234
       },
       "markdown": "Table 3-4: Wiring terminal and wiring method of UPS\n\n| Terminal      | Rectifier input   | Bypass input   | Output   | Battery (50 pcs)     |\n|---------------|-------------------|----------------|----------|----------------------|\n| Wiring method | 3Ф+PE             | 3Ф+N+PE        | 3Ф+N+PE  | Anode + cathode + PE |",
-      "caption_id": "txt_0273",
       "title": "Table 3-4: Wiring terminal and wiring method of UPS",
       "table_number": "Table 3-4",
       "rows": 2,
-      "cols": 5
+      "cols": 5,
+      "section_id": "sec_3_6",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_6",
+          "title": "3.6 Power Cables"
+        }
+      ],
+      "page": 35,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "group_id": "grp_tbl_0009",
+      "source": "pdf_text",
+      "caption_id": "txt_0273"
     },
     {
       "type": "caption",
@@ -119,6 +239,23 @@
         "b": 341.706101363195
       },
       "content": "Table 3-4: Wiring terminal and wiring method of UPS",
+      "section_id": "sec_3_6",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_6",
+          "title": "3.6 Power Cables"
+        }
+      ],
+      "page": 35,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "source": "pdf_text",
       "caption_for": "tbl_0009"
     },
     {
@@ -136,7 +273,24 @@
       "title": "Table 3-4: Wiring terminal and wiring method of UPS",
       "table_number": "Table 3-4",
       "rows": 7,
-      "cols": 7
+      "cols": 7,
+      "section_id": "sec_3_6",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_6",
+          "title": "3.6 Power Cables"
+        }
+      ],
+      "page": 35,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "caption",
@@ -150,6 +304,24 @@
         "b": 262.26610136319505
       },
       "content": "Table 3-5: Rated current of UPS",
+      "section_id": "sec_3_6",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_6",
+          "title": "3.6 Power Cables"
+        }
+      ],
+      "page": 35,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_tbl_0009",
+      "source": "pdf_text",
       "caption_for": "tbl_0009"
     }
   ],

@@ -121,19 +121,32 @@ class PageBlock(BaseModel):
     type: str
     id: str
     reading_order: int
+    page: Optional[int] = None             # 1-based page number (stamped by post-processor)
 
-    # ── Shared optional ────────────────────────────────────────────────────
+    # ── Shared optional ───────────────────────────────────────────────────────────
     section: Optional[str] = None
     bbox: Optional[Dict[str, float]] = None
 
     # ── Text / heading / list / admonition / caption ─────────────────────
     content: Optional[str] = None
     level: Optional[int] = None            # heading depth (headings only)
-    role: Optional[str] = None             # heading: chapter/section/subsection
-                                           # list_item: procedure_step
+    role: Optional[str] = None             # list_item: procedure_step
                                            # admonition: warning/note/caution/tip/important
     severity: Optional[str] = None         # admonitions: warning/caution/note/tip/important
     caption_for: Optional[str] = None      # caption blocks: which figure/table id they describe
+
+    # ── Heading hierarchy (headings only) ────────────────────────────────
+    section_number: Optional[str] = None   # numeric prefix extracted from content, e.g. "5.2.1"
+
+    # ── Section hierarchy (all blocks) ───────────────────────────────────
+    section_id: Optional[str] = None       # stable ID of the nearest ancestor heading
+                                            #   "sec_5_2_1" (numbered) or "sec_auto_{reading_order}" (unnumbered)
+    parent_section_id: Optional[str] = None  # section_id one level up in the hierarchy
+    section_level: Optional[int] = None    # depth of the nearest ancestor heading (1=chapter, 2=section, …)
+    section_path: Optional[List[Dict[str, str]]] = None
+    # Full ancestor heading chain from root to nearest heading.
+    # Each entry: {"id": "sec_5_2_1", "title": "Outdoor Unit Operation Frequency"}
+    # Headings include themselves; other blocks reflect the most recent heading.
 
     # ── Figure block ─────────────────────────────────────────────────────
     image_path: Optional[str] = None
@@ -148,6 +161,39 @@ class PageBlock(BaseModel):
     # ── Table block ──────────────────────────────────────────────────────
     markdown: Optional[str] = None
 
+    # ── Chunker guidance (all blocks) ────────────────────────────────────────
+    chunk_hint: Optional[str] = None
+    # Pre-computed signal for the chunker. Values:
+    #   section_heading, section_start, continue, table, toc,
+    #   figure, caption, admonition, reference, footnote
+
+    # ── Semantic enrichment (all blocks) ─────────────────────────────────────
+    semantic_role: Optional[str] = None
+    # Meaning of the block beyond its structural type. Values:
+    #   section_heading — heading that opens a new logical section
+    #   overview        — first paragraph after a heading (introduces the section)
+    #   description     — general prose body content
+    #   procedure_step  — numbered / bulleted action the user must perform
+    #   warning / caution / note / tip / important — admonition severity
+    #   caption         — figure or table caption
+    #   data_table      — structured data table
+    #   navigation      — TOC, page header, or page footer
+    #   figure          — image or diagram
+    #   reference       — standalone URL or citation
+    #   footnote        — page footnote
+    #   code            — code listing
+    #   unknown         — parser could not classify the block
+
+    group_id: Optional[str] = None
+    # Shared ID for a figure/table + caption + optional explanation trio.
+    # Blocks sharing a group_id must never be split across chunks.
+    # Format: "grp_{figure_or_table_id}"  e.g. "grp_fig_0012"
+
+    # ── Provenance (all blocks) ───────────────────────────────────────────────
+    source: Optional[str] = None
+    # Extraction method: "pdf_text" | "ocr" | "vision"
+    # Enables downstream stages to apply source-specific post-processing
+    # or flag blocks for re-extraction when a better method is available.
 
 # ---------------------------------------------------------------------------
 # PageOutput — clean page container

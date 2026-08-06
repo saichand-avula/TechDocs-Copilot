@@ -18,8 +18,29 @@
         "b": 689.4375
       },
       "content": "5.5.2 Display",
-      "level": 2,
-      "role": "section"
+      "level": 3,
+      "section_number": "5.5.2",
+      "section_id": "sec_5_5_2",
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6. Turn monitor off."
+        },
+        {
+          "id": "sec_5_5",
+          "title": "5.5 Troubleshooting Guide"
+        },
+        {
+          "id": "sec_5_5_2",
+          "title": "5.5.2 Display"
+        }
+      ],
+      "parent_section_id": "sec_5_5",
+      "section_level": 3,
+      "page": 47,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "caption",
@@ -33,6 +54,27 @@
         "b": 648.74625
       },
       "content": "Table 15 lists  symptoms  of problems relating to non-functioning displays,  and recommended actions. If the action requires replacement of a PCB assembly or module, refer to Disassembly Guide.",
+      "section_id": "sec_5_5_2",
+      "parent_section_id": "sec_5_5",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6. Turn monitor off."
+        },
+        {
+          "id": "sec_5_5",
+          "title": "5.5 Troubleshooting Guide"
+        },
+        {
+          "id": "sec_5_5_2",
+          "title": "5.5.2 Display"
+        }
+      ],
+      "page": 47,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "source": "pdf_text",
       "caption_for": "tbl_0020"
     },
     {
@@ -47,11 +89,33 @@
         "b": 152.93280029296875
       },
       "markdown": "Table 15. Display\n\n| Symptom                                                                      | Recommended Action                                                                                                                                                                                                                                                                                                                                                                                 |\n|------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| 1. LCD screen is totally black after system powers-up.                       | 1. Ensure backlight wire is connected to backlight inverter. 2. Ensure backlight inverter wire is connected to Main PCB assembly. 3. Ensure Booting Mode Selector is set to 'NORMAL'. 4. If the problem persists, replace LCD cable. 5. If the problem persists, replace backlight inverter. 6. If the problem persists, replace Main PCB assembly. 7. If the problem persists, replace LCD panel. |\n| 2. LCD screen is illuminated, but no data is visible after system powers-up. | 1. Ensure backlight wire is connected to Main PCB assembly and backlight inverter. 2. Ensure LCD cable is connected to Main PCB assembly and LCD panel. 3. If the problem persists, replace LCD cable. 4. If the problem persists, replace Main PCB assembly. 5. If the problem persists, replace backlight inverter. 6. If the problem persists, replace LCD panel.                               |\n| 3. LCD screen has data, but is not illuminated after system powers- up.      | 1. Ensure backlight wire is connected to Main PCB assembly and backlight inverter. 2. Ensure LCD cable is connected to Main PCB assembly and LCD panel. 3. If the problem persists, replace Main PCB assembly. 4. If the problem persists, replace backlight inverter. 5. If the problem persists, replace LCD panel.                                                                              |\n| 4. Display values are missing or erratic                                     | 1. If the measurement cables are connected, ensure that the cables are properly connected. 2. If the problem persists, replace the measurement cables. 3. If the problem persists, replace LCD cable. 4. If the problem still persists, replace Main PCB assembly. 5. If the problem still persists, replace ECG PCB assembly. 6. If the problem still persists, replace SpO 2 PCB assembly.       |\n| 5. Display pixels do not light.                                              | 1. Check the connection of Main PCB assembly. 2. If the problem persists, replace LCD cable. 3. If the problem still persists, replace Main PCB assembly. 4. If the problem still persists, replace LCD panel.                                                                                                                                                                                     |",
-      "caption_id": "txt_0585",
       "title": "Table 15 lists  symptoms  of problems relating to non-functioning displays,  and recommended actions. If the action requires replacement of a PCB assembly or module, refer to Disassembly Guide.",
       "table_number": "Table 15",
       "rows": 6,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_5_5_2",
+      "parent_section_id": "sec_5_5",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6. Turn monitor off."
+        },
+        {
+          "id": "sec_5_5",
+          "title": "5.5 Troubleshooting Guide"
+        },
+        {
+          "id": "sec_5_5_2",
+          "title": "5.5.2 Display"
+        }
+      ],
+      "page": 47,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "group_id": "grp_tbl_0020",
+      "source": "pdf_text",
+      "caption_id": "txt_0585"
     },
     {
       "type": "caption",
@@ -65,6 +129,28 @@
         "b": 635.4375
       },
       "content": "Table 15. Display",
+      "section_id": "sec_5_5_2",
+      "parent_section_id": "sec_5_5",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6. Turn monitor off."
+        },
+        {
+          "id": "sec_5_5",
+          "title": "5.5 Troubleshooting Guide"
+        },
+        {
+          "id": "sec_5_5_2",
+          "title": "5.5.2 Display"
+        }
+      ],
+      "page": 47,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_tbl_0020",
+      "source": "pdf_text",
       "caption_for": "tbl_0020"
     }
   ],

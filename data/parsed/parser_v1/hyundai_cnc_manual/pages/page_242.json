@@ -18,8 +18,21 @@
         "b": 716.0030489281769
       },
       "content": "1-19. Alarm AL-31",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "1",
+      "section_id": "sec_1",
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-19. Alarm AL-31"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 242,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -32,7 +45,20 @@
         "r": 114.317622,
         "b": 681.9831449281769
       },
-      "content": "(1)"
+      "content": "(1)",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-19. Alarm AL-31"
+        }
+      ],
+      "page": 242,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -45,7 +71,20 @@
         "r": 184.05982800000004,
         "b": 681.9831449281769
       },
-      "content": "Meaning"
+      "content": "Meaning",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-19. Alarm AL-31"
+        }
+      ],
+      "page": 242,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -58,7 +97,20 @@
         "r": 527.3941259999995,
         "b": 648.023360928177
       },
-      "content": "The motor cannot rotate at a specified speed. It rotates at very low speed, or even stops."
+      "content": "The motor cannot rotate at a specified speed. It rotates at very low speed, or even stops.",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-19. Alarm AL-31"
+        }
+      ],
+      "page": 242,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -71,7 +123,20 @@
         "r": 269.6837340000001,
         "b": 614.003456928177
       },
-      "content": "Cause and corrective action"
+      "content": "Cause and corrective action",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-19. Alarm AL-31"
+        }
+      ],
+      "page": 242,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -84,7 +149,20 @@
         "r": 205.725072,
         "b": 597.023564928177
       },
-      "content": "Motor locked."
+      "content": "Motor locked.",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-19. Alarm AL-31"
+        }
+      ],
+      "page": 242,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -97,7 +175,20 @@
         "r": 476.9744879999999,
         "b": 579.983552928177
       },
-      "content": "Check whether the motor cannot accelerate because it is physically locked."
+      "content": "Check whether the motor cannot accelerate because it is physically locked.",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-19. Alarm AL-31"
+        }
+      ],
+      "page": 242,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -110,7 +201,20 @@
         "r": 267.896598,
         "b": 562.0523
       },
-      "content": "⇒ Remove the cause."
+      "content": "⇒ Remove the cause.",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-19. Alarm AL-31"
+        }
+      ],
+      "page": 242,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -123,7 +227,20 @@
         "r": 314.2541280000003,
         "b": 528.9830369281768
       },
-      "content": "Motor speed feedback cable defective"
+      "content": "Motor speed feedback cable defective",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-19. Alarm AL-31"
+        }
+      ],
+      "page": 242,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -136,7 +253,20 @@
         "r": 429.3378359999999,
         "b": 512.0031449281769
       },
-      "content": "Check the connection of the cable. Also check for a broken wire."
+      "content": "Check the connection of the cable. Also check for a broken wire.",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-19. Alarm AL-31"
+        }
+      ],
+      "page": 242,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -149,7 +279,20 @@
         "r": 497.3690459999999,
         "b": 494.07230000000004
       },
-      "content": "⇒ Connect the cable correctly. If any wire in the cable is broken, replace it"
+      "content": "⇒ Connect the cable correctly. If any wire in the cable is broken, replace it",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-19. Alarm AL-31"
+        }
+      ],
+      "page": 242,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -162,7 +305,20 @@
         "r": 318.099222,
         "b": 461.0030369281768
       },
-      "content": "Motor speed feedback signal abnormal"
+      "content": "Motor speed feedback signal abnormal",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-19. Alarm AL-31"
+        }
+      ],
+      "page": 242,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -175,7 +331,20 @@
         "r": 386.36949,
         "b": 444.0231449281768
       },
-      "content": "Check the speed feedback signal with an oscilloscope."
+      "content": "Check the speed feedback signal with an oscilloscope.",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-19. Alarm AL-31"
+        }
+      ],
+      "page": 242,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -188,7 +357,20 @@
         "r": 469.71384599999925,
         "b": 426.0323
       },
-      "content": "⇒ Adjust so that the feedback signal level becomes the rated value."
+      "content": "⇒ Adjust so that the feedback signal level becomes the rated value.",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-19. Alarm AL-31"
+        }
+      ],
+      "page": 242,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -201,7 +383,20 @@
         "r": 305.25959400000005,
         "b": 393.0231569281768
       },
-      "content": "Incorrect power line wire connection"
+      "content": "Incorrect power line wire connection",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-19. Alarm AL-31"
+        }
+      ],
+      "page": 242,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -214,7 +409,20 @@
         "r": 442.07768400000066,
         "b": 375.9831449281768
       },
-      "content": "Check the connection of the power line wires (for phase order, etc.)"
+      "content": "Check the connection of the power line wires (for phase order, etc.)",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-19. Alarm AL-31"
+        }
+      ],
+      "page": 242,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -227,7 +435,20 @@
         "r": 327.2995860000005,
         "b": 358.0523
       },
-      "content": "⇒ Connect the power line correctly."
+      "content": "⇒ Connect the power line correctly.",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-19. Alarm AL-31"
+        }
+      ],
+      "page": 242,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -241,8 +462,21 @@
         "b": 324.9830369281767
       },
       "content": "1-20. Alarm AL-32",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "1",
+      "section_id": "sec_1",
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-20. Alarm AL-32"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 242,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -255,7 +489,20 @@
         "r": 184.05967800000002,
         "b": 291.0232529281768
       },
-      "content": "Meaning"
+      "content": "Meaning",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-20. Alarm AL-32"
+        }
+      ],
+      "page": 242,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -268,7 +515,20 @@
         "r": 527.3178239999995,
         "b": 257.0033489281768
       },
-      "content": "The  memory in  the  serial  communication  LSI  chip  is  abnormal.  It  is  checked  when power is turned on."
+      "content": "The  memory in  the  serial  communication  LSI  chip  is  abnormal.  It  is  checked  when power is turned on.",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-20. Alarm AL-32"
+        }
+      ],
+      "page": 242,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -281,7 +541,20 @@
         "r": 363.0248939999994,
         "b": 240.02345692817676
       },
-      "content": "Cause and corrective action a) LSI chip defective"
+      "content": "Cause and corrective action a) LSI chip defective",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-20. Alarm AL-32"
+        }
+      ],
+      "page": 242,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -294,7 +567,20 @@
         "r": 329.05008000000043,
         "b": 222.03230000000008
       },
-      "content": "⇒ Replace the printed-circuit board."
+      "content": "⇒ Replace the printed-circuit board.",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-20. Alarm AL-32"
+        }
+      ],
+      "page": 242,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -308,8 +594,21 @@
         "b": 189.02315692817683
       },
       "content": "1-21. Alarm AL-34",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "1",
+      "section_id": "sec_1",
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-21. Alarm AL-34"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 242,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -322,7 +621,20 @@
         "r": 114.31747199999998,
         "b": 155.00325292817683
       },
-      "content": "(1)"
+      "content": "(1)",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-21. Alarm AL-34"
+        }
+      ],
+      "page": 242,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -335,7 +647,20 @@
         "r": 286.38993000000016,
         "b": 138.02336092817677
       },
-      "content": "Meaning The parameter setting is invalid."
+      "content": "Meaning The parameter setting is invalid.",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-21. Alarm AL-34"
+        }
+      ],
+      "page": 242,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -348,7 +673,20 @@
         "r": 118.07555399999998,
         "b": 528.9830369281768
       },
-      "content": "b)"
+      "content": "b)",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-21. Alarm AL-34"
+        }
+      ],
+      "page": 242,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

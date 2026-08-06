@@ -18,8 +18,21 @@
         "b": 748.6429469281768
       },
       "content": "2-4-5. Check Procedure",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "2",
+      "section_id": "sec_2",
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-4-5. Check Procedure"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 262,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -32,7 +45,20 @@
         "r": 221.053668,
         "b": 725.6630789281768
       },
-      "content": "<LED Indications and Meanings>"
+      "content": "<LED Indications and Meanings>",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-4-5. Check Procedure"
+        }
+      ],
+      "page": 262,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -49,7 +75,20 @@
       "previous_block_id": "txt_1878",
       "width": 26,
       "height": 40,
-      "image_hash": "780cf37e574a8a4f97bb1a10981404c91626f16724b5ad2a91841a370e42c471"
+      "image_hash": "780cf37e574a8a4f97bb1a10981404c91626f16724b5ad2a91841a370e42c471",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-4-5. Check Procedure"
+        }
+      ],
+      "page": 262,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -66,7 +105,20 @@
       "previous_block_id": "txt_1878",
       "width": 24,
       "height": 19,
-      "image_hash": "77784b6dc63d332aef61685ea47a7f2cd3b28cdf3e3da3c358d37c88e309e1ab"
+      "image_hash": "77784b6dc63d332aef61685ea47a7f2cd3b28cdf3e3da3c358d37c88e309e1ab",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-4-5. Check Procedure"
+        }
+      ],
+      "page": 262,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -83,7 +135,20 @@
       "previous_block_id": "txt_1878",
       "width": 25,
       "height": 19,
-      "image_hash": "e74a45195f3d4ba3705ef29b091197603fe6e2681039ebbb5aa4cd9f7ef28d71"
+      "image_hash": "e74a45195f3d4ba3705ef29b091197603fe6e2681039ebbb5aa4cd9f7ef28d71",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-4-5. Check Procedure"
+        }
+      ],
+      "page": 262,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -100,7 +165,20 @@
       "previous_block_id": "txt_1878",
       "width": 35,
       "height": 52,
-      "image_hash": "e823c98aab738eef38f1845a7cdefb71f60f0162971a11b9b369b4793e788976"
+      "image_hash": "e823c98aab738eef38f1845a7cdefb71f60f0162971a11b9b369b4793e788976",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-4-5. Check Procedure"
+        }
+      ],
+      "page": 262,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -117,7 +195,20 @@
       "previous_block_id": "txt_1878",
       "width": 34,
       "height": 54,
-      "image_hash": "bdb32ebd3a1762447ed3753f29eea9f475c375a62ed3884b755f049d85e94cf7"
+      "image_hash": "bdb32ebd3a1762447ed3753f29eea9f475c375a62ed3884b755f049d85e94cf7",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-4-5. Check Procedure"
+        }
+      ],
+      "page": 262,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -132,7 +223,20 @@
       },
       "markdown": "| LED                             | State                                                                             | Description                                                                                                  |\n|---------------------------------|-----------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|\n|                                 | Amplifier not ready                                                               | This indicates that control power (+24V DC) is supplied. No alarm is issued, but the motor is not activated. |\n| Amplifier ready                 | This indicates that the motor is activated and that commands can now be accepted. |                                                                                                              |\n| Command being executed          | This indicates that an accepted command is now being executed.                    | Blinking                                                                                                     |\n| Blinking Parameter being        | loaded. This indicates that parameters are                                        | being loaded in a batch from the power motion manager or through the RS-232C interface.                      |\n| Indication other than the above | Alarm                                                                             | An alarm is issued. For information about alarms, see the explanation of troubleshooting in Part III.        |",
       "rows": 6,
-      "cols": 3
+      "cols": 3,
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-4-5. Check Procedure"
+        }
+      ],
+      "page": 262,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

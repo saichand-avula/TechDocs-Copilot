@@ -19,7 +19,24 @@
       },
       "markdown": "| E106: Cavity overheat UI displays; E106 cavity overheat detected. Please contact your Merrychef service partner to          | The cavity reaches 75 o C above setpoint or above 300 o C during a cook cycle.                                                           | See E102. Check for possible signs of a product fire in the cavity.                                                                                                                                                                                                                                                                                                                                     |\n|-----------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| resolve. E107: COMs error UI displays; E107 UI - IO Communication failure. Please contact your Merrychef service partner to | E107 observed in the event log                                                                                                           | Ensure cable connections are secure, especially the X523 connected cable between the IO and the UI boards. Replace the Communication cable between the UI and IO boards as required.                                                                                                                                                                                                                    |\n| resolve. E108: UI uSD FAILED UI displays; E108 UI SD card error. Please contact your Merrychef service partner to           | Missing or corrupt uSD card                                                                                                              | Check the uSD card is correctly in place on the UI board. Replace uSD card. Ensure the correct uSD has been inserted to the UI, an easy mistake to make if the UI is replaced, don't forget to transfer the uSD from the old UI to the new UI. Loading of new up to date firmware is a must.                                                                                                            |\n| resolve. E109: IO PM Error UI displays; E109 IO PM error. Please contact your Merrychef service partner to resolve.         | The PM code is incorrect for the IO board                                                                                                | Check the PM chip is correctly in place on the IO board. Replace PM chip. The UI has a dedicated part number on the PM chip, which is unique for UI board. Ensure the correct PM chip has been inserted to the IO board, an easy mistake to if the IO board is replaced, don't forget to transfer the PM from the old IO to the new Io board if replaced. Loading of new up to date firmware is a must. |\n| E110: IO VERSION CONFLICT UI displays; E110 IO firmware error. Please contact your Merrychef service partner to resolve.    | Incompatible firmware versions on the IO & UI boards. Can occur on replacement of either boards or during incorrect loading of firmware. | Download the up-to-date firmware from merrycheftechnical.com Load the latest firmware on to the oven. Do not switch off or interrupt until the loading process of all files has completed. In the event of a continued issue, replace both the IO PM and reload the firmware. Ensure there are no microwave leaks present around the control boards.                                                    |",
       "rows": 5,
-      "cols": 3
+      "cols": 3,
+      "section_id": "sec_auto_773",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Service information"
+        },
+        {
+          "id": "sec_auto_773",
+          "title": "Error codes & fault-finding tips"
+        }
+      ],
+      "page": 52,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

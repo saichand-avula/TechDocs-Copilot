@@ -17,7 +17,20 @@
         "r": 317.78209199999986,
         "b": 746.7829409281768
       },
-      "content": "If the machine equipped with chip conveyor"
+      "content": "If the machine equipped with chip conveyor",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-3-2. Outside of the Machine"
+        }
+      ],
+      "page": 113,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -30,7 +43,20 @@
         "r": 486.714282,
         "b": 729.8030489281768
       },
-      "content": "Position the chip box just under the chip conveyor and remove the collected chips."
+      "content": "Position the chip box just under the chip conveyor and remove the collected chips.",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-3-2. Outside of the Machine"
+        }
+      ],
+      "page": 113,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -46,12 +72,26 @@
       "image_path": "figures/figure_0176.png",
       "previous_block_id": "txt_0684",
       "next_block_id": "txt_0685",
-      "caption_id": "txt_0685",
       "caption": "Removing Chips out of the Chip Box",
       "figure_number": "Fig. 5-10",
       "image_hash": "a7ca01996e277116160d50acbdd4477982a4b213c7d225b8c7023716632a0cce",
       "width": 459,
-      "height": 200
+      "height": 200,
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-3-2. Outside of the Machine"
+        }
+      ],
+      "page": 113,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0176",
+      "source": "pdf_text",
+      "caption_id": "txt_0685"
     },
     {
       "type": "caption",
@@ -65,6 +105,20 @@
         "b": 474.804068928177
       },
       "content": "Fig. 5-10   Removing Chips out of the Chip Box",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-3-2. Outside of the Machine"
+        }
+      ],
+      "page": 113,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0176",
+      "source": "pdf_text",
       "caption_for": "fig_0176"
     },
     {
@@ -79,8 +133,21 @@
         "b": 440.784164928177
       },
       "content": "2-3-3. Checking Oil Flow",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "2",
+      "section_id": "sec_2",
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-3-3. Checking Oil Flow"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 113,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -93,7 +160,20 @@
         "r": 527.3193299999999,
         "b": 389.784368928177
       },
-      "content": "Oil  flow  can  be  checked  by  means  of  flow  level  gage  in  the  tank.  If  filling  oil,  use  the recommended oil."
+      "content": "Oil  flow  can  be  checked  by  means  of  flow  level  gage  in  the  tank.  If  filling  oil,  use  the recommended oil.",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-3-3. Checking Oil Flow"
+        }
+      ],
+      "page": 113,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -106,7 +186,20 @@
         "r": 262.64704200000006,
         "b": 372.804476928177
       },
-      "content": "Check the flow of hydraulic oil"
+      "content": "Check the flow of hydraulic oil",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-3-3. Checking Oil Flow"
+        }
+      ],
+      "page": 113,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -119,7 +212,20 @@
         "r": 268.24722,
         "b": 355.824584928177
       },
-      "content": "Check the flow of lubricating oil"
+      "content": "Check the flow of lubricating oil",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-3-3. Checking Oil Flow"
+        }
+      ],
+      "page": 113,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -132,7 +238,20 @@
         "r": 242.15714400000005,
         "b": 338.784572928177
       },
-      "content": "Check the flow of coolant"
+      "content": "Check the flow of coolant",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-3-3. Checking Oil Flow"
+        }
+      ],
+      "page": 113,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -148,12 +267,26 @@
       "image_path": "figures/figure_0177.png",
       "previous_block_id": "txt_0690",
       "next_block_id": "txt_0691",
-      "caption_id": "txt_0691",
       "caption": "Checking Oil Flow",
       "figure_number": "Fig. 5-111",
       "image_hash": "c8eb6d9264953b111d90915ba01de26998f4b3013393f38e987d1fe4584e79ea",
       "width": 469,
-      "height": 221
+      "height": 221,
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-3-3. Checking Oil Flow"
+        }
+      ],
+      "page": 113,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0177",
+      "source": "pdf_text",
+      "caption_id": "txt_0691"
     },
     {
       "type": "caption",
@@ -167,6 +300,20 @@
         "b": 83.78559292817704
       },
       "content": "Fig. 5-111  Checking Oil Flow",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-3-3. Checking Oil Flow"
+        }
+      ],
+      "page": 113,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0177",
+      "source": "pdf_text",
       "caption_for": "fig_0177"
     }
   ],

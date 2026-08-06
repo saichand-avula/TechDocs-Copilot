@@ -19,7 +19,23 @@
       },
       "content": "Automatic Calibration",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1071",
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6. Turn monitor off."
+        },
+        {
+          "id": "sec_auto_1071",
+          "title": "Automatic Calibration"
+        }
+      ],
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "page": 97,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -32,7 +48,24 @@
         "r": 539.0631975,
         "b": 464.37913644077446
       },
-      "content": "Because light absorption by hemoglobin is wavelength dependent and because the mean wavelength  of  LEDs  varies,  an  oximeter  must  know  the  mean  wavelength  of  the sensor' s  red  LED  to  accurately  measure  SpO2.  During  manufacturing,  the  mean wavelength of the red LED is encoded in a resistor in the sensor."
+      "content": "Because light absorption by hemoglobin is wavelength dependent and because the mean wavelength  of  LEDs  varies,  an  oximeter  must  know  the  mean  wavelength  of  the sensor' s  red  LED  to  accurately  measure  SpO2.  During  manufacturing,  the  mean wavelength of the red LED is encoded in a resistor in the sensor.",
+      "section_id": "sec_auto_1071",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6. Turn monitor off."
+        },
+        {
+          "id": "sec_auto_1071",
+          "title": "Automatic Calibration"
+        }
+      ],
+      "page": 97,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -45,7 +78,24 @@
         "r": 539.0651475,
         "b": 380.37864644077445
       },
-      "content": "During  monitoring,  the  instrument' s  software  reads  this  resistor  value  and  selects coefficients that are appropriate for the wavelength of that individual sensor' s red LED; these coefficients are then used to determine  SpO2. This resistor value is read when the monitor  turned  on,  periodically  thereafter,  and  each  time  a  new  sensor  is  connected. Additionally, to compensate for differences in tissue thickness, the light intensity of the sensor' s LEDs is adjusted automatically."
+      "content": "During  monitoring,  the  instrument' s  software  reads  this  resistor  value  and  selects coefficients that are appropriate for the wavelength of that individual sensor' s red LED; these coefficients are then used to determine  SpO2. This resistor value is read when the monitor  turned  on,  periodically  thereafter,  and  each  time  a  new  sensor  is  connected. Additionally, to compensate for differences in tissue thickness, the light intensity of the sensor' s LEDs is adjusted automatically.",
+      "section_id": "sec_auto_1071",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6. Turn monitor off."
+        },
+        {
+          "id": "sec_auto_1071",
+          "title": "Automatic Calibration"
+        }
+      ],
+      "page": 97,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -60,7 +110,23 @@
       },
       "content": "Measured versus Calculated Saturation",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1074",
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6. Turn monitor off."
+        },
+        {
+          "id": "sec_auto_1074",
+          "title": "Measured versus Calculated Saturation"
+        }
+      ],
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "page": 97,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -73,7 +139,24 @@
         "r": 538.6505988521991,
         "b": 285.1296264407745
       },
-      "content": "The measured SpO2 value from an oximeter may differ from the saturation value that is calculated  from  a  blood  gas  partial  pressure  of  oxygen  (PO2).  This  usually  occurs because  the  calculated  saturation  was  not  appropriately  corrected  for  the  effects  of variables that shift the relationship between PO2 and saturation: pH, temperature, partial pressure of carbon dioxide (PCO2), 2, 3-DPG, and fetal hemoglobin."
+      "content": "The measured SpO2 value from an oximeter may differ from the saturation value that is calculated  from  a  blood  gas  partial  pressure  of  oxygen  (PO2).  This  usually  occurs because  the  calculated  saturation  was  not  appropriately  corrected  for  the  effects  of variables that shift the relationship between PO2 and saturation: pH, temperature, partial pressure of carbon dioxide (PCO2), 2, 3-DPG, and fetal hemoglobin.",
+      "section_id": "sec_auto_1074",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6. Turn monitor off."
+        },
+        {
+          "id": "sec_auto_1074",
+          "title": "Measured versus Calculated Saturation"
+        }
+      ],
+      "page": 97,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -89,12 +172,30 @@
       "image_path": "figures/figure_0123.png",
       "previous_block_id": "txt_0912",
       "next_block_id": "txt_0913",
-      "caption_id": "txt_0913",
       "caption": ". Oxyhemoglobin Dissociation Curve",
       "figure_number": "Figure 25",
       "image_hash": "df8d014b24c2a13527ff7ded24f68ab4650ebd2f150c7dfd2b47961396926a89",
       "width": 173,
-      "height": 152
+      "height": 152,
+      "section_id": "sec_auto_1074",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6. Turn monitor off."
+        },
+        {
+          "id": "sec_auto_1074",
+          "title": "Measured versus Calculated Saturation"
+        }
+      ],
+      "page": 97,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0123",
+      "source": "pdf_text",
+      "caption_id": "txt_0913"
     },
     {
       "type": "caption",
@@ -108,6 +209,24 @@
         "b": 89.40586278402702
       },
       "content": "Figure 25. Oxyhemoglobin Dissociation Curve",
+      "section_id": "sec_auto_1074",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6. Turn monitor off."
+        },
+        {
+          "id": "sec_auto_1074",
+          "title": "Measured versus Calculated Saturation"
+        }
+      ],
+      "page": 97,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0123",
+      "source": "pdf_text",
       "caption_for": "fig_0123"
     }
   ],

@@ -19,7 +19,23 @@
       },
       "content": "· Details of servo alarm",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1789",
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6) Servo alarms(l/2)"
+        },
+        {
+          "id": "sec_auto_1789",
+          "title": "· Details of servo alarm"
+        }
+      ],
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "page": 221,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -32,7 +48,24 @@
         "r": 527.4364319999999,
         "b": 712.8231569281769
       },
-      "content": "The details of servo alarm No. 414 are displayed in the diagnosis display. (No. 200 and No. 204) as shown below."
+      "content": "The details of servo alarm No. 414 are displayed in the diagnosis display. (No. 200 and No. 204) as shown below.",
+      "section_id": "sec_auto_1789",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6) Servo alarms(l/2)"
+        },
+        {
+          "id": "sec_auto_1789",
+          "title": "· Details of servo alarm"
+        }
+      ],
+      "page": 221,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -47,7 +80,24 @@
       },
       "markdown": "|     | #7#   | 6#   | 5#   | 4#   | 3#   | #2   | #1   | #0   |\n|-----|-------|------|------|------|------|------|------|------|\n| 200 | OVL   | LV   | OVC  | HCA  | HVA  | DCA  | FBA  | OFA  |",
       "rows": 2,
-      "cols": 8
+      "cols": 8,
+      "section_id": "sec_auto_1789",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6) Servo alarms(l/2)"
+        },
+        {
+          "id": "sec_auto_1789",
+          "title": "· Details of servo alarm"
+        }
+      ],
+      "page": 221,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -60,7 +110,24 @@
         "r": 147.56097599999998,
         "b": 626.3030489281768
       },
-      "content": "#7(OVL)"
+      "content": "#7(OVL)",
+      "section_id": "sec_auto_1789",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6) Servo alarms(l/2)"
+        },
+        {
+          "id": "sec_auto_1789",
+          "title": "· Details of servo alarm"
+        }
+      ],
+      "page": 221,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -73,7 +140,24 @@
         "r": 327.7045439999996,
         "b": 626.3030489281768
       },
-      "content": ":  An overload alarm is being generated."
+      "content": ":  An overload alarm is being generated.",
+      "section_id": "sec_auto_1789",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6) Servo alarms(l/2)"
+        },
+        {
+          "id": "sec_auto_1789",
+          "title": "· Details of servo alarm"
+        }
+      ],
+      "page": 221,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -86,7 +170,24 @@
         "r": 389.3996880000007,
         "b": 609.3231569281769
       },
-      "content": "(The details are indicated in diagnostic data No.20l)"
+      "content": "(The details are indicated in diagnostic data No.20l)",
+      "section_id": "sec_auto_1789",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6) Servo alarms(l/2)"
+        },
+        {
+          "id": "sec_auto_1789",
+          "title": "· Details of servo alarm"
+        }
+      ],
+      "page": 221,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -99,7 +200,24 @@
         "r": 148.04694600000002,
         "b": 592.2831449281769
       },
-      "content": "#6 (LV) :"
+      "content": "#6 (LV) :",
+      "section_id": "sec_auto_1789",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6) Servo alarms(l/2)"
+        },
+        {
+          "id": "sec_auto_1789",
+          "title": "· Details of servo alarm"
+        }
+      ],
+      "page": 221,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -112,7 +230,24 @@
         "r": 393.78243600000076,
         "b": 592.2831449281769
       },
-      "content": "A low voltage alarm is being generated in servo amp."
+      "content": "A low voltage alarm is being generated in servo amp.",
+      "section_id": "sec_auto_1789",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6) Servo alarms(l/2)"
+        },
+        {
+          "id": "sec_auto_1789",
+          "title": "· Details of servo alarm"
+        }
+      ],
+      "page": 221,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -125,7 +260,24 @@
         "r": 212.19999599999997,
         "b": 575.3032529281769
       },
-      "content": "Check LED."
+      "content": "Check LED.",
+      "section_id": "sec_auto_1789",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6) Servo alarms(l/2)"
+        },
+        {
+          "id": "sec_auto_1789",
+          "title": "· Details of servo alarm"
+        }
+      ],
+      "page": 221,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -138,7 +290,24 @@
         "r": 148.63812600000003,
         "b": 558.323360928177
       },
-      "content": "#5(OVC)"
+      "content": "#5(OVC)",
+      "section_id": "sec_auto_1789",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6) Servo alarms(l/2)"
+        },
+        {
+          "id": "sec_auto_1789",
+          "title": "· Details of servo alarm"
+        }
+      ],
+      "page": 221,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -151,7 +320,24 @@
         "r": 433.19510399999905,
         "b": 558.323360928177
       },
-      "content": ":  A overcurrent alarm is being generated inside of digital servo."
+      "content": ":  A overcurrent alarm is being generated inside of digital servo.",
+      "section_id": "sec_auto_1789",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6) Servo alarms(l/2)"
+        },
+        {
+          "id": "sec_auto_1789",
+          "title": "· Details of servo alarm"
+        }
+      ],
+      "page": 221,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -164,7 +350,24 @@
         "r": 145.80246600000004,
         "b": 541.2833489281769
       },
-      "content": "#4(HCA)"
+      "content": "#4(HCA)",
+      "section_id": "sec_auto_1789",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6) Servo alarms(l/2)"
+        },
+        {
+          "id": "sec_auto_1789",
+          "title": "· Details of servo alarm"
+        }
+      ],
+      "page": 221,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -177,7 +380,24 @@
         "r": 424.9456379999999,
         "b": 541.2833489281769
       },
-      "content": ":  An abnormal current alarm is being generated in servo amp."
+      "content": ":  An abnormal current alarm is being generated in servo amp.",
+      "section_id": "sec_auto_1789",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6) Servo alarms(l/2)"
+        },
+        {
+          "id": "sec_auto_1789",
+          "title": "· Details of servo alarm"
+        }
+      ],
+      "page": 221,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -190,7 +410,24 @@
         "r": 214.901388,
         "b": 524.303456928177
       },
-      "content": "Check LED."
+      "content": "Check LED.",
+      "section_id": "sec_auto_1789",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6) Servo alarms(l/2)"
+        },
+        {
+          "id": "sec_auto_1789",
+          "title": "· Details of servo alarm"
+        }
+      ],
+      "page": 221,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -203,7 +440,24 @@
         "r": 145.269402,
         "b": 507.3235649281769
       },
-      "content": "#3(HVA)"
+      "content": "#3(HVA)",
+      "section_id": "sec_auto_1789",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6) Servo alarms(l/2)"
+        },
+        {
+          "id": "sec_auto_1789",
+          "title": "· Details of servo alarm"
+        }
+      ],
+      "page": 221,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -216,7 +470,24 @@
         "r": 400.955754,
         "b": 507.3235649281769
       },
-      "content": ":  An overvoltage alarm is being generated in servo amp."
+      "content": ":  An overvoltage alarm is being generated in servo amp.",
+      "section_id": "sec_auto_1789",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6) Servo alarms(l/2)"
+        },
+        {
+          "id": "sec_auto_1789",
+          "title": "· Details of servo alarm"
+        }
+      ],
+      "page": 221,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -229,7 +500,24 @@
         "r": 214.901388,
         "b": 490.2835529281769
       },
-      "content": "Check LED."
+      "content": "Check LED.",
+      "section_id": "sec_auto_1789",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6) Servo alarms(l/2)"
+        },
+        {
+          "id": "sec_auto_1789",
+          "title": "· Details of servo alarm"
+        }
+      ],
+      "page": 221,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -242,7 +530,24 @@
         "r": 145.80246600000004,
         "b": 473.3036609281769
       },
-      "content": "#2(DCA)"
+      "content": "#2(DCA)",
+      "section_id": "sec_auto_1789",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6) Servo alarms(l/2)"
+        },
+        {
+          "id": "sec_auto_1789",
+          "title": "· Details of servo alarm"
+        }
+      ],
+      "page": 221,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -255,7 +560,24 @@
         "r": 474.3602699999998,
         "b": 473.3036609281769
       },
-      "content": ":  A regenerative discharge circuit alarm is being generated in servo amp."
+      "content": ":  A regenerative discharge circuit alarm is being generated in servo amp.",
+      "section_id": "sec_auto_1789",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6) Servo alarms(l/2)"
+        },
+        {
+          "id": "sec_auto_1789",
+          "title": "· Details of servo alarm"
+        }
+      ],
+      "page": 221,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -268,7 +590,24 @@
         "r": 214.90138799999994,
         "b": 456.3237689281769
       },
-      "content": "Check LED."
+      "content": "Check LED.",
+      "section_id": "sec_auto_1789",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6) Servo alarms(l/2)"
+        },
+        {
+          "id": "sec_auto_1789",
+          "title": "· Details of servo alarm"
+        }
+      ],
+      "page": 221,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -281,7 +620,24 @@
         "r": 144.75737999999993,
         "b": 439.2837569281769
       },
-      "content": "#1(FBA)"
+      "content": "#1(FBA)",
+      "section_id": "sec_auto_1789",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6) Servo alarms(l/2)"
+        },
+        {
+          "id": "sec_auto_1789",
+          "title": "· Details of servo alarm"
+        }
+      ],
+      "page": 221,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -294,7 +650,24 @@
         "r": 344.85978599999953,
         "b": 439.2837569281769
       },
-      "content": ":  A disconnection alarm is being generated."
+      "content": ":  A disconnection alarm is being generated.",
+      "section_id": "sec_auto_1789",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6) Servo alarms(l/2)"
+        },
+        {
+          "id": "sec_auto_1789",
+          "title": "· Details of servo alarm"
+        }
+      ],
+      "page": 221,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -307,7 +680,24 @@
         "r": 392.7513780000006,
         "b": 422.3038649281769
       },
-      "content": "(The details are indicated in diagnostic data No.201)"
+      "content": "(The details are indicated in diagnostic data No.201)",
+      "section_id": "sec_auto_1789",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6) Servo alarms(l/2)"
+        },
+        {
+          "id": "sec_auto_1789",
+          "title": "· Details of servo alarm"
+        }
+      ],
+      "page": 221,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -320,7 +710,24 @@
         "r": 145.26940199999999,
         "b": 405.3239729281769
       },
-      "content": "#0(OFA)"
+      "content": "#0(OFA)",
+      "section_id": "sec_auto_1789",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6) Servo alarms(l/2)"
+        },
+        {
+          "id": "sec_auto_1789",
+          "title": "· Details of servo alarm"
+        }
+      ],
+      "page": 221,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -333,7 +740,24 @@
         "r": 422.7121799999991,
         "b": 405.3239729281769
       },
-      "content": ":  An overflow alarm is being generated inside of digital servo."
+      "content": ":  An overflow alarm is being generated inside of digital servo.",
+      "section_id": "sec_auto_1789",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6) Servo alarms(l/2)"
+        },
+        {
+          "id": "sec_auto_1789",
+          "title": "· Details of servo alarm"
+        }
+      ],
+      "page": 221,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -348,7 +772,24 @@
       },
       "markdown": "|     | #7#   | 6#   | 5#   | 4#   | 3#   | 2#   | 1#   | #0   |\n|-----|-------|------|------|------|------|------|------|------|\n| 201 | ALD   |      |      | EXP  |      |      |      |      |",
       "rows": 2,
-      "cols": 8
+      "cols": 8,
+      "section_id": "sec_auto_1789",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6) Servo alarms(l/2)"
+        },
+        {
+          "id": "sec_auto_1789",
+          "title": "· Details of servo alarm"
+        }
+      ],
+      "page": 221,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -361,7 +802,24 @@
         "r": 499.23792599999985,
         "b": 318.8031489281768
       },
-      "content": "When OVL equal 1 in diagnostic data No. 200(servo alarm No. 400 is being generated) :"
+      "content": "When OVL equal 1 in diagnostic data No. 200(servo alarm No. 400 is being generated) :",
+      "section_id": "sec_auto_1789",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6) Servo alarms(l/2)"
+        },
+        {
+          "id": "sec_auto_1789",
+          "title": "· Details of servo alarm"
+        }
+      ],
+      "page": 221,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -374,7 +832,24 @@
         "r": 144.75737999999996,
         "b": 301.82325692817676
       },
-      "content": "#7(ALD)"
+      "content": "#7(ALD)",
+      "section_id": "sec_auto_1789",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6) Servo alarms(l/2)"
+        },
+        {
+          "id": "sec_auto_1789",
+          "title": "· Details of servo alarm"
+        }
+      ],
+      "page": 221,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -387,7 +862,24 @@
         "r": 244.82010600000012,
         "b": 301.82325692817676
       },
-      "content": "0 : Motor overheating"
+      "content": "0 : Motor overheating",
+      "section_id": "sec_auto_1789",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6) Servo alarms(l/2)"
+        },
+        {
+          "id": "sec_auto_1789",
+          "title": "· Details of servo alarm"
+        }
+      ],
+      "page": 221,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -400,7 +892,24 @@
         "r": 255.84010200000026,
         "b": 284.7832449281768
       },
-      "content": "1 : Amplifier overheating"
+      "content": "1 : Amplifier overheating",
+      "section_id": "sec_auto_1789",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6) Servo alarms(l/2)"
+        },
+        {
+          "id": "sec_auto_1789",
+          "title": "· Details of servo alarm"
+        }
+      ],
+      "page": 221,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

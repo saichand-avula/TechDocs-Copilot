@@ -18,8 +18,21 @@
         "b": 733.0429409281768
       },
       "content": "6-3. SUPER K1ATURN 200",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "6",
+      "section_id": "sec_6",
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6-3. SUPER K1ATURN 200"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 54,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -32,7 +45,20 @@
         "r": 181.61595000000003,
         "b": 699.0230369281768
       },
-      "content": "Base Holder"
+      "content": "Base Holder",
+      "section_id": "sec_6",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6-3. SUPER K1ATURN 200"
+        }
+      ],
+      "page": 54,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -48,12 +74,26 @@
       "image_path": "figures/figure_0075.png",
       "previous_block_id": "txt_0299",
       "next_block_id": "txt_0300",
-      "caption_id": "txt_0301",
       "caption": "I.D. Base Holder",
       "figure_number": "Fig. 3-14",
       "image_hash": "008c13414983ce589ff87339818bb0a60f38847c4a4969f5fe92abea4217d371",
       "width": 438,
-      "height": 245
+      "height": 245,
+      "section_id": "sec_6",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6-3. SUPER K1ATURN 200"
+        }
+      ],
+      "page": 54,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0075",
+      "source": "pdf_text",
+      "caption_id": "txt_0301"
     },
     {
       "type": "caption",
@@ -67,6 +107,19 @@
         "b": 665.0031329281768
       },
       "content": "mm (in)",
+      "section_id": "sec_6",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6-3. SUPER K1ATURN 200"
+        }
+      ],
+      "page": 54,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "source": "pdf_text",
       "caption_for": "fig_0075"
     },
     {
@@ -81,6 +134,20 @@
         "b": 404.0041769281769
       },
       "content": "Fig. 3-14  I.D. Base Holder",
+      "section_id": "sec_6",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6-3. SUPER K1ATURN 200"
+        }
+      ],
+      "page": 54,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0075",
+      "source": "pdf_text",
       "caption_for": "fig_0075"
     },
     {
@@ -97,12 +164,26 @@
       "image_path": "figures/figure_0076.png",
       "previous_block_id": "txt_0301",
       "next_block_id": "txt_0302",
-      "caption_id": "txt_0302",
       "caption": "Face Grooving Base Holder",
       "figure_number": "Fig. 3-15",
       "image_hash": "17e4c2cc2f08aa1641b74fab29a970c2ef3ced136857ba0dbd652b723948d4ef",
       "width": 440,
-      "height": 270
+      "height": 270,
+      "section_id": "sec_6",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6-3. SUPER K1ATURN 200"
+        }
+      ],
+      "page": 54,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0076",
+      "source": "pdf_text",
+      "caption_id": "txt_0302"
     },
     {
       "type": "caption",
@@ -116,6 +197,20 @@
         "b": 109.04543692817685
       },
       "content": "Fig. 3-15  Face Grooving Base Holder",
+      "section_id": "sec_6",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6-3. SUPER K1ATURN 200"
+        }
+      ],
+      "page": 54,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0076",
+      "source": "pdf_text",
       "caption_for": "fig_0076"
     }
   ],

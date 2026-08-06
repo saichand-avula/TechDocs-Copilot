@@ -18,8 +18,21 @@
         "b": 754.348157
       },
       "content": "7. 3 .10 Power Supply Over or under voltagve fault",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "7",
+      "section_id": "sec_7",
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. 3 .10 Power Supply Over or under voltagve fault"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 63,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -34,7 +47,20 @@
       },
       "markdown": "| Indoor display outdoor display:          | F19 LED1                                                                                 | flash 6 times                                                                                                  |\n|------------------------------------------|------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|\n| Method of circuit. Malfunction Detection | An abnormal voltage rise or fall is detected by checking the specified voltage detection | An abnormal voltage rise or fall is detected by checking the specified voltage detection                       |\n| Malfunction Decision Conditions          | An voltage signal is fed from the voltage detection circuit to the microcomputer         | An voltage signal is fed from the voltage detection circuit to the microcomputer                               |\n| Supposed Causes                          | Ƶ Supply voltage not as specified Ƶ the IPM module is broken Ƶ the outdoor PCB is broken | Ƶ Supply voltage not as specified Ƶ the IPM module is broken Ƶ the outdoor PCB is broken                       |\n| T roubleshooting                         | * Caution                                                                                | Be sure to turn off power switch before connect or disconnect connector, or else parts damage may be occurred. |",
       "rows": 5,
-      "cols": 3
+      "cols": 3,
+      "section_id": "sec_7",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. 3 .10 Power Supply Over or under voltagve fault"
+        }
+      ],
+      "page": 63,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -52,7 +78,20 @@
       "next_block_id": "txt_0586",
       "image_hash": "f8b73840451775d4641ace0403d8aafd11cc57e6197cc15ac51692d9633cb542",
       "width": 408,
-      "height": 312
+      "height": 312,
+      "section_id": "sec_7",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. 3 .10 Power Supply Over or under voltagve fault"
+        }
+      ],
+      "page": 63,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -65,7 +104,20 @@
         "r": 397.80372004,
         "b": 151.01537000000008
       },
-      "content": "About how to check the IPM module,please refer to IPM protection fault"
+      "content": "About how to check the IPM module,please refer to IPM protection fault",
+      "section_id": "sec_7",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. 3 .10 Power Supply Over or under voltagve fault"
+        }
+      ],
+      "page": 63,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -83,7 +135,20 @@
       "width": 32,
       "height": 10,
       "decorative": true,
-      "image_hash": "2316c0de3db7c89545e1b052b06a0250fe9508447124e1d8d0c8cb627292df88"
+      "image_hash": "2316c0de3db7c89545e1b052b06a0250fe9508447124e1d8d0c8cb627292df88",
+      "section_id": "sec_7",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. 3 .10 Power Supply Over or under voltagve fault"
+        }
+      ],
+      "page": 63,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

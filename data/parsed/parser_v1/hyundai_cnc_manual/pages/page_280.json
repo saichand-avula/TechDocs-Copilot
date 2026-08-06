@@ -17,7 +17,20 @@
         "r": 525.6085620000008,
         "b": 713.4236489281768
       },
-      "content": "To save parameters, first set the first registration program number in parameter P8760. Program are created using a number assigned to each β AMP with an I/O link. This number is treated as a program number when the parameters are saved to the CNC memory. When they are saved to a memory card, however, a file is created using the program number and PMM as its file name and file extension, respectively."
+      "content": "To save parameters, first set the first registration program number in parameter P8760. Program are created using a number assigned to each β AMP with an I/O link. This number is treated as a program number when the parameters are saved to the CNC memory. When they are saved to a memory card, however, a file is created using the program number and PMM as its file name and file extension, respectively.",
+      "section_id": "sec_3",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3) System Configuration"
+        }
+      ],
+      "page": 280,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -32,7 +45,23 @@
       },
       "content": "ex) If 6500 is set in parameter P8760",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_2490",
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3) System Configuration"
+        },
+        {
+          "id": "sec_auto_2490",
+          "title": "ex) If 6500 is set in parameter P8760"
+        }
+      ],
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "page": 280,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -45,7 +74,24 @@
         "r": 339.6884640000003,
         "b": 678.9237869281768
       },
-      "content": "A program number for a program in group n is: 6500 + n*10."
+      "content": "A program number for a program in group n is: 6500 + n*10.",
+      "section_id": "sec_auto_2490",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3) System Configuration"
+        },
+        {
+          "id": "sec_auto_2490",
+          "title": "ex) If 6500 is set in parameter P8760"
+        }
+      ],
+      "page": 280,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -58,7 +104,24 @@
         "r": 511.13968200000005,
         "b": 643.7034869281767
       },
-      "content": "The group number is a number in \"group n\" displayed in the title of a β AMP with an I/O link. If an existing program in the memory has the same program number, the existing program is overwritten with the new data."
+      "content": "The group number is a number in \"group n\" displayed in the title of a β AMP with an I/O link. If an existing program in the memory has the same program number, the existing program is overwritten with the new data.",
+      "section_id": "sec_auto_2490",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3) System Configuration"
+        },
+        {
+          "id": "sec_auto_2490",
+          "title": "ex) If 6500 is set in parameter P8760"
+        }
+      ],
+      "page": 280,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -71,7 +134,24 @@
         "r": 352.0681740000001,
         "b": 632.1834929281767
       },
-      "content": "Parameter P960 is used to select a device to save parameters."
+      "content": "Parameter P960 is used to select a device to save parameters.",
+      "section_id": "sec_auto_2490",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3) System Configuration"
+        },
+        {
+          "id": "sec_auto_2490",
+          "title": "ex) If 6500 is set in parameter P8760"
+        }
+      ],
+      "page": 280,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -84,7 +164,24 @@
         "r": 516.0444720000013,
         "b": 609.2036249281767
       },
-      "content": "Before proceeding to the following steps, connect a memory card or ensure that the CNC memory is available."
+      "content": "Before proceeding to the following steps, connect a memory card or ensure that the CNC memory is available.",
+      "section_id": "sec_auto_2490",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3) System Configuration"
+        },
+        {
+          "id": "sec_auto_2490",
+          "title": "ex) If 6500 is set in parameter P8760"
+        }
+      ],
+      "page": 280,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -97,7 +194,24 @@
         "r": 194.51870400000018,
         "b": 597.6836309281767
       },
-      "content": "Select an active slave."
+      "content": "Select an active slave.",
+      "section_id": "sec_auto_2490",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3) System Configuration"
+        },
+        {
+          "id": "sec_auto_2490",
+          "title": "ex) If 6500 is set in parameter P8760"
+        }
+      ],
+      "page": 280,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -110,7 +224,24 @@
         "r": 270.52441200000015,
         "b": 586.2237569281767
       },
-      "content": "Press the [ (OPRT) ] soft key to display:"
+      "content": "Press the [ (OPRT) ] soft key to display:",
+      "section_id": "sec_auto_2490",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3) System Configuration"
+        },
+        {
+          "id": "sec_auto_2490",
+          "title": "ex) If 6500 is set in parameter P8760"
+        }
+      ],
+      "page": 280,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -128,7 +259,24 @@
       "next_block_id": "txt_1930",
       "image_hash": "123576f79ab10fdd1ef6bb01885877687a7496ee49eb91e1847922bf5ea3e387",
       "width": 374,
-      "height": 227
+      "height": 227,
+      "section_id": "sec_auto_2490",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3) System Configuration"
+        },
+        {
+          "id": "sec_auto_2490",
+          "title": "ex) If 6500 is set in parameter P8760"
+        }
+      ],
+      "page": 280,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -141,7 +289,24 @@
         "r": 197.06416800000005,
         "b": 323.54250292817676
       },
-      "content": "Press the [ EXEC ] soft key."
+      "content": "Press the [ EXEC ] soft key.",
+      "section_id": "sec_auto_2490",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3) System Configuration"
+        },
+        {
+          "id": "sec_auto_2490",
+          "title": "ex) If 6500 is set in parameter P8760"
+        }
+      ],
+      "page": 280,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -154,7 +319,24 @@
         "r": 467.2975559999989,
         "b": 312.08262892817675
       },
-      "content": "While the parameters are being saved, the message [INPUT] blinks on the message line."
+      "content": "While the parameters are being saved, the message [INPUT] blinks on the message line.",
+      "section_id": "sec_auto_2490",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3) System Configuration"
+        },
+        {
+          "id": "sec_auto_2490",
+          "title": "ex) If 6500 is set in parameter P8760"
+        }
+      ],
+      "page": 280,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

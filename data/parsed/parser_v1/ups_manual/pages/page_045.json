@@ -18,8 +18,21 @@
         "b": 699.4558810919744
       },
       "content": "4 Operation",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "4",
+      "section_id": "sec_4",
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 45,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -32,7 +45,20 @@
         "r": 541.60512,
         "b": 590.156101363195
       },
-      "content": "Before starting UPS, please ensure that UPS is installed by authorized maintenance engineer, and he/she should test whether all the electrical connections are correct to ensure the system can run normally. After UPS is started, it can operate in the working modes described in Chapter 2. This chapter describes all operating steps of operator under all working modes, including steps for UPS power  on  /  power  off,  steps  for  switching  the  load  to  bypass,  steps  for  entering  and  exiting maintenance bypass and steps for UPS parallel."
+      "content": "Before starting UPS, please ensure that UPS is installed by authorized maintenance engineer, and he/she should test whether all the electrical connections are correct to ensure the system can run normally. After UPS is started, it can operate in the working modes described in Chapter 2. This chapter describes all operating steps of operator under all working modes, including steps for UPS power  on  /  power  off,  steps  for  switching  the  load  to  bypass,  steps  for  entering  and  exiting maintenance bypass and steps for UPS parallel.",
+      "section_id": "sec_4",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        }
+      ],
+      "page": 45,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -50,7 +76,20 @@
       "next_block_id": "txt_0383",
       "image_hash": "458a9eb65568229634cda6b210e8e06b0c29bb2d67702a90d46a8a25eec8e17c",
       "width": 19,
-      "height": 18
+      "height": 18,
+      "section_id": "sec_4",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        }
+      ],
+      "page": 45,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "admonition",
@@ -64,7 +103,20 @@
         "b": 543.326101363195
       },
       "content": "Note:  All  user  operational  keys  and  LED  display  mentioned  in  operating  steps  can  refer  to Chapter 5.",
-      "severity": "note"
+      "severity": "note",
+      "section_id": "sec_4",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        }
+      ],
+      "page": 45,
+      "chunk_hint": "admonition",
+      "semantic_role": "note",
+      "source": "pdf_text"
     },
     {
       "type": "admonition",
@@ -78,7 +130,20 @@
         "b": 496.526101363195
       },
       "content": "Note: Before taking any operating step described in this  chapter, please read the guidance carefully to avoid personal injury or equipment damage caused by faulty operation.",
-      "severity": "note"
+      "severity": "note",
+      "section_id": "sec_4",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        }
+      ],
+      "page": 45,
+      "chunk_hint": "admonition",
+      "semantic_role": "note",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -93,7 +158,24 @@
       },
       "content": "4.1 Turn On the UPS (Switch to Mains Power Mode)",
       "level": 2,
-      "role": "section"
+      "section_number": "4.1",
+      "section_id": "sec_4_1",
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        },
+        {
+          "id": "sec_4_1",
+          "title": "4.1 Turn On the UPS (Switch to Mains Power Mode)"
+        }
+      ],
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "page": 45,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -106,7 +188,24 @@
         "r": 541.5984,
         "b": 375.906101363195
       },
-      "content": "This step is used to turn on the UPS in case of its complete power down, that is, it hasn't provided power supply to the load by the UPS or by the maintenance bypass switch before that. It is assumed that the UPS has been installed well and debugged by an electrician, and external power switch has been closed."
+      "content": "This step is used to turn on the UPS in case of its complete power down, that is, it hasn't provided power supply to the load by the UPS or by the maintenance bypass switch before that. It is assumed that the UPS has been installed well and debugged by an electrician, and external power switch has been closed.",
+      "section_id": "sec_4_1",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        },
+        {
+          "id": "sec_4_1",
+          "title": "4.1 Turn On the UPS (Switch to Mains Power Mode)"
+        }
+      ],
+      "page": 45,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -121,7 +220,23 @@
       },
       "content": "Warning:",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_471",
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        },
+        {
+          "id": "sec_auto_471",
+          "title": "Warning:"
+        }
+      ],
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "page": 45,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -134,7 +249,24 @@
         "r": 454.71567999999996,
         "b": 344.706101363195
       },
-      "content": " This operating step will cause UPS output terminal to have main power voltage."
+      "content": " This operating step will cause UPS output terminal to have main power voltage.",
+      "section_id": "sec_auto_471",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        },
+        {
+          "id": "sec_auto_471",
+          "title": "Warning:"
+        }
+      ],
+      "page": 45,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -147,7 +279,24 @@
         "r": 541.4379999999998,
         "b": 313.50610136319506
       },
-      "content": " If it needs to cut off subordinate load connection, please paste warning identification in location of load connection."
+      "content": " If it needs to cut off subordinate load connection, please paste warning identification in location of load connection.",
+      "section_id": "sec_auto_471",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        },
+        {
+          "id": "sec_auto_471",
+          "title": "Warning:"
+        }
+      ],
+      "page": 45,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -160,7 +309,24 @@
         "r": 493.61568,
         "b": 297.9061013631949
       },
-      "content": " Any part whose protective cover only can be opened by tools is inoperable part for users."
+      "content": " Any part whose protective cover only can be opened by tools is inoperable part for users.",
+      "section_id": "sec_auto_471",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        },
+        {
+          "id": "sec_auto_471",
+          "title": "Warning:"
+        }
+      ],
+      "page": 45,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -173,7 +339,24 @@
         "r": 434.43568,
         "b": 282.306101363195
       },
-      "content": " Only qualified maintenance personal can open this kind of protective cover."
+      "content": " Only qualified maintenance personal can open this kind of protective cover.",
+      "section_id": "sec_auto_471",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        },
+        {
+          "id": "sec_auto_471",
+          "title": "Warning:"
+        }
+      ],
+      "page": 45,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -186,7 +369,24 @@
         "r": 273.48568,
         "b": 268.62610136319495
       },
-      "content": "Ensure all switches are disconnected."
+      "content": "Ensure all switches are disconnected.",
+      "section_id": "sec_auto_471",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        },
+        {
+          "id": "sec_auto_471",
+          "title": "Warning:"
+        }
+      ],
+      "page": 45,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -199,7 +399,24 @@
         "r": 541.61856,
         "b": 209.79610136319502
       },
-      "content": "Close  bypass  switch  of  UPS.  After  normal  display  of  LCD,  click  on/off  icon  ' '  in  main interface, select 'ON', and then press 'YES'; or using button operation, it can start up the UPS by pressing 'ON' on panel for more than 1 s. At this time, the UPS is started and fan of the UPS starts to run. Display status of LED can be seen in Table 4-1:"
+      "content": "Close  bypass  switch  of  UPS.  After  normal  display  of  LCD,  click  on/off  icon  ' '  in  main interface, select 'ON', and then press 'YES'; or using button operation, it can start up the UPS by pressing 'ON' on panel for more than 1 s. At this time, the UPS is started and fan of the UPS starts to run. Display status of LED can be seen in Table 4-1:",
+      "section_id": "sec_auto_471",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        },
+        {
+          "id": "sec_auto_471",
+          "title": "Warning:"
+        }
+      ],
+      "page": 45,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -212,7 +429,24 @@
         "r": 541.5993600000002,
         "b": 103.83610136319498
       },
-      "content": "Close the rectifier input switch (RCB). After about 10 s, the rectifier starts to normally run, and indicating light of rectifier turns to green and on. Next, inverter starts soft start, indicating light of inverter (INV) in panel is green and flashing. After about 3 s, inverter starts to run normally, UPS is"
+      "content": "Close the rectifier input switch (RCB). After about 10 s, the rectifier starts to normally run, and indicating light of rectifier turns to green and on. Next, inverter starts soft start, indicating light of inverter (INV) in panel is green and flashing. After about 3 s, inverter starts to run normally, UPS is",
+      "section_id": "sec_auto_471",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        },
+        {
+          "id": "sec_auto_471",
+          "title": "Warning:"
+        }
+      ],
+      "page": 45,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -226,11 +460,29 @@
         "b": 148.43547747426635
       },
       "markdown": "Table 4-1\n\n| LED No.        | REC   | INV   | OUTPUT   | BAT   | BYP   | STATUS   |\n|----------------|-------|-------|----------|-------|-------|----------|\n| Display status | Off   | Off   | Red      | Red   | Green | Red      |",
-      "caption_id": "txt_0395",
       "title": "Table 4-1",
       "table_number": "Table 4-1",
       "rows": 2,
-      "cols": 7
+      "cols": 7,
+      "section_id": "sec_auto_471",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        },
+        {
+          "id": "sec_auto_471",
+          "title": "Warning:"
+        }
+      ],
+      "page": 45,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "group_id": "grp_tbl_0014",
+      "source": "pdf_text",
+      "caption_id": "txt_0395"
     },
     {
       "type": "caption",
@@ -244,6 +496,24 @@
         "b": 197.6761013631949
       },
       "content": "Table 4-1",
+      "section_id": "sec_auto_471",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        },
+        {
+          "id": "sec_auto_471",
+          "title": "Warning:"
+        }
+      ],
+      "page": 45,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_tbl_0014",
+      "source": "pdf_text",
       "caption_for": "tbl_0014"
     }
   ],

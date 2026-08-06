@@ -18,8 +18,21 @@
         "b": 755.8429409281769
       },
       "content": "1-1 Symbol and Description",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "1",
+      "section_id": "sec_1",
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-1 Symbol and Description"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 8,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -32,7 +45,20 @@
         "r": 422.00589000000065,
         "b": 726.2027789281769
       },
-      "content": "This manual contains 7 chapters shown in the Roman numerals."
+      "content": "This manual contains 7 chapters shown in the Roman numerals.",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-1 Symbol and Description"
+        }
+      ],
+      "page": 8,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -45,7 +71,20 @@
         "r": 428.1873480000002,
         "b": 666.8029409281769
       },
-      "content": "Ex) I INTRODUCTION Title Chapter 1"
+      "content": "Ex) I INTRODUCTION Title Chapter 1",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-1 Symbol and Description"
+        }
+      ],
+      "page": 8,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -58,7 +97,20 @@
         "r": 313.5310859999997,
         "b": 634.2232169281768
       },
-      "content": "Each chapter contains several sections."
+      "content": "Each chapter contains several sections.",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-1 Symbol and Description"
+        }
+      ],
+      "page": 8,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -71,7 +123,20 @@
         "r": 280.2780839999999,
         "b": 542.2432169281768
       },
-      "content": "A section contains several items"
+      "content": "A section contains several items",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-1 Symbol and Description"
+        }
+      ],
+      "page": 8,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -84,7 +149,20 @@
         "r": 305.18694000000005,
         "b": 438.74322292817675
       },
-      "content": "Each item contains several paragraph"
+      "content": "Each item contains several paragraph",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-1 Symbol and Description"
+        }
+      ],
+      "page": 8,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -97,7 +175,20 @@
         "r": 434.0557919999999,
         "b": 312.2633549281768
       },
-      "content": "The figure and Table are shown in accordance with each \"Chapter\""
+      "content": "The figure and Table are shown in accordance with each \"Chapter\"",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-1 Symbol and Description"
+        }
+      ],
+      "page": 8,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -114,7 +205,20 @@
       "previous_block_id": "txt_0041",
       "image_hash": "20b1e0aa338a5d9be8fda9bf0dba1e9cede11c4d4ea969d5d9b1225d49567495",
       "width": 355,
-      "height": 47
+      "height": 47,
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-1 Symbol and Description"
+        }
+      ],
+      "page": 8,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -131,7 +235,20 @@
       "previous_block_id": "txt_0041",
       "image_hash": "638b0b1781904ad684057a32a8df066cd352904f0c000ee38d1bc1dfaafbba5b",
       "width": 354,
-      "height": 61
+      "height": 61,
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-1 Symbol and Description"
+        }
+      ],
+      "page": 8,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -148,7 +265,20 @@
       "previous_block_id": "txt_0041",
       "image_hash": "8fc9e703aaaf12e2e090dfe754ecf8fd6d6eb3a7a059ae4000f9ce835cc06188",
       "width": 364,
-      "height": 87
+      "height": 87,
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-1 Symbol and Description"
+        }
+      ],
+      "page": 8,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -165,7 +295,20 @@
       "previous_block_id": "txt_0041",
       "image_hash": "4b2b9a44b6e342d107d35fd4f6d52f33bb7d1633ead915e29213ef2cba1e1916",
       "width": 460,
-      "height": 63
+      "height": 63,
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-1 Symbol and Description"
+        }
+      ],
+      "page": 8,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -182,7 +325,20 @@
       "previous_block_id": "txt_0041",
       "image_hash": "67d1e211f9f9cda42cc686abad0c9d555184a74bf760434fbda500ca6acdfea0",
       "width": 433,
-      "height": 60
+      "height": 60,
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-1 Symbol and Description"
+        }
+      ],
+      "page": 8,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

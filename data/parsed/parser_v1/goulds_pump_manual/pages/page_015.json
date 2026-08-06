@@ -19,7 +19,19 @@
       },
       "content": "Product Description",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_241",
+      "section_path": [
+        {
+          "id": "sec_auto_241",
+          "title": "Product Description"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 2,
+      "page": 15,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -34,7 +46,19 @@
       },
       "content": "General description 3196",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_242",
+      "section_path": [
+        {
+          "id": "sec_auto_242",
+          "title": "General description 3196"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 2,
+      "page": 15,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -47,7 +71,20 @@
         "r": 554.8460100000002,
         "b": 650.88184
       },
-      "content": "The 3196 is a horizontal overhung, open impeller, centrifugal pump. This pump is ANSI B73.1 compliant. The model is based on 5 power ends and 29 hydraulic sizes."
+      "content": "The 3196 is a horizontal overhung, open impeller, centrifugal pump. This pump is ANSI B73.1 compliant. The model is based on 5 power ends and 29 hydraulic sizes.",
+      "section_id": "sec_auto_242",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_242",
+          "title": "General description 3196"
+        }
+      ],
+      "page": 15,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -63,12 +100,26 @@
       "image_path": "figures/figure_0020.png",
       "previous_block_id": "txt_0216",
       "next_block_id": "txt_0217",
-      "caption_id": "txt_0217",
       "caption": ": 3196 pump",
       "figure_number": "Figure 5",
       "image_hash": "cfd0c8b14c395d83eeb352ab9f4113de5f2cd5926a9c5ab8b7d48ec76d8d80f3",
       "width": 187,
-      "height": 169
+      "height": 169,
+      "section_id": "sec_auto_242",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_242",
+          "title": "General description 3196"
+        }
+      ],
+      "page": 15,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0020",
+      "source": "pdf_text",
+      "caption_id": "txt_0217"
     },
     {
       "type": "caption",
@@ -82,6 +133,20 @@
         "b": 416.2734
       },
       "content": "Figure 5: 3196 pump",
+      "section_id": "sec_auto_242",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_242",
+          "title": "General description 3196"
+        }
+      ],
+      "page": 15,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0020",
+      "source": "pdf_text",
       "caption_for": "fig_0020"
     },
     {
@@ -95,7 +160,21 @@
         "r": 479.95499000000024,
         "b": 398.36701999999997
       },
-      "content": "This table shows the number of hydraulic sizes available for each drive-unit size group."
+      "content": "This table shows the number of hydraulic sizes available for each drive-unit size group.",
+      "section_id": "sec_auto_242",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_242",
+          "title": "General description 3196"
+        }
+      ],
+      "page": 15,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text",
+      "group_id": "grp_fig_0020"
     },
     {
       "type": "table",
@@ -110,7 +189,20 @@
       },
       "markdown": "| Drive-unit size group   |   Number of hydraulic sizes |\n|-------------------------|-----------------------------|\n| STi                     |                           5 |\n| MTi                     |                          15 |\n| LTi                     |                          15 |\n| XLT-i                   |                           5 |\n| i-17                    |                           4 |",
       "rows": 6,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_auto_242",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_242",
+          "title": "General description 3196"
+        }
+      ],
+      "page": 15,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

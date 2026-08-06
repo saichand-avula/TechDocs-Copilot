@@ -19,7 +19,24 @@
       },
       "content": "11.2.OUTDOORUNIT",
       "level": 2,
-      "role": "section"
+      "section_number": "11.2",
+      "section_id": "sec_11_2",
+      "section_path": [
+        {
+          "id": "sec_11",
+          "title": "11.Circuit    Diagrams 11.1.INDOORUNIT"
+        },
+        {
+          "id": "sec_11_2",
+          "title": "11.2.OUTDOORUNIT"
+        }
+      ],
+      "parent_section_id": "sec_11",
+      "section_level": 2,
+      "page": 71,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -33,8 +50,29 @@
         "b": 741.783357
       },
       "content": "11.2.1    module board Circuit    Diagrams",
-      "level": 2,
-      "role": "section"
+      "level": 3,
+      "section_number": "11.2.1",
+      "section_id": "sec_11_2_1",
+      "section_path": [
+        {
+          "id": "sec_11",
+          "title": "11.Circuit    Diagrams 11.1.INDOORUNIT"
+        },
+        {
+          "id": "sec_11_2",
+          "title": "11.2.OUTDOORUNIT"
+        },
+        {
+          "id": "sec_11_2_1",
+          "title": "11.2.1    module board Circuit    Diagrams"
+        }
+      ],
+      "parent_section_id": "sec_11_2",
+      "section_level": 3,
+      "page": 71,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -52,7 +90,28 @@
       "next_block_id": "txt_0615",
       "image_hash": "e78411ac5fda7e95487998a77ba9a1407c5bb2aba856d4447ca0118754251c32",
       "width": 477,
-      "height": 244
+      "height": 244,
+      "section_id": "sec_11_2_1",
+      "parent_section_id": "sec_11_2",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_11",
+          "title": "11.Circuit    Diagrams 11.1.INDOORUNIT"
+        },
+        {
+          "id": "sec_11_2",
+          "title": "11.2.OUTDOORUNIT"
+        },
+        {
+          "id": "sec_11_2_1",
+          "title": "11.2.1    module board Circuit    Diagrams"
+        }
+      ],
+      "page": 71,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -66,8 +125,29 @@
         "b": 465.93498600000004
       },
       "content": "11.2.2    control board Circuit    Diagrams",
-      "level": 2,
-      "role": "section"
+      "level": 3,
+      "section_number": "11.2.2",
+      "section_id": "sec_11_2_2",
+      "section_path": [
+        {
+          "id": "sec_11",
+          "title": "11.Circuit    Diagrams 11.1.INDOORUNIT"
+        },
+        {
+          "id": "sec_11_2",
+          "title": "11.2.OUTDOORUNIT"
+        },
+        {
+          "id": "sec_11_2_2",
+          "title": "11.2.2    control board Circuit    Diagrams"
+        }
+      ],
+      "parent_section_id": "sec_11_2",
+      "section_level": 3,
+      "page": 71,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -84,7 +164,28 @@
       "previous_block_id": "txt_0615",
       "image_hash": "dc48bdbbb03b65b1cce587091c2e1e41d23d0409bfa05dd47bdcffe09b926cc6",
       "width": 548,
-      "height": 364
+      "height": 364,
+      "section_id": "sec_11_2_2",
+      "parent_section_id": "sec_11_2",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_11",
+          "title": "11.Circuit    Diagrams 11.1.INDOORUNIT"
+        },
+        {
+          "id": "sec_11_2",
+          "title": "11.2.OUTDOORUNIT"
+        },
+        {
+          "id": "sec_11_2_2",
+          "title": "11.2.2    control board Circuit    Diagrams"
+        }
+      ],
+      "page": 71,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -102,7 +203,28 @@
       "width": 32,
       "height": 10,
       "decorative": true,
-      "image_hash": "7fff156ef19e3f056463af391d981b27324d066c06dd1e87d6fcde98891ff36c"
+      "image_hash": "7fff156ef19e3f056463af391d981b27324d066c06dd1e87d6fcde98891ff36c",
+      "section_id": "sec_11_2_2",
+      "parent_section_id": "sec_11_2",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_11",
+          "title": "11.Circuit    Diagrams 11.1.INDOORUNIT"
+        },
+        {
+          "id": "sec_11_2",
+          "title": "11.2.OUTDOORUNIT"
+        },
+        {
+          "id": "sec_11_2_2",
+          "title": "11.2.2    control board Circuit    Diagrams"
+        }
+      ],
+      "page": 71,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

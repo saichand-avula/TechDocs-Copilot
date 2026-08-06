@@ -18,8 +18,21 @@
         "b": 755.7829409281768
       },
       "content": "3-9 Electricity",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "3",
+      "section_id": "sec_3",
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-9 Electricity"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 168,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -33,8 +46,21 @@
         "b": 738.8030489281768
       },
       "content": "3-9-1. Electric Device Layout",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "3",
+      "section_id": "sec_3",
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-9-1. Electric Device Layout"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 168,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -52,7 +78,20 @@
       "next_block_id": "txt_1224",
       "image_hash": "49d2627ac0b5dcd3319c5b6d88c4af91a5e3ce61eecf8eaa916819d70ede7589",
       "width": 480,
-      "height": 442
+      "height": 442,
+      "section_id": "sec_3",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-9-1. Electric Device Layout"
+        }
+      ],
+      "page": 168,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "caption",
@@ -66,6 +105,20 @@
         "b": 245.784980928177
       },
       "content": "Fig. 5-67  Electric Device Layout",
+      "section_id": "sec_3",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-9-1. Electric Device Layout"
+        }
+      ],
+      "page": 168,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0299",
+      "source": "pdf_text",
       "caption_for": "fig_0299"
     },
     {
@@ -82,12 +135,26 @@
       "image_path": "figures/figure_0299.png",
       "previous_block_id": "txt_1224",
       "next_block_id": "txt_1225",
-      "caption_id": "txt_1224",
       "caption": "Electric Device Layout",
       "figure_number": "Fig. 5-67",
       "image_hash": "fbd22938ed96218f5e4b1ae3ae731457d561fb18c8d8096b4e142fccf335941c",
       "width": 203,
-      "height": 154
+      "height": 154,
+      "section_id": "sec_3",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-9-1. Electric Device Layout"
+        }
+      ],
+      "page": 168,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0299",
+      "source": "pdf_text",
+      "caption_id": "txt_1224"
     },
     {
       "type": "heading",
@@ -101,8 +168,21 @@
         "b": 211.8251969281771
       },
       "content": "3-9-2. Alarm Lamp (Option)",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "3",
+      "section_id": "sec_3",
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-9-2. Alarm Lamp (Option)"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 168,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -115,7 +195,20 @@
         "r": 300.52930200000014,
         "b": 92.78559292817704
       },
-      "content": "It is attached to the top of Operating Panel and has the 1, 2 and 3 colors. It can be illuminated during program or when each sort of alarm occures and changed to the flickering style by the PC parameter. It  will  be  exhausted  by  pressing  the  \"[CALL/BZ OFF]\" switch of Operating Panel."
+      "content": "It is attached to the top of Operating Panel and has the 1, 2 and 3 colors. It can be illuminated during program or when each sort of alarm occures and changed to the flickering style by the PC parameter. It  will  be  exhausted  by  pressing  the  \"[CALL/BZ OFF]\" switch of Operating Panel.",
+      "section_id": "sec_3",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-9-2. Alarm Lamp (Option)"
+        }
+      ],
+      "page": 168,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

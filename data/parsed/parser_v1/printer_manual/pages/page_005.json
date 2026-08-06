@@ -19,7 +19,19 @@
       },
       "content": "Revision history",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_18",
+      "section_path": [
+        {
+          "id": "sec_auto_18",
+          "title": "Revision history"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 2,
+      "page": 5,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -32,7 +44,20 @@
         "r": 232.96199999999993,
         "b": 683.7
       },
-      "content": "View a list of document revisions."
+      "content": "View a list of document revisions.",
+      "section_id": "sec_auto_18",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_18",
+          "title": "Revision history"
+        }
+      ],
+      "page": 5,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -45,7 +70,20 @@
         "r": 548.4119900000003,
         "b": 626.7
       },
-      "content": "The information contained herein is subject to change without notice. The only warranties for HP products and services are set forth in the express warranty statements accompanying such products and services. Nothing herein should be construed as constituting an additional warranty. HP shall not be liable for technical or editorial errors or omissions contained herein."
+      "content": "The information contained herein is subject to change without notice. The only warranties for HP products and services are set forth in the express warranty statements accompanying such products and services. Nothing herein should be construed as constituting an additional warranty. HP shall not be liable for technical or editorial errors or omissions contained herein.",
+      "section_id": "sec_auto_18",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_18",
+          "title": "Revision history"
+        }
+      ],
+      "page": 5,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -61,6 +99,20 @@
       "markdown": "Table -1  Revision history\n\n|   Revision number | Revision date   | Revision notes                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |\n|-------------------|-----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n|                 3 | 5/2019          | Updated or added repair topics to include the M507/E50145/M528/E52645: ● Removal and replacement: Control panel (M506x/E50045x/M507x/ E50145x) on page 57 ● Removal and replacement: White backing (MFP) on page 66 ● Removal and replacement: Control panel (M501, 507n/dn, and E50145n/dn) on page 85 ● Removal and replacement: Document feeder (MFP) on page 102 ● Removal and replacement: Top cover (SFP) on page 188 ● Removal and replacement: Wireless printed-circuit board (WiFi) (M507x/ E50145x) on page 307 ● Install accessory: Internal USB ports (M506/E50045) on page 675 ● Install accessory: Trusted platform module (TPM) on page 688 |",
       "rows": 2,
       "cols": 3,
+      "section_id": "sec_auto_18",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_18",
+          "title": "Revision history"
+        }
+      ],
+      "page": 5,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "group_id": "grp_tbl_0001",
+      "source": "pdf_text",
       "caption_id": "txt_0015"
     },
     {
@@ -75,6 +127,20 @@
         "b": 605.23
       },
       "content": "Table -1  Revision history",
+      "section_id": "sec_auto_18",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_18",
+          "title": "Revision history"
+        }
+      ],
+      "page": 5,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_tbl_0001",
+      "source": "pdf_text",
       "caption_for": "tbl_0001"
     }
   ],

@@ -19,12 +19,30 @@
       },
       "image_path": "figures/figure_0002.png",
       "next_block_id": "txt_0161",
-      "caption_id": "txt_0161",
       "caption": ". HDKAG GENERATOR SET DC CONTROL BOX",
       "figure_number": "FIGURE 3-1",
       "image_hash": "56283f1886e23daf6976469624155d69c682fd5c4dec11584578a95daa1b0410",
       "width": 519,
-      "height": 336
+      "height": 336,
+      "section_id": "sec_auto_154",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3. Engine Controls"
+        },
+        {
+          "id": "sec_auto_154",
+          "title": "Control Components"
+        }
+      ],
+      "page": 12,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0002",
+      "source": "pdf_text",
+      "caption_id": "txt_0161"
     },
     {
       "type": "caption",
@@ -38,6 +56,24 @@
         "b": 383.2222569398876
       },
       "content": "FIGURE 3-1. HDKAG GENERATOR SET DC CONTROL BOX",
+      "section_id": "sec_auto_154",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3. Engine Controls"
+        },
+        {
+          "id": "sec_auto_154",
+          "title": "Control Components"
+        }
+      ],
+      "page": 12,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0002",
+      "source": "pdf_text",
       "caption_for": "fig_0002"
     },
     {
@@ -53,7 +89,23 @@
       },
       "content": "Oil Pressure Monitors",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_165",
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3. Engine Controls"
+        },
+        {
+          "id": "sec_auto_165",
+          "title": "Oil Pressure Monitors"
+        }
+      ],
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "page": 12,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -67,7 +119,24 @@
         "b": 323.7968492035388
       },
       "content": "Refer to Figure 3-2 for the location of the oil pressure monitors.",
-      "hyperlink_hint": true
+      "hyperlink_hint": true,
+      "section_id": "sec_auto_165",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3. Engine Controls"
+        },
+        {
+          "id": "sec_auto_165",
+          "title": "Oil Pressure Monitors"
+        }
+      ],
+      "page": 12,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -80,7 +149,24 @@
         "r": 564.7645999999999,
         "b": 263.5333492035388
       },
-      "content": "Oil Pressure Sender E1: The sender resistance changes with oil pressure and results in a reading on  the  (optional)  oil  pressure  meter.    The  meter range is 0 to 100 psi (0 to 700 kPa)."
+      "content": "Oil Pressure Sender E1: The sender resistance changes with oil pressure and results in a reading on  the  (optional)  oil  pressure  meter.    The  meter range is 0 to 100 psi (0 to 700 kPa).",
+      "section_id": "sec_auto_165",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3. Engine Controls"
+        },
+        {
+          "id": "sec_auto_165",
+          "title": "Oil Pressure Monitors"
+        }
+      ],
+      "page": 12,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -93,7 +179,24 @@
         "r": 564.8922000000003,
         "b": 215.91214920353877
       },
-      "content": "Low Oil Pressure Switch S1: This switch closes if oil pressure drops to 9 psi (62 kPa), activating the fault breaker and stopping the engine."
+      "content": "Low Oil Pressure Switch S1: This switch closes if oil pressure drops to 9 psi (62 kPa), activating the fault breaker and stopping the engine.",
+      "section_id": "sec_auto_165",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3. Engine Controls"
+        },
+        {
+          "id": "sec_auto_165",
+          "title": "Oil Pressure Monitors"
+        }
+      ],
+      "page": 12,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -106,7 +209,24 @@
         "r": 564.9735999999983,
         "b": 142.9491492035388
       },
-      "content": "Control Power Latch S6: This oil pressure switch closes at 5 psi (34 kPa) and provides a latch function for the control circuits.  When closed, the switch supplies a ground path for relay K12 on the engine monitor board."
+      "content": "Control Power Latch S6: This oil pressure switch closes at 5 psi (34 kPa) and provides a latch function for the control circuits.  When closed, the switch supplies a ground path for relay K12 on the engine monitor board.",
+      "section_id": "sec_auto_165",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3. Engine Controls"
+        },
+        {
+          "id": "sec_auto_165",
+          "title": "Oil Pressure Monitors"
+        }
+      ],
+      "page": 12,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -121,7 +241,23 @@
       },
       "content": "Engine Monitors",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_170",
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3. Engine Controls"
+        },
+        {
+          "id": "sec_auto_170",
+          "title": "Engine Monitors"
+        }
+      ],
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "page": 12,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -134,7 +270,24 @@
         "r": 291.53549999999996,
         "b": 224.0157492035388
       },
-      "content": "This section briefly describes the engine sensors (switches) and optional gauge senders.  The sensors protect the engine from unfavorable operating conditions; the senders are used with the operational remote panel.  These sealed units are not repairable.  Do not use a substitute part if replacement is necessary,  since  they  are  close-tolerance  parts made for a specific application."
+      "content": "This section briefly describes the engine sensors (switches) and optional gauge senders.  The sensors protect the engine from unfavorable operating conditions; the senders are used with the operational remote panel.  These sealed units are not repairable.  Do not use a substitute part if replacement is necessary,  since  they  are  close-tolerance  parts made for a specific application.",
+      "section_id": "sec_auto_170",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3. Engine Controls"
+        },
+        {
+          "id": "sec_auto_170",
+          "title": "Engine Monitors"
+        }
+      ],
+      "page": 12,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -148,7 +301,24 @@
         "b": 142.9446492035388
       },
       "content": "The safety sensors (switches) close the fault circuit to  ground  if  abnormal  operating  conditions  exist, tripping the fault breaker CB12 to stop the engine. See Figure 3-2 and the schematic in Figure 3-3.",
-      "hyperlink_hint": true
+      "hyperlink_hint": true,
+      "section_id": "sec_auto_170",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3. Engine Controls"
+        },
+        {
+          "id": "sec_auto_170",
+          "title": "Engine Monitors"
+        }
+      ],
+      "page": 12,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

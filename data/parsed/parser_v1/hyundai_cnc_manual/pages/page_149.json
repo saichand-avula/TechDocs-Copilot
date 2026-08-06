@@ -18,8 +18,21 @@
         "b": 733.0429409281768
       },
       "content": "2) Exchanging solenoid valve",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "2",
+      "section_id": "sec_2",
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2) Exchanging solenoid valve"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 149,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -32,7 +45,20 @@
         "r": 541.4724480000007,
         "b": 699.0230369281768
       },
-      "content": "In  case  of  failures  due  to  the  broken  internal  spool  or  poor  spring,  disassemble,  clean  or change the damaged solenoid valve in the following orders."
+      "content": "In  case  of  failures  due  to  the  broken  internal  spool  or  poor  spring,  disassemble,  clean  or change the damaged solenoid valve in the following orders.",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2) Exchanging solenoid valve"
+        }
+      ],
+      "page": 149,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -51,7 +77,20 @@
       "width": 32,
       "height": 30,
       "decorative": true,
-      "image_hash": "9707ca5335bcbc4e08b9ebe68cf346811fb92fc02ce8c424d9fe1b46fa51a6a4"
+      "image_hash": "9707ca5335bcbc4e08b9ebe68cf346811fb92fc02ce8c424d9fe1b46fa51a6a4",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2) Exchanging solenoid valve"
+        }
+      ],
+      "page": 149,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "admonition",
@@ -65,7 +104,20 @@
         "t": 665.1026599999999,
         "r": 349.206162,
         "b": 650.9185342983425
-      }
+      },
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2) Exchanging solenoid valve"
+        }
+      ],
+      "page": 149,
+      "chunk_hint": "admonition",
+      "semantic_role": "caution",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -80,12 +132,26 @@
       },
       "image_path": "figures/figure_0264.png",
       "next_block_id": "txt_1043",
-      "caption_id": "txt_1043",
       "caption": "Solenoid Valve Disassembly Diagram",
       "figure_number": "Fig. 5-56",
       "image_hash": "3527cc4fb9b6642d407c935d6bb8b15e7feb2a5d7766551b61e2ab4bd6f896d7",
       "width": 463,
-      "height": 378
+      "height": 378,
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2) Exchanging solenoid valve"
+        }
+      ],
+      "page": 149,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0264",
+      "source": "pdf_text",
+      "caption_id": "txt_1043"
     },
     {
       "type": "caption",
@@ -99,6 +165,20 @@
         "b": 158.54468092817683
       },
       "content": "Fig. 5-56 Solenoid Valve Disassembly Diagram",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2) Exchanging solenoid valve"
+        }
+      ],
+      "page": 149,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0264",
+      "source": "pdf_text",
       "caption_for": "fig_0264"
     },
     {
@@ -112,7 +192,21 @@
         "r": 145.02591600000002,
         "b": 124.52477692817683
       },
-      "content": "Used tools:"
+      "content": "Used tools:",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2) Exchanging solenoid valve"
+        }
+      ],
+      "page": 149,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text",
+      "group_id": "grp_fig_0264"
     },
     {
       "type": "paragraph",
@@ -125,7 +219,20 @@
         "r": 290.6946719999998,
         "b": 124.52477692817683
       },
-      "content": "+ screwdriver, wrench (4 mm)"
+      "content": "+ screwdriver, wrench (4 mm)",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2) Exchanging solenoid valve"
+        }
+      ],
+      "page": 149,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

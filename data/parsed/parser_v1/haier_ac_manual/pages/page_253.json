@@ -19,11 +19,29 @@
       },
       "image_path": "figures/figure_0508.png",
       "next_block_id": "txt_2004",
-      "caption_id": "txt_2004",
       "caption": "PCB(1)",
       "image_hash": "8bd93b2531eb2ed009f6a69970bb830473ab398cf89d7a7d5a7bc62dfd33209e",
       "width": 538,
-      "height": 416
+      "height": 416,
+      "section_id": "sec_auto_2653",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4.Printed Circuit Board Connector Wiring Diagram"
+        },
+        {
+          "id": "sec_auto_2653",
+          "title": "Note: Other designations"
+        }
+      ],
+      "page": 253,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0508",
+      "source": "pdf_text",
+      "caption_id": "txt_2004"
     },
     {
       "type": "caption",
@@ -37,6 +55,24 @@
         "b": 766.5183999999999
       },
       "content": "PCB(1)",
+      "section_id": "sec_auto_2653",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4.Printed Circuit Board Connector Wiring Diagram"
+        },
+        {
+          "id": "sec_auto_2653",
+          "title": "Note: Other designations"
+        }
+      ],
+      "page": 253,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0508",
+      "source": "pdf_text",
       "caption_for": "fig_0508"
     }
   ],

@@ -22,7 +22,24 @@
       "width": 47,
       "height": 23,
       "decorative": true,
-      "image_hash": "7577891dcf1743bd2e7a735ef2621e01244d960bde43e28868c27d7c1437ddb9"
+      "image_hash": "7577891dcf1743bd2e7a735ef2621e01244d960bde43e28868c27d7c1437ddb9",
+      "section_id": "sec_auto_1240",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7       Operating instructions"
+        },
+        {
+          "id": "sec_auto_1240",
+          "title": "Checking the oil level"
+        }
+      ],
+      "page": 114,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -37,7 +54,23 @@
       },
       "content": "Air filter",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1256",
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7       Operating instructions"
+        },
+        {
+          "id": "sec_auto_1256",
+          "title": "Air filter"
+        }
+      ],
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "page": 114,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -52,7 +85,23 @@
       },
       "content": "Drains",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1257",
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7       Operating instructions"
+        },
+        {
+          "id": "sec_auto_1257",
+          "title": "Drains"
+        }
+      ],
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "page": 114,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -68,11 +117,29 @@
       "image_path": "figures/figure_0300.png",
       "previous_block_id": "txt_0866",
       "next_block_id": "txt_0867",
-      "caption_id": "txt_0867",
       "caption": "Position of the service indicator",
       "image_hash": "9837c42555bc9cb00f0aeda65e10e025cefe49e0de5b469ff68d68cc7e3fbb92",
       "width": 259,
-      "height": 197
+      "height": 197,
+      "section_id": "sec_auto_1257",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7       Operating instructions"
+        },
+        {
+          "id": "sec_auto_1257",
+          "title": "Drains"
+        }
+      ],
+      "page": 114,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0300",
+      "source": "pdf_text",
+      "caption_id": "txt_0867"
     },
     {
       "type": "caption",
@@ -86,6 +153,24 @@
         "b": 528.52
       },
       "content": "Position of the service indicator",
+      "section_id": "sec_auto_1257",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7       Operating instructions"
+        },
+        {
+          "id": "sec_auto_1257",
+          "title": "Drains"
+        }
+      ],
+      "page": 114,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0300",
+      "source": "pdf_text",
       "caption_for": "fig_0300"
     },
     {
@@ -99,7 +184,25 @@
         "r": 533.2529999999996,
         "b": 471.7238
       },
-      "content": "Regularly check the service indicator. If the coloured part of service indicator (VI) shows full out, replace the air filter element. Reset the service indicator by pushing the knob in the extremity of the indicator body."
+      "content": "Regularly check the service indicator. If the coloured part of service indicator (VI) shows full out, replace the air filter element. Reset the service indicator by pushing the knob in the extremity of the indicator body.",
+      "section_id": "sec_auto_1257",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7       Operating instructions"
+        },
+        {
+          "id": "sec_auto_1257",
+          "title": "Drains"
+        }
+      ],
+      "page": 114,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text",
+      "group_id": "grp_fig_0300"
     },
     {
       "type": "paragraph",
@@ -112,7 +215,24 @@
         "r": 532.4545999999999,
         "b": 408.90400000000005
       },
-      "content": "Regularly check that condensate is discharged during operation. See section Condensate system. The amount of condensate depends on environmental and working conditions."
+      "content": "Regularly check that condensate is discharged during operation. See section Condensate system. The amount of condensate depends on environmental and working conditions.",
+      "section_id": "sec_auto_1257",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7       Operating instructions"
+        },
+        {
+          "id": "sec_auto_1257",
+          "title": "Drains"
+        }
+      ],
+      "page": 114,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -125,7 +245,24 @@
         "r": 478.4632,
         "b": 388.9236000000001
       },
-      "content": "If an OSCi is installed, also check the level in the oil collector; see section Maintenance OSCi."
+      "content": "If an OSCi is installed, also check the level in the oil collector; see section Maintenance OSCi.",
+      "section_id": "sec_auto_1257",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7       Operating instructions"
+        },
+        {
+          "id": "sec_auto_1257",
+          "title": "Drains"
+        }
+      ],
+      "page": 114,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -140,7 +277,24 @@
       },
       "content": "7.6    Checking the display",
       "level": 2,
-      "role": "section"
+      "section_number": "7.6",
+      "section_id": "sec_7_6",
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7       Operating instructions"
+        },
+        {
+          "id": "sec_7_6",
+          "title": "7.6    Checking the display"
+        }
+      ],
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "page": 114,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -155,7 +309,23 @@
       },
       "content": "Procedure",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1264",
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7       Operating instructions"
+        },
+        {
+          "id": "sec_auto_1264",
+          "title": "Procedure"
+        }
+      ],
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "page": 114,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -171,11 +341,29 @@
       "image_path": "figures/figure_0301.png",
       "previous_block_id": "txt_0872",
       "next_block_id": "txt_0873",
-      "caption_id": "txt_0873",
       "caption": "Control panel of the Elektronikon Graphic controller",
       "image_hash": "cfb9f4a018624fa5a19b492a6e5bd59d81c6a05117b1fea2f0c92011bf1b4d00",
       "width": 248,
-      "height": 121
+      "height": 121,
+      "section_id": "sec_auto_1264",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7       Operating instructions"
+        },
+        {
+          "id": "sec_auto_1264",
+          "title": "Procedure"
+        }
+      ],
+      "page": 114,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0301",
+      "source": "pdf_text",
+      "caption_id": "txt_0873"
     },
     {
       "type": "caption",
@@ -189,6 +377,24 @@
         "b": 150.10000000000002
       },
       "content": "Control panel of the Elektronikon Graphic controller",
+      "section_id": "sec_auto_1264",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7       Operating instructions"
+        },
+        {
+          "id": "sec_auto_1264",
+          "title": "Procedure"
+        }
+      ],
+      "page": 114,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0301",
+      "source": "pdf_text",
       "caption_for": "fig_0301"
     },
     {
@@ -202,7 +408,25 @@
         "r": 281.9802999999997,
         "b": 115.08399999999995
       },
-      "content": "Compressors with Elektronikon® Graphic controller:"
+      "content": "Compressors with Elektronikon® Graphic controller:",
+      "section_id": "sec_auto_1264",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7       Operating instructions"
+        },
+        {
+          "id": "sec_auto_1264",
+          "title": "Procedure"
+        }
+      ],
+      "page": 114,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text",
+      "group_id": "grp_fig_0301"
     },
     {
       "type": "paragraph",
@@ -215,7 +439,24 @@
         "r": 538.4826999999997,
         "b": 69.06399999999996
       },
-      "content": "Check the display (2) regularly for readings and messages. The display normally shows the compressor outlet pressure,while the status of the compressor is indicated by means of a number of icons. Remedy the trouble if alarm LED (7) is lit or flashes, see section Icons used. The display (2) will show a service message if a The operator must apply all relevant Safety precautions."
+      "content": "Check the display (2) regularly for readings and messages. The display normally shows the compressor outlet pressure,while the status of the compressor is indicated by means of a number of icons. Remedy the trouble if alarm LED (7) is lit or flashes, see section Icons used. The display (2) will show a service message if a The operator must apply all relevant Safety precautions.",
+      "section_id": "sec_auto_1264",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7       Operating instructions"
+        },
+        {
+          "id": "sec_auto_1264",
+          "title": "Procedure"
+        }
+      ],
+      "page": 114,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

@@ -18,8 +18,21 @@
         "b": 754.9440000000001
       },
       "content": "10     Problem solving",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "10",
+      "section_id": "sec_10",
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10     Problem solving"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 127,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -34,7 +47,24 @@
       },
       "content": "10.1   Problem solving",
       "level": 2,
-      "role": "section"
+      "section_number": "10.1",
+      "section_id": "sec_10_1",
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10     Problem solving"
+        },
+        {
+          "id": "sec_10_1",
+          "title": "10.1   Problem solving"
+        }
+      ],
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "page": 127,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -49,7 +79,23 @@
       },
       "content": "Warning",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1422",
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10     Problem solving"
+        },
+        {
+          "id": "sec_auto_1422",
+          "title": "Warning"
+        }
+      ],
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "page": 127,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -67,7 +113,24 @@
       "next_block_id": "txt_1000",
       "width": 32,
       "height": 25,
-      "image_hash": "5a8209de171ac716735e5ab33e4f88d22ee3d7ea562e8e99b6c456e851f1e1bf"
+      "image_hash": "5a8209de171ac716735e5ab33e4f88d22ee3d7ea562e8e99b6c456e851f1e1bf",
+      "section_id": "sec_auto_1422",
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10     Problem solving"
+        },
+        {
+          "id": "sec_auto_1422",
+          "title": "Warning"
+        }
+      ],
+      "page": 127,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -82,7 +145,24 @@
       },
       "markdown": "| Before carrying out any maintenance, repair work or adjustment, press the stop button, wait until the compressor has stopped (approx. 30 seconds) and close the air outlet valve. Press the test button on top of the electronic water drain unit the air system between the air receiver and outlet valve is fully depressurized. Press the emergency stop button and switch off the voltage. Depressurise the compressor by opening the oil filler plug one turn. For location of components, see sections: - Introduction - Condensate system - Initial start-up   |\n|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Open and lock the isolating switch.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |\n| The air outlet valve can be locked during maintenance or repair as follows: - Close the valve. - Remove the screw fixing the handle with the wrench delivered with the compressor. - Lift the handle and turn it until the slot of the handle fits over the blocking edge on the valve body. - Fit the screw.                                                                                                                                                                                                                                                         |\n| The operator must apply all relevant Safety precautions.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |",
       "rows": 4,
-      "cols": 1
+      "cols": 1,
+      "section_id": "sec_auto_1422",
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10     Problem solving"
+        },
+        {
+          "id": "sec_auto_1422",
+          "title": "Warning"
+        }
+      ],
+      "page": 127,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -97,7 +177,23 @@
       },
       "content": "Faults and remedies",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1425",
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10     Problem solving"
+        },
+        {
+          "id": "sec_auto_1425",
+          "title": "Faults and remedies"
+        }
+      ],
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "page": 127,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -110,7 +206,24 @@
         "r": 547.3809999999984,
         "b": 349.92350000000005
       },
-      "content": "On compressors equipped with an Elektronikon® Graphic controller, if the alarm LED is lit or flashes, consult sections Event history menu or Service menu."
+      "content": "On compressors equipped with an Elektronikon® Graphic controller, if the alarm LED is lit or flashes, consult sections Event history menu or Service menu.",
+      "section_id": "sec_auto_1425",
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10     Problem solving"
+        },
+        {
+          "id": "sec_auto_1425",
+          "title": "Faults and remedies"
+        }
+      ],
+      "page": 127,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -125,7 +238,24 @@
       },
       "markdown": "| -   | Condition                                            | Fault                                       | Remedy                   |\n|-----|------------------------------------------------------|---------------------------------------------|--------------------------|\n|     | Compressor starts running, but does not load after a | Solenoid valve out of order                 | Replace valve            |\n|     |                                                      | Inlet valve stuck in closed                 | Have valve checked       |\n|     |                                                      | Leak in control air flexibles               | Replace leaking flexible |\n|     |                                                      | Minimum pressure valve leaking (when net is | Have valve checked       |",
       "rows": 5,
-      "cols": 4
+      "cols": 4,
+      "section_id": "sec_auto_1425",
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10     Problem solving"
+        },
+        {
+          "id": "sec_auto_1425",
+          "title": "Faults and remedies"
+        }
+      ],
+      "page": 127,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -140,7 +270,24 @@
       },
       "markdown": "| -   | Condition                                      | Fault                       | Remedy             |\n|-----|------------------------------------------------|-----------------------------|--------------------|\n|     | Compressor does not unload, safety valve blows | Solenoid valve out of order | Replace valve      |\n|     |                                                | Inlet valve does not close  | Have valve checked |",
       "rows": 3,
-      "cols": 4
+      "cols": 4,
+      "section_id": "sec_auto_1425",
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10     Problem solving"
+        },
+        {
+          "id": "sec_auto_1425",
+          "title": "Faults and remedies"
+        }
+      ],
+      "page": 127,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -157,7 +304,24 @@
       "previous_block_id": "txt_1001",
       "width": 47,
       "height": 23,
-      "image_hash": "b28a1d23de5124d82d6f84120acacff249829ec0e42f4c826059a188d93e4d2e"
+      "image_hash": "b28a1d23de5124d82d6f84120acacff249829ec0e42f4c826059a188d93e4d2e",
+      "section_id": "sec_auto_1425",
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10     Problem solving"
+        },
+        {
+          "id": "sec_auto_1425",
+          "title": "Faults and remedies"
+        }
+      ],
+      "page": 127,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

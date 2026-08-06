@@ -22,7 +22,24 @@
       "width": 47,
       "height": 23,
       "decorative": true,
-      "image_hash": "7577891dcf1743bd2e7a735ef2621e01244d960bde43e28868c27d7c1437ddb9"
+      "image_hash": "7577891dcf1743bd2e7a735ef2621e01244d960bde43e28868c27d7c1437ddb9",
+      "section_id": "sec_auto_1370",
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8       Maintenance"
+        },
+        {
+          "id": "sec_auto_1370",
+          "title": "Service kits"
+        }
+      ],
+      "page": 124,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -36,8 +53,21 @@
         "b": 736.7040000000001
       },
       "content": "9       Adjustments and servicing procedures",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "9",
+      "section_id": "sec_9",
+      "section_path": [
+        {
+          "id": "sec_9",
+          "title": "9       Adjustments and servicing procedures"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 124,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -52,7 +82,24 @@
       },
       "content": "9.1     Air filter",
       "level": 2,
-      "role": "section"
+      "section_number": "9.1",
+      "section_id": "sec_9_1",
+      "section_path": [
+        {
+          "id": "sec_9",
+          "title": "9       Adjustments and servicing procedures"
+        },
+        {
+          "id": "sec_9_1",
+          "title": "9.1     Air filter"
+        }
+      ],
+      "parent_section_id": "sec_9",
+      "section_level": 2,
+      "page": 124,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -67,7 +114,23 @@
       },
       "content": "Location of air filter",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1378",
+      "section_path": [
+        {
+          "id": "sec_9",
+          "title": "9       Adjustments and servicing procedures"
+        },
+        {
+          "id": "sec_auto_1378",
+          "title": "Location of air filter"
+        }
+      ],
+      "parent_section_id": "sec_9",
+      "section_level": 2,
+      "page": 124,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -82,7 +145,23 @@
       },
       "content": "Recommendations",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1379",
+      "section_path": [
+        {
+          "id": "sec_9",
+          "title": "9       Adjustments and servicing procedures"
+        },
+        {
+          "id": "sec_auto_1379",
+          "title": "Recommendations"
+        }
+      ],
+      "parent_section_id": "sec_9",
+      "section_level": 2,
+      "page": 124,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -95,7 +174,24 @@
         "r": 342.94639999999976,
         "b": 135.9038999999999
       },
-      "content": "Never remove the element while the compressor is running."
+      "content": "Never remove the element while the compressor is running.",
+      "section_id": "sec_auto_1379",
+      "parent_section_id": "sec_9",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_9",
+          "title": "9       Adjustments and servicing procedures"
+        },
+        {
+          "id": "sec_auto_1379",
+          "title": "Recommendations"
+        }
+      ],
+      "page": 124,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -108,7 +204,24 @@
         "r": 348.9326000000002,
         "b": 122.70389999999998
       },
-      "content": "For minimum downtime, replace the dirty element by a new one."
+      "content": "For minimum downtime, replace the dirty element by a new one.",
+      "section_id": "sec_auto_1379",
+      "parent_section_id": "sec_9",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_9",
+          "title": "9       Adjustments and servicing procedures"
+        },
+        {
+          "id": "sec_auto_1379",
+          "title": "Recommendations"
+        }
+      ],
+      "page": 124,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -121,7 +234,24 @@
         "r": 232.70879999999994,
         "b": 109.50389999999993
       },
-      "content": "Discard the element when damaged."
+      "content": "Discard the element when damaged.",
+      "section_id": "sec_auto_1379",
+      "parent_section_id": "sec_9",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_9",
+          "title": "9       Adjustments and servicing procedures"
+        },
+        {
+          "id": "sec_auto_1379",
+          "title": "Recommendations"
+        }
+      ],
+      "page": 124,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -137,11 +267,29 @@
       "image_path": "figures/figure_0322.png",
       "previous_block_id": "txt_0964",
       "next_block_id": "txt_0965",
-      "caption_id": "txt_0965",
       "caption": "Air filter",
       "image_hash": "59ece2e914c8f752b328d9fabdc1dc80a045d653b247f4e24da1d9787250b0df",
       "width": 220,
-      "height": 168
+      "height": 168,
+      "section_id": "sec_auto_1379",
+      "parent_section_id": "sec_9",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_9",
+          "title": "9       Adjustments and servicing procedures"
+        },
+        {
+          "id": "sec_auto_1379",
+          "title": "Recommendations"
+        }
+      ],
+      "page": 124,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0322",
+      "source": "pdf_text",
+      "caption_id": "txt_0965"
     },
     {
       "type": "caption",
@@ -155,6 +303,24 @@
         "b": 461.26
       },
       "content": "Air filter",
+      "section_id": "sec_auto_1379",
+      "parent_section_id": "sec_9",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_9",
+          "title": "9       Adjustments and servicing procedures"
+        },
+        {
+          "id": "sec_auto_1379",
+          "title": "Recommendations"
+        }
+      ],
+      "page": 124,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0322",
+      "source": "pdf_text",
       "caption_for": "fig_0322"
     },
     {
@@ -171,11 +337,29 @@
       "image_path": "figures/figure_0323.png",
       "previous_block_id": "txt_0965",
       "next_block_id": "txt_0966",
-      "caption_id": "txt_0966",
       "caption": "Service indicator",
       "image_hash": "0c50bbbf3b748990de3aed6fb0cd40383efd6e2637d06446d7a6fb5db96ec8b0",
       "width": 255,
-      "height": 193
+      "height": 193,
+      "section_id": "sec_auto_1379",
+      "parent_section_id": "sec_9",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_9",
+          "title": "9       Adjustments and servicing procedures"
+        },
+        {
+          "id": "sec_auto_1379",
+          "title": "Recommendations"
+        }
+      ],
+      "page": 124,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0323",
+      "source": "pdf_text",
+      "caption_id": "txt_0966"
     },
     {
       "type": "caption",
@@ -189,6 +373,24 @@
         "b": 201.94000000000005
       },
       "content": "Service indicator",
+      "section_id": "sec_auto_1379",
+      "parent_section_id": "sec_9",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_9",
+          "title": "9       Adjustments and servicing procedures"
+        },
+        {
+          "id": "sec_auto_1379",
+          "title": "Recommendations"
+        }
+      ],
+      "page": 124,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0323",
+      "source": "pdf_text",
       "caption_for": "fig_0323"
     }
   ],

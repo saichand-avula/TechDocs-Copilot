@@ -18,8 +18,29 @@
         "b": 762.775074
       },
       "content": "7.4.2 Indoor fan motor malfunction",
-      "level": 2,
-      "role": "section"
+      "level": 3,
+      "section_number": "7.4.2",
+      "section_id": "sec_7_4_2",
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_3200",
+          "title": "Thermistor resistance check method:"
+        },
+        {
+          "id": "sec_7_4_2",
+          "title": "7.4.2 Indoor fan motor malfunction"
+        }
+      ],
+      "parent_section_id": "sec_auto_3200",
+      "section_level": 3,
+      "page": 296,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -34,7 +55,23 @@
       },
       "content": "Indoor Display      E14",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_3204",
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_3204",
+          "title": "Indoor Display      E14"
+        }
+      ],
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "page": 296,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -47,7 +84,24 @@
         "r": 141.51048859999997,
         "b": 708.2629860000001
       },
-      "content": "Method of"
+      "content": "Method of",
+      "section_id": "sec_auto_3204",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_3204",
+          "title": "Indoor Display      E14"
+        }
+      ],
+      "page": 296,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -60,7 +114,24 @@
         "r": 551.3097708200006,
         "b": 696.7507860000001
       },
-      "content": "The rotation speed detected by the Hall IC during fan motor operation is used to determine abnormal fan motor operation"
+      "content": "The rotation speed detected by the Hall IC during fan motor operation is used to determine abnormal fan motor operation",
+      "section_id": "sec_auto_3204",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_3204",
+          "title": "Indoor Display      E14"
+        }
+      ],
+      "page": 296,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -73,7 +144,24 @@
         "r": 139.77915350000006,
         "b": 696.7507860000001
       },
-      "content": "Malfunction"
+      "content": "Malfunction",
+      "section_id": "sec_auto_3204",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_3204",
+          "title": "Indoor Display      E14"
+        }
+      ],
+      "page": 296,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -86,7 +174,24 @@
         "r": 104.43417440000003,
         "b": 685.2343746600001
       },
-      "content": "Detection"
+      "content": "Detection",
+      "section_id": "sec_auto_3204",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_3204",
+          "title": "Indoor Display      E14"
+        }
+      ],
+      "page": 296,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -99,7 +204,24 @@
         "r": 134.80430640000006,
         "b": 673.77904506
       },
-      "content": "Malfunction"
+      "content": "Malfunction",
+      "section_id": "sec_auto_3204",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_3204",
+          "title": "Indoor Display      E14"
+        }
+      ],
+      "page": 296,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -112,7 +234,24 @@
         "r": 448.4526828800004,
         "b": 673.785486
       },
-      "content": "when the detected rotation feedback singal don't receiced in 2 minutes"
+      "content": "when the detected rotation feedback singal don't receiced in 2 minutes",
+      "section_id": "sec_auto_3204",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_3204",
+          "title": "Indoor Display      E14"
+        }
+      ],
+      "page": 296,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -125,7 +264,24 @@
         "r": 120.51059359999994,
         "b": 662.2099956
       },
-      "content": "Decision"
+      "content": "Decision",
+      "section_id": "sec_auto_3204",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_3204",
+          "title": "Indoor Display      E14"
+        }
+      ],
+      "page": 296,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -138,7 +294,24 @@
         "r": 111.0382405,
         "b": 650.7546659999999
       },
-      "content": "Conditions"
+      "content": "Conditions",
+      "section_id": "sec_auto_3204",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_3204",
+          "title": "Indoor Display      E14"
+        }
+      ],
+      "page": 296,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -151,7 +324,24 @@
         "r": 171.0598371,
         "b": 639.2993363999999
       },
-      "content": "Supposed    Causes g374"
+      "content": "Supposed    Causes g374",
+      "section_id": "sec_auto_3204",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_3204",
+          "title": "Indoor Display      E14"
+        }
+      ],
+      "page": 296,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -164,7 +354,24 @@
         "r": 438.79249986000053,
         "b": 639.309086
       },
-      "content": "Operation halt due to breaking of wire inside the fan motor ."
+      "content": "Operation halt due to breaking of wire inside the fan motor .",
+      "section_id": "sec_auto_3204",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_3204",
+          "title": "Indoor Display      E14"
+        }
+      ],
+      "page": 296,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -177,7 +384,24 @@
         "r": 429.55789641999996,
         "b": 626.5203968859042
       },
-      "content": "Ƶ Operation halt due to breaking of the fan motor lead wires"
+      "content": "Ƶ Operation halt due to breaking of the fan motor lead wires",
+      "section_id": "sec_auto_3204",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_3204",
+          "title": "Indoor Display      E14"
+        }
+      ],
+      "page": 296,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -190,7 +414,24 @@
         "r": 390.6643708399999,
         "b": 614.3484968859043
       },
-      "content": "Ƶ Detection error due to faulty indoor unit PCB"
+      "content": "Ƶ Detection error due to faulty indoor unit PCB",
+      "section_id": "sec_auto_3204",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_3204",
+          "title": "Indoor Display      E14"
+        }
+      ],
+      "page": 296,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -205,7 +446,23 @@
       },
       "content": "How to check Fan Motor (DC)",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_3217",
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_3217",
+          "title": "How to check Fan Motor (DC)"
+        }
+      ],
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "page": 296,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -218,7 +475,24 @@
         "r": 313.8662676000001,
         "b": 560.3632787
       },
-      "content": "Check connector connection."
+      "content": "Check connector connection.",
+      "section_id": "sec_auto_3217",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_3217",
+          "title": "How to check Fan Motor (DC)"
+        }
+      ],
+      "page": 296,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -231,7 +505,24 @@
         "r": 421.6061723199991,
         "b": 547.7716787
       },
-      "content": "Check motor power supply voltage output (pins 1-4)."
+      "content": "Check motor power supply voltage output (pins 1-4).",
+      "section_id": "sec_auto_3217",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_3217",
+          "title": "How to check Fan Motor (DC)"
+        }
+      ],
+      "page": 296,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -244,7 +535,24 @@
         "r": 358.7415495199994,
         "b": 535.2955017
       },
-      "content": "Check motor control voltage (pins 4-5)."
+      "content": "Check motor control voltage (pins 4-5).",
+      "section_id": "sec_auto_3217",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_3217",
+          "title": "How to check Fan Motor (DC)"
+        }
+      ],
+      "page": 296,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -257,7 +565,24 @@
         "r": 413.4144195200002,
         "b": 522.8193247
       },
-      "content": "Check rotation command voltage output (pins 4-6)."
+      "content": "Check rotation command voltage output (pins 4-6).",
+      "section_id": "sec_auto_3217",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_3217",
+          "title": "How to check Fan Motor (DC)"
+        }
+      ],
+      "page": 296,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -270,7 +595,24 @@
         "r": 349.38449104,
         "b": 510.22772470000007
       },
-      "content": "Check rotation pulse input (pins 4-7)."
+      "content": "Check rotation pulse input (pins 4-7).",
+      "section_id": "sec_auto_3217",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_3217",
+          "title": "How to check Fan Motor (DC)"
+        }
+      ],
+      "page": 296,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -285,7 +627,23 @@
       },
       "content": "Notes:the  a/c  is  electrifying,don't  pull  out  or  insert  the  terminals  of  the motor,else the motor would be damaged",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_3223",
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_3223",
+          "title": "Notes:the  a/c  is  electrifying,don't  pull  out  or  insert  the  terminals  of  the motor,else the motor would be damaged"
+        }
+      ],
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "page": 296,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -298,7 +656,24 @@
         "r": 563.1555873599984,
         "b": 306.7250037
       },
-      "content": "Troubleshooting        * Caution Be sure to turn off power switch before connect or disconnect connector, or else parts damage may be occurred."
+      "content": "Troubleshooting        * Caution Be sure to turn off power switch before connect or disconnect connector, or else parts damage may be occurred.",
+      "section_id": "sec_auto_3223",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_3223",
+          "title": "Notes:the  a/c  is  electrifying,don't  pull  out  or  insert  the  terminals  of  the motor,else the motor would be damaged"
+        }
+      ],
+      "page": 296,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

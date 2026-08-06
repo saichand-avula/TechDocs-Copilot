@@ -19,7 +19,24 @@
       },
       "content": "5.2 Main functions and control specification of outdoor unit",
       "level": 2,
-      "role": "section"
+      "section_number": "5.2",
+      "section_id": "sec_5_2",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_5_2",
+          "title": "5.2 Main functions and control specification of outdoor unit"
+        }
+      ],
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "page": 264,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -32,7 +49,24 @@
         "r": 551.5869838999996,
         "b": 730.6250770000001
       },
-      "content": "Sensor  Code  Definition:  Tai=  Indoor  Ambient  Temperature,  Tao=Outdoor  Ambient  Temperature, Tc1=Indoor Coil, Td= Air Discharge, Te= Outdoor Coil, Ts=Air Intake"
+      "content": "Sensor  Code  Definition:  Tai=  Indoor  Ambient  Temperature,  Tao=Outdoor  Ambient  Temperature, Tc1=Indoor Coil, Td= Air Discharge, Te= Outdoor Coil, Ts=Air Intake",
+      "section_id": "sec_5_2",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_5_2",
+          "title": "5.2 Main functions and control specification of outdoor unit"
+        }
+      ],
+      "page": 264,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -46,8 +80,29 @@
         "b": 689.3839740000001
       },
       "content": "5.2.1 Outdoor Unit Operation Frequency and Control",
-      "level": 2,
-      "role": "section"
+      "level": 3,
+      "section_number": "5.2.1",
+      "section_id": "sec_5_2_1",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_5_2",
+          "title": "5.2 Main functions and control specification of outdoor unit"
+        },
+        {
+          "id": "sec_5_2_1",
+          "title": "5.2.1 Outdoor Unit Operation Frequency and Control"
+        }
+      ],
+      "parent_section_id": "sec_5_2",
+      "section_level": 3,
+      "page": 264,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -62,7 +117,23 @@
       },
       "content": "Compressor Operation Frequency Range",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_2801",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_auto_2801",
+          "title": "Compressor Operation Frequency Range"
+        }
+      ],
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "page": 264,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -77,7 +148,23 @@
       },
       "content": "Compressor Operation Frequency Range:",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_2802",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_auto_2802",
+          "title": "Compressor Operation Frequency Range:"
+        }
+      ],
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "page": 264,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -92,7 +179,24 @@
       },
       "markdown": "| Outdoor Temperature   | ≤4       | 4 ī 18   | ≥18     |\n|-----------------------|----------|----------|---------|\n| Heating ˄ Hz ˅        | 20 ī 110 | 20 ī 90  | 20 ī 53 |\n| Defrosting ˄ Hz ˅     | 80       | 80       | 80      |\n| Outdoor Temperature   | ≤23      | 23 ī 32  | ≥32     |\n| Cooling ˄ Hz ˅        | 20 ī 50  | 20 ī 70  | 20 ī 95 |",
       "rows": 5,
-      "cols": 4
+      "cols": 4,
+      "section_id": "sec_auto_2802",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_auto_2802",
+          "title": "Compressor Operation Frequency Range:"
+        }
+      ],
+      "page": 264,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -107,7 +211,23 @@
       },
       "content": "Compressor Startup",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_2804",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_auto_2804",
+          "title": "Compressor Startup"
+        }
+      ],
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "page": 264,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -120,7 +240,24 @@
         "r": 551.6210243600011,
         "b": 432.40699353999986
       },
-      "content": "Regardless of target frequency of indoor unit, each time when compressor is from off to on, it must maintain 60Hz,90Hz for one minute (Frequency will be immediately decreased under the condition that outdoor unit air discharge temperature overheating protection is activated or over current of compressor) then the compressor will operate towards target frequency. This process does not exist in normal operation of unit."
+      "content": "Regardless of target frequency of indoor unit, each time when compressor is from off to on, it must maintain 60Hz,90Hz for one minute (Frequency will be immediately decreased under the condition that outdoor unit air discharge temperature overheating protection is activated or over current of compressor) then the compressor will operate towards target frequency. This process does not exist in normal operation of unit.",
+      "section_id": "sec_auto_2804",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_auto_2804",
+          "title": "Compressor Startup"
+        }
+      ],
+      "page": 264,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -135,7 +272,23 @@
       },
       "content": "Heating",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_2806",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_auto_2806",
+          "title": "Heating"
+        }
+      ],
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "page": 264,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -148,7 +301,24 @@
         "r": 527.37725662,
         "b": 387.31665333999985
       },
-      "content": "When completing compressor startup operation, it will operate as per frequency of indoor unit."
+      "content": "When completing compressor startup operation, it will operate as per frequency of indoor unit.",
+      "section_id": "sec_auto_2806",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_auto_2806",
+          "title": "Heating"
+        }
+      ],
+      "page": 264,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -161,7 +331,24 @@
         "r": 542.1356863999999,
         "b": 371.60677
       },
-      "content": "After 2 minutes, compressor operation frequency will be compensated as per relevant conditions."
+      "content": "After 2 minutes, compressor operation frequency will be compensated as per relevant conditions.",
+      "section_id": "sec_auto_2806",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_auto_2806",
+          "title": "Heating"
+        }
+      ],
+      "page": 264,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -176,7 +363,23 @@
       },
       "content": "Cooling & Dehumidification:",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_2809",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_auto_2809",
+          "title": "Cooling & Dehumidification:"
+        }
+      ],
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "page": 264,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -189,7 +392,24 @@
         "r": 524.8743489,
         "b": 311.92738599999996
       },
-      "content": "When completing compressor startup operation, it will operate as per frequency of indoor unit."
+      "content": "When completing compressor startup operation, it will operate as per frequency of indoor unit.",
+      "section_id": "sec_auto_2809",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_auto_2809",
+          "title": "Cooling & Dehumidification:"
+        }
+      ],
+      "page": 264,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -202,7 +422,24 @@
         "r": 542.1356863999999,
         "b": 296.2369699999999
       },
-      "content": "After 2 minutes, compressor operation frequency will be compensated as per relevant conditions."
+      "content": "After 2 minutes, compressor operation frequency will be compensated as per relevant conditions.",
+      "section_id": "sec_auto_2809",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_auto_2809",
+          "title": "Cooling & Dehumidification:"
+        }
+      ],
+      "page": 264,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -217,7 +454,23 @@
       },
       "content": "Compressor Frequency Increase/Decrease Speed",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_2812",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_auto_2812",
+          "title": "Compressor Frequency Increase/Decrease Speed"
+        }
+      ],
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "page": 264,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -230,7 +483,24 @@
         "r": 377.32834310000004,
         "b": 233.97629459999996
       },
-      "content": "Rapid Frequency Increase/Decrease Speed 1 ----------1Hz/s"
+      "content": "Rapid Frequency Increase/Decrease Speed 1 ----------1Hz/s",
+      "section_id": "sec_auto_2812",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_auto_2812",
+          "title": "Compressor Frequency Increase/Decrease Speed"
+        }
+      ],
+      "page": 264,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -243,7 +513,24 @@
         "r": 392.19030021999953,
         "b": 218.3854308
       },
-      "content": "Slow Frequency Increase/Decrease Speed 2 -----------1Hz/10s"
+      "content": "Slow Frequency Increase/Decrease Speed 2 -----------1Hz/10s",
+      "section_id": "sec_auto_2812",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_auto_2812",
+          "title": "Compressor Frequency Increase/Decrease Speed"
+        }
+      ],
+      "page": 264,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

@@ -22,7 +22,24 @@
       "width": 47,
       "height": 22,
       "decorative": true,
-      "image_hash": "7577891dcf1743bd2e7a735ef2621e01244d960bde43e28868c27d7c1437ddb9"
+      "image_hash": "7577891dcf1743bd2e7a735ef2621e01244d960bde43e28868c27d7c1437ddb9",
+      "section_id": "sec_auto_227",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_auto_227",
+          "title": "Unloading"
+        }
+      ],
+      "page": 24,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -37,7 +54,24 @@
       },
       "content": "2.7    Electrical system",
       "level": 2,
-      "role": "section"
+      "section_number": "2.7",
+      "section_id": "sec_2_7",
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_2_7",
+          "title": "2.7    Electrical system"
+        }
+      ],
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "page": 24,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -52,7 +86,23 @@
       },
       "content": "General",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_239",
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_auto_239",
+          "title": "General"
+        }
+      ],
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "page": 24,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -65,7 +115,24 @@
         "r": 364.47819999999956,
         "b": 700.6841000000001
       },
-      "content": "Also consult sections Electrical diagrams and Electrical connections."
+      "content": "Also consult sections Electrical diagrams and Electrical connections.",
+      "section_id": "sec_auto_239",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_auto_239",
+          "title": "General"
+        }
+      ],
+      "page": 24,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -80,7 +147,23 @@
       },
       "content": "Electrical components",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_241",
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_auto_241",
+          "title": "Electrical components"
+        }
+      ],
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "page": 24,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -93,7 +176,24 @@
         "r": 305.2585999999998,
         "b": 646.7434000000001
       },
-      "content": "The electrical system comprises following components:"
+      "content": "The electrical system comprises following components:",
+      "section_id": "sec_auto_241",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_auto_241",
+          "title": "Electrical components"
+        }
+      ],
+      "page": 24,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -111,7 +211,24 @@
       "next_block_id": "txt_0186",
       "image_hash": "516afb136eba62341ac2897562de2fe53a79dffa9350c936fd625e5e12861f9b",
       "width": 365,
-      "height": 272
+      "height": 272,
+      "section_id": "sec_auto_241",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_auto_241",
+          "title": "Electrical components"
+        }
+      ],
+      "page": 24,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "caption",
@@ -125,6 +242,24 @@
         "b": 317.91999999999996
       },
       "content": "Electric  cubicle",
+      "section_id": "sec_auto_241",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_auto_241",
+          "title": "Electrical components"
+        }
+      ],
+      "page": 24,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_tbl_0012",
+      "source": "pdf_text",
       "caption_for": "tbl_0012"
     },
     {
@@ -139,9 +274,27 @@
         "b": 119.7193603515625
       },
       "markdown": "| Reference   | Designation                                                            |\n|-------------|------------------------------------------------------------------------|\n| F1/2/3      | Fuses (F3 is only provided in case a phase sequence relay is provided) |\n| F15         | Overload relay fan motor                                               |\n| F16/17/18   | Fuses                                                                  |\n| F21         | Overload relay, compressor motor                                       |\n| K21         | Line contactor                                                         |\n| K22         | Star contactor                                                         |\n| K23         | Delta contactor                                                        |\n| K25         | Phase sequence relay                                                   |",
-      "caption_id": "txt_0186",
       "rows": 9,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_auto_241",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_auto_241",
+          "title": "Electrical components"
+        }
+      ],
+      "page": 24,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "group_id": "grp_tbl_0012",
+      "source": "pdf_text",
+      "caption_id": "txt_0186"
     },
     {
       "type": "paragraph",
@@ -154,7 +307,24 @@
         "r": 169.8125452,
         "b": 346.3462983075472
       },
-      "content": "X108 X108A"
+      "content": "X108 X108A",
+      "section_id": "sec_auto_241",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_auto_241",
+          "title": "Electrical components"
+        }
+      ],
+      "page": 24,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

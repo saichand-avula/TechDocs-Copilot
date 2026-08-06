@@ -19,7 +19,20 @@
       },
       "markdown": "|   No. | Message                      | Contents                                                                                                                                                                                        |\n|-------|------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n|  4830 | ZONE: ENTERING INHIBITED 1+Y | When a safety zone check was executed, the machine moving in the positive Y direction entered area 1 into which entry is inhibited.                                                             |\n|  4831 | ZONE: ENTERING INHIBITED 1-Y | When a safety zone check was executed, the machine moving in the negative Y direction entered area 1 into which entry is inhibited.                                                             |\n|  4832 | ZONE ENTERING INHIBITED 2+Y  | When a safety zone check was executed, the machine moving in the positive Y direction entered area 2 into which entry is inhibited.                                                             |\n|  4833 | ZONE: ENTERING INHIBITED 2-Y | When a safety zone check was executed, the machine moving in the negative Y direction entered area 2 into which entry is inhibited.                                                             |\n|  4834 | ZONE ENTERING INHIBITED 3+Y  | When a safety zone check was executed, the machine moving in the positive Y direction entered area 3 into which entry is inhibited.                                                             |\n|  4835 | ZONE: ENTERING INHIBITED 3-Y | When a safety zone check was executed, the machine moving in the negative Y direction entered area 3 into which entry is inhibited.                                                             |\n|  4836 | ZONE ENTERING INHIBITED 4+Y  | When a safety zone check was executed, the machine moving in the positive Y direction entered area 4 into which entry is inhibited.                                                             |\n|  4837 | ZONE: ENTERING INHIBITED 4-Y | When a safety zone check was executed, the machine moving in the negative Y direction entered area 4 into which entry is inhibited.                                                             |\n|  4870 | AUTO SETTING FEED ERROR      | The feed rate of safety zone auto setting is other than the parameter value (No.16538, No.16539)                                                                                                |\n|  4841 | AUTO SETTING PIECES ERROR    | In safety zone auto setting, the safety zone pieces are not correct. Or the position detector has gone wrong, please tell your machine tool builder.                                            |\n|  4872 | AUTO SETTING COMMAND ERROR   | M code, S code or T code is specified with safety zone auto setting command (G32). G32 is specified in the nibbling mode, in the cutter compensation, in the rotation mode or the scaling mode. |",
       "rows": 12,
-      "cols": 3
+      "cols": 3,
+      "section_id": "sec_12",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_12",
+          "title": "12)  Safety zone alarms"
+        }
+      ],
+      "page": 229,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

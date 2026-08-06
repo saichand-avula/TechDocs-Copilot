@@ -18,7 +18,20 @@
         "t": 758.55794,
         "r": 112.98355199999997,
         "b": 746.1800325524862
-      }
+      },
+      "section_id": "sec_7",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7) Over travel alarms"
+        }
+      ],
+      "page": 224,
+      "chunk_hint": "admonition",
+      "semantic_role": "note",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -32,8 +45,21 @@
         "b": 678.803144928177
       },
       "content": "8) Servo alarms(2/2)",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "8",
+      "section_id": "sec_8",
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8) Servo alarms(2/2)"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 224,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -48,7 +74,20 @@
       },
       "markdown": "|   No. | Message                          | Contents                                                                                                 |\n|-------|----------------------------------|----------------------------------------------------------------------------------------------------------|\n|   600 | n AXIS:INV.DC LINK OVER CURRENT  | DC link current is too large.                                                                            |\n|   601 | n AXIS:INV.RADIATOR FAN FAILURE  | The external dissipator stirring fan failed.                                                             |\n|   602 | n AXIS: OVERHEAT                 | The servo amplifier was overheated.                                                                      |\n|   603 | n AXIS:INV.IPM ALARM (OH)        | The IPM (intelligent power module) detected an overheat alarm.                                           |\n|   604 | n AXIS: AMP. COMMUNICATION ERROR | Communication between the SVM and the PSM failed.                                                        |\n|   605 | n AXIS:CNV.EX. DISCHARGE POW     | SPMR : Regenerative power is too large.                                                                  |\n|   606 | n AXIS:CNV.RADIATOR FAN FAILURE  | SPM : The external dissipator stirring fan failed. SPMR : The external dissipator stirring fan failed.   |\n|   607 | n AXIS:CNV. SINGLE PHASE FAILURE | PSM : Input voltage is in the open-phase condition. PSMR : Input voltage is in the open-phase condition. |",
       "rows": 9,
-      "cols": 3
+      "cols": 3,
+      "section_id": "sec_8",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8) Servo alarms(2/2)"
+        }
+      ],
+      "page": 224,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -62,8 +101,21 @@
         "b": 350.84304892817676
       },
       "content": "9) Overheat alarms",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "9",
+      "section_id": "sec_9",
+      "section_path": [
+        {
+          "id": "sec_9",
+          "title": "9) Overheat alarms"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 224,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -78,7 +130,20 @@
       },
       "markdown": "|   No. | Message                 | Contents                                                                                                                                                                                                           |\n|-------|-------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n|   700 | OVERHEAT : CONTROL UNIT | Control unit overheat. Check that the fan motor operates normally, and clean the air filer.                                                                                                                        |\n|   701 | OVERHEAT : FAN MOTOR    | The fan motor on the top of the cabinet for the control unit is overheated. Check the operation of the fan motor and replace the motor if necessary.                                                               |\n|   704 | OVERHEAT : SPINDLE      | Spindle overheat in the spindle fluctuation detection. 1. If the cutting load is heavy, relive the cutting condition. 2. Check whether the cutting tool is share. 3. Another possible cause is faulty spindle amp. |",
       "rows": 4,
-      "cols": 3
+      "cols": 3,
+      "section_id": "sec_9",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_9",
+          "title": "9) Overheat alarms"
+        }
+      ],
+      "page": 224,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

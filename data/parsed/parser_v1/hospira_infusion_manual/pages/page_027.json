@@ -21,7 +21,20 @@
       "next_block_id": "txt_0149",
       "image_hash": "ffb8113da02deae7e1d7c1a381c00c58c6bac8e43a49063bd79c009602d7519c",
       "width": 67,
-      "height": 29
+      "height": 29,
+      "section_id": "sec_auto_169",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_169",
+          "title": "SYSTEM OPERATING MANUAL"
+        }
+      ],
+      "page": 27,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -36,7 +49,19 @@
       },
       "content": "Section 4",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_173",
+      "section_path": [
+        {
+          "id": "sec_auto_173",
+          "title": "Section 4"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 2,
+      "page": 27,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -51,7 +76,19 @@
       },
       "content": "THEORY OF OPERATION",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_174",
+      "section_path": [
+        {
+          "id": "sec_auto_174",
+          "title": "THEORY OF OPERATION"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 2,
+      "page": 27,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -64,7 +101,20 @@
         "r": 539.9962471236998,
         "b": 588.527884784033
       },
-      "content": "This section describes the Plum A+ ®  theory of operation. The theory of operation details the  general  description,  electronic  subsystem  overview,  printed  wiring  assemblies, remote mounted peripherals, and mechanical overview of the infuser. Related drawings are provided in Section 9 ."
+      "content": "This section describes the Plum A+ ®  theory of operation. The theory of operation details the  general  description,  electronic  subsystem  overview,  printed  wiring  assemblies, remote mounted peripherals, and mechanical overview of the infuser. Related drawings are provided in Section 9 .",
+      "section_id": "sec_auto_174",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_174",
+          "title": "THEORY OF OPERATION"
+        }
+      ],
+      "page": 27,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -79,7 +129,20 @@
       },
       "content": "4.1 GENERAL DESCRIPTION",
       "level": 2,
-      "role": "section"
+      "section_number": "4.1",
+      "section_id": "sec_4_1",
+      "section_path": [
+        {
+          "id": "sec_4_1",
+          "title": "4.1 GENERAL DESCRIPTION"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 2,
+      "page": 27,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -92,7 +155,20 @@
         "r": 362.15256317300043,
         "b": 505.6073349280328
       },
-      "content": "The infusion system includes the following features:"
+      "content": "The infusion system includes the following features:",
+      "section_id": "sec_4_1",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4_1",
+          "title": "4.1 GENERAL DESCRIPTION"
+        }
+      ],
+      "page": 27,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -105,7 +181,20 @@
         "r": 206.96654376389998,
         "b": 483.6475048800328
       },
-      "content": "Dose calculation"
+      "content": "Dose calculation",
+      "section_id": "sec_4_1",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4_1",
+          "title": "4.1 GENERAL DESCRIPTION"
+        }
+      ],
+      "page": 27,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -118,7 +207,20 @@
         "r": 189.88711861590002,
         "b": 466.18750774993276
       },
-      "content": "Loading dose"
+      "content": "Loading dose",
+      "section_id": "sec_4_1",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4_1",
+          "title": "4.1 GENERAL DESCRIPTION"
+        }
+      ],
+      "page": 27,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -131,7 +233,20 @@
         "r": 244.90521785489975,
         "b": 448.72751061983274
       },
-      "content": "Multi-step programming"
+      "content": "Multi-step programming",
+      "section_id": "sec_4_1",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4_1",
+          "title": "4.1 GENERAL DESCRIPTION"
+        }
+      ],
+      "page": 27,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -144,7 +259,20 @@
         "r": 211.70013811649991,
         "b": 431.3274727499327
       },
-      "content": "Therapy selection"
+      "content": "Therapy selection",
+      "section_id": "sec_4_1",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4_1",
+          "title": "4.1 GENERAL DESCRIPTION"
+        }
+      ],
+      "page": 27,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -157,7 +285,20 @@
         "r": 175.12339579289997,
         "b": 413.8674756198327
       },
-      "content": "-Nurse call"
+      "content": "-Nurse call",
+      "section_id": "sec_4_1",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4_1",
+          "title": "4.1 GENERAL DESCRIPTION"
+        }
+      ],
+      "page": 27,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -170,7 +311,20 @@
         "r": 227.14542442380028,
         "b": 396.4074784897327
       },
-      "content": "-Delayed start setting"
+      "content": "-Delayed start setting",
+      "section_id": "sec_4_1",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4_1",
+          "title": "4.1 GENERAL DESCRIPTION"
+        }
+      ],
+      "page": 27,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -183,7 +337,20 @@
         "r": 196.12806088189996,
         "b": 379.00744061983266
       },
-      "content": "Standby mode"
+      "content": "Standby mode",
+      "section_id": "sec_4_1",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4_1",
+          "title": "4.1 GENERAL DESCRIPTION"
+        }
+      ],
+      "page": 27,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -196,7 +363,20 @@
         "r": 212.31506913390004,
         "b": 361.54744348973264
       },
-      "content": "-Drug label library"
+      "content": "-Drug label library",
+      "section_id": "sec_4_1",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4_1",
+          "title": "4.1 GENERAL DESCRIPTION"
+        }
+      ],
+      "page": 27,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -209,7 +389,20 @@
         "r": 253.53337531770035,
         "b": 332.6871193135326
       },
-      "content": "Piggyback and concurrent delivery modes"
+      "content": "Piggyback and concurrent delivery modes",
+      "section_id": "sec_4_1",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4_1",
+          "title": "4.1 GENERAL DESCRIPTION"
+        }
+      ],
+      "page": 27,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -222,7 +415,20 @@
         "r": 168.1683208098999,
         "b": 315.2271221834326
       },
-      "content": "-Titration"
+      "content": "-Titration",
+      "section_id": "sec_4_1",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4_1",
+          "title": "4.1 GENERAL DESCRIPTION"
+        }
+      ],
+      "page": 27,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -235,7 +441,20 @@
         "r": 253.66763625250027,
         "b": 274.9068105012325
       },
-      "content": "0.1-99.9 mL/hr flow rate range for both lines (in 0.1 mL/hr increments)"
+      "content": "0.1-99.9 mL/hr flow rate range for both lines (in 0.1 mL/hr increments)",
+      "section_id": "sec_4_1",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4_1",
+          "title": "4.1 GENERAL DESCRIPTION"
+        }
+      ],
+      "page": 27,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -248,7 +467,20 @@
         "r": 247.88326084489995,
         "b": 234.5864988190326
       },
-      "content": "100-999 mL/hr flow rate range for both lines (in 1 mL/hr increments)"
+      "content": "100-999 mL/hr flow rate range for both lines (in 1 mL/hr increments)",
+      "section_id": "sec_4_1",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4_1",
+          "title": "4.1 GENERAL DESCRIPTION"
+        }
+      ],
+      "page": 27,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -261,7 +493,20 @@
         "r": 243.49507963910003,
         "b": 217.12650168893254
       },
-      "content": "-Anti free-flow protection"
+      "content": "-Anti free-flow protection",
+      "section_id": "sec_4_1",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4_1",
+          "title": "4.1 GENERAL DESCRIPTION"
+        }
+      ],
+      "page": 27,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -274,7 +519,20 @@
         "r": 249.38154514920024,
         "b": 199.66650455883257
       },
-      "content": "Air removal/backpriming"
+      "content": "Air removal/backpriming",
+      "section_id": "sec_4_1",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4_1",
+          "title": "4.1 GENERAL DESCRIPTION"
+        }
+      ],
+      "page": 27,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -287,7 +545,20 @@
         "r": 193.52152626490002,
         "b": 182.2664666889326
       },
-      "content": "Battery gauge"
+      "content": "Battery gauge",
+      "section_id": "sec_4_1",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4_1",
+          "title": "4.1 GENERAL DESCRIPTION"
+        }
+      ],
+      "page": 27,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -300,7 +571,20 @@
         "r": 508.11202771850014,
         "b": 483.6464092789326
       },
-      "content": "-Air detection (proximal and distal)"
+      "content": "-Air detection (proximal and distal)",
+      "section_id": "sec_4_1",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4_1",
+          "title": "4.1 GENERAL DESCRIPTION"
+        }
+      ],
+      "page": 27,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -313,7 +597,20 @@
         "r": 449.0964784659997,
         "b": 466.1864121488326
       },
-      "content": "Serial communication"
+      "content": "Serial communication",
+      "section_id": "sec_4_1",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4_1",
+          "title": "4.1 GENERAL DESCRIPTION"
+        }
+      ],
+      "page": 27,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -326,7 +623,20 @@
         "r": 408.521389728,
         "b": 448.72641501873255
       },
-      "content": "Alarm history"
+      "content": "Alarm history",
+      "section_id": "sec_4_1",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4_1",
+          "title": "4.1 GENERAL DESCRIPTION"
+        }
+      ],
+      "page": 27,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -339,7 +649,20 @@
         "r": 440.6579595936004,
         "b": 419.86638964283253
       },
-      "content": "Volumes infused (A, B, total volumes)"
+      "content": "Volumes infused (A, B, total volumes)",
+      "section_id": "sec_4_1",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4_1",
+          "title": "4.1 GENERAL DESCRIPTION"
+        }
+      ],
+      "page": 27,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -352,7 +675,20 @@
         "r": 509.1233671338993,
         "b": 379.5460779606325
       },
-      "content": "KVO at dose end (1 mL/hr or less depending on delivery rate) or continue rate to continue"
+      "content": "KVO at dose end (1 mL/hr or less depending on delivery rate) or continue rate to continue",
+      "section_id": "sec_4_1",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4_1",
+          "title": "4.1 GENERAL DESCRIPTION"
+        }
+      ],
+      "page": 27,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -365,7 +701,20 @@
         "r": 494.4570532087005,
         "b": 362.08608083053247
       },
-      "content": "-Variable distal pressure setting"
+      "content": "-Variable distal pressure setting",
+      "section_id": "sec_4_1",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4_1",
+          "title": "4.1 GENERAL DESCRIPTION"
+        }
+      ],
+      "page": 27,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -378,7 +727,20 @@
         "r": 505.2739228690005,
         "b": 344.68604296063245
       },
-      "content": "Nonpulsatile volumetric accuracy"
+      "content": "Nonpulsatile volumetric accuracy",
+      "section_id": "sec_4_1",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4_1",
+          "title": "4.1 GENERAL DESCRIPTION"
+        }
+      ],
+      "page": 27,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -391,7 +753,20 @@
         "r": 453.6738998618,
         "b": 327.2260458305324
       },
-      "content": "Microprocessor control"
+      "content": "Microprocessor control",
+      "section_id": "sec_4_1",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4_1",
+          "title": "4.1 GENERAL DESCRIPTION"
+        }
+      ],
+      "page": 27,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -404,7 +779,20 @@
         "r": 406.7384483378999,
         "b": 309.7660487004324
       },
-      "content": "-Large display"
+      "content": "-Large display",
+      "section_id": "sec_4_1",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4_1",
+          "title": "4.1 GENERAL DESCRIPTION"
+        }
+      ],
+      "page": 27,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -417,7 +805,20 @@
         "r": 458.10759831329966,
         "b": 280.90572452423237
       },
-      "content": "Panel back illumination on mains power"
+      "content": "Panel back illumination on mains power",
+      "section_id": "sec_4_1",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4_1",
+          "title": "4.1 GENERAL DESCRIPTION"
+        }
+      ],
+      "page": 27,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -430,7 +831,20 @@
         "r": 415.9396051759998,
         "b": 263.4457273941323
       },
-      "content": "Lockout switch"
+      "content": "Lockout switch",
+      "section_id": "sec_4_1",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4_1",
+          "title": "4.1 GENERAL DESCRIPTION"
+        }
+      ],
+      "page": 27,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -443,7 +857,20 @@
         "r": 502.29886788199923,
         "b": 234.58540321793237
       },
-      "content": "-Standard fullfill, partfill, syringe, and vial use"
+      "content": "-Standard fullfill, partfill, syringe, and vial use",
+      "section_id": "sec_4_1",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4_1",
+          "title": "4.1 GENERAL DESCRIPTION"
+        }
+      ],
+      "page": 27,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -456,7 +883,20 @@
         "r": 519.4047866566001,
         "b": 217.1254060878324
       },
-      "content": "-Enteral and parenteral fluid delivery"
+      "content": "-Enteral and parenteral fluid delivery",
+      "section_id": "sec_4_1",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4_1",
+          "title": "4.1 GENERAL DESCRIPTION"
+        }
+      ],
+      "page": 27,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -469,7 +909,20 @@
         "r": 503.4253450130006,
         "b": 199.66540895773244
       },
-      "content": "Blood and blood product delivery"
+      "content": "Blood and blood product delivery",
+      "section_id": "sec_4_1",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4_1",
+          "title": "4.1 GENERAL DESCRIPTION"
+        }
+      ],
+      "page": 27,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -482,7 +935,20 @@
         "r": 526.7223064035005,
         "b": 170.80538358183242
       },
-      "content": "-Wide range of standard and specialty administration sets"
+      "content": "-Wide range of standard and specialty administration sets",
+      "section_id": "sec_4_1",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4_1",
+          "title": "4.1 GENERAL DESCRIPTION"
+        }
+      ],
+      "page": 27,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

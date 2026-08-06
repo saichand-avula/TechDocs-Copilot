@@ -18,8 +18,29 @@
         "b": 712.4328447886094
       },
       "content": "4.4.1 Enter Maintenance Mode (Single UPS unit)",
-      "level": 2,
-      "role": "section"
+      "level": 3,
+      "section_number": "4.4.1",
+      "section_id": "sec_4_4_1",
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        },
+        {
+          "id": "sec_4_4",
+          "title": "4.4 Maintenance Bypass"
+        },
+        {
+          "id": "sec_4_4_1",
+          "title": "4.4.1 Enter Maintenance Mode (Single UPS unit)"
+        }
+      ],
+      "parent_section_id": "sec_4_4",
+      "section_level": 3,
+      "page": 48,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -32,7 +53,28 @@
         "r": 541.2767999999995,
         "b": 668.156101363195
       },
-      "content": "The following operating step can switch the load from status of UPS power supply protection to status that maintenance bypass switch is connected with AC input bypass power directly."
+      "content": "The following operating step can switch the load from status of UPS power supply protection to status that maintenance bypass switch is connected with AC input bypass power directly.",
+      "section_id": "sec_4_4_1",
+      "parent_section_id": "sec_4_4",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        },
+        {
+          "id": "sec_4_4",
+          "title": "4.4 Maintenance Bypass"
+        },
+        {
+          "id": "sec_4_4_1",
+          "title": "4.4.1 Enter Maintenance Mode (Single UPS unit)"
+        }
+      ],
+      "page": 48,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -50,7 +92,28 @@
       "next_block_id": "txt_0417",
       "width": 21,
       "height": 20,
-      "image_hash": "85784b53a9c3f514741006f366b9e77d248e6246f93d2bb1dabd8ed356ac187d"
+      "image_hash": "85784b53a9c3f514741006f366b9e77d248e6246f93d2bb1dabd8ed356ac187d",
+      "section_id": "sec_4_4_1",
+      "parent_section_id": "sec_4_4",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        },
+        {
+          "id": "sec_4_4",
+          "title": "4.4 Maintenance Bypass"
+        },
+        {
+          "id": "sec_4_4_1",
+          "title": "4.4.1 Enter Maintenance Mode (Single UPS unit)"
+        }
+      ],
+      "page": 48,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -63,7 +126,28 @@
         "r": 541.61568,
         "b": 590.156101363195
       },
-      "content": "Click set icon ' ' in main interface and menu of 'advanced setting' (enter right password), then click  to  enter  'mode  setting',  and  then  press  'YES'  to  enter  the  current  mode.  Click  to  enter 'basic parameter' setting, and press 'Manual Byp', select 'ON', and then press 'YES'. At this time, UPS can provide power supply to the load through static bypass."
+      "content": "Click set icon ' ' in main interface and menu of 'advanced setting' (enter right password), then click  to  enter  'mode  setting',  and  then  press  'YES'  to  enter  the  current  mode.  Click  to  enter 'basic parameter' setting, and press 'Manual Byp', select 'ON', and then press 'YES'. At this time, UPS can provide power supply to the load through static bypass.",
+      "section_id": "sec_4_4_1",
+      "parent_section_id": "sec_4_4",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        },
+        {
+          "id": "sec_4_4",
+          "title": "4.4 Maintenance Bypass"
+        },
+        {
+          "id": "sec_4_4_1",
+          "title": "4.4.1 Enter Maintenance Mode (Single UPS unit)"
+        }
+      ],
+      "page": 48,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -76,7 +160,28 @@
         "r": 541.2316799999993,
         "b": 558.926101363195
       },
-      "content": "Manually close the maintenance switch. At this time, power supply of load is provided by power supply of both maintenance bypass and UPS static bypass."
+      "content": "Manually close the maintenance switch. At this time, power supply of load is provided by power supply of both maintenance bypass and UPS static bypass.",
+      "section_id": "sec_4_4_1",
+      "parent_section_id": "sec_4_4",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        },
+        {
+          "id": "sec_4_4",
+          "title": "4.4 Maintenance Bypass"
+        },
+        {
+          "id": "sec_4_4_1",
+          "title": "4.4.1 Enter Maintenance Mode (Single UPS unit)"
+        }
+      ],
+      "page": 48,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -89,7 +194,28 @@
         "r": 506.21567999999996,
         "b": 434.126101363195
       },
-      "content": "Manually disconnect the rectifier switch, bypass switch, battery switch, and output switch."
+      "content": "Manually disconnect the rectifier switch, bypass switch, battery switch, and output switch.",
+      "section_id": "sec_4_4_1",
+      "parent_section_id": "sec_4_4",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        },
+        {
+          "id": "sec_4_4",
+          "title": "4.4 Maintenance Bypass"
+        },
+        {
+          "id": "sec_4_4_1",
+          "title": "4.4.1 Enter Maintenance Mode (Single UPS unit)"
+        }
+      ],
+      "page": 48,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -102,7 +228,28 @@
         "r": 541.5793599999998,
         "b": 371.706101363195
       },
-      "content": "At this time, the operation of switching UPS output to maintenance bypass has been finished, power  supply  of  load  is  provided  by  maintenance  bypass,  fan  stops,  and  UPS  is  turned  off completely. When the BUS voltage is lower than 36 V, daily maintenance or repair can be done by maintenance personnel, but the load device has no protection if AC power is abnormal."
+      "content": "At this time, the operation of switching UPS output to maintenance bypass has been finished, power  supply  of  load  is  provided  by  maintenance  bypass,  fan  stops,  and  UPS  is  turned  off completely. When the BUS voltage is lower than 36 V, daily maintenance or repair can be done by maintenance personnel, but the load device has no protection if AC power is abnormal.",
+      "section_id": "sec_4_4_1",
+      "parent_section_id": "sec_4_4",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        },
+        {
+          "id": "sec_4_4",
+          "title": "4.4 Maintenance Bypass"
+        },
+        {
+          "id": "sec_4_4_1",
+          "title": "4.4.1 Enter Maintenance Mode (Single UPS unit)"
+        }
+      ],
+      "page": 48,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -115,7 +262,28 @@
         "r": 541.6041600000001,
         "b": 455.24610136319495
       },
-      "content": "Click On/Off icon ' ' in main interface, select option of 'OFF' and press 'YES' to turn off the UPS. Or keyboard operation can be used: press 'OFF' on the panel for more than 1 s, press switch button ' ' to switch to keyboard operation mode, press up ' 'and down ' ' to select option of 'OFF', and then press ' ' to confirm and turn off the UPS."
+      "content": "Click On/Off icon ' ' in main interface, select option of 'OFF' and press 'YES' to turn off the UPS. Or keyboard operation can be used: press 'OFF' on the panel for more than 1 s, press switch button ' ' to switch to keyboard operation mode, press up ' 'and down ' ' to select option of 'OFF', and then press ' ' to confirm and turn off the UPS.",
+      "section_id": "sec_4_4_1",
+      "parent_section_id": "sec_4_4",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        },
+        {
+          "id": "sec_4_4",
+          "title": "4.4 Maintenance Bypass"
+        },
+        {
+          "id": "sec_4_4_1",
+          "title": "4.4.1 Enter Maintenance Mode (Single UPS unit)"
+        }
+      ],
+      "page": 48,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -129,8 +297,29 @@
         "b": 343.14284478860935
       },
       "content": "4.4.2 Exit Maintenance Mode (Single UPS unit)",
-      "level": 2,
-      "role": "section"
+      "level": 3,
+      "section_number": "4.4.2",
+      "section_id": "sec_4_4_2",
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        },
+        {
+          "id": "sec_4_4",
+          "title": "4.4 Maintenance Bypass"
+        },
+        {
+          "id": "sec_4_4_2",
+          "title": "4.4.2 Exit Maintenance Mode (Single UPS unit)"
+        }
+      ],
+      "parent_section_id": "sec_4_4",
+      "section_level": 3,
+      "page": 48,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -143,7 +332,28 @@
         "r": 541.1923199999998,
         "b": 298.98610136319496
       },
-      "content": "After  maintenance  is  completed,  the  load  can  be  converted  from  status  of  no  AC  power  fault protection to status of UPS power supply protection by the following operating steps."
+      "content": "After  maintenance  is  completed,  the  load  can  be  converted  from  status  of  no  AC  power  fault protection to status of UPS power supply protection by the following operating steps.",
+      "section_id": "sec_4_4_2",
+      "parent_section_id": "sec_4_4",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        },
+        {
+          "id": "sec_4_4",
+          "title": "4.4 Maintenance Bypass"
+        },
+        {
+          "id": "sec_4_4_2",
+          "title": "4.4.2 Exit Maintenance Mode (Single UPS unit)"
+        }
+      ],
+      "page": 48,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -156,7 +366,28 @@
         "r": 541.2411199999997,
         "b": 267.78610136319503
       },
-      "content": "Carefully check whether there is any object left in UPS cabinet, and whether internal connecting wire of UPS has recovered to status before maintenance."
+      "content": "Carefully check whether there is any object left in UPS cabinet, and whether internal connecting wire of UPS has recovered to status before maintenance.",
+      "section_id": "sec_4_4_2",
+      "parent_section_id": "sec_4_4",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        },
+        {
+          "id": "sec_4_4",
+          "title": "4.4 Maintenance Bypass"
+        },
+        {
+          "id": "sec_4_4_2",
+          "title": "4.4.2 Exit Maintenance Mode (Single UPS unit)"
+        }
+      ],
+      "page": 48,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -169,7 +400,28 @@
         "r": 517.95648,
         "b": 241.26610136319493
       },
-      "content": "Close the rectifier input switch. After liquid crystal display become normal, click On/Off icon '"
+      "content": "Close the rectifier input switch. After liquid crystal display become normal, click On/Off icon '",
+      "section_id": "sec_4_4_2",
+      "parent_section_id": "sec_4_4",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        },
+        {
+          "id": "sec_4_4",
+          "title": "4.4 Maintenance Bypass"
+        },
+        {
+          "id": "sec_4_4_2",
+          "title": "4.4.2 Exit Maintenance Mode (Single UPS unit)"
+        }
+      ],
+      "page": 48,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -182,7 +434,28 @@
         "r": 541.61566,
         "b": 241.26610136319493
       },
-      "content": "'"
+      "content": "'",
+      "section_id": "sec_4_4_2",
+      "parent_section_id": "sec_4_4",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        },
+        {
+          "id": "sec_4_4",
+          "title": "4.4 Maintenance Bypass"
+        },
+        {
+          "id": "sec_4_4_2",
+          "title": "4.4.2 Exit Maintenance Mode (Single UPS unit)"
+        }
+      ],
+      "page": 48,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -200,7 +473,28 @@
       "next_block_id": "txt_0427",
       "width": 23,
       "height": 18,
-      "image_hash": "649db008b3afd4bb214547bb4cce9639562c087d649ee2a74bad531838c33ec7"
+      "image_hash": "649db008b3afd4bb214547bb4cce9639562c087d649ee2a74bad531838c33ec7",
+      "section_id": "sec_4_4_2",
+      "parent_section_id": "sec_4_4",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        },
+        {
+          "id": "sec_4_4",
+          "title": "4.4 Maintenance Bypass"
+        },
+        {
+          "id": "sec_4_4_2",
+          "title": "4.4.2 Exit Maintenance Mode (Single UPS unit)"
+        }
+      ],
+      "page": 48,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -213,7 +507,28 @@
         "r": 541.5140799999999,
         "b": 174.15610136319492
       },
-      "content": "in main interface, select 'ON', and then press 'YES'. Or use button operation: start up the UPS by pressing 'ON' on panel for more than 1 s. Observe whether the UPS rectifier and inverter is working properly. If it is normal, continue the following steps; if not, please turn off the UPS and disconnect the rectifier input switch, and then continue the maintenance."
+      "content": "in main interface, select 'ON', and then press 'YES'. Or use button operation: start up the UPS by pressing 'ON' on panel for more than 1 s. Observe whether the UPS rectifier and inverter is working properly. If it is normal, continue the following steps; if not, please turn off the UPS and disconnect the rectifier input switch, and then continue the maintenance.",
+      "section_id": "sec_4_4_2",
+      "parent_section_id": "sec_4_4",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        },
+        {
+          "id": "sec_4_4",
+          "title": "4.4 Maintenance Bypass"
+        },
+        {
+          "id": "sec_4_4_2",
+          "title": "4.4.2 Exit Maintenance Mode (Single UPS unit)"
+        }
+      ],
+      "page": 48,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -226,7 +541,28 @@
         "r": 482.91568,
         "b": 158.556101363195
       },
-      "content": "Close the bypass input switch after normal operation of rectifier and inverter of UPS."
+      "content": "Close the bypass input switch after normal operation of rectifier and inverter of UPS.",
+      "section_id": "sec_4_4_2",
+      "parent_section_id": "sec_4_4",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        },
+        {
+          "id": "sec_4_4",
+          "title": "4.4 Maintenance Bypass"
+        },
+        {
+          "id": "sec_4_4_2",
+          "title": "4.4.2 Exit Maintenance Mode (Single UPS unit)"
+        }
+      ],
+      "page": 48,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -239,7 +575,28 @@
         "r": 541.5907200000004,
         "b": 123.87610136319495
       },
-      "content": "Check whether the manual bypass enable (Manual Bypass) is ON or not in set menu ' ', if not, set it to be 'ON'."
+      "content": "Check whether the manual bypass enable (Manual Bypass) is ON or not in set menu ' ', if not, set it to be 'ON'.",
+      "section_id": "sec_4_4_2",
+      "parent_section_id": "sec_4_4",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        },
+        {
+          "id": "sec_4_4",
+          "title": "4.4 Maintenance Bypass"
+        },
+        {
+          "id": "sec_4_4_2",
+          "title": "4.4.2 Exit Maintenance Mode (Single UPS unit)"
+        }
+      ],
+      "page": 48,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -252,7 +609,28 @@
         "r": 541.3671199999995,
         "b": 94.24010136319498
       },
-      "content": "Switch on output switch. At this time, power supply of load is provided by power supply of both maintenance bypass and UPS static bypass."
+      "content": "Switch on output switch. At this time, power supply of load is provided by power supply of both maintenance bypass and UPS static bypass.",
+      "section_id": "sec_4_4_2",
+      "parent_section_id": "sec_4_4",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        },
+        {
+          "id": "sec_4_4",
+          "title": "4.4 Maintenance Bypass"
+        },
+        {
+          "id": "sec_4_4_2",
+          "title": "4.4.2 Exit Maintenance Mode (Single UPS unit)"
+        }
+      ],
+      "page": 48,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

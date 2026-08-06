@@ -76,8 +76,12 @@ _ADMONITION_HEADER_RE = re.compile(
 # Procedure step: content starts with a number followed by . or )
 _PROCEDURE_RE = re.compile(r"^\d{1,2}[.)]\s+")
 
-# Heading role thresholds
-_HEADING_ROLES = {1: "chapter", 2: "section", 3: "subsection"}
+# Heading role thresholds (removed: role now NOT derived from level for headings)
+# _HEADING_ROLES kept only for list_item/admonition — headings use section hierarchy instead.
+
+# Section-number regex — extracts numeric prefix from heading content
+# e.g. "5.2.1 Outdoor Unit..." → "5.2.1" (2 dots → level 3)
+_SECTION_NUM_RE = re.compile(r"^(\d+(?:\.\d+)*)\b")
 
 # URL / reference detection (Fix 4 — extended to www. prefix)
 _URL_RE = re.compile(r"^(?:https?://|www\.)\S+", re.IGNORECASE)
@@ -142,34 +146,44 @@ class PostProcessor:
         fig_meta = self._load_figure_meta(figs_dir)
 
         stats: Dict[str, int] = {
-            "pages_processed":       0,
-            # Pass 0 — Fix 2
-            "admonitions_merged":    0,
-            # Pass 1 — Fix 1
-            "toc_tables":            0,
+            "pages_processed":          0,
+            # Pass 0  — Fix 2
+            "admonitions_merged":        0,
+            # Pass 0.5 — Heading levels
+            "heading_levels_fixed":      0,
+            # Pass 1  — Fix 1
+            "toc_tables":               0,
             # Pass 2
-            "captions_detected":     0,
-            "admonitions_detected":  0,
-            "heading_roles":         0,
-            "procedure_steps":       0,
+            "captions_detected":         0,
+            "admonitions_detected":      0,
+            "heading_roles":             0,
+            "procedure_steps":           0,
+            # Pass 2.5 — Section hierarchy
+            "section_paths_written":     0,
             # Pass 3
-            "captions_linked":       0,
-            # Pass 4 — Fix 3
-            "decorative_figures":    0,
-            "captions_reassigned":   0,
-            # Pass 5 — Fix 4
-            "references":            0,
-            # Pass 6 — Fix 6
-            "table_titles":          0,
-            # Pass 7 — Should 12/13
-            "figure_numbers":        0,
-            "table_numbers":         0,
-            # Pass 8 — Should 9
-            "table_dimensions":      0,
-            # Pass 9 — Fix 5
-            "hyperlink_hints":       0,
-            # End — Should 7/8
-            "fig_meta_backfilled":   0,
+            "captions_linked":           0,
+            # Pass 4  — Fix 3
+            "decorative_figures":        0,
+            "captions_reassigned":       0,
+            # Pass 5  — Fix 4
+            "references":                0,
+            # Pass 6  — Fix 6
+            "table_titles":              0,
+            # Pass 7  — Should 12/13
+            "figure_numbers":            0,
+            "table_numbers":             0,
+            # Pass 8  — Should 9
+            "table_dimensions":          0,
+            # Pass 9  — Fix 5
+            "hyperlink_hints":           0,
+            # Pass 10 — Chunk hints
+            "chunk_hints":               0,
+            # Pass 11 — Semantic roles
+            "semantic_roles":            0,
+            # Pass 12 — Group IDs (figure/table + caption + explanation)
+            "groups_formed":             0,
+            # End  — Should 7/8
+            "fig_meta_backfilled":        0,
         }
 
         page_files = sorted(pages_dir.glob("page_*.json"))
@@ -181,12 +195,24 @@ class PostProcessor:
         # Accumulate all enriched page data in memory for write-back passes
         all_page_data: List[Dict[str, Any]] = []
 
+        # heading_stack carries section hierarchy across pages
+        # Each entry: (level: int, section_id: str, title: str)
+        heading_stack: List[tuple] = []
+
         for pf in page_files:
             try:
                 data: Dict[str, Any] = json.loads(pf.read_text(encoding="utf-8"))
                 blocks: List[Dict]   = data.get("blocks", [])
 
-                blocks, s = self._enrich_blocks(blocks, fig_meta)
+                # Stamp page number onto every block so each block is
+                # self-contained and doesn't require the page envelope for context.
+                page_no: int = data.get("page", 0)
+                for blk in blocks:
+                    blk["page"] = page_no
+
+                blocks, s, heading_stack = self._enrich_blocks(
+                    blocks, fig_meta, heading_stack
+                )
                 _add(stats, s)
 
                 # Should 10 — write page_stats
@@ -208,18 +234,20 @@ class PostProcessor:
         self._write_table_files(output_dir / "tables", all_page_data)
 
         self.logger.info(
-            "Done — %d pages | %d TOC tables | %d admonitions merged | "
-            "%d admonitions detected | %d captions linked | "
-            "%d decorative figs | %d references | %d table titles | "
-            "%d hyperlink hints",
+            "Done — %d pages | %d heading levels fixed | %d section paths | "
+            "%d chunk hints | %d semantic roles | %d groups | "
+            "%d TOC tables | %d admonitions | %d captions linked | "
+            "%d decorative figs | %d hyperlink hints",
             stats["pages_processed"],
+            stats["heading_levels_fixed"],
+            stats["section_paths_written"],
+            stats["chunk_hints"],
+            stats["semantic_roles"],
+            stats["groups_formed"],
             stats["toc_tables"],
-            stats["admonitions_merged"],
-            stats["admonitions_detected"],
+            stats["admonitions_merged"] + stats["admonitions_detected"],
             stats["captions_linked"],
             stats["decorative_figures"],
-            stats["references"],
-            stats["table_titles"],
             stats["hyperlink_hints"],
         )
         return stats
@@ -232,11 +260,16 @@ class PostProcessor:
         self,
         blocks: List[Dict],
         fig_meta: Dict[str, Dict],
-    ) -> Tuple[List[Dict], Dict[str, int]]:
+        heading_stack: List[tuple],
+    ) -> Tuple[List[Dict], Dict[str, int], List[tuple]]:
         stats: Dict[str, int] = {}
 
-        # ── Pass 0: Merge split admonitions  (Fix 2) ───────────────────
+        # ── Pass 0: Merge split admonitions  (Fix 2) ───────────────────────
         blocks, s = self._merge_split_admonitions(blocks)
+        _add(stats, s)
+
+        # ── Pass 0.5: Fix heading levels + extract section_number/id ────────
+        s = self._fix_heading_levels(blocks)
         _add(stats, s)
 
         # ── Pass 1: TOC table detection  (Fix 1) ───────────────────────
@@ -262,16 +295,19 @@ class PostProcessor:
                     blk["severity"] = _ADMONITION_KEYWORDS.get(kw, "note")
                     stats["admonitions_detected"] = stats.get("admonitions_detected", 0) + 1
 
-            # Heading role
+            # Heading role — NOT derived from level (level carries hierarchy already)
+            # heading_roles count still tracked for stats compatibility
             if btype == "heading":
-                lvl  = blk.get("level") or 2
-                blk["role"] = _HEADING_ROLES.get(lvl, "subsection")
                 stats["heading_roles"] = stats.get("heading_roles", 0) + 1
 
             # List item role
             if btype == "list_item" and content and _PROCEDURE_RE.match(content):
                 blk["role"] = "procedure_step"
                 stats["procedure_steps"] = stats.get("procedure_steps", 0) + 1
+
+        # ── Pass 2.5: Section paths (section_id, section_path, parent_section_id) ─
+        blocks, heading_stack, s = self._build_section_paths(blocks, heading_stack)
+        _add(stats, s)
 
         # ── Pass 3: Caption ↔ figure/table linking ──────────────────────
         s = self._link_captions(blocks)
@@ -310,14 +346,30 @@ class PostProcessor:
                     blk["hyperlink_hint"] = True
                     stats["hyperlink_hints"] = stats.get("hyperlink_hints", 0) + 1
 
-        # ── End: Backfill image_hash / width / height  (Should 7/8) ────
+        # ── Pass 10: Chunk hint assignment ────────────────────────────────────
+        s = self._assign_chunk_hints(blocks)
+        _add(stats, s)
+
+        # ── Pass 11: Semantic role assignment ──────────────────────────────
+        s = self._assign_semantic_roles(blocks)
+        _add(stats, s)
+
+        # ── Pass 12: Group IDs for figure/table + caption + explanation ──────
+        s = self._assign_group_ids(blocks)
+        _add(stats, s)
+
+        # ── Stamp source provenance on every block ────────────────────────
+        for blk in blocks:
+            blk["source"] = "pdf_text"
+
+        # ── End: Backfill image_hash / width / height  (Should 7/8) ────────
         s = self._backfill_figure_meta(blocks, fig_meta)
         _add(stats, s)
 
         # ── Final: Repair dangling context links  (Bug 3B) ───────────────
         self._repair_context_links(blocks)
 
-        return blocks, stats
+        return blocks, stats, heading_stack
 
     # ------------------------------------------------------------------
     # Pass 0 — Merge split admonitions  (Fix 2)
@@ -426,6 +478,367 @@ class PostProcessor:
             stats["admonitions_merged"] += 1
 
         return merged, stats
+
+    # ------------------------------------------------------------------
+    # Pass 0.5 — Fix heading levels + extract section_number / section_id
+    # ------------------------------------------------------------------
+
+    def _fix_heading_levels(self, blocks: List[Dict]) -> Dict[str, int]:
+        """
+        Infer the real heading level from the numeric prefix in the content.
+
+        Docling's ``depth`` argument to ``iterate_items()`` does not reliably
+        reflect outline depth (it almost always yields 1 or 2, which the parser
+        clamps to ``max(2, depth) = 2``).  Marker hardcodes ``level=2`` for all
+        section headers.  Both are wrong for deeply nested documents.
+
+        This pass counts the dots in a leading section number::
+
+            "5. Functions"           →  section_number="5"     level=1
+            "5.1 Main functions"     →  section_number="5.1"   level=2
+            "5.2.1 Outdoor Unit"     →  section_number="5.2.1" level=3
+            "5.2.6.1 3 min stand-by" → section_number="5.2.6.1" level=4
+            "Compressor Startup"     →  section_number=None    level unchanged
+
+        ``section_id`` is derived from the number ("sec_5_2_1") or falls back
+        to the block's own ``id`` for unnumbered headings.
+        """
+        stats = {"heading_levels_fixed": 0}
+        for blk in blocks:
+            if blk.get("type") != "heading":
+                continue
+            # Remove stale role set by previous enrichment runs.
+            # Heading role is no longer assigned from level — level itself carries hierarchy.
+            blk.pop("role", None)
+            content = (blk.get("content") or "").strip()
+            m = _SECTION_NUM_RE.match(content)
+            if m:
+                num = m.group(1)          # e.g. "5.2.1"
+                dots = num.count(".")
+                level = dots + 1
+                blk["level"]          = level
+                blk["section_number"] = num
+                blk["section_id"]     = "sec_" + num.replace(".", "_")
+                stats["heading_levels_fixed"] += 1
+            else:
+                # No numeric prefix — generate a dedicated section id from reading_order
+                # so block IDs and section IDs remain separate concepts.
+                ro = blk.get("reading_order", blk.get("id", "x"))
+                blk.setdefault("section_id", f"sec_auto_{ro}")
+        return stats
+
+    # ------------------------------------------------------------------
+    # Pass 2.5 — Build section_path / section_id / parent_section_id /
+    #             section_level on every block (cross-page)
+    # ------------------------------------------------------------------
+
+    def _build_section_paths(
+        self,
+        blocks: List[Dict],
+        heading_stack: List[tuple],
+    ) -> Tuple[List[Dict], List[tuple], Dict[str, int]]:
+        """
+        Assign section hierarchy fields to every block in ``blocks``.
+
+        Uses a persistent ``heading_stack`` (list of ``(level, section_id, title)``
+        tuples) that is carried across page boundaries by the caller.
+
+        For **heading** blocks:
+            - Truncate stack to entries whose level < this heading's level.
+            - ``parent_section_id`` = top of the trimmed stack (or None).
+            - Push this heading onto the stack.
+            - ``section_path`` = full stack including self.
+            - ``section_id``   = own section_id (set by Pass 0.5).
+            - ``section_level``= own level.
+
+        For **all other** blocks:
+            - ``section_id``       = top of the current stack.
+            - ``parent_section_id``= second-from-top of the stack.
+            - ``section_level``    = level of the top stack entry.
+            - ``section_path``     = full current stack.
+
+        Each ``section_path`` entry is a dict ``{"id": str, "title": str}``
+        so both machine-readable IDs and human-readable titles are preserved
+        without a secondary lookup.
+        """
+        stats = {"section_paths_written": 0}
+
+        for blk in blocks:
+            btype = blk.get("type", "")
+
+            if btype == "heading":
+                lvl   = blk.get("level") or 2
+                sid   = blk.get("section_id") or blk.get("id", "")
+                title = (blk.get("content") or "").strip()
+
+                # Truncate: remove all entries with level >= this heading
+                heading_stack = [e for e in heading_stack if e[0] < lvl]
+
+                # Parent is now the top of the trimmed stack
+                parent_sid = heading_stack[-1][1] if heading_stack else None
+
+                # Push this heading
+                heading_stack.append((lvl, sid, title))
+
+                # Write fields onto the heading block
+                blk["section_path"]       = [{"id": e[1], "title": e[2]} for e in heading_stack]
+                blk["section_id"]         = sid
+                blk["parent_section_id"]  = parent_sid
+                blk["section_level"]      = lvl
+
+            else:
+                # Non-heading: inherit from the current stack
+                if heading_stack:
+                    blk["section_id"]        = heading_stack[-1][1]
+                    blk["parent_section_id"] = (
+                        heading_stack[-2][1] if len(heading_stack) >= 2 else None
+                    )
+                    blk["section_level"]     = heading_stack[-1][0]
+                    blk["section_path"]      = [
+                        {"id": e[1], "title": e[2]} for e in heading_stack
+                    ]
+
+            # Only count if section_path was actually written
+            if blk.get("section_path"):
+                stats["section_paths_written"] += 1
+
+        return blocks, heading_stack, stats
+
+    # ------------------------------------------------------------------
+    # Pass 10 — Chunk hint assignment
+    # ------------------------------------------------------------------
+
+    def _assign_chunk_hints(self, blocks: List[Dict]) -> Dict[str, int]:
+        """
+        Pre-compute a ``chunk_hint`` field on every block to guide the chunker
+        without it needing dozens of ``if block["type"] == ...`` branches.
+
+        Values
+        ------
+        ``section_heading`` — a heading block (signals a new logical section).
+        ``section_start``   — first content block directly after a heading.
+        ``continue``        — body text (paragraph / list_item / code / unknown)
+                              inside an ongoing section.
+        ``table``           — data table block.
+        ``toc``             — Table of Contents navigation block (exclude from chunks).
+        ``figure``          — image / figure block.
+        ``caption``         — caption block associated with a figure or table.
+        ``admonition``      — warning / caution / note / tip block.
+        ``reference``       — standalone URL line.
+        ``footnote``        — page footnote.
+
+        Page headers and footers do not receive a chunk_hint — they are
+        navigational and should be filtered by the chunker based on type.
+
+        This pass is idempotent: running it multiple times overwrites the
+        previous value, which is always correct.
+        """
+        stats = {"chunk_hints": 0}
+        after_heading = False
+
+        for blk in blocks:
+            btype = blk.get("type", "")
+            hint: Optional[str] = None
+
+            if btype == "heading":
+                hint = "section_heading"
+                after_heading = True
+
+            elif btype == "toc":
+                hint = "toc"
+                after_heading = False
+
+            elif btype == "table":
+                hint = "table"
+                after_heading = False
+
+            elif btype == "figure":
+                hint = "figure"
+                after_heading = False
+
+            elif btype == "caption":
+                hint = "caption"
+                # Captions do NOT reset after_heading — they accompany a figure
+                # that may itself follow a heading.
+
+            elif btype == "admonition":
+                hint = "admonition"
+                after_heading = False
+
+            elif btype == "reference":
+                hint = "reference"
+                after_heading = False
+
+            elif btype == "footnote":
+                hint = "footnote"
+                # Footnotes do not reset the section flow.
+
+            elif btype in ("page_header", "page_footer"):
+                pass   # navigational — no chunk_hint assigned
+
+            else:
+                # paragraph, list_item, code, unknown
+                if after_heading:
+                    hint = "section_start"
+                    after_heading = False
+                else:
+                    hint = "continue"
+
+            if hint is not None:
+                blk["chunk_hint"] = hint
+                stats["chunk_hints"] += 1
+
+        return stats
+
+    # ------------------------------------------------------------------
+    # Pass 11 — Semantic role assignment
+    # ------------------------------------------------------------------
+
+    def _assign_semantic_roles(self, blocks: List[Dict]) -> Dict[str, int]:
+        """
+        Assign a ``semantic_role`` field that describes the *meaning* of a block
+        beyond its structural ``type``.
+
+        Unlike ``type`` (which describes layout category) and ``chunk_hint``
+        (which guides the chunker), ``semantic_role`` answers the question:
+        *"What information does this block convey?"*
+
+        Roles are inferred deterministically from ``type``, ``severity``,
+        and the existing ``role`` field set during Pass 2.
+
+        Values
+        ------
+        ``section_heading``  — structural divider marking a new topic.
+        ``body``             — general prose / list content.
+        ``procedure_step``   — numbered or bulleted action the user must perform.
+        ``warning``          — safety warning that must not be skipped.
+        ``caution``          — caution/hazard notice.
+        ``note``             — informational note or tip.
+        ``tip``              — helpful suggestion.
+        ``important``        — important notice.
+        ``caption``          — figure or table caption.
+        ``data_table``       — structured data table.
+        ``navigation``       — TOC, page header, or page footer.
+        ``figure``           — image or diagram.
+        ``reference``        — standalone URL or citation.
+        ``footnote``         — page footnote.
+        ``code``             — code listing.
+        ``unknown``          — block the parser could not classify.
+        """
+        stats = {"semantic_roles": 0}
+        for blk in blocks:
+            btype = blk.get("type", "")
+
+            if btype == "heading":
+                role = "section_heading"
+
+            elif btype == "admonition":
+                # Severity was set in Pass 2; default to "note" if missing.
+                role = blk.get("severity", "note")
+
+            elif btype == "caption":
+                role = "caption"
+
+            elif btype == "reference":
+                role = "reference"
+
+            elif btype == "footnote":
+                role = "footnote"
+
+            elif btype in ("toc", "page_header", "page_footer"):
+                role = "navigation"
+
+            elif btype == "table":
+                role = "data_table"
+
+            elif btype == "figure":
+                role = "figure"
+
+            elif btype == "code":
+                role = "code"
+
+            elif btype == "unknown":
+                role = "unknown"
+
+            elif btype in ("paragraph", "list_item"):
+                # Use the existing role field set in Pass 2 for procedure_steps.
+                # chunk_hint is already set (Pass 10 runs before Pass 11), so
+                # we can distinguish the intro paragraph of a section from body.
+                if blk.get("role") == "procedure_step":
+                    role = "procedure_step"
+                elif blk.get("chunk_hint") == "section_start":
+                    # First content block after a heading — it introduces the section.
+                    role = "overview"
+                else:
+                    role = "description"
+            else:
+                role = "description"
+
+            blk["semantic_role"] = role
+            stats["semantic_roles"] += 1
+
+        return stats
+
+    # ------------------------------------------------------------------
+    # Pass 12 — Group IDs for figure/table + caption pairs
+    # ------------------------------------------------------------------
+
+    def _assign_group_ids(self, blocks: List[Dict]) -> Dict[str, int]:
+        """
+        Assign a shared ``group_id`` to a figure or table block, its linked
+        caption, and the first explanatory text block that follows the caption.
+
+        This keeps the trio (figure → caption → explanation) together so the
+        chunker never splits them across boundaries.
+
+        The ``caption_id`` link created in Pass 3 is used to locate the pair.
+        The group ID is derived from the figure/table's own ``id`` so it is
+        stable and deterministic across re-runs::
+
+            figure  fig_0012  + caption txt_0045  + paragraph txt_0046
+                →  group_id = "grp_fig_0012"  (on all three blocks)
+
+        Blocks without a caption link do not receive a ``group_id``.
+        Only ungrouped text blocks are absorbed as explanations — a block
+        that already belongs to another group is never re-assigned.
+        """
+        stats = {"groups_formed": 0}
+        id_map  = {b["id"]: b   for b in blocks if b.get("id")}
+        idx_map = {b["id"]: i   for i, b in enumerate(blocks) if b.get("id")}
+
+        for blk in blocks:
+            if blk.get("type") not in ("figure", "table"):
+                continue
+            cap_id = blk.get("caption_id")
+            if not cap_id:
+                continue
+            cap_blk = id_map.get(cap_id)
+            if cap_blk is None:
+                continue
+
+            gid = f"grp_{blk['id']}"
+            blk["group_id"]     = gid
+            cap_blk["group_id"] = gid
+            stats["groups_formed"] += 1
+
+            # Extend group to the next explanatory block after the caption.
+            # Only absorb ungrouped paragraph or list_item blocks — stop at
+            # the first heading, figure, table, admonition, or grouped block.
+            cap_idx = idx_map.get(cap_id)
+            if cap_idx is not None and cap_idx + 1 < len(blocks):
+                next_blk = blocks[cap_idx + 1]
+                if (
+                    next_blk.get("type") in ("paragraph", "list_item")
+                    and not next_blk.get("group_id")
+                ):
+                    next_blk["group_id"] = gid
+
+        return stats
+
+    # ------------------------------------------------------------------
+    # (Pass 13 / confidence heuristic removed — not backed by a real model)
+    # Source provenance is stamped directly in _enrich_blocks.
+    # ------------------------------------------------------------------
 
     # ------------------------------------------------------------------
     # Pass 1 — TOC table detection  (Fix 1)

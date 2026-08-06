@@ -20,7 +20,11 @@
       "next_block_id": "txt_0001",
       "image_hash": "07fbb44f6a26c2efc958e85300683027c1a0e49df94d7f4fe29ccdaaab1c530e",
       "width": 226,
-      "height": 72
+      "height": 72,
+      "page": 1,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -35,7 +39,19 @@
       },
       "content": "SERVICE MANUAL",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1",
+      "section_path": [
+        {
+          "id": "sec_auto_1",
+          "title": "SERVICE MANUAL"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 2,
+      "page": 1,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -49,8 +65,21 @@
         "b": 475.81037226890754
       },
       "content": "18' & 24' ADA Models Built-In Dishwashers",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "18",
+      "section_id": "sec_18",
+      "section_path": [
+        {
+          "id": "sec_18",
+          "title": "18' & 24' ADA Models Built-In Dishwashers"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 1,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -67,7 +96,20 @@
       "previous_block_id": "txt_0002",
       "image_hash": "cf54dad7d520a816dab6feedff80b197e9e6832441a01cd4754f8ca4d58f5413",
       "width": 171,
-      "height": 299
+      "height": 299,
+      "section_id": "sec_18",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_18",
+          "title": "18' & 24' ADA Models Built-In Dishwashers"
+        }
+      ],
+      "page": 1,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -84,7 +126,20 @@
       "previous_block_id": "txt_0002",
       "image_hash": "4c281122890fac7d466e548b879c3f95ebe2e67a3826e9a3154c8044854efe81",
       "width": 219,
-      "height": 297
+      "height": 297,
+      "section_id": "sec_18",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_18",
+          "title": "18' & 24' ADA Models Built-In Dishwashers"
+        }
+      ],
+      "page": 1,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

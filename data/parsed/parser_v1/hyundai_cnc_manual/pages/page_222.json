@@ -19,7 +19,23 @@
       },
       "content": "When FBAL equal 1 in diagnostic data No. 200(servo alarm No.416 is being generated)",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1819",
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6) Servo alarms(l/2)"
+        },
+        {
+          "id": "sec_auto_1819",
+          "title": "When FBAL equal 1 in diagnostic data No. 200(servo alarm No.416 is being generated)"
+        }
+      ],
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "page": 222,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -34,7 +50,24 @@
       },
       "markdown": "|   ALD |   EXP | Alarm details                                              |\n|-------|-------|------------------------------------------------------------|\n|     1 |     0 | Built-in pulse coder disconnection (hard ware)             |\n|     1 |     1 | Separately installed pulse coder disconnection (hard ware) |\n|     0 |     0 | Pulse coder is not connected due to software               |",
       "rows": 4,
-      "cols": 3
+      "cols": 3,
+      "section_id": "sec_auto_1819",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6) Servo alarms(l/2)"
+        },
+        {
+          "id": "sec_auto_1819",
+          "title": "When FBAL equal 1 in diagnostic data No. 200(servo alarm No.416 is being generated)"
+        }
+      ],
+      "page": 222,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -49,7 +82,24 @@
       },
       "markdown": "|     | #7#   | 64*   | 5#   | 4#   | 3#   | 2#   | 1#   | #0   |\n|-----|-------|-------|------|------|------|------|------|------|\n| 204 |       | OFS   | MCC  | LDA  | PMS  |      |      |      |",
       "rows": 2,
-      "cols": 8
+      "cols": 8,
+      "section_id": "sec_auto_1819",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6) Servo alarms(l/2)"
+        },
+        {
+          "id": "sec_auto_1819",
+          "title": "When FBAL equal 1 in diagnostic data No. 200(servo alarm No.416 is being generated)"
+        }
+      ],
+      "page": 222,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -62,7 +112,24 @@
         "r": 418.0999740000001,
         "b": 572.8431489281769
       },
-      "content": "#6(OFS) : A current conversion error has occurred in the digital servo."
+      "content": "#6(OFS) : A current conversion error has occurred in the digital servo.",
+      "section_id": "sec_auto_1819",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6) Servo alarms(l/2)"
+        },
+        {
+          "id": "sec_auto_1819",
+          "title": "When FBAL equal 1 in diagnostic data No. 200(servo alarm No.416 is being generated)"
+        }
+      ],
+      "page": 222,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -75,7 +142,24 @@
         "r": 438.08686800000106,
         "b": 555.8031369281769
       },
-      "content": "#5(MCC) : A magnetic contactor contact in the servo amplifier has welded."
+      "content": "#5(MCC) : A magnetic contactor contact in the servo amplifier has welded.",
+      "section_id": "sec_auto_1819",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6) Servo alarms(l/2)"
+        },
+        {
+          "id": "sec_auto_1819",
+          "title": "When FBAL equal 1 in diagnostic data No. 200(servo alarm No.416 is being generated)"
+        }
+      ],
+      "page": 222,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -88,7 +172,24 @@
         "r": 400.83150599999993,
         "b": 538.8232449281769
       },
-      "content": "#4(LDA) : The LED indicates that serial pulse coder C is defective"
+      "content": "#4(LDA) : The LED indicates that serial pulse coder C is defective",
+      "section_id": "sec_auto_1819",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6) Servo alarms(l/2)"
+        },
+        {
+          "id": "sec_auto_1819",
+          "title": "When FBAL equal 1 in diagnostic data No. 200(servo alarm No.416 is being generated)"
+        }
+      ],
+      "page": 222,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -101,7 +202,24 @@
         "r": 501.0194820000007,
         "b": 521.843352928177
       },
-      "content": "#3(PMS) : A feedback pulse error has occurred because the feedback cable is defective."
+      "content": "#3(PMS) : A feedback pulse error has occurred because the feedback cable is defective.",
+      "section_id": "sec_auto_1819",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6) Servo alarms(l/2)"
+        },
+        {
+          "id": "sec_auto_1819",
+          "title": "When FBAL equal 1 in diagnostic data No. 200(servo alarm No.416 is being generated)"
+        }
+      ],
+      "page": 222,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

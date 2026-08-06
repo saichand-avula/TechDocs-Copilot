@@ -17,7 +17,20 @@
         "r": 332.8571819999996,
         "b": 746.8429409281769
       },
-      "content": "Adjustment of position coder timing belt tension"
+      "content": "Adjustment of position coder timing belt tension",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-6-2. Around the Machine"
+        }
+      ],
+      "page": 128,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -30,7 +43,20 @@
         "r": 541.5647640000001,
         "b": 712.8230369281769
       },
-      "content": "The timing belt should be checked first after one month of installation. Thereafter, check it every 6 months."
+      "content": "The timing belt should be checked first after one month of installation. Thereafter, check it every 6 months.",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-6-2. Around the Machine"
+        }
+      ],
+      "page": 128,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -46,12 +72,26 @@
       "image_path": "figures/figure_0217.png",
       "previous_block_id": "txt_0829",
       "next_block_id": "txt_0830",
-      "caption_id": "txt_0830",
       "caption": "SKT100 Timing Belt Tension",
       "figure_number": "Fig. 5-33",
       "image_hash": "0c6704e10642352016ee809186a98a30f8c29c4f4bdd1f975b4843a725cfb5d1",
       "width": 468,
-      "height": 176
+      "height": 176,
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-6-2. Around the Machine"
+        }
+      ],
+      "page": 128,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0217",
+      "source": "pdf_text",
+      "caption_id": "txt_0830"
     },
     {
       "type": "caption",
@@ -65,6 +105,20 @@
         "b": 491.84396092817695
       },
       "content": "Fig. 5-33  SKT100 Timing Belt Tension",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-6-2. Around the Machine"
+        }
+      ],
+      "page": 128,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0217",
+      "source": "pdf_text",
       "caption_for": "fig_0217"
     },
     {
@@ -78,7 +132,21 @@
         "r": 438.47800200000114,
         "b": 457.82405692817696
       },
-      "content": "Unscrew a bolt, adjust the tension as in Table 5-3, and engage it again."
+      "content": "Unscrew a bolt, adjust the tension as in Table 5-3, and engage it again.",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-6-2. Around the Machine"
+        }
+      ],
+      "page": 128,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text",
+      "group_id": "grp_fig_0217"
     },
     {
       "type": "figure",
@@ -96,7 +164,20 @@
       "next_block_id": "txt_0832",
       "image_hash": "cbde137d3cd2e840f8b6e93b7f0637deea94dfd37263b843e8c2df7bbe6bc5c7",
       "width": 472,
-      "height": 174
+      "height": 174,
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-6-2. Around the Machine"
+        }
+      ],
+      "page": 128,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "caption",
@@ -110,6 +191,19 @@
         "b": 236.84498092817694
       },
       "content": "Fig. 5-34  SKT200 Timing Belt Tension",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-6-2. Around the Machine"
+        }
+      ],
+      "page": 128,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "source": "pdf_text",
       "caption_for": "tbl_0042"
     },
     {
@@ -124,6 +218,19 @@
         "b": 202.82507692817694
       },
       "content": "Table 5-2.  Belt Tension",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-6-2. Around the Machine"
+        }
+      ],
+      "page": 128,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "source": "pdf_text",
       "caption_for": "tbl_0042"
     },
     {
@@ -138,11 +245,25 @@
         "b": 118.9627685546875
       },
       "markdown": "unit : mm (in)I\n\n| Model   | Belt Displacement   | Load        |\n|---------|---------------------|-------------|\n| SKT100  | 2.8(0.11)           | 0.4kgf(4N)) |\n| SKT200  | 3.1mm(0.12)         | 0.4kgf(4N)  |",
-      "caption_id": "txt_0834",
       "title": "Table 5-2.  Belt Tension",
       "table_number": "Table 5-2",
       "rows": 3,
-      "cols": 3
+      "cols": 3,
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-6-2. Around the Machine"
+        }
+      ],
+      "page": 128,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "group_id": "grp_tbl_0042",
+      "source": "pdf_text",
+      "caption_id": "txt_0834"
     },
     {
       "type": "caption",
@@ -156,6 +277,20 @@
         "b": 185.84518492817688
       },
       "content": "unit : mm (in)I",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-6-2. Around the Machine"
+        }
+      ],
+      "page": 128,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_tbl_0042",
+      "source": "pdf_text",
       "caption_for": "tbl_0042"
     },
     {
@@ -169,7 +304,21 @@
         "r": 245.55453000000006,
         "b": 86.84304892817681
       },
-      "content": "Used tool : Wrench (10mm)"
+      "content": "Used tool : Wrench (10mm)",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-6-2. Around the Machine"
+        }
+      ],
+      "page": 128,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text",
+      "group_id": "grp_tbl_0042"
     }
   ],
   "page_stats": {

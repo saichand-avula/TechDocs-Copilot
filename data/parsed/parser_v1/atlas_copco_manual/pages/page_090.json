@@ -22,7 +22,24 @@
       "width": 47,
       "height": 23,
       "decorative": true,
-      "image_hash": "2d2a836df72f659eb0985697292682429e59bf8ad20c0b8fc6a039c365a94e86"
+      "image_hash": "2d2a836df72f659eb0985697292682429e59bf8ad20c0b8fc6a039c365a94e86",
+      "section_id": "sec_auto_932",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5       Energy recovery (optional)"
+        },
+        {
+          "id": "sec_auto_932",
+          "title": "Detailed description"
+        }
+      ],
+      "page": 90,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "caption",
@@ -36,6 +53,24 @@
         "b": 589.48
       },
       "content": "ER label",
+      "section_id": "sec_auto_932",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5       Energy recovery (optional)"
+        },
+        {
+          "id": "sec_auto_932",
+          "title": "Detailed description"
+        }
+      ],
+      "page": 90,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0251",
+      "source": "pdf_text",
       "caption_for": "fig_0251"
     },
     {
@@ -55,7 +90,24 @@
       "width": 24,
       "height": 25,
       "decorative": true,
-      "image_hash": "dace5d1e33ba1ffb345e78bf9e09288a009d8dc1ff79d3ca742af18119eea481"
+      "image_hash": "dace5d1e33ba1ffb345e78bf9e09288a009d8dc1ff79d3ca742af18119eea481",
+      "section_id": "sec_auto_932",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5       Energy recovery (optional)"
+        },
+        {
+          "id": "sec_auto_932",
+          "title": "Detailed description"
+        }
+      ],
+      "page": 90,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -71,11 +123,29 @@
       "image_path": "figures/figure_0251.png",
       "previous_block_id": "txt_0623",
       "next_block_id": "txt_0624",
-      "caption_id": "txt_0623",
       "caption": "ER label",
       "image_hash": "b121de0a9b9169c6280f65449c75c2a5cd8dbeca450bd05a80e0fd0cd54ddae2",
       "width": 114,
-      "height": 161
+      "height": 161,
+      "section_id": "sec_auto_932",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5       Energy recovery (optional)"
+        },
+        {
+          "id": "sec_auto_932",
+          "title": "Detailed description"
+        }
+      ],
+      "page": 90,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0251",
+      "source": "pdf_text",
+      "caption_id": "txt_0623"
     },
     {
       "type": "paragraph",
@@ -88,7 +158,24 @@
         "r": 536.8079964500001,
         "b": 519.1996168
       },
-      "content": "Attention: It is only allowed to turn the handle completely in or out. No in-between position is allowed!"
+      "content": "Attention: It is only allowed to turn the handle completely in or out. No in-between position is allowed!",
+      "section_id": "sec_auto_932",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5       Energy recovery (optional)"
+        },
+        {
+          "id": "sec_auto_932",
+          "title": "Detailed description"
+        }
+      ],
+      "page": 90,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -101,7 +188,24 @@
         "r": 528.7487999999995,
         "b": 454.684
       },
-      "content": "The oil cooler bypass valve (BV1) starts closing the bypass line and opening the oil supply line from the main oil cooler (Co) at the lower limit of its temperature range. At the upper limit of its temperature range, the bypass line is completely closed and all the oil flows through the main oil cooler."
+      "content": "The oil cooler bypass valve (BV1) starts closing the bypass line and opening the oil supply line from the main oil cooler (Co) at the lower limit of its temperature range. At the upper limit of its temperature range, the bypass line is completely closed and all the oil flows through the main oil cooler.",
+      "section_id": "sec_auto_932",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5       Energy recovery (optional)"
+        },
+        {
+          "id": "sec_auto_932",
+          "title": "Detailed description"
+        }
+      ],
+      "page": 90,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -114,7 +218,24 @@
         "r": 537.0108999999993,
         "b": 395.9440000000001
       },
-      "content": "BV1 must have a higher opening temperature (set point) than BV2 in order to prevent the heat from being dissipated in the compressor oil cooler (Co) before the warm oil is fed to the oil/water heat exchanger when using the compression heat as source for energy recovery. Thermostat BV1 starts to open at 75 °C and is completely open at 90 °C."
+      "content": "BV1 must have a higher opening temperature (set point) than BV2 in order to prevent the heat from being dissipated in the compressor oil cooler (Co) before the warm oil is fed to the oil/water heat exchanger when using the compression heat as source for energy recovery. Thermostat BV1 starts to open at 75 °C and is completely open at 90 °C.",
+      "section_id": "sec_auto_932",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5       Energy recovery (optional)"
+        },
+        {
+          "id": "sec_auto_932",
+          "title": "Detailed description"
+        }
+      ],
+      "page": 90,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -129,7 +250,23 @@
       },
       "content": "Energy recovery system in use (see drawing)",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_953",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5       Energy recovery (optional)"
+        },
+        {
+          "id": "sec_auto_953",
+          "title": "Energy recovery system in use (see drawing)"
+        }
+      ],
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "page": 90,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -142,7 +279,24 @@
         "r": 427.45199999999977,
         "b": 350.7032000000001
       },
-      "content": "The handle (V1) of BV2 (bypass valve of the HE) is totally turned in clockwise."
+      "content": "The handle (V1) of BV2 (bypass valve of the HE) is totally turned in clockwise.",
+      "section_id": "sec_auto_953",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5       Energy recovery (optional)"
+        },
+        {
+          "id": "sec_auto_953",
+          "title": "Energy recovery system in use (see drawing)"
+        }
+      ],
+      "page": 90,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -155,7 +309,24 @@
         "r": 165.43310000000005,
         "b": 335.45610000000005
       },
-      "content": "Compressor start-up"
+      "content": "Compressor start-up",
+      "section_id": "sec_auto_953",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5       Energy recovery (optional)"
+        },
+        {
+          "id": "sec_auto_953",
+          "title": "Energy recovery system in use (see drawing)"
+        }
+      ],
+      "page": 90,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -168,7 +339,24 @@
         "r": 536.2365000000001,
         "b": 277.32330000000013
       },
-      "content": "When the compressor is started up from cold, the oil temperature will be low. Bypass valve (BV2) shuts off the oil supply from the heat exchanger (HE) and bypass valve (BV1) shuts off the oil supply from the oil cooler (Co) to prevent the compressor oil from being cooled. The oil flows from the oil separator vessel (AR) through the oil filter(s) (OF) back to compressor element (E)."
+      "content": "When the compressor is started up from cold, the oil temperature will be low. Bypass valve (BV2) shuts off the oil supply from the heat exchanger (HE) and bypass valve (BV1) shuts off the oil supply from the oil cooler (Co) to prevent the compressor oil from being cooled. The oil flows from the oil separator vessel (AR) through the oil filter(s) (OF) back to compressor element (E).",
+      "section_id": "sec_auto_953",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5       Energy recovery (optional)"
+        },
+        {
+          "id": "sec_auto_953",
+          "title": "Energy recovery system in use (see drawing)"
+        }
+      ],
+      "page": 90,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -181,7 +369,24 @@
         "r": 449.26169999999945,
         "b": 256.92380000000014
       },
-      "content": "All energy input is used to rapidly warm up the compressor oil. No energy is recovered."
+      "content": "All energy input is used to rapidly warm up the compressor oil. No energy is recovered.",
+      "section_id": "sec_auto_953",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5       Energy recovery (optional)"
+        },
+        {
+          "id": "sec_auto_953",
+          "title": "Energy recovery system in use (see drawing)"
+        }
+      ],
+      "page": 90,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -194,7 +399,24 @@
         "r": 199.22840000000002,
         "b": 235.67730000000006
       },
-      "content": "Maximum energy recovery"
+      "content": "Maximum energy recovery",
+      "section_id": "sec_auto_953",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5       Energy recovery (optional)"
+        },
+        {
+          "id": "sec_auto_953",
+          "title": "Energy recovery system in use (see drawing)"
+        }
+      ],
+      "page": 90,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -207,7 +429,24 @@
         "r": 531.0499999999993,
         "b": 136.92480000000023
       },
-      "content": "As soon the oil temperature reaches the set point (opening temperature) of bypass valve (BV2), the valve starts closing off the bypass over the heat exchanger (HE) oil line, while gradually allowing the oil to flow through the heat exchanger (HE). As the oil temperature rises to approx. 15 °C  above the set point, all the oil passes through the heat exchanger. The exchange of heat between the compressor oil and the heat recovery water is maximum. The oil from the heat exchanger outlet flows via oil filter (OF), oil stop valve (Vs - if present), compressor element (E) and separator (AR) back to the inlet of heat exchanger (HE). Bypass valve (BV1) bypasses the oil cooler (Co) as long as the oil temperature remains below its set point."
+      "content": "As soon the oil temperature reaches the set point (opening temperature) of bypass valve (BV2), the valve starts closing off the bypass over the heat exchanger (HE) oil line, while gradually allowing the oil to flow through the heat exchanger (HE). As the oil temperature rises to approx. 15 °C  above the set point, all the oil passes through the heat exchanger. The exchange of heat between the compressor oil and the heat recovery water is maximum. The oil from the heat exchanger outlet flows via oil filter (OF), oil stop valve (Vs - if present), compressor element (E) and separator (AR) back to the inlet of heat exchanger (HE). Bypass valve (BV1) bypasses the oil cooler (Co) as long as the oil temperature remains below its set point.",
+      "section_id": "sec_auto_953",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5       Energy recovery (optional)"
+        },
+        {
+          "id": "sec_auto_953",
+          "title": "Energy recovery system in use (see drawing)"
+        }
+      ],
+      "page": 90,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -220,7 +459,24 @@
         "r": 217.47520000000026,
         "b": 116.52530000000024
       },
-      "content": "Operation principle at different loads:"
+      "content": "Operation principle at different loads:",
+      "section_id": "sec_auto_953",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5       Energy recovery (optional)"
+        },
+        {
+          "id": "sec_auto_953",
+          "title": "Energy recovery system in use (see drawing)"
+        }
+      ],
+      "page": 90,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -233,7 +489,24 @@
         "r": 250.93719999999982,
         "b": 95.27880000000016
       },
-      "content": "Low consumption of recovered energy"
+      "content": "Low consumption of recovered energy",
+      "section_id": "sec_auto_953",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5       Energy recovery (optional)"
+        },
+        {
+          "id": "sec_auto_953",
+          "title": "Energy recovery system in use (see drawing)"
+        }
+      ],
+      "page": 90,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

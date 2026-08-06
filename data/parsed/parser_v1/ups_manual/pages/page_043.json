@@ -19,7 +19,28 @@
       },
       "markdown": "| OUT-4 (customizable)   | Default function: battery low voltage   | Battery low voltage   |\n|------------------------|-----------------------------------------|-----------------------|\n| OUT-5                  | Output overload                         | Output overload       |\n| OUT-6                  | Mains mode                              | Mains mode            |\n| OUT-7                  | Battery mode                            | Battery mode          |\n| OUT-8                  | Bypass mode                             | Bypass mode           |",
       "rows": 5,
-      "cols": 3
+      "cols": 3,
+      "section_id": "sec_3_9_6",
+      "parent_section_id": "sec_auto_390",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_auto_390",
+          "title": "Communication Interfaces:"
+        },
+        {
+          "id": "sec_3_9_6",
+          "title": "3.9.6 Dry Contact Interface"
+        }
+      ],
+      "page": 43,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -34,7 +55,23 @@
       },
       "content": "Use of dry contact ports",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_435",
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_auto_435",
+          "title": "Use of dry contact ports"
+        }
+      ],
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "page": 43,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -47,7 +84,24 @@
         "r": 541.5964799999999,
         "b": 494.126101363195
       },
-      "content": "The output dry contacts include the operation mode of the UPS and fault alarm (The specific ports are defined in Table 3-7). Each output dry contact port provides a normally open contact and a normally  closed  contact.  The  user  chooses  to  use  according  to  the  specific  situation.  Pin arrangements of ports are shown in Figure 3-34 and Figure 3-35."
+      "content": "The output dry contacts include the operation mode of the UPS and fault alarm (The specific ports are defined in Table 3-7). Each output dry contact port provides a normally open contact and a normally  closed  contact.  The  user  chooses  to  use  according  to  the  specific  situation.  Pin arrangements of ports are shown in Figure 3-34 and Figure 3-35.",
+      "section_id": "sec_auto_435",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_auto_435",
+          "title": "Use of dry contact ports"
+        }
+      ],
+      "page": 43,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -60,7 +114,24 @@
         "r": 419.55568,
         "b": 478.526101363195
       },
-      "content": "Pin arrangements of dry contact OUT interface are shown in Figure 3-34."
+      "content": "Pin arrangements of dry contact OUT interface are shown in Figure 3-34.",
+      "section_id": "sec_auto_435",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_auto_435",
+          "title": "Use of dry contact ports"
+        }
+      ],
+      "page": 43,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -73,7 +144,24 @@
         "r": 220.18568,
         "b": 462.92610136319496
       },
-      "content": "Pin 1: normally closed contact"
+      "content": "Pin 1: normally closed contact",
+      "section_id": "sec_auto_435",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_auto_435",
+          "title": "Use of dry contact ports"
+        }
+      ],
+      "page": 43,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -86,7 +174,24 @@
         "r": 191.14568,
         "b": 447.326101363195
       },
-      "content": "Pin 2: common terminal"
+      "content": "Pin 2: common terminal",
+      "section_id": "sec_auto_435",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_auto_435",
+          "title": "Use of dry contact ports"
+        }
+      ],
+      "page": 43,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -99,7 +204,24 @@
         "r": 213.22567999999998,
         "b": 431.72610136319497
       },
-      "content": "Pin 3: normally open contact"
+      "content": "Pin 3: normally open contact",
+      "section_id": "sec_auto_435",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_auto_435",
+          "title": "Use of dry contact ports"
+        }
+      ],
+      "page": 43,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -115,12 +237,30 @@
       "image_path": "figures/figure_0068.png",
       "previous_block_id": "txt_0361",
       "next_block_id": "txt_0362",
-      "caption_id": "txt_0362",
       "caption": "Pin arrangements of dry contacts",
       "figure_number": "Figure 3-34",
       "image_hash": "7ee6783e63ffe458cb891055499dd3f7d368ddb16acb2b15994699e365035306",
       "width": 95,
-      "height": 85
+      "height": 85,
+      "section_id": "sec_auto_435",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_auto_435",
+          "title": "Use of dry contact ports"
+        }
+      ],
+      "page": 43,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0068",
+      "source": "pdf_text",
+      "caption_id": "txt_0362"
     },
     {
       "type": "caption",
@@ -134,6 +274,24 @@
         "b": 384.186101363195
       },
       "content": "Figure 3-34 Pin arrangements of dry contacts",
+      "section_id": "sec_auto_435",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_auto_435",
+          "title": "Use of dry contact ports"
+        }
+      ],
+      "page": 43,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0068",
+      "source": "pdf_text",
       "caption_for": "fig_0068"
     },
     {
@@ -147,7 +305,25 @@
         "r": 485.69568,
         "b": 368.586101363195
       },
-      "content": "OUT 1 - 12 interfaces"
+      "content": "OUT 1 - 12 interfaces",
+      "section_id": "sec_auto_435",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_auto_435",
+          "title": "Use of dry contact ports"
+        }
+      ],
+      "page": 43,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text",
+      "group_id": "grp_fig_0068"
     },
     {
       "type": "paragraph",
@@ -160,7 +336,24 @@
         "r": 408.03568,
         "b": 351.786101363195
       },
-      "content": "Pin arrangements of dry contact IN interface are shown in Figure 3-35."
+      "content": "Pin arrangements of dry contact IN interface are shown in Figure 3-35.",
+      "section_id": "sec_auto_435",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_auto_435",
+          "title": "Use of dry contact ports"
+        }
+      ],
+      "page": 43,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -173,7 +366,24 @@
         "r": 236.02568,
         "b": 321.066101363195
       },
-      "content": "Interface is shown in Figure 3-35."
+      "content": "Interface is shown in Figure 3-35.",
+      "section_id": "sec_auto_435",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_auto_435",
+          "title": "Use of dry contact ports"
+        }
+      ],
+      "page": 43,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -186,7 +396,24 @@
         "r": 206.02568,
         "b": 305.466101363195
       },
-      "content": "Pin 1: power supply + 12 V"
+      "content": "Pin 1: power supply + 12 V",
+      "section_id": "sec_auto_435",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_auto_435",
+          "title": "Use of dry contact ports"
+        }
+      ],
+      "page": 43,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -199,7 +426,24 @@
         "r": 218.62568,
         "b": 289.86610136319496
       },
-      "content": "Pin 2: power supply ground"
+      "content": "Pin 2: power supply ground",
+      "section_id": "sec_auto_435",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_auto_435",
+          "title": "Use of dry contact ports"
+        }
+      ],
+      "page": 43,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -215,12 +459,30 @@
       "image_path": "figures/figure_0069.png",
       "previous_block_id": "txt_0367",
       "next_block_id": "txt_0368",
-      "caption_id": "txt_0368",
       "caption": ": Pin arrangements of dry",
       "figure_number": "Figure 3-35",
       "image_hash": "bb173b53368d0909f44557437d28fadc4c8036433476b70fd7dfe43bb5deefca",
       "width": 92,
-      "height": 78
+      "height": 78,
+      "section_id": "sec_auto_435",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_auto_435",
+          "title": "Use of dry contact ports"
+        }
+      ],
+      "page": 43,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0069",
+      "source": "pdf_text",
+      "caption_id": "txt_0368"
     },
     {
       "type": "caption",
@@ -234,6 +496,24 @@
         "b": 258.6661013631949
       },
       "content": "Figure 3-35: Pin arrangements of dry",
+      "section_id": "sec_auto_435",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_auto_435",
+          "title": "Use of dry contact ports"
+        }
+      ],
+      "page": 43,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0069",
+      "source": "pdf_text",
       "caption_for": "fig_0069"
     },
     {
@@ -247,7 +527,25 @@
         "r": 510.17568,
         "b": 243.066101363195
       },
-      "content": "contacts IN 1 - 5 interfaces"
+      "content": "contacts IN 1 - 5 interfaces",
+      "section_id": "sec_auto_435",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_auto_435",
+          "title": "Use of dry contact ports"
+        }
+      ],
+      "page": 43,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text",
+      "group_id": "grp_fig_0069"
     },
     {
       "type": "figure",
@@ -263,12 +561,30 @@
       "image_path": "figures/figure_0070.png",
       "previous_block_id": "txt_0369",
       "next_block_id": "txt_0370",
-      "caption_id": "txt_0370",
       "caption": ": Diagram of communication interface board",
       "figure_number": "Figure 3-36",
       "image_hash": "7f70bdeecc33c6e0ff1b1b0a21ca591e2f1e285ba2ffdb65b39443465284b38e",
       "width": 443,
-      "height": 50
+      "height": 50,
+      "section_id": "sec_auto_435",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_auto_435",
+          "title": "Use of dry contact ports"
+        }
+      ],
+      "page": 43,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0070",
+      "source": "pdf_text",
+      "caption_id": "txt_0370"
     },
     {
       "type": "caption",
@@ -282,6 +598,24 @@
         "b": 150.99610136319495
       },
       "content": "Figure 3-36: Diagram of communication interface board",
+      "section_id": "sec_auto_435",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_auto_435",
+          "title": "Use of dry contact ports"
+        }
+      ],
+      "page": 43,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0070",
+      "source": "pdf_text",
       "caption_for": "fig_0070"
     },
     {
@@ -295,7 +629,25 @@
         "r": 541.61376,
         "b": 104.196101363195
       },
-      "content": "Input  dry  contact  ports  include  power  on,  power  off,  bypass  output,  and  emergency  power  off (EPO). Customizable functions of IN-1 and IN-2: close dry contact function, power on, generator access (auxiliary contact), battery switch closure (auxiliary contact), external maintenance bypass"
+      "content": "Input  dry  contact  ports  include  power  on,  power  off,  bypass  output,  and  emergency  power  off (EPO). Customizable functions of IN-1 and IN-2: close dry contact function, power on, generator access (auxiliary contact), battery switch closure (auxiliary contact), external maintenance bypass",
+      "section_id": "sec_auto_435",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_auto_435",
+          "title": "Use of dry contact ports"
+        }
+      ],
+      "page": 43,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text",
+      "group_id": "grp_fig_0070"
     }
   ],
   "page_stats": {

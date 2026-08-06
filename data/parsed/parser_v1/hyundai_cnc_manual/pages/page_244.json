@@ -19,7 +19,20 @@
       },
       "markdown": "| FS 0I/16/18/21                                              | Description   |\n|-------------------------------------------------------------|---------------|\n| Spindle to motor gear ratio data                            | 4056 ~ 4059   |\n| Position gain during orientation                            | 4060 ~ 4063   |\n| Position gain during servo mode/ synchronization control of | 4065 ~ 4068   |\n| Position gain during Cs contouring control                  | 4069 ~ 4072   |",
       "rows": 5,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-23. Alarm AL-36"
+        }
+      ],
+      "page": 244,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -33,8 +46,21 @@
         "b": 594.0230489281769
       },
       "content": "1-24.  Alarm AL-37",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "1",
+      "section_id": "sec_1",
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-24.  Alarm AL-37"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 244,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -47,7 +73,20 @@
         "r": 114.317622,
         "b": 560.0031449281769
       },
-      "content": "(1)"
+      "content": "(1)",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-24.  Alarm AL-37"
+        }
+      ],
+      "page": 244,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -60,7 +99,20 @@
         "r": 184.05982800000004,
         "b": 560.0031449281769
       },
-      "content": "Meaning"
+      "content": "Meaning",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-24.  Alarm AL-37"
+        }
+      ],
+      "page": 244,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -73,7 +125,20 @@
         "r": 527.359056000001,
         "b": 509.0033489281768
       },
-      "content": "When an emergency stop signal was  entered,  the  motor  did  not  decelerate,  rather accelerate, or the motor was kept excited even after acceleration/deceleration duration (10 seconds as set initially by a parameter)."
+      "content": "When an emergency stop signal was  entered,  the  motor  did  not  decelerate,  rather accelerate, or the motor was kept excited even after acceleration/deceleration duration (10 seconds as set initially by a parameter).",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-24.  Alarm AL-37"
+        }
+      ],
+      "page": 244,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -86,7 +151,20 @@
         "r": 269.683734,
         "b": 474.9834449281768
       },
-      "content": "Cause and corrective action"
+      "content": "Cause and corrective action",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-24.  Alarm AL-37"
+        }
+      ],
+      "page": 244,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -99,7 +177,20 @@
         "r": 378.1432199999999,
         "b": 441.0236609281768
       },
-      "content": "Incorrect speed detector parameter setting Check the parameter setting and the speed detector."
+      "content": "Incorrect speed detector parameter setting Check the parameter setting and the speed detector.",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-24.  Alarm AL-37"
+        }
+      ],
+      "page": 244,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -112,7 +203,20 @@
         "r": 489.19430999999867,
         "b": 353.5523
       },
-      "content": "⇒ Set the parameter to the value that matches the speed detector used."
+      "content": "⇒ Set the parameter to the value that matches the speed detector used.",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-24.  Alarm AL-37"
+        }
+      ],
+      "page": 244,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -125,7 +229,20 @@
         "r": 418.074353999999,
         "b": 320.4830369281767
       },
-      "content": "Incorrect acceleration/deceleration duration parameter setting"
+      "content": "Incorrect acceleration/deceleration duration parameter setting",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-24.  Alarm AL-37"
+        }
+      ],
+      "page": 244,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -140,7 +257,20 @@
       },
       "markdown": "| FS 0I/16/18/21   | Description            |\n|------------------|------------------------|\n| 4011 #2, 1, 0    | Speed detector setting |",
       "rows": 2,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-24.  Alarm AL-37"
+        }
+      ],
+      "page": 244,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -153,7 +283,20 @@
         "r": 428.7005639999992,
         "b": 303.50314492817677
       },
-      "content": "Check the parameter setting with the required deceleration time."
+      "content": "Check the parameter setting with the required deceleration time.",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-24.  Alarm AL-37"
+        }
+      ],
+      "page": 244,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -168,7 +311,20 @@
       },
       "markdown": "|   FS 0I/16/18/21 | Description                                |\n|------------------|--------------------------------------------|\n|             4082 | Acceleration/deceleration duration setting |",
       "rows": 2,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-24.  Alarm AL-37"
+        }
+      ],
+      "page": 244,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -181,7 +337,20 @@
         "r": 545.5317359999996,
         "b": 165.03230000000008
       },
-      "content": "⇒ Set the parameter with a value somewhat greater (margin) than the required deceleration duration."
+      "content": "⇒ Set the parameter with a value somewhat greater (margin) than the required deceleration duration.",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-24.  Alarm AL-37"
+        }
+      ],
+      "page": 244,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

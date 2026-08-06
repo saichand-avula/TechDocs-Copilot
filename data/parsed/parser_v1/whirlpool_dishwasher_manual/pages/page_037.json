@@ -19,7 +19,23 @@
       },
       "content": "For Service Technician Use Only",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_712",
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_712",
+          "title": "For Service Technician Use Only"
+        }
+      ],
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "page": 37,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -37,7 +53,24 @@
       "next_block_id": "txt_0635",
       "image_hash": "8b7b248ba45f5b55a12db58a5ce17c1a10f9d753f38e3829442c0cb09f35d0bb",
       "width": 255,
-      "height": 169
+      "height": 169,
+      "section_id": "sec_auto_712",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_712",
+          "title": "For Service Technician Use Only"
+        }
+      ],
+      "page": 37,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -52,7 +85,23 @@
       },
       "content": "Overflow Switch",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_714",
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_714",
+          "title": "Overflow Switch"
+        }
+      ],
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "page": 37,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -66,7 +115,24 @@
         "b": 439.5921008403361
       },
       "content": "The overflow switch is located under the tub and is attached to the drip pan (see Figure 1).",
-      "hyperlink_hint": true
+      "hyperlink_hint": true,
+      "section_id": "sec_auto_714",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_714",
+          "title": "Overflow Switch"
+        }
+      ],
+      "page": 37,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -82,12 +148,30 @@
       "image_path": "figures/figure_0066.png",
       "previous_block_id": "txt_0636",
       "next_block_id": "txt_0637",
-      "caption_id": "txt_0637",
       "caption": "Overflow Switch Assembly",
       "figure_number": "Figure 1",
       "image_hash": "0b5a68e7e9e0af94ea4aff8f8e1d1e6de4f14de7dc446ea5f49d285ebafe317b",
       "width": 258,
-      "height": 161
+      "height": 161,
+      "section_id": "sec_auto_714",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_714",
+          "title": "Overflow Switch"
+        }
+      ],
+      "page": 37,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0066",
+      "source": "pdf_text",
+      "caption_id": "txt_0637"
     },
     {
       "type": "caption",
@@ -101,6 +185,24 @@
         "b": 261.72089075630254
       },
       "content": "Figure 1 - Overflow Switch Assembly",
+      "section_id": "sec_auto_714",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_714",
+          "title": "Overflow Switch"
+        }
+      ],
+      "page": 37,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0066",
+      "source": "pdf_text",
       "caption_for": "fig_0066"
     },
     {
@@ -114,7 +216,25 @@
         "r": 308.27500000000003,
         "b": 232.59210084033612
       },
-      "content": "The overflow switch is a normally closed switch that is used to detect a possible overflow condition.  If water drips onto the"
+      "content": "The overflow switch is a normally closed switch that is used to detect a possible overflow condition.  If water drips onto the",
+      "section_id": "sec_auto_714",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_714",
+          "title": "Overflow Switch"
+        }
+      ],
+      "page": 37,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text",
+      "group_id": "grp_fig_0066"
     },
     {
       "type": "paragraph",
@@ -127,7 +247,24 @@
         "r": 118.00529999999999,
         "b": 207.14100652840398
       },
-      "content": "OVERFLOW SWITCH"
+      "content": "OVERFLOW SWITCH",
+      "section_id": "sec_auto_714",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_714",
+          "title": "Overflow Switch"
+        }
+      ],
+      "page": 37,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -142,7 +279,23 @@
       },
       "content": "STRIP CIRCUIT - OVERFLOW SWITCH",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_720",
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_720",
+          "title": "STRIP CIRCUIT - OVERFLOW SWITCH"
+        }
+      ],
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "page": 37,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -158,12 +311,30 @@
       "image_path": "figures/figure_0067.png",
       "previous_block_id": "txt_0640",
       "next_block_id": "txt_0641",
-      "caption_id": "txt_0641",
       "caption": "Overflow Circuit",
       "figure_number": "Figure 2",
       "image_hash": "ef2d25ebef8487f204b84e90866d1d6594b9f24d80c635ac8bfb8d5519499c23",
       "width": 461,
-      "height": 110
+      "height": 110,
+      "section_id": "sec_auto_720",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_720",
+          "title": "STRIP CIRCUIT - OVERFLOW SWITCH"
+        }
+      ],
+      "page": 37,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0067",
+      "source": "pdf_text",
+      "caption_id": "txt_0641"
     },
     {
       "type": "caption",
@@ -177,6 +348,24 @@
         "b": 55.09089075630254
       },
       "content": "Figure 2 - Overflow Circuit",
+      "section_id": "sec_auto_720",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_720",
+          "title": "STRIP CIRCUIT - OVERFLOW SWITCH"
+        }
+      ],
+      "page": 37,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0067",
+      "source": "pdf_text",
       "caption_for": "fig_0067"
     },
     {
@@ -190,7 +379,25 @@
         "r": 577.5300000000003,
         "b": 669.2121008403361
       },
-      "content": "drip pan, the water will lift the foam float and open the switch. This will signal the control to shut off the water inlet valve and activate the drain pump. An 'E4' Overflow Error Code will be generated."
+      "content": "drip pan, the water will lift the foam float and open the switch. This will signal the control to shut off the water inlet valve and activate the drain pump. An 'E4' Overflow Error Code will be generated.",
+      "section_id": "sec_auto_720",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_720",
+          "title": "STRIP CIRCUIT - OVERFLOW SWITCH"
+        }
+      ],
+      "page": 37,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text",
+      "group_id": "grp_fig_0067"
     },
     {
       "type": "admonition",
@@ -204,7 +411,24 @@
         "b": 646.2121008403361
       },
       "content": "NOTE : If the overflow switch is disconnected or open, the dishwasher will not start a cycle or perform diagnostics.",
-      "severity": "note"
+      "severity": "note",
+      "section_id": "sec_auto_720",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_720",
+          "title": "STRIP CIRCUIT - OVERFLOW SWITCH"
+        }
+      ],
+      "page": 37,
+      "chunk_hint": "admonition",
+      "semantic_role": "note",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -219,7 +443,23 @@
       },
       "content": "Test Procedure",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_725",
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_725",
+          "title": "Test Procedure"
+        }
+      ],
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "page": 37,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -232,7 +472,24 @@
         "r": 563.5000000000002,
         "b": 582.2121008403361
       },
-      "content": "This test will check the wiring to the Overflow Switch, the switch itself, and the control board. The following items are part of the Overflow circuit."
+      "content": "This test will check the wiring to the Overflow Switch, the switch itself, and the control board. The following items are part of the Overflow circuit.",
+      "section_id": "sec_auto_725",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_725",
+          "title": "Test Procedure"
+        }
+      ],
+      "page": 37,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -245,7 +502,25 @@
         "r": 416.8200000000001,
         "b": 568.7303225806452
       },
-      "content": "  Harness/Connection"
+      "content": "  Harness/Connection",
+      "section_id": "sec_auto_725",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_725",
+          "title": "Test Procedure"
+        }
+      ],
+      "page": 37,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text",
+      "confidence": 0.8
     },
     {
       "type": "list_item",
@@ -258,7 +533,25 @@
         "r": 400.09999999999997,
         "b": 555.7303225806452
       },
-      "content": "  Overflow Switch"
+      "content": "  Overflow Switch",
+      "section_id": "sec_auto_725",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_725",
+          "title": "Test Procedure"
+        }
+      ],
+      "page": 37,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text",
+      "confidence": 0.8
     },
     {
       "type": "list_item",
@@ -271,7 +564,25 @@
         "r": 390.37,
         "b": 542.7303225806452
       },
-      "content": "  Control Board"
+      "content": "  Control Board",
+      "section_id": "sec_auto_725",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_725",
+          "title": "Test Procedure"
+        }
+      ],
+      "page": 37,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text",
+      "confidence": 0.8
     },
     {
       "type": "list_item",
@@ -284,7 +595,24 @@
         "r": 503.5500000000002,
         "b": 517.2121008403361
       },
-      "content": "Unplug dishwasher or disconnect power."
+      "content": "Unplug dishwasher or disconnect power.",
+      "section_id": "sec_auto_725",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_725",
+          "title": "Test Procedure"
+        }
+      ],
+      "page": 37,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -297,7 +625,24 @@
         "r": 557.4100000000001,
         "b": 494.2121008403361
       },
-      "content": "Remove access panel. Remove control board cover to access control board."
+      "content": "Remove access panel. Remove control board cover to access control board.",
+      "section_id": "sec_auto_725",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_725",
+          "title": "Test Procedure"
+        }
+      ],
+      "page": 37,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -310,7 +655,24 @@
         "r": 569.5000000000001,
         "b": 461.2121008403361
       },
-      "content": "Lay the dishwasher on its back. Use a small flat-blade screwdriver to unclip snaps around the drip-pan. Pull away drip-pan but keep float switch harness connected."
+      "content": "Lay the dishwasher on its back. Use a small flat-blade screwdriver to unclip snaps around the drip-pan. Pull away drip-pan but keep float switch harness connected.",
+      "section_id": "sec_auto_725",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_725",
+          "title": "Test Procedure"
+        }
+      ],
+      "page": 37,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -323,7 +685,24 @@
         "r": 506.45959999999997,
         "b": 448.2121008403361
       },
-      "content": "Disconnect CN4 from the Control Board."
+      "content": "Disconnect CN4 from the Control Board.",
+      "section_id": "sec_auto_725",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_725",
+          "title": "Test Procedure"
+        }
+      ],
+      "page": 37,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -336,7 +715,24 @@
         "r": 575.0800000000002,
         "b": 415.2121008403361
       },
-      "content": "Check the overflow switch-using an ohmmeter, measure the resistance between CN4-2 and CN4-3 with the overflow switch closed/float down (normal position)."
+      "content": "Check the overflow switch-using an ohmmeter, measure the resistance between CN4-2 and CN4-3 with the overflow switch closed/float down (normal position).",
+      "section_id": "sec_auto_725",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_725",
+          "title": "Test Procedure"
+        }
+      ],
+      "page": 37,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -349,7 +745,24 @@
         "r": 523.0200000000002,
         "b": 401.7303225806452
       },
-      "content": "¾ ¾ If 3 ohms or less is measured, go to step 6."
+      "content": "¾ ¾ If 3 ohms or less is measured, go to step 6.",
+      "section_id": "sec_auto_725",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_725",
+          "title": "Test Procedure"
+        }
+      ],
+      "page": 37,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -362,7 +775,24 @@
         "r": 574.5000000000002,
         "b": 359.2121008403361
       },
-      "content": "¾ ¾ If an open circuit or high resistance is measured, check connections and harness continuity between the control board and overflow switch. If harness is good, replace switch and retest."
+      "content": "¾ ¾ If an open circuit or high resistance is measured, check connections and harness continuity between the control board and overflow switch. If harness is good, replace switch and retest.",
+      "section_id": "sec_auto_725",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_725",
+          "title": "Test Procedure"
+        }
+      ],
+      "page": 37,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -375,7 +805,24 @@
         "r": 572.0399999999998,
         "b": 336.2121008403361
       },
-      "content": "Using an ohmmeter; measure the resistance between CN4-2 and CN4-3 with the overflow switch open/float up."
+      "content": "Using an ohmmeter; measure the resistance between CN4-2 and CN4-3 with the overflow switch open/float up.",
+      "section_id": "sec_auto_725",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_725",
+          "title": "Test Procedure"
+        }
+      ],
+      "page": 37,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -388,7 +835,24 @@
         "r": 483.5700000000001,
         "b": 322.7303225806452
       },
-      "content": "¾ ¾ If reading is infinite, go to step 7."
+      "content": "¾ ¾ If reading is infinite, go to step 7.",
+      "section_id": "sec_auto_725",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_725",
+          "title": "Test Procedure"
+        }
+      ],
+      "page": 37,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -401,7 +865,24 @@
         "r": 572.5900000000001,
         "b": 300.2121008403361
       },
-      "content": "¾ ¾ If 3 ohms or less is measured, or float/overflow switch is damaged, replace switch and retest."
+      "content": "¾ ¾ If 3 ohms or less is measured, or float/overflow switch is damaged, replace switch and retest.",
+      "section_id": "sec_auto_725",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_725",
+          "title": "Test Procedure"
+        }
+      ],
+      "page": 37,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -414,7 +895,24 @@
         "r": 573.0500000000002,
         "b": 277.2121008403361
       },
-      "content": "If the preceding steps did not correct the overflow switch problem, replace the control board and retest."
+      "content": "If the preceding steps did not correct the overflow switch problem, replace the control board and retest.",
+      "section_id": "sec_auto_725",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_725",
+          "title": "Test Procedure"
+        }
+      ],
+      "page": 37,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -427,7 +925,24 @@
         "r": 505.8100000000002,
         "b": 264.2121008403361
       },
-      "content": "Unplug dishwasher or disconnect power."
+      "content": "Unplug dishwasher or disconnect power.",
+      "section_id": "sec_auto_725",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_725",
+          "title": "Test Procedure"
+        }
+      ],
+      "page": 37,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -440,7 +955,24 @@
         "r": 473.07000000000033,
         "b": 251.21210084033612
       },
-      "content": "Reassemble all parts and panels."
+      "content": "Reassemble all parts and panels.",
+      "section_id": "sec_auto_725",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_725",
+          "title": "Test Procedure"
+        }
+      ],
+      "page": 37,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -453,7 +985,24 @@
         "r": 564.4600000000003,
         "b": 228.21210084033612
       },
-      "content": "Plug in dishwasher or reconnect power and run Service Mode Test on page 2-3 to verify repair."
+      "content": "Plug in dishwasher or reconnect power and run Service Mode Test on page 2-3 to verify repair.",
+      "section_id": "sec_auto_725",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_725",
+          "title": "Test Procedure"
+        }
+      ],
+      "page": 37,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -466,7 +1015,24 @@
         "r": 555.8369,
         "b": 32.765719354838666
       },
-      "content": "n"
+      "content": "n",
+      "section_id": "sec_auto_725",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_725",
+          "title": "Test Procedure"
+        }
+      ],
+      "page": 37,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

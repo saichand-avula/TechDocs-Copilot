@@ -19,7 +19,23 @@
       },
       "content": "Additional Errors / Faults",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_788",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Service information"
+        },
+        {
+          "id": "sec_auto_788",
+          "title": "Additional Errors / Faults"
+        }
+      ],
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "page": 56,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -34,7 +50,24 @@
       },
       "markdown": "| Error                              | Problem                                                  | Solution                                                                                                                                                                                                                      |\n|------------------------------------|----------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Door open                          | Door open continuously displayed when the door is closed | Check fuses F5 & F6, if blown replace door switches Check door switches are adjusted correctly Check oven door hinges are fitted / working correctly Check all wiring and connections Check L1 is present on twin phase ovens |\n| No USB Memory detected             | Unable to read inserted USB Memory                       | Incorrectly formatted USB Memory. Re-format and re-load files. Slow key, or large file, allow further time for oven to read USB Memory.                                                                                       |\n| Components not operating correctly | Components not operating correctly in diagnostic view    | Check shunts are correctly fitted in X515 & X516 on the IO Board.                                                                                                                                                             |",
       "rows": 4,
-      "cols": 3
+      "cols": 3,
+      "section_id": "sec_auto_788",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Service information"
+        },
+        {
+          "id": "sec_auto_788",
+          "title": "Additional Errors / Faults"
+        }
+      ],
+      "page": 56,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -52,7 +85,24 @@
       "next_block_id": "txt_0618",
       "width": 23,
       "height": 21,
-      "image_hash": "9cdb4a3f6855c5f01201b11efd609bf0c01b4eb25c6f1dd7307040344c572f58"
+      "image_hash": "9cdb4a3f6855c5f01201b11efd609bf0c01b4eb25c6f1dd7307040344c572f58",
+      "section_id": "sec_auto_788",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Service information"
+        },
+        {
+          "id": "sec_auto_788",
+          "title": "Additional Errors / Faults"
+        }
+      ],
+      "page": 56,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -70,7 +120,24 @@
       "next_block_id": "txt_0618",
       "width": 12,
       "height": 11,
-      "image_hash": "37aa15782f5b7aa9246d7fa51abd3acbceef37619e3e88f4dbc7f68ea4dab80d"
+      "image_hash": "37aa15782f5b7aa9246d7fa51abd3acbceef37619e3e88f4dbc7f68ea4dab80d",
+      "section_id": "sec_auto_788",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Service information"
+        },
+        {
+          "id": "sec_auto_788",
+          "title": "Additional Errors / Faults"
+        }
+      ],
+      "page": 56,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -85,7 +152,24 @@
       },
       "content": "5.4 Safe working when testing components",
       "level": 2,
-      "role": "section"
+      "section_number": "5.4",
+      "section_id": "sec_5_4",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Service information"
+        },
+        {
+          "id": "sec_5_4",
+          "title": "5.4 Safe working when testing components"
+        }
+      ],
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "page": 56,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -100,7 +184,23 @@
       },
       "content": "For your safety when testing oven components",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_793",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Service information"
+        },
+        {
+          "id": "sec_auto_793",
+          "title": "For your safety when testing oven components"
+        }
+      ],
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "page": 56,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -113,7 +213,24 @@
         "r": 559.1070000000001,
         "b": 545.8982344167462
       },
-      "content": "Before starting oven tests, familiarize yourself with the rules and hazard warnings in section 2 'For your safety', specifically section 2.14 'Safe working when testing components'."
+      "content": "Before starting oven tests, familiarize yourself with the rules and hazard warnings in section 2 'For your safety', specifically section 2.14 'Safe working when testing components'.",
+      "section_id": "sec_auto_793",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Service information"
+        },
+        {
+          "id": "sec_auto_793",
+          "title": "For your safety when testing oven components"
+        }
+      ],
+      "page": 56,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -128,7 +245,24 @@
       },
       "content": "5.5 Requirements",
       "level": 2,
-      "role": "section"
+      "section_number": "5.5",
+      "section_id": "sec_5_5",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Service information"
+        },
+        {
+          "id": "sec_5_5",
+          "title": "5.5 Requirements"
+        }
+      ],
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "page": 56,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -143,7 +277,23 @@
       },
       "content": "Equipment required for testing the appliance",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_796",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Service information"
+        },
+        {
+          "id": "sec_auto_796",
+          "title": "Equipment required for testing the appliance"
+        }
+      ],
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "page": 56,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -156,7 +306,24 @@
         "r": 293.34,
         "b": 375.13833441674615
       },
-      "content": "HV Capacitor discharge tool Portable Appliance Tester (P.A.T.) Digital Multi-Meter (D.M.M.) Proprietary voltage detector Electrical lock out tools & equipment Megger / similar 500 V d. c. Insulation tester Microwave detection / leakage meter (calibrated)  Temperature reader (calibrated) Microwave safe 600 ml glass beaker Microwave safe 2 litre container"
+      "content": "HV Capacitor discharge tool Portable Appliance Tester (P.A.T.) Digital Multi-Meter (D.M.M.) Proprietary voltage detector Electrical lock out tools & equipment Megger / similar 500 V d. c. Insulation tester Microwave detection / leakage meter (calibrated)  Temperature reader (calibrated) Microwave safe 600 ml glass beaker Microwave safe 2 litre container",
+      "section_id": "sec_auto_796",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Service information"
+        },
+        {
+          "id": "sec_auto_796",
+          "title": "Equipment required for testing the appliance"
+        }
+      ],
+      "page": 56,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -169,7 +336,24 @@
         "r": 445.3595999999999,
         "b": 399.37533441674617
       },
-      "content": "5.5 mm socket wrench  Torque wrench Door Spacer Kit 4mm / 2mm 1000 volt rated general hand tools 1000-volt proof insulted rubber gloves  PPE"
+      "content": "5.5 mm socket wrench  Torque wrench Door Spacer Kit 4mm / 2mm 1000 volt rated general hand tools 1000-volt proof insulted rubber gloves  PPE",
+      "section_id": "sec_auto_796",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Service information"
+        },
+        {
+          "id": "sec_auto_796",
+          "title": "Equipment required for testing the appliance"
+        }
+      ],
+      "page": 56,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -184,7 +368,24 @@
       },
       "content": "5.6 Testing selected components (casing mounted)",
       "level": 2,
-      "role": "section"
+      "section_number": "5.6",
+      "section_id": "sec_5_6",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Service information"
+        },
+        {
+          "id": "sec_5_6",
+          "title": "5.6 Testing selected components (casing mounted)"
+        }
+      ],
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "page": 56,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -199,7 +400,23 @@
       },
       "content": "Technical advisory notice: PAT testing of Merrychef ovens",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_800",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Service information"
+        },
+        {
+          "id": "sec_auto_800",
+          "title": "Technical advisory notice: PAT testing of Merrychef ovens"
+        }
+      ],
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "page": 56,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -212,7 +429,24 @@
         "r": 560.8530000000001,
         "b": 261.49833441674616
       },
-      "content": "While  testing  with  a  Portable  Appliance  Tester  (PAT)  is  not  an  automatic  requirement  for  the  Merrychef  commercial combination microwave oven models, the following notice is to advise on this testing in addition to the following instructions as deemed necessary."
+      "content": "While  testing  with  a  Portable  Appliance  Tester  (PAT)  is  not  an  automatic  requirement  for  the  Merrychef  commercial combination microwave oven models, the following notice is to advise on this testing in addition to the following instructions as deemed necessary.",
+      "section_id": "sec_auto_800",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Service information"
+        },
+        {
+          "id": "sec_auto_800",
+          "title": "Technical advisory notice: PAT testing of Merrychef ovens"
+        }
+      ],
+      "page": 56,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -225,7 +459,24 @@
         "r": 560.8620000000001,
         "b": 224.77833441674613
       },
-      "content": "If  the  customer requires  PAT testing  of  the  Merrychef  equipment  we  suggest  this  is  limited to  a)  earth  continuity and  b) insulation resistance (measured at ~ 500 V DC). All Merrychef commercial combination microwave ovens are classified as CLASS 1 for the purpose of testing."
+      "content": "If  the  customer requires  PAT testing  of  the  Merrychef  equipment  we  suggest  this  is  limited to  a)  earth  continuity and  b) insulation resistance (measured at ~ 500 V DC). All Merrychef commercial combination microwave ovens are classified as CLASS 1 for the purpose of testing.",
+      "section_id": "sec_auto_800",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Service information"
+        },
+        {
+          "id": "sec_auto_800",
+          "title": "Technical advisory notice: PAT testing of Merrychef ovens"
+        }
+      ],
+      "page": 56,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -238,7 +489,24 @@
         "r": 560.8710000000002,
         "b": 187.94133441674614
       },
-      "content": "Should it still be deemed necessary by the customer to perform an Earth Leakage test, the following advice should be adhered to. Note that not all PATs are capable of just measuring the leakage or allow you to set a pass limit and therefore may not be appropriate for this test."
+      "content": "Should it still be deemed necessary by the customer to perform an Earth Leakage test, the following advice should be adhered to. Note that not all PATs are capable of just measuring the leakage or allow you to set a pass limit and therefore may not be appropriate for this test.",
+      "section_id": "sec_auto_800",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Service information"
+        },
+        {
+          "id": "sec_auto_800",
+          "title": "Technical advisory notice: PAT testing of Merrychef ovens"
+        }
+      ],
+      "page": 56,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -256,7 +524,24 @@
       "next_block_id": "txt_0630",
       "width": 12,
       "height": 12,
-      "image_hash": "60d6609a63444a242299348190b436fd6d0571fe7907a3fbdfa0a321912559d5"
+      "image_hash": "60d6609a63444a242299348190b436fd6d0571fe7907a3fbdfa0a321912559d5",
+      "section_id": "sec_auto_800",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Service information"
+        },
+        {
+          "id": "sec_auto_800",
+          "title": "Technical advisory notice: PAT testing of Merrychef ovens"
+        }
+      ],
+      "page": 56,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -271,7 +556,23 @@
       },
       "content": "WARNING",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_805",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Service information"
+        },
+        {
+          "id": "sec_auto_805",
+          "title": "WARNING"
+        }
+      ],
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "page": 56,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -286,7 +587,23 @@
       },
       "content": "High leakage current",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_806",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Service information"
+        },
+        {
+          "id": "sec_auto_806",
+          "title": "High leakage current"
+        }
+      ],
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "page": 56,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -299,7 +616,24 @@
         "r": 560.862,
         "b": 118.57533441674627
       },
-      "content": "Merrychef appliances are fitted with radio interference filters and inverter circuits which cause an increase in leakage current. The PAT may indicate an erroneous failure condition depending on its internal \"pass\"/\"fail\" settings. Please refer to the revised limits which apply to the specific Merrychef oven model."
+      "content": "Merrychef appliances are fitted with radio interference filters and inverter circuits which cause an increase in leakage current. The PAT may indicate an erroneous failure condition depending on its internal \"pass\"/\"fail\" settings. Please refer to the revised limits which apply to the specific Merrychef oven model.",
+      "section_id": "sec_auto_806",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Service information"
+        },
+        {
+          "id": "sec_auto_806",
+          "title": "High leakage current"
+        }
+      ],
+      "page": 56,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -314,7 +648,24 @@
       },
       "markdown": "| Model          | Model maximum limit applied with radio interference filter fitted   |\n|----------------|---------------------------------------------------------------------|\n| conneX 12 & 16 | 10 mA                                                               |",
       "rows": 2,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_auto_806",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Service information"
+        },
+        {
+          "id": "sec_auto_806",
+          "title": "High leakage current"
+        }
+      ],
+      "page": 56,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

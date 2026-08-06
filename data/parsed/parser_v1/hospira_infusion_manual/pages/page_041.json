@@ -19,12 +19,30 @@
       },
       "image_path": "figures/figure_0019.png",
       "next_block_id": "txt_0302",
-      "caption_id": "txt_0302",
       "caption": ". System Startup and Shutdown Timing, Battery Powered",
       "figure_number": "Figure 4-2",
       "image_hash": "fe14836d0cd317af8a17617341bde49fd2baae153706f7954aadaee016c03c1e",
       "width": 411,
-      "height": 170
+      "height": 170,
+      "section_id": "sec_4_2_2_5",
+      "parent_section_id": "sec_auto_327",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_auto_327",
+          "title": "SYSTEM POWER"
+        },
+        {
+          "id": "sec_4_2_2_5",
+          "title": "4.2.2.5 POWER CONTROL"
+        }
+      ],
+      "page": 41,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0019",
+      "source": "pdf_text",
+      "caption_id": "txt_0302"
     },
     {
       "type": "caption",
@@ -38,6 +56,24 @@
         "b": 526.2982679300001
       },
       "content": "Figure 4-2. System Startup and Shutdown Timing, Battery Powered",
+      "section_id": "sec_4_2_2_5",
+      "parent_section_id": "sec_auto_327",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_auto_327",
+          "title": "SYSTEM POWER"
+        },
+        {
+          "id": "sec_4_2_2_5",
+          "title": "4.2.2.5 POWER CONTROL"
+        }
+      ],
+      "page": 41,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0019",
+      "source": "pdf_text",
       "caption_for": "fig_0019"
     },
     {
@@ -52,8 +88,25 @@
         "b": 489.8276746187604
       },
       "content": "4.2.2.6",
-      "level": 2,
-      "role": "section"
+      "level": 4,
+      "section_number": "4.2.2.6",
+      "section_id": "sec_4_2_2_6",
+      "section_path": [
+        {
+          "id": "sec_auto_327",
+          "title": "SYSTEM POWER"
+        },
+        {
+          "id": "sec_4_2_2_6",
+          "title": "4.2.2.6"
+        }
+      ],
+      "parent_section_id": "sec_auto_327",
+      "section_level": 4,
+      "page": 41,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -68,7 +121,19 @@
       },
       "content": "BATTERY VOLTAGE MEASUREMENT",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_338",
+      "section_path": [
+        {
+          "id": "sec_auto_338",
+          "title": "BATTERY VOLTAGE MEASUREMENT"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 2,
+      "page": 41,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -81,7 +146,20 @@
         "r": 540.0081629427003,
         "b": 414.22787478403274
       },
-      "content": "The battery terminal voltage (BATPOS - BATNEG) is measured with a differential amplifier consisting of U1, R1, R2, R4, R7, and R8. It has a gain of 0.317 to generate a single ended VBATT signal. The VBATT signal is then provided to the CPU A/D converter as input for the battery management algorithms."
+      "content": "The battery terminal voltage (BATPOS - BATNEG) is measured with a differential amplifier consisting of U1, R1, R2, R4, R7, and R8. It has a gain of 0.317 to generate a single ended VBATT signal. The VBATT signal is then provided to the CPU A/D converter as input for the battery management algorithms.",
+      "section_id": "sec_auto_338",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_338",
+          "title": "BATTERY VOLTAGE MEASUREMENT"
+        }
+      ],
+      "page": 41,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -95,8 +173,25 @@
         "b": 381.8290805117603
       },
       "content": "4.2.2.7",
-      "level": 2,
-      "role": "section"
+      "level": 4,
+      "section_number": "4.2.2.7",
+      "section_id": "sec_4_2_2_7",
+      "section_path": [
+        {
+          "id": "sec_auto_338",
+          "title": "BATTERY VOLTAGE MEASUREMENT"
+        },
+        {
+          "id": "sec_4_2_2_7",
+          "title": "4.2.2.7"
+        }
+      ],
+      "parent_section_id": "sec_auto_338",
+      "section_level": 4,
+      "page": 41,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -111,7 +206,19 @@
       },
       "content": "BATTERY CHARGE/DISCHARGE CURRENT MEASUREMENT",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_341",
+      "section_path": [
+        {
+          "id": "sec_auto_341",
+          "title": "BATTERY CHARGE/DISCHARGE CURRENT MEASUREMENT"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 2,
+      "page": 41,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -124,7 +231,20 @@
         "r": 540.1100538450011,
         "b": 222.2291344480327
       },
-      "content": "The battery management algorithms measure battery charge/discharge current for battery capacity estimation and charger control. The charge/discharge current is measured by integrating  the  voltage  across  current  sense  resistor  R57.  An  operational  amplifier (op-amp)  integrator  circuit,  consisting  of  U2,  C5,  R12,  R13,  R19,  and  R20,  provides a voltage proportional to the integration of battery current (IBATT) over a CPU controlled measurement period. The IBATT signal is fed to the CPU A/D converter, where it is sampled at  the  end  of  the  measurement  period.  The  battery  management  algorithm  further accumulates the charge/discharge current for battery capacity estimation. The op-amp integrator is reset by the CPU system at the beginning of each measurement period by parallel  analog  switches  U3,  controlled  by  the  CPU's  ITGRST  signal.  The  battery management algorithm periodically calibrates the op-amp integrator."
+      "content": "The battery management algorithms measure battery charge/discharge current for battery capacity estimation and charger control. The charge/discharge current is measured by integrating  the  voltage  across  current  sense  resistor  R57.  An  operational  amplifier (op-amp)  integrator  circuit,  consisting  of  U2,  C5,  R12,  R13,  R19,  and  R20,  provides a voltage proportional to the integration of battery current (IBATT) over a CPU controlled measurement period. The IBATT signal is fed to the CPU A/D converter, where it is sampled at  the  end  of  the  measurement  period.  The  battery  management  algorithm  further accumulates the charge/discharge current for battery capacity estimation. The op-amp integrator is reset by the CPU system at the beginning of each measurement period by parallel  analog  switches  U3,  controlled  by  the  CPU's  ITGRST  signal.  The  battery management algorithm periodically calibrates the op-amp integrator.",
+      "section_id": "sec_auto_341",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_341",
+          "title": "BATTERY CHARGE/DISCHARGE CURRENT MEASUREMENT"
+        }
+      ],
+      "page": 41,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

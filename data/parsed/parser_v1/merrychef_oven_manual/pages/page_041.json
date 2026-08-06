@@ -18,8 +18,21 @@
         "b": 774.2523086051509
       },
       "content": "5 Service information",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "5",
+      "section_id": "sec_5",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Service information"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 41,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -34,7 +47,24 @@
       },
       "content": "5.1 Service procedure",
       "level": 2,
-      "role": "section"
+      "section_number": "5.1",
+      "section_id": "sec_5_1",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Service information"
+        },
+        {
+          "id": "sec_5_1",
+          "title": "5.1 Service procedure"
+        }
+      ],
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "page": 41,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -49,7 +79,23 @@
       },
       "content": "Servicing procedure: overview",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_641",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Service information"
+        },
+        {
+          "id": "sec_auto_641",
+          "title": "Servicing procedure: overview"
+        }
+      ],
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "page": 41,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -62,7 +108,24 @@
         "r": 307.91700000000003,
         "b": 694.7187304760582
       },
-      "content": "Disconnect/isolate the appliance from the power supply."
+      "content": "Disconnect/isolate the appliance from the power supply.",
+      "section_id": "sec_auto_641",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Service information"
+        },
+        {
+          "id": "sec_auto_641",
+          "title": "Servicing procedure: overview"
+        }
+      ],
+      "page": 41,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -75,7 +138,24 @@
         "r": 480.96000000000004,
         "b": 682.4787304760582
       },
-      "content": "Check the appliance is correctly installed as described in the conneX Installation and User manual."
+      "content": "Check the appliance is correctly installed as described in the conneX Installation and User manual.",
+      "section_id": "sec_auto_641",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Service information"
+        },
+        {
+          "id": "sec_auto_641",
+          "title": "Servicing procedure: overview"
+        }
+      ],
+      "page": 41,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -88,7 +168,24 @@
         "r": 556.65,
         "b": 657.9813344167462
       },
-      "content": "Visually check the cleanliness/condition of the power supply/cable, casing, cavity and door of the appliance for signs of wear, damage, distortion etc. If required, refer to the 'Replacing components\" section of this manual (section 6)."
+      "content": "Visually check the cleanliness/condition of the power supply/cable, casing, cavity and door of the appliance for signs of wear, damage, distortion etc. If required, refer to the 'Replacing components\" section of this manual (section 6).",
+      "section_id": "sec_auto_641",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Service information"
+        },
+        {
+          "id": "sec_auto_641",
+          "title": "Servicing procedure: overview"
+        }
+      ],
+      "page": 41,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -101,7 +198,24 @@
         "r": 510.6716999999998,
         "b": 645.6417304760582
       },
-      "content": "Complete an \"Earth/Insulation test\" (see section 5.6 of this manual) on the appliance before switching on."
+      "content": "Complete an \"Earth/Insulation test\" (see section 5.6 of this manual) on the appliance before switching on.",
+      "section_id": "sec_auto_641",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Service information"
+        },
+        {
+          "id": "sec_auto_641",
+          "title": "Servicing procedure: overview"
+        }
+      ],
+      "page": 41,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -114,7 +228,24 @@
         "r": 556.6202999999996,
         "b": 633.6447304760583
       },
-      "content": "Check the display for error messages. If an error is shown, refer to the 'Fault Finding' within section 5.3 of this manual."
+      "content": "Check the display for error messages. If an error is shown, refer to the 'Fault Finding' within section 5.3 of this manual.",
+      "section_id": "sec_auto_641",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Service information"
+        },
+        {
+          "id": "sec_auto_641",
+          "title": "Servicing procedure: overview"
+        }
+      ],
+      "page": 41,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -127,7 +258,24 @@
         "r": 558.4409999999997,
         "b": 609.1473344167463
       },
-      "content": "If a firmware update is required, follow the instructions under 'Firmware updates' within section 4.5 of this manual before continuing with the service procedure."
+      "content": "If a firmware update is required, follow the instructions under 'Firmware updates' within section 4.5 of this manual before continuing with the service procedure.",
+      "section_id": "sec_auto_641",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Service information"
+        },
+        {
+          "id": "sec_auto_641",
+          "title": "Servicing procedure: overview"
+        }
+      ],
+      "page": 41,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -142,7 +290,23 @@
       },
       "content": "Enter service mode",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_648",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Service information"
+        },
+        {
+          "id": "sec_auto_648",
+          "title": "Enter service mode"
+        }
+      ],
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "page": 41,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -159,7 +323,24 @@
       "previous_block_id": "txt_0506",
       "image_hash": "4fa2bdb8d29a6ebdfdaea1eb060b0e5b49babbc191a38a67f4c320d379fc7e1d",
       "width": 547,
-      "height": 528
+      "height": 528,
+      "section_id": "sec_auto_648",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Service information"
+        },
+        {
+          "id": "sec_auto_648",
+          "title": "Enter service mode"
+        }
+      ],
+      "page": 41,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

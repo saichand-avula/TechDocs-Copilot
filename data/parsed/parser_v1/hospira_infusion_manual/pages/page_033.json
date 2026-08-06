@@ -19,12 +19,30 @@
       },
       "image_path": "figures/figure_0018.png",
       "next_block_id": "txt_0229",
-      "caption_id": "txt_0230",
       "caption": ". Serial Interface to ADC",
       "figure_number": "Figure 4-1",
       "image_hash": "d1bf46bbdd48b8900234a24750a1d554be8094079ed8fe1711c38718a916e2cd",
       "width": 425,
-      "height": 267
+      "height": 267,
+      "section_id": "sec_4_2_1_11",
+      "parent_section_id": "sec_auto_246",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_auto_246",
+          "title": "REAL-TIME CLOCK"
+        },
+        {
+          "id": "sec_4_2_1_11",
+          "title": "4.2.1.11 ANALOG-TO-DIGITAL CONVERTER"
+        }
+      ],
+      "page": 33,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0018",
+      "source": "pdf_text",
+      "caption_id": "txt_0230"
     },
     {
       "type": "paragraph",
@@ -37,7 +55,24 @@
         "r": 536.7189818,
         "b": 451.197538
       },
-      "content": "98K01022"
+      "content": "98K01022",
+      "section_id": "sec_4_2_1_11",
+      "parent_section_id": "sec_auto_246",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_auto_246",
+          "title": "REAL-TIME CLOCK"
+        },
+        {
+          "id": "sec_4_2_1_11",
+          "title": "4.2.1.11 ANALOG-TO-DIGITAL CONVERTER"
+        }
+      ],
+      "page": 33,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -52,7 +87,24 @@
       },
       "markdown": "Figure 4-1. Serial Interface to ADC\n\n| Table 4-1. Analog Inputs   | Table 4-1. Analog Inputs   | Table 4-1. Analog Inputs   | Table 4-1. Analog Inputs           |\n|----------------------------|----------------------------|----------------------------|------------------------------------|\n| Signal Name                | Analog Input               | Address (hex)              | Description                        |\n| PRPRS                      | A0                         | $00                        | Proximal pressure sensor           |\n|                            | A1                         | $01                        | DIPRS Distal pressure sensor       |\n|                            | A2                         | $02                        | PXAIR Proximal air sensor          |\n| A3                         |                            | $03                        | DIAIR Distal air sensor            |\n| A4                         |                            | $04                        | IBATT Battery current              |\n| A5                         |                            | $05                        | VBATT Battery voltage              |\n| A6                         |                            | $06                        | BUZTST Buzzer test voltage         |\n| A7                         |                            | $07                        | LCDTST LCD contrast test voltage   |\n| A8                         |                            | $08                        | TUBTST CCFT intensity test voltage |\n| A9                         |                            | $09                        | MI_STA Motor current A control     |\n| MI_STB                     | A10                        | $0A                        | Motor current B control            |\n|                            |                            | $0B                        | (V ref(+) - V ref(-) ) / 2         |\n|                            |                            | $0C                        | V ref(-)                           |\n|                            |                            | $0D                        | V ref(+)                           |",
       "rows": 16,
-      "cols": 4
+      "cols": 4,
+      "section_id": "sec_4_2_1_11",
+      "parent_section_id": "sec_auto_246",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_auto_246",
+          "title": "REAL-TIME CLOCK"
+        },
+        {
+          "id": "sec_4_2_1_11",
+          "title": "4.2.1.11 ANALOG-TO-DIGITAL CONVERTER"
+        }
+      ],
+      "page": 33,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "caption",
@@ -66,6 +118,24 @@
         "b": 427.29826793
       },
       "content": "Figure 4-1. Serial Interface to ADC",
+      "section_id": "sec_4_2_1_11",
+      "parent_section_id": "sec_auto_246",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_auto_246",
+          "title": "REAL-TIME CLOCK"
+        },
+        {
+          "id": "sec_4_2_1_11",
+          "title": "4.2.1.11 ANALOG-TO-DIGITAL CONVERTER"
+        }
+      ],
+      "page": 33,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0018",
+      "source": "pdf_text",
       "caption_for": "fig_0018"
     }
   ],

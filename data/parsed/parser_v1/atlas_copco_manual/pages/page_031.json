@@ -19,7 +19,23 @@
       },
       "content": "Refrigerant circuit",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_272",
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_auto_272",
+          "title": "Refrigerant circuit"
+        }
+      ],
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "page": 31,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -32,7 +48,24 @@
         "r": 559.3116000000011,
         "b": 722.3441
       },
-      "content": "Compressor (5) delivers hot, high-pressure refrigerant gas which flows through condenser (6) where most of the refrigerant condenses."
+      "content": "Compressor (5) delivers hot, high-pressure refrigerant gas which flows through condenser (6) where most of the refrigerant condenses.",
+      "section_id": "sec_auto_272",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_auto_272",
+          "title": "Refrigerant circuit"
+        }
+      ],
+      "page": 31,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -45,7 +78,24 @@
         "r": 549.5975000000003,
         "b": 689.9436
       },
-      "content": "The liquid refrigerant flows through liquid refrigerant dryer/filter (7) to thermostatic expansion valve (8). The refrigerant leaves the thermostatic expansion valve at evaporating pressure."
+      "content": "The liquid refrigerant flows through liquid refrigerant dryer/filter (7) to thermostatic expansion valve (8). The refrigerant leaves the thermostatic expansion valve at evaporating pressure.",
+      "section_id": "sec_auto_272",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_auto_272",
+          "title": "Refrigerant circuit"
+        }
+      ],
+      "page": 31,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -58,7 +108,24 @@
         "r": 542.1064999999995,
         "b": 644.4035999999999
       },
-      "content": "The refrigerant enters evaporator (2) where it withdraws heat from the compressed air by further evaporation at constant pressure. The heated refrigerant leaves the evaporator and is sucked in by the compressor (5)."
+      "content": "The refrigerant enters evaporator (2) where it withdraws heat from the compressed air by further evaporation at constant pressure. The heated refrigerant leaves the evaporator and is sucked in by the compressor (5).",
+      "section_id": "sec_auto_272",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_auto_272",
+          "title": "Refrigerant circuit"
+        }
+      ],
+      "page": 31,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -71,7 +138,24 @@
         "r": 565.3330000000005,
         "b": 612.0635999999998
       },
-      "content": "By-pass valve (9) regulates the refrigerant flow. Fan (10) is switched on or off by switch (11) depending on the loading degree of the refrigerant circuit."
+      "content": "By-pass valve (9) regulates the refrigerant flow. Fan (10) is switched on or off by switch (11) depending on the loading degree of the refrigerant circuit.",
+      "section_id": "sec_auto_272",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_auto_272",
+          "title": "Refrigerant circuit"
+        }
+      ],
+      "page": 31,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -89,7 +173,24 @@
       "next_block_id": "txt_0202",
       "width": 23,
       "height": 24,
-      "image_hash": "873447f90cefde5b3be2023e6505b8105d1a4f0bac3f6901b65797646670ca61"
+      "image_hash": "873447f90cefde5b3be2023e6505b8105d1a4f0bac3f6901b65797646670ca61",
+      "section_id": "sec_auto_272",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_auto_272",
+          "title": "Refrigerant circuit"
+        }
+      ],
+      "page": 31,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -102,7 +203,24 @@
         "r": 539.7962925000002,
         "b": 558.4234479999999
       },
-      "content": "The refrigerant compressor motor has a built-in thermic protection. If the motor stops after tripping of the thermic protection, it may take up to 2 hours for the motor windings to cool down and before the motor can restart."
+      "content": "The refrigerant compressor motor has a built-in thermic protection. If the motor stops after tripping of the thermic protection, it may take up to 2 hours for the motor windings to cool down and before the motor can restart.",
+      "section_id": "sec_auto_272",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_auto_272",
+          "title": "Refrigerant circuit"
+        }
+      ],
+      "page": 31,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -119,7 +237,24 @@
       "previous_block_id": "txt_0202",
       "width": 47,
       "height": 23,
-      "image_hash": "b28a1d23de5124d82d6f84120acacff249829ec0e42f4c826059a188d93e4d2e"
+      "image_hash": "b28a1d23de5124d82d6f84120acacff249829ec0e42f4c826059a188d93e4d2e",
+      "section_id": "sec_auto_272",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_auto_272",
+          "title": "Refrigerant circuit"
+        }
+      ],
+      "page": 31,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

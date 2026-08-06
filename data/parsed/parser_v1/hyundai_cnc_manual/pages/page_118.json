@@ -18,8 +18,21 @@
         "b": 746.8429409281769
       },
       "content": "2-4-2. Outside of the Machine",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "2",
+      "section_id": "sec_2",
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-4-2. Outside of the Machine"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 118,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -32,7 +45,20 @@
         "r": 262.14669000000015,
         "b": 712.8230369281769
       },
-      "content": "Turret Tool Holder and Shank"
+      "content": "Turret Tool Holder and Shank",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-4-2. Outside of the Machine"
+        }
+      ],
+      "page": 118,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -45,7 +71,20 @@
         "r": 526.7237880000014,
         "b": 695.8431449281769
       },
-      "content": "Check the chips are removed from the tool holder or shank and engaging bolt is attached."
+      "content": "Check the chips are removed from the tool holder or shank and engaging bolt is attached.",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-4-2. Outside of the Machine"
+        }
+      ],
+      "page": 118,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -63,7 +102,20 @@
       "next_block_id": "txt_0738",
       "image_hash": "2bd0e20187a333b16827e31c587ca45b2126c124fd2925ba9947f5e4caa27c20",
       "width": 456,
-      "height": 201
+      "height": 201,
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-4-2. Outside of the Machine"
+        }
+      ],
+      "page": 118,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "caption",
@@ -77,6 +129,20 @@
         "b": 457.82405692817696
       },
       "content": "Fig. 5-16  Turret Tool Holder and Shank",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-4-2. Outside of the Machine"
+        }
+      ],
+      "page": 118,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0190",
+      "source": "pdf_text",
       "caption_for": "fig_0190"
     },
     {
@@ -90,7 +156,21 @@
         "r": 227.67989400000013,
         "b": 430.82416492817697
       },
-      "content": "Engaged State of Bolt"
+      "content": "Engaged State of Bolt",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-4-2. Outside of the Machine"
+        }
+      ],
+      "page": 118,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text",
+      "group_id": "grp_fig_0190"
     },
     {
       "type": "list_item",
@@ -103,7 +183,20 @@
         "r": 323.0283000000004,
         "b": 343.4630409281768
       },
-      "content": "This check is for preventing a failure in advance."
+      "content": "This check is for preventing a failure in advance.",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-4-2. Outside of the Machine"
+        }
+      ],
+      "page": 118,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -116,7 +209,20 @@
         "r": 330.22065599999974,
         "b": 324.3829569281768
       },
-      "content": "If neglecting this, it may cause the machine failure."
+      "content": "If neglecting this, it may cause the machine failure.",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-4-2. Outside of the Machine"
+        }
+      ],
+      "page": 118,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -129,7 +235,20 @@
         "r": 313.7356620000004,
         "b": 287.9030289281768
       },
-      "content": "Check the Operating Panel is illuminated."
+      "content": "Check the Operating Panel is illuminated.",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-4-2. Outside of the Machine"
+        }
+      ],
+      "page": 118,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -145,12 +264,26 @@
       "image_path": "figures/figure_0190.png",
       "previous_block_id": "txt_0742",
       "next_block_id": "txt_0743",
-      "caption_id": "txt_0738",
       "caption": "Turret Tool Holder and Shank",
       "figure_number": "Fig. 5-16",
       "image_hash": "7d6adafe23f6e345b954d17eb82a2c188d2ea68e7d8897bd8d69a1237288ccd1",
       "width": 119,
-      "height": 32
+      "height": 32,
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-4-2. Outside of the Machine"
+        }
+      ],
+      "page": 118,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0190",
+      "source": "pdf_text",
+      "caption_id": "txt_0738"
     },
     {
       "type": "figure",
@@ -166,12 +299,26 @@
       "image_path": "figures/figure_0191.png",
       "previous_block_id": "txt_0742",
       "next_block_id": "txt_0743",
-      "caption_id": "txt_0743",
       "caption": "Operating Position",
       "figure_number": "Fig. 5-17",
       "image_hash": "46b7ef45b2043e3bcff8f3f8f0492f40732244abc0c1ba73fa97ca3863a985f8",
       "width": 466,
-      "height": 181
+      "height": 181,
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-4-2. Outside of the Machine"
+        }
+      ],
+      "page": 118,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0191",
+      "source": "pdf_text",
+      "caption_id": "txt_0743"
     },
     {
       "type": "caption",
@@ -185,6 +332,20 @@
         "b": 66.92395292817685
       },
       "content": "Fig. 5-17  Operating Position",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-4-2. Outside of the Machine"
+        }
+      ],
+      "page": 118,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0191",
+      "source": "pdf_text",
       "caption_for": "fig_0191"
     }
   ],

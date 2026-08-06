@@ -18,8 +18,21 @@
         "b": 754.9440000000001
       },
       "content": "8       Maintenance",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "8",
+      "section_id": "sec_8",
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8       Maintenance"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 117,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -34,7 +47,24 @@
       },
       "content": "8.1     Preventive maintenance schedule",
       "level": 2,
-      "role": "section"
+      "section_number": "8.1",
+      "section_id": "sec_8_1",
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8       Maintenance"
+        },
+        {
+          "id": "sec_8_1",
+          "title": "8.1     Preventive maintenance schedule"
+        }
+      ],
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "page": 117,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -49,7 +79,23 @@
       },
       "content": "Control panel",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1285",
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8       Maintenance"
+        },
+        {
+          "id": "sec_auto_1285",
+          "title": "Control panel"
+        }
+      ],
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "page": 117,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -64,7 +110,23 @@
       },
       "content": "Warning",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1286",
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8       Maintenance"
+        },
+        {
+          "id": "sec_auto_1286",
+          "title": "Warning"
+        }
+      ],
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "page": 117,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -83,7 +145,24 @@
       "width": 27,
       "height": 25,
       "decorative": true,
-      "image_hash": "9b6fdd75d04b0dcf9bb74a13d783903213af75f45f06fab06499e81044c8a68a"
+      "image_hash": "9b6fdd75d04b0dcf9bb74a13d783903213af75f45f06fab06499e81044c8a68a",
+      "section_id": "sec_auto_1286",
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8       Maintenance"
+        },
+        {
+          "id": "sec_auto_1286",
+          "title": "Warning"
+        }
+      ],
+      "page": 117,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -99,11 +178,29 @@
       "image_path": "figures/figure_0307.png",
       "previous_block_id": "txt_0887",
       "next_block_id": "txt_0888",
-      "caption_id": "txt_0888",
       "caption": "Control panel Eledtronikon Graphic",
       "image_hash": "07d89d4119176322cf8c9e80a99f88a7946de9839cf097baac8c3ab802e0626d",
       "width": 247,
-      "height": 121
+      "height": 121,
+      "section_id": "sec_auto_1286",
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8       Maintenance"
+        },
+        {
+          "id": "sec_auto_1286",
+          "title": "Warning"
+        }
+      ],
+      "page": 117,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0307",
+      "source": "pdf_text",
+      "caption_id": "txt_0888"
     },
     {
       "type": "caption",
@@ -117,6 +214,24 @@
         "b": 506.38
       },
       "content": "Control panel Eledtronikon Graphic",
+      "section_id": "sec_auto_1286",
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8       Maintenance"
+        },
+        {
+          "id": "sec_auto_1286",
+          "title": "Warning"
+        }
+      ],
+      "page": 117,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0307",
+      "source": "pdf_text",
       "caption_for": "fig_0307"
     },
     {
@@ -132,7 +247,23 @@
       },
       "content": "Before carrying out any maintenance, repair work or adjustments, proceed as follows:",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1290",
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8       Maintenance"
+        },
+        {
+          "id": "sec_auto_1290",
+          "title": "Before carrying out any maintenance, repair work or adjustments, proceed as follows:"
+        }
+      ],
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "page": 117,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -145,7 +276,24 @@
         "r": 287.06981153000015,
         "b": 415.4171176
       },
-      "content": "Stop the compressor."
+      "content": "Stop the compressor.",
+      "section_id": "sec_auto_1290",
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8       Maintenance"
+        },
+        {
+          "id": "sec_auto_1290",
+          "title": "Before carrying out any maintenance, repair work or adjustments, proceed as follows:"
+        }
+      ],
+      "page": 117,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -158,7 +306,24 @@
         "r": 544.0621270400012,
         "b": 378.99711759999997
       },
-      "content": "Close the air outlet valve and press the test button on top of the electronic water drain(s) until the air system between air receiver and outlet valve is fully depressurized."
+      "content": "Close the air outlet valve and press the test button on top of the electronic water drain(s) until the air system between air receiver and outlet valve is fully depressurized.",
+      "section_id": "sec_auto_1290",
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8       Maintenance"
+        },
+        {
+          "id": "sec_auto_1290",
+          "title": "Before carrying out any maintenance, repair work or adjustments, proceed as follows:"
+        }
+      ],
+      "page": 117,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -171,7 +336,24 @@
         "r": 359.8018106599995,
         "b": 366.2771176
       },
-      "content": "Press the emergency stop button (10)."
+      "content": "Press the emergency stop button (10).",
+      "section_id": "sec_auto_1290",
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8       Maintenance"
+        },
+        {
+          "id": "sec_auto_1290",
+          "title": "Before carrying out any maintenance, repair work or adjustments, proceed as follows:"
+        }
+      ],
+      "page": 117,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -184,7 +366,24 @@
         "r": 286.0034095200003,
         "b": 354.1571176
       },
-      "content": "Switch off the voltage."
+      "content": "Switch off the voltage.",
+      "section_id": "sec_auto_1290",
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8       Maintenance"
+        },
+        {
+          "id": "sec_auto_1290",
+          "title": "Before carrying out any maintenance, repair work or adjustments, proceed as follows:"
+        }
+      ],
+      "page": 117,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -197,7 +396,24 @@
         "r": 323.6667415600001,
         "b": 341.9771176
       },
-      "content": "Depressurize the compressor."
+      "content": "Depressurize the compressor.",
+      "section_id": "sec_auto_1290",
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8       Maintenance"
+        },
+        {
+          "id": "sec_auto_1290",
+          "title": "Before carrying out any maintenance, repair work or adjustments, proceed as follows:"
+        }
+      ],
+      "page": 117,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -210,7 +426,24 @@
         "r": 414.1576633600002,
         "b": 329.7971176
       },
-      "content": "For detailed instructions, see section Problem solving."
+      "content": "For detailed instructions, see section Problem solving.",
+      "section_id": "sec_auto_1290",
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8       Maintenance"
+        },
+        {
+          "id": "sec_auto_1290",
+          "title": "Before carrying out any maintenance, repair work or adjustments, proceed as follows:"
+        }
+      ],
+      "page": 117,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -223,7 +456,24 @@
         "r": 185.19618443,
         "b": 317.6771176
       },
-      "content": "Th"
+      "content": "Th",
+      "section_id": "sec_auto_1290",
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8       Maintenance"
+        },
+        {
+          "id": "sec_auto_1290",
+          "title": "Before carrying out any maintenance, repair work or adjustments, proceed as follows:"
+        }
+      ],
+      "page": 117,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -238,7 +488,23 @@
       },
       "content": "Warranty - Product Liability",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1298",
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8       Maintenance"
+        },
+        {
+          "id": "sec_auto_1298",
+          "title": "Warranty - Product Liability"
+        }
+      ],
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "page": 117,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -251,7 +517,24 @@
         "r": 563.0691999999993,
         "b": 247.86379999999997
       },
-      "content": "Use only authorised parts. Any damage or malfunction caused by the use of unauthorised parts is not covered by Warranty or Product Liability."
+      "content": "Use only authorised parts. Any damage or malfunction caused by the use of unauthorised parts is not covered by Warranty or Product Liability.",
+      "section_id": "sec_auto_1298",
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8       Maintenance"
+        },
+        {
+          "id": "sec_auto_1298",
+          "title": "Warranty - Product Liability"
+        }
+      ],
+      "page": 117,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -266,7 +549,23 @@
       },
       "content": "Service kits",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1300",
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8       Maintenance"
+        },
+        {
+          "id": "sec_auto_1300",
+          "title": "Service kits"
+        }
+      ],
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "page": 117,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -279,7 +578,24 @@
         "r": 540.5866999999998,
         "b": 196.50400000000002
       },
-      "content": "For overhauling or carrying out preventive maintenance, service kits are available (see section Service kits)."
+      "content": "For overhauling or carrying out preventive maintenance, service kits are available (see section Service kits).",
+      "section_id": "sec_auto_1300",
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8       Maintenance"
+        },
+        {
+          "id": "sec_auto_1300",
+          "title": "Service kits"
+        }
+      ],
+      "page": 117,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -294,7 +610,23 @@
       },
       "content": "Service contracts",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1302",
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8       Maintenance"
+        },
+        {
+          "id": "sec_auto_1302",
+          "title": "Service contracts"
+        }
+      ],
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "page": 117,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -307,7 +639,24 @@
         "r": 560.1684999999993,
         "b": 132.36379999999997
       },
-      "content": "Atlas Copco offers several types of service contracts, relieving you of all preventive maintenance work. Consult your Atlas Copco Customer Centre."
+      "content": "Atlas Copco offers several types of service contracts, relieving you of all preventive maintenance work. Consult your Atlas Copco Customer Centre.",
+      "section_id": "sec_auto_1302",
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8       Maintenance"
+        },
+        {
+          "id": "sec_auto_1302",
+          "title": "Service contracts"
+        }
+      ],
+      "page": 117,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -322,7 +671,23 @@
       },
       "content": "General",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1304",
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8       Maintenance"
+        },
+        {
+          "id": "sec_auto_1304",
+          "title": "General"
+        }
+      ],
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "page": 117,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -335,7 +700,24 @@
         "r": 388.28689999999983,
         "b": 81.84410000000003
       },
-      "content": "When servicing, replace all removed gaskets, O-rings and washers."
+      "content": "When servicing, replace all removed gaskets, O-rings and washers.",
+      "section_id": "sec_auto_1304",
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8       Maintenance"
+        },
+        {
+          "id": "sec_auto_1304",
+          "title": "General"
+        }
+      ],
+      "page": 117,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -348,7 +730,24 @@
         "r": 275.49052469,
         "b": 317.6771176
       },
-      "content": "l"
+      "content": "l",
+      "section_id": "sec_auto_1304",
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8       Maintenance"
+        },
+        {
+          "id": "sec_auto_1304",
+          "title": "General"
+        }
+      ],
+      "page": 117,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -361,7 +760,24 @@
         "r": 294.3940592299999,
         "b": 317.6771176
       },
-      "content": "ll"
+      "content": "ll",
+      "section_id": "sec_auto_1304",
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8       Maintenance"
+        },
+        {
+          "id": "sec_auto_1304",
+          "title": "General"
+        }
+      ],
+      "page": 117,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -374,7 +790,24 @@
         "r": 308.91572782999987,
         "b": 317.6771176
       },
-      "content": "l"
+      "content": "l",
+      "section_id": "sec_auto_1304",
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8       Maintenance"
+        },
+        {
+          "id": "sec_auto_1304",
+          "title": "General"
+        }
+      ],
+      "page": 117,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -387,7 +820,24 @@
         "r": 350.40751689000007,
         "b": 317.6771176
       },
-      "content": "S f"
+      "content": "S f",
+      "section_id": "sec_auto_1304",
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8       Maintenance"
+        },
+        {
+          "id": "sec_auto_1304",
+          "title": "General"
+        }
+      ],
+      "page": 117,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -400,7 +850,24 @@
         "r": 402.0862672200001,
         "b": 317.6771176
       },
-      "content": "i"
+      "content": "i",
+      "section_id": "sec_auto_1304",
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8       Maintenance"
+        },
+        {
+          "id": "sec_auto_1304",
+          "title": "General"
+        }
+      ],
+      "page": 117,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -418,7 +885,24 @@
       "width": 47,
       "height": 23,
       "decorative": true,
-      "image_hash": "b28a1d23de5124d82d6f84120acacff249829ec0e42f4c826059a188d93e4d2e"
+      "image_hash": "b28a1d23de5124d82d6f84120acacff249829ec0e42f4c826059a188d93e4d2e",
+      "section_id": "sec_auto_1304",
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8       Maintenance"
+        },
+        {
+          "id": "sec_auto_1304",
+          "title": "General"
+        }
+      ],
+      "page": 117,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

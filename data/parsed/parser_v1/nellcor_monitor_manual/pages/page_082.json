@@ -19,7 +19,24 @@
       },
       "content": "9.7    Measurement Parameters",
       "level": 2,
-      "role": "section"
+      "section_number": "9.7",
+      "section_id": "sec_9_7",
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6. Turn monitor off."
+        },
+        {
+          "id": "sec_9_7",
+          "title": "9.7    Measurement Parameters"
+        }
+      ],
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "page": 82,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -34,7 +51,23 @@
       },
       "content": "ECG",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_941",
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6. Turn monitor off."
+        },
+        {
+          "id": "sec_auto_941",
+          "title": "ECG"
+        }
+      ],
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "page": 82,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -49,7 +82,24 @@
       },
       "markdown": "| Heart Rate                       | Heart Rate                                               |\n|----------------------------------|----------------------------------------------------------|\n| Measurement Range                | 20 BPM to 250 BPM                                        |\n| Accuracy                         | ±3 BPM or ±5%, whichever is greater                      |\n| ECG (Electrocardiograph)         | ECG (Electrocardiograph)                                 |\n| Leads                            | 3 / 5 Lead, user selectable I, II, III, V, aVR, aVL, aVF |\n| Lead Off Detection               | Detected and displayed                                   |\n| Input                            |                                                          |\n| Input Dynamic Range              | ±5 mV AC, ±300 mV DC                                     |\n| Voltage Range                    | ±0.5 mV to ±5 mV                                         |\n| Signal Width                     | 40ms to 120ms (Q to S)                                   |\n| ECG (Electrocardiograph) Output  | ECG (Electrocardiograph) Output                          |\n| Frequency Response (Bandwidth)   | Frequency Response (Bandwidth)                           |\n| Low Extend                       | 0.05 Hz to 40 Hz                                         |\n| Filter                           | 0.5 Hz to 30 Hz                                          |\n| Monitor                          | 0.5 Hz to 40 Hz                                          |\n| ECG Size (sensitivity)           | 1.25, 1.7, 2.5, 5.0, 7.5, 10.0, 15.0, 20.0 (mm per 1mV)  |\n| Display Sweep Speeds             | 12.5 mm/sec, 25.0 mm/sec, and 50.0 mm/sec                |\n| Pacemaker Detection              | Indicator on waveform display (user selectable)          |\n| Defibrillator Discharge Recovery | < 5 sec per IEC601-2-27                                  |",
       "rows": 19,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_auto_941",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6. Turn monitor off."
+        },
+        {
+          "id": "sec_auto_941",
+          "title": "ECG"
+        }
+      ],
+      "page": 82,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -64,7 +114,23 @@
       },
       "content": "Respiration rate",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_943",
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6. Turn monitor off."
+        },
+        {
+          "id": "sec_auto_943",
+          "title": "Respiration rate"
+        }
+      ],
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "page": 82,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -79,7 +145,24 @@
       },
       "markdown": "| Technique            | Trans-thoracic impedance         |\n|----------------------|----------------------------------|\n| Range                | 3 breaths/min to 120 breaths/min |\n| Accuracy             | ±3 breaths/min                   |\n| Leads                | RA to LA                         |\n| Display Sweep Speeds | 6.25 mm/s, 12.5 mm/s, 25.0 mm/s  |\n| Lead Off Condition   | Detected and displayed           |",
       "rows": 6,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_auto_943",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6. Turn monitor off."
+        },
+        {
+          "id": "sec_auto_943",
+          "title": "Respiration rate"
+        }
+      ],
+      "page": 82,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

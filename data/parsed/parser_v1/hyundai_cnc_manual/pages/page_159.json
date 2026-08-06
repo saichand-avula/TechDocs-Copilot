@@ -17,7 +17,20 @@
         "r": 253.2351240000001,
         "b": 733.0429409281768
       },
-      "content": "Fill coolant (185 L) into tank"
+      "content": "Fill coolant (185 L) into tank",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2) Cleaning"
+        }
+      ],
+      "page": 159,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -30,7 +43,20 @@
         "r": 343.2377699999995,
         "b": 716.0029289281767
       },
-      "content": "Assemble it in the reverse order of disassembly."
+      "content": "Assemble it in the reverse order of disassembly.",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2) Cleaning"
+        }
+      ],
+      "page": 159,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -48,7 +74,20 @@
       "next_block_id": "txt_1149",
       "image_hash": "eada264d7c9a2179cd23c276bfa4b8816bd7af97b4c6b229029ca088f912bee1",
       "width": 455,
-      "height": 266
+      "height": 266,
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2) Cleaning"
+        }
+      ],
+      "page": 159,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "caption",
@@ -62,6 +101,20 @@
         "b": 410.0041529281769
       },
       "content": "Fig. 5-62 Coolant Tank Disassembly Diagram",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2) Cleaning"
+        }
+      ],
+      "page": 159,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0282",
+      "source": "pdf_text",
       "caption_for": "fig_0282"
     },
     {
@@ -78,12 +131,26 @@
       "image_path": "figures/figure_0282.png",
       "previous_block_id": "txt_1149",
       "next_block_id": "txt_1150",
-      "caption_id": "txt_1149",
       "caption": "Coolant Tank Disassembly Diagram",
       "figure_number": "Fig. 5-62",
       "image_hash": "0c98f7d18874acfd35940f6320ec8fafdbf086f84c975dd7ad7422e4103003db",
       "width": 112,
-      "height": 31
+      "height": 31,
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2) Cleaning"
+        }
+      ],
+      "page": 159,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0282",
+      "source": "pdf_text",
+      "caption_id": "txt_1149"
     },
     {
       "type": "paragraph",
@@ -96,7 +163,20 @@
         "r": 524.5642139999987,
         "b": 303.62292892817686
       },
-      "content": "When cleaning the coolant tank, remove oil dropped on the floor. Otherwise, it may cause personal injury."
+      "content": "When cleaning the coolant tank, remove oil dropped on the floor. Otherwise, it may cause personal injury.",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2) Cleaning"
+        }
+      ],
+      "page": 159,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -114,7 +194,20 @@
       "next_block_id": "txt_1151",
       "image_hash": "96598f844e11596f82b5f29187ab84342bdc57b9ef0ac7e6e65560ca32f39dbd",
       "width": 112,
-      "height": 31
+      "height": 31,
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2) Cleaning"
+        }
+      ],
+      "page": 159,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -127,7 +220,20 @@
         "r": 525.9018839999998,
         "b": 194.72292892817677
       },
-      "content": "When filling coolant, you should use the oil recommended by KIA. Otherwise, it can cause machine failure."
+      "content": "When filling coolant, you should use the oil recommended by KIA. Otherwise, it can cause machine failure.",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2) Cleaning"
+        }
+      ],
+      "page": 159,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -145,7 +251,20 @@
       "next_block_id": "txt_1152",
       "image_hash": "0d83ef15686c068de23e98df354075dfa288f68eeb3d8046708049e5f57c038a",
       "width": 112,
-      "height": 32
+      "height": 32,
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2) Cleaning"
+        }
+      ],
+      "page": 159,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -158,7 +277,20 @@
         "r": 490.755678,
         "b": 102.80294092817678
       },
-      "content": "Remove the cover plate above the tank and sludge from the chip box regularly."
+      "content": "Remove the cover plate above the tank and sludge from the chip box regularly.",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2) Cleaning"
+        }
+      ],
+      "page": 159,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

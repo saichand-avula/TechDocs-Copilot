@@ -22,7 +22,24 @@
       "width": 47,
       "height": 23,
       "decorative": true,
-      "image_hash": "7577891dcf1743bd2e7a735ef2621e01244d960bde43e28868c27d7c1437ddb9"
+      "image_hash": "7577891dcf1743bd2e7a735ef2621e01244d960bde43e28868c27d7c1437ddb9",
+      "section_id": "sec_auto_272",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_auto_272",
+          "title": "Refrigerant circuit"
+        }
+      ],
+      "page": 32,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -36,8 +53,21 @@
         "b": 754.9440000000001
       },
       "content": "3       Elektronikon® Graphic controller",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "3",
+      "section_id": "sec_3",
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3       Elektronikon® Graphic controller"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 32,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -52,7 +82,24 @@
       },
       "content": "3.1    Elektronikon® Graphic regulator",
       "level": 2,
-      "role": "section"
+      "section_number": "3.1",
+      "section_id": "sec_3_1",
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3       Elektronikon® Graphic controller"
+        },
+        {
+          "id": "sec_3_1",
+          "title": "3.1    Elektronikon® Graphic regulator"
+        }
+      ],
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "page": 32,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -67,7 +114,23 @@
       },
       "content": "Control panel",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_283",
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3       Elektronikon® Graphic controller"
+        },
+        {
+          "id": "sec_auto_283",
+          "title": "Control panel"
+        }
+      ],
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "page": 32,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -82,7 +145,23 @@
       },
       "content": "Introduction",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_284",
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3       Elektronikon® Graphic controller"
+        },
+        {
+          "id": "sec_auto_284",
+          "title": "Introduction"
+        }
+      ],
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "page": 32,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -97,7 +176,23 @@
       },
       "content": "In general, the Elektronikon regulator has following functions:",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_285",
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3       Elektronikon® Graphic controller"
+        },
+        {
+          "id": "sec_auto_285",
+          "title": "In general, the Elektronikon regulator has following functions:"
+        }
+      ],
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "page": 32,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -110,7 +205,24 @@
         "r": 194.9600999999999,
         "b": 382.1433
       },
-      "content": "Controlling the compressor"
+      "content": "Controlling the compressor",
+      "section_id": "sec_auto_285",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3       Elektronikon® Graphic controller"
+        },
+        {
+          "id": "sec_auto_285",
+          "title": "In general, the Elektronikon regulator has following functions:"
+        }
+      ],
+      "page": 32,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -123,7 +235,24 @@
         "r": 192.6907999999999,
         "b": 363.0033
       },
-      "content": "Protecting the compressor"
+      "content": "Protecting the compressor",
+      "section_id": "sec_auto_285",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3       Elektronikon® Graphic controller"
+        },
+        {
+          "id": "sec_auto_285",
+          "title": "In general, the Elektronikon regulator has following functions:"
+        }
+      ],
+      "page": 32,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -136,7 +265,24 @@
         "r": 260.18129999999974,
         "b": 343.80280000000005
       },
-      "content": "Monitoring components subject to service"
+      "content": "Monitoring components subject to service",
+      "section_id": "sec_auto_285",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3       Elektronikon® Graphic controller"
+        },
+        {
+          "id": "sec_auto_285",
+          "title": "In general, the Elektronikon regulator has following functions:"
+        }
+      ],
+      "page": 32,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -149,7 +295,24 @@
         "r": 315.7016000000002,
         "b": 324.66280000000006
       },
-      "content": "Automatic restart after voltage failure (made inactive)"
+      "content": "Automatic restart after voltage failure (made inactive)",
+      "section_id": "sec_auto_285",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3       Elektronikon® Graphic controller"
+        },
+        {
+          "id": "sec_auto_285",
+          "title": "In general, the Elektronikon regulator has following functions:"
+        }
+      ],
+      "page": 32,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -164,7 +327,23 @@
       },
       "content": "Automatic control of the compressor operation",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_290",
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3       Elektronikon® Graphic controller"
+        },
+        {
+          "id": "sec_auto_290",
+          "title": "Automatic control of the compressor operation"
+        }
+      ],
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "page": 32,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -177,7 +356,24 @@
         "r": 538.4659000000009,
         "b": 240.84280000000012
       },
-      "content": "The regulator maintains the net pressure between programmable limits by automatically loading and unloading the compressor. A number of programmable settings, e.g. the unloading and loading pressures, the minimum stop time and the maximum number of motor starts are taken into account."
+      "content": "The regulator maintains the net pressure between programmable limits by automatically loading and unloading the compressor. A number of programmable settings, e.g. the unloading and loading pressures, the minimum stop time and the maximum number of motor starts are taken into account.",
+      "section_id": "sec_auto_290",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3       Elektronikon® Graphic controller"
+        },
+        {
+          "id": "sec_auto_290",
+          "title": "Automatic control of the compressor operation"
+        }
+      ],
+      "page": 32,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -190,7 +386,24 @@
         "r": 516.6221000000011,
         "b": 195.30280000000016
       },
-      "content": "The regulator stops the compressor whenever possible to reduce the power consumption and restarts it automatically when the net pressure decreases. In case the expected unloading period is too short, the compressor is kept running to prevent too short stand still periods."
+      "content": "The regulator stops the compressor whenever possible to reduce the power consumption and restarts it automatically when the net pressure decreases. In case the expected unloading period is too short, the compressor is kept running to prevent too short stand still periods.",
+      "section_id": "sec_auto_290",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3       Elektronikon® Graphic controller"
+        },
+        {
+          "id": "sec_auto_290",
+          "title": "Automatic control of the compressor operation"
+        }
+      ],
+      "page": 32,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -208,7 +421,24 @@
       "next_block_id": "txt_0215",
       "width": 27,
       "height": 24,
-      "image_hash": "a2f863e398236b90f08706cfbf2a6ba4363f098b397f3769fa5bb98745641b65"
+      "image_hash": "a2f863e398236b90f08706cfbf2a6ba4363f098b397f3769fa5bb98745641b65",
+      "section_id": "sec_auto_290",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3       Elektronikon® Graphic controller"
+        },
+        {
+          "id": "sec_auto_290",
+          "title": "Automatic control of the compressor operation"
+        }
+      ],
+      "page": 32,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -221,7 +451,24 @@
         "r": 532.9716114399986,
         "b": 135.44022159999997
       },
-      "content": "A number of time-based automatic start/stop commands may be programmed. Take into account that a start command will be executed (if programmed and activated), even after manually stopping the compressor."
+      "content": "A number of time-based automatic start/stop commands may be programmed. Take into account that a start command will be executed (if programmed and activated), even after manually stopping the compressor.",
+      "section_id": "sec_auto_290",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3       Elektronikon® Graphic controller"
+        },
+        {
+          "id": "sec_auto_290",
+          "title": "Automatic control of the compressor operation"
+        }
+      ],
+      "page": 32,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -237,11 +484,29 @@
       "image_path": "figures/figure_0061.png",
       "previous_block_id": "txt_0215",
       "next_block_id": "txt_0216",
-      "caption_id": "txt_0216",
       "caption": "Display of the Elektronikon ®  Graphic controller",
       "image_hash": "b7556ef1eb235b9714412978864335d5c136a1d9c546171aec3a89a3a20c7356",
       "width": 216,
-      "height": 196
+      "height": 196,
+      "section_id": "sec_auto_290",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3       Elektronikon® Graphic controller"
+        },
+        {
+          "id": "sec_auto_290",
+          "title": "Automatic control of the compressor operation"
+        }
+      ],
+      "page": 32,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0061",
+      "source": "pdf_text",
+      "caption_id": "txt_0216"
     },
     {
       "type": "caption",
@@ -255,6 +520,24 @@
         "b": 455.85999999999996
       },
       "content": "Display of the Elektronikon ®  Graphic controller",
+      "section_id": "sec_auto_290",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3       Elektronikon® Graphic controller"
+        },
+        {
+          "id": "sec_auto_290",
+          "title": "Automatic control of the compressor operation"
+        }
+      ],
+      "page": 32,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0061",
+      "source": "pdf_text",
       "caption_for": "fig_0061"
     }
   ],

@@ -18,8 +18,21 @@
         "b": 755.7829409281768
       },
       "content": "3-6-2. Specification and Cleaning",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "3",
+      "section_id": "sec_3",
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-6-2. Specification and Cleaning"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 158,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -33,8 +46,21 @@
         "b": 721.8231569281769
       },
       "content": "1) Specification",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "1",
+      "section_id": "sec_1",
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1) Specification"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 158,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -48,11 +74,25 @@
         "b": 441.31561279296875
       },
       "markdown": "Table 5-6.  Specification Table\n\n| Type                         | Type                       | Flooding style ACP-180F   | Flooding style ACP-180F   |\n|------------------------------|----------------------------|---------------------------|---------------------------|\n| Power (kW)                   | Power (kW)                 | 0.18(0.24HP)              | 0.18(0.24HP)              |\n| Polarity                     | Polarity                   | 3 Ø • 2P                  | 3 Ø • 2P                  |\n| Voltage (V)                  | Voltage (V)                | 220                       | 220/380                   |\n| Permissible Maximum          | Permissible Maximum        | 0.58                      | 1.0                       |\n| Current (A) Frequency (Hz)   | Current (A) Frequency (Hz) | 50                        | 60                        |\n| Ambient Temperature (°C)     | Ambient Temperature (°C)   | -15-40                    | -15-40                    |\n| Discharge                    | 50 Hz                      | 75                        | 75                        |\n| (l/min)                      | 60 Hz                      | 90                        | 90                        |\n| Overall lift                 | 50 Hz                      | 3                         | 3                         |\n| (m)                          | 60 Hz                      | 3                         | 3                         |\n| Available Density Limit (R\") |                            | 1200/600                  | 1200/600                  |",
-      "caption_id": "txt_1136",
       "title": "Table 5-6.  Specification Table",
       "table_number": "Table 5-6",
       "rows": 12,
-      "cols": 4
+      "cols": 4,
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1) Specification"
+        }
+      ],
+      "page": 158,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "group_id": "grp_tbl_0047",
+      "source": "pdf_text",
+      "caption_id": "txt_1137"
     },
     {
       "type": "caption",
@@ -66,6 +106,19 @@
         "b": 687.8032529281769
       },
       "content": "Table 5-6.  Specification Table",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1) Specification"
+        }
+      ],
+      "page": 158,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "source": "pdf_text",
       "caption_for": "tbl_0047"
     },
     {
@@ -82,12 +135,24 @@
       "image_path": "figures/figure_0279.png",
       "previous_block_id": "txt_1136",
       "next_block_id": "txt_1137",
-      "caption_id": "txt_1137",
       "caption": "Pump",
       "figure_number": "Fig. 5-61",
       "image_hash": "c62aba8080f5603172ddef111716defd403bad62938b5d12680ee7ddaed48dbf",
       "width": 192,
-      "height": 237
+      "height": 237,
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1) Specification"
+        }
+      ],
+      "page": 158,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "caption",
@@ -101,7 +166,21 @@
         "b": 426.32294092817676
       },
       "content": "Fig. 5-61 Pump",
-      "caption_for": "fig_0279"
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1) Specification"
+        }
+      ],
+      "page": 158,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_tbl_0047",
+      "source": "pdf_text",
+      "caption_for": "tbl_0047"
     },
     {
       "type": "figure",
@@ -120,7 +199,20 @@
       "width": 31,
       "height": 32,
       "decorative": true,
-      "image_hash": "a7ba542d0d44e76817a61400257afe84cba7ce52e46650f382c046c092b43c3c"
+      "image_hash": "a7ba542d0d44e76817a61400257afe84cba7ce52e46650f382c046c092b43c3c",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1) Specification"
+        }
+      ],
+      "page": 158,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "admonition",
@@ -134,7 +226,20 @@
         "t": 386.70266000000004,
         "r": 352.806162,
         "b": 372.51853429834256
-      }
+      },
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1) Specification"
+        }
+      ],
+      "page": 158,
+      "chunk_hint": "admonition",
+      "semantic_role": "caution",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -148,8 +253,21 @@
         "b": 266.4231489281767
       },
       "content": "2) Cleaning",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "2",
+      "section_id": "sec_2",
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2) Cleaning"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 158,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -162,7 +280,20 @@
         "r": 456.90342599999997,
         "b": 249.38313692817678
       },
-      "content": "Used tools:  - wrench (5, 6, 7mm), + driver, clothes, coolant collecting box"
+      "content": "Used tools:  - wrench (5, 6, 7mm), + driver, clothes, coolant collecting box",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2) Cleaning"
+        }
+      ],
+      "page": 158,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -175,7 +306,20 @@
         "r": 272.300958,
         "b": 232.40324492817672
       },
-      "content": "Stop discharging of coolant"
+      "content": "Stop discharging of coolant",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2) Cleaning"
+        }
+      ],
+      "page": 158,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -188,7 +332,20 @@
         "r": 496.8611820000015,
         "b": 215.42335292817677
       },
-      "content": "Open the drain plug of tank and allow the residual oil to drain using drain hole."
+      "content": "Open the drain plug of tank and allow the residual oil to drain using drain hole.",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2) Cleaning"
+        }
+      ],
+      "page": 158,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -201,7 +358,20 @@
         "r": 328.446024,
         "b": 198.38334092817672
       },
-      "content": "Remove the cover plate above the tank."
+      "content": "Remove the cover plate above the tank.",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2) Cleaning"
+        }
+      ],
+      "page": 158,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -214,7 +384,20 @@
         "r": 293.95417800000007,
         "b": 181.40344892817677
       },
-      "content": "Disconnect the filter of sub tank."
+      "content": "Disconnect the filter of sub tank.",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2) Cleaning"
+        }
+      ],
+      "page": 158,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -227,7 +410,20 @@
         "r": 371.2885379999992,
         "b": 164.42355692817682
       },
-      "content": "Clean the inside of the tank, cover plate and filter."
+      "content": "Clean the inside of the tank, cover plate and filter.",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2) Cleaning"
+        }
+      ],
+      "page": 158,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

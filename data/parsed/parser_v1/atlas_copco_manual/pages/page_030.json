@@ -22,7 +22,24 @@
       "width": 47,
       "height": 23,
       "decorative": true,
-      "image_hash": "7577891dcf1743bd2e7a735ef2621e01244d960bde43e28868c27d7c1437ddb9"
+      "image_hash": "7577891dcf1743bd2e7a735ef2621e01244d960bde43e28868c27d7c1437ddb9",
+      "section_id": "sec_auto_260",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_auto_260",
+          "title": "Optional equipment"
+        }
+      ],
+      "page": 30,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -37,7 +54,24 @@
       },
       "content": "2.9    Air dryer",
       "level": 2,
-      "role": "section"
+      "section_number": "2.9",
+      "section_id": "sec_2_9",
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_2_9",
+          "title": "2.9    Air dryer"
+        }
+      ],
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "page": 30,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -52,7 +86,23 @@
       },
       "content": "Flow diagram",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_265",
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_auto_265",
+          "title": "Flow diagram"
+        }
+      ],
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "page": 30,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -70,7 +120,24 @@
       "next_block_id": "txt_0193",
       "image_hash": "8c742a5a0024cb7c93b1b322f36c5944a1475e48c195f0c05fa5f95c6b10f51a",
       "width": 409,
-      "height": 251
+      "height": 251,
+      "section_id": "sec_auto_265",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_auto_265",
+          "title": "Flow diagram"
+        }
+      ],
+      "page": 30,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "caption",
@@ -84,6 +151,24 @@
         "b": 450.64
       },
       "content": "Air dryer",
+      "section_id": "sec_auto_265",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_auto_265",
+          "title": "Flow diagram"
+        }
+      ],
+      "page": 30,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_tbl_0020",
+      "source": "pdf_text",
       "caption_for": "tbl_0020"
     },
     {
@@ -98,9 +183,27 @@
         "b": 217.83984375
       },
       "markdown": "| Reference   | Name                                      |\n|-------------|-------------------------------------------|\n| AI          | Air inlet                                 |\n| AO          | Air outlet                                |\n| 1           | Air/air heat exchanger                    |\n| 2           | Air/refrigerant heat exchanger/evaporator |\n| 3           | Condensate separator                      |\n| 4           | Automatic drain / condensate outlet       |\n| 5           | Refrigerant compressor                    |\n| 6           | Refrigerant condenser                     |\n| 7           | Liquid refrigerant dryer/filter           |\n| 8           | Thermostatic expansion valve              |\n| 9           | Hot gas by-pass valve                     |\n| 10          | Condenser cooling fan                     |\n| 11          | Pressure switch, fan control              |",
-      "caption_id": "txt_0193",
       "rows": 14,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_auto_265",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_auto_265",
+          "title": "Flow diagram"
+        }
+      ],
+      "page": 30,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "group_id": "grp_tbl_0020",
+      "source": "pdf_text",
+      "caption_id": "txt_0193"
     },
     {
       "type": "heading",
@@ -115,7 +218,23 @@
       },
       "content": "Compressed air circuit",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_269",
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_auto_269",
+          "title": "Compressed air circuit"
+        }
+      ],
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "page": 30,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -128,7 +247,24 @@
         "r": 525.0480999999993,
         "b": 108.60400000000004
       },
-      "content": "Compressed air enters heat exchanger (1) and is cooled by the outgoing, cold, dried air. Water in the incoming air starts to condense. The air then flows through heat exchanger/evaporator (2), where the refrigerante vaporates, causing the air to be cooled further to close to the evaporating temperature of the refrigerant. Morewater in the air condenses. The cold air then flows through separator (3) where all the condensate is separated from the air. The condensate is automatically drained through outlet (4)."
+      "content": "Compressed air enters heat exchanger (1) and is cooled by the outgoing, cold, dried air. Water in the incoming air starts to condense. The air then flows through heat exchanger/evaporator (2), where the refrigerante vaporates, causing the air to be cooled further to close to the evaporating temperature of the refrigerant. Morewater in the air condenses. The cold air then flows through separator (3) where all the condensate is separated from the air. The condensate is automatically drained through outlet (4).",
+      "section_id": "sec_auto_269",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_auto_269",
+          "title": "Compressed air circuit"
+        }
+      ],
+      "page": 30,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -141,7 +277,24 @@
         "r": 481.62559999999905,
         "b": 89.40350000000001
       },
-      "content": "The cold, dried air flows through heat exchanger (1) where it is warmed up by the incoming air"
+      "content": "The cold, dried air flows through heat exchanger (1) where it is warmed up by the incoming air",
+      "section_id": "sec_auto_269",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_auto_269",
+          "title": "Compressed air circuit"
+        }
+      ],
+      "page": 30,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

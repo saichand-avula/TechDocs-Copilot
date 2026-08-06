@@ -19,7 +19,23 @@
       },
       "content": "Coolers on water-cooled compressors",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_164",
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_auto_164",
+          "title": "Coolers on water-cooled compressors"
+        }
+      ],
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "page": 17,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -37,7 +53,24 @@
       "next_block_id": "txt_0130",
       "image_hash": "1cb87d722f61ef0207ddda41005de6d77ed27e4e3b3afff8dc77ea9e2c352b84",
       "width": 207,
-      "height": 123
+      "height": 123,
+      "section_id": "sec_auto_164",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_auto_164",
+          "title": "Coolers on water-cooled compressors"
+        }
+      ],
+      "page": 17,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "caption",
@@ -51,6 +84,24 @@
         "b": 599.02
       },
       "content": "Water-cooled air cooler and oil cooler",
+      "section_id": "sec_auto_164",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_auto_164",
+          "title": "Coolers on water-cooled compressors"
+        }
+      ],
+      "page": 17,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_tbl_0007",
+      "source": "pdf_text",
       "caption_for": "tbl_0007"
     },
     {
@@ -65,9 +116,27 @@
         "b": 525.8495178222656
       },
       "markdown": "| Reference   | Name       |\n|-------------|------------|\n| Ca          | Air cooler |\n| Co          | Oil cooler |",
-      "caption_id": "txt_0130",
       "rows": 3,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_auto_164",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_auto_164",
+          "title": "Coolers on water-cooled compressors"
+        }
+      ],
+      "page": 17,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "group_id": "grp_tbl_0007",
+      "source": "pdf_text",
+      "caption_id": "txt_0130"
     },
     {
       "type": "heading",
@@ -82,7 +151,24 @@
       },
       "content": "2.2    Air flow",
       "level": 2,
-      "role": "section"
+      "section_number": "2.2",
+      "section_id": "sec_2_2",
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_2_2",
+          "title": "2.2    Air flow"
+        }
+      ],
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "page": 17,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -97,7 +183,23 @@
       },
       "content": "Flow diagrams",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_169",
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_auto_169",
+          "title": "Flow diagrams"
+        }
+      ],
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "page": 17,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -113,11 +215,29 @@
       "image_path": "figures/figure_0032.png",
       "previous_block_id": "txt_0132",
       "next_block_id": "txt_0133",
-      "caption_id": "txt_0133",
       "caption": "Flow diagram, GA workplace",
       "image_hash": "6a4cac7ba625b040a624fd5a9bba4713daba3a6de152eb2533eec13b514f16e8",
       "width": 349,
-      "height": 246
+      "height": 246,
+      "section_id": "sec_auto_169",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_auto_169",
+          "title": "Flow diagrams"
+        }
+      ],
+      "page": 17,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0032",
+      "source": "pdf_text",
+      "caption_id": "txt_0133"
     },
     {
       "type": "caption",
@@ -131,6 +251,24 @@
         "b": 117.51999999999998
       },
       "content": "Flow diagram, GA workplace",
+      "section_id": "sec_auto_169",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_auto_169",
+          "title": "Flow diagrams"
+        }
+      ],
+      "page": 17,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0032",
+      "source": "pdf_text",
       "caption_for": "fig_0032"
     },
     {
@@ -149,7 +287,24 @@
       "width": 47,
       "height": 22,
       "decorative": true,
-      "image_hash": "b28a1d23de5124d82d6f84120acacff249829ec0e42f4c826059a188d93e4d2e"
+      "image_hash": "b28a1d23de5124d82d6f84120acacff249829ec0e42f4c826059a188d93e4d2e",
+      "section_id": "sec_auto_169",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_auto_169",
+          "title": "Flow diagrams"
+        }
+      ],
+      "page": 17,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

@@ -18,8 +18,21 @@
         "b": 729.872521
       },
       "content": "12",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "12",
+      "section_id": "sec_12",
+      "section_path": [
+        {
+          "id": "sec_12",
+          "title": "12"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 317,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -36,7 +49,20 @@
       "previous_block_id": "txt_2747",
       "image_hash": "6a0d379bf45e22f77f85d907bf6c16660d8d456684c9cfdeb26dbba8e82d0d7a",
       "width": 397,
-      "height": 229
+      "height": 229,
+      "section_id": "sec_12",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_12",
+          "title": "12"
+        }
+      ],
+      "page": 317,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -53,7 +79,20 @@
       "previous_block_id": "txt_2747",
       "width": 37,
       "height": 11,
-      "image_hash": "b27b2c2c720341f83c8be538fc80647c64f22c2ddf9da505d64355e869b6c461"
+      "image_hash": "b27b2c2c720341f83c8be538fc80647c64f22c2ddf9da505d64355e869b6c461",
+      "section_id": "sec_12",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_12",
+          "title": "12"
+        }
+      ],
+      "page": 317,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

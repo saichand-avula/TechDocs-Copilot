@@ -19,12 +19,30 @@
       },
       "image_path": "figures/figure_0047.png",
       "next_block_id": "txt_1154",
-      "caption_id": "txt_1155",
       "caption": ". Keypad, Display, CPU PWA, and Piezo Alarm",
       "figure_number": "Figure 7-12",
       "image_hash": "2a8805f12663b1965b30633d1abe2525801fe9894ffc24f2119431240d787736",
       "width": 413,
-      "height": 386
+      "height": 386,
+      "section_id": "sec_auto_1225",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_auto_1225",
+          "title": "PWA, CPU Screw, 4-40 x 1/4, Hex Head, Slotted, with Washer"
+        }
+      ],
+      "page": 118,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0047",
+      "source": "pdf_text",
+      "caption_id": "txt_1155"
     },
     {
       "type": "paragraph",
@@ -37,7 +55,24 @@
         "r": 491.93771180000005,
         "b": 234.621758
       },
-      "content": "05K01070"
+      "content": "05K01070",
+      "section_id": "sec_auto_1225",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_auto_1225",
+          "title": "PWA, CPU Screw, 4-40 x 1/4, Hex Head, Slotted, with Washer"
+        }
+      ],
+      "page": 118,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "caption",
@@ -51,6 +86,24 @@
         "b": 211.23828000000003
       },
       "content": "Figure 7-12. Keypad, Display, CPU PWA, and Piezo Alarm",
+      "section_id": "sec_auto_1225",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_auto_1225",
+          "title": "PWA, CPU Screw, 4-40 x 1/4, Hex Head, Slotted, with Washer"
+        }
+      ],
+      "page": 118,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0047",
+      "source": "pdf_text",
       "caption_for": "fig_0047"
     }
   ],

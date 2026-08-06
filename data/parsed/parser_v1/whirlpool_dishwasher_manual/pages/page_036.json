@@ -17,7 +17,24 @@
         "r": 77.9687,
         "b": 32.765719354838666
       },
-      "content": "n"
+      "content": "n",
+      "section_id": "sec_auto_666",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_666",
+          "title": "Test Procedure"
+        }
+      ],
+      "page": 36,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -32,7 +49,23 @@
       },
       "content": "For Service Technician Use Only",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_681",
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_681",
+          "title": "For Service Technician Use Only"
+        }
+      ],
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "page": 36,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -50,7 +83,24 @@
       "next_block_id": "txt_0608",
       "image_hash": "f088df2bd6e17bf60b68a72f230adbb5344fb7dbad35e1218078490e4d83c8a2",
       "width": 256,
-      "height": 168
+      "height": 168,
+      "section_id": "sec_auto_681",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_681",
+          "title": "For Service Technician Use Only"
+        }
+      ],
+      "page": 36,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -65,7 +115,23 @@
       },
       "content": "Thermistor",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_683",
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_683",
+          "title": "Thermistor"
+        }
+      ],
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "page": 36,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -79,7 +145,24 @@
         "b": 452.28900084033614
       },
       "content": "The thermistor is located under the tub and is attached to the back side of the sump with two screws. See Figure 1.",
-      "hyperlink_hint": true
+      "hyperlink_hint": true,
+      "section_id": "sec_auto_683",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_683",
+          "title": "Thermistor"
+        }
+      ],
+      "page": 36,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -95,12 +178,30 @@
       "image_path": "figures/figure_0063.png",
       "previous_block_id": "txt_0609",
       "next_block_id": "txt_0610",
-      "caption_id": "txt_0610",
       "caption": "Location of Thermistor",
       "figure_number": "Figure 1",
       "image_hash": "5673fcb8738ece3a005ddfa71992ae313916daf905485080dd5c319786eb8648",
       "width": 257,
-      "height": 164
+      "height": 164,
+      "section_id": "sec_auto_683",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_683",
+          "title": "Thermistor"
+        }
+      ],
+      "page": 36,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0063",
+      "source": "pdf_text",
+      "caption_id": "txt_0610"
     },
     {
       "type": "caption",
@@ -114,6 +215,24 @@
         "b": 274.41779075630257
       },
       "content": "Figure 1 - Location of Thermistor",
+      "section_id": "sec_auto_683",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_683",
+          "title": "Thermistor"
+        }
+      ],
+      "page": 36,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0063",
+      "source": "pdf_text",
       "caption_for": "fig_0063"
     },
     {
@@ -127,7 +246,25 @@
         "r": 277.50999999999993,
         "b": 245.28900084033614
       },
-      "content": "During the hot wash cycle, the thermistor senses the water temperature and turns the heating element off."
+      "content": "During the hot wash cycle, the thermistor senses the water temperature and turns the heating element off.",
+      "section_id": "sec_auto_683",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_683",
+          "title": "Thermistor"
+        }
+      ],
+      "page": 36,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text",
+      "group_id": "grp_fig_0063"
     },
     {
       "type": "admonition",
@@ -141,7 +278,24 @@
         "b": 222.28900084033614
       },
       "content": "NOTE : If the thermistor is not operating, the hot wash cycle will set a default time for the heating element to cycle.",
-      "severity": "note"
+      "severity": "note",
+      "section_id": "sec_auto_683",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_683",
+          "title": "Thermistor"
+        }
+      ],
+      "page": 36,
+      "chunk_hint": "admonition",
+      "semantic_role": "note",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -154,7 +308,24 @@
         "r": 63.69085599999998,
         "b": 204.6242578791705
       },
-      "content": "HERMISTOR"
+      "content": "HERMISTOR",
+      "section_id": "sec_auto_683",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_683",
+          "title": "Thermistor"
+        }
+      ],
+      "page": 36,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -169,7 +340,23 @@
       },
       "content": "STRIP CIRCUIT - THERMISTOR",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_690",
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_690",
+          "title": "STRIP CIRCUIT - THERMISTOR"
+        }
+      ],
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "page": 36,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -185,12 +372,30 @@
       "image_path": "figures/figure_0064.png",
       "previous_block_id": "txt_0614",
       "next_block_id": "txt_0615",
-      "caption_id": "txt_0615",
       "caption": "Thermistor Circuit",
       "figure_number": "Figure 2",
       "image_hash": "069fc0c2b3aded3b31c66e055c814871b83077490e3d5eeee5007dd2c5d6ef6d",
       "width": 468,
-      "height": 116
+      "height": 116,
+      "section_id": "sec_auto_690",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_690",
+          "title": "STRIP CIRCUIT - THERMISTOR"
+        }
+      ],
+      "page": 36,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0064",
+      "source": "pdf_text",
+      "caption_id": "txt_0615"
     },
     {
       "type": "caption",
@@ -204,6 +409,24 @@
         "b": 53.0235907563025
       },
       "content": "Figure 2 - Thermistor Circuit",
+      "section_id": "sec_auto_690",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_690",
+          "title": "STRIP CIRCUIT - THERMISTOR"
+        }
+      ],
+      "page": 36,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0064",
+      "source": "pdf_text",
       "caption_for": "fig_0064"
     },
     {
@@ -219,7 +442,23 @@
       },
       "content": "Test Procedure",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_693",
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_693",
+          "title": "Test Procedure"
+        }
+      ],
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "page": 36,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -232,7 +471,24 @@
         "r": 550.6600000000002,
         "b": 651.7121008403361
       },
-      "content": "This test will check the wiring to the Thermistor, the control board, and the thermistor itself. The following items are part of the Thermistor circuit."
+      "content": "This test will check the wiring to the Thermistor, the control board, and the thermistor itself. The following items are part of the Thermistor circuit.",
+      "section_id": "sec_auto_693",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_693",
+          "title": "Test Procedure"
+        }
+      ],
+      "page": 36,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -245,7 +501,25 @@
         "r": 398.8200000000001,
         "b": 638.2303225806452
       },
-      "content": "  Harness/Connection"
+      "content": "  Harness/Connection",
+      "section_id": "sec_auto_693",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_693",
+          "title": "Test Procedure"
+        }
+      ],
+      "page": 36,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text",
+      "confidence": 0.8
     },
     {
       "type": "list_item",
@@ -258,7 +532,25 @@
         "r": 360.68000000000006,
         "b": 625.2303225806452
       },
-      "content": "  Thermistor"
+      "content": "  Thermistor",
+      "section_id": "sec_auto_693",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_693",
+          "title": "Test Procedure"
+        }
+      ],
+      "page": 36,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text",
+      "confidence": 0.8
     },
     {
       "type": "list_item",
@@ -271,7 +563,25 @@
         "r": 372.37,
         "b": 612.2303225806452
       },
-      "content": "  Control Board"
+      "content": "  Control Board",
+      "section_id": "sec_auto_693",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_693",
+          "title": "Test Procedure"
+        }
+      ],
+      "page": 36,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text",
+      "confidence": 0.8
     },
     {
       "type": "list_item",
@@ -284,7 +594,24 @@
         "r": 553.0,
         "b": 576.7121008403361
       },
-      "content": "Check the operation of the Thermistor in Service Mode. (See 'note' on step #2 on Service Mode Chart, page 2-3.)"
+      "content": "Check the operation of the Thermistor in Service Mode. (See 'note' on step #2 on Service Mode Chart, page 2-3.)",
+      "section_id": "sec_auto_693",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_693",
+          "title": "Test Procedure"
+        }
+      ],
+      "page": 36,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -297,7 +624,24 @@
         "r": 485.5500000000002,
         "b": 563.7121008403361
       },
-      "content": "Unplug dishwasher or disconnect power."
+      "content": "Unplug dishwasher or disconnect power.",
+      "section_id": "sec_auto_693",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_693",
+          "title": "Test Procedure"
+        }
+      ],
+      "page": 36,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -310,7 +654,24 @@
         "r": 539.4100000000002,
         "b": 540.7121008403361
       },
-      "content": "Remove access panel. Remove control board cover to access control board."
+      "content": "Remove access panel. Remove control board cover to access control board.",
+      "section_id": "sec_auto_693",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_693",
+          "title": "Test Procedure"
+        }
+      ],
+      "page": 36,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -323,7 +684,24 @@
         "r": 555.3900000000002,
         "b": 507.7121008403361
       },
-      "content": "Lay the dishwasher on its back. Use a small flat-blade screwdriver to unclip snaps around the drip-pan. Remove drip-pan/float switch to access under tub components."
+      "content": "Lay the dishwasher on its back. Use a small flat-blade screwdriver to unclip snaps around the drip-pan. Remove drip-pan/float switch to access under tub components.",
+      "section_id": "sec_auto_693",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_693",
+          "title": "Test Procedure"
+        }
+      ],
+      "page": 36,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -336,7 +714,24 @@
         "r": 488.45959999999997,
         "b": 494.7121008403361
       },
-      "content": "Disconnect CN4 from the Control Board."
+      "content": "Disconnect CN4 from the Control Board.",
+      "section_id": "sec_auto_693",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_693",
+          "title": "Test Procedure"
+        }
+      ],
+      "page": 36,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -349,7 +744,24 @@
         "r": 554.6900000000002,
         "b": 451.7121008403361
       },
-      "content": "Using an ohmmeter, measure resistance between CN42 (GND) and CN4-7 (RE). The following table provides approximate room and hot water temperatures and their associated resistance values."
+      "content": "Using an ohmmeter, measure resistance between CN42 (GND) and CN4-7 (RE). The following table provides approximate room and hot water temperatures and their associated resistance values.",
+      "section_id": "sec_auto_693",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_693",
+          "title": "Test Procedure"
+        }
+      ],
+      "page": 36,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -364,7 +776,24 @@
       },
       "markdown": "| TEMP °F (°C)   | RES RANGE k ohms   |\n|----------------|--------------------|\n| 77° F (25° C)  | 10k ohms           |\n| 140° F (60° C) | 3k ohms            |",
       "rows": 3,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_auto_693",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_693",
+          "title": "Test Procedure"
+        }
+      ],
+      "page": 36,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "admonition",
@@ -378,7 +807,24 @@
         "b": 358.2121008403361
       },
       "content": "NOTE: All thermistor resistance measurements must be made while dishwasher is unplugged or disconnected from power and connector CN4 removed from control.",
-      "severity": "note"
+      "severity": "note",
+      "section_id": "sec_auto_693",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_693",
+          "title": "Test Procedure"
+        }
+      ],
+      "page": 36,
+      "chunk_hint": "admonition",
+      "semantic_role": "note",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -391,7 +837,24 @@
         "r": 544.1800000000003,
         "b": 335.2121008403361
       },
-      "content": "¾ ¾ If the thermistor resistance does not agree with the table, replace the Thermistor."
+      "content": "¾ ¾ If the thermistor resistance does not agree with the table, replace the Thermistor.",
+      "section_id": "sec_auto_693",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_693",
+          "title": "Test Procedure"
+        }
+      ],
+      "page": 36,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -404,7 +867,24 @@
         "r": 551.3700000000001,
         "b": 302.2121008403361
       },
-      "content": "¾ ¾ If an open circuit is detected, check connections and harness continuity between control and thermistor. If good, replace the thermistor."
+      "content": "¾ ¾ If an open circuit is detected, check connections and harness continuity between control and thermistor. If good, replace the thermistor.",
+      "section_id": "sec_auto_693",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_693",
+          "title": "Test Procedure"
+        }
+      ],
+      "page": 36,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -417,7 +897,24 @@
         "r": 542.1800000000002,
         "b": 279.2121008403361
       },
-      "content": "¾ ¾ If the thermistor resistance is OK , the thermistor is good. Replace the control board and retest."
+      "content": "¾ ¾ If the thermistor resistance is OK , the thermistor is good. Replace the control board and retest.",
+      "section_id": "sec_auto_693",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_693",
+          "title": "Test Procedure"
+        }
+      ],
+      "page": 36,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -430,7 +927,24 @@
         "r": 487.92000000000013,
         "b": 266.2121008403361
       },
-      "content": "Unplug dishwasher or disconnect power."
+      "content": "Unplug dishwasher or disconnect power.",
+      "section_id": "sec_auto_693",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_693",
+          "title": "Test Procedure"
+        }
+      ],
+      "page": 36,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -443,7 +957,24 @@
         "r": 455.07000000000033,
         "b": 253.21210084033612
       },
-      "content": "Reassemble all parts and panels."
+      "content": "Reassemble all parts and panels.",
+      "section_id": "sec_auto_693",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_693",
+          "title": "Test Procedure"
+        }
+      ],
+      "page": 36,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -456,7 +987,24 @@
         "r": 546.4600000000003,
         "b": 230.21210084033612
       },
-      "content": "Plug in dishwasher or reconnect power and run Service Mode Test to verify repair."
+      "content": "Plug in dishwasher or reconnect power and run Service Mode Test to verify repair.",
+      "section_id": "sec_auto_693",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_693",
+          "title": "Test Procedure"
+        }
+      ],
+      "page": 36,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

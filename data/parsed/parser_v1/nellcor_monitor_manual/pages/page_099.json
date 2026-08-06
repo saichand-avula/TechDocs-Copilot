@@ -17,7 +17,24 @@
         "r": 539.063625,
         "b": 516.74625
       },
-      "content": "A low-level excitation signal is applied to these leads, and the variation of the thoracic impedance caused by the breathing is sensed and processed for display and measurement. This variation is processed to the voltage value for the measurement. In  order  to  transfer  the  thoracic  impedance  by  a  transformer,  it  is  used  a  minimum constant current of the sine wave  carrier signal. The transferred thoracic impedance is changed to the voltage  signal  by  using  bridge  circuit  and  differential  amplifier.  Then, ECG signal is removed by filter, and carrier frequency is removed by full wave rectifier and filter in order to extract only thoracic impedance in amplifying at the  definite level of signal. This extracted thoracic impedance signal is used to measure the respiration by digital signal processing."
+      "content": "A low-level excitation signal is applied to these leads, and the variation of the thoracic impedance caused by the breathing is sensed and processed for display and measurement. This variation is processed to the voltage value for the measurement. In  order  to  transfer  the  thoracic  impedance  by  a  transformer,  it  is  used  a  minimum constant current of the sine wave  carrier signal. The transferred thoracic impedance is changed to the voltage  signal  by  using  bridge  circuit  and  differential  amplifier.  Then, ECG signal is removed by filter, and carrier frequency is removed by full wave rectifier and filter in order to extract only thoracic impedance in amplifying at the  definite level of signal. This extracted thoracic impedance signal is used to measure the respiration by digital signal processing.",
+      "section_id": "sec_10_6",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6. Turn monitor off."
+        },
+        {
+          "id": "sec_10_6",
+          "title": "10.6  Respiration Processing"
+        }
+      ],
+      "page": 99,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -32,7 +49,24 @@
       },
       "content": "10.7  Temperature Processing",
       "level": 2,
-      "role": "section"
+      "section_number": "10.7",
+      "section_id": "sec_10_7",
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6. Turn monitor off."
+        },
+        {
+          "id": "sec_10_7",
+          "title": "10.7  Temperature Processing"
+        }
+      ],
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "page": 99,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -45,7 +79,24 @@
         "r": 538.3125375000002,
         "b": 435.74625
       },
-      "content": "Measurement of  patient  temperature  is  accomplished  by  processing  the  signal   from a probe containing a resistor whose resistance is temperature dependent. The class of such components is called thermistor."
+      "content": "Measurement of  patient  temperature  is  accomplished  by  processing  the  signal   from a probe containing a resistor whose resistance is temperature dependent. The class of such components is called thermistor.",
+      "section_id": "sec_10_7",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6. Turn monitor off."
+        },
+        {
+          "id": "sec_10_7",
+          "title": "10.7  Temperature Processing"
+        }
+      ],
+      "page": 99,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -58,7 +109,24 @@
         "r": 537.8179875000002,
         "b": 354.74625
       },
-      "content": "Temperature  measurement  used  by  N5500  patient  monitoring  system  is  based  on  a thermistor  whose  resistance  is  inversely  proportional  to  its  temperature.  By  measuring the  thermistor's  resistance,  its  temperature  can  be  calculated.  The  resistance  of  the thermistor  is  measured  by  passing  a  current  through  it  and  measuring  the  voltage developed across it."
+      "content": "Temperature  measurement  used  by  N5500  patient  monitoring  system  is  based  on  a thermistor  whose  resistance  is  inversely  proportional  to  its  temperature.  By  measuring the  thermistor's  resistance,  its  temperature  can  be  calculated.  The  resistance  of  the thermistor  is  measured  by  passing  a  current  through  it  and  measuring  the  voltage developed across it.",
+      "section_id": "sec_10_7",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6. Turn monitor off."
+        },
+        {
+          "id": "sec_10_7",
+          "title": "10.7  Temperature Processing"
+        }
+      ],
+      "page": 99,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -71,7 +139,24 @@
         "r": 541.7117249999995,
         "b": 273.7462499999999
       },
-      "content": "The N5500 patient monitor is designed to accept the signals from electrically isolated  a range of temperature probes from the Monotherm™  range. The probes may be used for skin  or rectal  temperature  measurement.  Probes  are  furnished  with  a  standard  10-feet lead;  extension  leads  are  available.  The  signal  from  the  probe  is  conditioned  by  the monitor input circuitry, processed, and used to drive the numeric display."
+      "content": "The N5500 patient monitor is designed to accept the signals from electrically isolated  a range of temperature probes from the Monotherm™  range. The probes may be used for skin  or rectal  temperature  measurement.  Probes  are  furnished  with  a  standard  10-feet lead;  extension  leads  are  available.  The  signal  from  the  probe  is  conditioned  by  the monitor input circuitry, processed, and used to drive the numeric display.",
+      "section_id": "sec_10_7",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6. Turn monitor off."
+        },
+        {
+          "id": "sec_10_7",
+          "title": "10.7  Temperature Processing"
+        }
+      ],
+      "page": 99,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

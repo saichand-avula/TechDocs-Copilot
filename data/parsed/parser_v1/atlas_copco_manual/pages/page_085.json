@@ -21,7 +21,24 @@
       "next_block_id": "txt_0577",
       "width": 47,
       "height": 23,
-      "image_hash": "b28a1d23de5124d82d6f84120acacff249829ec0e42f4c826059a188d93e4d2e"
+      "image_hash": "b28a1d23de5124d82d6f84120acacff249829ec0e42f4c826059a188d93e4d2e",
+      "section_id": "sec_4_10",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4       OSCi (optional)"
+        },
+        {
+          "id": "sec_4_10",
+          "title": "4.10   Problem solving"
+        }
+      ],
+      "page": 85,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -36,7 +53,24 @@
       },
       "markdown": "| Condition   | Fault                              | Remedy                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |\n|-------------|------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n|             | No enough airflow during the test. | Disconnect the strainer (4-View of OSCi inlet) and take out the strainer. Clean the strainer and the nozzle with compressed air and dry tissue. Check that the air tube does not touch any other components and is not hindered in any way. Repeat the test procedure. If the airflow coming out of the airtube is still not sufficient, order a spare part solenoid valve (3-OSCi air injection). In case there was enough airflow during the test, check to see if there is a thick oily condensate present in all 3 vessels. Then check the oil separator element and the scavenge line flow of the compressor and order the corresponding service kits in case these components are not working correctly. |",
       "rows": 2,
-      "cols": 3
+      "cols": 3,
+      "section_id": "sec_4_10",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4       OSCi (optional)"
+        },
+        {
+          "id": "sec_4_10",
+          "title": "4.10   Problem solving"
+        }
+      ],
+      "page": 85,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -53,7 +87,24 @@
       "next_block_id": "txt_0577",
       "image_hash": "0c0e6a859f09783c28ad53cb0bebac6460be9b9ed73e2bf8ed6b037427d501c2",
       "width": 166,
-      "height": 213
+      "height": 213,
+      "section_id": "sec_4_10",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4       OSCi (optional)"
+        },
+        {
+          "id": "sec_4_10",
+          "title": "4.10   Problem solving"
+        }
+      ],
+      "page": 85,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "caption",
@@ -67,6 +118,24 @@
         "b": 266.5
       },
       "content": "OSCi air injection",
+      "section_id": "sec_4_10",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4       OSCi (optional)"
+        },
+        {
+          "id": "sec_4_10",
+          "title": "4.10   Problem solving"
+        }
+      ],
+      "page": 85,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_tbl_0073",
+      "source": "pdf_text",
       "caption_for": "tbl_0073"
     },
     {
@@ -81,9 +150,27 @@
         "b": 177.46630859375
       },
       "markdown": "|   1 | Aftercooler (WSD in case of a water-cooled compressor)   |   4 | Strainer        |\n|-----|----------------------------------------------------------|-----|-----------------|\n|   2 | Air tube to OSCi vessel 2                                |   5 | Y-connection    |\n|   3 | Solenoid valve                                           |   6 | Air tube to EWD |",
-      "caption_id": "txt_0577",
       "rows": 3,
-      "cols": 4
+      "cols": 4,
+      "section_id": "sec_4_10",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4       OSCi (optional)"
+        },
+        {
+          "id": "sec_4_10",
+          "title": "4.10   Problem solving"
+        }
+      ],
+      "page": 85,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "group_id": "grp_tbl_0073",
+      "source": "pdf_text",
+      "caption_id": "txt_0577"
     },
     {
       "type": "paragraph",
@@ -96,7 +183,24 @@
         "r": 560.8684000000001,
         "b": 73.20399999999995
       },
-      "content": "Automatic as well as manual safety devices to prevent overflow are present. Besides the automatic overflow switch (7-View of OSCi), which is mounted in a side-chamber on the second vessel and gives an alarm when condensate level is too high, the customer can check for high condensate level through the sight glass. On a case-by-case basis, it can be decided to automatically shut down the compressor in case of an overflow alarm. When overflow occurs, the resulting waste water must be treated as oil-containing water and must be disposed of  according to local regulations."
+      "content": "Automatic as well as manual safety devices to prevent overflow are present. Besides the automatic overflow switch (7-View of OSCi), which is mounted in a side-chamber on the second vessel and gives an alarm when condensate level is too high, the customer can check for high condensate level through the sight glass. On a case-by-case basis, it can be decided to automatically shut down the compressor in case of an overflow alarm. When overflow occurs, the resulting waste water must be treated as oil-containing water and must be disposed of  according to local regulations.",
+      "section_id": "sec_4_10",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4       OSCi (optional)"
+        },
+        {
+          "id": "sec_4_10",
+          "title": "4.10   Problem solving"
+        }
+      ],
+      "page": 85,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

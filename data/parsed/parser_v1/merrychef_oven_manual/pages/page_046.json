@@ -19,7 +19,23 @@
       },
       "content": "Operational statistics",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_693",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Service information"
+        },
+        {
+          "id": "sec_auto_693",
+          "title": "Operational statistics"
+        }
+      ],
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "page": 46,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -32,7 +48,24 @@
         "r": 462.573,
         "b": 752.2983344167462
       },
-      "content": "Additional detail from the oven statistics may provide further information for in-depth fault diagnosis."
+      "content": "Additional detail from the oven statistics may provide further information for in-depth fault diagnosis.",
+      "section_id": "sec_auto_693",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Service information"
+        },
+        {
+          "id": "sec_auto_693",
+          "title": "Operational statistics"
+        }
+      ],
+      "page": 46,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -50,7 +83,24 @@
       "next_block_id": "txt_0545",
       "image_hash": "57aacb5eb718ae5e3d7c86ca0b6b12593e63c57537cfa4590a0a80563b77260b",
       "width": 422,
-      "height": 318
+      "height": 318,
+      "section_id": "sec_auto_693",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Service information"
+        },
+        {
+          "id": "sec_auto_693",
+          "title": "Operational statistics"
+        }
+      ],
+      "page": 46,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -65,7 +115,23 @@
       },
       "content": "Details include;",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_696",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Service information"
+        },
+        {
+          "id": "sec_auto_696",
+          "title": "Details include;"
+        }
+      ],
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "page": 46,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -78,7 +144,24 @@
         "r": 315.054,
         "b": 412.101334416746
       },
-      "content": " Left-hand magnetron operating hours (high power ovens)"
+      "content": " Left-hand magnetron operating hours (high power ovens)",
+      "section_id": "sec_auto_696",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Service information"
+        },
+        {
+          "id": "sec_auto_696",
+          "title": "Details include;"
+        }
+      ],
+      "page": 46,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -91,7 +174,24 @@
         "r": 238.85999999999996,
         "b": 400.104334416746
       },
-      "content": " Right-hand magnetron operating hours"
+      "content": " Right-hand magnetron operating hours",
+      "section_id": "sec_auto_696",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Service information"
+        },
+        {
+          "id": "sec_auto_696",
+          "title": "Details include;"
+        }
+      ],
+      "page": 46,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -104,7 +204,24 @@
         "r": 183.17699999999996,
         "b": 387.50433441674596
       },
-      "content": " Number of door openings"
+      "content": " Number of door openings",
+      "section_id": "sec_auto_696",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Service information"
+        },
+        {
+          "id": "sec_auto_696",
+          "title": "Details include;"
+        }
+      ],
+      "page": 46,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -117,7 +234,24 @@
         "r": 232.1279999999999,
         "b": 375.26433441674595
       },
-      "content": " Number of times the filter is removed"
+      "content": " Number of times the filter is removed",
+      "section_id": "sec_auto_696",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Service information"
+        },
+        {
+          "id": "sec_auto_696",
+          "title": "Details include;"
+        }
+      ],
+      "page": 46,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -130,7 +264,24 @@
         "r": 222.76799999999986,
         "b": 363.26733441674594
       },
-      "content": " Heating element(s) operating hours"
+      "content": " Heating element(s) operating hours",
+      "section_id": "sec_auto_696",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Service information"
+        },
+        {
+          "id": "sec_auto_696",
+          "title": "Details include;"
+        }
+      ],
+      "page": 46,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -143,7 +294,24 @@
         "r": 175.85099999999986,
         "b": 350.6673344167459
       },
-      "content": " Total oven time in hours"
+      "content": " Total oven time in hours",
+      "section_id": "sec_auto_696",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Service information"
+        },
+        {
+          "id": "sec_auto_696",
+          "title": "Details include;"
+        }
+      ],
+      "page": 46,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -156,7 +324,24 @@
         "r": 231.05699999999987,
         "b": 338.4273344167459
       },
-      "content": " Number of completed cleaning cycles"
+      "content": " Number of completed cleaning cycles",
+      "section_id": "sec_auto_696",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Service information"
+        },
+        {
+          "id": "sec_auto_696",
+          "title": "Details include;"
+        }
+      ],
+      "page": 46,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -169,7 +354,24 @@
         "r": 282.05999999999983,
         "b": 326.1873344167459
       },
-      "content": " Ambient temperature around the control circuitry"
+      "content": " Ambient temperature around the control circuitry",
+      "section_id": "sec_auto_696",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Service information"
+        },
+        {
+          "id": "sec_auto_696",
+          "title": "Details include;"
+        }
+      ],
+      "page": 46,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -182,7 +384,24 @@
         "r": 240.1829999999999,
         "b": 313.9473344167459
       },
-      "content": " Number of individual recipe cook cycles"
+      "content": " Number of individual recipe cook cycles",
+      "section_id": "sec_auto_696",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Service information"
+        },
+        {
+          "id": "sec_auto_696",
+          "title": "Details include;"
+        }
+      ],
+      "page": 46,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -195,7 +414,24 @@
         "r": 332.9459999999999,
         "b": 301.7073344167459
       },
-      "content": " Percentage of ambient, chilled & frozen food products cooked"
+      "content": " Percentage of ambient, chilled & frozen food products cooked",
+      "section_id": "sec_auto_696",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Service information"
+        },
+        {
+          "id": "sec_auto_696",
+          "title": "Details include;"
+        }
+      ],
+      "page": 46,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -208,7 +444,24 @@
         "r": 321.6689999999999,
         "b": 289.7103344167458
       },
-      "content": " Time breakdown of oven operation by day, week or month."
+      "content": " Time breakdown of oven operation by day, week or month.",
+      "section_id": "sec_auto_696",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Service information"
+        },
+        {
+          "id": "sec_auto_696",
+          "title": "Details include;"
+        }
+      ],
+      "page": 46,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

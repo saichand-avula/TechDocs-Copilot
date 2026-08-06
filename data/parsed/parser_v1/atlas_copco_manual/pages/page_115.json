@@ -21,7 +21,24 @@
       "next_block_id": "txt_0876",
       "width": 30,
       "height": 28,
-      "image_hash": "543bb3c4bc9dab23ae3e749896391997708577fa6debc566dcc7332d9e021e80"
+      "image_hash": "543bb3c4bc9dab23ae3e749896391997708577fa6debc566dcc7332d9e021e80",
+      "section_id": "sec_auto_1264",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7       Operating instructions"
+        },
+        {
+          "id": "sec_auto_1264",
+          "title": "Procedure"
+        }
+      ],
+      "page": 115,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -36,11 +53,29 @@
       },
       "image_path": "figures/figure_0303.png",
       "next_block_id": "txt_0876",
-      "caption_id": "txt_0876",
       "caption": "Control panel Eledtronikon Graphic",
       "image_hash": "e729af68aec1bf435c005e215e77a821fdeb304aed5ef2b7c2f949147ec9c9b9",
       "width": 247,
-      "height": 119
+      "height": 119,
+      "section_id": "sec_auto_1264",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7       Operating instructions"
+        },
+        {
+          "id": "sec_auto_1264",
+          "title": "Procedure"
+        }
+      ],
+      "page": 115,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0303",
+      "source": "pdf_text",
+      "caption_id": "txt_0876"
     },
     {
       "type": "caption",
@@ -54,6 +89,24 @@
         "b": 487.41999999999996
       },
       "content": "Control panel Eledtronikon Graphic",
+      "section_id": "sec_auto_1264",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7       Operating instructions"
+        },
+        {
+          "id": "sec_auto_1264",
+          "title": "Procedure"
+        }
+      ],
+      "page": 115,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0303",
+      "source": "pdf_text",
       "caption_for": "fig_0303"
     },
     {
@@ -73,7 +126,24 @@
       "width": 47,
       "height": 22,
       "decorative": true,
-      "image_hash": "b28a1d23de5124d82d6f84120acacff249829ec0e42f4c826059a188d93e4d2e"
+      "image_hash": "b28a1d23de5124d82d6f84120acacff249829ec0e42f4c826059a188d93e4d2e",
+      "section_id": "sec_auto_1264",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7       Operating instructions"
+        },
+        {
+          "id": "sec_auto_1264",
+          "title": "Procedure"
+        }
+      ],
+      "page": 115,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -86,7 +156,24 @@
         "r": 549.0225000000006,
         "b": 733.5039999999999
       },
-      "content": "service plan interval has been exceeded or if a service level for a monitored component has been exceeded. Carry out the service actions of the indicated plans or replace the component and reset the relevant timer, see section Service menu."
+      "content": "service plan interval has been exceeded or if a service level for a monitored component has been exceeded. Carry out the service actions of the indicated plans or replace the component and reset the relevant timer, see section Service menu.",
+      "section_id": "sec_auto_1264",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7       Operating instructions"
+        },
+        {
+          "id": "sec_auto_1264",
+          "title": "Procedure"
+        }
+      ],
+      "page": 115,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -101,7 +188,24 @@
       },
       "content": "7.7    Stopping",
       "level": 2,
-      "role": "section"
+      "section_number": "7.7",
+      "section_id": "sec_7_7",
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7       Operating instructions"
+        },
+        {
+          "id": "sec_7_7",
+          "title": "7.7    Stopping"
+        }
+      ],
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "page": 115,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -116,7 +220,23 @@
       },
       "content": "Elektronikon regulator",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1275",
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7       Operating instructions"
+        },
+        {
+          "id": "sec_auto_1275",
+          "title": "Elektronikon regulator"
+        }
+      ],
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "page": 115,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -131,7 +251,23 @@
       },
       "content": "Procedure",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1276",
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7       Operating instructions"
+        },
+        {
+          "id": "sec_auto_1276",
+          "title": "Procedure"
+        }
+      ],
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "page": 115,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -146,7 +282,24 @@
       },
       "markdown": "| Step   | Action                                                                                                                                                                                                                                                                                                                                                                                                                                                     |\n|--------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| -      | Press stop button (9). Automatic operation LED (8) goes out and the compressor stops after 30 seconds of unloaded operation.                                                                                                                                                                                                                                                                                                                               |\n| -      | To stop the compressor in the event of an emergency, press emergency stop button (10). Alarm LED flashes (7). On compressors with an Elektronikon® Graphic controller: Remedy the fault and unlock the button by pulling it out. Navigate to the Stop icon on the display by means of the navigation keys (3/4) and press the Select key. Press reset. Do not use emergency stop button (10) for normal stopping! See also section Emergency stop button . |\n| -      | Close air outlet valve (AV), see section Introduction.                                                                                                                                                                                                                                                                                                                                                                                                     |\n| -      | On water-cooled compressors: Close the cooling water inlet valve. If freezing temperatures can be expected, drain the cooling system completely.                                                                                                                                                                                                                                                                                                           |",
       "rows": 5,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_auto_1276",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7       Operating instructions"
+        },
+        {
+          "id": "sec_auto_1276",
+          "title": "Procedure"
+        }
+      ],
+      "page": 115,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -161,7 +314,24 @@
       },
       "content": "7.8    Taking out of operation",
       "level": 2,
-      "role": "section"
+      "section_number": "7.8",
+      "section_id": "sec_7_8",
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7       Operating instructions"
+        },
+        {
+          "id": "sec_7_8",
+          "title": "7.8    Taking out of operation"
+        }
+      ],
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "page": 115,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -176,7 +346,23 @@
       },
       "content": "Warning",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1279",
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7       Operating instructions"
+        },
+        {
+          "id": "sec_auto_1279",
+          "title": "Warning"
+        }
+      ],
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "page": 115,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

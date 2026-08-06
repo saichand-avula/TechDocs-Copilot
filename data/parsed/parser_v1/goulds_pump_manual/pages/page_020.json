@@ -19,7 +19,19 @@
       },
       "content": "ATEX nameplate",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_298",
+      "section_path": [
+        {
+          "id": "sec_auto_298",
+          "title": "ATEX nameplate"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 2,
+      "page": 20,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -34,7 +46,20 @@
       },
       "markdown": "| Nameplate field          | Explanation                               |\n|--------------------------|-------------------------------------------|\n| MAT L. CONST             | Material of which the pump is constructed |\n| SER. NO.                 | Serial number of the pump                 |\n| MAX. DSGN KG/CM 3 @ 20°C | Kilograms per cubic centimeter at 20°C    |",
       "rows": 4,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_auto_298",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_298",
+          "title": "ATEX nameplate"
+        }
+      ],
+      "page": 20,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -49,7 +74,19 @@
       },
       "content": "Nameplate on the bearing frame",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_300",
+      "section_path": [
+        {
+          "id": "sec_auto_300",
+          "title": "Nameplate on the bearing frame"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 2,
+      "page": 20,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -65,12 +102,26 @@
       "image_path": "figures/figure_0024.png",
       "previous_block_id": "txt_0260",
       "next_block_id": "txt_0261",
-      "caption_id": "txt_0261",
       "caption": ": Explanation of the nameplate on the bearing frame",
       "figure_number": "Table 7",
       "image_hash": "53d5f9caae171316d4e6d7f5d70daca8d8b397c12768bbdf6bb74c20a37bb18c",
       "width": 198,
-      "height": 112
+      "height": 112,
+      "section_id": "sec_auto_300",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_300",
+          "title": "Nameplate on the bearing frame"
+        }
+      ],
+      "page": 20,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0024",
+      "source": "pdf_text",
+      "caption_id": "txt_0261"
     },
     {
       "type": "caption",
@@ -84,6 +135,20 @@
         "b": 511.67822
       },
       "content": "Table 7: Explanation of the nameplate on the bearing frame",
+      "section_id": "sec_auto_300",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_300",
+          "title": "Nameplate on the bearing frame"
+        }
+      ],
+      "page": 20,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0024",
+      "source": "pdf_text",
       "caption_for": "fig_0024"
     },
     {
@@ -101,7 +166,20 @@
       "title": "Table 7: Explanation of the nameplate on the bearing frame",
       "table_number": "Table 7",
       "rows": 5,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_auto_300",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_300",
+          "title": "Nameplate on the bearing frame"
+        }
+      ],
+      "page": 20,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -119,7 +197,20 @@
       "next_block_id": "txt_0262",
       "image_hash": "f172a4b6c6f614d27c23c073bf773ae05061bd979b4a06d7a9e499ba3b517af2",
       "width": 67,
-      "height": 38
+      "height": 38,
+      "section_id": "sec_auto_300",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_300",
+          "title": "Nameplate on the bearing frame"
+        }
+      ],
+      "page": 20,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -134,7 +225,20 @@
       },
       "markdown": "| Nameplate field   | Explanation                                    |\n|-------------------|------------------------------------------------|\n| II                | Group 2                                        |\n| 2                 | Category 2                                     |\n| G/D               | Pump can be used when gas and dust are present |\n| T4                | Temperature class                              |",
       "rows": 5,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_auto_300",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_300",
+          "title": "Nameplate on the bearing frame"
+        }
+      ],
+      "page": 20,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "admonition",
@@ -148,7 +252,20 @@
         "b": 207.68705
       },
       "content": "NOTICE: Make sure that the code classifications on the pump are compatible with the specific environment in which you plan to install the equipment. If  they are not compatible, do not operate the equipment and contact your ITT representative before you proceed.",
-      "severity": "note"
+      "severity": "note",
+      "section_id": "sec_auto_300",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_300",
+          "title": "Nameplate on the bearing frame"
+        }
+      ],
+      "page": 20,
+      "chunk_hint": "admonition",
+      "semantic_role": "note",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

@@ -20,7 +20,11 @@
       "next_block_id": "txt_0001",
       "image_hash": "10a475d6f72b4063d53712f425455e957c559da528b7089f2eb7b4271a6c013d",
       "width": 46,
-      "height": 48
+      "height": 48,
+      "page": 1,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -35,7 +39,19 @@
       },
       "content": "Service Manual Patient Monitor",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1",
+      "section_path": [
+        {
+          "id": "sec_auto_1",
+          "title": "Service Manual Patient Monitor"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 2,
+      "page": 1,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -52,7 +68,20 @@
       "previous_block_id": "txt_0001",
       "image_hash": "0c415257318d8abfab24affdeba7bfbc8fc56ce2124ddcbc241219e4b39bb498",
       "width": 195,
-      "height": 237
+      "height": 237,
+      "section_id": "sec_auto_1",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_1",
+          "title": "Service Manual Patient Monitor"
+        }
+      ],
+      "page": 1,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

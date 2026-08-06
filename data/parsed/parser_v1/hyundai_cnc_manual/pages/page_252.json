@@ -19,7 +19,20 @@
       },
       "markdown": "| FS 0I/16/18/21                                                  | Description                     |\n|-----------------------------------------------------------------|---------------------------------|\n| Setting to specify use of the differential speed mode function. | 4003#5                          |\n| Parameter to specify the power line state signal for speed      | 4003#3 range switching control. |",
       "rows": 3,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-37. Alarm AL-55"
+        }
+      ],
+      "page": 252,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -32,7 +45,20 @@
         "r": 437.86786199999983,
         "b": 628.0523
       },
-      "content": "⇒ Set the parameter correctly according to the system used."
+      "content": "⇒ Set the parameter correctly according to the system used.",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-37. Alarm AL-55"
+        }
+      ],
+      "page": 252,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -46,8 +72,21 @@
         "b": 594.9830369281768
       },
       "content": "1-38. Alarm AL-56",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "1",
+      "section_id": "sec_1",
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-38. Alarm AL-56"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 252,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -60,7 +99,20 @@
         "r": 358.2479399999999,
         "b": 561.0232529281769
       },
-      "content": "Set the parameter correctly according to the system used."
+      "content": "Set the parameter correctly according to the system used.",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-38. Alarm AL-56"
+        }
+      ],
+      "page": 252,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -73,7 +125,20 @@
         "r": 114.31805399999999,
         "b": 527.0033489281769
       },
-      "content": "(1)"
+      "content": "(1)",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-38. Alarm AL-56"
+        }
+      ],
+      "page": 252,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -86,7 +151,20 @@
         "r": 347.0225340000005,
         "b": 510.02345692817687
       },
-      "content": "Meaning The cooling fan for the control circuit stopped."
+      "content": "Meaning The cooling fan for the control circuit stopped.",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-38. Alarm AL-56"
+        }
+      ],
+      "page": 252,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -99,7 +177,20 @@
         "r": 269.684166,
         "b": 476.0035529281769
       },
-      "content": "Cause and corrective action"
+      "content": "Cause and corrective action",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-38. Alarm AL-56"
+        }
+      ],
+      "page": 252,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -112,7 +203,20 @@
         "r": 239.12416800000003,
         "b": 459.02366092817687
       },
-      "content": "Cooling fan defective"
+      "content": "Cooling fan defective",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-38. Alarm AL-56"
+        }
+      ],
+      "page": 252,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -125,7 +229,20 @@
         "r": 358.1126699999998,
         "b": 441.9836489281769
       },
-      "content": "Check whether the cooling fan rotates smoothly."
+      "content": "Check whether the cooling fan rotates smoothly.",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-38. Alarm AL-56"
+        }
+      ],
+      "page": 252,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -138,7 +255,20 @@
         "r": 289.06326599999994,
         "b": 424.0523
       },
-      "content": "⇒ Replace the cooling fan."
+      "content": "⇒ Replace the cooling fan.",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-38. Alarm AL-56"
+        }
+      ],
+      "page": 252,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

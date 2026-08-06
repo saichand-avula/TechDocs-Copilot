@@ -21,7 +21,28 @@
       "next_block_id": "txt_2539",
       "image_hash": "66fafba5594b8952e15d9b718878524e0bc109ebf459d1660d4eb7c88ddf7a3e",
       "width": 517,
-      "height": 227
+      "height": 227,
+      "section_id": "sec_7_3_6",
+      "parent_section_id": "sec_auto_3289",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_3289",
+          "title": "Suck    temperature sensor failure"
+        },
+        {
+          "id": "sec_7_3_6",
+          "title": "7.3.6    Overheat Protection For Exhaust Temperature"
+        }
+      ],
+      "page": 302,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -35,8 +56,29 @@
         "b": 517.3243
       },
       "content": "7.3.7    The EEPROM Abnormality (Indoor or outdoor unit)",
-      "level": 2,
-      "role": "section"
+      "level": 3,
+      "section_number": "7.3.7",
+      "section_id": "sec_7_3_7",
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_3289",
+          "title": "Suck    temperature sensor failure"
+        },
+        {
+          "id": "sec_7_3_7",
+          "title": "7.3.7    The EEPROM Abnormality (Indoor or outdoor unit)"
+        }
+      ],
+      "parent_section_id": "sec_auto_3289",
+      "section_level": 3,
+      "page": 302,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -51,7 +93,28 @@
       },
       "markdown": "| Indoor Display                  | E4 : ˖ Indoor EEPROM error F12 ˖ Outdoor EEPROM error     |\n|---------------------------------|-----------------------------------------------------------|\n| Method of Malfunction Detection | the Data detected by the EEPROM are used to determine MCU |\n| Malfunction Decision Conditions | when the Data of EEPROM is error or the EEPROM is damaged |\n| Supposed Causes                 | g374 Faulty EEPROM data g374 Faulty EEPROM Ƶ Faulty PCB   |",
       "rows": 4,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_7_3_7",
+      "parent_section_id": "sec_auto_3289",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_3289",
+          "title": "Suck    temperature sensor failure"
+        },
+        {
+          "id": "sec_7_3_7",
+          "title": "7.3.7    The EEPROM Abnormality (Indoor or outdoor unit)"
+        }
+      ],
+      "page": 302,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -66,7 +129,23 @@
       },
       "content": "Troubleshooting        * Caution",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_3313",
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_3313",
+          "title": "Troubleshooting        * Caution"
+        }
+      ],
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "page": 302,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -79,7 +158,24 @@
         "r": 552.650841780001,
         "b": 306.051386
       },
-      "content": "Be sure to turn off power switch before connect or disconnect connector,      or"
+      "content": "Be sure to turn off power switch before connect or disconnect connector,      or",
+      "section_id": "sec_auto_3313",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_3313",
+          "title": "Troubleshooting        * Caution"
+        }
+      ],
+      "page": 302,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -92,7 +188,24 @@
         "r": 346.34809931999996,
         "b": 290.5806829999999
       },
-      "content": "parts damage may be occurred."
+      "content": "parts damage may be occurred.",
+      "section_id": "sec_auto_3313",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_3313",
+          "title": "Troubleshooting        * Caution"
+        }
+      ],
+      "page": 302,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -109,7 +222,24 @@
       "previous_block_id": "txt_2542",
       "image_hash": "f7ac4682e46975d93cad8c8e6bde3958876132d8adf4836e42072a60145a2461",
       "width": 427,
-      "height": 185
+      "height": 185,
+      "section_id": "sec_auto_3313",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_3313",
+          "title": "Troubleshooting        * Caution"
+        }
+      ],
+      "page": 302,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

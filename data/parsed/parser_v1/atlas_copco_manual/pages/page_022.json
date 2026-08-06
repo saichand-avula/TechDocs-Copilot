@@ -22,7 +22,24 @@
       "width": 47,
       "height": 23,
       "decorative": true,
-      "image_hash": "7577891dcf1743bd2e7a735ef2621e01244d960bde43e28868c27d7c1437ddb9"
+      "image_hash": "7577891dcf1743bd2e7a735ef2621e01244d960bde43e28868c27d7c1437ddb9",
+      "section_id": "sec_auto_203",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_auto_203",
+          "title": "Description"
+        }
+      ],
+      "page": 22,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -37,7 +54,24 @@
       },
       "content": "2.5    Condensate system",
       "level": 2,
-      "role": "section"
+      "section_number": "2.5",
+      "section_id": "sec_2_5",
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_2_5",
+          "title": "2.5    Condensate system"
+        }
+      ],
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "page": 22,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -52,7 +86,23 @@
       },
       "content": "Water drains",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_210",
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_auto_210",
+          "title": "Water drains"
+        }
+      ],
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "page": 22,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -70,7 +120,24 @@
       "next_block_id": "txt_0160",
       "image_hash": "ecede9132381b0f2e9cee29fafd2888b3949c8bf3f0365104d740066d16e0603",
       "width": 161,
-      "height": 104
+      "height": 104,
+      "section_id": "sec_auto_210",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_auto_210",
+          "title": "Water drains"
+        }
+      ],
+      "page": 22,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "caption",
@@ -84,6 +151,24 @@
         "b": 587.5
       },
       "content": "Condensate drains, typical example",
+      "section_id": "sec_auto_210",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_auto_210",
+          "title": "Water drains"
+        }
+      ],
+      "page": 22,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_tbl_0011",
+      "source": "pdf_text",
       "caption_for": "tbl_0011"
     },
     {
@@ -98,9 +183,27 @@
         "b": 513.0865173339844
       },
       "markdown": "Electronic condensate drains, typical example\n\n| Reference   | Designation                                                          |\n|-------------|----------------------------------------------------------------------|\n| Da          | Automatic drain connection                                           |\n| Da1         | Automatic drain connection of the dryer (only on Full-Feature units) |",
-      "caption_id": "txt_0160",
       "rows": 3,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_auto_210",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_auto_210",
+          "title": "Water drains"
+        }
+      ],
+      "page": 22,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "group_id": "grp_tbl_0011",
+      "source": "pdf_text",
+      "caption_id": "txt_0160"
     },
     {
       "type": "caption",
@@ -114,6 +217,24 @@
         "b": 298.96000000000004
       },
       "content": "Electronic condensate drains, typical example",
+      "section_id": "sec_auto_210",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_auto_210",
+          "title": "Water drains"
+        }
+      ],
+      "page": 22,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0044",
+      "source": "pdf_text",
       "caption_for": "fig_0044"
     },
     {
@@ -130,11 +251,29 @@
       "image_path": "figures/figure_0044.png",
       "previous_block_id": "txt_0161",
       "next_block_id": "txt_0162",
-      "caption_id": "txt_0161",
       "caption": "Electronic condensate drains, typical example",
       "image_hash": "d406e9faac8c3d07ef07c04fef5413b5114869dc5a7e2f88ebc41bd4f6626ac4",
       "width": 180,
-      "height": 150
+      "height": 150,
+      "section_id": "sec_auto_210",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_auto_210",
+          "title": "Water drains"
+        }
+      ],
+      "page": 22,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0044",
+      "source": "pdf_text",
+      "caption_id": "txt_0161"
     },
     {
       "type": "paragraph",
@@ -147,7 +286,24 @@
         "r": 531.8232999999996,
         "b": 216.72400000000005
       },
-      "content": "The compressors have an electronic water drain (EWD). The condensate from the air cooler accumulates in a collector. When the condensate reaches a certain level, it is discharged through the automatic drain outlet (Da)."
+      "content": "The compressors have an electronic water drain (EWD). The condensate from the air cooler accumulates in a collector. When the condensate reaches a certain level, it is discharged through the automatic drain outlet (Da).",
+      "section_id": "sec_auto_210",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_auto_210",
+          "title": "Water drains"
+        }
+      ],
+      "page": 22,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -160,7 +316,24 @@
         "r": 519.8057999999991,
         "b": 184.38400000000001
       },
-      "content": "On Full-Feature compressors, an additional electronic water drain (EWD1) is provided. The condensate trap of the heat exchanger is drained by EWD1 and discharged through automatic drain outlet (Da1)."
+      "content": "On Full-Feature compressors, an additional electronic water drain (EWD1) is provided. The condensate trap of the heat exchanger is drained by EWD1 and discharged through automatic drain outlet (Da1).",
+      "section_id": "sec_auto_210",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_auto_210",
+          "title": "Water drains"
+        }
+      ],
+      "page": 22,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -173,7 +346,24 @@
         "r": 534.0694999999994,
         "b": 152.0440000000001
       },
-      "content": "Also see section Air flow. Testing the electronic water drain can be done by briefly pressing the test button (1) on top of the drain."
+      "content": "Also see section Air flow. Testing the electronic water drain can be done by briefly pressing the test button (1) on top of the drain.",
+      "section_id": "sec_auto_210",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_auto_210",
+          "title": "Water drains"
+        }
+      ],
+      "page": 22,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

@@ -18,8 +18,25 @@
         "b": 713.146259338843
       },
       "content": "4.2.1.11 ANALOG-TO-DIGITAL CONVERTER",
-      "level": 2,
-      "role": "section"
+      "level": 4,
+      "section_number": "4.2.1.11",
+      "section_id": "sec_4_2_1_11",
+      "section_path": [
+        {
+          "id": "sec_auto_246",
+          "title": "REAL-TIME CLOCK"
+        },
+        {
+          "id": "sec_4_2_1_11",
+          "title": "4.2.1.11 ANALOG-TO-DIGITAL CONVERTER"
+        }
+      ],
+      "parent_section_id": "sec_auto_246",
+      "section_level": 4,
+      "page": 32,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -32,7 +49,24 @@
         "r": 504.0732018080008,
         "b": 581.2089644960333
       },
-      "content": "The  analog-to-digital  converter  (ADC)  monitors  the  proximal  pressure  sensor,  distal pressure sensor, proximal air sensor, distal air sensor, battery charge/discharge current, battery voltage, buzzer test signal, LCD contrast voltage, CCFT test signal, and two chopper motor drive reference voltages. The ADC is an advanced 10 bit accurate, 11 channel, switched-capacitor, successive-approximation device. It has three inputs and a three-state output (chip-select, I/O clock, address input, and data out) that provide a direct four-wire interface to the serial communication port of the CPU. The ADC is designed to be used in conjunction with multiple serial devices on a common bus; consequently, the data-out pin is driven only when the chip-select (CS*) pin is asserted. Figure 4-1 illustrates the serial interface between the ADC and the CPU."
+      "content": "The  analog-to-digital  converter  (ADC)  monitors  the  proximal  pressure  sensor,  distal pressure sensor, proximal air sensor, distal air sensor, battery charge/discharge current, battery voltage, buzzer test signal, LCD contrast voltage, CCFT test signal, and two chopper motor drive reference voltages. The ADC is an advanced 10 bit accurate, 11 channel, switched-capacitor, successive-approximation device. It has three inputs and a three-state output (chip-select, I/O clock, address input, and data out) that provide a direct four-wire interface to the serial communication port of the CPU. The ADC is designed to be used in conjunction with multiple serial devices on a common bus; consequently, the data-out pin is driven only when the chip-select (CS*) pin is asserted. Figure 4-1 illustrates the serial interface between the ADC and the CPU.",
+      "section_id": "sec_4_2_1_11",
+      "parent_section_id": "sec_auto_246",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_auto_246",
+          "title": "REAL-TIME CLOCK"
+        },
+        {
+          "id": "sec_4_2_1_11",
+          "title": "4.2.1.11 ANALOG-TO-DIGITAL CONVERTER"
+        }
+      ],
+      "page": 32,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -45,7 +79,24 @@
         "r": 504.0124457470005,
         "b": 509.2099446079334
       },
-      "content": "In addition to a high-speed ADC and versatile control capability, this device has an on-chip 14 channel multiplexer that can select any one of 11 analog inputs or any one of three internal  self  test  voltages.  The  sample-and-hold  function  is  automatic. The end-of-conversion (EOC) output goes high to indicate that conversion is complete. The CPU polls the EOC signal."
+      "content": "In addition to a high-speed ADC and versatile control capability, this device has an on-chip 14 channel multiplexer that can select any one of 11 analog inputs or any one of three internal  self  test  voltages.  The  sample-and-hold  function  is  automatic. The end-of-conversion (EOC) output goes high to indicate that conversion is complete. The CPU polls the EOC signal.",
+      "section_id": "sec_4_2_1_11",
+      "parent_section_id": "sec_auto_246",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_auto_246",
+          "title": "REAL-TIME CLOCK"
+        },
+        {
+          "id": "sec_4_2_1_11",
+          "title": "4.2.1.11 ANALOG-TO-DIGITAL CONVERTER"
+        }
+      ],
+      "page": 32,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -58,7 +109,24 @@
         "r": 504.12272210860107,
         "b": 401.20785478403275
       },
-      "content": "Channel selection and conversion results are transferred through the SCP pins. A serial transfer synchronizing clock (SPCLK) must be fed into the I/O clock input pin when the CS* pin is driven low. The address to be converted is serially transmitted into the address pin, and the conversion results are serially shifted out the data-out pin. Typical access time is 21 µ sec. The APP PWA is the source of the 2.5 V DC  reference voltage. The analog inputs  are  selected  by  the  channel  multiplexer  according  to  the  input  address (see Table 4-1) .  The input multiplexer is a break-before-make type to reduce input-to-input noise injection resulting from channel switching."
+      "content": "Channel selection and conversion results are transferred through the SCP pins. A serial transfer synchronizing clock (SPCLK) must be fed into the I/O clock input pin when the CS* pin is driven low. The address to be converted is serially transmitted into the address pin, and the conversion results are serially shifted out the data-out pin. Typical access time is 21 µ sec. The APP PWA is the source of the 2.5 V DC  reference voltage. The analog inputs  are  selected  by  the  channel  multiplexer  according  to  the  input  address (see Table 4-1) .  The input multiplexer is a break-before-make type to reduce input-to-input noise injection resulting from channel switching.",
+      "section_id": "sec_4_2_1_11",
+      "parent_section_id": "sec_auto_246",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_auto_246",
+          "title": "REAL-TIME CLOCK"
+        },
+        {
+          "id": "sec_4_2_1_11",
+          "title": "4.2.1.11 ANALOG-TO-DIGITAL CONVERTER"
+        }
+      ],
+      "page": 32,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

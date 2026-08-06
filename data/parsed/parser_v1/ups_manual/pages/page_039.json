@@ -17,7 +17,24 @@
         "r": 541.4523999999998,
         "b": 682.196101363195
       },
-      "content": "Connect the battery cable between the (+B\\-B) battery terminal and battery switch of UPS. The connection of cable between battery terminal and battery switch should start from switch end. Pay attention to the polarity of battery cable."
+      "content": "Connect the battery cable between the (+B\\-B) battery terminal and battery switch of UPS. The connection of cable between battery terminal and battery switch should start from switch end. Pay attention to the polarity of battery cable.",
+      "section_id": "sec_auto_365",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_auto_365",
+          "title": "External battery connection"
+        }
+      ],
+      "page": 39,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -30,7 +47,24 @@
         "r": 541.2662399999996,
         "b": 650.996101363195
       },
-      "content": "Inspect  wiring  and  fasten  bolt  again  for  wire  locking.  Recover  all  protective  covers  after confirmation."
+      "content": "Inspect  wiring  and  fasten  bolt  again  for  wire  locking.  Recover  all  protective  covers  after confirmation.",
+      "section_id": "sec_auto_365",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_auto_365",
+          "title": "External battery connection"
+        }
+      ],
+      "page": 39,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -44,8 +78,29 @@
         "b": 622.4328447886094
       },
       "content": "3.8.2 Wiring of Parallel UPS System",
-      "level": 2,
-      "role": "section"
+      "level": 3,
+      "section_number": "3.8.2",
+      "section_id": "sec_3_8_2",
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_auto_365",
+          "title": "External battery connection"
+        },
+        {
+          "id": "sec_3_8_2",
+          "title": "3.8.2 Wiring of Parallel UPS System"
+        }
+      ],
+      "parent_section_id": "sec_auto_365",
+      "section_level": 3,
+      "page": 39,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -58,7 +113,28 @@
         "r": 217.06568,
         "b": 593.756101363195
       },
-      "content": "Wiring of parallel signal cable"
+      "content": "Wiring of parallel signal cable",
+      "section_id": "sec_3_8_2",
+      "parent_section_id": "sec_auto_365",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_auto_365",
+          "title": "External battery connection"
+        },
+        {
+          "id": "sec_3_8_2",
+          "title": "3.8.2 Wiring of Parallel UPS System"
+        }
+      ],
+      "page": 39,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -71,7 +147,28 @@
         "r": 541.5667199999998,
         "b": 515.726101363195
       },
-      "content": "Each UPS has 4 parallel wiring ports (two are DB25 and another two are DB9). Closed loop should be formed in the wiring of DB25 in parallel system, so should DB9. Two parallel wires in the same circuit should be closed and parallel as near as possible and kept away from power cable to the greatest extent so as to reduce outside interference to parallel wires. Schematic diagram of wiring is as shown in Figure 3-27."
+      "content": "Each UPS has 4 parallel wiring ports (two are DB25 and another two are DB9). Closed loop should be formed in the wiring of DB25 in parallel system, so should DB9. Two parallel wires in the same circuit should be closed and parallel as near as possible and kept away from power cable to the greatest extent so as to reduce outside interference to parallel wires. Schematic diagram of wiring is as shown in Figure 3-27.",
+      "section_id": "sec_3_8_2",
+      "parent_section_id": "sec_auto_365",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_auto_365",
+          "title": "External battery connection"
+        },
+        {
+          "id": "sec_3_8_2",
+          "title": "3.8.2 Wiring of Parallel UPS System"
+        }
+      ],
+      "page": 39,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -87,12 +184,34 @@
       "image_path": "figures/figure_0058.png",
       "previous_block_id": "txt_0305",
       "next_block_id": "txt_0306",
-      "caption_id": "txt_0306",
       "caption": ": Schematic diagram for connection of parallel signal line",
       "figure_number": "Figure 3-27",
       "image_hash": "9e663015de542589e797f92e2b2aeee3a36f0e0e966f5d8d40f330f6f71fd2b3",
       "width": 353,
-      "height": 91
+      "height": 91,
+      "section_id": "sec_3_8_2",
+      "parent_section_id": "sec_auto_365",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_auto_365",
+          "title": "External battery connection"
+        },
+        {
+          "id": "sec_3_8_2",
+          "title": "3.8.2 Wiring of Parallel UPS System"
+        }
+      ],
+      "page": 39,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0058",
+      "source": "pdf_text",
+      "caption_id": "txt_0306"
     },
     {
       "type": "caption",
@@ -106,6 +225,28 @@
         "b": 361.386101363195
       },
       "content": "Figure 3-27: Schematic diagram for connection of parallel signal line",
+      "section_id": "sec_3_8_2",
+      "parent_section_id": "sec_auto_365",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_auto_365",
+          "title": "External battery connection"
+        },
+        {
+          "id": "sec_3_8_2",
+          "title": "3.8.2 Wiring of Parallel UPS System"
+        }
+      ],
+      "page": 39,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0058",
+      "source": "pdf_text",
       "caption_for": "fig_0058"
     },
     {
@@ -119,7 +260,29 @@
         "r": 241.54568,
         "b": 345.786101363195
       },
-      "content": "Connection of parallel power cable"
+      "content": "Connection of parallel power cable",
+      "section_id": "sec_3_8_2",
+      "parent_section_id": "sec_auto_365",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_auto_365",
+          "title": "External battery connection"
+        },
+        {
+          "id": "sec_3_8_2",
+          "title": "3.8.2 Wiring of Parallel UPS System"
+        }
+      ],
+      "page": 39,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text",
+      "group_id": "grp_fig_0058"
     },
     {
       "type": "paragraph",
@@ -132,7 +295,28 @@
         "r": 541.56592,
         "b": 298.98610136319496
       },
-      "content": "If  there  is  only  one  circuit  with  power  supply,  first  connect  each  UPS  into  the  \"public  input connection\",  and  connect  the  input  terminals  of  each  UPS  together,  so  do  output.  Schematic diagram of wiring is as shown in Figure 3-28."
+      "content": "If  there  is  only  one  circuit  with  power  supply,  first  connect  each  UPS  into  the  \"public  input connection\",  and  connect  the  input  terminals  of  each  UPS  together,  so  do  output.  Schematic diagram of wiring is as shown in Figure 3-28.",
+      "section_id": "sec_3_8_2",
+      "parent_section_id": "sec_auto_365",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_auto_365",
+          "title": "External battery connection"
+        },
+        {
+          "id": "sec_3_8_2",
+          "title": "3.8.2 Wiring of Parallel UPS System"
+        }
+      ],
+      "page": 39,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -145,7 +329,28 @@
         "r": 541.61376,
         "b": 252.1861013631949
       },
-      "content": "If  separated  bypass  connection  is  used,  it  is  necessary  to  remove  the  copper  bars  with  short connected the internal main input and bypass input, and then connect the rectifier input terminals of each UPS together, so do bypass input; the connection of phase sequence should be correct."
+      "content": "If  separated  bypass  connection  is  used,  it  is  necessary  to  remove  the  copper  bars  with  short connected the internal main input and bypass input, and then connect the rectifier input terminals of each UPS together, so do bypass input; the connection of phase sequence should be correct.",
+      "section_id": "sec_3_8_2",
+      "parent_section_id": "sec_auto_365",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_auto_365",
+          "title": "External battery connection"
+        },
+        {
+          "id": "sec_3_8_2",
+          "title": "3.8.2 Wiring of Parallel UPS System"
+        }
+      ],
+      "page": 39,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -164,7 +369,28 @@
       "width": 19,
       "height": 18,
       "decorative": true,
-      "image_hash": "458a9eb65568229634cda6b210e8e06b0c29bb2d67702a90d46a8a25eec8e17c"
+      "image_hash": "458a9eb65568229634cda6b210e8e06b0c29bb2d67702a90d46a8a25eec8e17c",
+      "section_id": "sec_3_8_2",
+      "parent_section_id": "sec_auto_365",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_auto_365",
+          "title": "External battery connection"
+        },
+        {
+          "id": "sec_3_8_2",
+          "title": "3.8.2 Wiring of Parallel UPS System"
+        }
+      ],
+      "page": 39,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -177,7 +403,28 @@
         "r": 541.5859200000002,
         "b": 205.35610136319497
       },
-      "content": "Battery cable is connected in the same way as stand-alone UPS and the battery pack of UPS can't be shared."
+      "content": "Battery cable is connected in the same way as stand-alone UPS and the battery pack of UPS can't be shared.",
+      "section_id": "sec_3_8_2",
+      "parent_section_id": "sec_auto_365",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_auto_365",
+          "title": "External battery connection"
+        },
+        {
+          "id": "sec_3_8_2",
+          "title": "3.8.2 Wiring of Parallel UPS System"
+        }
+      ],
+      "page": 39,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -196,7 +443,28 @@
       "width": 19,
       "height": 17,
       "decorative": true,
-      "image_hash": "4ac4929c3be5d950a9397afe8546f2c1f624f96b3c5972369d0cf3a38f2464fe"
+      "image_hash": "4ac4929c3be5d950a9397afe8546f2c1f624f96b3c5972369d0cf3a38f2464fe",
+      "section_id": "sec_3_8_2",
+      "parent_section_id": "sec_auto_365",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_auto_365",
+          "title": "External battery connection"
+        },
+        {
+          "id": "sec_3_8_2",
+          "title": "3.8.2 Wiring of Parallel UPS System"
+        }
+      ],
+      "page": 39,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "admonition",
@@ -210,7 +478,28 @@
         "b": 111.75610136319494
       },
       "content": "Note: In the configuration design of parallel system, for better current sharing to be obtained by parallel UPS, the input and output cables of each UPS must be same in specifications, the length of power cable from the input terminal to the AC power distribution connection point of each UPS is same as that from output terminal to load connection point, and the input and output impedance of each UPS should be consistent.",
-      "severity": "note"
+      "severity": "note",
+      "section_id": "sec_3_8_2",
+      "parent_section_id": "sec_auto_365",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_auto_365",
+          "title": "External battery connection"
+        },
+        {
+          "id": "sec_3_8_2",
+          "title": "3.8.2 Wiring of Parallel UPS System"
+        }
+      ],
+      "page": 39,
+      "chunk_hint": "admonition",
+      "semantic_role": "note",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

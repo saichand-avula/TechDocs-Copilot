@@ -21,7 +21,24 @@
       "next_block_id": "txt_0657",
       "image_hash": "2d2a836df72f659eb0985697292682429e59bf8ad20c0b8fc6a039c365a94e86",
       "width": 48,
-      "height": 23
+      "height": 23,
+      "section_id": "sec_auto_982",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5       Energy recovery (optional)"
+        },
+        {
+          "id": "sec_auto_982",
+          "title": "Heat exchanger (HE)"
+        }
+      ],
+      "page": 92,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -36,7 +53,24 @@
       },
       "content": "5.5    Energy recovery data",
       "level": 2,
-      "role": "section"
+      "section_number": "5.5",
+      "section_id": "sec_5_5",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5       Energy recovery (optional)"
+        },
+        {
+          "id": "sec_5_5",
+          "title": "5.5    Energy recovery data"
+        }
+      ],
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "page": 92,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -51,7 +85,23 @@
       },
       "content": "Reference conditions",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_986",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5       Energy recovery (optional)"
+        },
+        {
+          "id": "sec_auto_986",
+          "title": "Reference conditions"
+        }
+      ],
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "page": 92,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -64,7 +114,24 @@
         "r": 266.9842000000001,
         "b": 702.544
       },
-      "content": "See section Reference conditions and limitations."
+      "content": "See section Reference conditions and limitations.",
+      "section_id": "sec_auto_986",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5       Energy recovery (optional)"
+        },
+        {
+          "id": "sec_auto_986",
+          "title": "Reference conditions"
+        }
+      ],
+      "page": 92,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -79,7 +146,23 @@
       },
       "content": "Effective working pressure",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_988",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5       Energy recovery (optional)"
+        },
+        {
+          "id": "sec_auto_988",
+          "title": "Effective working pressure"
+        }
+      ],
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "page": 92,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -92,7 +175,24 @@
         "r": 341.22709999999995,
         "b": 650.8239
       },
-      "content": "Consult section Compressor data for the normal working pressure."
+      "content": "Consult section Compressor data for the normal working pressure.",
+      "section_id": "sec_auto_988",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5       Energy recovery (optional)"
+        },
+        {
+          "id": "sec_auto_988",
+          "title": "Effective working pressure"
+        }
+      ],
+      "page": 92,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -107,7 +207,23 @@
       },
       "content": "Maximum allowed pressure of the heat exchanger",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_990",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5       Energy recovery (optional)"
+        },
+        {
+          "id": "sec_auto_990",
+          "title": "Maximum allowed pressure of the heat exchanger"
+        }
+      ],
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "page": 92,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -122,7 +238,24 @@
       },
       "markdown": "| Oil side   | 15bar   |\n|------------|---------|\n| Water side | 10bar   |",
       "rows": 2,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_auto_990",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5       Energy recovery (optional)"
+        },
+        {
+          "id": "sec_auto_990",
+          "title": "Maximum allowed pressure of the heat exchanger"
+        }
+      ],
+      "page": 92,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -137,7 +270,23 @@
       },
       "content": "Reading settings",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_992",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5       Energy recovery (optional)"
+        },
+        {
+          "id": "sec_auto_992",
+          "title": "Reading settings"
+        }
+      ],
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "page": 92,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -150,7 +299,24 @@
         "r": 521.9273999999991,
         "b": 525.7847
       },
-      "content": "In addition to other data, the following temperatures can be read on the Elektronikon display:"
+      "content": "In addition to other data, the following temperatures can be read on the Elektronikon display:",
+      "section_id": "sec_auto_992",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5       Energy recovery (optional)"
+        },
+        {
+          "id": "sec_auto_992",
+          "title": "Reading settings"
+        }
+      ],
+      "page": 92,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -165,7 +331,23 @@
       },
       "content": "For air-cooled units:",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_994",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5       Energy recovery (optional)"
+        },
+        {
+          "id": "sec_auto_994",
+          "title": "For air-cooled units:"
+        }
+      ],
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "page": 92,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -178,7 +360,24 @@
         "r": 341.7352999999997,
         "b": 490.4978
       },
-      "content": "The water inlet temperature of the energy recovery system"
+      "content": "The water inlet temperature of the energy recovery system",
+      "section_id": "sec_auto_994",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5       Energy recovery (optional)"
+        },
+        {
+          "id": "sec_auto_994",
+          "title": "For air-cooled units:"
+        }
+      ],
+      "page": 92,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -191,7 +390,24 @@
         "r": 347.77320000000003,
         "b": 477.2978
       },
-      "content": "The water outlet temperature of the energy recovery system"
+      "content": "The water outlet temperature of the energy recovery system",
+      "section_id": "sec_auto_994",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5       Energy recovery (optional)"
+        },
+        {
+          "id": "sec_auto_994",
+          "title": "For air-cooled units:"
+        }
+      ],
+      "page": 92,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -206,7 +422,23 @@
       },
       "content": "For water-cooled units:",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_997",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5       Energy recovery (optional)"
+        },
+        {
+          "id": "sec_auto_997",
+          "title": "For water-cooled units:"
+        }
+      ],
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "page": 92,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -219,7 +451,24 @@
         "r": 347.77320000000003,
         "b": 431.69730000000004
       },
-      "content": "The water outlet temperature of the energy recovery system"
+      "content": "The water outlet temperature of the energy recovery system",
+      "section_id": "sec_auto_997",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5       Energy recovery (optional)"
+        },
+        {
+          "id": "sec_auto_997",
+          "title": "For water-cooled units:"
+        }
+      ],
+      "page": 92,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -232,7 +481,24 @@
         "r": 341.7352999999997,
         "b": 444.89730000000003
       },
-      "content": "The water inlet temperature of the energy recovery system"
+      "content": "The water inlet temperature of the energy recovery system",
+      "section_id": "sec_auto_997",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5       Energy recovery (optional)"
+        },
+        {
+          "id": "sec_auto_997",
+          "title": "For water-cooled units:"
+        }
+      ],
+      "page": 92,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -245,7 +511,24 @@
         "r": 325.9657000000003,
         "b": 418.49730000000005
       },
-      "content": "The cooling water outlet temperature of the compressor"
+      "content": "The cooling water outlet temperature of the compressor",
+      "section_id": "sec_auto_997",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5       Energy recovery (optional)"
+        },
+        {
+          "id": "sec_auto_997",
+          "title": "For water-cooled units:"
+        }
+      ],
+      "page": 92,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -260,7 +543,23 @@
       },
       "content": "Modifying settings",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1001",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5       Energy recovery (optional)"
+        },
+        {
+          "id": "sec_auto_1001",
+          "title": "Modifying settings"
+        }
+      ],
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "page": 92,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -273,7 +572,24 @@
         "r": 528.7693999999993,
         "b": 356.1053000000001
       },
-      "content": "If the programmed warning settings for the water temperatures are exceeded, a warning indication is shown on the Elektronikon:"
+      "content": "If the programmed warning settings for the water temperatures are exceeded, a warning indication is shown on the Elektronikon:",
+      "section_id": "sec_auto_1001",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5       Energy recovery (optional)"
+        },
+        {
+          "id": "sec_auto_1001",
+          "title": "Modifying settings"
+        }
+      ],
+      "page": 92,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -288,7 +604,24 @@
       },
       "markdown": "| Temperature input                          | Units   |   Minimum setting | Nominal setting        |   Maximum setting |\n|--------------------------------------------|---------|-------------------|------------------------|-------------------|\n| Water inlet temperature of energy recovery | °C      |                 0 | 50                     |                99 |\n| Energy recovery water outlet temperature   | °C      |                 0 | Depends on application |                99 |",
       "rows": 3,
-      "cols": 5
+      "cols": 5,
+      "section_id": "sec_auto_1001",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5       Energy recovery (optional)"
+        },
+        {
+          "id": "sec_auto_1001",
+          "title": "Modifying settings"
+        }
+      ],
+      "page": 92,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -301,7 +634,24 @@
         "r": 285.6820999999999,
         "b": 236.70399999999995
       },
-      "content": "To modify a setting, consult section Settings menu."
+      "content": "To modify a setting, consult section Settings menu.",
+      "section_id": "sec_auto_1001",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5       Energy recovery (optional)"
+        },
+        {
+          "id": "sec_auto_1001",
+          "title": "Modifying settings"
+        }
+      ],
+      "page": 92,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -316,7 +666,23 @@
       },
       "content": "Recoverable energy",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1005",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5       Energy recovery (optional)"
+        },
+        {
+          "id": "sec_auto_1005",
+          "title": "Recoverable energy"
+        }
+      ],
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "page": 92,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -329,7 +695,24 @@
         "r": 263.99279999999976,
         "b": 187.86349999999993
       },
-      "content": "The recoverable energy can be calculated from:"
+      "content": "The recoverable energy can be calculated from:",
+      "section_id": "sec_auto_1005",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5       Energy recovery (optional)"
+        },
+        {
+          "id": "sec_auto_1005",
+          "title": "Recoverable energy"
+        }
+      ],
+      "page": 92,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -342,7 +725,24 @@
         "r": 427.4759000000007,
         "b": 168.663
       },
-      "content": "RECOVERED ENERGY (kW) = 4.2 x water flow (l/s) x water temperature rise (°C)"
+      "content": "RECOVERED ENERGY (kW) = 4.2 x water flow (l/s) x water temperature rise (°C)",
+      "section_id": "sec_auto_1005",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5       Energy recovery (optional)"
+        },
+        {
+          "id": "sec_auto_1005",
+          "title": "Recoverable energy"
+        }
+      ],
+      "page": 92,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -355,7 +755,24 @@
         "r": 418.43059999999946,
         "b": 149.46249999999998
       },
-      "content": "In the tables below, typical examples are given, except for the recovered energy."
+      "content": "In the tables below, typical examples are given, except for the recovered energy.",
+      "section_id": "sec_auto_1005",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5       Energy recovery (optional)"
+        },
+        {
+          "id": "sec_auto_1005",
+          "title": "Recoverable energy"
+        }
+      ],
+      "page": 92,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

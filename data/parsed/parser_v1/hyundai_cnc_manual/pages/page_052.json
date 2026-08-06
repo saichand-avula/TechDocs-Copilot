@@ -18,8 +18,21 @@
         "b": 733.0429409281768
       },
       "content": "6. Tool Post",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "6",
+      "section_id": "sec_6",
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6. Tool Post"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 52,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -33,8 +46,21 @@
         "b": 699.0230369281768
       },
       "content": "6-1. Turret",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "6",
+      "section_id": "sec_6",
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6-1. Turret"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 52,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -50,12 +76,26 @@
       "image_path": "figures/figure_0072.png",
       "previous_block_id": "txt_0290",
       "next_block_id": "txt_0291",
-      "caption_id": "txt_0291",
       "caption": "Turret (SUPER KIATURN 100/200)",
       "figure_number": "Fig. 3-11",
       "image_hash": "61a730e194568adb87e42673d67b53b6d08e5ebe93129a43a28e416b2f95bf86",
       "width": 440,
-      "height": 538
+      "height": 538,
+      "section_id": "sec_6",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6-1. Turret"
+        }
+      ],
+      "page": 52,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0072",
+      "source": "pdf_text",
+      "caption_id": "txt_0291"
     },
     {
       "type": "caption",
@@ -69,6 +109,20 @@
         "b": 121.04538892817686
       },
       "content": "Fig. 3-11  Turret (SUPER KIATURN 100/200)",
+      "section_id": "sec_6",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6-1. Turret"
+        }
+      ],
+      "page": 52,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0072",
+      "source": "pdf_text",
       "caption_for": "fig_0072"
     }
   ],

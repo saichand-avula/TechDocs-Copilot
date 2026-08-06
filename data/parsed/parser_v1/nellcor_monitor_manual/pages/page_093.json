@@ -17,7 +17,24 @@
         "r": 372.7559499999999,
         "b": 692.24625
       },
-      "content": "l Temperature unit : measures temperature data."
+      "content": "l Temperature unit : measures temperature data.",
+      "section_id": "sec_auto_1001",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6. Turn monitor off."
+        },
+        {
+          "id": "sec_auto_1001",
+          "title": "Unit Description"
+        }
+      ],
+      "page": 93,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -32,7 +49,23 @@
       },
       "content": "Patient Isolation",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1036",
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6. Turn monitor off."
+        },
+        {
+          "id": "sec_auto_1036",
+          "title": "Patient Isolation"
+        }
+      ],
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "page": 93,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -48,12 +81,30 @@
       "image_path": "figures/figure_0119.png",
       "previous_block_id": "txt_0877",
       "next_block_id": "txt_0878",
-      "caption_id": "txt_0878",
       "caption": ". Temperature Unit Block Diagram",
       "figure_number": "Figure 23",
       "image_hash": "93c3f96e5b0237b00ade77776dc399979cb045d9da565014a2519584694c3dcb",
       "width": 313,
-      "height": 232
+      "height": 232,
+      "section_id": "sec_auto_1036",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6. Turn monitor off."
+        },
+        {
+          "id": "sec_auto_1036",
+          "title": "Patient Isolation"
+        }
+      ],
+      "page": 93,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0119",
+      "source": "pdf_text",
+      "caption_id": "txt_0878"
     },
     {
       "type": "caption",
@@ -67,6 +118,24 @@
         "b": 426.9375
       },
       "content": "Figure 23. Temperature Unit Block Diagram",
+      "section_id": "sec_auto_1036",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6. Turn monitor off."
+        },
+        {
+          "id": "sec_auto_1036",
+          "title": "Patient Isolation"
+        }
+      ],
+      "page": 93,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0119",
+      "source": "pdf_text",
       "caption_for": "fig_0119"
     },
     {
@@ -80,7 +149,25 @@
         "r": 538.9114500000002,
         "b": 386.24625
       },
-      "content": "l Analog control unit: analog circuit control, PIC16C65  - selection of ECG channels and filter, size adjustment, verification of lead off, QRS, heart rate, etc."
+      "content": "l Analog control unit: analog circuit control, PIC16C65  - selection of ECG channels and filter, size adjustment, verification of lead off, QRS, heart rate, etc.",
+      "section_id": "sec_auto_1036",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6. Turn monitor off."
+        },
+        {
+          "id": "sec_auto_1036",
+          "title": "Patient Isolation"
+        }
+      ],
+      "page": 93,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text",
+      "group_id": "grp_fig_0119"
     },
     {
       "type": "figure",
@@ -96,12 +183,30 @@
       "image_path": "figures/figure_0120.png",
       "previous_block_id": "txt_0879",
       "next_block_id": "txt_0880",
-      "caption_id": "txt_0880",
       "caption": ". Analog Control Unit Block Diagram",
       "figure_number": "Figure 24",
       "image_hash": "17925708465d1da20098c80e5bdb91f4cdcff4634915b72dbae238b672029bdf",
       "width": 359,
-      "height": 208
+      "height": 208,
+      "section_id": "sec_auto_1036",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6. Turn monitor off."
+        },
+        {
+          "id": "sec_auto_1036",
+          "title": "Patient Isolation"
+        }
+      ],
+      "page": 93,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0120",
+      "source": "pdf_text",
+      "caption_id": "txt_0880"
     },
     {
       "type": "caption",
@@ -115,6 +220,24 @@
         "b": 156.9375
       },
       "content": "Figure 24. Analog Control Unit Block Diagram",
+      "section_id": "sec_auto_1036",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6. Turn monitor off."
+        },
+        {
+          "id": "sec_auto_1036",
+          "title": "Patient Isolation"
+        }
+      ],
+      "page": 93,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0120",
+      "source": "pdf_text",
       "caption_for": "fig_0120"
     },
     {
@@ -130,7 +253,23 @@
       },
       "content": "External Interface",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1042",
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6. Turn monitor off."
+        },
+        {
+          "id": "sec_auto_1042",
+          "title": "External Interface"
+        }
+      ],
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "page": 93,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -143,7 +282,24 @@
         "r": 287.8125,
         "b": 102.74625000000003
       },
-      "content": "l TCP/IP : Network connector"
+      "content": "l TCP/IP : Network connector",
+      "section_id": "sec_auto_1042",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6. Turn monitor off."
+        },
+        {
+          "id": "sec_auto_1042",
+          "title": "External Interface"
+        }
+      ],
+      "page": 93,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -156,7 +312,24 @@
         "r": 422.8125,
         "b": 89.24625000000003
       },
-      "content": "l Serial I/O : a female 15 pin sub-miniature D shell connector"
+      "content": "l Serial I/O : a female 15 pin sub-miniature D shell connector",
+      "section_id": "sec_auto_1042",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6. Turn monitor off."
+        },
+        {
+          "id": "sec_auto_1042",
+          "title": "External Interface"
+        }
+      ],
+      "page": 93,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

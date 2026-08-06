@@ -19,12 +19,34 @@
       },
       "image_path": "figures/figure_0124.png",
       "next_block_id": "txt_0602",
-      "caption_id": "txt_0602",
       "caption": ": Communication interface module of 80 ~ 160 kVA",
       "figure_number": "Figure 7-6",
       "image_hash": "49c05929b7a96186c4aa1cd33a6fbec7e391e66b9b866403ac5e19c3dfd1d3de",
       "width": 460,
-      "height": 261
+      "height": 261,
+      "section_id": "sec_7_3_1",
+      "parent_section_id": "sec_7_3",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7 Annex"
+        },
+        {
+          "id": "sec_7_3",
+          "title": "7.3 iStars Hardware Connection"
+        },
+        {
+          "id": "sec_7_3_1",
+          "title": "7.3.1 Hardware Port"
+        }
+      ],
+      "page": 75,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0124",
+      "source": "pdf_text",
+      "caption_id": "txt_0602"
     },
     {
       "type": "caption",
@@ -38,6 +60,28 @@
         "b": 444.326101363195
       },
       "content": "Figure 7-6: Communication interface module of 80 ~ 160 kVA",
+      "section_id": "sec_7_3_1",
+      "parent_section_id": "sec_7_3",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7 Annex"
+        },
+        {
+          "id": "sec_7_3",
+          "title": "7.3 iStars Hardware Connection"
+        },
+        {
+          "id": "sec_7_3_1",
+          "title": "7.3.1 Hardware Port"
+        }
+      ],
+      "page": 75,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0124",
+      "source": "pdf_text",
       "caption_for": "fig_0124"
     },
     {
@@ -51,7 +95,29 @@
         "r": 226.06568,
         "b": 428.72610136319497
       },
-      "content": "UPS"
+      "content": "UPS",
+      "section_id": "sec_7_3_1",
+      "parent_section_id": "sec_7_3",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7 Annex"
+        },
+        {
+          "id": "sec_7_3",
+          "title": "7.3 iStars Hardware Connection"
+        },
+        {
+          "id": "sec_7_3_1",
+          "title": "7.3.1 Hardware Port"
+        }
+      ],
+      "page": 75,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text",
+      "group_id": "grp_fig_0124"
     },
     {
       "type": "heading",
@@ -65,8 +131,29 @@
         "b": 407.84284478860934
       },
       "content": "7.3.2 Descriptions and Connection of iStars Interfaces",
-      "level": 2,
-      "role": "section"
+      "level": 3,
+      "section_number": "7.3.2",
+      "section_id": "sec_7_3_2",
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7 Annex"
+        },
+        {
+          "id": "sec_7_3",
+          "title": "7.3 iStars Hardware Connection"
+        },
+        {
+          "id": "sec_7_3_2",
+          "title": "7.3.2 Descriptions and Connection of iStars Interfaces"
+        }
+      ],
+      "parent_section_id": "sec_7_3",
+      "section_level": 3,
+      "page": 75,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -79,7 +166,28 @@
         "r": 541.4611999999997,
         "b": 347.946101363195
       },
-      "content": "NET port: 10/100M Ethernet network line port, connected to network line port of computer UPS port: uses RS232 serial port line, connected to RS232 port of UPS (external DB9 port; internal golden finger port)"
+      "content": "NET port: 10/100M Ethernet network line port, connected to network line port of computer UPS port: uses RS232 serial port line, connected to RS232 port of UPS (external DB9 port; internal golden finger port)",
+      "section_id": "sec_7_3_2",
+      "parent_section_id": "sec_7_3",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7 Annex"
+        },
+        {
+          "id": "sec_7_3",
+          "title": "7.3 iStars Hardware Connection"
+        },
+        {
+          "id": "sec_7_3_2",
+          "title": "7.3.2 Descriptions and Connection of iStars Interfaces"
+        }
+      ],
+      "page": 75,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -92,7 +200,28 @@
         "r": 221.62568,
         "b": 332.346101363195
       },
-      "content": "DC9V port: DC9V power port"
+      "content": "DC9V port: DC9V power port",
+      "section_id": "sec_7_3_2",
+      "parent_section_id": "sec_7_3",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7 Annex"
+        },
+        {
+          "id": "sec_7_3",
+          "title": "7.3 iStars Hardware Connection"
+        },
+        {
+          "id": "sec_7_3_2",
+          "title": "7.3.2 Descriptions and Connection of iStars Interfaces"
+        }
+      ],
+      "page": 75,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -105,7 +234,28 @@
         "r": 307.92568,
         "b": 316.74610136319495
       },
-      "content": "GPRS port: GPRS SMS module port (DB9 port)"
+      "content": "GPRS port: GPRS SMS module port (DB9 port)",
+      "section_id": "sec_7_3_2",
+      "parent_section_id": "sec_7_3",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7 Annex"
+        },
+        {
+          "id": "sec_7_3",
+          "title": "7.3 iStars Hardware Connection"
+        },
+        {
+          "id": "sec_7_3_2",
+          "title": "7.3.2 Descriptions and Connection of iStars Interfaces"
+        }
+      ],
+      "page": 75,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -118,7 +268,28 @@
         "r": 328.32568,
         "b": 301.14610136319493
       },
-      "content": "Y/G/R indicator light: LED three-color indicating light"
+      "content": "Y/G/R indicator light: LED three-color indicating light",
+      "section_id": "sec_7_3_2",
+      "parent_section_id": "sec_7_3",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7 Annex"
+        },
+        {
+          "id": "sec_7_3",
+          "title": "7.3 iStars Hardware Connection"
+        },
+        {
+          "id": "sec_7_3_2",
+          "title": "7.3.2 Descriptions and Connection of iStars Interfaces"
+        }
+      ],
+      "page": 75,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -132,8 +303,29 @@
         "b": 272.58284478860935
       },
       "content": "7.3.3 LED Indicator Lights",
-      "level": 2,
-      "role": "section"
+      "level": 3,
+      "section_number": "7.3.3",
+      "section_id": "sec_7_3_3",
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7 Annex"
+        },
+        {
+          "id": "sec_7_3",
+          "title": "7.3 iStars Hardware Connection"
+        },
+        {
+          "id": "sec_7_3_3",
+          "title": "7.3.3 LED Indicator Lights"
+        }
+      ],
+      "parent_section_id": "sec_7_3",
+      "section_level": 3,
+      "page": 75,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -147,11 +339,33 @@
         "b": 96.37176112183352
       },
       "markdown": "Table 7-3: Instructions of LED indicator light\n\n| Type         | Indicating signal             | Description                                                                                                                                                                   |\n|--------------|-------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Red light    | Fault indicator light         | If communication with UPS is interrupted or other systems go wrong, the red light flashes.                                                                                    |\n| Green light  | Power indicator light         | After the system is started and enters a normal operating status, the green light flashes, which means the system is running normally.                                        |\n| Yellow light | Communication indicator light | Yellow light flashes indicating that there is data communication with UPS. It means to send order when the light is on; it means that data is received when the light is off. |",
-      "caption_id": "txt_0610",
       "title": "Table 7-3: Instructions of LED indicator light",
       "table_number": "Table 7-3",
       "rows": 4,
-      "cols": 3
+      "cols": 3,
+      "section_id": "sec_7_3_3",
+      "parent_section_id": "sec_7_3",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7 Annex"
+        },
+        {
+          "id": "sec_7_3",
+          "title": "7.3 iStars Hardware Connection"
+        },
+        {
+          "id": "sec_7_3_3",
+          "title": "7.3.3 LED Indicator Lights"
+        }
+      ],
+      "page": 75,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "group_id": "grp_tbl_0043",
+      "source": "pdf_text",
+      "caption_id": "txt_0610"
     },
     {
       "type": "caption",
@@ -165,6 +379,28 @@
         "b": 243.90610136319492
       },
       "content": "Table 7-3: Instructions of LED indicator light",
+      "section_id": "sec_7_3_3",
+      "parent_section_id": "sec_7_3",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7 Annex"
+        },
+        {
+          "id": "sec_7_3",
+          "title": "7.3 iStars Hardware Connection"
+        },
+        {
+          "id": "sec_7_3_3",
+          "title": "7.3.3 LED Indicator Lights"
+        }
+      ],
+      "page": 75,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_tbl_0043",
+      "source": "pdf_text",
       "caption_for": "tbl_0043"
     }
   ],

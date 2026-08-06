@@ -19,7 +19,23 @@
       },
       "content": "FOR18K",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1675",
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_1675",
+          "title": "FOR18K"
+        }
+      ],
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "page": 150,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -36,7 +52,24 @@
       "previous_block_id": "txt_1277",
       "image_hash": "b99c553956deb3f9bc79d60d18bc2b1d7c5e5da1f3066f1f015b2dc1ddd9a905",
       "width": 470,
-      "height": 332
+      "height": 332,
+      "section_id": "sec_auto_1675",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_1675",
+          "title": "FOR18K"
+        }
+      ],
+      "page": 150,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

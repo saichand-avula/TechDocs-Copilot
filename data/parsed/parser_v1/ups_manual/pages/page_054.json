@@ -18,8 +18,21 @@
         "b": 699.4558810919744
       },
       "content": "5 UPS Display Panel",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "5",
+      "section_id": "sec_5",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 UPS Display Panel"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 54,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -34,7 +47,24 @@
       },
       "content": "5.1 Brief Introduction",
       "level": 2,
-      "role": "section"
+      "section_number": "5.1",
+      "section_id": "sec_5_1",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 UPS Display Panel"
+        },
+        {
+          "id": "sec_5_1",
+          "title": "5.1 Brief Introduction"
+        }
+      ],
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "page": 54,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -47,7 +77,24 @@
         "r": 541.5303999999996,
         "b": 576.236101363195
       },
-      "content": "Operation display panel of UPS locates at upper of front door. By operation display panel, it can take operation control to UPS and inquire all parameters of UPS, UPS and battery status, event and alarming  information.  Operation  display  panel  can  be  divided  into  four  parts:  simulation  status diagram, LCD display and menu button, and control operation button."
+      "content": "Operation display panel of UPS locates at upper of front door. By operation display panel, it can take operation control to UPS and inquire all parameters of UPS, UPS and battery status, event and alarming  information.  Operation  display  panel  can  be  divided  into  four  parts:  simulation  status diagram, LCD display and menu button, and control operation button.",
+      "section_id": "sec_5_1",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 UPS Display Panel"
+        },
+        {
+          "id": "sec_5_1",
+          "title": "5.1 Brief Introduction"
+        }
+      ],
+      "page": 54,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -60,7 +107,24 @@
         "r": 516.05568,
         "b": 560.606101363195
       },
-      "content": "Simulation status diagram        LCD display and menu button        Control operation button"
+      "content": "Simulation status diagram        LCD display and menu button        Control operation button",
+      "section_id": "sec_5_1",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 UPS Display Panel"
+        },
+        {
+          "id": "sec_5_1",
+          "title": "5.1 Brief Introduction"
+        }
+      ],
+      "page": 54,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -76,12 +140,30 @@
       "image_path": "figures/figure_0094.png",
       "previous_block_id": "txt_0504",
       "next_block_id": "txt_0505",
-      "caption_id": "txt_0506",
       "caption": ": Descriptions of silk-screen for operation display panel of UPS and icon of LCD display screen",
       "figure_number": "Table 5-1",
       "image_hash": "841e8a6e5f4531c7826b5ef887d1aa30866148f0a7af03656225cea1b8124388",
       "width": 277,
-      "height": 174
+      "height": 174,
+      "section_id": "sec_5_1",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 UPS Display Panel"
+        },
+        {
+          "id": "sec_5_1",
+          "title": "5.1 Brief Introduction"
+        }
+      ],
+      "page": 54,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0094",
+      "source": "pdf_text",
+      "caption_id": "txt_0506"
     },
     {
       "type": "caption",
@@ -95,6 +177,23 @@
         "b": 357.786101363195
       },
       "content": "Figure 5-1: UPS operation control and display panel",
+      "section_id": "sec_5_1",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 UPS Display Panel"
+        },
+        {
+          "id": "sec_5_1",
+          "title": "5.1 Brief Introduction"
+        }
+      ],
+      "page": 54,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "source": "pdf_text",
       "caption_for": "fig_0094"
     },
     {
@@ -112,7 +211,24 @@
       "title": "Table 5-1: Descriptions of silk-screen for operation display panel of UPS and icon of LCD display screen",
       "table_number": "Table 5-1",
       "rows": 10,
-      "cols": 3
+      "cols": 3,
+      "section_id": "sec_5_1",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 UPS Display Panel"
+        },
+        {
+          "id": "sec_5_1",
+          "title": "5.1 Brief Introduction"
+        }
+      ],
+      "page": 54,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "caption",
@@ -126,6 +242,24 @@
         "b": 342.186101363195
       },
       "content": "Table 5-1: Descriptions of silk-screen for operation display panel of UPS and icon of LCD display screen",
+      "section_id": "sec_5_1",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 UPS Display Panel"
+        },
+        {
+          "id": "sec_5_1",
+          "title": "5.1 Brief Introduction"
+        }
+      ],
+      "page": 54,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0094",
+      "source": "pdf_text",
       "caption_for": "fig_0094"
     }
   ],

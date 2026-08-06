@@ -17,7 +17,24 @@
         "r": 173.01999999999998,
         "b": 720.7
       },
-      "content": "Service level: Easy"
+      "content": "Service level: Easy",
+      "section_id": "sec_auto_6934",
+      "parent_section_id": "sec_20",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_20",
+          "title": "20. Remove the LVPS."
+        },
+        {
+          "id": "sec_auto_6934",
+          "title": "Removal and replacement: Document feeder rollers (MFP)"
+        }
+      ],
+      "page": 663,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -32,7 +49,23 @@
       },
       "content": "Before performing service",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_6940",
+      "section_path": [
+        {
+          "id": "sec_20",
+          "title": "20. Remove the LVPS."
+        },
+        {
+          "id": "sec_auto_6940",
+          "title": "Before performing service"
+        }
+      ],
+      "parent_section_id": "sec_20",
+      "section_level": 2,
+      "page": 663,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -47,7 +80,23 @@
       },
       "content": "Turn the printer power off",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_6941",
+      "section_path": [
+        {
+          "id": "sec_20",
+          "title": "20. Remove the LVPS."
+        },
+        {
+          "id": "sec_auto_6941",
+          "title": "Turn the printer power off"
+        }
+      ],
+      "parent_section_id": "sec_20",
+      "section_level": 2,
+      "page": 663,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -60,7 +109,24 @@
         "r": 234.21002999999993,
         "b": 654.7
       },
-      "content": "Disconnect the power cable."
+      "content": "Disconnect the power cable.",
+      "section_id": "sec_auto_6941",
+      "parent_section_id": "sec_20",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_20",
+          "title": "20. Remove the LVPS."
+        },
+        {
+          "id": "sec_auto_6941",
+          "title": "Turn the printer power off"
+        }
+      ],
+      "page": 663,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -78,7 +144,24 @@
       "height": 12,
       "image_hash": "7aeac002cafbc692e6ed61b2fd0d9fd572b68b9c0b944068295c9715421416ab",
       "previous_block_id": "txt_5012",
-      "next_block_id": "txt_5013"
+      "next_block_id": "txt_5013",
+      "section_id": "sec_auto_6941",
+      "parent_section_id": "sec_20",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_20",
+          "title": "20. Remove the LVPS."
+        },
+        {
+          "id": "sec_auto_6941",
+          "title": "Turn the printer power off"
+        }
+      ],
+      "page": 663,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "admonition",
@@ -92,7 +175,24 @@
         "b": 619.2
       },
       "content": "WARNING! To avoid damage to the printer, turn the printer off, wait 30 seconds, and then remove the power cord before attempting to service the printer.",
-      "severity": "warning"
+      "severity": "warning",
+      "section_id": "sec_auto_6941",
+      "parent_section_id": "sec_20",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_20",
+          "title": "20. Remove the LVPS."
+        },
+        {
+          "id": "sec_auto_6941",
+          "title": "Turn the printer power off"
+        }
+      ],
+      "page": 663,
+      "chunk_hint": "admonition",
+      "semantic_role": "warning",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -110,7 +210,24 @@
       "height": 13,
       "image_hash": "ed0739f3309f921375dcbcea756072eb5179f27088d1c9c64a8c166936ce03c6",
       "previous_block_id": "txt_5013",
-      "next_block_id": "txt_5014"
+      "next_block_id": "txt_5014",
+      "section_id": "sec_auto_6941",
+      "parent_section_id": "sec_20",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_20",
+          "title": "20. Remove the LVPS."
+        },
+        {
+          "id": "sec_auto_6941",
+          "title": "Turn the printer power off"
+        }
+      ],
+      "page": 663,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -123,7 +240,24 @@
         "r": 519.51001,
         "b": 586.2
       },
-      "content": "IMPORTANT: When replacement rollers are installed, reset the New Document Feeder Kit firmware counter."
+      "content": "IMPORTANT: When replacement rollers are installed, reset the New Document Feeder Kit firmware counter.",
+      "section_id": "sec_auto_6941",
+      "parent_section_id": "sec_20",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_20",
+          "title": "20. Remove the LVPS."
+        },
+        {
+          "id": "sec_auto_6941",
+          "title": "Turn the printer power off"
+        }
+      ],
+      "page": 663,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -136,7 +270,24 @@
         "r": 479.47000000000025,
         "b": 551.7
       },
-      "content": "Use the table below to identify the correct part number for your printer . To order the part, go to www.hp.com/buy/parts."
+      "content": "Use the table below to identify the correct part number for your printer . To order the part, go to www.hp.com/buy/parts.",
+      "section_id": "sec_auto_6941",
+      "parent_section_id": "sec_20",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_20",
+          "title": "20. Remove the LVPS."
+        },
+        {
+          "id": "sec_auto_6941",
+          "title": "Turn the printer power off"
+        }
+      ],
+      "page": 663,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -151,7 +302,23 @@
       },
       "content": "Table 1-46  Part number",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_6948",
+      "section_path": [
+        {
+          "id": "sec_20",
+          "title": "20. Remove the LVPS."
+        },
+        {
+          "id": "sec_auto_6948",
+          "title": "Table 1-46  Part number"
+        }
+      ],
+      "parent_section_id": "sec_20",
+      "section_level": 2,
+      "page": 663,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -166,7 +333,23 @@
       },
       "content": "Document feeder maintenance kit (M527/E52545/M528/E52645) part number",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_6949",
+      "section_path": [
+        {
+          "id": "sec_20",
+          "title": "20. Remove the LVPS."
+        },
+        {
+          "id": "sec_auto_6949",
+          "title": "Document feeder maintenance kit (M527/E52545/M528/E52645) part number"
+        }
+      ],
+      "parent_section_id": "sec_20",
+      "section_level": 2,
+      "page": 663,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -179,7 +362,24 @@
         "r": 149.504,
         "b": 492.26
       },
-      "content": "B5L52-67903"
+      "content": "B5L52-67903",
+      "section_id": "sec_auto_6949",
+      "parent_section_id": "sec_20",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_20",
+          "title": "20. Remove the LVPS."
+        },
+        {
+          "id": "sec_auto_6949",
+          "title": "Document feeder maintenance kit (M527/E52545/M528/E52645) part number"
+        }
+      ],
+      "page": 663,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -194,7 +394,23 @@
       },
       "content": "Required tools",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_6951",
+      "section_path": [
+        {
+          "id": "sec_20",
+          "title": "20. Remove the LVPS."
+        },
+        {
+          "id": "sec_auto_6951",
+          "title": "Required tools"
+        }
+      ],
+      "parent_section_id": "sec_20",
+      "section_level": 2,
+      "page": 663,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -207,7 +423,24 @@
         "r": 375.3800000000001,
         "b": 432.075
       },
-      "content": "No special tools are required to remove or install this assembly."
+      "content": "No special tools are required to remove or install this assembly.",
+      "section_id": "sec_auto_6951",
+      "parent_section_id": "sec_20",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_20",
+          "title": "20. Remove the LVPS."
+        },
+        {
+          "id": "sec_auto_6951",
+          "title": "Required tools"
+        }
+      ],
+      "page": 663,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -222,7 +455,23 @@
       },
       "content": "After performing service",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_6953",
+      "section_path": [
+        {
+          "id": "sec_20",
+          "title": "20. Remove the LVPS."
+        },
+        {
+          "id": "sec_auto_6953",
+          "title": "After performing service"
+        }
+      ],
+      "parent_section_id": "sec_20",
+      "section_level": 2,
+      "page": 663,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -237,7 +486,23 @@
       },
       "content": "Turn the printer power on",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_6954",
+      "section_path": [
+        {
+          "id": "sec_20",
+          "title": "20. Remove the LVPS."
+        },
+        {
+          "id": "sec_auto_6954",
+          "title": "Turn the printer power on"
+        }
+      ],
+      "parent_section_id": "sec_20",
+      "section_level": 2,
+      "page": 663,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -250,7 +515,24 @@
         "r": 222.84004999999996,
         "b": 365.82585
       },
-      "content": "Connect the power cable."
+      "content": "Connect the power cable.",
+      "section_id": "sec_auto_6954",
+      "parent_section_id": "sec_20",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_20",
+          "title": "20. Remove the LVPS."
+        },
+        {
+          "id": "sec_auto_6954",
+          "title": "Turn the printer power on"
+        }
+      ],
+      "page": 663,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -263,7 +545,24 @@
         "r": 294.29004,
         "b": 344.57669999999996
       },
-      "content": "Use the power switch to turn the power on."
+      "content": "Use the power switch to turn the power on.",
+      "section_id": "sec_auto_6954",
+      "parent_section_id": "sec_20",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_20",
+          "title": "20. Remove the LVPS."
+        },
+        {
+          "id": "sec_auto_6954",
+          "title": "Turn the printer power on"
+        }
+      ],
+      "page": 663,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -278,7 +577,23 @@
       },
       "content": "Post service test",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_6957",
+      "section_path": [
+        {
+          "id": "sec_20",
+          "title": "20. Remove the LVPS."
+        },
+        {
+          "id": "sec_auto_6957",
+          "title": "Post service test"
+        }
+      ],
+      "parent_section_id": "sec_20",
+      "section_level": 2,
+      "page": 663,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -291,7 +606,24 @@
         "r": 437.28004000000004,
         "b": 299.32756
       },
-      "content": "Use the document feeder to copy a page to make sure that it is functioning correctly."
+      "content": "Use the document feeder to copy a page to make sure that it is functioning correctly.",
+      "section_id": "sec_auto_6957",
+      "parent_section_id": "sec_20",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_20",
+          "title": "20. Remove the LVPS."
+        },
+        {
+          "id": "sec_auto_6957",
+          "title": "Post service test"
+        }
+      ],
+      "page": 663,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -304,7 +636,24 @@
         "r": 372.85008000000005,
         "b": 278.32755999999995
       },
-      "content": "Remove the document feeder pickup and feed roller assembly."
+      "content": "Remove the document feeder pickup and feed roller assembly.",
+      "section_id": "sec_auto_6957",
+      "parent_section_id": "sec_20",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_20",
+          "title": "20. Remove the LVPS."
+        },
+        {
+          "id": "sec_auto_6957",
+          "title": "Post service test"
+        }
+      ],
+      "page": 663,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -317,7 +666,24 @@
         "r": 319.1900599999999,
         "b": 257.32755999999995
       },
-      "content": "Open the document feeder jam access door."
+      "content": "Open the document feeder jam access door.",
+      "section_id": "sec_auto_6957",
+      "parent_section_id": "sec_20",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_20",
+          "title": "20. Remove the LVPS."
+        },
+        {
+          "id": "sec_auto_6957",
+          "title": "Post service test"
+        }
+      ],
+      "page": 663,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -330,7 +696,24 @@
         "r": 483.2844100000001,
         "b": 492.26
       },
-      "content": "Document feeder maintenance kit accessory with instruction guide"
+      "content": "Document feeder maintenance kit accessory with instruction guide",
+      "section_id": "sec_auto_6957",
+      "parent_section_id": "sec_20",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_20",
+          "title": "20. Remove the LVPS."
+        },
+        {
+          "id": "sec_auto_6957",
+          "title": "Post service test"
+        }
+      ],
+      "page": 663,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

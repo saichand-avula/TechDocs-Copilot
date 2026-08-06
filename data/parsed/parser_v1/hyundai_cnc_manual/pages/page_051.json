@@ -18,9 +18,23 @@
         "b": 561.9912109375
       },
       "markdown": "| No.   | Item               | Item No.      | Item No.      | Qty.   | Remarks    | Remarks   |\n|-------|--------------------|---------------|---------------|--------|------------|-----------|\n| No.   | Item               | SAMCHUNREE    | Hwacheon      | Qty.   | SAMCHUNREE | Hwacheon  |\n| 1     | Hydraulic Cylinder | 1742-11-450-1 | 1742-11-118-1 | 1      | SYH1239    | HH36CA8   |\n| 2     | Cylinder Flange    | 1742-11-447-0 | 1742-11-202-0 |        | 1          |           |\n| 3     | Stud bolt          | SM 1008010030 | SM 1008010030 |        | 4          | M10 x 30L |\n| 4     | Draw Tube          | 1742-11-432-0 | 1742-11-432-0 |        | 1          | 1         |\n| 5     | Chuck              | 1742-11-449-0 | 1742-11-117-0 | 1      | HAS-06     | H037M8    |\n| 6     | Soft Jaw           | 1742-11-454-0 | 1742-11-443-0 | 1 SET  |            |           |\n| 7     | Hex. Nut           | SM 1201001000 | SM 1201001000 | 4      | M10        | M10       |",
-      "caption_id": "txt_0287",
       "rows": 9,
-      "cols": 7
+      "cols": 7,
+      "section_id": "sec_5",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5-3-1. Connecting Parts for Rotary Cylinder"
+        }
+      ],
+      "page": 51,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "group_id": "grp_tbl_0021",
+      "source": "pdf_text",
+      "caption_id": "txt_0287"
     },
     {
       "type": "heading",
@@ -34,8 +48,21 @@
         "b": 529.823048928177
       },
       "content": "5-3-2. Major Dimension",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "5",
+      "section_id": "sec_5",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5-3-2. Major Dimension"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 51,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -51,12 +78,26 @@
       "image_path": "figures/figure_0071.png",
       "previous_block_id": "txt_0286",
       "next_block_id": "txt_0287",
-      "caption_id": "txt_0288",
       "caption": "Major Dimensions of Connecting Parts for Cylinder",
       "figure_number": "Fig. 3-10",
       "image_hash": "aca2edd2c8c3cba1561e0ab0355aeea53d78384b4886ce57c2673f9b66bdd685",
       "width": 469,
-      "height": 316
+      "height": 316,
+      "section_id": "sec_5",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5-3-2. Major Dimension"
+        }
+      ],
+      "page": 51,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0071",
+      "source": "pdf_text",
+      "caption_id": "txt_0288"
     },
     {
       "type": "caption",
@@ -70,6 +111,20 @@
         "b": 495.80314492817683
       },
       "content": "mm (in)",
+      "section_id": "sec_5",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5-3-2. Major Dimension"
+        }
+      ],
+      "page": 51,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_tbl_0021",
+      "source": "pdf_text",
       "caption_for": "tbl_0021"
     },
     {
@@ -84,6 +139,20 @@
         "b": 155.78446492817682
       },
       "content": "Fig. 3-10 Major Dimensions of Connecting Parts for Cylinder",
+      "section_id": "sec_5",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5-3-2. Major Dimension"
+        }
+      ],
+      "page": 51,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0071",
+      "source": "pdf_text",
       "caption_for": "fig_0071"
     }
   ],

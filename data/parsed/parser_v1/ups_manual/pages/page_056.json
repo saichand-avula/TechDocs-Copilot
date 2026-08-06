@@ -18,8 +18,29 @@
         "b": 712.4328447886094
       },
       "content": "5.1.1 Simulated Status Diagram",
-      "level": 2,
-      "role": "section"
+      "level": 3,
+      "section_number": "5.1.1",
+      "section_id": "sec_5_1_1",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 UPS Display Panel"
+        },
+        {
+          "id": "sec_5_1",
+          "title": "5.1 Brief Introduction"
+        },
+        {
+          "id": "sec_5_1_1",
+          "title": "5.1.1 Simulated Status Diagram"
+        }
+      ],
+      "parent_section_id": "sec_5_1",
+      "section_level": 3,
+      "page": 56,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -32,7 +53,28 @@
         "r": 541.4303199999995,
         "b": 668.156101363195
       },
-      "content": "Simulation status diagram provides LED indicator lights which can display all working paths of UPS and current working status of it."
+      "content": "Simulation status diagram provides LED indicator lights which can display all working paths of UPS and current working status of it.",
+      "section_id": "sec_5_1_1",
+      "parent_section_id": "sec_5_1",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 UPS Display Panel"
+        },
+        {
+          "id": "sec_5_1",
+          "title": "5.1 Brief Introduction"
+        },
+        {
+          "id": "sec_5_1_1",
+          "title": "5.1.1 Simulated Status Diagram"
+        }
+      ],
+      "page": 56,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -46,11 +88,33 @@
         "b": 585.3012448228905
       },
       "markdown": "Table 5-2: Description for status of indicator light of rectifier (REC)\n\n| Green and on       | Rectifier is in normal working condition   |\n|--------------------|--------------------------------------------|\n| Green and flashing | Rectifier is in soft start condition       |\n| Red and on         | Rectifier is in fault                      |\n| Off                | Rectifier cannot work                      |",
-      "caption_id": "txt_0509",
       "title": "Table 5-2: Description for status of indicator light of rectifier (REC)",
       "table_number": "Table 5-2",
       "rows": 4,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_5_1_1",
+      "parent_section_id": "sec_5_1",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 UPS Display Panel"
+        },
+        {
+          "id": "sec_5_1",
+          "title": "5.1 Brief Introduction"
+        },
+        {
+          "id": "sec_5_1_1",
+          "title": "5.1.1 Simulated Status Diagram"
+        }
+      ],
+      "page": 56,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "group_id": "grp_tbl_0020",
+      "source": "pdf_text",
+      "caption_id": "txt_0509"
     },
     {
       "type": "caption",
@@ -64,6 +128,28 @@
         "b": 652.556101363195
       },
       "content": "Table 5-2: Description for status of indicator light of rectifier (REC)",
+      "section_id": "sec_5_1_1",
+      "parent_section_id": "sec_5_1",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 UPS Display Panel"
+        },
+        {
+          "id": "sec_5_1",
+          "title": "5.1 Brief Introduction"
+        },
+        {
+          "id": "sec_5_1_1",
+          "title": "5.1.1 Simulated Status Diagram"
+        }
+      ],
+      "page": 56,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_tbl_0020",
+      "source": "pdf_text",
       "caption_for": "tbl_0020"
     },
     {
@@ -78,11 +164,33 @@
         "b": 473.389487252376
       },
       "markdown": "Table 5-3: Description for status of indicator light of battery (BATT)\n\n| Green and on       | Battery discharges normally                                                |\n|--------------------|----------------------------------------------------------------------------|\n| Green and flashing | Battery low voltage discharge or battery is taking manual maintenance test |\n| Red and on         | Battery is in fault (fault of battery or no battery)                       |\n| Off                | Battery is being charged.                                                  |",
-      "caption_id": "txt_0510",
       "title": "Table 5-2: Description for status of indicator light of rectifier (REC)",
       "table_number": "Table 5-2",
       "rows": 4,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_5_1_1",
+      "parent_section_id": "sec_5_1",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 UPS Display Panel"
+        },
+        {
+          "id": "sec_5_1",
+          "title": "5.1 Brief Introduction"
+        },
+        {
+          "id": "sec_5_1_1",
+          "title": "5.1.1 Simulated Status Diagram"
+        }
+      ],
+      "page": 56,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "group_id": "grp_tbl_0021",
+      "source": "pdf_text",
+      "caption_id": "txt_0510"
     },
     {
       "type": "caption",
@@ -96,6 +204,28 @@
         "b": 556.5261013631949
       },
       "content": "Table 5-3: Description for status of indicator light of battery (BATT)",
+      "section_id": "sec_5_1_1",
+      "parent_section_id": "sec_5_1",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 UPS Display Panel"
+        },
+        {
+          "id": "sec_5_1",
+          "title": "5.1 Brief Introduction"
+        },
+        {
+          "id": "sec_5_1_1",
+          "title": "5.1.1 Simulated Status Diagram"
+        }
+      ],
+      "page": 56,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_tbl_0021",
+      "source": "pdf_text",
       "caption_for": "tbl_0021"
     },
     {
@@ -110,6 +240,28 @@
         "b": 444.80610136319495
       },
       "content": "Table 5-4: Description for status of indicator light of bypass (BYP)",
+      "section_id": "sec_5_1_1",
+      "parent_section_id": "sec_5_1",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 UPS Display Panel"
+        },
+        {
+          "id": "sec_5_1",
+          "title": "5.1 Brief Introduction"
+        },
+        {
+          "id": "sec_5_1_1",
+          "title": "5.1.1 Simulated Status Diagram"
+        }
+      ],
+      "page": 56,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_tbl_0022",
+      "source": "pdf_text",
       "caption_for": "tbl_0022"
     },
     {
@@ -124,11 +276,33 @@
         "b": 377.9883370075149
       },
       "markdown": "| Green and on   | Power of load is supplied by bypass                                                                            |\n|----------------|----------------------------------------------------------------------------------------------------------------|\n| Red and on     | Power of bypass is in fault or exceeds normal range, bypass static switch is in fault or load impact to bypass |\n| Off            | Bypass is normal                                                                                               |",
-      "caption_id": "txt_0511",
       "title": "Table 5-3: Description for status of indicator light of battery (BATT)",
       "table_number": "Table 5-3",
       "rows": 3,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_5_1_1",
+      "parent_section_id": "sec_5_1",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 UPS Display Panel"
+        },
+        {
+          "id": "sec_5_1",
+          "title": "5.1 Brief Introduction"
+        },
+        {
+          "id": "sec_5_1_1",
+          "title": "5.1.1 Simulated Status Diagram"
+        }
+      ],
+      "page": 56,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "group_id": "grp_tbl_0022",
+      "source": "pdf_text",
+      "caption_id": "txt_0511"
     },
     {
       "type": "caption",
@@ -142,6 +316,28 @@
         "b": 349.146101363195
       },
       "content": "Table 5-5: Description for status of indicator light of inverter (INV)",
+      "section_id": "sec_5_1_1",
+      "parent_section_id": "sec_5_1",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 UPS Display Panel"
+        },
+        {
+          "id": "sec_5_1",
+          "title": "5.1 Brief Introduction"
+        },
+        {
+          "id": "sec_5_1_1",
+          "title": "5.1.1 Simulated Status Diagram"
+        }
+      ],
+      "page": 56,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_tbl_0023",
+      "source": "pdf_text",
       "caption_for": "tbl_0023"
     },
     {
@@ -156,11 +352,33 @@
         "b": 281.8579164737715
       },
       "markdown": "| Green and on       | Power of load is supplied by inverter               |\n|--------------------|-----------------------------------------------------|\n| Green and flashing | Inverter starts or is in stand-by status (ECO mode) |\n| Red and on         | Inverter is in fault                                |\n| Off                | Inverter cannot work                                |",
-      "caption_id": "txt_0512",
       "title": "Table 5-5: Description for status of indicator light of inverter (INV)",
       "table_number": "Table 5-5",
       "rows": 4,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_5_1_1",
+      "parent_section_id": "sec_5_1",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 UPS Display Panel"
+        },
+        {
+          "id": "sec_5_1",
+          "title": "5.1 Brief Introduction"
+        },
+        {
+          "id": "sec_5_1_1",
+          "title": "5.1.1 Simulated Status Diagram"
+        }
+      ],
+      "page": 56,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "group_id": "grp_tbl_0023",
+      "source": "pdf_text",
+      "caption_id": "txt_0512"
     },
     {
       "type": "caption",
@@ -174,6 +392,28 @@
         "b": 253.02610136319493
       },
       "content": "Table 5-6: Description for status of indicator light of load (OUTPUT)",
+      "section_id": "sec_5_1_1",
+      "parent_section_id": "sec_5_1",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 UPS Display Panel"
+        },
+        {
+          "id": "sec_5_1",
+          "title": "5.1 Brief Introduction"
+        },
+        {
+          "id": "sec_5_1_1",
+          "title": "5.1.1 Simulated Status Diagram"
+        }
+      ],
+      "page": 56,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_tbl_0024",
+      "source": "pdf_text",
       "caption_for": "tbl_0024"
     },
     {
@@ -188,11 +428,33 @@
         "b": 186.17322384118324
       },
       "markdown": "| Green and on   | UPS has output                                                    |\n|----------------|-------------------------------------------------------------------|\n| Red and on     | Output switch of UPS is disconnected or has output but overloaded |\n| Off            | UPS has no output                                                 |",
-      "caption_id": "txt_0513",
       "title": "Table 5-6: Description for status of indicator light of load (OUTPUT)",
       "table_number": "Table 5-6",
       "rows": 3,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_5_1_1",
+      "parent_section_id": "sec_5_1",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 UPS Display Panel"
+        },
+        {
+          "id": "sec_5_1",
+          "title": "5.1 Brief Introduction"
+        },
+        {
+          "id": "sec_5_1_1",
+          "title": "5.1.1 Simulated Status Diagram"
+        }
+      ],
+      "page": 56,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "group_id": "grp_tbl_0024",
+      "source": "pdf_text",
+      "caption_id": "txt_0513"
     },
     {
       "type": "caption",
@@ -206,6 +468,28 @@
         "b": 157.47610136319497
       },
       "content": "Table 5-7: Description for operation status (STATUS)",
+      "section_id": "sec_5_1_1",
+      "parent_section_id": "sec_5_1",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 UPS Display Panel"
+        },
+        {
+          "id": "sec_5_1",
+          "title": "5.1 Brief Introduction"
+        },
+        {
+          "id": "sec_5_1_1",
+          "title": "5.1.1 Simulated Status Diagram"
+        }
+      ],
+      "page": 56,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_tbl_0025",
+      "source": "pdf_text",
       "caption_for": "tbl_0025"
     },
     {
@@ -220,11 +504,33 @@
         "b": 105.83698702363779
       },
       "markdown": "| Green and on   | Operation is normal   |\n|----------------|-----------------------|\n| Yellow and on  | UPS gives alarm       |\n| Red and on     | UPS is in fault       |",
-      "caption_id": "txt_0514",
       "title": "Table 5-7: Description for operation status (STATUS)",
       "table_number": "Table 5-7",
       "rows": 3,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_5_1_1",
+      "parent_section_id": "sec_5_1",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 UPS Display Panel"
+        },
+        {
+          "id": "sec_5_1",
+          "title": "5.1 Brief Introduction"
+        },
+        {
+          "id": "sec_5_1_1",
+          "title": "5.1.1 Simulated Status Diagram"
+        }
+      ],
+      "page": 56,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "group_id": "grp_tbl_0025",
+      "source": "pdf_text",
+      "caption_id": "txt_0514"
     }
   ],
   "page_stats": {

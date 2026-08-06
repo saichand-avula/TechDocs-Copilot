@@ -20,7 +20,20 @@
       "image_path": "figures/figure_0400.png",
       "image_hash": "8e64fc7e287e006c2dd4a383dadf3499f912a55c624f80b4fde71ccae64b1f79",
       "width": 31,
-      "height": 32
+      "height": 32,
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-4-8. SIGNAL DETAILS - The peripheral equipment"
+        }
+      ],
+      "page": 273,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -35,7 +48,20 @@
       },
       "markdown": "| SYMB   | ADD   | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |\n|--------|-------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| STL    | X65.5 | Clamp/unclamp state output signal When the servo unit requests clamping/unclamping of the machine, using the UCPC2 signal, the host actually clamps/unclamps the machine. Upon the completion of clamp/unclamping, it reports it to the servo unit, which then proceeds to the next processing. The signal is set to 1 when machine is undamped. When it is clamped, the signal is reset to 0. See the timing chart for the function codes for peripheral equipment control. CAUTION The UCPS2 signal is valid when the NCLP parameter (bit 1 of parameter No.003) .is 0. |\n| SA     | X65.6 | Automatic operation start signal The host starts function code commands, such as part of peripheral equipment control ATC operations and point positioning. Specifically, the host issues a direct command to start 32-block buffering. When the ST signal is set to 1 then reset to 0 again, the servo unit begins operating.                                                                                                                                                                                                                                            |\n| OP     | X65.7 | External reset signal This signal resets the servo unit. • When the signal becomes 1, the servo unit operates as follows : - The servo unit immediately decelerates axis movement to a stop. - After as. stop, the servo unit is reset, then the following are canceled : ) Function code commands being executed, buffered, and sent as an input signal. ) Alarm condition (if any). - While the external reset signal is 1, jog and function code commands cannot be issued.                                                                                            |\n| RST    | X66.1 | Emergency stop signal This signal brings the control unit to an emergency stop. - The control unit decelerates axis movement to a stop immediately. - A reset is applied after the stop. - When the emergency stop signal is 0, the servo preparation completion signal SA is also 0, because the servo system is not operating, the amount of movement is reflected in the current position coordinates held in the control unit (follow-up) - While the emergency stop signal is 0, jog and function code commands cannot be issued.                                    |",
       "rows": 5,
-      "cols": 3
+      "cols": 3,
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-4-8. SIGNAL DETAILS - The peripheral equipment"
+        }
+      ],
+      "page": 273,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

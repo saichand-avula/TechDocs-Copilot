@@ -19,12 +19,30 @@
       },
       "image_path": "figures/figure_0050.png",
       "next_block_id": "txt_1225",
-      "caption_id": "txt_1225",
       "caption": ". Fluid Shield Replacement",
       "figure_number": "Figure 7-15",
       "image_hash": "e337d39838f1f055a07a5c3d34b30704008ddda8148f45358842d782bd9d146c",
       "width": 386,
-      "height": 328
+      "height": 328,
+      "section_id": "sec_auto_1289",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_auto_1289",
+          "title": "CASSETTE DOOR AND FLUID SHIELD REPLACEMENT"
+        }
+      ],
+      "page": 123,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0050",
+      "source": "pdf_text",
+      "caption_id": "txt_1225"
     },
     {
       "type": "caption",
@@ -38,6 +56,24 @@
         "b": 247.23828000000003
       },
       "content": "Figure 7-15. Fluid Shield Replacement",
+      "section_id": "sec_auto_1289",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_auto_1289",
+          "title": "CASSETTE DOOR AND FLUID SHIELD REPLACEMENT"
+        }
+      ],
+      "page": 123,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0050",
+      "source": "pdf_text",
       "caption_for": "fig_0050"
     }
   ],

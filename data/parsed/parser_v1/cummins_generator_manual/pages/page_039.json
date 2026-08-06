@@ -18,8 +18,21 @@
         "b": 705.5587870854176
       },
       "content": "7. Generator Set/Regulator Tests",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "7",
+      "section_id": "sec_7",
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. Generator Set/Regulator Tests"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 39,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -34,7 +47,23 @@
       },
       "content": "GENERAL",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_433",
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. Generator Set/Regulator Tests"
+        },
+        {
+          "id": "sec_auto_433",
+          "title": "GENERAL"
+        }
+      ],
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "page": 39,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -47,7 +76,24 @@
         "r": 291.53330000000034,
         "b": 579.5393492035389
       },
-      "content": "The following tests and adjustments can be performed without disassembly of the generator set. These procedures should be used for testing the generator set components and the regulator in conjunction with the Troubleshooting Flow Charts in the generator set/Regulator Troubleshooting section."
+      "content": "The following tests and adjustments can be performed without disassembly of the generator set. These procedures should be used for testing the generator set components and the regulator in conjunction with the Troubleshooting Flow Charts in the generator set/Regulator Troubleshooting section.",
+      "section_id": "sec_auto_433",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. Generator Set/Regulator Tests"
+        },
+        {
+          "id": "sec_auto_433",
+          "title": "GENERAL"
+        }
+      ],
+      "page": 39,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "admonition",
@@ -61,7 +107,24 @@
         "b": 479.2477519502828
       },
       "content": "WARNING Many  troubleshooting procedures present hazards that can result in severe personal  injury  or  death.    Only  qualified  service personnel with knowledge of fuels, electricity, and machinery hazards should perform service procedures.  Review safety precautions on inside cover page.",
-      "severity": "warning"
+      "severity": "warning",
+      "section_id": "sec_auto_433",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. Generator Set/Regulator Tests"
+        },
+        {
+          "id": "sec_auto_433",
+          "title": "GENERAL"
+        }
+      ],
+      "page": 39,
+      "chunk_hint": "admonition",
+      "semantic_role": "warning",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -76,7 +139,23 @@
       },
       "content": "[A] TESTING FIELD VOLTAGE",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_436",
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. Generator Set/Regulator Tests"
+        },
+        {
+          "id": "sec_auto_436",
+          "title": "[A] TESTING FIELD VOLTAGE"
+        }
+      ],
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "page": 39,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -90,7 +169,24 @@
         "b": 394.3227492035388
       },
       "content": "Field voltage can be tested at the brush holder terminals with a DC voltmeter.  Field voltage should fall between 18 and 60 volts.  Test at no load and at full load.  See Figure 7-1.",
-      "hyperlink_hint": true
+      "hyperlink_hint": true,
+      "section_id": "sec_auto_436",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. Generator Set/Regulator Tests"
+        },
+        {
+          "id": "sec_auto_436",
+          "title": "[A] TESTING FIELD VOLTAGE"
+        }
+      ],
+      "page": 39,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -106,12 +202,30 @@
       "image_path": "figures/figure_0022.png",
       "previous_block_id": "txt_0415",
       "next_block_id": "txt_0416",
-      "caption_id": "txt_0416",
       "caption": ". FIELD VOLTAGE TEST POINTS",
       "figure_number": "FIGURE 7-1",
       "image_hash": "97476fef3a61f1b6e7064a6bed5cd97cba9be3cc36c1516e13b985c8b65bd685",
       "width": 245,
-      "height": 307
+      "height": 307,
+      "section_id": "sec_auto_436",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. Generator Set/Regulator Tests"
+        },
+        {
+          "id": "sec_auto_436",
+          "title": "[A] TESTING FIELD VOLTAGE"
+        }
+      ],
+      "page": 39,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0022",
+      "source": "pdf_text",
+      "caption_id": "txt_0416"
     },
     {
       "type": "caption",
@@ -125,6 +239,24 @@
         "b": 59.335556939887624
       },
       "content": "FIGURE 7-1. FIELD VOLTAGE TEST POINTS",
+      "section_id": "sec_auto_436",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. Generator Set/Regulator Tests"
+        },
+        {
+          "id": "sec_auto_436",
+          "title": "[A] TESTING FIELD VOLTAGE"
+        }
+      ],
+      "page": 39,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0022",
+      "source": "pdf_text",
       "caption_for": "fig_0022"
     },
     {
@@ -140,7 +272,23 @@
       },
       "content": "[B] TESTING GENERATOR SET ROTOR",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_440",
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. Generator Set/Regulator Tests"
+        },
+        {
+          "id": "sec_auto_440",
+          "title": "[B] TESTING GENERATOR SET ROTOR"
+        }
+      ],
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "page": 39,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -153,7 +301,24 @@
         "r": 565.1551000000003,
         "b": 568.7674492035388
       },
-      "content": "The generator  set  circuits  can  be  tested  without having to disassemble the generator set.  It is recommended that an ohmmeter be used to check for open circuits and an insulation resistance meter for grounded circuits.  An ohmmeter can be used to check for grounded circuits, but it may not be able to detect marginal insulation breakdown."
+      "content": "The generator  set  circuits  can  be  tested  without having to disassemble the generator set.  It is recommended that an ohmmeter be used to check for open circuits and an insulation resistance meter for grounded circuits.  An ohmmeter can be used to check for grounded circuits, but it may not be able to detect marginal insulation breakdown.",
+      "section_id": "sec_auto_440",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. Generator Set/Regulator Tests"
+        },
+        {
+          "id": "sec_auto_440",
+          "title": "[B] TESTING GENERATOR SET ROTOR"
+        }
+      ],
+      "page": 39,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -169,12 +334,30 @@
       "image_path": "figures/figure_0023.png",
       "previous_block_id": "txt_0418",
       "next_block_id": "txt_0419",
-      "caption_id": "txt_0419",
       "caption": ".  TESTING ROTOR FOR GROUNDS",
       "figure_number": "FIGURE 7-2",
       "image_hash": "03430a354b6165b0b0cc002cf2448c8ae7dfa6f210493c7fa0a5a762b5f4b34f",
       "width": 245,
-      "height": 242
+      "height": 242,
+      "section_id": "sec_auto_440",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. Generator Set/Regulator Tests"
+        },
+        {
+          "id": "sec_auto_440",
+          "title": "[B] TESTING GENERATOR SET ROTOR"
+        }
+      ],
+      "page": 39,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0023",
+      "source": "pdf_text",
+      "caption_id": "txt_0419"
     },
     {
       "type": "caption",
@@ -188,6 +371,24 @@
         "b": 295.0647569398876
       },
       "content": "FIGURE 7-2.  TESTING ROTOR FOR GROUNDS",
+      "section_id": "sec_auto_440",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. Generator Set/Regulator Tests"
+        },
+        {
+          "id": "sec_auto_440",
+          "title": "[B] TESTING GENERATOR SET ROTOR"
+        }
+      ],
+      "page": 39,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0023",
+      "source": "pdf_text",
       "caption_for": "fig_0023"
     },
     {
@@ -203,7 +404,23 @@
       },
       "content": "Testing for Grounds",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_444",
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. Generator Set/Regulator Tests"
+        },
+        {
+          "id": "sec_auto_444",
+          "title": "Testing for Grounds"
+        }
+      ],
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "page": 39,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -216,7 +433,24 @@
         "r": 564.9603999999996,
         "b": 202.24764920353869
       },
-      "content": "Check for grounds between each slip ring and the rotor shaft, Figure 7-2. Use a Megger or insulation resistance meter which applies 500 VDC or more at the test leads.  Perform test as follows:"
+      "content": "Check for grounds between each slip ring and the rotor shaft, Figure 7-2. Use a Megger or insulation resistance meter which applies 500 VDC or more at the test leads.  Perform test as follows:",
+      "section_id": "sec_auto_444",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. Generator Set/Regulator Tests"
+        },
+        {
+          "id": "sec_auto_444",
+          "title": "Testing for Grounds"
+        }
+      ],
+      "page": 39,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -229,7 +463,24 @@
         "r": 564.8053,
         "b": 168.51504920353864
       },
-      "content": "Isolate the rotor windings by disconnecting the two leads to the brush holder."
+      "content": "Isolate the rotor windings by disconnecting the two leads to the brush holder.",
+      "section_id": "sec_auto_444",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. Generator Set/Regulator Tests"
+        },
+        {
+          "id": "sec_auto_444",
+          "title": "Testing for Grounds"
+        }
+      ],
+      "page": 39,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -242,7 +493,24 @@
         "r": 564.8096999999993,
         "b": 122.14014920353873
       },
-      "content": "Connect test leads between each ring and the rotor  shaft  in  turn.    Meter  should  register 100,000 ohms or greater."
+      "content": "Connect test leads between each ring and the rotor  shaft  in  turn.    Meter  should  register 100,000 ohms or greater.",
+      "section_id": "sec_auto_444",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. Generator Set/Regulator Tests"
+        },
+        {
+          "id": "sec_auto_444",
+          "title": "Testing for Grounds"
+        }
+      ],
+      "page": 39,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -255,7 +523,24 @@
         "r": 564.7271999999996,
         "b": 88.40754920353868
       },
-      "content": "If less than 100,000 ohms, rotor is questionable.  Thoroughly dry the rotor and retest."
+      "content": "If less than 100,000 ohms, rotor is questionable.  Thoroughly dry the rotor and retest.",
+      "section_id": "sec_auto_444",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. Generator Set/Regulator Tests"
+        },
+        {
+          "id": "sec_auto_444",
+          "title": "Testing for Grounds"
+        }
+      ],
+      "page": 39,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -268,7 +553,24 @@
         "r": 564.7601999999999,
         "b": 54.674949203538745
       },
-      "content": "Replace a grounded rotor with a new identical part."
+      "content": "Replace a grounded rotor with a new identical part.",
+      "section_id": "sec_auto_444",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. Generator Set/Regulator Tests"
+        },
+        {
+          "id": "sec_auto_444",
+          "title": "Testing for Grounds"
+        }
+      ],
+      "page": 39,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

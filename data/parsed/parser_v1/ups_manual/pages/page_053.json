@@ -19,7 +19,24 @@
       },
       "content": "4.10 Reset Operation after Fault Alarm",
       "level": 2,
-      "role": "section"
+      "section_number": "4.10",
+      "section_id": "sec_4_10",
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        },
+        {
+          "id": "sec_4_10",
+          "title": "4.10 Reset Operation after Fault Alarm"
+        }
+      ],
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "page": 53,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -32,7 +49,24 @@
         "r": 541.5868800000001,
         "b": 636.956101363195
       },
-      "content": "If  UPS  is  powered  off  due  to  rectifier  or  inverter  caused  by  over-temperature  or  over-load  or over-voltage  of  bus,  it  shall  adopt  proper  measures  to  clear  it  on  basis  of  warning  information displayed in display screen, and then reset to normal working status of UPS by following steps."
+      "content": "If  UPS  is  powered  off  due  to  rectifier  or  inverter  caused  by  over-temperature  or  over-load  or over-voltage  of  bus,  it  shall  adopt  proper  measures  to  clear  it  on  basis  of  warning  information displayed in display screen, and then reset to normal working status of UPS by following steps.",
+      "section_id": "sec_4_10",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        },
+        {
+          "id": "sec_4_10",
+          "title": "4.10 Reset Operation after Fault Alarm"
+        }
+      ],
+      "page": 53,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -45,7 +79,24 @@
         "r": 541.2278399999993,
         "b": 605.756101363195
       },
-      "content": "It  shall execute following steps after user confirm that the fault has been cleared and there is no remote EPO signal:"
+      "content": "It  shall execute following steps after user confirm that the fault has been cleared and there is no remote EPO signal:",
+      "section_id": "sec_4_10",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        },
+        {
+          "id": "sec_4_10",
+          "title": "4.10 Reset Operation after Fault Alarm"
+        }
+      ],
+      "page": 53,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -58,7 +109,24 @@
         "r": 435.99568,
         "b": 590.156101363195
       },
-      "content": "Press 'FAULT CLEAR' on panel to exit the UPS system from fault mode."
+      "content": "Press 'FAULT CLEAR' on panel to exit the UPS system from fault mode.",
+      "section_id": "sec_4_10",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        },
+        {
+          "id": "sec_4_10",
+          "title": "4.10 Reset Operation after Fault Alarm"
+        }
+      ],
+      "page": 53,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -71,7 +139,24 @@
         "r": 541.3402399999993,
         "b": 558.926101363195
       },
-      "content": "UPS starts automatically; rectifier, inverter, and inverter static switch start, and UPS accesses normal operating mode."
+      "content": "UPS starts automatically; rectifier, inverter, and inverter static switch start, and UPS accesses normal operating mode.",
+      "section_id": "sec_4_10",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        },
+        {
+          "id": "sec_4_10",
+          "title": "4.10 Reset Operation after Fault Alarm"
+        }
+      ],
+      "page": 53,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -86,7 +171,24 @@
       },
       "content": "4.11 Auto Start",
       "level": 2,
-      "role": "section"
+      "section_number": "4.11",
+      "section_id": "sec_4_11",
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        },
+        {
+          "id": "sec_4_11",
+          "title": "4.11 Auto Start"
+        }
+      ],
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "page": 53,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -99,7 +201,24 @@
         "r": 541.6032,
         "b": 422.72610136319497
       },
-      "content": "When main power is failure, UPS can provide power supply to load through battery system until final voltage 495 V of battery discharge is reached by battery discharge, UPS stops inverter output, and the output is switched to static bypass. When main power is recovered, UPS can start automatically, recover  inverter  output  power  supply,  and  charge  the  battery.  Automatic  start  function  is  also applicable for bypass mode."
+      "content": "When main power is failure, UPS can provide power supply to load through battery system until final voltage 495 V of battery discharge is reached by battery discharge, UPS stops inverter output, and the output is switched to static bypass. When main power is recovered, UPS can start automatically, recover  inverter  output  power  supply,  and  charge  the  battery.  Automatic  start  function  is  also applicable for bypass mode.",
+      "section_id": "sec_4_11",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        },
+        {
+          "id": "sec_4_11",
+          "title": "4.11 Auto Start"
+        }
+      ],
+      "page": 53,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -114,7 +233,24 @@
       },
       "content": "4.12 Language Selection",
       "level": 2,
-      "role": "section"
+      "section_number": "4.12",
+      "section_id": "sec_4_12",
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        },
+        {
+          "id": "sec_4_12",
+          "title": "4.12 Language Selection"
+        }
+      ],
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "page": 53,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -127,7 +263,24 @@
         "r": 541.5083199999997,
         "b": 329.22610136319497
       },
-      "content": "LCD  menu  and  data  provides  English,  Chinese  and  user-defined  for  selection.  It  can  select language by clicking set icon ' ' in main interface, and clicking 'LANG' in 'USER'."
+      "content": "LCD  menu  and  data  provides  English,  Chinese  and  user-defined  for  selection.  It  can  select language by clicking set icon ' ' in main interface, and clicking 'LANG' in 'USER'.",
+      "section_id": "sec_4_12",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        },
+        {
+          "id": "sec_4_12",
+          "title": "4.12 Language Selection"
+        }
+      ],
+      "page": 53,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -142,7 +295,24 @@
       },
       "content": "4.13 Change Current Date and Time",
       "level": 2,
-      "role": "section"
+      "section_number": "4.13",
+      "section_id": "sec_4_13",
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        },
+        {
+          "id": "sec_4_13",
+          "title": "4.13 Change Current Date and Time"
+        }
+      ],
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "page": 53,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -155,7 +325,24 @@
         "r": 535.3756800000001,
         "b": 250.74610136319495
       },
-      "content": "It can set current time of UPS by clicking set icon ' ' in main interface and 'TIME' in 'USER'."
+      "content": "It can set current time of UPS by clicking set icon ' ' in main interface and 'TIME' in 'USER'.",
+      "section_id": "sec_4_13",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        },
+        {
+          "id": "sec_4_13",
+          "title": "4.13 Change Current Date and Time"
+        }
+      ],
+      "page": 53,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -170,7 +357,24 @@
       },
       "content": "4.14 Control Password",
       "level": 2,
-      "role": "section"
+      "section_number": "4.14",
+      "section_id": "sec_4_14",
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        },
+        {
+          "id": "sec_4_14",
+          "title": "4.14 Control Password"
+        }
+      ],
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "page": 53,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -183,7 +387,24 @@
         "r": 541.3719199999995,
         "b": 147.27610136319493
       },
-      "content": "System is equipped with password protection to restrict operation of some control, and the initial password  is  '12345678'.  After  starting  control  password,  it  can  execute  UPS  and  battery  test operations after passing the password verification."
+      "content": "System is equipped with password protection to restrict operation of some control, and the initial password  is  '12345678'.  After  starting  control  password,  it  can  execute  UPS  and  battery  test operations after passing the password verification.",
+      "section_id": "sec_4_14",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        },
+        {
+          "id": "sec_4_14",
+          "title": "4.14 Control Password"
+        }
+      ],
+      "page": 53,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -201,7 +422,24 @@
       "next_block_id": "txt_0500",
       "image_hash": "a61370ebc31348a9b0d70131c73b8ce1fc31e5a56512fc4afa766afd1bd0b758",
       "width": 22,
-      "height": 20
+      "height": 20,
+      "section_id": "sec_4_14",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        },
+        {
+          "id": "sec_4_14",
+          "title": "4.14 Control Password"
+        }
+      ],
+      "page": 53,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -214,7 +452,24 @@
         "r": 541.4466399999994,
         "b": 96.76010136319496
       },
-      "content": "In  setting  menu ,  the  options  in  'advanced  setting'  has  to  be  entered  the  maintenance password  then  it  can  be  operated;  the  operation  must  be  operated  by  authorized  maintenance engineer."
+      "content": "In  setting  menu ,  the  options  in  'advanced  setting'  has  to  be  entered  the  maintenance password  then  it  can  be  operated;  the  operation  must  be  operated  by  authorized  maintenance engineer.",
+      "section_id": "sec_4_14",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        },
+        {
+          "id": "sec_4_14",
+          "title": "4.14 Control Password"
+        }
+      ],
+      "page": 53,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

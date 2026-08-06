@@ -21,7 +21,24 @@
       "next_block_id": "txt_0947",
       "width": 47,
       "height": 22,
-      "image_hash": "7577891dcf1743bd2e7a735ef2621e01244d960bde43e28868c27d7c1437ddb9"
+      "image_hash": "7577891dcf1743bd2e7a735ef2621e01244d960bde43e28868c27d7c1437ddb9",
+      "section_id": "sec_auto_1354",
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8       Maintenance"
+        },
+        {
+          "id": "sec_auto_1354",
+          "title": "Procedure"
+        }
+      ],
+      "page": 122,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -36,7 +53,24 @@
       },
       "markdown": "| -   | Run the compressor until warm. Stop the compressor after 3 minutes of unloaded operation. Close the air outlet valve and switch off the voltage. Wait a few minutes and depressurise by unscrewing oil filler plug (FC) just one turn to permit any pressure in   |\n|-----|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| -   | Loosen the vent plug of the oil cooler and wait for 5 minutes. See section Introduction for the position of the vent plug (VP).                                                                                                                                   |\n| -   | Remove drain plug (DP1) and open drain valve (Dm). Also drain the oil by removing the drain plug:                                                                                                                                                                 |\n| -   | on the check valve (DP2)                                                                                                                                                                                                                                          |\n| -   | on the gear casing (DP3)                                                                                                                                                                                                                                          |\n| -   | Collect the oil in a collector and deliver it to the local collection service. Refit and tighten the drain and vent plugs after draining.                                                                                                                         |\n| -   | Close the drain valve (Dm).                                                                                                                                                                                                                                       |\n| -   | Unscrew the bolts of lid (2) and remove it. Take the filter element out of the oil filter housing (OF). Fit a new oil filter. Oil the new gasket. Install the lid and screw the bolts of lid (2) on the oil filter housing.                                       |\n| -   | Remove filler plug (FC).                                                                                                                                                                                                                                          |\n| -   | Fill the air receiver (AR) with oil until the level reaches the filler neck.                                                                                                                                                                                      |\n| -   | Take care that no dirt drops into the system. Refit and tighten filler plug (FC).                                                                                                                                                                                 |\n| -   | Run the compressor loaded for a few minutes. Stop the compressor and wait a few minutes to allow the oil to settle.                                                                                                                                               |\n| -   | Depressurise the system by unscrewing filler plug (FC) just one turn to permit any pressure in the system to escape. Remove the plug.                                                                                                                             |\n| -   | Fill the air receiver with oil until the level reaches the filler neck.                                                                                                                                                                                           |\n| -   | Tighten the filler plug.                                                                                                                                                                                                                                          |\n| -   | Reset the service warning after carrying out all service actions in the relevant Service Plan: For compressors with Elektronikon® Graphic controller, see section Service menu.                                                                                   |",
       "rows": 16,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_auto_1354",
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8       Maintenance"
+        },
+        {
+          "id": "sec_auto_1354",
+          "title": "Procedure"
+        }
+      ],
+      "page": 122,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -51,7 +85,24 @@
       },
       "content": "8.5 Disposal of used material",
       "level": 2,
-      "role": "section"
+      "section_number": "8.5",
+      "section_id": "sec_8_5",
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8       Maintenance"
+        },
+        {
+          "id": "sec_8_5",
+          "title": "8.5 Disposal of used material"
+        }
+      ],
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "page": 122,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -64,7 +115,24 @@
         "r": 538.6003999999995,
         "b": 252.904
       },
-      "content": "Used filters or any other used material (e.g. desiccant, lubricants, cleaning rags, machine parts, etc.) must be disposed of in an environmentally friendly and safe manner, and in line with the local recommendations and environmental legislation."
+      "content": "Used filters or any other used material (e.g. desiccant, lubricants, cleaning rags, machine parts, etc.) must be disposed of in an environmentally friendly and safe manner, and in line with the local recommendations and environmental legislation.",
+      "section_id": "sec_8_5",
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8       Maintenance"
+        },
+        {
+          "id": "sec_8_5",
+          "title": "8.5 Disposal of used material"
+        }
+      ],
+      "page": 122,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -79,7 +147,24 @@
       },
       "content": "8.6 Storage after installation",
       "level": 2,
-      "role": "section"
+      "section_number": "8.6",
+      "section_id": "sec_8_6",
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8       Maintenance"
+        },
+        {
+          "id": "sec_8_6",
+          "title": "8.6 Storage after installation"
+        }
+      ],
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "page": 122,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -94,7 +179,23 @@
       },
       "content": "Procedure",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1365",
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8       Maintenance"
+        },
+        {
+          "id": "sec_auto_1365",
+          "title": "Procedure"
+        }
+      ],
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "page": 122,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -107,7 +208,24 @@
         "r": 495.71329999999904,
         "b": 157.38390000000004
       },
-      "content": "Run the compressor, e.g. twice a week, until warm. Load and unload the compressor a few times."
+      "content": "Run the compressor, e.g. twice a week, until warm. Load and unload the compressor a few times.",
+      "section_id": "sec_auto_1365",
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8       Maintenance"
+        },
+        {
+          "id": "sec_auto_1365",
+          "title": "Procedure"
+        }
+      ],
+      "page": 122,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -125,7 +243,24 @@
       "next_block_id": "txt_0952",
       "width": 29,
       "height": 23,
-      "image_hash": "3e7438d1a59e22031652435899aec3627df10a482397529299dadda34cdd8c09"
+      "image_hash": "3e7438d1a59e22031652435899aec3627df10a482397529299dadda34cdd8c09",
+      "section_id": "sec_auto_1365",
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8       Maintenance"
+        },
+        {
+          "id": "sec_auto_1365",
+          "title": "Procedure"
+        }
+      ],
+      "page": 122,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -138,7 +273,24 @@
         "r": 483.53163361999987,
         "b": 110.92378582000003
       },
-      "content": "If the compressor is going to be stored w ithout running from time to time, protective measures must be taken. Consult A tlas Copco."
+      "content": "If the compressor is going to be stored w ithout running from time to time, protective measures must be taken. Consult A tlas Copco.",
+      "section_id": "sec_auto_1365",
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8       Maintenance"
+        },
+        {
+          "id": "sec_auto_1365",
+          "title": "Procedure"
+        }
+      ],
+      "page": 122,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

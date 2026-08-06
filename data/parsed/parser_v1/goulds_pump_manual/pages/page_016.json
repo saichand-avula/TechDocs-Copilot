@@ -19,7 +19,19 @@
       },
       "content": "Part description 3196",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_248",
+      "section_path": [
+        {
+          "id": "sec_auto_248",
+          "title": "Part description 3196"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 2,
+      "page": 16,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -37,7 +49,20 @@
       "next_block_id": "txt_0220",
       "image_hash": "cd87f020babe8d9990bbbb2c96b1de291a697817c93356f6d2c938841d6f37dc",
       "width": 295,
-      "height": 332
+      "height": 332,
+      "section_id": "sec_auto_248",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_248",
+          "title": "Part description 3196"
+        }
+      ],
+      "page": 16,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "caption",
@@ -51,6 +76,19 @@
         "b": 367.923
       },
       "content": "Figure 6: 3196 part description",
+      "section_id": "sec_auto_248",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_248",
+          "title": "Part description 3196"
+        }
+      ],
+      "page": 16,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "source": "pdf_text",
       "caption_for": "tbl_0011"
     },
     {
@@ -64,7 +102,20 @@
         "r": 310.22999999999996,
         "b": 350.01662
       },
-      "content": "This table describes the pump casing parts."
+      "content": "This table describes the pump casing parts.",
+      "section_id": "sec_auto_248",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_248",
+          "title": "Part description 3196"
+        }
+      ],
+      "page": 16,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -78,11 +129,25 @@
         "b": 181.44122314453125
       },
       "markdown": "Table 3: Casing\n\n| Part               | Description                                                                                                                                                                    |\n|--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Discharge          | Top-centerline                                                                                                                                                                 |\n| Casing ventilation | Self venting                                                                                                                                                                   |\n| Gasket             | Fully confined                                                                                                                                                                 |\n| Mounting method    | Integral foot support for maximum resistance to misalignment due to piping loads.                                                                                              |\n| Standard flange    | ANSI flat-faced serrated flange                                                                                                                                                |\n| Optional flanges   | One of the following flanges can be used: • ANSI class 150 raised-face serrated flange • ANSI class 300 flat-face serrated flange • ANSI class 300 raised-face serrated flange |",
-      "caption_id": "txt_0222",
       "title": "Table 3: Casing",
       "table_number": "Table 3",
       "rows": 7,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_auto_248",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_248",
+          "title": "Part description 3196"
+        }
+      ],
+      "page": 16,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "group_id": "grp_tbl_0011",
+      "source": "pdf_text",
+      "caption_id": "txt_0222"
     },
     {
       "type": "caption",
@@ -96,6 +161,20 @@
         "b": 334.52301
       },
       "content": "Table 3: Casing",
+      "section_id": "sec_auto_248",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_248",
+          "title": "Part description 3196"
+        }
+      ],
+      "page": 16,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_tbl_0011",
+      "source": "pdf_text",
       "caption_for": "tbl_0011"
     },
     {
@@ -109,7 +188,21 @@
         "r": 201.85999999999999,
         "b": 146.47659999999996
       },
-      "content": "The impeller is"
+      "content": "The impeller is",
+      "section_id": "sec_auto_248",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_248",
+          "title": "Part description 3196"
+        }
+      ],
+      "page": 16,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text",
+      "group_id": "grp_tbl_0011"
     },
     {
       "type": "list_item",
@@ -122,7 +215,20 @@
         "r": 200.85,
         "b": 131.47659999999996
       },
-      "content": "fully open"
+      "content": "fully open",
+      "section_id": "sec_auto_248",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_248",
+          "title": "Part description 3196"
+        }
+      ],
+      "page": 16,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -135,7 +241,20 @@
         "r": 249.89999999999992,
         "b": 117.67660999999998
       },
-      "content": "screwed onto the shaft"
+      "content": "screwed onto the shaft",
+      "section_id": "sec_auto_248",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_248",
+          "title": "Part description 3196"
+        }
+      ],
+      "page": 16,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -148,7 +267,20 @@
         "r": 452.72000000000014,
         "b": 103.15658999999994
       },
-      "content": "The threads are sealed from the pumped liquid by a Teflon O-ring for the 3196."
+      "content": "The threads are sealed from the pumped liquid by a Teflon O-ring for the 3196.",
+      "section_id": "sec_auto_248",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_248",
+          "title": "Part description 3196"
+        }
+      ],
+      "page": 16,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -163,7 +295,19 @@
       },
       "content": "Impeller",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_258",
+      "section_path": [
+        {
+          "id": "sec_auto_258",
+          "title": "Impeller"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 2,
+      "page": 16,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

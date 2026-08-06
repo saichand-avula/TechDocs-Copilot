@@ -18,8 +18,21 @@
         "b": 755.7829409281768
       },
       "content": "2) Using Lubrication Oil Pump and Motor",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "2",
+      "section_id": "sec_2",
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2) Using Lubrication Oil Pump and Motor"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 154,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -32,7 +45,20 @@
         "r": 177.86268000000004,
         "b": 738.8030489281768
       },
-      "content": "Pump"
+      "content": "Pump",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2) Using Lubrication Oil Pump and Motor"
+        }
+      ],
+      "page": 154,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -47,7 +73,20 @@
       },
       "markdown": "| Item                       | Specification                    |\n|----------------------------|----------------------------------|\n| Discharge                  | 100cc/min (0.02 gal/min) 50/60Hz |\n| Maximum Discharge pressure | 8 kgf/cm 2 (0.8MPa)              |\n| Voltage                    | AC 110V(10)                      |\n| Frequency                  | 50/60Hz                          |",
       "rows": 5,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2) Using Lubrication Oil Pump and Motor"
+        }
+      ],
+      "page": 154,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -62,7 +101,23 @@
       },
       "content": "B. Motor",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1421",
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2) Using Lubrication Oil Pump and Motor"
+        },
+        {
+          "id": "sec_auto_1421",
+          "title": "B. Motor"
+        }
+      ],
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "page": 154,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -77,7 +132,24 @@
       },
       "markdown": "| Item              | Specification   |\n|-------------------|-----------------|\n| Power             | 15W (0.02HP)    |\n| Polarity          | 2P              |\n| Voltage           | 110V            |\n| Frequency         | 50/60Hz         |\n| Rated current     | 1.0/1.2 A       |\n| Revolution number | 3000/3600 rpm   |",
       "rows": 7,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_auto_1421",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2) Using Lubrication Oil Pump and Motor"
+        },
+        {
+          "id": "sec_auto_1421",
+          "title": "B. Motor"
+        }
+      ],
+      "page": 154,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -92,7 +164,23 @@
       },
       "content": "C. Cleaning Lubrication Unit",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1423",
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2) Using Lubrication Oil Pump and Motor"
+        },
+        {
+          "id": "sec_auto_1423",
+          "title": "C. Cleaning Lubrication Unit"
+        }
+      ],
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "page": 154,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -105,7 +193,24 @@
         "r": 324.167484,
         "b": 391.82314492817676
       },
-      "content": "Used tools    :    wrench(5mm), + driver"
+      "content": "Used tools    :    wrench(5mm), + driver",
+      "section_id": "sec_auto_1423",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2) Using Lubrication Oil Pump and Motor"
+        },
+        {
+          "id": "sec_auto_1423",
+          "title": "C. Cleaning Lubrication Unit"
+        }
+      ],
+      "page": 154,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -118,7 +223,24 @@
         "r": 265.7218260000001,
         "b": 357.80324092817676
       },
-      "content": "Turn OFF the power."
+      "content": "Turn OFF the power.",
+      "section_id": "sec_auto_1423",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2) Using Lubrication Oil Pump and Motor"
+        },
+        {
+          "id": "sec_auto_1423",
+          "title": "C. Cleaning Lubrication Unit"
+        }
+      ],
+      "page": 154,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -131,7 +253,24 @@
         "r": 337.9990920000005,
         "b": 340.82334892817676
       },
-      "content": "Loosen bolts and disconnect the unit."
+      "content": "Loosen bolts and disconnect the unit.",
+      "section_id": "sec_auto_1423",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2) Using Lubrication Oil Pump and Motor"
+        },
+        {
+          "id": "sec_auto_1423",
+          "title": "C. Cleaning Lubrication Unit"
+        }
+      ],
+      "page": 154,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -144,7 +283,24 @@
         "r": 326.6163720000004,
         "b": 323.7833369281768
       },
-      "content": "Disconnect the tank using + driver."
+      "content": "Disconnect the tank using + driver.",
+      "section_id": "sec_auto_1423",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2) Using Lubrication Oil Pump and Motor"
+        },
+        {
+          "id": "sec_auto_1423",
+          "title": "C. Cleaning Lubrication Unit"
+        }
+      ],
+      "page": 154,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -157,7 +313,24 @@
         "r": 280.26385200000016,
         "b": 306.80344492817676
       },
-      "content": "Clean the inside of tank."
+      "content": "Clean the inside of tank.",
+      "section_id": "sec_auto_1423",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2) Using Lubrication Oil Pump and Motor"
+        },
+        {
+          "id": "sec_auto_1423",
+          "title": "C. Cleaning Lubrication Unit"
+        }
+      ],
+      "page": 154,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -170,7 +343,24 @@
         "r": 345.16339199999993,
         "b": 289.8235529281767
       },
-      "content": "Remove the filter from the suction port."
+      "content": "Remove the filter from the suction port.",
+      "section_id": "sec_auto_1423",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2) Using Lubrication Oil Pump and Motor"
+        },
+        {
+          "id": "sec_auto_1423",
+          "title": "C. Cleaning Lubrication Unit"
+        }
+      ],
+      "page": 154,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -183,7 +373,24 @@
         "r": 310.8118260000003,
         "b": 272.78354092817676
       },
-      "content": "Clean the filter using kerosene."
+      "content": "Clean the filter using kerosene.",
+      "section_id": "sec_auto_1423",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2) Using Lubrication Oil Pump and Motor"
+        },
+        {
+          "id": "sec_auto_1423",
+          "title": "C. Cleaning Lubrication Unit"
+        }
+      ],
+      "page": 154,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -196,7 +403,24 @@
         "r": 444.07682399999874,
         "b": 255.8036489281767
       },
-      "content": "Remove foreign matters from the filter using compressed air."
+      "content": "Remove foreign matters from the filter using compressed air.",
+      "section_id": "sec_auto_1423",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2) Using Lubrication Oil Pump and Motor"
+        },
+        {
+          "id": "sec_auto_1423",
+          "title": "C. Cleaning Lubrication Unit"
+        }
+      ],
+      "page": 154,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -209,7 +433,24 @@
         "r": 241.8541860000001,
         "b": 238.82375692817675
       },
-      "content": "Mount the filter."
+      "content": "Mount the filter.",
+      "section_id": "sec_auto_1423",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2) Using Lubrication Oil Pump and Motor"
+        },
+        {
+          "id": "sec_auto_1423",
+          "title": "C. Cleaning Lubrication Unit"
+        }
+      ],
+      "page": 154,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -222,7 +463,24 @@
         "r": 241.8692160000001,
         "b": 221.7837449281767
       },
-      "content": "Mount the tank."
+      "content": "Mount the tank.",
+      "section_id": "sec_auto_1423",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2) Using Lubrication Oil Pump and Motor"
+        },
+        {
+          "id": "sec_auto_1423",
+          "title": "C. Cleaning Lubrication Unit"
+        }
+      ],
+      "page": 154,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

@@ -24,6 +24,24 @@
       "width": 290,
       "height": 217,
       "next_block_id": "txt_1620",
+      "section_id": "sec_auto_2093",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Remove the keyboard."
+        },
+        {
+          "id": "sec_auto_2093",
+          "title": "Post service test"
+        }
+      ],
+      "page": 172,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0452",
+      "source": "pdf_text",
       "caption_id": "txt_1620"
     },
     {
@@ -38,6 +56,24 @@
         "b": 720.7
       },
       "content": "Figure 1-224  Pull the tray out until it stops",
+      "section_id": "sec_auto_2093",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Remove the keyboard."
+        },
+        {
+          "id": "sec_auto_2093",
+          "title": "Post service test"
+        }
+      ],
+      "page": 172,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0452",
+      "source": "pdf_text",
       "caption_for": "fig_0452"
     },
     {
@@ -51,7 +87,25 @@
         "r": 415.7900000000001,
         "b": 479.83000000000004
       },
-      "content": "Lift the front of the tray, and then pull it out of the printer to remove it."
+      "content": "Lift the front of the tray, and then pull it out of the printer to remove it.",
+      "section_id": "sec_auto_2093",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Remove the keyboard."
+        },
+        {
+          "id": "sec_auto_2093",
+          "title": "Post service test"
+        }
+      ],
+      "page": 172,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text",
+      "group_id": "grp_fig_0452"
     },
     {
       "type": "figure",
@@ -70,7 +124,24 @@
       "height": 13,
       "image_hash": "0076b5a70b5666138600a48e88caca86d138380cc837f445c9e612f6b6a1f0a6",
       "previous_block_id": "txt_1621",
-      "next_block_id": "txt_1622"
+      "next_block_id": "txt_1622",
+      "section_id": "sec_auto_2093",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Remove the keyboard."
+        },
+        {
+          "id": "sec_auto_2093",
+          "title": "Post service test"
+        }
+      ],
+      "page": 172,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "admonition",
@@ -84,7 +155,24 @@
         "b": 444.33
       },
       "content": "NOTE: If the tray has Fixed Tray Guides installed and are still required, move the hardware to new tray. If necessary, order new kit: 3GY19-67901 Kit-Fixed Tray Guide. Only one kit required per engine.",
-      "severity": "note"
+      "severity": "note",
+      "section_id": "sec_auto_2093",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Remove the keyboard."
+        },
+        {
+          "id": "sec_auto_2093",
+          "title": "Post service test"
+        }
+      ],
+      "page": 172,
+      "chunk_hint": "admonition",
+      "semantic_role": "note",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -105,6 +193,24 @@
       "height": 217,
       "previous_block_id": "txt_1622",
       "next_block_id": "txt_1623",
+      "section_id": "sec_auto_2093",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Remove the keyboard."
+        },
+        {
+          "id": "sec_auto_2093",
+          "title": "Post service test"
+        }
+      ],
+      "page": 172,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0454",
+      "source": "pdf_text",
       "caption_id": "txt_1623"
     },
     {
@@ -119,6 +225,24 @@
         "b": 421.83
       },
       "content": "Figure 1-225  Release and remove the tray",
+      "section_id": "sec_auto_2093",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Remove the keyboard."
+        },
+        {
+          "id": "sec_auto_2093",
+          "title": "Post service test"
+        }
+      ],
+      "page": 172,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0454",
+      "source": "pdf_text",
       "caption_for": "fig_0454"
     },
     {
@@ -133,8 +257,21 @@
         "b": 180.96000000000004
       },
       "content": "2. Remove the formatter cover.",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "2",
+      "section_id": "sec_2",
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2. Remove the formatter cover."
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 172,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -147,7 +284,20 @@
         "r": 230.10997999999995,
         "b": 159.03999999999996
       },
-      "content": "▲ Do one of the following:"
+      "content": "▲ Do one of the following:",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2. Remove the formatter cover."
+        }
+      ],
+      "page": 172,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -160,7 +310,20 @@
         "r": 511.0199700000003,
         "b": 126.34953000000007
       },
-      "content": "M501: Remove one screw (callout 1), and then slide the cover toward the rear of the printer to remove it (callout 2)."
+      "content": "M501: Remove one screw (callout 1), and then slide the cover toward the rear of the printer to remove it (callout 2).",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2. Remove the formatter cover."
+        }
+      ],
+      "page": 172,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

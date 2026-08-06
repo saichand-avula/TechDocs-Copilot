@@ -19,12 +19,30 @@
       },
       "image_path": "figures/figure_0003.png",
       "next_block_id": "txt_0170",
-      "caption_id": "txt_0170",
       "caption": ".  HDKAG FAULT SENSOR LOCATIONS",
       "figure_number": "FIGURE 3-2",
       "image_hash": "bab8ef207259098c7fd247d22b15a212ac3f46124be36a1af09a10e1beee7149",
       "width": 518,
-      "height": 560
+      "height": 560,
+      "section_id": "sec_auto_170",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3. Engine Controls"
+        },
+        {
+          "id": "sec_auto_170",
+          "title": "Engine Monitors"
+        }
+      ],
+      "page": 13,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0003",
+      "source": "pdf_text",
+      "caption_id": "txt_0170"
     },
     {
       "type": "caption",
@@ -38,6 +56,24 @@
         "b": 156.9040569398876
       },
       "content": "FIGURE 3-2.  HDKAG FAULT SENSOR LOCATIONS",
+      "section_id": "sec_auto_170",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3. Engine Controls"
+        },
+        {
+          "id": "sec_auto_170",
+          "title": "Engine Monitors"
+        }
+      ],
+      "page": 13,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0003",
+      "source": "pdf_text",
       "caption_for": "fig_0003"
     }
   ],

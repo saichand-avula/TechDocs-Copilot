@@ -19,7 +19,24 @@
       },
       "content": "10.2 Wiring Diagrams",
       "level": 2,
-      "role": "section"
+      "section_number": "10.2",
+      "section_id": "sec_10_2",
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_10_2",
+          "title": "10.2 Wiring Diagrams"
+        }
+      ],
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "page": 147,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -33,8 +50,29 @@
         "b": 674.7418670000001
       },
       "content": "10.2.1. INDOORUNIT FOR12K",
-      "level": 2,
-      "role": "section"
+      "level": 3,
+      "section_number": "10.2.1",
+      "section_id": "sec_10_2_1",
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_10_2",
+          "title": "10.2 Wiring Diagrams"
+        },
+        {
+          "id": "sec_10_2_1",
+          "title": "10.2.1. INDOORUNIT FOR12K"
+        }
+      ],
+      "parent_section_id": "sec_10_2",
+      "section_level": 3,
+      "page": 147,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -51,7 +89,28 @@
       "previous_block_id": "txt_1274",
       "image_hash": "8c6f995edee0cbb8204dbfa4e7b6e1c1a17f5cd9984cc42021f80a7e8aa8c884",
       "width": 368,
-      "height": 547
+      "height": 547,
+      "section_id": "sec_10_2_1",
+      "parent_section_id": "sec_10_2",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_10_2",
+          "title": "10.2 Wiring Diagrams"
+        },
+        {
+          "id": "sec_10_2_1",
+          "title": "10.2.1. INDOORUNIT FOR12K"
+        }
+      ],
+      "page": 147,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

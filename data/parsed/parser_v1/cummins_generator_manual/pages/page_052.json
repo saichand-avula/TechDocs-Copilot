@@ -19,12 +19,30 @@
       },
       "image_path": "figures/figure_0032.png",
       "next_block_id": "txt_0607",
-      "caption_id": "txt_0607",
       "caption": ". FUEL SYSTEM",
       "figure_number": "FIGURE 8-4",
       "image_hash": "75f79f42bf9351106c4c0d76aff0cddacac55a76d572d1a19dc3f02d3eaeddd5",
       "width": 518,
-      "height": 399
+      "height": 399,
+      "section_id": "sec_auto_638",
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8. Routine Maintenance"
+        },
+        {
+          "id": "sec_auto_638",
+          "title": "Low Pressure Fuel System"
+        }
+      ],
+      "page": 52,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0032",
+      "source": "pdf_text",
+      "caption_id": "txt_0607"
     },
     {
       "type": "caption",
@@ -38,6 +56,24 @@
         "b": 324.6584569398876
       },
       "content": "FIGURE 8-4. FUEL SYSTEM",
+      "section_id": "sec_auto_638",
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8. Routine Maintenance"
+        },
+        {
+          "id": "sec_auto_638",
+          "title": "Low Pressure Fuel System"
+        }
+      ],
+      "page": 52,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0032",
+      "source": "pdf_text",
       "caption_for": "fig_0032"
     }
   ],

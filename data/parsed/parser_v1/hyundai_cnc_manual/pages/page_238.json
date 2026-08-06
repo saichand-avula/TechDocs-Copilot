@@ -18,8 +18,21 @@
         "b": 732.9829409281768
       },
       "content": "1-12.   Alarm AL-20",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "1",
+      "section_id": "sec_1",
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-12.   Alarm AL-20"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 238,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -32,7 +45,20 @@
         "r": 161.68015800000006,
         "b": 699.023156928177
       },
-      "content": "Meaning"
+      "content": "Meaning",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-12.   Alarm AL-20"
+        }
+      ],
+      "page": 238,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -45,7 +71,20 @@
         "r": 527.39613,
         "b": 665.003252928177
       },
-      "content": "The offset voltage for the phase V current detection circuit is too high. This check is made when power is switched on."
+      "content": "The offset voltage for the phase V current detection circuit is too high. This check is made when power is switched on.",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-12.   Alarm AL-20"
+        }
+      ],
+      "page": 238,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -58,7 +97,20 @@
         "r": 247.3040640000001,
         "b": 630.983348928177
       },
-      "content": "Cause and corrective action"
+      "content": "Cause and corrective action",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-12.   Alarm AL-20"
+        }
+      ],
+      "page": 238,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -71,7 +123,20 @@
         "r": 325.77369000000016,
         "b": 614.003456928177
       },
-      "content": "Loose contact of the printed-circuit board"
+      "content": "Loose contact of the printed-circuit board",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-12.   Alarm AL-20"
+        }
+      ],
+      "page": 238,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -84,7 +149,20 @@
         "r": 488.7069059999989,
         "b": 597.023564928177
       },
-      "content": "Check that the printed-circuit board is connected to the power circuit securely."
+      "content": "Check that the printed-circuit board is connected to the power circuit securely.",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-12.   Alarm AL-20"
+        }
+      ],
+      "page": 238,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -97,7 +175,20 @@
         "r": 353.650182,
         "b": 579.0323
       },
-      "content": "⇒ Connect the printed-circuit board securely."
+      "content": "⇒ Connect the printed-circuit board securely.",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-12.   Alarm AL-20"
+        }
+      ],
+      "page": 238,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -110,7 +201,20 @@
         "r": 334.078116,
         "b": 546.023156928177
       },
-      "content": "Phase V current detection circuit defective."
+      "content": "Phase V current detection circuit defective.",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-12.   Alarm AL-20"
+        }
+      ],
+      "page": 238,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -123,7 +227,20 @@
         "r": 313.21046400000034,
         "b": 528.0323
       },
-      "content": "⇒ Replace the printed-circuit board."
+      "content": "⇒ Replace the printed-circuit board.",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-12.   Alarm AL-20"
+        }
+      ],
+      "page": 238,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -137,8 +254,21 @@
         "b": 495.02315692817683
       },
       "content": "1-13.  Alarm AL-24",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "1",
+      "section_id": "sec_1",
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-13.  Alarm AL-24"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 238,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -151,7 +281,20 @@
         "r": 161.68000800000004,
         "b": 461.00325292817683
       },
-      "content": "Meaning"
+      "content": "Meaning",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-13.  Alarm AL-24"
+        }
+      ],
+      "page": 238,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -164,7 +307,20 @@
         "r": 527.3468819999999,
         "b": 426.98334892817684
       },
-      "content": "The serial communication data between the CNC and spindle amplifier is abnormal. (This alarm occurs also when the CNC power is switched off.)"
+      "content": "The serial communication data between the CNC and spindle amplifier is abnormal. (This alarm occurs also when the CNC power is switched off.)",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-13.  Alarm AL-24"
+        }
+      ],
+      "page": 238,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -177,7 +333,20 @@
         "r": 247.3039140000001,
         "b": 393.0235649281768
       },
-      "content": "Cause and corrective action"
+      "content": "Cause and corrective action",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-13.  Alarm AL-24"
+        }
+      ],
+      "page": 238,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -190,7 +359,20 @@
         "r": 242.92918200000017,
         "b": 375.98355292817683
       },
-      "content": "The CNC power is off."
+      "content": "The CNC power is off.",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-13.  Alarm AL-24"
+        }
+      ],
+      "page": 238,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -203,7 +385,20 @@
         "r": 283.167498,
         "b": 358.0523
       },
-      "content": "⇒ Switch on the CNC power."
+      "content": "⇒ Switch on the CNC power.",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-13.  Alarm AL-24"
+        }
+      ],
+      "page": 238,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -216,7 +411,20 @@
         "r": 309.708474,
         "b": 324.9830369281767
       },
-      "content": "Serial communication cable defective"
+      "content": "Serial communication cable defective",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-13.  Alarm AL-24"
+        }
+      ],
+      "page": 238,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -229,7 +437,20 @@
         "r": 429.33825599999994,
         "b": 308.00314492817677
       },
-      "content": "Check the connection of the cable. Also check for a broken wire."
+      "content": "Check the connection of the cable. Also check for a broken wire.",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-13.  Alarm AL-24"
+        }
+      ],
+      "page": 238,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -242,7 +463,20 @@
         "r": 484.26088199999987,
         "b": 290.07230000000004
       },
-      "content": "⇒ Connect the cable correctly. If any wire in the cable is broken, replace it."
+      "content": "⇒ Connect the cable correctly. If any wire in the cable is broken, replace it.",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-13.  Alarm AL-24"
+        }
+      ],
+      "page": 238,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -255,7 +489,20 @@
         "r": 311.63532,
         "b": 257.0030369281768
       },
-      "content": "Serial communication LSI chip defective"
+      "content": "Serial communication LSI chip defective",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-13.  Alarm AL-24"
+        }
+      ],
+      "page": 238,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -268,7 +515,20 @@
         "r": 456.98263199999985,
         "b": 239.07230000000004
       },
-      "content": "⇒ Replace the LSI chip or the printed-circuit board with the LSI on it."
+      "content": "⇒ Replace the LSI chip or the printed-circuit board with the LSI on it.",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-13.  Alarm AL-24"
+        }
+      ],
+      "page": 238,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -281,7 +541,20 @@
         "r": 284.554464,
         "b": 206.0030369281768
       },
-      "content": "I/O link adapter defective (if used)"
+      "content": "I/O link adapter defective (if used)",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-13.  Alarm AL-24"
+        }
+      ],
+      "page": 238,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -294,7 +567,20 @@
         "r": 292.63539599999996,
         "b": 188.07230000000004
       },
-      "content": "⇒ Replace the I/O link adapter."
+      "content": "⇒ Replace the I/O link adapter.",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-13.  Alarm AL-24"
+        }
+      ],
+      "page": 238,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -308,8 +594,21 @@
         "b": 155.0030369281768
       },
       "content": "1-14.  Alarm AL-25",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "1",
+      "section_id": "sec_1",
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-14.  Alarm AL-25"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 238,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -322,7 +621,20 @@
         "r": 161.68101000000007,
         "b": 120.98313292817681
       },
-      "content": "Meaning"
+      "content": "Meaning",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-14.  Alarm AL-25"
+        }
+      ],
+      "page": 238,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -335,7 +647,20 @@
         "r": 471.89720399999885,
         "b": 87.0233489281768
       },
-      "content": "Serial communication between the CNC and the spindle amplifier has stopped."
+      "content": "Serial communication between the CNC and the spindle amplifier has stopped.",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-14.  Alarm AL-25"
+        }
+      ],
+      "page": 238,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

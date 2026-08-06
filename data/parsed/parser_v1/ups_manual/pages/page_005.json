@@ -18,8 +18,29 @@
         "b": 719.8728447886093
       },
       "content": "2.1.2 Rectifier",
-      "level": 2,
-      "role": "section"
+      "level": 3,
+      "section_number": "2.1.2",
+      "section_id": "sec_2_1_2",
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 Product Overview"
+        },
+        {
+          "id": "sec_2_1",
+          "title": "2.1 Product Description"
+        },
+        {
+          "id": "sec_2_1_2",
+          "title": "2.1.2 Rectifier"
+        }
+      ],
+      "parent_section_id": "sec_2_1",
+      "section_level": 3,
+      "page": 5,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -32,7 +53,28 @@
         "r": 541.3863199999994,
         "b": 660.116101363195
       },
-      "content": "Rectifier of this series of UPS uses IGBT three-phase rectifier bridge with full digital control, and it can transfer the voltage of three-phase of main power to continuous DC voltage. Design power is inverter with full load and supplies maximum charging current for battery."
+      "content": "Rectifier of this series of UPS uses IGBT three-phase rectifier bridge with full digital control, and it can transfer the voltage of three-phase of main power to continuous DC voltage. Design power is inverter with full load and supplies maximum charging current for battery.",
+      "section_id": "sec_2_1_2",
+      "parent_section_id": "sec_2_1",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 Product Overview"
+        },
+        {
+          "id": "sec_2_1",
+          "title": "2.1 Product Description"
+        },
+        {
+          "id": "sec_2_1_2",
+          "title": "2.1.2 Rectifier"
+        }
+      ],
+      "page": 5,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -45,7 +87,28 @@
         "r": 541.6060800000001,
         "b": 597.716101363195
       },
-      "content": "Rectifier has the function of power factor calibration, which can reduce the harmonic distortion of main power to 5% and less. It can ensure that, no matter how is the load, the rectifier cannot cause voltage  distortion  of  main  power  and  can  avoid  overheat  of  cable  caused  by  over-current  of harmonic wave."
+      "content": "Rectifier has the function of power factor calibration, which can reduce the harmonic distortion of main power to 5% and less. It can ensure that, no matter how is the load, the rectifier cannot cause voltage  distortion  of  main  power  and  can  avoid  overheat  of  cable  caused  by  over-current  of harmonic wave.",
+      "section_id": "sec_2_1_2",
+      "parent_section_id": "sec_2_1",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 Product Overview"
+        },
+        {
+          "id": "sec_2_1",
+          "title": "2.1 Product Description"
+        },
+        {
+          "id": "sec_2_1_2",
+          "title": "2.1.2 Rectifier"
+        }
+      ],
+      "page": 5,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -59,8 +122,29 @@
         "b": 569.1228447886093
       },
       "content": "2.1.3 Inverter",
-      "level": 2,
-      "role": "section"
+      "level": 3,
+      "section_number": "2.1.3",
+      "section_id": "sec_2_1_3",
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 Product Overview"
+        },
+        {
+          "id": "sec_2_1",
+          "title": "2.1 Product Description"
+        },
+        {
+          "id": "sec_2_1_3",
+          "title": "2.1.3 Inverter"
+        }
+      ],
+      "parent_section_id": "sec_2_1",
+      "section_level": 3,
+      "page": 5,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -73,7 +157,28 @@
         "r": 541.61568,
         "b": 509.24610136319495
       },
-      "content": "Inverter of this series of UPS uses matured three-phase half-bridge IGBT inverter technology which can transfer the continuous voltage from rectifier or battery into stable alternating voltage with stable amplitude and frequency."
+      "content": "Inverter of this series of UPS uses matured three-phase half-bridge IGBT inverter technology which can transfer the continuous voltage from rectifier or battery into stable alternating voltage with stable amplitude and frequency.",
+      "section_id": "sec_2_1_3",
+      "parent_section_id": "sec_2_1",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 Product Overview"
+        },
+        {
+          "id": "sec_2_1",
+          "title": "2.1 Product Description"
+        },
+        {
+          "id": "sec_2_1_3",
+          "title": "2.1.3 Inverter"
+        }
+      ],
+      "page": 5,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -86,7 +191,28 @@
         "r": 541.4399199999996,
         "b": 462.446101363195
       },
-      "content": "Inverter  uses  full  digital  control  circuit  and  16  bits  microprocessor.  Because  of  its  superior processing capability, output sine wave produced by it is low, which only cause minimum distortion even under condition of extremely high peak current for load."
+      "content": "Inverter  uses  full  digital  control  circuit  and  16  bits  microprocessor.  Because  of  its  superior processing capability, output sine wave produced by it is low, which only cause minimum distortion even under condition of extremely high peak current for load.",
+      "section_id": "sec_2_1_3",
+      "parent_section_id": "sec_2_1",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 Product Overview"
+        },
+        {
+          "id": "sec_2_1",
+          "title": "2.1 Product Description"
+        },
+        {
+          "id": "sec_2_1_3",
+          "title": "2.1.3 Inverter"
+        }
+      ],
+      "page": 5,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -100,8 +226,29 @@
         "b": 433.88284478860936
       },
       "content": "2.1.4 Static Transfer Switch",
-      "level": 2,
-      "role": "section"
+      "level": 3,
+      "section_number": "2.1.4",
+      "section_id": "sec_2_1_4",
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 Product Overview"
+        },
+        {
+          "id": "sec_2_1",
+          "title": "2.1 Product Description"
+        },
+        {
+          "id": "sec_2_1_4",
+          "title": "2.1.4 Static Transfer Switch"
+        }
+      ],
+      "parent_section_id": "sec_2_1",
+      "section_level": 3,
+      "page": 5,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -114,7 +261,28 @@
         "r": 541.61856,
         "b": 311.706101363195
       },
-      "content": "'Static  switch'  shown  in  Figure  2-1  takes  controllable  silicon  as  converter  to  convert  the  load between power supply of inverter and power supply of main power. Under normal operation, inverter output and static bypass power must be synchronous fully, and then it can realize the uninterrupted conversion between inverter and static bypass power. Synchronization between inverter output and static bypass power supply is realized by controlling circuit through inverter. When static bypass power  frequency  is  within  allowed  synchronization  range,  inverter  control  circuit  always  let  the inverter output frequency trace static bypass power frequency"
+      "content": "'Static  switch'  shown  in  Figure  2-1  takes  controllable  silicon  as  converter  to  convert  the  load between power supply of inverter and power supply of main power. Under normal operation, inverter output and static bypass power must be synchronous fully, and then it can realize the uninterrupted conversion between inverter and static bypass power. Synchronization between inverter output and static bypass power supply is realized by controlling circuit through inverter. When static bypass power  frequency  is  within  allowed  synchronization  range,  inverter  control  circuit  always  let  the inverter output frequency trace static bypass power frequency",
+      "section_id": "sec_2_1_4",
+      "parent_section_id": "sec_2_1",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 Product Overview"
+        },
+        {
+          "id": "sec_2_1",
+          "title": "2.1 Product Description"
+        },
+        {
+          "id": "sec_2_1_4",
+          "title": "2.1.4 Static Transfer Switch"
+        }
+      ],
+      "page": 5,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -127,7 +295,28 @@
         "r": 541.6089599999999,
         "b": 264.9061013631949
       },
-      "content": "In addition, UPS also provides manual control of maintenance bypass. If it needs to power off the UPS to take daily maintenance and repairing, UPS can supply power for major load by maintenance bypass."
+      "content": "In addition, UPS also provides manual control of maintenance bypass. If it needs to power off the UPS to take daily maintenance and repairing, UPS can supply power for major load by maintenance bypass.",
+      "section_id": "sec_2_1_4",
+      "parent_section_id": "sec_2_1",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 Product Overview"
+        },
+        {
+          "id": "sec_2_1",
+          "title": "2.1 Product Description"
+        },
+        {
+          "id": "sec_2_1_4",
+          "title": "2.1.4 Static Transfer Switch"
+        }
+      ],
+      "page": 5,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -141,8 +330,29 @@
         "b": 236.34284478860934
       },
       "content": "2.1.5 Redundancy Control Power board",
-      "level": 2,
-      "role": "section"
+      "level": 3,
+      "section_number": "2.1.5",
+      "section_id": "sec_2_1_5",
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 Product Overview"
+        },
+        {
+          "id": "sec_2_1",
+          "title": "2.1 Product Description"
+        },
+        {
+          "id": "sec_2_1_5",
+          "title": "2.1.5 Redundancy Control Power board"
+        }
+      ],
+      "parent_section_id": "sec_2_1",
+      "section_level": 3,
+      "page": 5,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -155,7 +365,28 @@
         "r": 541.5649599999998,
         "b": 160.83610136319498
       },
-      "content": "UPS is equipped with two same control power board with mutual stand-by. Both these two control board can get input power from AC or DC power supply. If there is some fault for one power or one control power board, UPS system still can operate normally. This function supplies higher reliability for the system."
+      "content": "UPS is equipped with two same control power board with mutual stand-by. Both these two control board can get input power from AC or DC power supply. If there is some fault for one power or one control power board, UPS system still can operate normally. This function supplies higher reliability for the system.",
+      "section_id": "sec_2_1_5",
+      "parent_section_id": "sec_2_1",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 Product Overview"
+        },
+        {
+          "id": "sec_2_1",
+          "title": "2.1 Product Description"
+        },
+        {
+          "id": "sec_2_1_5",
+          "title": "2.1.5 Redundancy Control Power board"
+        }
+      ],
+      "page": 5,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -169,8 +400,29 @@
         "b": 132.2728447886093
       },
       "content": "2.1.6 Battery",
-      "level": 2,
-      "role": "section"
+      "level": 3,
+      "section_number": "2.1.6",
+      "section_id": "sec_2_1_6",
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 Product Overview"
+        },
+        {
+          "id": "sec_2_1",
+          "title": "2.1 Product Description"
+        },
+        {
+          "id": "sec_2_1_6",
+          "title": "2.1.6 Battery"
+        }
+      ],
+      "parent_section_id": "sec_2_1",
+      "section_level": 3,
+      "page": 5,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -183,7 +435,28 @@
         "r": 541.3823999999997,
         "b": 88.00010136319497
       },
-      "content": "Battery pack is installed in external battery cabinet. Charging and discharging control of battery is fully integrated in main control panel. According to DIN41773 standard, after partial discharge or full discharge every time, the battery needs to be charged, and it shall float charge it after charging fully to compensate self discharge loss of the battery."
+      "content": "Battery pack is installed in external battery cabinet. Charging and discharging control of battery is fully integrated in main control panel. According to DIN41773 standard, after partial discharge or full discharge every time, the battery needs to be charged, and it shall float charge it after charging fully to compensate self discharge loss of the battery.",
+      "section_id": "sec_2_1_6",
+      "parent_section_id": "sec_2_1",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 Product Overview"
+        },
+        {
+          "id": "sec_2_1",
+          "title": "2.1 Product Description"
+        },
+        {
+          "id": "sec_2_1_6",
+          "title": "2.1.6 Battery"
+        }
+      ],
+      "page": 5,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

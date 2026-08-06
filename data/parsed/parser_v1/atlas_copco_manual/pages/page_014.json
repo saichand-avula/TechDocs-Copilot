@@ -22,7 +22,24 @@
       "width": 47,
       "height": 23,
       "decorative": true,
-      "image_hash": "7577891dcf1743bd2e7a735ef2621e01244d960bde43e28868c27d7c1437ddb9"
+      "image_hash": "7577891dcf1743bd2e7a735ef2621e01244d960bde43e28868c27d7c1437ddb9",
+      "section_id": "sec_auto_146",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_auto_146",
+          "title": "GA Workplace"
+        }
+      ],
+      "page": 14,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -39,7 +56,24 @@
       "next_block_id": "txt_0124",
       "image_hash": "e102e5bca11df8541a95201ca294eb45b154dc9f013552cd8551a92c1cbc0101",
       "width": 345,
-      "height": 293
+      "height": 293,
+      "section_id": "sec_auto_146",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_auto_146",
+          "title": "GA Workplace"
+        }
+      ],
+      "page": 14,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "caption",
@@ -53,6 +87,24 @@
         "b": 431.73999999999995
       },
       "content": "Rear view, GA 37 +  up to GA 75 Workplace",
+      "section_id": "sec_auto_146",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_auto_146",
+          "title": "GA Workplace"
+        }
+      ],
+      "page": 14,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_tbl_0005",
+      "source": "pdf_text",
       "caption_for": "tbl_0005"
     },
     {
@@ -67,9 +119,27 @@
         "b": 230.04766845703125
       },
       "markdown": "| Reference   | Name                              |\n|-------------|-----------------------------------|\n| AV          | Air outlet valve                  |\n| Ca          | Air cooler                        |\n| Co          | Oil cooler                        |\n| CV/Vs       | Check valve/oil stop valve        |\n| Da          | Automatic condensate outlet       |\n| E           | Compressor element                |\n| ER          | Elektronikon® Graphic controller  |\n| FN          | Cooling fan                       |\n| HC          | Energy recovery system (optional) |\n| M1          | Drive motor                       |\n| S3          | Emergency stop button             |\n| UA          | Unloader                          |\n| VP          | Vent plug                         |",
-      "caption_id": "txt_0124",
       "rows": 14,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_auto_146",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_auto_146",
+          "title": "GA Workplace"
+        }
+      ],
+      "page": 14,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "group_id": "grp_tbl_0005",
+      "source": "pdf_text",
+      "caption_id": "txt_0124"
     },
     {
       "type": "heading",
@@ -84,7 +154,23 @@
       },
       "content": "GA Workplace Full-Feature",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_155",
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_auto_155",
+          "title": "GA Workplace Full-Feature"
+        }
+      ],
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "page": 14,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -97,7 +183,24 @@
         "r": 533.7755000000008,
         "b": 112.80420000000004
       },
-      "content": "GA Workplace Full-Feature are enclosed in a sound-insulated bodywork. The compressors are controlled by the Atlas Copco Elektronikon® regulator. The electronic control module is fitted to the door on the right side.An electric cabinet comprising the motor starter is located behind this panel. They are provided with an air dryer. The condensate is automatically drained.The dryer is integrated in the sound-insulated body work. The dryer removes water from the compressed air by cooling the air to near freezing point."
+      "content": "GA Workplace Full-Feature are enclosed in a sound-insulated bodywork. The compressors are controlled by the Atlas Copco Elektronikon® regulator. The electronic control module is fitted to the door on the right side.An electric cabinet comprising the motor starter is located behind this panel. They are provided with an air dryer. The condensate is automatically drained.The dryer is integrated in the sound-insulated body work. The dryer removes water from the compressed air by cooling the air to near freezing point.",
+      "section_id": "sec_auto_155",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_auto_155",
+          "title": "GA Workplace Full-Feature"
+        }
+      ],
+      "page": 14,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

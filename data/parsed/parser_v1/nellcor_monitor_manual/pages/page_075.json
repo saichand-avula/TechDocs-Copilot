@@ -19,12 +19,30 @@
       },
       "image_path": "figures/figure_0105.png",
       "next_block_id": "txt_0759",
-      "caption_id": "txt_0759",
       "caption": ". N5500 Exploded View",
       "figure_number": "Figure 8",
       "image_hash": "2f5f165bc4fc4d84a5c3fa4d1a61ce08a5738872fb4adb7f0feabaef1917aca5",
       "width": 445,
-      "height": 566
+      "height": 566,
+      "section_id": "sec_7_3",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6. Turn monitor off."
+        },
+        {
+          "id": "sec_7_3",
+          "title": "7.3    Parts List"
+        }
+      ],
+      "page": 75,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0105",
+      "source": "pdf_text",
+      "caption_id": "txt_0759"
     },
     {
       "type": "caption",
@@ -38,6 +56,24 @@
         "b": 93.9375
       },
       "content": "Figure 8. N5500 Exploded View",
+      "section_id": "sec_7_3",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6. Turn monitor off."
+        },
+        {
+          "id": "sec_7_3",
+          "title": "7.3    Parts List"
+        }
+      ],
+      "page": 75,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0105",
+      "source": "pdf_text",
       "caption_for": "fig_0105"
     }
   ],

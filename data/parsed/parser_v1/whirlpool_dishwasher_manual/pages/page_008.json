@@ -17,7 +17,24 @@
         "r": 34.2339244,
         "b": 7.105643343589691
       },
-      "content": "6"
+      "content": "6",
+      "section_id": "sec_auto_106",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 Dishwasher Care DISHWASHER CARE"
+        },
+        {
+          "id": "sec_auto_106",
+          "title": "Cleaning and Maintaining the Interior"
+        }
+      ],
+      "page": 8,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -30,7 +47,24 @@
         "r": 55.66668080000001,
         "b": 712.5872088820512
       },
-      "content": "18"
+      "content": "18",
+      "section_id": "sec_auto_106",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 Dishwasher Care DISHWASHER CARE"
+        },
+        {
+          "id": "sec_auto_106",
+          "title": "Cleaning and Maintaining the Interior"
+        }
+      ],
+      "page": 8,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -43,7 +77,24 @@
         "r": 64.05547440000001,
         "b": 712.5771980882353
       },
-      "content": "\""
+      "content": "\"",
+      "section_id": "sec_auto_106",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 Dishwasher Care DISHWASHER CARE"
+        },
+        {
+          "id": "sec_auto_106",
+          "title": "Cleaning and Maintaining the Interior"
+        }
+      ],
+      "page": 8,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -57,8 +108,21 @@
         "b": 712.5872088820512
       },
       "content": "18' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "18",
+      "section_id": "sec_18",
+      "section_path": [
+        {
+          "id": "sec_18",
+          "title": "18' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 8,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -74,11 +138,25 @@
       "image_path": "figures/figure_0011.png",
       "previous_block_id": "txt_0104",
       "next_block_id": "txt_0105",
-      "caption_id": "txt_0105",
       "caption": "Side View 18\" Custom Wood Panel",
       "image_hash": "f3a5bab9fc8bfe4d56806720447107aa69b99d1dbb3b4dea38321720e637fa57",
       "width": 177,
-      "height": 221
+      "height": 221,
+      "section_id": "sec_18",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_18",
+          "title": "18' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        }
+      ],
+      "page": 8,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0011",
+      "source": "pdf_text",
+      "caption_id": "txt_0105"
     },
     {
       "type": "caption",
@@ -92,6 +170,20 @@
         "b": 465.89630102941175
       },
       "content": "Side View 18\" Custom Wood Panel",
+      "section_id": "sec_18",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_18",
+          "title": "18' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        }
+      ],
+      "page": 8,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0011",
+      "source": "pdf_text",
       "caption_for": "fig_0011"
     },
     {
@@ -108,11 +200,25 @@
       "image_path": "figures/figure_0012.png",
       "previous_block_id": "txt_0105",
       "next_block_id": "txt_0106",
-      "caption_id": "txt_0106",
       "caption": "NOTE: Route the water supply line and power cable through the channels provided under the dishwasher (circled above).",
       "image_hash": "bc31d382a21c2d06e7f4caab251687663cfd77f1467ba940956f1b2527dc3856",
       "width": 187,
-      "height": 233
+      "height": 233,
+      "section_id": "sec_18",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_18",
+          "title": "18' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        }
+      ],
+      "page": 8,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0012",
+      "source": "pdf_text",
+      "caption_id": "txt_0106"
     },
     {
       "type": "caption",
@@ -126,6 +232,20 @@
         "b": 180.51212976470583
       },
       "content": "NOTE: Route the water supply line and power cable through the channels provided under the dishwasher (circled above).",
+      "section_id": "sec_18",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_18",
+          "title": "18' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        }
+      ],
+      "page": 8,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0012",
+      "source": "pdf_text",
       "caption_for": "fig_0012"
     },
     {
@@ -139,7 +259,21 @@
         "r": 72.4687,
         "b": 32.765719354838666
       },
-      "content": "n"
+      "content": "n",
+      "section_id": "sec_18",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_18",
+          "title": "18' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        }
+      ],
+      "page": 8,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text",
+      "group_id": "grp_fig_0012"
     },
     {
       "type": "figure",
@@ -155,11 +289,25 @@
       "image_path": "figures/figure_0013.png",
       "previous_block_id": "txt_0107",
       "next_block_id": "txt_0108",
-      "caption_id": "txt_0108",
       "caption": "Side View 18\" Metal Door Panel",
       "image_hash": "8cbe909fcd2159c05005660cb268702ca454d949dca854fac01bf987bfcf8cef",
       "width": 178,
-      "height": 222
+      "height": 222,
+      "section_id": "sec_18",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_18",
+          "title": "18' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        }
+      ],
+      "page": 8,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0013",
+      "source": "pdf_text",
+      "caption_id": "txt_0108"
     },
     {
       "type": "caption",
@@ -173,6 +321,20 @@
         "b": 466.53570102941177
       },
       "content": "Side View 18\" Metal Door Panel",
+      "section_id": "sec_18",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_18",
+          "title": "18' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        }
+      ],
+      "page": 8,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0013",
+      "source": "pdf_text",
       "caption_for": "fig_0013"
     },
     {
@@ -189,11 +351,25 @@
       "image_path": "figures/figure_0014.png",
       "previous_block_id": "txt_0108",
       "next_block_id": "txt_0109",
-      "caption_id": "txt_0109",
       "caption": "Cutout Dimensions",
       "image_hash": "274f08a1ed17b6cb729a5dcba192e72ec82e30510831893ea9a23144d0d76e29",
       "width": 247,
-      "height": 225
+      "height": 225,
+      "section_id": "sec_18",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_18",
+          "title": "18' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        }
+      ],
+      "page": 8,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0014",
+      "source": "pdf_text",
+      "caption_id": "txt_0109"
     },
     {
       "type": "caption",
@@ -207,6 +383,20 @@
         "b": 202.89390102941184
       },
       "content": "Cutout Dimensions",
+      "section_id": "sec_18",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_18",
+          "title": "18' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        }
+      ],
+      "page": 8,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0014",
+      "source": "pdf_text",
       "caption_for": "fig_0014"
     },
     {
@@ -222,7 +412,23 @@
       },
       "content": "Underside of countertop to floor",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_125",
+      "section_path": [
+        {
+          "id": "sec_18",
+          "title": "18' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_125",
+          "title": "Underside of countertop to floor"
+        }
+      ],
+      "parent_section_id": "sec_18",
+      "section_level": 2,
+      "page": 8,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -235,7 +441,24 @@
         "r": 542.970012,
         "b": 162.33832976470592
       },
-      "content": "The enclosure must be at least 18\" wide, 24\" (61 cm) deep, and 32½\" (82.5 cm) high."
+      "content": "The enclosure must be at least 18\" wide, 24\" (61 cm) deep, and 32½\" (82.5 cm) high.",
+      "section_id": "sec_auto_125",
+      "parent_section_id": "sec_18",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_18",
+          "title": "18' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_125",
+          "title": "Underside of countertop to floor"
+        }
+      ],
+      "page": 8,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -248,7 +471,24 @@
         "r": 536.177892,
         "b": 130.56729476470593
       },
-      "content": "For the front door of the dishwasher to be flush with the leading edge of the counter top, the counter top must be at least 24\" (61 cm) deep."
+      "content": "For the front door of the dishwasher to be flush with the leading edge of the counter top, the counter top must be at least 24\" (61 cm) deep.",
+      "section_id": "sec_auto_125",
+      "parent_section_id": "sec_18",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_18",
+          "title": "18' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_125",
+          "title": "Underside of countertop to floor"
+        }
+      ],
+      "page": 8,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -261,7 +501,24 @@
         "r": 544.927215,
         "b": 108.7252667647059
       },
-      "content": "This dishwasher is designed to be enclosed on the top and on both sides by a standard residential kitchen cabinet unit."
+      "content": "This dishwasher is designed to be enclosed on the top and on both sides by a standard residential kitchen cabinet unit.",
+      "section_id": "sec_auto_125",
+      "parent_section_id": "sec_18",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_18",
+          "title": "18' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_125",
+          "title": "Underside of countertop to floor"
+        }
+      ],
+      "page": 8,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -274,7 +531,24 @@
         "r": 529.2070320000001,
         "b": 86.88323876470588
       },
-      "content": "The installation enclosure must be clean and free of any obstructions."
+      "content": "The installation enclosure must be clean and free of any obstructions.",
+      "section_id": "sec_auto_125",
+      "parent_section_id": "sec_18",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_18",
+          "title": "18' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_125",
+          "title": "Underside of countertop to floor"
+        }
+      ],
+      "page": 8,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "admonition",
@@ -288,7 +562,24 @@
         "b": 55.094036764705834
       },
       "content": "NOTE: ADA installation, 32½\" (82.5 cm) beneath 34\" (86.4 cm) high countertops may be accomplished by adjusting the toekick and leveling legs.",
-      "severity": "note"
+      "severity": "note",
+      "section_id": "sec_auto_125",
+      "parent_section_id": "sec_18",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_18",
+          "title": "18' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_125",
+          "title": "Underside of countertop to floor"
+        }
+      ],
+      "page": 8,
+      "chunk_hint": "admonition",
+      "semantic_role": "note",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

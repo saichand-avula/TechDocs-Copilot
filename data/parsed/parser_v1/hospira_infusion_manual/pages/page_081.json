@@ -18,9 +18,31 @@
         "b": 531.7115478515625
       },
       "markdown": "| Table 6-2. Operational Alarm Messages and Corrective Actions   | Table 6-2. Operational Alarm Messages and Corrective Actions   | Table 6-2. Operational Alarm Messages and Corrective Actions   | Table 6-2. Operational Alarm Messages and Corrective Actions                                | Table 6-2. Operational Alarm Messages and Corrective Actions   |\n|----------------------------------------------------------------|----------------------------------------------------------------|----------------------------------------------------------------|---------------------------------------------------------------------------------------------|----------------------------------------------------------------|\n| Alarm Code                                                     | Alarm                                                          | Description                                                    | Possible Cause                                                                              | Corrective Action                                              |\n| N255 (SLV)                                                     | Lockout violation                                              | Soft lockout violation                                         | The use of the [STOP] key or an attempt to open the door while the lockout switch is locked | Unlock the software lockout switch                             |\n| N256 (SLV)                                                     | Lockout enabled                                                | Soft lockout enabled                                           | Any action not resulting in stopping of delivery while the lockout switch is locked         | Unlock the software lockout switch                             |",
-      "caption_id": "txt_0762",
       "rows": 4,
-      "cols": 5
+      "cols": 5,
+      "section_id": "sec_6_3_1",
+      "parent_section_id": "sec_6_3",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_6_3",
+          "title": "6.3 ALARM MESSAGES AND ERROR CODES"
+        },
+        {
+          "id": "sec_6_3_1",
+          "title": "6.3.1 OPERATIONAL ALARM MESSAGES"
+        }
+      ],
+      "page": 81,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "group_id": "grp_tbl_0029",
+      "source": "pdf_text",
+      "caption_id": "txt_0762"
     },
     {
       "type": "heading",
@@ -34,8 +56,29 @@
         "b": 496.8695502479339
       },
       "content": "6.3.2",
-      "level": 2,
-      "role": "section"
+      "level": 3,
+      "section_number": "6.3.2",
+      "section_id": "sec_6_3_2",
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_6_3",
+          "title": "6.3 ALARM MESSAGES AND ERROR CODES"
+        },
+        {
+          "id": "sec_6_3_2",
+          "title": "6.3.2"
+        }
+      ],
+      "parent_section_id": "sec_6_3",
+      "section_level": 3,
+      "page": 81,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -50,7 +93,23 @@
       },
       "content": "ERROR CODES REQUIRING TECHNICAL SERVICE",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_822",
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_auto_822",
+          "title": "ERROR CODES REQUIRING TECHNICAL SERVICE"
+        }
+      ],
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "page": 81,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "caption",
@@ -64,6 +123,24 @@
         "b": 444.1075148800328
       },
       "content": "Table 6-3 lists infuser error codes that require technical service. Also listed in Table 6-3 are malfunction descriptions, possible causes, and corrective actions.",
+      "section_id": "sec_auto_822",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_auto_822",
+          "title": "ERROR CODES REQUIRING TECHNICAL SERVICE"
+        }
+      ],
+      "page": 81,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_tbl_0029",
+      "source": "pdf_text",
       "caption_for": "tbl_0029"
     },
     {
@@ -81,7 +158,24 @@
       "title": "Table 6-3 lists infuser error codes that require technical service. Also listed in Table 6-3 are malfunction descriptions, possible causes, and corrective actions.",
       "table_number": "Table 6-3",
       "rows": 5,
-      "cols": 4
+      "cols": 4,
+      "section_id": "sec_auto_822",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_auto_822",
+          "title": "ERROR CODES REQUIRING TECHNICAL SERVICE"
+        }
+      ],
+      "page": 81,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

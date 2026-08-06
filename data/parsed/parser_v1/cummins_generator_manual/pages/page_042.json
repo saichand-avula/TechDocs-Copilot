@@ -19,12 +19,30 @@
       },
       "image_path": "figures/figure_0027.png",
       "next_block_id": "txt_0480",
-      "caption_id": "txt_0480",
       "caption": ". DYNAMIC ROTOR/STATOR TEST",
       "figure_number": "FIGURE 7-6",
       "image_hash": "834832a39ebe3766520a691a16d57c8f392509dbbf2f3954710e81b2c7ea6105",
       "width": 519,
-      "height": 367
+      "height": 367,
+      "section_id": "sec_auto_496",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. Generator Set/Regulator Tests"
+        },
+        {
+          "id": "sec_auto_496",
+          "title": "[D] DYNAMIC ROTOR/STATOR TEST"
+        }
+      ],
+      "page": 42,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0027",
+      "source": "pdf_text",
+      "caption_id": "txt_0480"
     },
     {
       "type": "caption",
@@ -38,6 +56,24 @@
         "b": 350.9639569398876
       },
       "content": "FIGURE 7-6. DYNAMIC ROTOR/STATOR TEST",
+      "section_id": "sec_auto_496",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. Generator Set/Regulator Tests"
+        },
+        {
+          "id": "sec_auto_496",
+          "title": "[D] DYNAMIC ROTOR/STATOR TEST"
+        }
+      ],
+      "page": 42,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0027",
+      "source": "pdf_text",
       "caption_for": "fig_0027"
     }
   ],

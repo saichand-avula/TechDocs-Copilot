@@ -22,7 +22,24 @@
       "width": 47,
       "height": 23,
       "decorative": true,
-      "image_hash": "7577891dcf1743bd2e7a735ef2621e01244d960bde43e28868c27d7c1437ddb9"
+      "image_hash": "7577891dcf1743bd2e7a735ef2621e01244d960bde43e28868c27d7c1437ddb9",
+      "section_id": "sec_auto_745",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4       OSCi (optional)"
+        },
+        {
+          "id": "sec_auto_745",
+          "title": "General"
+        }
+      ],
+      "page": 72,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -39,7 +56,24 @@
       "next_block_id": "txt_0500",
       "image_hash": "3e1ea4aaca7c0ebe8cccf2892bcde67ef56b16067b091494d1e6915f31c04e40",
       "width": 306,
-      "height": 364
+      "height": 364,
+      "section_id": "sec_auto_745",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4       OSCi (optional)"
+        },
+        {
+          "id": "sec_auto_745",
+          "title": "General"
+        }
+      ],
+      "page": 72,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "caption",
@@ -53,6 +87,24 @@
         "b": 373.35999999999996
       },
       "content": "View of OSCi",
+      "section_id": "sec_auto_745",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4       OSCi (optional)"
+        },
+        {
+          "id": "sec_auto_745",
+          "title": "General"
+        }
+      ],
+      "page": 72,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_tbl_0057",
+      "source": "pdf_text",
       "caption_for": "tbl_0057"
     },
     {
@@ -67,9 +119,27 @@
         "b": 211.9765625
       },
       "markdown": "|   1 | Clamping ring                                                             |\n|-----|---------------------------------------------------------------------------|\n|   2 | Foam cover                                                                |\n|   3 | Location of sample bottles and connection material (during shipping only) |\n|   4 | Service drains with valve                                                 |\n|   5 | Fixation bolts                                                            |\n|   6 | Wire and tube clamp                                                       |\n|   7 | Overflow switch                                                           |\n|   8 | Filter position sensor and visual indication of the filter position       |",
-      "caption_id": "txt_0500",
       "rows": 8,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_auto_745",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4       OSCi (optional)"
+        },
+        {
+          "id": "sec_auto_745",
+          "title": "General"
+        }
+      ],
+      "page": 72,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "group_id": "grp_tbl_0057",
+      "source": "pdf_text",
+      "caption_id": "txt_0500"
     }
   ],
   "page_stats": {

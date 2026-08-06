@@ -19,11 +19,33 @@
       },
       "image_path": "figures/figure_0450.png",
       "next_block_id": "txt_1939",
-      "caption_id": "txt_1939",
       "caption": "FOR18K",
       "image_hash": "1b5a7ced567af35941dfd10f6a29e49569f3d558ce4f27840fd94394f03a32d9",
       "width": 428,
-      "height": 492
+      "height": 492,
+      "section_id": "sec_10_2_1",
+      "parent_section_id": "sec_10_2",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_10_2",
+          "title": "10.2 Wiring Diagrams"
+        },
+        {
+          "id": "sec_10_2_1",
+          "title": "10.2.1. INDOORUNIT FOR12K"
+        }
+      ],
+      "page": 231,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0450",
+      "source": "pdf_text",
+      "caption_id": "txt_1939"
     },
     {
       "type": "caption",
@@ -37,6 +59,28 @@
         "b": 701.164935
       },
       "content": "FOR18K",
+      "section_id": "sec_10_2_1",
+      "parent_section_id": "sec_10_2",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_10_2",
+          "title": "10.2 Wiring Diagrams"
+        },
+        {
+          "id": "sec_10_2_1",
+          "title": "10.2.1. INDOORUNIT FOR12K"
+        }
+      ],
+      "page": 231,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0450",
+      "source": "pdf_text",
       "caption_for": "fig_0450"
     }
   ],

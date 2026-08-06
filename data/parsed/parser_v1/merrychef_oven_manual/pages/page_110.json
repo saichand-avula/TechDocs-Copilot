@@ -17,7 +17,24 @@
         "r": 42.7296,
         "b": 791.5826731190363
       },
-      "content": "7 CIRCUIT BOARDS AND DIAGRAMS"
+      "content": "7 CIRCUIT BOARDS AND DIAGRAMS",
+      "section_id": "sec_auto_1865",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7 Circuit boards and diagrams"
+        },
+        {
+          "id": "sec_auto_1865",
+          "title": "2000W Ovens"
+        }
+      ],
+      "page": 110,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -32,7 +49,23 @@
       },
       "content": "IO BOARD",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1871",
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7 Circuit boards and diagrams"
+        },
+        {
+          "id": "sec_auto_1871",
+          "title": "IO BOARD"
+        }
+      ],
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "page": 110,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -50,7 +83,24 @@
       "next_block_id": "txt_1432",
       "image_hash": "2084886b2f50176ae836a7426ee299e1d3996299dbeecd3340e9952d01d44ad4",
       "width": 520,
-      "height": 353
+      "height": 353,
+      "section_id": "sec_auto_1871",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7 Circuit boards and diagrams"
+        },
+        {
+          "id": "sec_auto_1871",
+          "title": "IO BOARD"
+        }
+      ],
+      "page": 110,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "caption",
@@ -64,6 +114,24 @@
         "b": 366.9783344167462
       },
       "content": "IO Board LV Connections",
+      "section_id": "sec_auto_1871",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7 Circuit boards and diagrams"
+        },
+        {
+          "id": "sec_auto_1871",
+          "title": "IO BOARD"
+        }
+      ],
+      "page": 110,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0375",
+      "source": "pdf_text",
       "caption_for": "fig_0375"
     },
     {
@@ -80,11 +148,29 @@
       "image_path": "figures/figure_0375.png",
       "previous_block_id": "txt_1432",
       "next_block_id": "txt_1433",
-      "caption_id": "txt_1432",
       "caption": "IO Board LV Connections",
       "image_hash": "3b2fa78d8fd2dba48a263974989db7ea4cabd4bd990a6b0095d9f58f9a11ab4e",
       "width": 239,
-      "height": 231
+      "height": 231,
+      "section_id": "sec_auto_1871",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7 Circuit boards and diagrams"
+        },
+        {
+          "id": "sec_auto_1871",
+          "title": "IO BOARD"
+        }
+      ],
+      "page": 110,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0375",
+      "source": "pdf_text",
+      "caption_id": "txt_1432"
     },
     {
       "type": "paragraph",
@@ -97,7 +183,24 @@
         "r": 538.506,
         "b": 367.45533441674615
       },
-      "content": "Notes: Standard power versions (Centre Magnetron only)"
+      "content": "Notes: Standard power versions (Centre Magnetron only)",
+      "section_id": "sec_auto_1871",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7 Circuit boards and diagrams"
+        },
+        {
+          "id": "sec_auto_1871",
+          "title": "IO BOARD"
+        }
+      ],
+      "page": 110,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -110,7 +213,24 @@
         "r": 381.0689999999999,
         "b": 352.21833441674613
       },
-      "content": "X514. Link fitted"
+      "content": "X514. Link fitted",
+      "section_id": "sec_auto_1871",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7 Circuit boards and diagrams"
+        },
+        {
+          "id": "sec_auto_1871",
+          "title": "IO BOARD"
+        }
+      ],
+      "page": 110,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -123,7 +243,24 @@
         "r": 419.8229999999999,
         "b": 336.85533441674613
       },
-      "content": "X112. Pins 1 & 2 not used"
+      "content": "X112. Pins 1 & 2 not used",
+      "section_id": "sec_auto_1871",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7 Circuit boards and diagrams"
+        },
+        {
+          "id": "sec_auto_1871",
+          "title": "IO BOARD"
+        }
+      ],
+      "page": 110,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -136,7 +273,24 @@
         "r": 377.3429999999999,
         "b": 321.3753344167461
       },
-      "content": "X411. Not used"
+      "content": "X411. Not used",
+      "section_id": "sec_auto_1871",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7 Circuit boards and diagrams"
+        },
+        {
+          "id": "sec_auto_1871",
+          "title": "IO BOARD"
+        }
+      ],
+      "page": 110,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

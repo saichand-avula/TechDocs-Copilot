@@ -18,8 +18,29 @@
         "b": 761.20329
       },
       "content": "7.3.3    IPM protection",
-      "level": 2,
-      "role": "section"
+      "level": 3,
+      "section_number": "7.3.3",
+      "section_id": "sec_7_3_3",
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_2411",
+          "title": "Notes:the  a/c  is  electrifying,don't  pull  out  or  insert  the  terminals  of  the motor,else the motor would be damaged"
+        },
+        {
+          "id": "sec_7_3_3",
+          "title": "7.3.3    IPM protection"
+        }
+      ],
+      "parent_section_id": "sec_auto_2411",
+      "section_level": 3,
+      "page": 220,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -34,7 +55,23 @@
       },
       "content": "outdoor display",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_2417",
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_2417",
+          "title": "outdoor display"
+        }
+      ],
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "page": 220,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -47,7 +84,24 @@
         "r": 264.84249492000015,
         "b": 728.6456380000001
       },
-      "content": "LED1    flash    2    times:"
+      "content": "LED1    flash    2    times:",
+      "section_id": "sec_auto_2417",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_2417",
+          "title": "outdoor display"
+        }
+      ],
+      "page": 220,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -60,7 +114,24 @@
         "r": 364.91434375999995,
         "b": 728.6456380000001
       },
-      "content": "Indoor Display    F1"
+      "content": "Indoor Display    F1",
+      "section_id": "sec_auto_2417",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_2417",
+          "title": "outdoor display"
+        }
+      ],
+      "page": 220,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -73,7 +144,24 @@
         "r": 517.3946627599997,
         "b": 689.9935380000001
       },
-      "content": "IPM protection is detected by checking the compressor running condition and so on."
+      "content": "IPM protection is detected by checking the compressor running condition and so on.",
+      "section_id": "sec_auto_2417",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_2417",
+          "title": "outdoor display"
+        }
+      ],
+      "page": 220,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -88,7 +176,23 @@
       },
       "content": "Method of Malfunction Detection",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_2421",
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_2421",
+          "title": "Method of Malfunction Detection"
+        }
+      ],
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "page": 220,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -103,7 +207,23 @@
       },
       "content": "Malfunction Decision",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_2422",
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_2422",
+          "title": "Malfunction Decision"
+        }
+      ],
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "page": 220,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -116,7 +236,24 @@
         "r": 405.45223267000017,
         "b": 640.6133274875
       },
-      "content": "Ƶ The system leads to IPM protection due to over current"
+      "content": "Ƶ The system leads to IPM protection due to over current",
+      "section_id": "sec_auto_2422",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_2422",
+          "title": "Malfunction Decision"
+        }
+      ],
+      "page": 220,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -129,7 +266,24 @@
         "r": 369.41490436000004,
         "b": 627.6916274875
       },
-      "content": "Ƶ The compressor faulty leads to IPM protection"
+      "content": "Ƶ The compressor faulty leads to IPM protection",
+      "section_id": "sec_auto_2422",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_2422",
+          "title": "Malfunction Decision"
+        }
+      ],
+      "page": 220,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -142,7 +296,24 @@
         "r": 111.87557833000002,
         "b": 615.32622418
       },
-      "content": "Conditions"
+      "content": "Conditions",
+      "section_id": "sec_auto_2422",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_2422",
+          "title": "Malfunction Decision"
+        }
+      ],
+      "page": 220,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -155,7 +326,24 @@
         "r": 433.07776270000096,
         "b": 614.7669274875
       },
-      "content": "Ƶ circuit component of IPM is broken and led to IPM protection"
+      "content": "Ƶ circuit component of IPM is broken and led to IPM protection",
+      "section_id": "sec_auto_2422",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_2422",
+          "title": "Malfunction Decision"
+        }
+      ],
+      "page": 220,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -170,7 +358,23 @@
       },
       "content": "Supposed Causes",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_2427",
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_2427",
+          "title": "Supposed Causes"
+        }
+      ],
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "page": 220,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -183,7 +387,24 @@
         "r": 375.39548007,
         "b": 588.2608274875
       },
-      "content": "Ƶ IPM protection dues to the compressor faulty"
+      "content": "Ƶ IPM protection dues to the compressor faulty",
+      "section_id": "sec_auto_2427",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_2427",
+          "title": "Supposed Causes"
+        }
+      ],
+      "page": 220,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -196,7 +417,24 @@
         "r": 426.3394820399994,
         "b": 575.3361274875
       },
-      "content": "Ƶ IPM protection dues to faulty PCB of IPM module"
+      "content": "Ƶ IPM protection dues to faulty PCB of IPM module",
+      "section_id": "sec_auto_2427",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_2427",
+          "title": "Supposed Causes"
+        }
+      ],
+      "page": 220,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -209,7 +447,24 @@
         "r": 311.50185887999976,
         "b": 561.925514000532
       },
-      "content": "Ƶ Compressor wiring disconnected"
+      "content": "Ƶ Compressor wiring disconnected",
+      "section_id": "sec_auto_2427",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_2427",
+          "title": "Supposed Causes"
+        }
+      ],
+      "page": 220,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -222,7 +477,24 @@
         "r": 551.7400100900007,
         "b": 521.4427890000001
       },
-      "content": "Troubleshooting        * Caution Be sure to turn off power switch before connect or disconnect connector,      or else parts damage may be occurred."
+      "content": "Troubleshooting        * Caution Be sure to turn off power switch before connect or disconnect connector,      or else parts damage may be occurred.",
+      "section_id": "sec_auto_2427",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_2427",
+          "title": "Supposed Causes"
+        }
+      ],
+      "page": 220,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -240,7 +512,24 @@
       "next_block_id": "txt_1869",
       "image_hash": "b29e1e9061b130a980b203c4a78330a8b99beb26aaec095712ed1d9b010a6b7a",
       "width": 394,
-      "height": 325
+      "height": 325,
+      "section_id": "sec_auto_2427",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_2427",
+          "title": "Supposed Causes"
+        }
+      ],
+      "page": 220,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -255,7 +544,23 @@
       },
       "content": "Check the IPM module method:",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_2433",
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_2433",
+          "title": "Check the IPM module method:"
+        }
+      ],
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "page": 220,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -268,7 +573,24 @@
         "r": 443.4528544699992,
         "b": 150.18259799999998
       },
-      "content": "Disconnect the compressor harness connector from the outdoor unit PCB."
+      "content": "Disconnect the compressor harness connector from the outdoor unit PCB.",
+      "section_id": "sec_auto_2433",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_2433",
+          "title": "Check the IPM module method:"
+        }
+      ],
+      "page": 220,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -281,7 +603,24 @@
         "r": 406.7578379299994,
         "b": 138.69156799999996
       },
-      "content": "To disengage the connector, press the protrusion on the connector."
+      "content": "To disengage the connector, press the protrusion on the connector.",
+      "section_id": "sec_auto_2433",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_2433",
+          "title": "Check the IPM module method:"
+        }
+      ],
+      "page": 220,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -294,7 +633,24 @@
         "r": 550.786127439999,
         "b": 104.27943042000004
       },
-      "content": "Then, to measure resistance between P (+) andN (-) and the U, V and W terminals of the compressor  connector  with  a  multi-tester.  Evaluate  the  measurement  results  for  a  pass/fail judgment."
+      "content": "Then, to measure resistance between P (+) andN (-) and the U, V and W terminals of the compressor  connector  with  a  multi-tester.  Evaluate  the  measurement  results  for  a  pass/fail judgment.",
+      "section_id": "sec_auto_2433",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_2433",
+          "title": "Check the IPM module method:"
+        }
+      ],
+      "page": 220,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -309,7 +665,24 @@
       },
       "markdown": "| N(-)terminal tester)   | of   | tester(P(+)for   | digital   | P(+)   | UVW P(-)   | UVW   |\n|------------------------|------|------------------|-----------|--------|------------|-------|\n| P(+)terminal           | of   | tester(N(-)for   | digital   | UVW    | P(+) UVW   | P(-)  |",
       "rows": 2,
-      "cols": 7
+      "cols": 7,
+      "section_id": "sec_auto_2433",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_2433",
+          "title": "Check the IPM module method:"
+        }
+      ],
+      "page": 220,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

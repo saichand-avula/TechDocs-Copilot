@@ -19,7 +19,23 @@
       },
       "content": "i. Remove the formatter case.",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_6698",
+      "section_path": [
+        {
+          "id": "sec_13",
+          "title": "13. Remove the right cover."
+        },
+        {
+          "id": "sec_auto_6698",
+          "title": "i. Remove the formatter case."
+        }
+      ],
+      "parent_section_id": "sec_13",
+      "section_level": 2,
+      "page": 646,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -38,7 +54,24 @@
       "height": 12,
       "image_hash": "159a5d381c9808a3a15aed7c6aefb573e56eaf276b9dc157b58556572414e985",
       "previous_block_id": "txt_4822",
-      "next_block_id": "txt_4823"
+      "next_block_id": "txt_4823",
+      "section_id": "sec_auto_6698",
+      "parent_section_id": "sec_13",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_13",
+          "title": "13. Remove the right cover."
+        },
+        {
+          "id": "sec_auto_6698",
+          "title": "i. Remove the formatter case."
+        }
+      ],
+      "page": 646,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "admonition",
@@ -52,7 +85,24 @@
         "b": 685.2
       },
       "content": "NOTE: WiFi models only: If the formatter case is being replaced, make sure that the WiFi PCA and bracket (callout 1) are transferred to the replacement case.",
-      "severity": "note"
+      "severity": "note",
+      "section_id": "sec_auto_6698",
+      "parent_section_id": "sec_13",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_13",
+          "title": "13. Remove the right cover."
+        },
+        {
+          "id": "sec_auto_6698",
+          "title": "i. Remove the formatter case."
+        }
+      ],
+      "page": 646,
+      "chunk_hint": "admonition",
+      "semantic_role": "note",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -73,6 +123,24 @@
       "height": 217,
       "previous_block_id": "txt_4823",
       "next_block_id": "txt_4824",
+      "section_id": "sec_auto_6698",
+      "parent_section_id": "sec_13",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_13",
+          "title": "13. Remove the right cover."
+        },
+        {
+          "id": "sec_auto_6698",
+          "title": "i. Remove the formatter case."
+        }
+      ],
+      "page": 646,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_1834",
+      "source": "pdf_text",
       "caption_id": "txt_4824"
     },
     {
@@ -87,6 +155,24 @@
         "b": 662.7
       },
       "content": "Figure 1-1080  Remove the formatter case",
+      "section_id": "sec_auto_6698",
+      "parent_section_id": "sec_13",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_13",
+          "title": "13. Remove the right cover."
+        },
+        {
+          "id": "sec_auto_6698",
+          "title": "i. Remove the formatter case."
+        }
+      ],
+      "page": 646,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_1834",
+      "source": "pdf_text",
       "caption_for": "fig_1834"
     },
     {
@@ -101,8 +187,21 @@
         "b": 421.83
       },
       "content": "20. Remove the LVPS.",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "20",
+      "section_id": "sec_20",
+      "section_path": [
+        {
+          "id": "sec_20",
+          "title": "20. Remove the LVPS."
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 646,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -115,7 +214,20 @@
         "r": 533.1700000000003,
         "b": 400.83
       },
-      "content": "Remove one screw (callout 1), and then move the power-switch assembly (callout 2) out of the way."
+      "content": "Remove one screw (callout 1), and then move the power-switch assembly (callout 2) out of the way.",
+      "section_id": "sec_20",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_20",
+          "title": "20. Remove the LVPS."
+        }
+      ],
+      "page": 646,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -136,6 +248,20 @@
       "height": 218,
       "previous_block_id": "txt_4826",
       "next_block_id": "txt_4827",
+      "section_id": "sec_20",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_20",
+          "title": "20. Remove the LVPS."
+        }
+      ],
+      "page": 646,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_1835",
+      "source": "pdf_text",
       "caption_id": "txt_4827"
     },
     {
@@ -150,6 +276,20 @@
         "b": 379.83
       },
       "content": "Figure 1-1081  Move the power-switch assembly",
+      "section_id": "sec_20",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_20",
+          "title": "20. Remove the LVPS."
+        }
+      ],
+      "page": 646,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_1835",
+      "source": "pdf_text",
       "caption_for": "fig_1835"
     }
   ],

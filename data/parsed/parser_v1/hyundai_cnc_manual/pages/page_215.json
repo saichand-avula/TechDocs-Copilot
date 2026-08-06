@@ -19,7 +19,20 @@
       },
       "markdown": "|   No. | Message                        | Contents                                                                                          |\n|-------|--------------------------------|---------------------------------------------------------------------------------------------------|\n|   382 | n AXIS: COUNT MISS (EXT)       | A pulse error occurred in the separate detector.                                                  |\n|   383 | n AXIS: PULSE MISS (EXT)       | A count error occurred in the separate detector.                                                  |\n|   384 | n AXIS: SOFT PHASE ALARM(EXT)  | The digital servo software detected invalid data in the separate detector.                        |\n|   385 | n AXIS: SERIAL DATA ERROR(EXT) | Communication data from the separate detector cannot be received.                                 |\n|   386 | n AXIS: DATA TRANSJERROR(EXT)  | A CRC or stop bit error occurred in the communication data being received from separate detector. |\n|   387 | n AXIS: ABNORMAL ENCODER(EXT)  | An error occurs in the separate detector. For details, contact the manufacturer of the scale.     |",
       "rows": 7,
-      "cols": 3
+      "cols": 3,
+      "section_id": "sec_5",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5) Serial pulse coder (SPC) alarms"
+        }
+      ],
+      "page": 215,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -32,7 +45,20 @@
         "r": 292.19170799999995,
         "b": 521.7829289281768
       },
-      "content": "The details of serial pulse coder alarm"
+      "content": "The details of serial pulse coder alarm",
+      "section_id": "sec_5",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5) Serial pulse coder (SPC) alarms"
+        }
+      ],
+      "page": 215,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -45,7 +71,20 @@
         "r": 527.3170199999997,
         "b": 487.82314492817676
       },
-      "content": "The details of serial pulse coder alarm are displayed in the diagnosis display (No. 202 and No.203) as shown below."
+      "content": "The details of serial pulse coder alarm are displayed in the diagnosis display (No. 202 and No.203) as shown below.",
+      "section_id": "sec_5",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5) Serial pulse coder (SPC) alarms"
+        }
+      ],
+      "page": 215,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -60,7 +99,20 @@
       },
       "markdown": "|     | #7#   | 6#   | 5#   | 4#   | 3#   | 2#   | 1#   | #0   |\n|-----|-------|------|------|------|------|------|------|------|\n| 202 |       | CSA  | BLA  | PHA  | PCA  | BZA  | CKA  | SPH  |",
       "rows": 2,
-      "cols": 8
+      "cols": 8,
+      "section_id": "sec_5",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5) Serial pulse coder (SPC) alarms"
+        }
+      ],
+      "page": 215,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -73,7 +125,20 @@
         "r": 148.098048,
         "b": 401.3030489281768
       },
-      "content": "#6(CSA)"
+      "content": "#6(CSA)",
+      "section_id": "sec_5",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5) Serial pulse coder (SPC) alarms"
+        }
+      ],
+      "page": 215,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -86,7 +151,20 @@
         "r": 362.706408,
         "b": 401.3030489281768
       },
-      "content": ":  The serial pulse coder is defective. Replace it."
+      "content": ":  The serial pulse coder is defective. Replace it.",
+      "section_id": "sec_5",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5) Serial pulse coder (SPC) alarms"
+        }
+      ],
+      "page": 215,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -99,7 +177,20 @@
         "r": 375.0039539999994,
         "b": 384.3231569281768
       },
-      "content": "#5(BLA) :  The battery voltage is low. Replace the batteries."
+      "content": "#5(BLA) :  The battery voltage is low. Replace the batteries.",
+      "section_id": "sec_5",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5) Serial pulse coder (SPC) alarms"
+        }
+      ],
+      "page": 215,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -112,7 +203,20 @@
         "r": 527.3420219999999,
         "b": 350.3032529281768
       },
-      "content": "#4(PHA) :  The serial pulse coder of feedback cable is defective. Replace the serial pulse coder or cable."
+      "content": "#4(PHA) :  The serial pulse coder of feedback cable is defective. Replace the serial pulse coder or cable.",
+      "section_id": "sec_5",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5) Serial pulse coder (SPC) alarms"
+        }
+      ],
+      "page": 215,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -125,7 +229,20 @@
         "r": 527.3249879999996,
         "b": 333.3233609281768
       },
-      "content": "#3(PCA) :  The  serial  pulse  coder  is  defective.  Replace  it.  #2(BZA)  :  The  pulse  coder  was"
+      "content": "#3(PCA) :  The  serial  pulse  coder  is  defective.  Replace  it.  #2(BZA)  :  The  pulse  coder  was",
+      "section_id": "sec_5",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5) Serial pulse coder (SPC) alarms"
+        }
+      ],
+      "page": 215,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -138,7 +255,20 @@
         "r": 321.0723059999999,
         "b": 316.2833489281768
       },
-      "content": "supplied with power for the first time."
+      "content": "supplied with power for the first time.",
+      "section_id": "sec_5",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5) Serial pulse coder (SPC) alarms"
+        }
+      ],
+      "page": 215,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -151,7 +281,20 @@
         "r": 351.58921799999996,
         "b": 299.30345692817673
       },
-      "content": "Make sure that the batteries are connected."
+      "content": "Make sure that the batteries are connected.",
+      "section_id": "sec_5",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5) Serial pulse coder (SPC) alarms"
+        }
+      ],
+      "page": 215,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -164,7 +307,20 @@
         "r": 515.6627099999986,
         "b": 282.3235649281768
       },
-      "content": "Turn the power off, then turn it on again and perform a reference position return."
+      "content": "Turn the power off, then turn it on again and perform a reference position return.",
+      "section_id": "sec_5",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5) Serial pulse coder (SPC) alarms"
+        }
+      ],
+      "page": 215,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -177,7 +333,20 @@
         "r": 365.46892199999996,
         "b": 265.28355292817673
       },
-      "content": "#1(CKA) :  The serial pulse coder is defective. Replace it."
+      "content": "#1(CKA) :  The serial pulse coder is defective. Replace it.",
+      "section_id": "sec_5",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5) Serial pulse coder (SPC) alarms"
+        }
+      ],
+      "page": 215,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -190,7 +359,20 @@
         "r": 527.3009400000011,
         "b": 248.30366092817678
       },
-      "content": "#0(SPH) :  The serial pulse coder or feedback cable is defective. Replace the serial pulse coder"
+      "content": "#0(SPH) :  The serial pulse coder or feedback cable is defective. Replace the serial pulse coder",
+      "section_id": "sec_5",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5) Serial pulse coder (SPC) alarms"
+        }
+      ],
+      "page": 215,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -203,7 +385,20 @@
         "r": 197.15596799999997,
         "b": 231.32376892817683
       },
-      "content": "or cable."
+      "content": "or cable.",
+      "section_id": "sec_5",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5) Serial pulse coder (SPC) alarms"
+        }
+      ],
+      "page": 215,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

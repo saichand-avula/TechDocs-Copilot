@@ -19,7 +19,20 @@
       },
       "content": "3.3 Performance Tests",
       "level": 2,
-      "role": "section"
+      "section_number": "3.3",
+      "section_id": "sec_3_3",
+      "section_path": [
+        {
+          "id": "sec_3_3",
+          "title": "3.3 Performance Tests"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 2,
+      "page": 17,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -32,7 +45,20 @@
         "r": 539.0664749999996,
         "b": 592.49625
       },
-      "content": "The battery charge and battery performance test should be performed before  monitor repairs whenever the battery is suspected as being a source of the problems. All other tests may be used  following repairs or during routine maintenance (if required by your local institution). Before performing the battery performance test, ensure that the battery is fully charged. This section is written using Nellcor factory-set power-up defaults. If your institution has preconfigured custom defaults, those values will be displayed."
+      "content": "The battery charge and battery performance test should be performed before  monitor repairs whenever the battery is suspected as being a source of the problems. All other tests may be used  following repairs or during routine maintenance (if required by your local institution). Before performing the battery performance test, ensure that the battery is fully charged. This section is written using Nellcor factory-set power-up defaults. If your institution has preconfigured custom defaults, those values will be displayed.",
+      "section_id": "sec_3_3",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3_3",
+          "title": "3.3 Performance Tests"
+        }
+      ],
+      "page": 17,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -46,8 +72,25 @@
         "b": 565.6875
       },
       "content": "3.3.1 Battery Charge",
-      "level": 2,
-      "role": "section"
+      "level": 3,
+      "section_number": "3.3.1",
+      "section_id": "sec_3_3_1",
+      "section_path": [
+        {
+          "id": "sec_3_3",
+          "title": "3.3 Performance Tests"
+        },
+        {
+          "id": "sec_3_3_1",
+          "title": "3.3.1 Battery Charge"
+        }
+      ],
+      "parent_section_id": "sec_3_3",
+      "section_level": 3,
+      "page": 17,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -60,7 +103,24 @@
         "r": 440.8109999999999,
         "b": 551.99625
       },
-      "content": "Connect monitor to AC power source using proper power cord."
+      "content": "Connect monitor to AC power source using proper power cord.",
+      "section_id": "sec_3_3_1",
+      "parent_section_id": "sec_3_3",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3_3",
+          "title": "3.3 Performance Tests"
+        },
+        {
+          "id": "sec_3_3_1",
+          "title": "3.3.1 Battery Charge"
+        }
+      ],
+      "page": 17,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -73,7 +133,24 @@
         "r": 305.06174999999996,
         "b": 524.99625
       },
-      "content": "Verify AC Power indicator is lit."
+      "content": "Verify AC Power indicator is lit.",
+      "section_id": "sec_3_3_1",
+      "parent_section_id": "sec_3_3",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3_3",
+          "title": "3.3 Performance Tests"
+        },
+        {
+          "id": "sec_3_3_1",
+          "title": "3.3.1 Battery Charge"
+        }
+      ],
+      "page": 17,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -86,7 +163,24 @@
         "r": 343.31062499999996,
         "b": 497.99625
       },
-      "content": "Charge battery fully for at least 18 hours."
+      "content": "Charge battery fully for at least 18 hours.",
+      "section_id": "sec_3_3_1",
+      "parent_section_id": "sec_3_3",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3_3",
+          "title": "3.3 Performance Tests"
+        },
+        {
+          "id": "sec_3_3_1",
+          "title": "3.3.1 Battery Charge"
+        }
+      ],
+      "page": 17,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -99,7 +193,24 @@
         "r": 540.3990374999997,
         "b": 457.49625
       },
-      "content": "The  only  way  to  check  for  a  full  charge  is  to  perform  the  procedure  in  paragraph 3.3.2 'Battery Performance Test.'"
+      "content": "The  only  way  to  check  for  a  full  charge  is  to  perform  the  procedure  in  paragraph 3.3.2 'Battery Performance Test.'",
+      "section_id": "sec_3_3_1",
+      "parent_section_id": "sec_3_3",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3_3",
+          "title": "3.3 Performance Tests"
+        },
+        {
+          "id": "sec_3_3_1",
+          "title": "3.3.1 Battery Charge"
+        }
+      ],
+      "page": 17,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "admonition",
@@ -113,7 +224,24 @@
         "b": 416.99625
       },
       "content": "Note: The battery may require a complete charge/discharge cycle to restore its normal capacity, depending on its previous usage.",
-      "severity": "note"
+      "severity": "note",
+      "section_id": "sec_3_3_1",
+      "parent_section_id": "sec_3_3",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3_3",
+          "title": "3.3 Performance Tests"
+        },
+        {
+          "id": "sec_3_3_1",
+          "title": "3.3.1 Battery Charge"
+        }
+      ],
+      "page": 17,
+      "chunk_hint": "admonition",
+      "semantic_role": "note",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -127,8 +255,25 @@
         "b": 390.1875
       },
       "content": "3.3.2 Battery Performance Test",
-      "level": 2,
-      "role": "section"
+      "level": 3,
+      "section_number": "3.3.2",
+      "section_id": "sec_3_3_2",
+      "section_path": [
+        {
+          "id": "sec_3_3",
+          "title": "3.3 Performance Tests"
+        },
+        {
+          "id": "sec_3_3_2",
+          "title": "3.3.2 Battery Performance Test"
+        }
+      ],
+      "parent_section_id": "sec_3_3",
+      "section_level": 3,
+      "page": 17,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -141,7 +286,24 @@
         "r": 539.05725,
         "b": 349.49625
       },
-      "content": "The N5500 monitor is specified to typically operate on battery power a  minimum of 1  hour,  at  25°C,  with  no  printing,  and  one  NIBP  measurement  every 5 minutes. Before performing this test, ensure that the battery is fully charged (paragraph 3.3.1)."
+      "content": "The N5500 monitor is specified to typically operate on battery power a  minimum of 1  hour,  at  25°C,  with  no  printing,  and  one  NIBP  measurement  every 5 minutes. Before performing this test, ensure that the battery is fully charged (paragraph 3.3.1).",
+      "section_id": "sec_3_3_2",
+      "parent_section_id": "sec_3_3",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3_3",
+          "title": "3.3 Performance Tests"
+        },
+        {
+          "id": "sec_3_3_2",
+          "title": "3.3.2 Battery Performance Test"
+        }
+      ],
+      "page": 17,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -154,7 +316,24 @@
         "r": 366.5587499999999,
         "b": 322.49625
       },
-      "content": "Ensure monitor is not connected to AC power."
+      "content": "Ensure monitor is not connected to AC power.",
+      "section_id": "sec_3_3_2",
+      "parent_section_id": "sec_3_3",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3_3",
+          "title": "3.3 Performance Tests"
+        },
+        {
+          "id": "sec_3_3_2",
+          "title": "3.3.2 Battery Performance Test"
+        }
+      ],
+      "page": 17,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -167,7 +346,24 @@
         "r": 538.9080749999997,
         "b": 268.4962499999999
       },
-      "content": "With N5500 turned off, press Power On/Off switch and verify battery icon appears at bottom of display after power-on self-test is completed. Boxes in battery icon should all be filled, indicating battery is charged."
+      "content": "With N5500 turned off, press Power On/Off switch and verify battery icon appears at bottom of display after power-on self-test is completed. Boxes in battery icon should all be filled, indicating battery is charged.",
+      "section_id": "sec_3_3_2",
+      "parent_section_id": "sec_3_3",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3_3",
+          "title": "3.3 Performance Tests"
+        },
+        {
+          "id": "sec_3_3_2",
+          "title": "3.3.2 Battery Performance Test"
+        }
+      ],
+      "page": 17,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -180,7 +376,24 @@
         "r": 524.06175,
         "b": 241.49625000000003
       },
-      "content": "Connect Nellcor SRC-MAX SpO2 simulator to monitor via DOC-10 sensor cable."
+      "content": "Connect Nellcor SRC-MAX SpO2 simulator to monitor via DOC-10 sensor cable.",
+      "section_id": "sec_3_3_2",
+      "parent_section_id": "sec_3_3",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3_3",
+          "title": "3.3 Performance Tests"
+        },
+        {
+          "id": "sec_3_3_2",
+          "title": "3.3.2 Battery Performance Test"
+        }
+      ],
+      "page": 17,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -193,7 +406,24 @@
         "r": 425.06062499999996,
         "b": 214.49625000000003
       },
-      "content": "Connect NIBP simulator to monitor via Colin-NO.EM hose."
+      "content": "Connect NIBP simulator to monitor via Colin-NO.EM hose.",
+      "section_id": "sec_3_3_2",
+      "parent_section_id": "sec_3_3",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3_3",
+          "title": "3.3 Performance Tests"
+        },
+        {
+          "id": "sec_3_3_2",
+          "title": "3.3.2 Battery Performance Test"
+        }
+      ],
+      "page": 17,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -206,7 +436,24 @@
         "r": 455.812125,
         "b": 187.49625000000003
       },
-      "content": "Set SRC-MAX as follows: SpO2 of 75% and pulse rate of 60 bpm."
+      "content": "Set SRC-MAX as follows: SpO2 of 75% and pulse rate of 60 bpm.",
+      "section_id": "sec_3_3_2",
+      "parent_section_id": "sec_3_3",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3_3",
+          "title": "3.3 Performance Tests"
+        },
+        {
+          "id": "sec_3_3_2",
+          "title": "3.3.2 Battery Performance Test"
+        }
+      ],
+      "page": 17,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -219,7 +466,24 @@
         "r": 538.5624000000001,
         "b": 146.99625000000003
       },
-      "content": "Set NIBP simulator to simulate pressure setting of 120/80 mmHg and heart rate of 80 bpm."
+      "content": "Set NIBP simulator to simulate pressure setting of 120/80 mmHg and heart rate of 80 bpm.",
+      "section_id": "sec_3_3_2",
+      "parent_section_id": "sec_3_3",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3_3",
+          "title": "3.3 Performance Tests"
+        },
+        {
+          "id": "sec_3_3_2",
+          "title": "3.3.2 Battery Performance Test"
+        }
+      ],
+      "page": 17,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -232,7 +496,24 @@
         "r": 539.0641500000002,
         "b": 92.99625000000003
       },
-      "content": "Verify monitor is responding to SpO2 simulator signal and audible alarm is sounding. Use knob to select SpO2 Menu and silence SpO2 audible alarm (SpO2 alarm suspend condition)."
+      "content": "Verify monitor is responding to SpO2 simulator signal and audible alarm is sounding. Use knob to select SpO2 Menu and silence SpO2 audible alarm (SpO2 alarm suspend condition).",
+      "section_id": "sec_3_3_2",
+      "parent_section_id": "sec_3_3",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3_3",
+          "title": "3.3 Performance Tests"
+        },
+        {
+          "id": "sec_3_3_2",
+          "title": "3.3.2 Battery Performance Test"
+        }
+      ],
+      "page": 17,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

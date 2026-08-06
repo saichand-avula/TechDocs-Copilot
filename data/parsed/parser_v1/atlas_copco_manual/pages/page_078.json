@@ -22,7 +22,24 @@
       "width": 47,
       "height": 23,
       "decorative": true,
-      "image_hash": "7577891dcf1743bd2e7a735ef2621e01244d960bde43e28868c27d7c1437ddb9"
+      "image_hash": "7577891dcf1743bd2e7a735ef2621e01244d960bde43e28868c27d7c1437ddb9",
+      "section_id": "sec_4_6",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4       OSCi (optional)"
+        },
+        {
+          "id": "sec_4_6",
+          "title": "4.6    Data displayed during normal operation"
+        }
+      ],
+      "page": 78,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -39,7 +56,24 @@
       "next_block_id": "txt_0527",
       "image_hash": "05ddae2444b6df47892cc6bf6e4e0a2d9df71cf38f6b9d2e2803d96f8a985fa5",
       "width": 145,
-      "height": 117
+      "height": 117,
+      "section_id": "sec_4_6",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4       OSCi (optional)"
+        },
+        {
+          "id": "sec_4_6",
+          "title": "4.6    Data displayed during normal operation"
+        }
+      ],
+      "page": 78,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -54,7 +88,24 @@
       },
       "markdown": "| Reference   | Description   |\n|-------------|---------------|\n| (1)         | OSCi overflow |",
       "rows": 2,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_4_6",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4       OSCi (optional)"
+        },
+        {
+          "id": "sec_4_6",
+          "title": "4.6    Data displayed during normal operation"
+        }
+      ],
+      "page": 78,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -69,7 +120,24 @@
       },
       "content": "4.7    Warnings",
       "level": 2,
-      "role": "section"
+      "section_number": "4.7",
+      "section_id": "sec_4_7",
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4       OSCi (optional)"
+        },
+        {
+          "id": "sec_4_7",
+          "title": "4.7    Warnings"
+        }
+      ],
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "page": 78,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -84,7 +152,23 @@
       },
       "content": "Service required",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_815",
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4       OSCi (optional)"
+        },
+        {
+          "id": "sec_auto_815",
+          "title": "Service required"
+        }
+      ],
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "page": 78,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -97,7 +181,24 @@
         "r": 535.245899999999,
         "b": 465.0640000000001
       },
-      "content": "This warning indicates that the remaining filter lifetime has dropped below 10%. In this case a service kit with new filters needs to be ordered. The 'service' LED will light up at the right side of the Elektronikon® Graphic. To consult the warning, navigate the cursor to the warning icon as on the following screen."
+      "content": "This warning indicates that the remaining filter lifetime has dropped below 10%. In this case a service kit with new filters needs to be ordered. The 'service' LED will light up at the right side of the Elektronikon® Graphic. To consult the warning, navigate the cursor to the warning icon as on the following screen.",
+      "section_id": "sec_auto_815",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4       OSCi (optional)"
+        },
+        {
+          "id": "sec_auto_815",
+          "title": "Service required"
+        }
+      ],
+      "page": 78,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -115,7 +216,24 @@
       "next_block_id": "txt_0530",
       "image_hash": "31a0078dded9e10697234eda9dfd904d6137cf2a9c08916ce2a5c9a60203e3c2",
       "width": 145,
-      "height": 118
+      "height": 118,
+      "section_id": "sec_auto_815",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4       OSCi (optional)"
+        },
+        {
+          "id": "sec_auto_815",
+          "title": "Service required"
+        }
+      ],
+      "page": 78,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -130,7 +248,24 @@
       },
       "markdown": "| Reference   | Description       |\n|-------------|-------------------|\n| (1)         | Compressor outlet |\n| (2)         | Service           |",
       "rows": 3,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_auto_815",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4       OSCi (optional)"
+        },
+        {
+          "id": "sec_auto_815",
+          "title": "Service required"
+        }
+      ],
+      "page": 78,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -143,7 +278,24 @@
         "r": 528.0909999999989,
         "b": 205.50400000000002
       },
-      "content": "After pressing enter, the following screen with the remaining lifetime and the service minimum (10%) will be displayed. The text 'service 10' will be blinking."
+      "content": "After pressing enter, the following screen with the remaining lifetime and the service minimum (10%) will be displayed. The text 'service 10' will be blinking.",
+      "section_id": "sec_auto_815",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4       OSCi (optional)"
+        },
+        {
+          "id": "sec_auto_815",
+          "title": "Service required"
+        }
+      ],
+      "page": 78,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -160,7 +312,24 @@
       "previous_block_id": "txt_0530",
       "image_hash": "e5861a5f17a29d74fdb765320d1f1701091e00e97c5e65bd7ef91f619986b807",
       "width": 166,
-      "height": 134
+      "height": 134,
+      "section_id": "sec_auto_815",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4       OSCi (optional)"
+        },
+        {
+          "id": "sec_auto_815",
+          "title": "Service required"
+        }
+      ],
+      "page": 78,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

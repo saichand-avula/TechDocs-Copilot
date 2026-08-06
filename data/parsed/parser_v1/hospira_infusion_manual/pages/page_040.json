@@ -18,8 +18,25 @@
         "b": 728.8081107637603
       },
       "content": "4.2.2.3",
-      "level": 2,
-      "role": "section"
+      "level": 4,
+      "section_number": "4.2.2.3",
+      "section_id": "sec_4_2_2_3",
+      "section_path": [
+        {
+          "id": "sec_auto_324",
+          "title": "MAIN REGULATOR FAULT DETECTION"
+        },
+        {
+          "id": "sec_4_2_2_3",
+          "title": "4.2.2.3"
+        }
+      ],
+      "parent_section_id": "sec_auto_324",
+      "section_level": 4,
+      "page": 40,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -34,7 +51,19 @@
       },
       "content": "SYSTEM POWER",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_327",
+      "section_path": [
+        {
+          "id": "sec_auto_327",
+          "title": "SYSTEM POWER"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 2,
+      "page": 40,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -47,7 +76,20 @@
         "r": 504.0777160852001,
         "b": 581.2083046880331
       },
-      "content": "Along  with  the  unregulated  VMOT  supply,  a  secondary  switching  regulator  provides system  power.  The  secondary  switching  regulator  includes  IC  U4,  transformer  T1, and transistors Q4 and Q5. The regulator is a triple output, wide supply range, fly-back converter that provides regulated 3.3 V DC , 5 V DC , and 12 V DC  outputs from the five winding transformer T1. The regulator operates over an input range of 4 to 10 V DC  and provides output  current  limit  as  well  as  voltage  overshoot  limit.  Primary  feedback  is  metered through a bias arrangement on transistor Q3. A Schottky rectifier diode CR4 provides feedback in the event of V3_3 or V12_0 failure, and transistor Q10 provides feedback in the event of V5_0 failure. The positive terminal of the battery provides the raw DC voltage, VMOT, for the motors and backlight of the display."
+      "content": "Along  with  the  unregulated  VMOT  supply,  a  secondary  switching  regulator  provides system  power.  The  secondary  switching  regulator  includes  IC  U4,  transformer  T1, and transistors Q4 and Q5. The regulator is a triple output, wide supply range, fly-back converter that provides regulated 3.3 V DC , 5 V DC , and 12 V DC  outputs from the five winding transformer T1. The regulator operates over an input range of 4 to 10 V DC  and provides output  current  limit  as  well  as  voltage  overshoot  limit.  Primary  feedback  is  metered through a bias arrangement on transistor Q3. A Schottky rectifier diode CR4 provides feedback in the event of V3_3 or V12_0 failure, and transistor Q10 provides feedback in the event of V5_0 failure. The positive terminal of the battery provides the raw DC voltage, VMOT, for the motors and backlight of the display.",
+      "section_id": "sec_auto_327",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_327",
+          "title": "SYSTEM POWER"
+        }
+      ],
+      "page": 40,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -61,8 +103,25 @@
         "b": 533.146259338843
       },
       "content": "4.2.2.4 AUXILIARY SUPPLIES",
-      "level": 2,
-      "role": "section"
+      "level": 4,
+      "section_number": "4.2.2.4",
+      "section_id": "sec_4_2_2_4",
+      "section_path": [
+        {
+          "id": "sec_auto_327",
+          "title": "SYSTEM POWER"
+        },
+        {
+          "id": "sec_4_2_2_4",
+          "title": "4.2.2.4 AUXILIARY SUPPLIES"
+        }
+      ],
+      "parent_section_id": "sec_auto_327",
+      "section_level": 4,
+      "page": 40,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -75,7 +134,24 @@
         "r": 504.0309722839991,
         "b": 437.20767483203275
       },
-      "content": "The power supply subsystem provides full time 5 V DC  and 2.7 V DC  supplies, which are active when battery or AC voltage is present. The full time 5 V DC  supply (VSC) uses a linear low dropout voltage regulator U6, whose power source is directly from the battery and is backed up by a 0.1 F capacitor. VSC is used for the ON/OFF switch and a power failure alarm latch. The full time 2.7 V DC  supply (V2_7) is derived from VSC and is used to supply the ultra-low current needed to power the real-time clock and non-volatile SRAM during shutdown."
+      "content": "The power supply subsystem provides full time 5 V DC  and 2.7 V DC  supplies, which are active when battery or AC voltage is present. The full time 5 V DC  supply (VSC) uses a linear low dropout voltage regulator U6, whose power source is directly from the battery and is backed up by a 0.1 F capacitor. VSC is used for the ON/OFF switch and a power failure alarm latch. The full time 2.7 V DC  supply (V2_7) is derived from VSC and is used to supply the ultra-low current needed to power the real-time clock and non-volatile SRAM during shutdown.",
+      "section_id": "sec_4_2_2_4",
+      "parent_section_id": "sec_auto_327",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_auto_327",
+          "title": "SYSTEM POWER"
+        },
+        {
+          "id": "sec_4_2_2_4",
+          "title": "4.2.2.4 AUXILIARY SUPPLIES"
+        }
+      ],
+      "page": 40,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -89,8 +165,25 @@
         "b": 389.08622933884294
       },
       "content": "4.2.2.5 POWER CONTROL",
-      "level": 2,
-      "role": "section"
+      "level": 4,
+      "section_number": "4.2.2.5",
+      "section_id": "sec_4_2_2_5",
+      "section_path": [
+        {
+          "id": "sec_auto_327",
+          "title": "SYSTEM POWER"
+        },
+        {
+          "id": "sec_4_2_2_5",
+          "title": "4.2.2.5 POWER CONTROL"
+        }
+      ],
+      "parent_section_id": "sec_auto_327",
+      "section_level": 4,
+      "page": 40,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -103,7 +196,24 @@
         "r": 504.08445661930034,
         "b": 305.20821468803274
       },
-      "content": "The infuser will operate in one of three modes: normal, standby, or shutdown. During normal operation, the user interface is active and either on battery or AC line power. During standby  mode  the  user  interface  is  inactive  while  the  CPU  is  still  operating, servicing the battery management and waiting for a startup interrupt. Shutdown mode is when  system  power  is  off.  Shutdown  mode  only  occurs  during  battery  operation; otherwise, +BUSS holds the system power on."
+      "content": "The infuser will operate in one of three modes: normal, standby, or shutdown. During normal operation, the user interface is active and either on battery or AC line power. During standby  mode  the  user  interface  is  inactive  while  the  CPU  is  still  operating, servicing the battery management and waiting for a startup interrupt. Shutdown mode is when  system  power  is  off.  Shutdown  mode  only  occurs  during  battery  operation; otherwise, +BUSS holds the system power on.",
+      "section_id": "sec_4_2_2_5",
+      "parent_section_id": "sec_auto_327",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_auto_327",
+          "title": "SYSTEM POWER"
+        },
+        {
+          "id": "sec_4_2_2_5",
+          "title": "4.2.2.5 POWER CONTROL"
+        }
+      ],
+      "page": 40,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -116,7 +226,24 @@
         "r": 504.1637382988996,
         "b": 221.20937475193273
       },
-      "content": "The infuser is activated when the ON/OFF key is pressed or the AC line is plugged in. The ON/OFF key activates the STRTUP signal, triggering a three second one-shot circuit (C3, R10, CR1, and Q1) that will temporarily turn the system power on. This three second one-shot period allows the CPU enough time to power up, initialize, and turn on the PWRHLD signal. The CPU monitors the STRTUP signal, via interrupt, to signal a user request for turning off the infuser."
+      "content": "The infuser is activated when the ON/OFF key is pressed or the AC line is plugged in. The ON/OFF key activates the STRTUP signal, triggering a three second one-shot circuit (C3, R10, CR1, and Q1) that will temporarily turn the system power on. This three second one-shot period allows the CPU enough time to power up, initialize, and turn on the PWRHLD signal. The CPU monitors the STRTUP signal, via interrupt, to signal a user request for turning off the infuser.",
+      "section_id": "sec_4_2_2_5",
+      "parent_section_id": "sec_auto_327",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_auto_327",
+          "title": "SYSTEM POWER"
+        },
+        {
+          "id": "sec_4_2_2_5",
+          "title": "4.2.2.5 POWER CONTROL"
+        }
+      ],
+      "page": 40,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "caption",
@@ -129,7 +256,24 @@
         "r": 503.9428252771008,
         "b": 185.20981500783273
       },
-      "content": "Figure  4-2 illustrates  the  system  startup/shutdown  sequence  while  battery  powered. System power is always on while AC powered."
+      "content": "Figure  4-2 illustrates  the  system  startup/shutdown  sequence  while  battery  powered. System power is always on while AC powered.",
+      "section_id": "sec_4_2_2_5",
+      "parent_section_id": "sec_auto_327",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_auto_327",
+          "title": "SYSTEM POWER"
+        },
+        {
+          "id": "sec_4_2_2_5",
+          "title": "4.2.2.5 POWER CONTROL"
+        }
+      ],
+      "page": 40,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

@@ -17,7 +17,24 @@
         "r": 72.7661432,
         "b": 711.0469909128205
       },
-      "content": "24"
+      "content": "24",
+      "section_id": "sec_auto_125",
+      "parent_section_id": "sec_18",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_18",
+          "title": "18' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_125",
+          "title": "Underside of countertop to floor"
+        }
+      ],
+      "page": 9,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -30,7 +47,24 @@
         "r": 77.85624680000001,
         "b": 711.0369526470588
       },
-      "content": "\""
+      "content": "\"",
+      "section_id": "sec_auto_125",
+      "parent_section_id": "sec_18",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_18",
+          "title": "18' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_125",
+          "title": "Underside of countertop to floor"
+        }
+      ],
+      "page": 9,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -44,8 +78,21 @@
         "b": 711.0469909128205
       },
       "content": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "24",
+      "section_id": "sec_24",
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 9,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -61,11 +108,25 @@
       "image_path": "figures/figure_0015.png",
       "previous_block_id": "txt_0118",
       "next_block_id": "txt_0119",
-      "caption_id": "txt_0119",
       "caption": "Side View 24\" Custom Wood Panel",
       "image_hash": "280afe0e812f63bf874b95a90e8112ab7fbe3f0af0fd11ac61d1e26f38c46e3c",
       "width": 177,
-      "height": 222
+      "height": 222,
+      "section_id": "sec_24",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        }
+      ],
+      "page": 9,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0015",
+      "source": "pdf_text",
+      "caption_id": "txt_0119"
     },
     {
       "type": "caption",
@@ -79,6 +140,20 @@
         "b": 463.67980529411767
       },
       "content": "Side View 24\" Custom Wood Panel",
+      "section_id": "sec_24",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        }
+      ],
+      "page": 9,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0015",
+      "source": "pdf_text",
       "caption_for": "fig_0015"
     },
     {
@@ -95,11 +170,25 @@
       "image_path": "figures/figure_0016.png",
       "previous_block_id": "txt_0119",
       "next_block_id": "txt_0120",
-      "caption_id": "txt_0120",
       "caption": "NOTE: Route the water supply line and power cable through the channels provided under the dishwasher (circled above).",
       "image_hash": "4663235b65d70081a9973d3684329237b9a77fc59b7edd2887316aff9429b5be",
       "width": 188,
-      "height": 232
+      "height": 232,
+      "section_id": "sec_24",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        }
+      ],
+      "page": 9,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0016",
+      "source": "pdf_text",
+      "caption_id": "txt_0120"
     },
     {
       "type": "caption",
@@ -113,6 +202,20 @@
         "b": 180.45688195294122
       },
       "content": "NOTE: Route the water supply line and power cable through the channels provided under the dishwasher (circled above).",
+      "section_id": "sec_24",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        }
+      ],
+      "page": 9,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0016",
+      "source": "pdf_text",
       "caption_for": "fig_0016"
     },
     {
@@ -129,11 +232,25 @@
       "image_path": "figures/figure_0017.png",
       "previous_block_id": "txt_0120",
       "next_block_id": "txt_0121",
-      "caption_id": "txt_0121",
       "caption": "Side View 24\" Metal Door Panel",
       "image_hash": "5d732ddd250e8b1414fe1150c37a119e8ccceb00e9b194dc845460582c532e18",
       "width": 178,
-      "height": 223
+      "height": 223,
+      "section_id": "sec_24",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        }
+      ],
+      "page": 9,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0017",
+      "source": "pdf_text",
+      "caption_id": "txt_0121"
     },
     {
       "type": "caption",
@@ -147,6 +264,20 @@
         "b": 463.07840529411766
       },
       "content": "Side View 24\" Metal Door Panel",
+      "section_id": "sec_24",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        }
+      ],
+      "page": 9,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0017",
+      "source": "pdf_text",
       "caption_for": "fig_0017"
     },
     {
@@ -163,11 +294,25 @@
       "image_path": "figures/figure_0018.png",
       "previous_block_id": "txt_0121",
       "next_block_id": "txt_0122",
-      "caption_id": "txt_0122",
       "caption": "Cutout Dimensions",
       "image_hash": "f2992bc6862380ebe6f836bb56c1ab0c1d67a5e2a51696a85fdad5da15b913c2",
       "width": 246,
-      "height": 226
+      "height": 226,
+      "section_id": "sec_24",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        }
+      ],
+      "page": 9,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0018",
+      "source": "pdf_text",
+      "caption_id": "txt_0122"
     },
     {
       "type": "caption",
@@ -181,6 +326,20 @@
         "b": 203.69240529411763
       },
       "content": "Cutout Dimensions",
+      "section_id": "sec_24",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        }
+      ],
+      "page": 9,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0018",
+      "source": "pdf_text",
       "caption_for": "fig_0018"
     },
     {
@@ -196,7 +355,23 @@
       },
       "content": "Underside of countertop to floor",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_142",
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_142",
+          "title": "Underside of countertop to floor"
+        }
+      ],
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "page": 9,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -209,7 +384,24 @@
         "r": 568.2133703999999,
         "b": 163.0246973529412
       },
-      "content": "The enclosure must be at least 24\" (61 cm) wide, 24\" (61 cm) deep, and 32½\" (82.5 cm) high."
+      "content": "The enclosure must be at least 24\" (61 cm) wide, 24\" (61 cm) deep, and 32½\" (82.5 cm) high.",
+      "section_id": "sec_auto_142",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_142",
+          "title": "Underside of countertop to floor"
+        }
+      ],
+      "page": 9,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -222,7 +414,24 @@
         "r": 554.5965612000001,
         "b": 131.16692035294113
       },
-      "content": "For the front door of the dishwasher to be flush with the leading edge of the counter top, the counter top must be at least 24\" (61 cm) deep."
+      "content": "For the front door of the dishwasher to be flush with the leading edge of the counter top, the counter top must be at least 24\" (61 cm) deep.",
+      "section_id": "sec_auto_142",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_142",
+          "title": "Underside of countertop to floor"
+        }
+      ],
+      "page": 9,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -235,7 +444,24 @@
         "r": 563.3697718000002,
         "b": 97.31971255294116
       },
-      "content": "This dishwasher is designed to be enclosed on the top and on both sides by a standard residential kitchen cabinet unit. The installation enclosure must be clean and free of any"
+      "content": "This dishwasher is designed to be enclosed on the top and on both sides by a standard residential kitchen cabinet unit. The installation enclosure must be clean and free of any",
+      "section_id": "sec_auto_142",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_142",
+          "title": "Underside of countertop to floor"
+        }
+      ],
+      "page": 9,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -248,7 +474,24 @@
         "r": 374.80399300000005,
         "b": 87.36359715294122
       },
-      "content": "obstructions."
+      "content": "obstructions.",
+      "section_id": "sec_auto_142",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_142",
+          "title": "Underside of countertop to floor"
+        }
+      ],
+      "page": 9,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "admonition",
@@ -262,7 +505,24 @@
         "b": 55.48739735294123
       },
       "content": "NOTE: ADA installation, 32½\" (82.5 cm) beneath 34\" (86.4 cm) high countertops may be accomplished by adjusting the toekick and leveling legs.",
-      "severity": "note"
+      "severity": "note",
+      "section_id": "sec_auto_142",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_142",
+          "title": "Underside of countertop to floor"
+        }
+      ],
+      "page": 9,
+      "chunk_hint": "admonition",
+      "semantic_role": "note",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -275,7 +535,24 @@
         "r": 561.3369,
         "b": 32.765719354838666
       },
-      "content": "n"
+      "content": "n",
+      "section_id": "sec_auto_142",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_142",
+          "title": "Underside of countertop to floor"
+        }
+      ],
+      "page": 9,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -288,7 +565,24 @@
         "r": 582.2303032000001,
         "b": 3.7509705435896876
       },
-      "content": "7"
+      "content": "7",
+      "section_id": "sec_auto_142",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_142",
+          "title": "Underside of countertop to floor"
+        }
+      ],
+      "page": 9,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

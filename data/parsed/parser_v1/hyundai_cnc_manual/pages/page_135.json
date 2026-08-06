@@ -18,8 +18,21 @@
         "b": 729.8629409281768
       },
       "content": "3. Maintenance of Major Units",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "3",
+      "section_id": "sec_3",
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3. Maintenance of Major Units"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 135,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -33,8 +46,21 @@
         "b": 708.8630249281769
       },
       "content": "3-1. Spindle",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "3",
+      "section_id": "sec_3",
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-1. Spindle"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 135,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -48,8 +74,21 @@
         "b": 687.8631089281769
       },
       "content": "3-1-1. Adjustment of Degree in Spindle",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "3",
+      "section_id": "sec_3",
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-1-1. Adjustment of Degree in Spindle"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 135,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -62,7 +101,20 @@
         "r": 488.6147219999987,
         "b": 653.0035289281768
       },
-      "content": "If the spindle changed its position or disassembled for maintenance, adjust as follows:"
+      "content": "If the spindle changed its position or disassembled for maintenance, adjust as follows:",
+      "section_id": "sec_3",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-1-1. Adjustment of Degree in Spindle"
+        }
+      ],
+      "page": 135,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -78,12 +130,26 @@
       "image_path": "figures/figure_0231.png",
       "previous_block_id": "txt_0917",
       "next_block_id": "txt_0918",
-      "caption_id": "txt_0918",
       "caption": "Adjustment of Spindle Accuracy",
       "figure_number": "Fig. 5-40",
       "image_hash": "922af581b8d64c8e23a0d0a3a2b9b469c1f86abedd7793c994f7fb5f5a7cc0ec",
       "width": 473,
-      "height": 238
+      "height": 238,
+      "section_id": "sec_3",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-1-1. Adjustment of Degree in Spindle"
+        }
+      ],
+      "page": 135,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0231",
+      "source": "pdf_text",
+      "caption_id": "txt_0918"
     },
     {
       "type": "caption",
@@ -97,6 +163,20 @@
         "b": 381.02465692817697
       },
       "content": "Fig. 5-40  Adjustment of Spindle Accuracy",
+      "section_id": "sec_3",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-1-1. Adjustment of Degree in Spindle"
+        }
+      ],
+      "page": 135,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0231",
+      "source": "pdf_text",
       "caption_for": "fig_0231"
     },
     {
@@ -110,7 +190,21 @@
         "r": 341.9620020000005,
         "b": 347.00475292817697
       },
-      "content": "Used tools:  spanner (24 mm), dial gage (0.002 mm)"
+      "content": "Used tools:  spanner (24 mm), dial gage (0.002 mm)",
+      "section_id": "sec_3",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-1-1. Adjustment of Degree in Spindle"
+        }
+      ],
+      "page": 135,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text",
+      "group_id": "grp_fig_0231"
     },
     {
       "type": "paragraph",
@@ -123,7 +217,20 @@
         "r": 147.49785,
         "b": 330.02486092817696
       },
-      "content": "Material:"
+      "content": "Material:",
+      "section_id": "sec_3",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-1-1. Adjustment of Degree in Spindle"
+        }
+      ],
+      "page": 135,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -136,7 +243,20 @@
         "r": 352.90584600000005,
         "b": 329.5078400000002
       },
-      "content": "∅ 50x250 ( ∅ 2x10) aluminium or cast-iron"
+      "content": "∅ 50x250 ( ∅ 2x10) aluminium or cast-iron",
+      "section_id": "sec_3",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-1-1. Adjustment of Degree in Spindle"
+        }
+      ],
+      "page": 135,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -149,7 +269,20 @@
         "r": 541.3559939999986,
         "b": 279.025064928177
       },
-      "content": "Loosen spindle bolt and disassemble into the bolt of A and B pads. Re-assemble A and B pads and engage spindle bolt."
+      "content": "Loosen spindle bolt and disassemble into the bolt of A and B pads. Re-assemble A and B pads and engage spindle bolt.",
+      "section_id": "sec_3",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-1-1. Adjustment of Degree in Spindle"
+        }
+      ],
+      "page": 135,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -162,7 +295,20 @@
         "r": 352.18340400000045,
         "b": 262.04517292817695
       },
-      "content": "Measure the material for testing (length: 250 mm)."
+      "content": "Measure the material for testing (length: 250 mm).",
+      "section_id": "sec_3",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-1-1. Adjustment of Degree in Spindle"
+        }
+      ],
+      "page": 135,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -175,7 +321,20 @@
         "r": 292.15458600000005,
         "b": 245.00516092817702
       },
-      "content": "Cut the material for testing (fine cut)."
+      "content": "Cut the material for testing (fine cut).",
+      "section_id": "sec_3",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-1-1. Adjustment of Degree in Spindle"
+        }
+      ],
+      "page": 135,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -188,7 +347,20 @@
         "r": 541.4511839999997,
         "b": 194.00536492817696
       },
-      "content": "Measure the roundness of workpiece (For example). If  the  difference  (overhall  length  of  250  mm  (10))  of  cylindricity  is  0,015  (0.0006)  mm,  the current sum of pad will be 0,030 (0.0012) by the above calculation formula:"
+      "content": "Measure the roundness of workpiece (For example). If  the  difference  (overhall  length  of  250  mm  (10))  of  cylindricity  is  0,015  (0.0006)  mm,  the current sum of pad will be 0,030 (0.0012) by the above calculation formula:",
+      "section_id": "sec_3",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-1-1. Adjustment of Degree in Spindle"
+        }
+      ],
+      "page": 135,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -201,7 +373,20 @@
         "r": 502.9403159999997,
         "b": 143.0055689281769
       },
-      "content": "c If the configuration of manufacturing material is                       , polish the grinded surf ace (attached to head stock) of A pad as 0.030 (0.0012)."
+      "content": "c If the configuration of manufacturing material is                       , polish the grinded surf ace (attached to head stock) of A pad as 0.030 (0.0012).",
+      "section_id": "sec_3",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-1-1. Adjustment of Degree in Spindle"
+        }
+      ],
+      "page": 135,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -214,7 +399,20 @@
         "r": 502.9403159999997,
         "b": 92.00577292817695
       },
-      "content": "d If the configuration of manufacturing material is                       , polish the grinded surf ace (attached to head stock) of B pad as 0,030 (0.0012)."
+      "content": "d If the configuration of manufacturing material is                       , polish the grinded surf ace (attached to head stock) of B pad as 0,030 (0.0012).",
+      "section_id": "sec_3",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-1-1. Adjustment of Degree in Spindle"
+        }
+      ],
+      "page": 135,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -232,7 +430,20 @@
       "width": 42,
       "height": 25,
       "decorative": true,
-      "image_hash": "5f7e64aec7270454257d8f2fba5466fbd07a7ac9cf8c9ed69060230a8a3b6492"
+      "image_hash": "5f7e64aec7270454257d8f2fba5466fbd07a7ac9cf8c9ed69060230a8a3b6492",
+      "section_id": "sec_3",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-1-1. Adjustment of Degree in Spindle"
+        }
+      ],
+      "page": 135,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -249,7 +460,20 @@
       "previous_block_id": "txt_0927",
       "width": 44,
       "height": 20,
-      "image_hash": "987587b9fee9e93ff33b377e1d9d8b277e9cb06575e251ee0ae54ba08c397ebf"
+      "image_hash": "987587b9fee9e93ff33b377e1d9d8b277e9cb06575e251ee0ae54ba08c397ebf",
+      "section_id": "sec_3",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-1-1. Adjustment of Degree in Spindle"
+        }
+      ],
+      "page": 135,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

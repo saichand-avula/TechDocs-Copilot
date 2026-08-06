@@ -19,7 +19,23 @@
       },
       "content": "Alphabetical parts list",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_7685",
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 Parts and diagrams"
+        },
+        {
+          "id": "sec_auto_7685",
+          "title": "Alphabetical parts list"
+        }
+      ],
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "page": 744,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -37,6 +53,24 @@
       "table_number": "Table 2-13",
       "rows": 17,
       "cols": 3,
+      "section_id": "sec_auto_7685",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 Parts and diagrams"
+        },
+        {
+          "id": "sec_auto_7685",
+          "title": "Alphabetical parts list"
+        }
+      ],
+      "page": 744,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "group_id": "grp_tbl_0073",
+      "source": "pdf_text",
       "caption_id": "txt_5570"
     },
     {
@@ -51,6 +85,24 @@
         "b": 693.23
       },
       "content": "Table 2-13  Alphabetical parts list",
+      "section_id": "sec_auto_7685",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 Parts and diagrams"
+        },
+        {
+          "id": "sec_auto_7685",
+          "title": "Alphabetical parts list"
+        }
+      ],
+      "page": 744,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_tbl_0073",
+      "source": "pdf_text",
       "caption_for": "tbl_0073"
     }
   ],

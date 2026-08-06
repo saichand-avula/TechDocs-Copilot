@@ -17,7 +17,20 @@
         "r": 468.6515699999998,
         "b": 729.8030489281768
       },
-      "content": "Check the IGBT module/IPM. If the IGBT module/IPM is defective, it allows overcurrent to flow in the main circuit."
+      "content": "Check the IGBT module/IPM. If the IGBT module/IPM is defective, it allows overcurrent to flow in the main circuit.",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-4. Alarm AL-03"
+        }
+      ],
+      "page": 235,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -30,7 +43,20 @@
         "r": 349.94804400000004,
         "b": 711.8723
       },
-      "content": "⇒ Replace the fuse and/or IGBT module/IPM."
+      "content": "⇒ Replace the fuse and/or IGBT module/IPM.",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-4. Alarm AL-03"
+        }
+      ],
+      "page": 235,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -44,8 +70,21 @@
         "b": 678.8030369281769
       },
       "content": "1-5. Alarm AL-07",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "1",
+      "section_id": "sec_1",
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-5. Alarm AL-07"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 235,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -58,7 +97,20 @@
         "r": 154.60012800000004,
         "b": 644.7831329281769
       },
-      "content": "Meaning"
+      "content": "Meaning",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-5. Alarm AL-07"
+        }
+      ],
+      "page": 235,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -71,7 +123,20 @@
         "r": 527.2920240000013,
         "b": 610.823348928177
       },
-      "content": "The actual motor speed exceeded 115% of the maximum allowable motor speed (standard parameter setting). Cause and corrective action."
+      "content": "The actual motor speed exceeded 115% of the maximum allowable motor speed (standard parameter setting). Cause and corrective action.",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-5. Alarm AL-07"
+        }
+      ],
+      "page": 235,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -84,7 +149,20 @@
         "r": 328.69562400000007,
         "b": 593.7833369281769
       },
-      "content": "Incorrect speed detector parameter setting."
+      "content": "Incorrect speed detector parameter setting.",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-5. Alarm AL-07"
+        }
+      ],
+      "page": 235,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -97,7 +175,20 @@
         "r": 371.0040719999999,
         "b": 576.803444928177
       },
-      "content": "Check the parameter setting and the speed detector."
+      "content": "Check the parameter setting and the speed detector.",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-5. Alarm AL-07"
+        }
+      ],
+      "page": 235,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -112,7 +203,20 @@
       },
       "markdown": "| FS 0I/16/18/21   | Description            |\n|------------------|------------------------|\n| 4011 #2, 1, 0    | Speed detector setting |",
       "rows": 2,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-5. Alarm AL-07"
+        }
+      ],
+      "page": 235,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -125,7 +229,20 @@
         "r": 425.03591999999907,
         "b": 489.3323
       },
-      "content": "⇒ Set the parameter correctly according to the speed detector."
+      "content": "⇒ Set the parameter correctly according to the speed detector.",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-5. Alarm AL-07"
+        }
+      ],
+      "page": 235,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -139,8 +256,21 @@
         "b": 456.3231569281768
       },
       "content": "1-6. Alarm AL-09",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "1",
+      "section_id": "sec_1",
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-6. Alarm AL-09"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 235,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -153,7 +283,20 @@
         "r": 154.60012800000004,
         "b": 422.3032529281768
       },
-      "content": "Meaning"
+      "content": "Meaning",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-6. Alarm AL-09"
+        }
+      ],
+      "page": 235,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -166,7 +309,20 @@
         "r": 411.85661399999924,
         "b": 405.3233609281768
       },
-      "content": "The temperature of the main circuit heat sink has risen abnormally."
+      "content": "The temperature of the main circuit heat sink has risen abnormally.",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-6. Alarm AL-09"
+        }
+      ],
+      "page": 235,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -179,7 +335,20 @@
         "r": 240.2240340000001,
         "b": 371.3034569281768
       },
-      "content": "Cause and corrective action"
+      "content": "Cause and corrective action",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-6. Alarm AL-09"
+        }
+      ],
+      "page": 235,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -192,7 +361,20 @@
         "r": 230.90343000000007,
         "b": 354.3235649281768
       },
-      "content": "Cooling fan defective"
+      "content": "Cooling fan defective",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-6. Alarm AL-09"
+        }
+      ],
+      "page": 235,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -205,7 +387,20 @@
         "r": 350.9740919999999,
         "b": 337.2835529281768
       },
-      "content": "Check whether the cooling fan rotates smoothly."
+      "content": "Check whether the cooling fan rotates smoothly.",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-6. Alarm AL-09"
+        }
+      ],
+      "page": 235,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -218,7 +413,20 @@
         "r": 266.14377,
         "b": 319.3523
       },
-      "content": "⇒ Replace the cooling fan."
+      "content": "⇒ Replace the cooling fan.",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-6. Alarm AL-09"
+        }
+      ],
+      "page": 235,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -231,7 +439,20 @@
         "r": 233.702016,
         "b": 286.2830369281768
       },
-      "content": "Overloaded operation"
+      "content": "Overloaded operation",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-6. Alarm AL-09"
+        }
+      ],
+      "page": 235,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -244,7 +465,20 @@
         "r": 367.6573920000005,
         "b": 269.30314492817683
       },
-      "content": "Check the load meter to see if the load is too heavy."
+      "content": "Check the load meter to see if the load is too heavy.",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-6. Alarm AL-09"
+        }
+      ],
+      "page": 235,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -257,7 +491,20 @@
         "r": 324.4812120000001,
         "b": 251.37239999999997
       },
-      "content": "⇒ Examine the cutting conditions again."
+      "content": "⇒ Examine the cutting conditions again.",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-6. Alarm AL-09"
+        }
+      ],
+      "page": 235,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -270,7 +517,20 @@
         "r": 225.929502,
         "b": 218.30313692817685
       },
-      "content": "Cooling fan clogged"
+      "content": "Cooling fan clogged",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-6. Alarm AL-09"
+        }
+      ],
+      "page": 235,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -283,7 +543,20 @@
         "r": 465.0247379999999,
         "b": 200.3723
       },
-      "content": "⇒ Clean the cooling fan with a vacuum cleaner or the factory air blower."
+      "content": "⇒ Clean the cooling fan with a vacuum cleaner or the factory air blower.",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-6. Alarm AL-09"
+        }
+      ],
+      "page": 235,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

@@ -19,7 +19,24 @@
       },
       "content": "3.3    Icons used",
       "level": 2,
-      "role": "section"
+      "section_number": "3.3",
+      "section_id": "sec_3_3",
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3       Elektronikon® Graphic controller"
+        },
+        {
+          "id": "sec_3_3",
+          "title": "3.3    Icons used"
+        }
+      ],
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "page": 35,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -34,7 +51,23 @@
       },
       "content": "Status icons",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_324",
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3       Elektronikon® Graphic controller"
+        },
+        {
+          "id": "sec_auto_324",
+          "title": "Status icons"
+        }
+      ],
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "page": 35,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -49,7 +82,24 @@
       },
       "markdown": "| Name                                    | Icon   | Description                                                                                                  |\n|-----------------------------------------|--------|--------------------------------------------------------------------------------------------------------------|\n| Stopped / Running                       |        | When the compressor is stopped, the icon stands still. When the compressor is running, the icon is rotating. |\n| Compressor status                       |        | Motor stopped                                                                                                |\n|                                         |        | Running unloaded                                                                                             |\n|                                         |        | Running loaded                                                                                               |\n| Machine control mode                    |        | Local start / stop                                                                                           |\n|                                         |        | Remote start / stop                                                                                          |\n|                                         |        | Network control                                                                                              |\n| Automatic restart after voltage failure |        | Automatic restart after voltage failure is active                                                            |\n| Week timer                              |        | Week timer is active                                                                                         |\n| Active protection functions             |        | Emergency stop                                                                                               |\n|                                         |        | Shutdown                                                                                                     |\n|                                         |        | Warning                                                                                                      |\n| Service                                 |        | Service required                                                                                             |",
       "rows": 14,
-      "cols": 3
+      "cols": 3,
+      "section_id": "sec_auto_324",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3       Elektronikon® Graphic controller"
+        },
+        {
+          "id": "sec_auto_324",
+          "title": "Status icons"
+        }
+      ],
+      "page": 35,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -66,7 +116,24 @@
       "previous_block_id": "txt_0238",
       "width": 44,
       "height": 33,
-      "image_hash": "7a3d701b37552718db3440c730456fa061074f45dcb44ece6d36ace25d36d9b9"
+      "image_hash": "7a3d701b37552718db3440c730456fa061074f45dcb44ece6d36ace25d36d9b9",
+      "section_id": "sec_auto_324",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3       Elektronikon® Graphic controller"
+        },
+        {
+          "id": "sec_auto_324",
+          "title": "Status icons"
+        }
+      ],
+      "page": 35,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -83,7 +150,24 @@
       "previous_block_id": "txt_0238",
       "width": 36,
       "height": 37,
-      "image_hash": "44c10648a6bdec1c7711cec4694df3e90ff132c453181e84ddb42e562dce2403"
+      "image_hash": "44c10648a6bdec1c7711cec4694df3e90ff132c453181e84ddb42e562dce2403",
+      "section_id": "sec_auto_324",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3       Elektronikon® Graphic controller"
+        },
+        {
+          "id": "sec_auto_324",
+          "title": "Status icons"
+        }
+      ],
+      "page": 35,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -100,7 +184,24 @@
       "previous_block_id": "txt_0238",
       "width": 38,
       "height": 31,
-      "image_hash": "80cbe042c76522e134378740b552e20670bdb9492f5b0bf1235f4550987736c0"
+      "image_hash": "80cbe042c76522e134378740b552e20670bdb9492f5b0bf1235f4550987736c0",
+      "section_id": "sec_auto_324",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3       Elektronikon® Graphic controller"
+        },
+        {
+          "id": "sec_auto_324",
+          "title": "Status icons"
+        }
+      ],
+      "page": 35,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -117,7 +218,24 @@
       "previous_block_id": "txt_0238",
       "width": 28,
       "height": 32,
-      "image_hash": "d8f34fde9f387ce848a7e8cd41fa8539c5eba1af2135800ed7fe69a7cefc5a98"
+      "image_hash": "d8f34fde9f387ce848a7e8cd41fa8539c5eba1af2135800ed7fe69a7cefc5a98",
+      "section_id": "sec_auto_324",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3       Elektronikon® Graphic controller"
+        },
+        {
+          "id": "sec_auto_324",
+          "title": "Status icons"
+        }
+      ],
+      "page": 35,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -134,7 +252,24 @@
       "previous_block_id": "txt_0238",
       "width": 19,
       "height": 35,
-      "image_hash": "d8ec78e07fedbcf50d3f6d88b7d20931955f6fe72b4b737ddfbb2480f7b177fc"
+      "image_hash": "d8ec78e07fedbcf50d3f6d88b7d20931955f6fe72b4b737ddfbb2480f7b177fc",
+      "section_id": "sec_auto_324",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3       Elektronikon® Graphic controller"
+        },
+        {
+          "id": "sec_auto_324",
+          "title": "Status icons"
+        }
+      ],
+      "page": 35,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -151,7 +286,24 @@
       "previous_block_id": "txt_0238",
       "width": 41,
       "height": 29,
-      "image_hash": "c492e2563dcaeb93cad3ae01eb9fa4224bfd593b5a3ba114e247e8dec21a1067"
+      "image_hash": "c492e2563dcaeb93cad3ae01eb9fa4224bfd593b5a3ba114e247e8dec21a1067",
+      "section_id": "sec_auto_324",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3       Elektronikon® Graphic controller"
+        },
+        {
+          "id": "sec_auto_324",
+          "title": "Status icons"
+        }
+      ],
+      "page": 35,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -168,7 +320,24 @@
       "previous_block_id": "txt_0238",
       "width": 42,
       "height": 30,
-      "image_hash": "57c373ad63069e5a6b043f0e7a2625cdf2ed89cbda1427ba320f61c15d548e43"
+      "image_hash": "57c373ad63069e5a6b043f0e7a2625cdf2ed89cbda1427ba320f61c15d548e43",
+      "section_id": "sec_auto_324",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3       Elektronikon® Graphic controller"
+        },
+        {
+          "id": "sec_auto_324",
+          "title": "Status icons"
+        }
+      ],
+      "page": 35,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -185,7 +354,24 @@
       "previous_block_id": "txt_0238",
       "width": 43,
       "height": 29,
-      "image_hash": "98a160c0c8c449bba78c33a8c8ac905e6a92603565636460e6650f23fde44722"
+      "image_hash": "98a160c0c8c449bba78c33a8c8ac905e6a92603565636460e6650f23fde44722",
+      "section_id": "sec_auto_324",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3       Elektronikon® Graphic controller"
+        },
+        {
+          "id": "sec_auto_324",
+          "title": "Status icons"
+        }
+      ],
+      "page": 35,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -202,7 +388,24 @@
       "previous_block_id": "txt_0238",
       "width": 40,
       "height": 31,
-      "image_hash": "25d28a23cbd932cb99efe37545759c317207b47c0f77ce892e7ca894fa858354"
+      "image_hash": "25d28a23cbd932cb99efe37545759c317207b47c0f77ce892e7ca894fa858354",
+      "section_id": "sec_auto_324",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3       Elektronikon® Graphic controller"
+        },
+        {
+          "id": "sec_auto_324",
+          "title": "Status icons"
+        }
+      ],
+      "page": 35,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -219,7 +422,24 @@
       "previous_block_id": "txt_0238",
       "width": 34,
       "height": 35,
-      "image_hash": "92e293671f00e81dbc5283f9067abb0b19d9efb6df4cf0bfdf40372a1a1d99f1"
+      "image_hash": "92e293671f00e81dbc5283f9067abb0b19d9efb6df4cf0bfdf40372a1a1d99f1",
+      "section_id": "sec_auto_324",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3       Elektronikon® Graphic controller"
+        },
+        {
+          "id": "sec_auto_324",
+          "title": "Status icons"
+        }
+      ],
+      "page": 35,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -236,7 +456,24 @@
       "previous_block_id": "txt_0238",
       "width": 45,
       "height": 33,
-      "image_hash": "c715df73e8b38888304472b6b6726b2c3cd11b8fb3759beda03608435c93d560"
+      "image_hash": "c715df73e8b38888304472b6b6726b2c3cd11b8fb3759beda03608435c93d560",
+      "section_id": "sec_auto_324",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3       Elektronikon® Graphic controller"
+        },
+        {
+          "id": "sec_auto_324",
+          "title": "Status icons"
+        }
+      ],
+      "page": 35,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -253,7 +490,24 @@
       "previous_block_id": "txt_0238",
       "width": 44,
       "height": 31,
-      "image_hash": "550e2b34b80a00f98ba1d223c05dc85ad2e59577c5085daf18019bf5f78018c6"
+      "image_hash": "550e2b34b80a00f98ba1d223c05dc85ad2e59577c5085daf18019bf5f78018c6",
+      "section_id": "sec_auto_324",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3       Elektronikon® Graphic controller"
+        },
+        {
+          "id": "sec_auto_324",
+          "title": "Status icons"
+        }
+      ],
+      "page": 35,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -270,7 +524,24 @@
       "previous_block_id": "txt_0238",
       "width": 38,
       "height": 36,
-      "image_hash": "51ac0c0fd89f4cd5f78421b11bfd3fce106fa1b893af9d6a2107eca8f6140b16"
+      "image_hash": "51ac0c0fd89f4cd5f78421b11bfd3fce106fa1b893af9d6a2107eca8f6140b16",
+      "section_id": "sec_auto_324",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3       Elektronikon® Graphic controller"
+        },
+        {
+          "id": "sec_auto_324",
+          "title": "Status icons"
+        }
+      ],
+      "page": 35,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -287,7 +558,24 @@
       "previous_block_id": "txt_0238",
       "width": 47,
       "height": 22,
-      "image_hash": "b28a1d23de5124d82d6f84120acacff249829ec0e42f4c826059a188d93e4d2e"
+      "image_hash": "b28a1d23de5124d82d6f84120acacff249829ec0e42f4c826059a188d93e4d2e",
+      "section_id": "sec_auto_324",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3       Elektronikon® Graphic controller"
+        },
+        {
+          "id": "sec_auto_324",
+          "title": "Status icons"
+        }
+      ],
+      "page": 35,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

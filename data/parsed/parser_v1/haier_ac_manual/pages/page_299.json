@@ -21,7 +21,24 @@
       "next_block_id": "txt_2485",
       "width": 32,
       "height": 10,
-      "image_hash": "76d48daf3b421bbf9f98e4b4857692e9ebd340039165c55370f8ecb75677db4a"
+      "image_hash": "76d48daf3b421bbf9f98e4b4857692e9ebd340039165c55370f8ecb75677db4a",
+      "section_id": "sec_auto_3243",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_3243",
+          "title": "Check the IPM module method:"
+        }
+      ],
+      "page": 299,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -36,7 +53,24 @@
       },
       "markdown": "| resistance Normal       | k Several Ω to several MΩ (   |\n|-------------------------|-------------------------------|\n| Unacceptable resistance | Short (0 Ω) or open           |",
       "rows": 2,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_auto_3243",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_3243",
+          "title": "Check the IPM module method:"
+        }
+      ],
+      "page": 299,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -50,8 +84,29 @@
         "b": 737.1979
       },
       "content": "7.3.4 The IPM and outdoor PCB don't communicate or Related Abnormality",
-      "level": 2,
-      "role": "section"
+      "level": 3,
+      "section_number": "7.3.4",
+      "section_id": "sec_7_3_4",
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_3243",
+          "title": "Check the IPM module method:"
+        },
+        {
+          "id": "sec_7_3_4",
+          "title": "7.3.4 The IPM and outdoor PCB don't communicate or Related Abnormality"
+        }
+      ],
+      "parent_section_id": "sec_auto_3243",
+      "section_level": 3,
+      "page": 299,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -66,7 +121,23 @@
       },
       "content": "outdoor display",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_3252",
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_3252",
+          "title": "outdoor display"
+        }
+      ],
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "page": 299,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -79,7 +150,24 @@
         "r": 357.34946979999995,
         "b": 713.659186
       },
-      "content": "LED1 flash    4 times          Indoor Display      F3"
+      "content": "LED1 flash    4 times          Indoor Display      F3",
+      "section_id": "sec_auto_3252",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_3252",
+          "title": "outdoor display"
+        }
+      ],
+      "page": 299,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -92,7 +180,24 @@
         "r": 145.59760997999996,
         "b": 655.54942312
       },
-      "content": "Method of Malfunction Detection"
+      "content": "Method of Malfunction Detection",
+      "section_id": "sec_auto_3252",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_3252",
+          "title": "outdoor display"
+        }
+      ],
+      "page": 299,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -105,7 +210,24 @@
         "r": 486.77601650000037,
         "b": 678.5822458
       },
-      "content": "Communication is detected by checking the IPM module and the outdoor PCB"
+      "content": "Communication is detected by checking the IPM module and the outdoor PCB",
+      "section_id": "sec_auto_3252",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_3252",
+          "title": "outdoor display"
+        }
+      ],
+      "page": 299,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -118,7 +240,24 @@
         "r": 149.10289009999997,
         "b": 609.0257956
       },
-      "content": "Malfunction Decision                 ■ Conditions"
+      "content": "Malfunction Decision                 ■ Conditions",
+      "section_id": "sec_auto_3252",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_3252",
+          "title": "outdoor display"
+        }
+      ],
+      "page": 299,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -131,7 +270,24 @@
         "r": 398.36116948000034,
         "b": 632.053486
       },
-      "content": "■ The outdoor PCB broken leads to communication fault"
+      "content": "■ The outdoor PCB broken leads to communication fault",
+      "section_id": "sec_auto_3252",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_3252",
+          "title": "outdoor display"
+        }
+      ],
+      "page": 299,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -144,7 +300,24 @@
         "r": 395.0854426000005,
         "b": 620.6012860000001
       },
-      "content": "The IPM module broken leads to communication fault"
+      "content": "The IPM module broken leads to communication fault",
+      "section_id": "sec_auto_3252",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_3252",
+          "title": "outdoor display"
+        }
+      ],
+      "page": 299,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -157,7 +330,24 @@
         "r": 152.75522914000004,
         "b": 572.8690524000001
       },
-      "content": "Supposed               ■ Causes"
+      "content": "Supposed               ■ Causes",
+      "section_id": "sec_auto_3252",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_3252",
+          "title": "outdoor display"
+        }
+      ],
+      "page": 299,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -170,7 +360,24 @@
         "r": 283.67663087999995,
         "b": 584.925186
       },
-      "content": "The outdoor PCB is broken"
+      "content": "The outdoor PCB is broken",
+      "section_id": "sec_auto_3252",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_3252",
+          "title": "outdoor display"
+        }
+      ],
+      "page": 299,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -183,7 +390,24 @@
         "r": 310.31248559999995,
         "b": 572.77257
       },
-      "content": "■ The IPM module is broken"
+      "content": "■ The IPM module is broken",
+      "section_id": "sec_auto_3252",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_3252",
+          "title": "outdoor display"
+        }
+      ],
+      "page": 299,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -196,7 +420,24 @@
         "r": 326.6782803999997,
         "b": 559.5374178045213
       },
-      "content": "Ƶ Communication wiring disconnected"
+      "content": "Ƶ Communication wiring disconnected",
+      "section_id": "sec_auto_3252",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_3252",
+          "title": "outdoor display"
+        }
+      ],
+      "page": 299,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -209,7 +450,24 @@
         "r": 135.00727886000004,
         "b": 534.4379823400001
       },
-      "content": "Troubleshooting"
+      "content": "Troubleshooting",
+      "section_id": "sec_auto_3252",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_3252",
+          "title": "outdoor display"
+        }
+      ],
+      "page": 299,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -222,7 +480,24 @@
         "r": 206.71615400000005,
         "b": 534.4399860000001
       },
-      "content": "* Caution"
+      "content": "* Caution",
+      "section_id": "sec_auto_3252",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_3252",
+          "title": "outdoor display"
+        }
+      ],
+      "page": 299,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -235,7 +510,24 @@
         "r": 552.4617882600008,
         "b": 534.4399860000001
       },
-      "content": "Be sure to turn off power switch before connect or disconnect connector,      or"
+      "content": "Be sure to turn off power switch before connect or disconnect connector,      or",
+      "section_id": "sec_auto_3252",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_3252",
+          "title": "outdoor display"
+        }
+      ],
+      "page": 299,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -248,7 +540,24 @@
         "r": 367.44103208000024,
         "b": 518.9692830000001
       },
-      "content": "else parts damage may be occurred."
+      "content": "else parts damage may be occurred.",
+      "section_id": "sec_auto_3252",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_3252",
+          "title": "outdoor display"
+        }
+      ],
+      "page": 299,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -261,7 +570,24 @@
         "r": 348.76496774000066,
         "b": 463.14482219999996
       },
-      "content": "Check  whether  Terminal  CN23  and  CN22  on  the  outdoor mainboard CN10 and CN11 on IPM module"
+      "content": "Check  whether  Terminal  CN23  and  CN22  on  the  outdoor mainboard CN10 and CN11 on IPM module",
+      "section_id": "sec_auto_3252",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_3252",
+          "title": "outdoor display"
+        }
+      ],
+      "page": 299,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -274,7 +600,24 @@
         "r": 345.74613270000066,
         "b": 447.55395839999994
       },
-      "content": "Check whether the connected wire between IPM and outdoor"
+      "content": "Check whether the connected wire between IPM and outdoor",
+      "section_id": "sec_auto_3252",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_3252",
+          "title": "outdoor display"
+        }
+      ],
+      "page": 299,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -291,7 +634,24 @@
       "previous_block_id": "txt_2502",
       "image_hash": "fb7fc23d16415cb421e16735e748fadc42b4f4ff952ce98cc3365864905dd94b",
       "width": 504,
-      "height": 381
+      "height": 381,
+      "section_id": "sec_auto_3252",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_3252",
+          "title": "outdoor display"
+        }
+      ],
+      "page": 299,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -309,7 +669,24 @@
       "width": 32,
       "height": 10,
       "decorative": true,
-      "image_hash": "94999f07086a3008817d2cc3bb1f30a0eab22bdc27921adef7de776233c7e95e"
+      "image_hash": "94999f07086a3008817d2cc3bb1f30a0eab22bdc27921adef7de776233c7e95e",
+      "section_id": "sec_auto_3252",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_3252",
+          "title": "outdoor display"
+        }
+      ],
+      "page": 299,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

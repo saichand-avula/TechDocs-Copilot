@@ -19,12 +19,26 @@
       },
       "image_path": "figures/figure_0008.png",
       "next_block_id": "txt_0084",
-      "caption_id": "txt_0084",
       "caption": ". Display and Keypad",
       "figure_number": "Figure 1-1",
       "image_hash": "a40cc211a27fb9b839f3a54f32b598f04df1ccbb4c507ca04dbd7816f24b22ed",
       "width": 432,
-      "height": 441
+      "height": 441,
+      "section_id": "sec_auto_84",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_84",
+          "title": "CAUTION: Do not place the infuser in service if the self test fails."
+        }
+      ],
+      "page": 18,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0008",
+      "source": "pdf_text",
+      "caption_id": "txt_0084"
     },
     {
       "type": "caption",
@@ -38,6 +52,20 @@
         "b": 178.35827792999999
       },
       "content": "Figure 1-1. Display and Keypad",
+      "section_id": "sec_auto_84",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_84",
+          "title": "CAUTION: Do not place the infuser in service if the self test fails."
+        }
+      ],
+      "page": 18,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0008",
+      "source": "pdf_text",
       "caption_for": "fig_0008"
     }
   ],

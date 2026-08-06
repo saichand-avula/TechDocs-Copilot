@@ -18,8 +18,21 @@
         "b": 737.32625
       },
       "content": "2-4-6. β SERVO AMP Alarm Detect Function",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "2",
+      "section_id": "sec_2",
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-4-6. β SERVO AMP Alarm Detect Function"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 263,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -36,7 +49,20 @@
       "previous_block_id": "txt_1879",
       "image_hash": "6b050f6ab76f2a8b0a626d40554dfa89581c2cb2490ca698951ba8fe6cda4e66",
       "width": 26,
-      "height": 41
+      "height": 41,
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-4-6. β SERVO AMP Alarm Detect Function"
+        }
+      ],
+      "page": 263,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -51,7 +77,20 @@
       },
       "markdown": "| PWM board LED display   | I/O Link board   | Alarm                        | Description                                                                                                 |\n|-------------------------|------------------|------------------------------|-------------------------------------------------------------------------------------------------------------|\n|                         |                  | Overvoltage(HV) This         | alarm is issued when the DC voltage of the main circuit power is too high.                                  |\n|                         |                  | DC link low voltage (LVDC)   | This alarm is issued when the DC voltage of the main circuit power is too low.                              |\n|                         |                  | Regenerative overheat (DCOH) | This alarm is issued when the average regenerative discharge energy is too high                             |\n|                         |                  | Overheat (OH)                | The load on the motor may be too high.                                                                      |\n|                         |                  | Fan stop (FAL)               | This alarm is issued when the fan motor built into the servo AMP has failed.                                |\n|                         |                  | Overcurrent (HC)             | This alarm is issued when an excessively large current flows in the main circuit                            |\n|                         |                  | AMP NOT READY                | This indicates that control power (+24VDC) is supplied. No alarm is issued, but the motor is not activated. |\n|                         |                  | AMP READY                    | This indicates that the motor is activate, and that commands can now be accepted.                           |",
       "rows": 9,
-      "cols": 4
+      "cols": 4,
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-4-6. β SERVO AMP Alarm Detect Function"
+        }
+      ],
+      "page": 263,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

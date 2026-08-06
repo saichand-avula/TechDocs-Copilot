@@ -18,8 +18,25 @@
         "b": 726.9695302479339
       },
       "content": "4.3.5",
-      "level": 2,
-      "role": "section"
+      "level": 3,
+      "section_number": "4.3.5",
+      "section_id": "sec_4_3_5",
+      "section_path": [
+        {
+          "id": "sec_auto_468",
+          "title": "DRIVER PWA"
+        },
+        {
+          "id": "sec_4_3_5",
+          "title": "4.3.5"
+        }
+      ],
+      "parent_section_id": "sec_auto_468",
+      "section_level": 3,
+      "page": 52,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -34,7 +51,19 @@
       },
       "content": "SWITCH PWA",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_474",
+      "section_path": [
+        {
+          "id": "sec_auto_474",
+          "title": "SWITCH PWA"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 2,
+      "page": 52,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -48,7 +77,20 @@
         "b": 662.207704832033
       },
       "content": "The switch PWA (see Figure 9-14) contains the plunger translation position sensor, which is one of six position sensors in the system. The switch PWA is located at the side of the mechanism sub-chassis, and connects to the driver PWA.",
-      "hyperlink_hint": true
+      "hyperlink_hint": true,
+      "section_id": "sec_auto_474",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_474",
+          "title": "SWITCH PWA"
+        }
+      ],
+      "page": 52,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -62,8 +104,25 @@
         "b": 610.2828958877272
       },
       "content": "4.3.6 APP PWA",
-      "level": 2,
-      "role": "section"
+      "level": 3,
+      "section_number": "4.3.6",
+      "section_id": "sec_4_3_6",
+      "section_path": [
+        {
+          "id": "sec_auto_474",
+          "title": "SWITCH PWA"
+        },
+        {
+          "id": "sec_4_3_6",
+          "title": "4.3.6 APP PWA"
+        }
+      ],
+      "parent_section_id": "sec_auto_474",
+      "section_level": 3,
+      "page": 52,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -77,7 +136,24 @@
         "b": 575.2075248800329
       },
       "content": "The APP (air, pressure, and pin) PWA (see Figure 9-15) is  mounted in the mechanism sub-chassis. The APP PWA contains the following mechanism subsystem circuitry:",
-      "hyperlink_hint": true
+      "hyperlink_hint": true,
+      "section_id": "sec_4_3_6",
+      "parent_section_id": "sec_auto_474",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_auto_474",
+          "title": "SWITCH PWA"
+        },
+        {
+          "id": "sec_4_3_6",
+          "title": "4.3.6 APP PWA"
+        }
+      ],
+      "page": 52,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -90,7 +166,24 @@
         "r": 308.06070300850035,
         "b": 557.2076952079329
       },
-      "content": "-Proximal and distal air sensors and circuitry"
+      "content": "-Proximal and distal air sensors and circuitry",
+      "section_id": "sec_4_3_6",
+      "parent_section_id": "sec_auto_474",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_auto_474",
+          "title": "SWITCH PWA"
+        },
+        {
+          "id": "sec_4_3_6",
+          "title": "4.3.6 APP PWA"
+        }
+      ],
+      "page": 52,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -103,7 +196,24 @@
         "r": 390.25429113209964,
         "b": 539.807657338033
       },
-      "content": "-Proximal and distal pressure sensor amplifiers and excitation"
+      "content": "-Proximal and distal pressure sensor amplifiers and excitation",
+      "section_id": "sec_4_3_6",
+      "parent_section_id": "sec_auto_474",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_auto_474",
+          "title": "SWITCH PWA"
+        },
+        {
+          "id": "sec_4_3_6",
+          "title": "4.3.6 APP PWA"
+        }
+      ],
+      "page": 52,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -116,7 +226,24 @@
         "r": 246.9415000439002,
         "b": 522.347660207933
       },
-      "content": "-V2_5 precision voltage reference"
+      "content": "-V2_5 precision voltage reference",
+      "section_id": "sec_4_3_6",
+      "parent_section_id": "sec_auto_474",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_auto_474",
+          "title": "SWITCH PWA"
+        },
+        {
+          "id": "sec_4_3_6",
+          "title": "4.3.6 APP PWA"
+        }
+      ],
+      "page": 52,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -129,7 +256,24 @@
         "r": 258.18953853710013,
         "b": 504.88766307783294
       },
-      "content": "-Pin detector optical switch module"
+      "content": "-Pin detector optical switch module",
+      "section_id": "sec_4_3_6",
+      "parent_section_id": "sec_auto_474",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_auto_474",
+          "title": "SWITCH PWA"
+        },
+        {
+          "id": "sec_4_3_6",
+          "title": "4.3.6 APP PWA"
+        }
+      ],
+      "page": 52,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -142,7 +286,24 @@
         "r": 504.07449660930035,
         "b": 457.48797548783295
       },
-      "content": "The APP PWA is a four layer board, with one ground plane, one power plane and two signal layers. The APP PWA uses SMT components, mounted on both sides of the board. The air sensors and the pin detector module are board mounted."
+      "content": "The APP PWA is a four layer board, with one ground plane, one power plane and two signal layers. The APP PWA uses SMT components, mounted on both sides of the board. The air sensors and the pin detector module are board mounted.",
+      "section_id": "sec_4_3_6",
+      "parent_section_id": "sec_auto_474",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_auto_474",
+          "title": "SWITCH PWA"
+        },
+        {
+          "id": "sec_4_3_6",
+          "title": "4.3.6 APP PWA"
+        }
+      ],
+      "page": 52,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -155,7 +316,24 @@
         "r": 503.9344588687,
         "b": 421.48841574373296
       },
-      "content": "See Section 4.2.3 for a functional description, and see Table 4-9 for APP PWA interface connections."
+      "content": "See Section 4.2.3 for a functional description, and see Table 4-9 for APP PWA interface connections.",
+      "section_id": "sec_4_3_6",
+      "parent_section_id": "sec_auto_474",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_auto_474",
+          "title": "SWITCH PWA"
+        },
+        {
+          "id": "sec_4_3_6",
+          "title": "4.3.6 APP PWA"
+        }
+      ],
+      "page": 52,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -170,7 +348,24 @@
       },
       "markdown": "| Table 4-9. APP PWA Interface Connections   | Table 4-9. APP PWA Interface Connections   | Table 4-9. APP PWA Interface Connections   |\n|--------------------------------------------|--------------------------------------------|--------------------------------------------|\n| Connector                                  | Type                                       | Interface                                  |\n| J15                                        | 20 pin SMT                                 | Flat flex cable to driver PWA              |\n| J11                                        | 10 pin SMT                                 | Pressure sensor connector                  |",
       "rows": 4,
-      "cols": 3
+      "cols": 3,
+      "section_id": "sec_4_3_6",
+      "parent_section_id": "sec_auto_474",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_auto_474",
+          "title": "SWITCH PWA"
+        },
+        {
+          "id": "sec_4_3_6",
+          "title": "4.3.6 APP PWA"
+        }
+      ],
+      "page": 52,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -185,7 +380,20 @@
       },
       "content": "4.4",
       "level": 2,
-      "role": "section"
+      "section_number": "4.4",
+      "section_id": "sec_4_4",
+      "section_path": [
+        {
+          "id": "sec_4_4",
+          "title": "4.4"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 2,
+      "page": 52,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -200,7 +408,19 @@
       },
       "content": "REMOTE MOUNTED PERIPHERALS",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_486",
+      "section_path": [
+        {
+          "id": "sec_auto_486",
+          "title": "REMOTE MOUNTED PERIPHERALS"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 2,
+      "page": 52,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -213,7 +433,20 @@
         "r": 418.4230918139996,
         "b": 236.3273249280328
       },
-      "content": "The following sections describe the major remote mounted peripherals."
+      "content": "The following sections describe the major remote mounted peripherals.",
+      "section_id": "sec_auto_486",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_486",
+          "title": "REMOTE MOUNTED PERIPHERALS"
+        }
+      ],
+      "page": 52,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -227,8 +460,25 @@
         "b": 184.34302588772732
       },
       "content": "4.4.1 LCD",
-      "level": 2,
-      "role": "section"
+      "level": 3,
+      "section_number": "4.4.1",
+      "section_id": "sec_4_4_1",
+      "section_path": [
+        {
+          "id": "sec_auto_486",
+          "title": "REMOTE MOUNTED PERIPHERALS"
+        },
+        {
+          "id": "sec_4_4_1",
+          "title": "4.4.1 LCD"
+        }
+      ],
+      "parent_section_id": "sec_auto_486",
+      "section_level": 3,
+      "page": 52,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -241,7 +491,24 @@
         "r": 504.08077141559926,
         "b": 99.92399999999998
       },
-      "content": "The infuser uses a graphic LCD module with a CCFT. The CCFT provides a backlight source for the LCD. The LCD requires a nominal -16 V DC  supply for contrast control, which is controlled by the CPU. The infuser's graphic display data is shifted out to the LCD by the  CPU  LCD  controller,  which  interfaces  directly  with  the  CPU (see Section 4.2.1.6) . The display  is  configured  as  a  240  x  240  dot  matrix  with  a  viewing  angle of approximately 60 ° ."
+      "content": "The infuser uses a graphic LCD module with a CCFT. The CCFT provides a backlight source for the LCD. The LCD requires a nominal -16 V DC  supply for contrast control, which is controlled by the CPU. The infuser's graphic display data is shifted out to the LCD by the  CPU  LCD  controller,  which  interfaces  directly  with  the  CPU (see Section 4.2.1.6) . The display  is  configured  as  a  240  x  240  dot  matrix  with  a  viewing  angle of approximately 60 ° .",
+      "section_id": "sec_4_4_1",
+      "parent_section_id": "sec_auto_486",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_auto_486",
+          "title": "REMOTE MOUNTED PERIPHERALS"
+        },
+        {
+          "id": "sec_4_4_1",
+          "title": "4.4.1 LCD"
+        }
+      ],
+      "page": 52,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

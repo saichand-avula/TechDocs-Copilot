@@ -17,7 +17,20 @@
         "r": 503.9556736900007,
         "b": 705.2276648320329
       },
-      "content": "There is a shared responsibility between manufacturers, customers, and users to assure that medical equipment and systems are designed and operated as intended. Medical electrical equipment requires special precautions regarding electromagnetic compatibility."
+      "content": "There is a shared responsibility between manufacturers, customers, and users to assure that medical equipment and systems are designed and operated as intended. Medical electrical equipment requires special precautions regarding electromagnetic compatibility.",
+      "section_id": "sec_1_7",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1_7",
+          "title": "1.7 ELECTROMAGNETIC COMPATIBILITY"
+        }
+      ],
+      "page": 16,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -30,7 +43,20 @@
         "r": 504.05756459230093,
         "b": 633.2286449439331
       },
-      "content": "The  electromagnetic  environment  should  be  managed  to  permit  the  infusion  system to perform as intended without disturbing other equipment. The infusion system should not be used adjacent to or stacked with other equipment. If the device must be used adjacent to or stacked with other equipment, monitor the equipment to assure there is no electromagnetic interference, and verify normal infuser operation."
+      "content": "The  electromagnetic  environment  should  be  managed  to  permit  the  infusion  system to perform as intended without disturbing other equipment. The infusion system should not be used adjacent to or stacked with other equipment. If the device must be used adjacent to or stacked with other equipment, monitor the equipment to assure there is no electromagnetic interference, and verify normal infuser operation.",
+      "section_id": "sec_1_7",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1_7",
+          "title": "1.7 ELECTROMAGNETIC COMPATIBILITY"
+        }
+      ],
+      "page": 16,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -45,7 +71,20 @@
       },
       "content": "1.8 INSTRUMENT INSTALLATION PROCEDURE",
       "level": 2,
-      "role": "section"
+      "section_number": "1.8",
+      "section_id": "sec_1_8",
+      "section_path": [
+        {
+          "id": "sec_1_8",
+          "title": "1.8 INSTRUMENT INSTALLATION PROCEDURE"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 2,
+      "page": 16,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "admonition",
@@ -59,7 +98,20 @@
         "b": 506.44017420508555
       },
       "content": "CAUTION: Infusion  system  damage  may  occur  unless  proper  care  is  exercised during product unpacking and installation. The battery may not be fully charged upon receipt of the infuser. Do not place the infuser in service if it fails the self test.",
-      "severity": "caution"
+      "severity": "caution",
+      "section_id": "sec_1_8",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1_8",
+          "title": "1.8 INSTRUMENT INSTALLATION PROCEDURE"
+        }
+      ],
+      "page": 16,
+      "chunk_hint": "admonition",
+      "semantic_role": "caution",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -72,7 +124,20 @@
         "r": 504.0442181789007,
         "b": 410.3290948479328
       },
-      "content": "Accessory equipment connected to the analog and digital interfaces must be certified according to the respective IEC standards (e.g., IEC 60950 for data processing equipment, and IEC 60601-1 for medical equipment). Furthermore, all configurations shall comply with the system standard IEC 60601-1-1. Any person who connects additional equipment to the signal input or output part configures a medical system, and is therefore responsible for ensuring that the system complies with the requirements of IEC 60601-1-1. If in doubt, contact Hospira Technical Support Operations (see Section 6.1) ."
+      "content": "Accessory equipment connected to the analog and digital interfaces must be certified according to the respective IEC standards (e.g., IEC 60950 for data processing equipment, and IEC 60601-1 for medical equipment). Furthermore, all configurations shall comply with the system standard IEC 60601-1-1. Any person who connects additional equipment to the signal input or output part configures a medical system, and is therefore responsible for ensuring that the system complies with the requirements of IEC 60601-1-1. If in doubt, contact Hospira Technical Support Operations (see Section 6.1) .",
+      "section_id": "sec_1_8",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1_8",
+          "title": "1.8 INSTRUMENT INSTALLATION PROCEDURE"
+        }
+      ],
+      "page": 16,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -85,7 +150,20 @@
         "r": 494.70392000110087,
         "b": 386.32935515183283
       },
-      "content": "The instrument installation procedure consists of unpacking, inspection, and self test."
+      "content": "The instrument installation procedure consists of unpacking, inspection, and self test.",
+      "section_id": "sec_1_8",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1_8",
+          "title": "1.8 INSTRUMENT INSTALLATION PROCEDURE"
+        }
+      ],
+      "page": 16,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -99,8 +177,25 @@
         "b": 336.38292588772725
       },
       "content": "1.8.1 UNPACKING",
-      "level": 2,
-      "role": "section"
+      "level": 3,
+      "section_number": "1.8.1",
+      "section_id": "sec_1_8_1",
+      "section_path": [
+        {
+          "id": "sec_1_8",
+          "title": "1.8 INSTRUMENT INSTALLATION PROCEDURE"
+        },
+        {
+          "id": "sec_1_8_1",
+          "title": "1.8.1 UNPACKING"
+        }
+      ],
+      "parent_section_id": "sec_1_8",
+      "section_level": 3,
+      "page": 16,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -113,7 +208,24 @@
         "r": 503.9943185287992,
         "b": 277.3080947240328
       },
-      "content": "Inspect the shipping container as detailed in Section 1.8.2 . Use care when unpacking the infusion system. Retain the packing slip and save all packing material in the event it is necessary to return the infuser to the factory. Verify the shipping container contains a copy of the system operating manual."
+      "content": "Inspect the shipping container as detailed in Section 1.8.2 . Use care when unpacking the infusion system. Retain the packing slip and save all packing material in the event it is necessary to return the infuser to the factory. Verify the shipping container contains a copy of the system operating manual.",
+      "section_id": "sec_1_8_1",
+      "parent_section_id": "sec_1_8",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_1_8",
+          "title": "1.8 INSTRUMENT INSTALLATION PROCEDURE"
+        },
+        {
+          "id": "sec_1_8_1",
+          "title": "1.8.1 UNPACKING"
+        }
+      ],
+      "page": 16,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -127,8 +239,25 @@
         "b": 227.36301588772722
       },
       "content": "1.8.2 INSPECTION",
-      "level": 2,
-      "role": "section"
+      "level": 3,
+      "section_number": "1.8.2",
+      "section_id": "sec_1_8_2",
+      "section_path": [
+        {
+          "id": "sec_1_8",
+          "title": "1.8 INSTRUMENT INSTALLATION PROCEDURE"
+        },
+        {
+          "id": "sec_1_8_2",
+          "title": "1.8.2 INSPECTION"
+        }
+      ],
+      "parent_section_id": "sec_1_8",
+      "section_level": 3,
+      "page": 16,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -141,7 +270,24 @@
         "r": 503.9287816629994,
         "b": 192.34761488003278
       },
-      "content": "Inspect the shipping container for damage. Should any damage be found, contact the delivering carrier immediately."
+      "content": "Inspect the shipping container for damage. Should any damage be found, contact the delivering carrier immediately.",
+      "section_id": "sec_1_8_2",
+      "parent_section_id": "sec_1_8",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_1_8",
+          "title": "1.8 INSTRUMENT INSTALLATION PROCEDURE"
+        },
+        {
+          "id": "sec_1_8_2",
+          "title": "1.8.2 INSPECTION"
+        }
+      ],
+      "page": 16,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "admonition",
@@ -155,7 +301,24 @@
         "b": 156.4604745089855
       },
       "content": "CAUTION: Inspect the infuser for evidence of damage. Do not use the device if it appears to be damaged. Should damage be found, contact Hospira (see Section 6.1) .",
-      "severity": "caution"
+      "severity": "caution",
+      "section_id": "sec_1_8_2",
+      "parent_section_id": "sec_1_8",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_1_8",
+          "title": "1.8 INSTRUMENT INSTALLATION PROCEDURE"
+        },
+        {
+          "id": "sec_1_8_2",
+          "title": "1.8.2 INSPECTION"
+        }
+      ],
+      "page": 16,
+      "chunk_hint": "admonition",
+      "semantic_role": "caution",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -168,7 +331,24 @@
         "r": 504.00557334009926,
         "b": 108.34867534383284
       },
-      "content": "Inspect the infusion system periodically for signs of defects such as worn accessories, broken connections, or damaged cable assemblies. Also inspect the infuser after repair or during cleaning. Replace any damaged or defective external parts."
+      "content": "Inspect the infusion system periodically for signs of defects such as worn accessories, broken connections, or damaged cable assemblies. Also inspect the infuser after repair or during cleaning. Replace any damaged or defective external parts.",
+      "section_id": "sec_1_8_2",
+      "parent_section_id": "sec_1_8",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_1_8",
+          "title": "1.8 INSTRUMENT INSTALLATION PROCEDURE"
+        },
+        {
+          "id": "sec_1_8_2",
+          "title": "1.8.2 INSPECTION"
+        }
+      ],
+      "page": 16,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

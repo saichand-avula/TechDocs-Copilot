@@ -19,11 +19,29 @@
       },
       "image_path": "figures/figure_0212.png",
       "next_block_id": "txt_0681",
-      "caption_id": "txt_0681",
       "caption": "PCB(1)",
       "image_hash": "2d99220b5d890dafcaf9d1dd337f6bebf83ee6b6a09d62678b8b71db44fd5055",
       "width": 451,
-      "height": 535
+      "height": 535,
+      "section_id": "sec_auto_943",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Introduction"
+        },
+        {
+          "id": "sec_auto_943",
+          "title": "Note: Other designations"
+        }
+      ],
+      "page": 88,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0212",
+      "source": "pdf_text",
+      "caption_id": "txt_0681"
     },
     {
       "type": "caption",
@@ -37,6 +55,24 @@
         "b": 717.6130569999999
       },
       "content": "PCB(1)",
+      "section_id": "sec_auto_943",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Introduction"
+        },
+        {
+          "id": "sec_auto_943",
+          "title": "Note: Other designations"
+        }
+      ],
+      "page": 88,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0212",
+      "source": "pdf_text",
       "caption_for": "fig_0212"
     }
   ],

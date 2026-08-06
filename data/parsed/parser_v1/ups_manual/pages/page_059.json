@@ -21,7 +21,24 @@
       "next_block_id": "txt_0535",
       "width": 26,
       "height": 27,
-      "image_hash": "a784b7c061e3b7649ed8a7747a9c191b41787f31ec4a590b5f93fc91958a9d25"
+      "image_hash": "a784b7c061e3b7649ed8a7747a9c191b41787f31ec4a590b5f93fc91958a9d25",
+      "section_id": "sec_5_1_6",
+      "parent_section_id": "sec_1",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Button control"
+        },
+        {
+          "id": "sec_5_1_6",
+          "title": "5.1.6 Description of Menu Details"
+        }
+      ],
+      "page": 59,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -38,7 +55,24 @@
       "next_block_id": "txt_0535",
       "width": 25,
       "height": 27,
-      "image_hash": "14876abb86b66ea4d1adc4fbbd1615e636acbc7e15fec7e7f5c9697eeb18f431"
+      "image_hash": "14876abb86b66ea4d1adc4fbbd1615e636acbc7e15fec7e7f5c9697eeb18f431",
+      "section_id": "sec_5_1_6",
+      "parent_section_id": "sec_1",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Button control"
+        },
+        {
+          "id": "sec_5_1_6",
+          "title": "5.1.6 Description of Menu Details"
+        }
+      ],
+      "page": 59,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -55,7 +89,24 @@
       "next_block_id": "txt_0535",
       "width": 25,
       "height": 25,
-      "image_hash": "5fe7c1646714dee8e3e0dc206889cd61a7bc2b18aaeb9a20878e01c60e7c71b8"
+      "image_hash": "5fe7c1646714dee8e3e0dc206889cd61a7bc2b18aaeb9a20878e01c60e7c71b8",
+      "section_id": "sec_5_1_6",
+      "parent_section_id": "sec_1",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Button control"
+        },
+        {
+          "id": "sec_5_1_6",
+          "title": "5.1.6 Description of Menu Details"
+        }
+      ],
+      "page": 59,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -72,7 +123,24 @@
       "next_block_id": "txt_0535",
       "width": 35,
       "height": 21,
-      "image_hash": "57077407c4d6d49a9b7fc467a41c1c9d084e706dfd748564fe24e72d700e516f"
+      "image_hash": "57077407c4d6d49a9b7fc467a41c1c9d084e706dfd748564fe24e72d700e516f",
+      "section_id": "sec_5_1_6",
+      "parent_section_id": "sec_1",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Button control"
+        },
+        {
+          "id": "sec_5_1_6",
+          "title": "5.1.6 Description of Menu Details"
+        }
+      ],
+      "page": 59,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -89,7 +157,24 @@
       "next_block_id": "txt_0535",
       "width": 27,
       "height": 19,
-      "image_hash": "fe487c42933a5a7981b4a49383f66a664b806b33c3ec0e723723e1bac142e0e8"
+      "image_hash": "fe487c42933a5a7981b4a49383f66a664b806b33c3ec0e723723e1bac142e0e8",
+      "section_id": "sec_5_1_6",
+      "parent_section_id": "sec_1",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Button control"
+        },
+        {
+          "id": "sec_5_1_6",
+          "title": "5.1.6 Description of Menu Details"
+        }
+      ],
+      "page": 59,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "caption",
@@ -103,6 +188,23 @@
         "b": 713.3961013631949
       },
       "content": "Table 5-11: Item description of UPS system information window",
+      "section_id": "sec_5_1_6",
+      "parent_section_id": "sec_1",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Button control"
+        },
+        {
+          "id": "sec_5_1_6",
+          "title": "5.1.6 Description of Menu Details"
+        }
+      ],
+      "page": 59,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "source": "pdf_text",
       "caption_for": "tbl_0028"
     },
     {
@@ -117,11 +219,29 @@
         "b": 583.6216254032099
       },
       "markdown": "| Display Content                                                 | Meaning                                                                                                                                            |\n|-----------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|\n| 89XX                                                            | UPS series name                                                                                                                                    |\n| Stand-alone online Parallel system (M/N) Hot standby host/slave | Single UPS online: double-conversion single UPS system Parallel system (M/N): parallel redundant system Hot standby host/slave: hot standby system |\n| 2019-01-05                                                      | Current date (format: year-month-date)                                                                                                             |\n| 15:26                                                           | Current time (format: 24 hours, hour: minute: second)                                                                                              |",
-      "caption_id": "txt_0537",
       "title": "Table 5-11: Item description of UPS system information window",
       "table_number": "Table 5-11",
       "rows": 5,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_5_1_6",
+      "parent_section_id": "sec_1",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Button control"
+        },
+        {
+          "id": "sec_5_1_6",
+          "title": "5.1.6 Description of Menu Details"
+        }
+      ],
+      "page": 59,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "group_id": "grp_tbl_0028",
+      "source": "pdf_text",
+      "caption_id": "txt_0537"
     },
     {
       "type": "paragraph",
@@ -134,7 +254,24 @@
         "r": 373.20568,
         "b": 569.966101363195
       },
-      "content": "Select menu icon by LCD touch screen to check data window."
+      "content": "Select menu icon by LCD touch screen to check data window.",
+      "section_id": "sec_5_1_6",
+      "parent_section_id": "sec_1",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Button control"
+        },
+        {
+          "id": "sec_5_1_6",
+          "title": "5.1.6 Description of Menu Details"
+        }
+      ],
+      "page": 59,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -151,7 +288,24 @@
       "title": "Table 5-12: UPS menu icon and UPS data window",
       "table_number": "Table 5-12",
       "rows": 22,
-      "cols": 4
+      "cols": 4,
+      "section_id": "sec_5_1_6",
+      "parent_section_id": "sec_1",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Button control"
+        },
+        {
+          "id": "sec_5_1_6",
+          "title": "5.1.6 Description of Menu Details"
+        }
+      ],
+      "page": 59,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "caption",
@@ -165,6 +319,24 @@
         "b": 538.7661013631949
       },
       "content": "Table 5-12: UPS menu icon and UPS data window",
+      "section_id": "sec_5_1_6",
+      "parent_section_id": "sec_1",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Button control"
+        },
+        {
+          "id": "sec_5_1_6",
+          "title": "5.1.6 Description of Menu Details"
+        }
+      ],
+      "page": 59,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_tbl_0028",
+      "source": "pdf_text",
       "caption_for": "tbl_0028"
     }
   ],

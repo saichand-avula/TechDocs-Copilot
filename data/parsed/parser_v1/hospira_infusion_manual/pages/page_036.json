@@ -17,7 +17,24 @@
         "r": 436.4838125111,
         "b": 728.42168707
       },
-      "content": "The minimum line impedance is 2 K Ω (EIA-232-D standard: 3 K Ω min.)"
+      "content": "The minimum line impedance is 2 K Ω (EIA-232-D standard: 3 K Ω min.)",
+      "section_id": "sec_4_2_1_19",
+      "parent_section_id": "sec_auto_263",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_auto_263",
+          "title": "FRONT PANEL KEYPAD MATRIX"
+        },
+        {
+          "id": "sec_4_2_1_19",
+          "title": "4.2.1.19 DATAPORT INTERFACE"
+        }
+      ],
+      "page": 36,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -30,7 +47,24 @@
         "r": 446.2685263351,
         "b": 710.9616899399
       },
-      "content": "The maximum line impedance is 30 K Ω (EIA-232-D standard: 7 K Ω max.)"
+      "content": "The maximum line impedance is 30 K Ω (EIA-232-D standard: 7 K Ω max.)",
+      "section_id": "sec_4_2_1_19",
+      "parent_section_id": "sec_auto_263",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_auto_263",
+          "title": "FRONT PANEL KEYPAD MATRIX"
+        },
+        {
+          "id": "sec_4_2_1_19",
+          "title": "4.2.1.19 DATAPORT INTERFACE"
+        }
+      ],
+      "page": 36,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -43,7 +77,24 @@
         "r": 444.11318017110017,
         "b": 694.3672699280329
       },
-      "content": "The maximum line capacitance is 13 nF (EIA-232-D standard: 2,500 pF)"
+      "content": "The maximum line capacitance is 13 nF (EIA-232-D standard: 2,500 pF)",
+      "section_id": "sec_4_2_1_19",
+      "parent_section_id": "sec_auto_263",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_auto_263",
+          "title": "FRONT PANEL KEYPAD MATRIX"
+        },
+        {
+          "id": "sec_4_2_1_19",
+          "title": "4.2.1.19 DATAPORT INTERFACE"
+        }
+      ],
+      "page": 36,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -56,7 +107,24 @@
         "r": 504.0126803111002,
         "b": 622.9082817821331
       },
-      "content": "The communications default is 1200 BAUD, no parity, 8 data bits and 1 stop bit. The BAUD rate is selectable (1200, 2400, 4800, and 9600). The data format on the serial port is a 10 bit frame with asynchronous start and stop. The CTS line is held high and the RTS line is disconnected. The DataPort is isolated from the main system by an optical data path on the peripheral PWA and an isolated power supply."
+      "content": "The communications default is 1200 BAUD, no parity, 8 data bits and 1 stop bit. The BAUD rate is selectable (1200, 2400, 4800, and 9600). The data format on the serial port is a 10 bit frame with asynchronous start and stop. The CTS line is held high and the RTS line is disconnected. The DataPort is isolated from the main system by an optical data path on the peripheral PWA and an isolated power supply.",
+      "section_id": "sec_4_2_1_19",
+      "parent_section_id": "sec_auto_263",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_auto_263",
+          "title": "FRONT PANEL KEYPAD MATRIX"
+        },
+        {
+          "id": "sec_4_2_1_19",
+          "title": "4.2.1.19 DATAPORT INTERFACE"
+        }
+      ],
+      "page": 36,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -70,8 +138,25 @@
         "b": 590.5094875098606
       },
       "content": "4.2.1.20",
-      "level": 2,
-      "role": "section"
+      "level": 4,
+      "section_number": "4.2.1.20",
+      "section_id": "sec_4_2_1_20",
+      "section_path": [
+        {
+          "id": "sec_auto_263",
+          "title": "FRONT PANEL KEYPAD MATRIX"
+        },
+        {
+          "id": "sec_4_2_1_20",
+          "title": "4.2.1.20"
+        }
+      ],
+      "parent_section_id": "sec_auto_263",
+      "section_level": 4,
+      "page": 36,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -86,7 +171,19 @@
       },
       "content": "POWER SUPPLY INTERFACE",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_288",
+      "section_path": [
+        {
+          "id": "sec_auto_288",
+          "title": "POWER SUPPLY INTERFACE"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 2,
+      "page": 36,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -99,7 +196,20 @@
         "r": 504.0350549696999,
         "b": 526.9076548320329
       },
-      "content": "The CPU subsystem interfaces the power supply subsystem by providing the MMIO signals needed  for  power  control  and  battery  management.  Additionally,  the  CPU  subsystem measures the battery terminal voltage and charge/discharge current via the ADC."
+      "content": "The CPU subsystem interfaces the power supply subsystem by providing the MMIO signals needed  for  power  control  and  battery  management.  Additionally,  the  CPU  subsystem measures the battery terminal voltage and charge/discharge current via the ADC.",
+      "section_id": "sec_auto_288",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_288",
+          "title": "POWER SUPPLY INTERFACE"
+        }
+      ],
+      "page": 36,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -112,7 +222,20 @@
         "r": 333.0692921175004,
         "b": 502.90791513593285
       },
-      "content": "See Table 4-3 for CPU-power supply interface signals."
+      "content": "See Table 4-3 for CPU-power supply interface signals.",
+      "section_id": "sec_auto_288",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_288",
+          "title": "POWER SUPPLY INTERFACE"
+        }
+      ],
+      "page": 36,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -126,9 +249,23 @@
         "b": 98.69427490234375
       },
       "markdown": "Legend: P = Power;  A = Analog;  D = Digital;  I = Input;  O = Output\n\n| Table 4-3. CPU-Power Supply Interface   | Table 4-3. CPU-Power Supply Interface                                                    | Table 4-3. CPU-Power Supply Interface   |\n|-----------------------------------------|------------------------------------------------------------------------------------------|-----------------------------------------|\n| Signal Name                             | Type                                                                                     | Description                             |\n| D, O                                    | Holds system power on                                                                    | PWRHLD                                  |\n| A, I                                    | Startup pulse from the ON/OFF key                                                        | STRTUP                                  |\n| D, I                                    | Digital startup pulse, used as interrupt to the CPU                                      | STRUPD*                                 |\n| P                                       | 3.3 V system power                                                                       | V3_3                                    |\n| P                                       | 5 V analog and interface power                                                           | V5_0/VANA                               |\n| P                                       | Raw, unregulated charger voltage or battery voltage                                      | VMOT                                    |\n| P                                       | 2.7 V backup power for RTC and non-volatile SRAM                                         | V2_7                                    |\n| P                                       | Full supply, backed up by supercap                                                       | VSC time 5 V                            |\n| P                                       | 12 V, low current supply for audio alarm                                                 | V12_0                                   |\n| D, I                                    | Signal that indicates overvoltage, regulation problem on the power supply main regulator | OVRVLT*                                 |\n| D, I                                    | Buffered AC on signal                                                                    | BACON                                   |\n| A, I                                    | Voltage proportional to integration of battery charge/discharge current                  | IBATT                                   |\n| A,                                      | Divided battery terminal voltage                                                         | VBATT I                                 |\n| D, O                                    | Battery charger enable                                                                   | CHG*                                    |\n| VFLOAT* D,                              | Set the main regulator voltage to battery float charge level                             | O                                       |\n| ITGRST D,                               | Reset the charge current                                                                 | O integrator                            |",
-      "caption_id": "txt_0261",
       "rows": 18,
-      "cols": 3
+      "cols": 3,
+      "section_id": "sec_auto_288",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_288",
+          "title": "POWER SUPPLY INTERFACE"
+        }
+      ],
+      "page": 36,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "group_id": "grp_tbl_0014",
+      "source": "pdf_text",
+      "caption_id": "txt_0261"
     },
     {
       "type": "caption",
@@ -142,6 +279,20 @@
         "b": 76.84757136493283
       },
       "content": "Legend: P = Power;  A = Analog;  D = Digital;  I = Input;  O = Output",
+      "section_id": "sec_auto_288",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_288",
+          "title": "POWER SUPPLY INTERFACE"
+        }
+      ],
+      "page": 36,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_tbl_0014",
+      "source": "pdf_text",
       "caption_for": "tbl_0014"
     }
   ],

@@ -18,7 +18,24 @@
         "b": 677.5045492035389
       },
       "content": "Remote Control Operation (Optional): The generator set may be operated from a remote switch connected to the control receptacle J3.  Installation instructions are furnished with the kit available from Cummins.  See Figure 3-4.",
-      "hyperlink_hint": true
+      "hyperlink_hint": true,
+      "section_id": "sec_auto_179",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3. Engine Controls"
+        },
+        {
+          "id": "sec_auto_179",
+          "title": "Control Operation"
+        }
+      ],
+      "page": 16,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -34,12 +51,30 @@
       "image_path": "figures/figure_0005.png",
       "previous_block_id": "txt_0239",
       "next_block_id": "txt_0240",
-      "caption_id": "txt_0240",
       "caption": ".  REMOTE CONTROL WIRING DIAGRAM",
       "figure_number": "FIGURE 3-4",
       "image_hash": "5e791dc520763778a3d8debd02485d377708ada41926a442ca36a8c096822599",
       "width": 245,
-      "height": 407
+      "height": 407,
+      "section_id": "sec_auto_179",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3. Engine Controls"
+        },
+        {
+          "id": "sec_auto_179",
+          "title": "Control Operation"
+        }
+      ],
+      "page": 16,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0005",
+      "source": "pdf_text",
+      "caption_id": "txt_0240"
     },
     {
       "type": "caption",
@@ -53,6 +88,24 @@
         "b": 225.04875693988754
       },
       "content": "FIGURE 3-4.  REMOTE CONTROL WIRING DIAGRAM",
+      "section_id": "sec_auto_179",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3. Engine Controls"
+        },
+        {
+          "id": "sec_auto_179",
+          "title": "Control Operation"
+        }
+      ],
+      "page": 16,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0005",
+      "source": "pdf_text",
       "caption_for": "fig_0005"
     },
     {
@@ -68,7 +121,23 @@
       },
       "content": "CONTROL TROUBLESHOOTING",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_247",
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3. Engine Controls"
+        },
+        {
+          "id": "sec_auto_247",
+          "title": "CONTROL TROUBLESHOOTING"
+        }
+      ],
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "page": 16,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -81,7 +150,24 @@
         "r": 564.7843999999994,
         "b": 649.6094492035387
       },
-      "content": "The information in this section is divided into three flow charts.  Determine the problem and then refer to the appropriate flow chart (A, B, or C) for the troubleshooting procedures."
+      "content": "The information in this section is divided into three flow charts.  Determine the problem and then refer to the appropriate flow chart (A, B, or C) for the troubleshooting procedures.",
+      "section_id": "sec_auto_247",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3. Engine Controls"
+        },
+        {
+          "id": "sec_auto_247",
+          "title": "CONTROL TROUBLESHOOTING"
+        }
+      ],
+      "page": 16,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -94,7 +180,24 @@
         "r": 469.50239999999945,
         "b": 610.4351492035387
       },
-      "content": "Engine does not crank."
+      "content": "Engine does not crank.",
+      "section_id": "sec_auto_247",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3. Engine Controls"
+        },
+        {
+          "id": "sec_auto_247",
+          "title": "CONTROL TROUBLESHOOTING"
+        }
+      ],
+      "page": 16,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -107,7 +210,24 @@
         "r": 517.8792999999994,
         "b": 596.4882492035387
       },
-      "content": "Engine cranks but does not start."
+      "content": "Engine cranks but does not start.",
+      "section_id": "sec_auto_247",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3. Engine Controls"
+        },
+        {
+          "id": "sec_auto_247",
+          "title": "CONTROL TROUBLESHOOTING"
+        }
+      ],
+      "page": 16,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -120,7 +240,24 @@
         "r": 536.8498999999996,
         "b": 568.5383492035386
       },
-      "content": "Engine starts but stops after running several seconds."
+      "content": "Engine starts but stops after running several seconds.",
+      "section_id": "sec_auto_247",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3. Engine Controls"
+        },
+        {
+          "id": "sec_auto_247",
+          "title": "CONTROL TROUBLESHOOTING"
+        }
+      ],
+      "page": 16,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -133,7 +270,24 @@
         "r": 564.7513999999996,
         "b": 501.4702492035385
       },
-      "content": "Before starting a troubleshooting procedure, make a few simple checks that may expose the problem and cut down on troubleshooting time."
+      "content": "Before starting a troubleshooting procedure, make a few simple checks that may expose the problem and cut down on troubleshooting time.",
+      "section_id": "sec_auto_247",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3. Engine Controls"
+        },
+        {
+          "id": "sec_auto_247",
+          "title": "CONTROL TROUBLESHOOTING"
+        }
+      ],
+      "page": 16,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -146,7 +300,24 @@
         "r": 564.8302999999994,
         "b": 349.7030492035386
       },
-      "content": " Check all modifications, repairs, and replacements performed since last satisfactory operation of set.  A loose wire connection overlooked when installing a replacement part could cause problems.  An incorrect connection, an opened switch or circuit breaker, or a loose plug-in are all potential problems that can be eliminated by a visual check."
+      "content": " Check all modifications, repairs, and replacements performed since last satisfactory operation of set.  A loose wire connection overlooked when installing a replacement part could cause problems.  An incorrect connection, an opened switch or circuit breaker, or a loose plug-in are all potential problems that can be eliminated by a visual check.",
+      "section_id": "sec_auto_247",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3. Engine Controls"
+        },
+        {
+          "id": "sec_auto_247",
+          "title": "CONTROL TROUBLESHOOTING"
+        }
+      ],
+      "page": 16,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -159,7 +330,24 @@
         "r": 564.7345999999999,
         "b": 281.61694920353875
       },
-      "content": " Unless absolutely sure that panel instruments are accurate, use portable test meters for troubleshooting."
+      "content": " Unless absolutely sure that panel instruments are accurate, use portable test meters for troubleshooting.",
+      "section_id": "sec_auto_247",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3. Engine Controls"
+        },
+        {
+          "id": "sec_auto_247",
+          "title": "CONTROL TROUBLESHOOTING"
+        }
+      ],
+      "page": 16,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -173,7 +361,24 @@
         "b": 158.76124920353868
       },
       "content": "To troubleshoot a problem, start at the upper-left corner of chart and answer all questions either YES or NO.  Follow the chart until the problem is found, performing referenced adjustments or test procedures.  Refer to Figures 3-1 through 3-4 for locating control  components,  leads,  terminals  and  other check points.",
-      "hyperlink_hint": true
+      "hyperlink_hint": true,
+      "section_id": "sec_auto_247",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3. Engine Controls"
+        },
+        {
+          "id": "sec_auto_247",
+          "title": "CONTROL TROUBLESHOOTING"
+        }
+      ],
+      "page": 16,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

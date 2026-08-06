@@ -19,7 +19,23 @@
       },
       "content": "For Service Technician Use Only",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_868",
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_868",
+          "title": "For Service Technician Use Only"
+        }
+      ],
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "page": 41,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -37,7 +53,24 @@
       "next_block_id": "txt_0777",
       "image_hash": "76877607e769de06493da40c76b5ff78c96202adb3a34386198eab47cf4ab7e3",
       "width": 255,
-      "height": 170
+      "height": 170,
+      "section_id": "sec_auto_868",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_868",
+          "title": "For Service Technician Use Only"
+        }
+      ],
+      "page": 41,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -52,7 +85,23 @@
       },
       "content": "Pressure Switch",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_870",
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_870",
+          "title": "Pressure Switch"
+        }
+      ],
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "page": 41,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -65,7 +114,24 @@
         "r": 296.74999999999994,
         "b": 444.07210084033613
       },
-      "content": "The pressure switch is an overfill safety device mounted on the base located on the right front. A clear plastic tube (the pressure switch hose) runs from the switch to the sump."
+      "content": "The pressure switch is an overfill safety device mounted on the base located on the right front. A clear plastic tube (the pressure switch hose) runs from the switch to the sump.",
+      "section_id": "sec_auto_870",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_870",
+          "title": "Pressure Switch"
+        }
+      ],
+      "page": 41,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -78,7 +144,24 @@
         "r": 309.9595999999999,
         "b": 381.07210084033613
       },
-      "content": "As the dishwasher tub fills with water, the air pressure in the pressure switch hose increases. Normally, the control board regulates the amount of time the water fill valve remains open. If the water fill valve remains energized, the overfilling of the tub increases the air pressure in the pressure hose causing the pressure switch to close and energize the drain pump."
+      "content": "As the dishwasher tub fills with water, the air pressure in the pressure switch hose increases. Normally, the control board regulates the amount of time the water fill valve remains open. If the water fill valve remains energized, the overfilling of the tub increases the air pressure in the pressure hose causing the pressure switch to close and energize the drain pump.",
+      "section_id": "sec_auto_870",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_870",
+          "title": "Pressure Switch"
+        }
+      ],
+      "page": 41,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -91,7 +174,24 @@
         "r": 301.34,
         "b": 335.07210084033613
       },
-      "content": "This test will check the wiring to the pressure switch and the pressure switch itself. The following items are part of the pressure switch circuit."
+      "content": "This test will check the wiring to the pressure switch and the pressure switch itself. The following items are part of the pressure switch circuit.",
+      "section_id": "sec_auto_870",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_870",
+          "title": "Pressure Switch"
+        }
+      ],
+      "page": 41,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -104,7 +204,25 @@
         "r": 150.32,
         "b": 321.5903225806452
       },
-      "content": "  Harness/Connection"
+      "content": "  Harness/Connection",
+      "section_id": "sec_auto_870",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_870",
+          "title": "Pressure Switch"
+        }
+      ],
+      "page": 41,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text",
+      "confidence": 0.8
     },
     {
       "type": "list_item",
@@ -117,7 +235,25 @@
         "r": 131.33,
         "b": 308.5903225806452
       },
-      "content": "  Pressure Switch"
+      "content": "  Pressure Switch",
+      "section_id": "sec_auto_870",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_870",
+          "title": "Pressure Switch"
+        }
+      ],
+      "page": 41,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text",
+      "confidence": 0.8
     },
     {
       "type": "list_item",
@@ -130,7 +266,25 @@
         "r": 153.98,
         "b": 295.5903225806452
       },
-      "content": "  Pressure Switch Hose"
+      "content": "  Pressure Switch Hose",
+      "section_id": "sec_auto_870",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_870",
+          "title": "Pressure Switch"
+        }
+      ],
+      "page": 41,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text",
+      "confidence": 0.8
     },
     {
       "type": "heading",
@@ -145,7 +299,23 @@
       },
       "content": "STRIP CIRCUIT - PRESSURE SWITCH DRAIN PUMP",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_877",
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_877",
+          "title": "STRIP CIRCUIT - PRESSURE SWITCH DRAIN PUMP"
+        }
+      ],
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "page": 41,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -161,12 +331,30 @@
       "image_path": "figures/figure_0079.png",
       "previous_block_id": "txt_0784",
       "next_block_id": "txt_0785",
-      "caption_id": "txt_0785",
       "caption": "Pressure Switch Strip Circuit",
       "figure_number": "Figure 2",
       "image_hash": "4383609fa950b000810330416b7beabaacfab79ee4ead52542e724b04730f409",
       "width": 524,
-      "height": 122
+      "height": 122,
+      "section_id": "sec_auto_877",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_877",
+          "title": "STRIP CIRCUIT - PRESSURE SWITCH DRAIN PUMP"
+        }
+      ],
+      "page": 41,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0079",
+      "source": "pdf_text",
+      "caption_id": "txt_0785"
     },
     {
       "type": "caption",
@@ -180,6 +368,24 @@
         "b": 57.7504907563025
       },
       "content": "Figure 2 - Pressure Switch Strip Circuit",
+      "section_id": "sec_auto_877",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_877",
+          "title": "STRIP CIRCUIT - PRESSURE SWITCH DRAIN PUMP"
+        }
+      ],
+      "page": 41,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0079",
+      "source": "pdf_text",
       "caption_for": "fig_0079"
     },
     {
@@ -195,7 +401,23 @@
       },
       "content": "Test Procedure",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_880",
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_880",
+          "title": "Test Procedure"
+        }
+      ],
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "page": 41,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -208,7 +430,24 @@
         "r": 503.5500000000002,
         "b": 684.7121008403361
       },
-      "content": "Unplug dishwasher or disconnect power."
+      "content": "Unplug dishwasher or disconnect power.",
+      "section_id": "sec_auto_880",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_880",
+          "title": "Test Procedure"
+        }
+      ],
+      "page": 41,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -221,7 +460,24 @@
         "r": 557.4100000000001,
         "b": 661.7121008403361
       },
-      "content": "Remove access panel. Remove control board cover to access control board."
+      "content": "Remove access panel. Remove control board cover to access control board.",
+      "section_id": "sec_auto_880",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_880",
+          "title": "Test Procedure"
+        }
+      ],
+      "page": 41,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -234,7 +490,24 @@
         "r": 573.3900000000001,
         "b": 628.7121008403361
       },
-      "content": "Lay the dishwasher on its back. Use a small flat-blade screwdriver to unclip snaps around the drip-pan. Remove drip-pan/float switch to access under tub components."
+      "content": "Lay the dishwasher on its back. Use a small flat-blade screwdriver to unclip snaps around the drip-pan. Remove drip-pan/float switch to access under tub components.",
+      "section_id": "sec_auto_880",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_880",
+          "title": "Test Procedure"
+        }
+      ],
+      "page": 41,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -247,7 +520,24 @@
         "r": 575.6400000000001,
         "b": 595.7121008403361
       },
-      "content": "Check hose connections between the pressure switch and sump. Ensure hose is routed correctly and not pinched or crimped."
+      "content": "Check hose connections between the pressure switch and sump. Ensure hose is routed correctly and not pinched or crimped.",
+      "section_id": "sec_auto_880",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_880",
+          "title": "Test Procedure"
+        }
+      ],
+      "page": 41,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -260,7 +550,24 @@
         "r": 574.87,
         "b": 572.7121008403361
       },
-      "content": "Verify there is no debris in the hose. Check hose for leaks. Repair or replace as needed."
+      "content": "Verify there is no debris in the hose. Check hose for leaks. Repair or replace as needed.",
+      "section_id": "sec_auto_880",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_880",
+          "title": "Test Procedure"
+        }
+      ],
+      "page": 41,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -273,7 +580,24 @@
         "r": 569.7492000000001,
         "b": 549.7121008403361
       },
-      "content": "Check the following harnesses for continuity (refer to the following chart)."
+      "content": "Check the following harnesses for continuity (refer to the following chart).",
+      "section_id": "sec_auto_880",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_880",
+          "title": "Test Procedure"
+        }
+      ],
+      "page": 41,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -286,7 +610,24 @@
         "r": 557.5200000000001,
         "b": 453.7121008403361
       },
-      "content": "¾ ¾ If an open circuit is detected, check connections between control board, pressure switch, and drain pump. Repair or replace as necessary."
+      "content": "¾ ¾ If an open circuit is detected, check connections between control board, pressure switch, and drain pump. Repair or replace as necessary.",
+      "section_id": "sec_auto_880",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_880",
+          "title": "Test Procedure"
+        }
+      ],
+      "page": 41,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -299,7 +640,24 @@
         "r": 520.5900000000003,
         "b": 440.2303225806452
       },
-      "content": "¾ ¾ If all harness test good, proceed to step 7."
+      "content": "¾ ¾ If all harness test good, proceed to step 7.",
+      "section_id": "sec_auto_880",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_880",
+          "title": "Test Procedure"
+        }
+      ],
+      "page": 41,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -312,7 +670,24 @@
         "r": 572.2800000000002,
         "b": 407.7121008403361
       },
-      "content": "Check the pressure switch. Using an ohmmeter, measure the resistance across the pressure switch terminals (refer to the following chart)."
+      "content": "Check the pressure switch. Using an ohmmeter, measure the resistance across the pressure switch terminals (refer to the following chart).",
+      "section_id": "sec_auto_880",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_880",
+          "title": "Test Procedure"
+        }
+      ],
+      "page": 41,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -325,7 +700,24 @@
         "r": 565.9900000000004,
         "b": 287.7303225806452
       },
-      "content": "¾ ¾ If all pressure switch checks pass, continue to step 8."
+      "content": "¾ ¾ If all pressure switch checks pass, continue to step 8.",
+      "section_id": "sec_auto_880",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_880",
+          "title": "Test Procedure"
+        }
+      ],
+      "page": 41,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -338,7 +730,24 @@
         "r": 548.3400000000003,
         "b": 265.2121008403361
       },
-      "content": "¾ ¾ If the preceding checks did not pass, replace the Pressure Switch."
+      "content": "¾ ¾ If the preceding checks did not pass, replace the Pressure Switch.",
+      "section_id": "sec_auto_880",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_880",
+          "title": "Test Procedure"
+        }
+      ],
+      "page": 41,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -351,7 +760,24 @@
         "r": 473.07000000000033,
         "b": 252.21210084033612
       },
-      "content": "Reassemble all parts and panels."
+      "content": "Reassemble all parts and panels.",
+      "section_id": "sec_auto_880",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_880",
+          "title": "Test Procedure"
+        }
+      ],
+      "page": 41,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -364,7 +790,24 @@
         "r": 549.7100000000003,
         "b": 239.21210084033612
       },
-      "content": "Plug in dishwasher or reconnect power and retest."
+      "content": "Plug in dishwasher or reconnect power and retest.",
+      "section_id": "sec_auto_880",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_880",
+          "title": "Test Procedure"
+        }
+      ],
+      "page": 41,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -379,7 +822,23 @@
       },
       "content": "Pressure Switch Continuity Check",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_894",
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_894",
+          "title": "Pressure Switch Continuity Check"
+        }
+      ],
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "page": 41,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -392,7 +851,24 @@
         "r": 508.4,
         "b": 518.2121008403361
       },
-      "content": "Pressure Switch to CON1-2 (Brown Wire)"
+      "content": "Pressure Switch to CON1-2 (Brown Wire)",
+      "section_id": "sec_auto_894",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_894",
+          "title": "Pressure Switch Continuity Check"
+        }
+      ],
+      "page": 41,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -405,7 +881,24 @@
         "r": 497.49000000000007,
         "b": 502.7121008403361
       },
-      "content": "Pressure Switch to CON2-1 (Red Wire)"
+      "content": "Pressure Switch to CON2-1 (Red Wire)",
+      "section_id": "sec_auto_894",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_894",
+          "title": "Pressure Switch Continuity Check"
+        }
+      ],
+      "page": 41,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -418,7 +911,24 @@
         "r": 513.6700000000002,
         "b": 487.2121008403361
       },
-      "content": "Pressure Switch to Drain Pump (Red Wire)"
+      "content": "Pressure Switch to Drain Pump (Red Wire)",
+      "section_id": "sec_auto_894",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_894",
+          "title": "Pressure Switch Continuity Check"
+        }
+      ],
+      "page": 41,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -433,7 +943,24 @@
       },
       "markdown": "| Pressure Switch Continuity Check   | Pressure Switch Continuity Check              |\n|------------------------------------|-----------------------------------------------|\n| No Pressure                        | Switch Open - Infinite or High Resistance     |\n| Apply Pressure (Blow into hose*)   | Switch Closed - Continuity (less than 3 ohms) |",
       "rows": 3,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_auto_894",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_894",
+          "title": "Pressure Switch Continuity Check"
+        }
+      ],
+      "page": 41,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "footnote",
@@ -446,7 +973,24 @@
         "r": 577.51,
         "b": 301.2121008403361
       },
-      "content": "* When you blow into the pressure hose that is connected to the switch, an audible 'click' can be heard indicating the switch has closed."
+      "content": "* When you blow into the pressure hose that is connected to the switch, an audible 'click' can be heard indicating the switch has closed.",
+      "section_id": "sec_auto_894",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_894",
+          "title": "Pressure Switch Continuity Check"
+        }
+      ],
+      "page": 41,
+      "chunk_hint": "footnote",
+      "semantic_role": "footnote",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -459,7 +1003,24 @@
         "r": 555.8369,
         "b": 32.765719354838666
       },
-      "content": "n"
+      "content": "n",
+      "section_id": "sec_auto_894",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_894",
+          "title": "Pressure Switch Continuity Check"
+        }
+      ],
+      "page": 41,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

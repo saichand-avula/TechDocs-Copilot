@@ -19,7 +19,20 @@
       },
       "markdown": "|   No. | Message                          | Contents                                                                                                                                                                                                                                                                                                        |\n|-------|----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n|   752 | FIRST SPINDLE MODE CHANGE FAULT  | This alarm is generated if the system does not properly terminate a mode change. The modes include the Cs contouring, spindle positioning, rigid tapping, and spindle control modes. The alarm is activated if the spindle control unit does not respond correctly to the mode change command issued by the NC. |\n|   754 | SPINDLE-1 ABNORMAL TORQUE ALARM  | Abnormal first spindle motor load has been detected.                                                                                                                                                                                                                                                            |\n|   762 | SECOND SPINDLE MODE CHANGE FAULT | Refer to alarm No.752(For 2nd axis)                                                                                                                                                                                                                                                                             |\n|   764 | SPINDLE-2 ABNORMAL TORQUE ALARM  | Same as alarm No. 754 (for the second spindle)                                                                                                                                                                                                                                                                  |\n|   772 | SPINDLE-3 MODE CHANGE ERROR      | Same as alarm No. 752(for the third spindle)                                                                                                                                                                                                                                                                    |\n|   774 | SPINDLE-3 ABNORMAL TORQUE ALARM  | Same as alarm No. 754 (for the third spindle)                                                                                                                                                                                                                                                                   |\n|   782 | SPINDLE-4 MODE CHANGE ERROR      | Same as alarm number 752 (for the fourth spindle)                                                                                                                                                                                                                                                               |\n|   784 | SPINDLE-4 ABNORMAL TORQUE ALM    | Same as alarm number 754 (for the fourth spindle)                                                                                                                                                                                                                                                               |",
       "rows": 9,
-      "cols": 3
+      "cols": 3,
+      "section_id": "sec_11",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_11",
+          "title": "11)  Serial spindle alarm"
+        }
+      ],
+      "page": 226,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -32,7 +45,20 @@
         "r": 248.23792800000004,
         "b": 350.84304892817676
       },
-      "content": "The details of spindle alarm"
+      "content": "The details of spindle alarm",
+      "section_id": "sec_11",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_11",
+          "title": "11)  Serial spindle alarm"
+        }
+      ],
+      "page": 226,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -45,7 +71,20 @@
         "r": 218.39035199999998,
         "b": 333.80303692817677
       },
-      "content": "-1st and 2nd spindles"
+      "content": "-1st and 2nd spindles",
+      "section_id": "sec_11",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_11",
+          "title": "11)  Serial spindle alarm"
+        }
+      ],
+      "page": 226,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -60,7 +99,20 @@
       },
       "markdown": "|     | #7#   | 6#   | 5#   | 4#   | 3#   | 2#   | 1#   | #0   |\n|-----|-------|------|------|------|------|------|------|------|\n| 409 |       |      |      | SPE  | S2E  | S1E  | SHE  |      |",
       "rows": 2,
-      "cols": 8
+      "cols": 8,
+      "section_id": "sec_11",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_11",
+          "title": "11)  Serial spindle alarm"
+        }
+      ],
+      "page": 226,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -73,7 +125,20 @@
         "r": 144.197262,
         "b": 247.3431489281768
       },
-      "content": "#3(SPE)"
+      "content": "#3(SPE)",
+      "section_id": "sec_11",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_11",
+          "title": "11)  Serial spindle alarm"
+        }
+      ],
+      "page": 226,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -86,7 +151,20 @@
         "r": 506.54851800000006,
         "b": 230.30313692817685
       },
-      "content": "0 :  In the spindle serial control, the serial spindle parameter fulfill the spindle unit startups conditions."
+      "content": "0 :  In the spindle serial control, the serial spindle parameter fulfill the spindle unit startups conditions.",
+      "section_id": "sec_11",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_11",
+          "title": "11)  Serial spindle alarm"
+        }
+      ],
+      "page": 226,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -99,7 +177,20 @@
         "r": 506.56454999999926,
         "b": 196.34335292817673
       },
-      "content": "1 :  In the spindle serial control, the serial spindle parameter fulfill the spindle unit startups conditions."
+      "content": "1 :  In the spindle serial control, the serial spindle parameter fulfill the spindle unit startups conditions.",
+      "section_id": "sec_11",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_11",
+          "title": "11)  Serial spindle alarm"
+        }
+      ],
+      "page": 226,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -112,7 +203,20 @@
         "r": 143.06901,
         "b": 179.3033409281768
       },
-      "content": "#2(S2E)"
+      "content": "#2(S2E)",
+      "section_id": "sec_11",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_11",
+          "title": "11)  Serial spindle alarm"
+        }
+      ],
+      "page": 226,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -125,7 +229,20 @@
         "r": 478.05764999999997,
         "b": 179.3033409281768
       },
-      "content": "0 :  The second spindle is normal during the spindle serial control startups."
+      "content": "0 :  The second spindle is normal during the spindle serial control startups.",
+      "section_id": "sec_11",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_11",
+          "title": "11)  Serial spindle alarm"
+        }
+      ],
+      "page": 226,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -138,7 +255,20 @@
         "r": 120.29254800000004,
         "b": 162.32344892817673
       },
-      "content": "1 :"
+      "content": "1 :",
+      "section_id": "sec_11",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_11",
+          "title": "11)  Serial spindle alarm"
+        }
+      ],
+      "page": 226,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -151,7 +281,20 @@
         "r": 527.3560499999999,
         "b": 162.32344892817673
       },
-      "content": "The second spindle was detected to have a fault during the spindle serial control"
+      "content": "The second spindle was detected to have a fault during the spindle serial control",
+      "section_id": "sec_11",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_11",
+          "title": "11)  Serial spindle alarm"
+        }
+      ],
+      "page": 226,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -164,7 +307,20 @@
         "r": 204.22207200000005,
         "b": 145.34355692817678
       },
-      "content": "startups."
+      "content": "startups.",
+      "section_id": "sec_11",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_11",
+          "title": "11)  Serial spindle alarm"
+        }
+      ],
+      "page": 226,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

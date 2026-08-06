@@ -21,7 +21,24 @@
       "next_block_id": "txt_0579",
       "width": 47,
       "height": 23,
-      "image_hash": "2d2a836df72f659eb0985697292682429e59bf8ad20c0b8fc6a039c365a94e86"
+      "image_hash": "2d2a836df72f659eb0985697292682429e59bf8ad20c0b8fc6a039c365a94e86",
+      "section_id": "sec_4_10",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4       OSCi (optional)"
+        },
+        {
+          "id": "sec_4_10",
+          "title": "4.10   Problem solving"
+        }
+      ],
+      "page": 86,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -35,8 +52,21 @@
         "b": 754.9440000000001
       },
       "content": "5       Energy recovery (optional)",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "5",
+      "section_id": "sec_5",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5       Energy recovery (optional)"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 86,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -51,7 +81,24 @@
       },
       "content": "5.1     Energy recovery unit",
       "level": 2,
-      "role": "section"
+      "section_number": "5.1",
+      "section_id": "sec_5_1",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5       Energy recovery (optional)"
+        },
+        {
+          "id": "sec_5_1",
+          "title": "5.1     Energy recovery unit"
+        }
+      ],
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "page": 86,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -66,7 +113,23 @@
       },
       "content": "Description",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_895",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5       Energy recovery (optional)"
+        },
+        {
+          "id": "sec_auto_895",
+          "title": "Description"
+        }
+      ],
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "page": 86,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -79,7 +142,24 @@
         "r": 537.5962999999995,
         "b": 605.5838999999999
       },
-      "content": "A large part of the energy required for any compression process is transformed into heat. For GA oilinjected screw compressors, the major part of the compression heat is dissipated through the oil system. The Atlas Copco energy recovery (ER) systems are designed to recover most of the above-mentioned heat by transforming it into warm or hot water without any adverse influence on the compressor performance. The water can be used for diverse applications."
+      "content": "A large part of the energy required for any compression process is transformed into heat. For GA oilinjected screw compressors, the major part of the compression heat is dissipated through the oil system. The Atlas Copco energy recovery (ER) systems are designed to recover most of the above-mentioned heat by transforming it into warm or hot water without any adverse influence on the compressor performance. The water can be used for diverse applications.",
+      "section_id": "sec_auto_895",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5       Energy recovery (optional)"
+        },
+        {
+          "id": "sec_auto_895",
+          "title": "Description"
+        }
+      ],
+      "page": 86,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -94,7 +174,23 @@
       },
       "content": "Components",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_897",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5       Energy recovery (optional)"
+        },
+        {
+          "id": "sec_auto_897",
+          "title": "Components"
+        }
+      ],
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "page": 86,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -109,7 +205,23 @@
       },
       "content": "The energy recovery system is completely integrated and mainly comprises:",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_898",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5       Energy recovery (optional)"
+        },
+        {
+          "id": "sec_auto_898",
+          "title": "The energy recovery system is completely integrated and mainly comprises:"
+        }
+      ],
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "page": 86,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -122,7 +234,24 @@
         "r": 254.5728999999999,
         "b": 534.1168999999999
       },
-      "content": "Stainless steel oil/water heat exchanger"
+      "content": "Stainless steel oil/water heat exchanger",
+      "section_id": "sec_auto_898",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5       Energy recovery (optional)"
+        },
+        {
+          "id": "sec_auto_898",
+          "title": "The energy recovery system is completely integrated and mainly comprises:"
+        }
+      ],
+      "page": 86,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -135,7 +264,24 @@
         "r": 328.82729999999987,
         "b": 518.1569999999999
       },
-      "content": "Selector handle (V1) to enable/disable Energy Recovery"
+      "content": "Selector handle (V1) to enable/disable Energy Recovery",
+      "section_id": "sec_auto_898",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5       Energy recovery (optional)"
+        },
+        {
+          "id": "sec_auto_898",
+          "title": "The energy recovery system is completely integrated and mainly comprises:"
+        }
+      ],
+      "page": 86,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -148,7 +294,24 @@
         "r": 407.53889999999956,
         "b": 502.19709999999986
       },
-      "content": "Thermostatic by-pass valve for energy recovery heat exchanger(s) (BV2)"
+      "content": "Thermostatic by-pass valve for energy recovery heat exchanger(s) (BV2)",
+      "section_id": "sec_auto_898",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5       Energy recovery (optional)"
+        },
+        {
+          "id": "sec_auto_898",
+          "title": "The energy recovery system is completely integrated and mainly comprises:"
+        }
+      ],
+      "page": 86,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -161,7 +324,24 @@
         "r": 380.54160000000013,
         "b": 486.29659999999984
       },
-      "content": "Two temperature sensors for water inlet and outlet control (3 and 4)"
+      "content": "Two temperature sensors for water inlet and outlet control (3 and 4)",
+      "section_id": "sec_auto_898",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5       Energy recovery (optional)"
+        },
+        {
+          "id": "sec_auto_898",
+          "title": "The energy recovery system is completely integrated and mainly comprises:"
+        }
+      ],
+      "page": 86,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -174,7 +354,24 @@
         "r": 223.8157999999998,
         "b": 468.17629999999986
       },
-      "content": "The necessary bolts, flexibles, etc."
+      "content": "The necessary bolts, flexibles, etc.",
+      "section_id": "sec_auto_898",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5       Energy recovery (optional)"
+        },
+        {
+          "id": "sec_auto_898",
+          "title": "The energy recovery system is completely integrated and mainly comprises:"
+        }
+      ],
+      "page": 86,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -189,7 +386,23 @@
       },
       "content": "Energy recovery unit (ER-unit)",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_904",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5       Energy recovery (optional)"
+        },
+        {
+          "id": "sec_auto_904",
+          "title": "Energy recovery unit (ER-unit)"
+        }
+      ],
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "page": 86,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -206,7 +419,24 @@
       "previous_block_id": "txt_0590",
       "image_hash": "00809b41a32fe862a7785e637368230a95af2de3705c61d829f2d85dbe739b69",
       "width": 343,
-      "height": 217
+      "height": 217,
+      "section_id": "sec_auto_904",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5       Energy recovery (optional)"
+        },
+        {
+          "id": "sec_auto_904",
+          "title": "Energy recovery unit (ER-unit)"
+        }
+      ],
+      "page": 86,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -221,7 +451,24 @@
       },
       "markdown": "|   Reference | Designation                          |\n|-------------|--------------------------------------|\n|           1 | Water inlet pipe                     |\n|           2 | Water outlet pipe                    |\n|           3 | Temperature sensor, water inlet pipe |",
       "rows": 4,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_auto_904",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5       Energy recovery (optional)"
+        },
+        {
+          "id": "sec_auto_904",
+          "title": "Energy recovery unit (ER-unit)"
+        }
+      ],
+      "page": 86,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

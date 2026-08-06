@@ -19,12 +19,26 @@
       },
       "image_path": "figures/figure_0162.png",
       "next_block_id": "txt_1383",
-      "caption_id": "txt_1383",
       "caption": ": LTi bearing housing",
       "figure_number": "Figure 28",
       "image_hash": "daa25a475b413616a4ebded4203fdd4595e63ee51f96ddaaaacff70aaf839efd",
       "width": 106,
-      "height": 204
+      "height": 204,
+      "section_id": "sec_auto_1601",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_1601",
+          "title": "Inspection locations"
+        }
+      ],
+      "page": 95,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0162",
+      "source": "pdf_text",
+      "caption_id": "txt_1383"
     },
     {
       "type": "caption",
@@ -38,6 +52,20 @@
         "b": 511.72961
       },
       "content": "Figure 28: LTi bearing housing",
+      "section_id": "sec_auto_1601",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_1601",
+          "title": "Inspection locations"
+        }
+      ],
+      "page": 95,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0162",
+      "source": "pdf_text",
       "caption_for": "fig_0162"
     },
     {
@@ -54,12 +82,26 @@
       "image_path": "figures/figure_0163.png",
       "previous_block_id": "txt_1383",
       "next_block_id": "txt_1384",
-      "caption_id": "txt_1384",
       "caption": ": XLT-i and i17 bearing housing",
       "figure_number": "Figure 29",
       "image_hash": "c17f6649b74a70be8c6a087c22f8d818eceddbf9ff2286e5c88e0a551e9b6640",
       "width": 116,
-      "height": 191
+      "height": 191,
+      "section_id": "sec_auto_1601",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_1601",
+          "title": "Inspection locations"
+        }
+      ],
+      "page": 95,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0163",
+      "source": "pdf_text",
+      "caption_id": "txt_1384"
     },
     {
       "type": "caption",
@@ -73,6 +115,20 @@
         "b": 281.53682999999995
       },
       "content": "Figure 29: XLT-i and i17 bearing housing",
+      "section_id": "sec_auto_1601",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_1601",
+          "title": "Inspection locations"
+        }
+      ],
+      "page": 95,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0163",
+      "source": "pdf_text",
       "caption_for": "fig_0163"
     },
     {
@@ -88,7 +144,19 @@
       },
       "content": "Bearing fits and tolerances",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1609",
+      "section_path": [
+        {
+          "id": "sec_auto_1609",
+          "title": "Bearing fits and tolerances"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 2,
+      "page": 95,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -101,7 +169,20 @@
         "r": 480.39097000000015,
         "b": 238.51045
       },
-      "content": "This table references the bearing fits and tolerances according to the ABEC I standard."
+      "content": "This table references the bearing fits and tolerances according to the ABEC I standard.",
+      "section_id": "sec_auto_1609",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_1609",
+          "title": "Bearing fits and tolerances"
+        }
+      ],
+      "page": 95,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -115,11 +196,25 @@
         "b": 79.46673583984375
       },
       "markdown": "Table 14: Bearing fits and tolerances table\n\n|                    | STi inches (millimeters)                  | MTi inches (millimeters)                  | LTi inches (millimeters)                  | XLT-i, i-17 inches (millimeters)          |\n|--------------------|-------------------------------------------|-------------------------------------------|-------------------------------------------|-------------------------------------------|\n| Shaft OD Inboard   | 1.3785 (35.014) 1.3781 (35.004)           | 1.7722 (45.014) 1.7718 (45.004)           | 2.1660 (55.016) 2.1655 (55.004)           | 2.5597 (65.016) 2.5592 (65.004)           |\n| Clearance          | 0.0010 (0.025) tight 0.0001 (0.003) tight | 0.0010 (0.025) tight 0.0001 (0.003) tight | 0.0012 (0.030) tight 0.0001 (0.003) tight | 0.0012 (0.030) tight 0.0001 (0.003) tight |\n| Bearing ID Inboard | 1.3780 (35.001) 1.3775 (34.989)           | 1.7717 (45.001) 1.7712 (44.988)           | 2.1654 (55.001) 2.1648 (54.986)           | 2.5591 (65.001) 2.5585 (64.986)           |\n| Inboard            | 2.8346 (72.000) 2.8353 (72.017)           | 3.9370 3.9379                             | 4.7253                                    | 5.5118 5.5128                             |\n| Frame ID           |                                           | (100.000) (100.023)                       | 4.7244 (120.000) (120.023)                | (140.000) (140.025)                       |",
-      "caption_id": "txt_1387",
       "title": "Table 14: Bearing fits and tolerances table",
       "table_number": "Table 14",
       "rows": 6,
-      "cols": 4
+      "cols": 4,
+      "section_id": "sec_auto_1609",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_1609",
+          "title": "Bearing fits and tolerances"
+        }
+      ],
+      "page": 95,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "group_id": "grp_tbl_0063",
+      "source": "pdf_text",
+      "caption_id": "txt_1387"
     },
     {
       "type": "caption",
@@ -133,6 +228,20 @@
         "b": 223.61685
       },
       "content": "Table 14: Bearing fits and tolerances table",
+      "section_id": "sec_auto_1609",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_1609",
+          "title": "Bearing fits and tolerances"
+        }
+      ],
+      "page": 95,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_tbl_0063",
+      "source": "pdf_text",
       "caption_for": "tbl_0063"
     }
   ],

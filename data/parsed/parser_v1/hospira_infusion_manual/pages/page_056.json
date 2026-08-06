@@ -18,8 +18,25 @@
         "b": 728.8081107637603
       },
       "content": "4.5.2.2",
-      "level": 2,
-      "role": "section"
+      "level": 4,
+      "section_number": "4.5.2.2",
+      "section_id": "sec_4_5_2_2",
+      "section_path": [
+        {
+          "id": "sec_auto_511",
+          "title": "MOTOR AND VALVE ASSEMBLIES"
+        },
+        {
+          "id": "sec_4_5_2_2",
+          "title": "4.5.2.2"
+        }
+      ],
+      "parent_section_id": "sec_auto_511",
+      "section_level": 4,
+      "page": 56,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -34,7 +51,19 @@
       },
       "content": "A/B VALVE SUBSYSTEM",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_514",
+      "section_path": [
+        {
+          "id": "sec_auto_514",
+          "title": "A/B VALVE SUBSYSTEM"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 2,
+      "page": 56,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -48,7 +77,20 @@
         "b": 641.2080647360331
       },
       "content": "The A/B valve subsystem includes a motor designed to rotate a cam. When the cam is positioned at top-dead-center (home position), both valves are closed. Clockwise rotation (when viewed from the motor side) from the home position opens the A valve, while the B valve remains closed. Counterclockwise rotation opens the B valve, while the A valve remains closed (see Figure 4-8) .",
-      "hyperlink_hint": true
+      "hyperlink_hint": true,
+      "section_id": "sec_auto_514",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_514",
+          "title": "A/B VALVE SUBSYSTEM"
+        }
+      ],
+      "page": 56,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -61,7 +103,20 @@
         "r": 504.0922254270995,
         "b": 545.2094047519333
       },
-      "content": "The A/B valve subsystem consists of a stepper motor with attached cam and integral cam flag, A and B rockers and valve pins, and a pin detector assembly. The cam flag passes through  an  interrupter  module  as  it  rotates  with  the  cam.  Valve  home  position  is determined  by  this  cam  flag/interrupter  module  combination  through  predetermined factory calibration data. During operation, if the cam flag passes through the interrupter module at the incorrect time sequence, a motor phase loss is detected. The rocker is the connecting link between the cam and the valve pin."
+      "content": "The A/B valve subsystem consists of a stepper motor with attached cam and integral cam flag, A and B rockers and valve pins, and a pin detector assembly. The cam flag passes through  an  interrupter  module  as  it  rotates  with  the  cam.  Valve  home  position  is determined  by  this  cam  flag/interrupter  module  combination  through  predetermined factory calibration data. During operation, if the cam flag passes through the interrupter module at the incorrect time sequence, a motor phase loss is detected. The rocker is the connecting link between the cam and the valve pin.",
+      "section_id": "sec_auto_514",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_514",
+          "title": "A/B VALVE SUBSYSTEM"
+        }
+      ],
+      "page": 56,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -77,12 +132,26 @@
       "image_path": "figures/figure_0026.png",
       "previous_block_id": "txt_0471",
       "next_block_id": "txt_0472",
-      "caption_id": "txt_0472",
       "caption": ". Mechanism Valve Pins and Sensor Locations",
       "figure_number": "Figure 4-8",
       "image_hash": "485097323a5dcb89229f157d75518e4718cd7da523868c2a6e823d5216980b0e",
       "width": 357,
-      "height": 215
+      "height": 215,
+      "section_id": "sec_auto_514",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_514",
+          "title": "A/B VALVE SUBSYSTEM"
+        }
+      ],
+      "page": 56,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0026",
+      "source": "pdf_text",
+      "caption_id": "txt_0472"
     },
     {
       "type": "caption",
@@ -96,6 +165,20 @@
         "b": 218.37969196080053
       },
       "content": "Figure 4-8. Mechanism Valve Pins and Sensor Locations",
+      "section_id": "sec_auto_514",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_514",
+          "title": "A/B VALVE SUBSYSTEM"
+        }
+      ],
+      "page": 56,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0026",
+      "source": "pdf_text",
       "caption_for": "fig_0026"
     }
   ],

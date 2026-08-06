@@ -18,8 +18,29 @@
         "b": 772.21249
       },
       "content": "7.3.2 Indoor fan motor malfunction",
-      "level": 2,
-      "role": "section"
+      "level": 3,
+      "section_number": "7.3.2",
+      "section_id": "sec_7_3_2",
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_1543",
+          "title": "Thermistor resistance check method:"
+        },
+        {
+          "id": "sec_7_3_2",
+          "title": "7.3.2 Indoor fan motor malfunction"
+        }
+      ],
+      "parent_section_id": "sec_auto_1543",
+      "section_level": 3,
+      "page": 135,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -32,7 +53,28 @@
         "r": 119.00033013000004,
         "b": 741.689238
       },
-      "content": "Indoor display"
+      "content": "Indoor display",
+      "section_id": "sec_7_3_2",
+      "parent_section_id": "sec_auto_1543",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_1543",
+          "title": "Thermistor resistance check method:"
+        },
+        {
+          "id": "sec_7_3_2",
+          "title": "7.3.2 Indoor fan motor malfunction"
+        }
+      ],
+      "page": 135,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -45,7 +87,28 @@
         "r": 155.75476388000004,
         "b": 741.274614
       },
-      "content": "E14"
+      "content": "E14",
+      "section_id": "sec_7_3_2",
+      "parent_section_id": "sec_auto_1543",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_1543",
+          "title": "Thermistor resistance check method:"
+        },
+        {
+          "id": "sec_7_3_2",
+          "title": "7.3.2 Indoor fan motor malfunction"
+        }
+      ],
+      "page": 135,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -58,7 +121,28 @@
         "r": 107.98296919999999,
         "b": 658.9399380000001
       },
-      "content": "Method of Malfunction Detection Malfunction Decision Conditions"
+      "content": "Method of Malfunction Detection Malfunction Decision Conditions",
+      "section_id": "sec_7_3_2",
+      "parent_section_id": "sec_auto_1543",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_1543",
+          "title": "Thermistor resistance check method:"
+        },
+        {
+          "id": "sec_7_3_2",
+          "title": "7.3.2 Indoor fan motor malfunction"
+        }
+      ],
+      "page": 135,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -71,7 +155,28 @@
         "r": 128.93369448000007,
         "b": 646.6195554000001
       },
-      "content": "Supports curses The rotation speed detected by the Hall IC during fan motor operation is used to determine abnormal fan motor operation when the detected rotation feedback singal don't receiced in 2 minutes"
+      "content": "Supports curses The rotation speed detected by the Hall IC during fan motor operation is used to determine abnormal fan motor operation when the detected rotation feedback singal don't receiced in 2 minutes",
+      "section_id": "sec_7_3_2",
+      "parent_section_id": "sec_auto_1543",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_1543",
+          "title": "Thermistor resistance check method:"
+        },
+        {
+          "id": "sec_7_3_2",
+          "title": "7.3.2 Indoor fan motor malfunction"
+        }
+      ],
+      "page": 135,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -84,7 +189,28 @@
         "r": 433.6181791099999,
         "b": 646.0585274875
       },
-      "content": "Ƶ Operation halt due to breaking of wire inside the fan motor ."
+      "content": "Ƶ Operation halt due to breaking of wire inside the fan motor .",
+      "section_id": "sec_7_3_2",
+      "parent_section_id": "sec_auto_1543",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_1543",
+          "title": "Thermistor resistance check method:"
+        },
+        {
+          "id": "sec_7_3_2",
+          "title": "7.3.2 Indoor fan motor malfunction"
+        }
+      ],
+      "page": 135,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -97,7 +223,28 @@
         "r": 429.07214052000086,
         "b": 633.2558274875
       },
-      "content": "Ƶ Operation halt due to breaking of the fan motor lead wires"
+      "content": "Ƶ Operation halt due to breaking of the fan motor lead wires",
+      "section_id": "sec_7_3_2",
+      "parent_section_id": "sec_auto_1543",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_1543",
+          "title": "Thermistor resistance check method:"
+        },
+        {
+          "id": "sec_7_3_2",
+          "title": "7.3.2 Indoor fan motor malfunction"
+        }
+      ],
+      "page": 135,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -110,7 +257,28 @@
         "r": 390.2556090600006,
         "b": 621.1088274875
       },
-      "content": "Ƶ Detection error due to faulty indoor unit PCB"
+      "content": "Ƶ Detection error due to faulty indoor unit PCB",
+      "section_id": "sec_7_3_2",
+      "parent_section_id": "sec_auto_1543",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_1543",
+          "title": "Thermistor resistance check method:"
+        },
+        {
+          "id": "sec_7_3_2",
+          "title": "7.3.2 Indoor fan motor malfunction"
+        }
+      ],
+      "page": 135,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -125,7 +293,23 @@
       },
       "content": "How to check Fan Motor (DC)",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1554",
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_1554",
+          "title": "How to check Fan Motor (DC)"
+        }
+      ],
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "page": 135,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -138,7 +322,24 @@
         "r": 313.6224656999995,
         "b": 567.1760320000001
       },
-      "content": "Check connector connection."
+      "content": "Check connector connection.",
+      "section_id": "sec_auto_1554",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_1554",
+          "title": "How to check Fan Motor (DC)"
+        }
+      ],
+      "page": 135,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -151,7 +352,24 @@
         "r": 421.1353809000007,
         "b": 554.6738968000001
       },
-      "content": "Check motor power supply voltage output (pins 1-4)."
+      "content": "Check motor power supply voltage output (pins 1-4).",
+      "section_id": "sec_auto_1554",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_1554",
+          "title": "How to check Fan Motor (DC)"
+        }
+      ],
+      "page": 135,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -164,7 +382,24 @@
         "r": 358.4027671400005,
         "b": 542.2241156000001
       },
-      "content": "Check motor control voltage (pins 4-5)."
+      "content": "Check motor control voltage (pins 4-5).",
+      "section_id": "sec_auto_1554",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_1554",
+          "title": "How to check Fan Motor (DC)"
+        }
+      ],
+      "page": 135,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -177,7 +412,24 @@
         "r": 412.95991963999984,
         "b": 529.7209333200001
       },
-      "content": "Check rotation command voltage output (pins 4-6)."
+      "content": "Check rotation command voltage output (pins 4-6).",
+      "section_id": "sec_auto_1554",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_1554",
+          "title": "How to check Fan Motor (DC)"
+        }
+      ],
+      "page": 135,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -190,7 +442,24 @@
         "r": 346.13381862000034,
         "b": 517.21775104
       },
-      "content": "Check rotation pulse input (pins 4-7)."
+      "content": "Check rotation pulse input (pins 4-7).",
+      "section_id": "sec_auto_1554",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_1554",
+          "title": "How to check Fan Motor (DC)"
+        }
+      ],
+      "page": 135,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -205,7 +474,23 @@
       },
       "content": "Notes:the  a/c  is  electrifying,don't  pull  out  or  insert  the  terminals  of  the motor,else the motor would be damaged",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1560",
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_1560",
+          "title": "Notes:the  a/c  is  electrifying,don't  pull  out  or  insert  the  terminals  of  the motor,else the motor would be damaged"
+        }
+      ],
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "page": 135,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -218,7 +503,24 @@
         "r": 562.2881394600012,
         "b": 329.517432
       },
-      "content": "Be sure to turn off power switch before connect or disconnect connector,"
+      "content": "Be sure to turn off power switch before connect or disconnect connector,",
+      "section_id": "sec_auto_1560",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_1560",
+          "title": "Notes:the  a/c  is  electrifying,don't  pull  out  or  insert  the  terminals  of  the motor,else the motor would be damaged"
+        }
+      ],
+      "page": 135,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -231,7 +533,24 @@
         "r": 391.93061787999983,
         "b": 314.13687387999994
       },
-      "content": "Troubleshooting * Caution or else parts damage may be occurred."
+      "content": "Troubleshooting * Caution or else parts damage may be occurred.",
+      "section_id": "sec_auto_1560",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_1560",
+          "title": "Notes:the  a/c  is  electrifying,don't  pull  out  or  insert  the  terminals  of  the motor,else the motor would be damaged"
+        }
+      ],
+      "page": 135,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -244,7 +563,24 @@
         "r": 231.7633828600001,
         "b": 171.89758259999996
       },
-      "content": "Turn off power supply and rotate fan by hand"
+      "content": "Turn off power supply and rotate fan by hand",
+      "section_id": "sec_auto_1560",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_1560",
+          "title": "Notes:the  a/c  is  electrifying,don't  pull  out  or  insert  the  terminals  of  the motor,else the motor would be damaged"
+        }
+      ],
+      "page": 135,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

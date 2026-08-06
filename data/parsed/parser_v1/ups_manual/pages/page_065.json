@@ -19,7 +19,24 @@
       },
       "markdown": "| Battery management enable   | Display battery backup time and residual capacity in battery parameters interface. The default is off.                                                                                                                 |\n|-----------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Battery sharing enable      | Share battery pack. The default is off.                                                                                                                                                                                |\n| Battery self-test settings  | Self-test function enable: off / according to the voltage / according to the time.                                                                                                                                     |\n| Battery self-test settings  | Self-test cycle: self-test cycle setting [30, 365], the default is 90 days.                                                                                                                                            |\n| Battery self-test settings  | Self-test time: self test duration [5, 240], the default is 5 minutes.                                                                                                                                                 |\n| Battery self-test settings  | Self-test voltage: voltage point at end of self-test [EOD * battery quantities, floating charge voltage * battery quantities]. For 30 pcs batteries, the default is 360 V. For 50 pcs batteries, the default is 500 V. |\n| Battery self-test settings  | Period of time of self-test: allowable period of time of self test [0000, 2359].The default [0000, 0500] is 0:00 to 6:00 am.                                                                                           |\n| Online detection function   | Battery monitoring method is settable [off / drop the benchmark / auxiliary contact]. The default is dropping the benchmark.                                                                                           |\n| Battery quality enable      | On / off settable, the default is off.                                                                                                                                                                                 |\n| Battery installation year   | Enter the date of battery installation                                                                                                                                                                                 |\n| Battery installation month  | Enter the date of battery installation                                                                                                                                                                                 |\n| Battery installation day    | Enter the date of battery installation                                                                                                                                                                                 |\n| Battery quality standards   | 0 - 100% settable, 20% by default, the default is off.                                                                                                                                                                 |\n| Battery replacement cycle   | The default is 5 years. 1 - 8 year(s) is settable.                                                                                                                                                                     |",
       "rows": 14,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_auto_690",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Button control"
+        },
+        {
+          "id": "sec_auto_690",
+          "title": "Reminder: please set single battery voltage first, and then set other parameters."
+        }
+      ],
+      "page": 65,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -33,8 +50,29 @@
         "b": 160.59284478860934
       },
       "content": "5.1.7 Current Information Record Window",
-      "level": 2,
-      "role": "section"
+      "level": 3,
+      "section_number": "5.1.7",
+      "section_id": "sec_5_1_7",
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Button control"
+        },
+        {
+          "id": "sec_auto_690",
+          "title": "Reminder: please set single battery voltage first, and then set other parameters."
+        },
+        {
+          "id": "sec_5_1_7",
+          "title": "5.1.7 Current Information Record Window"
+        }
+      ],
+      "parent_section_id": "sec_auto_690",
+      "section_level": 3,
+      "page": 65,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -47,7 +85,28 @@
         "r": 541.2134399999993,
         "b": 116.43610136319501
       },
-      "content": "This window records events of UPS under current operating mode, and does not record the solved status."
+      "content": "This window records events of UPS under current operating mode, and does not record the solved status.",
+      "section_id": "sec_5_1_7",
+      "parent_section_id": "sec_auto_690",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Button control"
+        },
+        {
+          "id": "sec_auto_690",
+          "title": "Reminder: please set single battery voltage first, and then set other parameters."
+        },
+        {
+          "id": "sec_5_1_7",
+          "title": "5.1.7 Current Information Record Window"
+        }
+      ],
+      "page": 65,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -60,7 +119,28 @@
         "r": 357.96567999999996,
         "b": 100.83610136319498
       },
-      "content": "Click 'current alarm' in main interface to browse the events."
+      "content": "Click 'current alarm' in main interface to browse the events.",
+      "section_id": "sec_5_1_7",
+      "parent_section_id": "sec_auto_690",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Button control"
+        },
+        {
+          "id": "sec_auto_690",
+          "title": "Reminder: please set single battery voltage first, and then set other parameters."
+        },
+        {
+          "id": "sec_5_1_7",
+          "title": "5.1.7 Current Information Record Window"
+        }
+      ],
+      "page": 65,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

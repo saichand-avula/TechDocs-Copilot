@@ -19,12 +19,26 @@
       },
       "image_path": "figures/figure_0043.png",
       "next_block_id": "txt_0502",
-      "caption_id": "txt_0502",
       "caption": ": Top view of an incorrect horizontal alignment",
       "figure_number": "Figure 14",
       "image_hash": "5485597f55cc3194c240292a7869f053168c81e8a35cad2c13674b4a9d68bbbd",
       "width": 132,
-      "height": 65
+      "height": 65,
+      "section_id": "sec_auto_566",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_566",
+          "title": "Perform parallel alignment for a horizontal correction"
+        }
+      ],
+      "page": 34,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0043",
+      "source": "pdf_text",
+      "caption_id": "txt_0502"
     },
     {
       "type": "caption",
@@ -38,6 +52,20 @@
         "b": 646.90631
       },
       "content": "Figure 14: Top view of an incorrect horizontal alignment",
+      "section_id": "sec_auto_566",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_566",
+          "title": "Perform parallel alignment for a horizontal correction"
+        }
+      ],
+      "page": 34,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0043",
+      "source": "pdf_text",
       "caption_for": "fig_0043"
     },
     {
@@ -51,7 +79,21 @@
         "r": 436.05613000000005,
         "b": 632.59992
       },
-      "content": "Repeat the previous steps until the permitted reading value is achieved."
+      "content": "Repeat the previous steps until the permitted reading value is achieved.",
+      "section_id": "sec_auto_566",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_566",
+          "title": "Perform parallel alignment for a horizontal correction"
+        }
+      ],
+      "page": 34,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text",
+      "group_id": "grp_fig_0043"
     },
     {
       "type": "admonition",
@@ -65,7 +107,20 @@
         "b": 587.07992
       },
       "content": "NOTICE: The specified permitted reading values are valid only at operating temperature. For cold settings, other values are permitted. You must use the correct tolerances. Failure to do so can result in misalignment and reduced pump reliability.",
-      "severity": "note"
+      "severity": "note",
+      "section_id": "sec_auto_566",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_566",
+          "title": "Perform parallel alignment for a horizontal correction"
+        }
+      ],
+      "page": 34,
+      "chunk_hint": "admonition",
+      "semantic_role": "note",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -80,7 +135,19 @@
       },
       "content": "Perform complete alignment for a vertical correction",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_578",
+      "section_path": [
+        {
+          "id": "sec_auto_578",
+          "title": "Perform complete alignment for a vertical correction"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 2,
+      "page": 34,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -93,7 +160,20 @@
         "r": 547.4940800000004,
         "b": 531.27992
       },
-      "content": "A unit is in complete alignment when both the angular indicator (A) and the parallel indicator (P) do not vary by more than 0.002 in. (0.05 mm) as measured at four points 90° apart."
+      "content": "A unit is in complete alignment when both the angular indicator (A) and the parallel indicator (P) do not vary by more than 0.002 in. (0.05 mm) as measured at four points 90° apart.",
+      "section_id": "sec_auto_578",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_578",
+          "title": "Perform complete alignment for a vertical correction"
+        }
+      ],
+      "page": 34,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -106,7 +186,20 @@
         "r": 552.9240600000005,
         "b": 504.27992
       },
-      "content": "Set the angular and parallel dial indicators to zero at the top-center position (12 o'clock) of  the driver coupling half  (Y)."
+      "content": "Set the angular and parallel dial indicators to zero at the top-center position (12 o'clock) of  the driver coupling half  (Y).",
+      "section_id": "sec_auto_578",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_578",
+          "title": "Perform complete alignment for a vertical correction"
+        }
+      ],
+      "page": 34,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -119,7 +212,20 @@
         "r": 405.1740200000001,
         "b": 490.47992
       },
-      "content": "Rotate the indicators to the bottom-center position (6 o'clock)."
+      "content": "Rotate the indicators to the bottom-center position (6 o'clock).",
+      "section_id": "sec_auto_578",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_578",
+          "title": "Perform complete alignment for a vertical correction"
+        }
+      ],
+      "page": 34,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -132,7 +238,20 @@
         "r": 277.6139999999999,
         "b": 476.67992
       },
-      "content": "Record the indicator readings."
+      "content": "Record the indicator readings.",
+      "section_id": "sec_auto_578",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_578",
+          "title": "Perform complete alignment for a vertical correction"
+        }
+      ],
+      "page": 34,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -145,7 +264,20 @@
         "r": 545.7240000000003,
         "b": 450.87993
       },
-      "content": "Make corrections according to the separate instructions for angular and parallel alignment until you obtain the permitted reading values."
+      "content": "Make corrections according to the separate instructions for angular and parallel alignment until you obtain the permitted reading values.",
+      "section_id": "sec_auto_578",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_578",
+          "title": "Perform complete alignment for a vertical correction"
+        }
+      ],
+      "page": 34,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -160,7 +292,19 @@
       },
       "content": "Perform complete alignment for a horizontal correction",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_584",
+      "section_path": [
+        {
+          "id": "sec_auto_584",
+          "title": "Perform complete alignment for a horizontal correction"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 2,
+      "page": 34,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -173,7 +317,20 @@
         "r": 547.4859700000004,
         "b": 399.55996
       },
-      "content": "A unit is in complete alignment when both the angular indicator (A) and the parallel indicator (P) do not vary by more than 0.002 in. (0.05 mm) as measured at four points 90° apart."
+      "content": "A unit is in complete alignment when both the angular indicator (A) and the parallel indicator (P) do not vary by more than 0.002 in. (0.05 mm) as measured at four points 90° apart.",
+      "section_id": "sec_auto_584",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_584",
+          "title": "Perform complete alignment for a horizontal correction"
+        }
+      ],
+      "page": 34,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -186,7 +343,20 @@
         "r": 548.5359700000004,
         "b": 372.55996
       },
-      "content": "Set the angular and parallel dial indicators to zero at the left side of  the driver coupling half  (Y), 90° from the top-center position (9 o'clock)."
+      "content": "Set the angular and parallel dial indicators to zero at the left side of  the driver coupling half  (Y), 90° from the top-center position (9 o'clock).",
+      "section_id": "sec_auto_584",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_584",
+          "title": "Perform complete alignment for a horizontal correction"
+        }
+      ],
+      "page": 34,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -199,7 +369,20 @@
         "r": 543.2659300000004,
         "b": 346.75997
       },
-      "content": "Rotate the indicators through the top-center position to the right side, 180° from the start position (3 o'clock)."
+      "content": "Rotate the indicators through the top-center position to the right side, 180° from the start position (3 o'clock).",
+      "section_id": "sec_auto_584",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_584",
+          "title": "Perform complete alignment for a horizontal correction"
+        }
+      ],
+      "page": 34,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -212,7 +395,20 @@
         "r": 277.60592999999994,
         "b": 332.95998000000003
       },
-      "content": "Record the indicator readings."
+      "content": "Record the indicator readings.",
+      "section_id": "sec_auto_584",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_584",
+          "title": "Perform complete alignment for a horizontal correction"
+        }
+      ],
+      "page": 34,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -225,7 +421,20 @@
         "r": 545.7159300000003,
         "b": 307.15999000000005
       },
-      "content": "Make corrections according to the separate instructions for angular and parallel alignment until you obtain the permitted reading values."
+      "content": "Make corrections according to the separate instructions for angular and parallel alignment until you obtain the permitted reading values.",
+      "section_id": "sec_auto_584",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_584",
+          "title": "Perform complete alignment for a horizontal correction"
+        }
+      ],
+      "page": 34,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -240,7 +449,19 @@
       },
       "content": "C-face adapter",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_590",
+      "section_path": [
+        {
+          "id": "sec_auto_590",
+          "title": "C-face adapter"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 2,
+      "page": 34,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -253,7 +474,20 @@
         "r": 109.4299,
         "b": 262.84001
       },
-      "content": "Intended use The C-face adapter is a device that attaches the pump to the drive unit to minimize the axial and radial play between the two coupling halves."
+      "content": "Intended use The C-face adapter is a device that attaches the pump to the drive unit to minimize the axial and radial play between the two coupling halves.",
+      "section_id": "sec_auto_590",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_590",
+          "title": "C-face adapter"
+        }
+      ],
+      "page": 34,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

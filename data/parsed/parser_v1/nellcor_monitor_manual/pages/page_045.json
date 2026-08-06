@@ -19,7 +19,24 @@
       },
       "content": "5.5 Troubleshooting Guide",
       "level": 2,
-      "role": "section"
+      "section_number": "5.5",
+      "section_id": "sec_5_5",
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6. Turn monitor off."
+        },
+        {
+          "id": "sec_5_5",
+          "title": "5.5 Troubleshooting Guide"
+        }
+      ],
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "page": 45,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -32,7 +49,24 @@
         "r": 537.3771375,
         "b": 648.74625
       },
-      "content": "Problems  with  the  N5500  are  separated  into  the  categories  in  Table  13. Refer to the paragraph indicated for further troubleshooting instructions in this section."
+      "content": "Problems  with  the  N5500  are  separated  into  the  categories  in  Table  13. Refer to the paragraph indicated for further troubleshooting instructions in this section.",
+      "section_id": "sec_5_5",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6. Turn monitor off."
+        },
+        {
+          "id": "sec_5_5",
+          "title": "5.5 Troubleshooting Guide"
+        }
+      ],
+      "page": 45,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "admonition",
@@ -46,7 +80,24 @@
         "b": 581.24625
       },
       "content": "Note:  Taking  the  recommended  actions  discussed  in  this  section  will  correct  the majority  of  problems  you  will  encounter.  However,  problems  not  covered  here can  be  resolved  by  calling  Nellcor  Technical  Services  or  your  local   Nellcor representative.",
-      "severity": "note"
+      "severity": "note",
+      "section_id": "sec_5_5",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6. Turn monitor off."
+        },
+        {
+          "id": "sec_5_5",
+          "title": "5.5 Troubleshooting Guide"
+        }
+      ],
+      "page": 45,
+      "chunk_hint": "admonition",
+      "semantic_role": "note",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -59,7 +110,24 @@
         "r": 477.56325000000004,
         "b": 554.24625
       },
-      "content": "All of the categories in Table 13 are discussed in the following paragraphs."
+      "content": "All of the categories in Table 13 are discussed in the following paragraphs.",
+      "section_id": "sec_5_5",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6. Turn monitor off."
+        },
+        {
+          "id": "sec_5_5",
+          "title": "5.5 Troubleshooting Guide"
+        }
+      ],
+      "page": 45,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -73,11 +141,29 @@
         "b": 261.41033935546875
       },
       "markdown": "Table 13. Problem Categories\n\n| Problem Area                                                                                                                              | Refer to Paragraph            |\n|-------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|\n| 1. Power § No power-up § Fails power-on self-test § Powers down without apparent cause                                                    | 5.5.1 Power                   |\n| 2. Display § Display does                                                                                                                 | 5.5.2 Display                 |\n| not respond properly 3. Switches/Knob § Monitor does not respond properly to switches                                                     | 5.5.3 Switches/Knobs          |\n| 4. Alarms/Audible Tones § Alarms are generated without apparent cause § Tones do not sound properly                                       | 5.5.4 Alarms/Audible Tones    |\n| 5. Operational Performance § Displays appear to be operational, but monitor shows no readings § Suspect readings § Printer not responding | 5.5.5 Operational Performance |\n| 6. Error Codes § Error code displays on the screen                                                                                        | 5.5.6 Error Codes             |",
-      "caption_id": "txt_0579",
       "title": "Table 13. Problem Categories",
       "table_number": "Table 13",
       "rows": 7,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_5_5",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6. Turn monitor off."
+        },
+        {
+          "id": "sec_5_5",
+          "title": "5.5 Troubleshooting Guide"
+        }
+      ],
+      "page": 45,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "group_id": "grp_tbl_0018",
+      "source": "pdf_text",
+      "caption_id": "txt_0579"
     },
     {
       "type": "caption",
@@ -91,6 +177,24 @@
         "b": 527.4375
       },
       "content": "Table 13. Problem Categories",
+      "section_id": "sec_5_5",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6. Turn monitor off."
+        },
+        {
+          "id": "sec_5_5",
+          "title": "5.5 Troubleshooting Guide"
+        }
+      ],
+      "page": 45,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_tbl_0018",
+      "source": "pdf_text",
       "caption_for": "tbl_0018"
     }
   ],

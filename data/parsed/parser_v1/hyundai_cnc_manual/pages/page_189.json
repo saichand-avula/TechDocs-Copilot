@@ -19,7 +19,20 @@
       },
       "markdown": "|   SPM indication (*1) | Faulty location and remedy                                                          | Description                                                                                                                                                                                                   |\n|-----------------------|-------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n|                    28 | 1 Replace the cable. 2 Re-adjust the BZ sensor signal.                              | The position detection signal (connector JY5)for Cs contour control is abnormal. (Unconnected cable, adjustment error, etc.)                                                                                  |\n|                    29 | Check and correct the load status.                                                  | Excessive load has been applied continuously for a certain period of time. (This alarm is issued also when the motor shaft has been locked in the excitation state.)                                          |\n|                    30 | Check and correct the power supply voltage.                                         | Overcurrent is detected in PSM main circuit input. (PSM alarm indication : 1) Unbalanced power supply. PSM selection error (The maximum PSM output specification is exceeded.)                                |\n|                    31 | 1 Check and correct the load status. 2 Replace the motor sensor cable (JY2 or JY5). | The motor cannot rotate at a specified speed. (A level not exceeding the SST level for the rotation command has existed continuously.) Abnormality in the speed detection signal.                             |\n|                    32 | Replace the SPM control printed circuit board.                                      | Abnormality in an SPM control circuit \"component is detected. (The LSI device for serial transfer is abnormal.)                                                                                               |\n|                    33 | Check and correct the power supply voltage. 2 Replace the PSM unit.                 | Charging of direct current power supply voltage in the power circuit section is insufficient when the magnetic contractor in the amplifier is turned on (such as open phase and defective charging resistor). |",
       "rows": 7,
-      "cols": 3
+      "cols": 3,
+      "section_id": "sec_3",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-9-6. Error Codes Serial Spindle)"
+        }
+      ],
+      "page": 189,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -34,7 +47,23 @@
       },
       "content": "<LED display on the AMP during spindle alarm and error>",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1716",
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-9-6. Error Codes Serial Spindle)"
+        },
+        {
+          "id": "sec_auto_1716",
+          "title": "<LED display on the AMP during spindle alarm and error>"
+        }
+      ],
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "page": 189,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -52,7 +81,24 @@
       "next_block_id": "txt_1273",
       "image_hash": "740c80ff51980c7b9bb827ea6a01abbefaa02a89ea0981cbe8cdaa5d8c8abdf5",
       "width": 151,
-      "height": 89
+      "height": 89,
+      "section_id": "sec_auto_1716",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-9-6. Error Codes Serial Spindle)"
+        },
+        {
+          "id": "sec_auto_1716",
+          "title": "<LED display on the AMP during spindle alarm and error>"
+        }
+      ],
+      "page": 189,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -70,7 +116,24 @@
       "next_block_id": "txt_1273",
       "image_hash": "3d8b7aca9568964be70ed3fd2277531aeafc99a03c797dbeff5b3872a1deeab9",
       "width": 154,
-      "height": 88
+      "height": 88,
+      "section_id": "sec_auto_1716",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-9-6. Error Codes Serial Spindle)"
+        },
+        {
+          "id": "sec_auto_1716",
+          "title": "<LED display on the AMP during spindle alarm and error>"
+        }
+      ],
+      "page": 189,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -83,7 +146,24 @@
         "r": 435.89180399999964,
         "b": 86.24355292817677
       },
-      "content": "(Error No.01)                                               (Alarm No.01)"
+      "content": "(Error No.01)                                               (Alarm No.01)",
+      "section_id": "sec_auto_1716",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-9-6. Error Codes Serial Spindle)"
+        },
+        {
+          "id": "sec_auto_1716",
+          "title": "<LED display on the AMP during spindle alarm and error>"
+        }
+      ],
+      "page": 189,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

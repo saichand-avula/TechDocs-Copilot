@@ -18,8 +18,25 @@
         "b": 713.686239338843
       },
       "content": "4.2.3.1.2 Chopper Motor Drive",
-      "level": 2,
-      "role": "section"
+      "level": 5,
+      "section_number": "4.2.3.1.2",
+      "section_id": "sec_4_2_3_1_2",
+      "section_path": [
+        {
+          "id": "sec_auto_362",
+          "title": "Stepper Motors"
+        },
+        {
+          "id": "sec_4_2_3_1_2",
+          "title": "4.2.3.1.2 Chopper Motor Drive"
+        }
+      ],
+      "parent_section_id": "sec_auto_362",
+      "section_level": 5,
+      "page": 44,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -32,7 +49,24 @@
         "r": 504.0367481713996,
         "b": 592.7887945440333
       },
-      "content": "The infuser stepper motor drive is a chopper drive, which is a pulse width modulation of the coil current in each motor winding. Current is switched on and off to maintain a predetermined coil current independent of supply voltage and motor speed. The motor winding inductance acts as a filter to smooth out the switching currents, slowing the current rise when turned on and storing a decaying current when turned off. Each motor coil is modulated independently, allowing different coil currents in the two motor windings. The coil current is sensed and compared to a reference input for each winding. Modulation circuits correct for any error between the sensed current and the reference. This reference input can be changed to set a different coil current."
+      "content": "The infuser stepper motor drive is a chopper drive, which is a pulse width modulation of the coil current in each motor winding. Current is switched on and off to maintain a predetermined coil current independent of supply voltage and motor speed. The motor winding inductance acts as a filter to smooth out the switching currents, slowing the current rise when turned on and storing a decaying current when turned off. Each motor coil is modulated independently, allowing different coil currents in the two motor windings. The coil current is sensed and compared to a reference input for each winding. Modulation circuits correct for any error between the sensed current and the reference. This reference input can be changed to set a different coil current.",
+      "section_id": "sec_4_2_3_1_2",
+      "parent_section_id": "sec_auto_362",
+      "section_level": 5,
+      "section_path": [
+        {
+          "id": "sec_auto_362",
+          "title": "Stepper Motors"
+        },
+        {
+          "id": "sec_4_2_3_1_2",
+          "title": "4.2.3.1.2 Chopper Motor Drive"
+        }
+      ],
+      "page": 44,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -46,8 +80,25 @@
         "b": 544.666219338843
       },
       "content": "4.2.3.2 MOTOR POSITION SENSORS",
-      "level": 2,
-      "role": "section"
+      "level": 4,
+      "section_number": "4.2.3.2",
+      "section_id": "sec_4_2_3_2",
+      "section_path": [
+        {
+          "id": "sec_auto_362",
+          "title": "Stepper Motors"
+        },
+        {
+          "id": "sec_4_2_3_2",
+          "title": "4.2.3.2 MOTOR POSITION SENSORS"
+        }
+      ],
+      "parent_section_id": "sec_auto_362",
+      "section_level": 4,
+      "page": 44,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -60,7 +111,24 @@
         "r": 504.11602985100103,
         "b": 496.7877148320328
       },
-      "content": "Motor position is estimated by counting the motor steps, relative to a position reference. Optical switches and flags serve as position references, which are used to find the motor home positions and to verify proper motion. Flag positions are anticipated by software."
+      "content": "Motor position is estimated by counting the motor steps, relative to a position reference. Optical switches and flags serve as position references, which are used to find the motor home positions and to verify proper motion. Flag positions are anticipated by software.",
+      "section_id": "sec_4_2_3_2",
+      "parent_section_id": "sec_auto_362",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_auto_362",
+          "title": "Stepper Motors"
+        },
+        {
+          "id": "sec_4_2_3_2",
+          "title": "4.2.3.2 MOTOR POSITION SENSORS"
+        }
+      ],
+      "page": 44,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -73,7 +141,24 @@
         "r": 376.43159005390044,
         "b": 472.7879751359328
       },
-      "content": "Optical switch flag sensors are used for tracking the following:"
+      "content": "Optical switch flag sensors are used for tracking the following:",
+      "section_id": "sec_4_2_3_2",
+      "parent_section_id": "sec_auto_362",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_auto_362",
+          "title": "Stepper Motors"
+        },
+        {
+          "id": "sec_4_2_3_2",
+          "title": "4.2.3.2 MOTOR POSITION SENSORS"
+        }
+      ],
+      "page": 44,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -86,7 +171,24 @@
         "r": 318.3510865401998,
         "b": 454.7881454638328
       },
-      "content": "-Plunger motor rotational position (coupler flag)"
+      "content": "-Plunger motor rotational position (coupler flag)",
+      "section_id": "sec_4_2_3_2",
+      "parent_section_id": "sec_auto_362",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_auto_362",
+          "title": "Stepper Motors"
+        },
+        {
+          "id": "sec_4_2_3_2",
+          "title": "4.2.3.2 MOTOR POSITION SENSORS"
+        }
+      ],
+      "page": 44,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -99,7 +201,24 @@
         "r": 272.4461972510004,
         "b": 437.32814833373277
       },
-      "content": "-Plunger translational (linear) position"
+      "content": "-Plunger translational (linear) position",
+      "section_id": "sec_4_2_3_2",
+      "parent_section_id": "sec_auto_362",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_auto_362",
+          "title": "Stepper Motors"
+        },
+        {
+          "id": "sec_4_2_3_2",
+          "title": "4.2.3.2 MOTOR POSITION SENSORS"
+        }
+      ],
+      "page": 44,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -112,7 +231,24 @@
         "r": 309.8245211793996,
         "b": 419.92811046383275
       },
-      "content": "-I/O valve motor rotational position (cam flag)"
+      "content": "-I/O valve motor rotational position (cam flag)",
+      "section_id": "sec_4_2_3_2",
+      "parent_section_id": "sec_auto_362",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_auto_362",
+          "title": "Stepper Motors"
+        },
+        {
+          "id": "sec_4_2_3_2",
+          "title": "4.2.3.2 MOTOR POSITION SENSORS"
+        }
+      ],
+      "page": 44,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -125,7 +261,24 @@
         "r": 310.9998023593996,
         "b": 402.46811333373273
       },
-      "content": "-L/S valve motor rotational position (cam flag)"
+      "content": "-L/S valve motor rotational position (cam flag)",
+      "section_id": "sec_4_2_3_2",
+      "parent_section_id": "sec_auto_362",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_auto_362",
+          "title": "Stepper Motors"
+        },
+        {
+          "id": "sec_4_2_3_2",
+          "title": "4.2.3.2 MOTOR POSITION SENSORS"
+        }
+      ],
+      "page": 44,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -138,7 +291,24 @@
         "r": 504.0304733650995,
         "b": 307.0094850918327
       },
-      "content": "Each optical switch consists of an infrared LED, which shines through a rectangular aperture, across a slot, to illuminate a photo-transistor. The photo-transistor is activated as long as the beam is on and not blocked (by a flag in the slot). The optical switches are distributed throughout the mechanism, near their associated flags. The motor rotational optical switches (U5, U9, and U10) are mounted on the driver PWA along with the control circuitry. The plunger translational optical switch is mounted remotely on the switch PWA. The switches are used intermittently to save power."
+      "content": "Each optical switch consists of an infrared LED, which shines through a rectangular aperture, across a slot, to illuminate a photo-transistor. The photo-transistor is activated as long as the beam is on and not blocked (by a flag in the slot). The optical switches are distributed throughout the mechanism, near their associated flags. The motor rotational optical switches (U5, U9, and U10) are mounted on the driver PWA along with the control circuitry. The plunger translational optical switch is mounted remotely on the switch PWA. The switches are used intermittently to save power.",
+      "section_id": "sec_4_2_3_2",
+      "parent_section_id": "sec_auto_362",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_auto_362",
+          "title": "Stepper Motors"
+        },
+        {
+          "id": "sec_4_2_3_2",
+          "title": "4.2.3.2 MOTOR POSITION SENSORS"
+        }
+      ],
+      "page": 44,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -151,7 +321,24 @@
         "r": 445.4078465070992,
         "b": 283.0097453957327
       },
-      "content": "There are two control signals that enable associated switch pairs, as follows:"
+      "content": "There are two control signals that enable associated switch pairs, as follows:",
+      "section_id": "sec_4_2_3_2",
+      "parent_section_id": "sec_auto_362",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_auto_362",
+          "title": "Stepper Motors"
+        },
+        {
+          "id": "sec_4_2_3_2",
+          "title": "4.2.3.2 MOTOR POSITION SENSORS"
+        }
+      ],
+      "page": 44,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -164,7 +351,24 @@
         "r": 315.07504005100014,
         "b": 265.00991572363273
       },
-      "content": "FLCAME flag valve motor cam sensor enable"
+      "content": "FLCAME flag valve motor cam sensor enable",
+      "section_id": "sec_4_2_3_2",
+      "parent_section_id": "sec_auto_362",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_auto_362",
+          "title": "Stepper Motors"
+        },
+        {
+          "id": "sec_4_2_3_2",
+          "title": "4.2.3.2 MOTOR POSITION SENSORS"
+        }
+      ],
+      "page": 44,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -177,7 +381,24 @@
         "r": 430.1267011645995,
         "b": 247.54991859353277
       },
-      "content": "FLPLE flag plunger motor rotation and translation sensors enable"
+      "content": "FLPLE flag plunger motor rotation and translation sensors enable",
+      "section_id": "sec_4_2_3_2",
+      "parent_section_id": "sec_auto_362",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_auto_362",
+          "title": "Stepper Motors"
+        },
+        {
+          "id": "sec_4_2_3_2",
+          "title": "4.2.3.2 MOTOR POSITION SENSORS"
+        }
+      ],
+      "page": 44,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -190,7 +411,24 @@
         "r": 504.02250535710056,
         "b": 176.15059090753266
       },
-      "content": "Each  of  these  control  signals  enables  a  constant  current  source  which  turns  on  the associated switch's infrared LEDs. The photo transistor states are sensed by Schmidt trigger inverters (U11 on driver PWA) which provide a 3.3 V logic high when the optical path is blocked or a logic low when the optical path is clear. The Schmidt trigger output is high when the sensor is disabled."
+      "content": "Each  of  these  control  signals  enables  a  constant  current  source  which  turns  on  the associated switch's infrared LEDs. The photo transistor states are sensed by Schmidt trigger inverters (U11 on driver PWA) which provide a 3.3 V logic high when the optical path is blocked or a logic low when the optical path is clear. The Schmidt trigger output is high when the sensor is disabled.",
+      "section_id": "sec_4_2_3_2",
+      "parent_section_id": "sec_auto_362",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_auto_362",
+          "title": "Stepper Motors"
+        },
+        {
+          "id": "sec_4_2_3_2",
+          "title": "4.2.3.2 MOTOR POSITION SENSORS"
+        }
+      ],
+      "page": 44,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -203,7 +441,24 @@
         "r": 388.45850132910016,
         "b": 152.15085121143272
       },
-      "content": "The following output signals are provided to the CPU subsystem:"
+      "content": "The following output signals are provided to the CPU subsystem:",
+      "section_id": "sec_4_2_3_2",
+      "parent_section_id": "sec_auto_362",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_auto_362",
+          "title": "Stepper Motors"
+        },
+        {
+          "id": "sec_4_2_3_2",
+          "title": "4.2.3.2 MOTOR POSITION SENSORS"
+        }
+      ],
+      "page": 44,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -216,7 +471,24 @@
         "r": 300.50553742299996,
         "b": 134.15102153933276
       },
-      "content": "FLIO_C flag I/O valve motor cam sensor"
+      "content": "FLIO_C flag I/O valve motor cam sensor",
+      "section_id": "sec_4_2_3_2",
+      "parent_section_id": "sec_auto_362",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_auto_362",
+          "title": "Stepper Motors"
+        },
+        {
+          "id": "sec_4_2_3_2",
+          "title": "4.2.3.2 MOTOR POSITION SENSORS"
+        }
+      ],
+      "page": 44,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -229,7 +501,24 @@
         "r": 301.7328098552002,
         "b": 116.69102440923268
       },
-      "content": "FLLS_C flag L/S valve motor cam sensor"
+      "content": "FLLS_C flag L/S valve motor cam sensor",
+      "section_id": "sec_4_2_3_2",
+      "parent_section_id": "sec_auto_362",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_auto_362",
+          "title": "Stepper Motors"
+        },
+        {
+          "id": "sec_4_2_3_2",
+          "title": "4.2.3.2 MOTOR POSITION SENSORS"
+        }
+      ],
+      "page": 44,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -242,7 +531,24 @@
         "r": 311.203584164,
         "b": 99.23102727913272
       },
-      "content": "FLPLRO flag plunger motor rotation sensor"
+      "content": "FLPLRO flag plunger motor rotation sensor",
+      "section_id": "sec_4_2_3_2",
+      "parent_section_id": "sec_auto_362",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_auto_362",
+          "title": "Stepper Motors"
+        },
+        {
+          "id": "sec_4_2_3_2",
+          "title": "4.2.3.2 MOTOR POSITION SENSORS"
+        }
+      ],
+      "page": 44,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -255,7 +561,24 @@
         "r": 320.44487984240055,
         "b": 81.83098940923264
       },
-      "content": "FLPLTR flag plunger motor transition sensor"
+      "content": "FLPLTR flag plunger motor transition sensor",
+      "section_id": "sec_4_2_3_2",
+      "parent_section_id": "sec_auto_362",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_auto_362",
+          "title": "Stepper Motors"
+        },
+        {
+          "id": "sec_4_2_3_2",
+          "title": "4.2.3.2 MOTOR POSITION SENSORS"
+        }
+      ],
+      "page": 44,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

@@ -21,7 +21,24 @@
       "next_block_id": "txt_0883",
       "image_hash": "2d2a836df72f659eb0985697292682429e59bf8ad20c0b8fc6a039c365a94e86",
       "width": 48,
-      "height": 23
+      "height": 23,
+      "section_id": "sec_auto_1279",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7       Operating instructions"
+        },
+        {
+          "id": "sec_auto_1279",
+          "title": "Warning"
+        }
+      ],
+      "page": 116,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -36,7 +53,23 @@
       },
       "content": "Procedure",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1281",
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7       Operating instructions"
+        },
+        {
+          "id": "sec_auto_1281",
+          "title": "Procedure"
+        }
+      ],
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "page": 116,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -51,7 +84,24 @@
       },
       "markdown": "| Step   | Action                                                                                                                                                                                                        |\n|--------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| -      | Stop the compressor and close the air outlet valve.                                                                                                                                                           |\n| -      | Press the test button on top of the electronic water drain(s) until the air system between air receiver and outlet valve is fully depressurized. Consult section Condensate system to locate the drain valve. |\n| -      | Switch off the voltage and disconnect the compressor from the mains.                                                                                                                                          |\n| -      | Unscrew the oil filler plug only one turn to permit any pressure in the system to escape. Consult section Oil and oil filter change to locate the filler plug.                                                |\n| -      | Shut off and depressurise the part of the air net which is connected to the outlet valve. Disconnect the compressor air outlet pipe from the air net.                                                         |\n| -      | On water-cooled compressors: Isolate and disconnect the water system from the cooling water net. Drain the water circuit.                                                                                     |\n| -      | Drain the oil.                                                                                                                                                                                                |\n| -      | Drain the condensate circuit and disconnect the condensate piping from the condensate net.                                                                                                                    |",
       "rows": 9,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_auto_1281",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7       Operating instructions"
+        },
+        {
+          "id": "sec_auto_1281",
+          "title": "Procedure"
+        }
+      ],
+      "page": 116,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

@@ -17,7 +17,20 @@
         "r": 205.15999999999997,
         "b": 720.7
       },
-      "content": "Remove the door."
+      "content": "Remove the door.",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2. Remove the formatter cover."
+        }
+      ],
+      "page": 188,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -38,6 +51,20 @@
       "height": 217,
       "previous_block_id": "txt_1708",
       "next_block_id": "txt_1709",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2. Remove the formatter cover."
+        }
+      ],
+      "page": 188,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0494",
+      "source": "pdf_text",
       "caption_id": "txt_1709"
     },
     {
@@ -52,6 +79,20 @@
         "b": 699.7
       },
       "content": "Figure 1-256  Remove the door",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2. Remove the formatter cover."
+        }
+      ],
+      "page": 188,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0494",
+      "source": "pdf_text",
       "caption_for": "fig_0494"
     },
     {
@@ -66,8 +107,21 @@
         "b": 458.83
       },
       "content": "10. Remove the left cover.",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "10",
+      "section_id": "sec_10",
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. Remove the left cover."
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 188,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -86,7 +140,20 @@
       "height": 13,
       "image_hash": "613657520d564259d1ae94de3d6b9684584af873dc853905876155e17dfbdb8d",
       "previous_block_id": "txt_1710",
-      "next_block_id": "txt_1711"
+      "next_block_id": "txt_1711",
+      "section_id": "sec_10",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. Remove the left cover."
+        }
+      ],
+      "page": 188,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "admonition",
@@ -100,7 +167,20 @@
         "b": 423.33
       },
       "content": "IMPORTANT: The black-plastic cassette front and rear guides (located inside the tray cavity) can be easily dislodged. Do not lose the guides when the cover is removed or installed.",
-      "severity": "important"
+      "severity": "important",
+      "section_id": "sec_10",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. Remove the left cover."
+        }
+      ],
+      "page": 188,
+      "chunk_hint": "admonition",
+      "semantic_role": "important",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -119,7 +199,20 @@
       "height": 13,
       "image_hash": "444aaad71c8d3b3c4ed0c40eee805fe61c1ae693a9c2402d3e64d44d5664b995",
       "previous_block_id": "txt_1711",
-      "next_block_id": "txt_1712"
+      "next_block_id": "txt_1712",
+      "section_id": "sec_10",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. Remove the left cover."
+        }
+      ],
+      "page": 188,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "admonition",
@@ -133,7 +226,20 @@
         "b": 402.33
       },
       "content": "NOTE: An MFP printer is shown in this section. However, the procedure is correct for all printer models.",
-      "severity": "note"
+      "severity": "note",
+      "section_id": "sec_10",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. Remove the left cover."
+        }
+      ],
+      "page": 188,
+      "chunk_hint": "admonition",
+      "semantic_role": "note",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -146,7 +252,20 @@
         "r": 506.56000000000034,
         "b": 379.83
       },
-      "content": "Before proceeding, take note of the location of the tabs and bosses on the inside of the cover."
+      "content": "Before proceeding, take note of the location of the tabs and bosses on the inside of the cover.",
+      "section_id": "sec_10",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. Remove the left cover."
+        }
+      ],
+      "page": 188,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -159,7 +278,20 @@
         "r": 519.0200800000003,
         "b": 346.83
       },
-      "content": "When reinstalling the cover, take note of the location of the tabs and bosses on the inside of the cover."
+      "content": "When reinstalling the cover, take note of the location of the tabs and bosses on the inside of the cover.",
+      "section_id": "sec_10",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. Remove the left cover."
+        }
+      ],
+      "page": 188,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -180,6 +312,20 @@
       "height": 217,
       "previous_block_id": "txt_1714",
       "next_block_id": "txt_1715",
+      "section_id": "sec_10",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. Remove the left cover."
+        }
+      ],
+      "page": 188,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0497",
+      "source": "pdf_text",
       "caption_id": "txt_1715"
     },
     {
@@ -194,6 +340,20 @@
         "b": 325.83
       },
       "content": "Figure 1-257  Locate of the tabs and bosses",
+      "section_id": "sec_10",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. Remove the left cover."
+        }
+      ],
+      "page": 188,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0497",
+      "source": "pdf_text",
       "caption_for": "fig_0497"
     }
   ],

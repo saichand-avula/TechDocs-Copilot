@@ -19,7 +19,23 @@
       },
       "content": "SpO2",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_948",
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6. Turn monitor off."
+        },
+        {
+          "id": "sec_auto_948",
+          "title": "SpO2"
+        }
+      ],
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "page": 84,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -34,7 +50,23 @@
       },
       "content": "Temperature",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_949",
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6. Turn monitor off."
+        },
+        {
+          "id": "sec_auto_949",
+          "title": "Temperature"
+        }
+      ],
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "page": 84,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -49,7 +81,24 @@
       },
       "content": "9.8    Trends",
       "level": 2,
-      "role": "section"
+      "section_number": "9.8",
+      "section_id": "sec_9_8",
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6. Turn monitor off."
+        },
+        {
+          "id": "sec_9_8",
+          "title": "9.8    Trends"
+        }
+      ],
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "page": 84,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -64,7 +113,24 @@
       },
       "markdown": "| %Saturation   | %Saturation                                                                                                                                                                                                                        |\n|---------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Range         | 1% to 100%                                                                                                                                                                                                                         |\n| Low Perfusion | 0.03% to 20%                                                                                                                                                                                                                       |\n| Accuracy      | Without Motion-Adults 1 70% to 100% ±2 digits Without Motion-Neonate 1 70% to 100% ±3 digits 1% to 69% unspecified With Motion 2 -Adults/Neonate 70% to 100% ±3 digits Low Perfusion 3 70% to 100% ±2 digits 1% to 69% unspecified |",
       "rows": 4,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_9_8",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6. Turn monitor off."
+        },
+        {
+          "id": "sec_9_8",
+          "title": "9.8    Trends"
+        }
+      ],
+      "page": 84,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -79,7 +145,24 @@
       },
       "markdown": "| Display Sweep Speeds   | 12.5 mm/sec, 25.0 mm/sec, and 50.0 mm/sec                                                                                                               |\n|------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Pulse Rate             | Pulse Rate                                                                                                                                              |\n| Range                  | 20 BPM to 250 BPM                                                                                                                                       |\n| Accuracy               | Without Motion 3 20 BPM to 250 BPM ±3 digits With Motion normal physiologic range (55 to 125 BPM) ±5 digits Low Perfusion 3 20 BPM to 250 BPM ±3 digits |",
       "rows": 4,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_9_8",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6. Turn monitor off."
+        },
+        {
+          "id": "sec_9_8",
+          "title": "9.8    Trends"
+        }
+      ],
+      "page": 84,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "footnote",
@@ -92,7 +175,24 @@
         "r": 531.9200100000007,
         "b": 398.097
       },
-      "content": "1 Adult specification  are  shown  for  OxiMax  MAX-A and MAX-N sensors with the N5500. Neonate specifications are shown for OxiMax MAX-N sensors with the N5500. Saturation accuracy will vary by sensor type."
+      "content": "1 Adult specification  are  shown  for  OxiMax  MAX-A and MAX-N sensors with the N5500. Neonate specifications are shown for OxiMax MAX-N sensors with the N5500. Saturation accuracy will vary by sensor type.",
+      "section_id": "sec_9_8",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6. Turn monitor off."
+        },
+        {
+          "id": "sec_9_8",
+          "title": "9.8    Trends"
+        }
+      ],
+      "page": 84,
+      "chunk_hint": "footnote",
+      "semantic_role": "footnote",
+      "source": "pdf_text"
     },
     {
       "type": "footnote",
@@ -105,7 +205,24 @@
         "r": 519.7502999999999,
         "b": 371.097
       },
-      "content": "3 Specification applies to monitor performance and was validated with Biotek and Nellcor simulators"
+      "content": "3 Specification applies to monitor performance and was validated with Biotek and Nellcor simulators",
+      "section_id": "sec_9_8",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6. Turn monitor off."
+        },
+        {
+          "id": "sec_9_8",
+          "title": "9.8    Trends"
+        }
+      ],
+      "page": 84,
+      "chunk_hint": "footnote",
+      "semantic_role": "footnote",
+      "source": "pdf_text"
     },
     {
       "type": "footnote",
@@ -118,7 +235,24 @@
         "r": 360.75,
         "b": 384.597
       },
-      "content": "2 Applicability(accuracy with motion): OxiMax sensors."
+      "content": "2 Applicability(accuracy with motion): OxiMax sensors.",
+      "section_id": "sec_9_8",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6. Turn monitor off."
+        },
+        {
+          "id": "sec_9_8",
+          "title": "9.8    Trends"
+        }
+      ],
+      "page": 84,
+      "chunk_hint": "footnote",
+      "semantic_role": "footnote",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -133,7 +267,24 @@
       },
       "markdown": "| Probe Type          | Thermistor probe (Monotherm™ temperature probes)   |\n|---------------------|----------------------------------------------------|\n| Parameter displayed | T1, T2                                             |\n| Range               | 15° C to 45° C                                     |\n| Display Accuracy    | ±0.1° C (25° C to 45° C)                           |\n|                     | ±0.2° C (15° C to less than 25° C)                 |\n| Probe Accuracy      | ±0.1° C                                            |",
       "rows": 6,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_9_8",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6. Turn monitor off."
+        },
+        {
+          "id": "sec_9_8",
+          "title": "9.8    Trends"
+        }
+      ],
+      "page": 84,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -148,7 +299,24 @@
       },
       "markdown": "| Types                 | Graphical and Tabular                                                               |\n|-----------------------|-------------------------------------------------------------------------------------|\n| Memory Storage        | 24 hours, nonvolatile, 20 seconds data interval                                     |\n| Graphical Format      | One graph for all parameters Also user-selectable each parameter to be desired      |\n| Display Range         | 2 hours                                                                             |\n| Tabular Format        | One table for all variables. 18 rows (date, parameter labels, and 16 variable rows) |\n| Display Time Interval | 20 sec, 1 min, 2 min, 3 min, 5 min, 10 min, 15 min, 20 min                          |",
       "rows": 6,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_9_8",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6. Turn monitor off."
+        },
+        {
+          "id": "sec_9_8",
+          "title": "9.8    Trends"
+        }
+      ],
+      "page": 84,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

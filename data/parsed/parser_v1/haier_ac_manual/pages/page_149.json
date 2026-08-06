@@ -18,8 +18,29 @@
         "b": 720.5711125
       },
       "content": "10.2.2.Outdoor unit FOR12K",
-      "level": 2,
-      "role": "section"
+      "level": 3,
+      "section_number": "10.2.2",
+      "section_id": "sec_10_2_2",
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_10_2",
+          "title": "10.2 Wiring Diagrams"
+        },
+        {
+          "id": "sec_10_2_2",
+          "title": "10.2.2.Outdoor unit FOR12K"
+        }
+      ],
+      "parent_section_id": "sec_10_2",
+      "section_level": 3,
+      "page": 149,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -36,7 +57,28 @@
       "previous_block_id": "txt_1276",
       "image_hash": "643af3b555e4d3470d55bca3d1917c3b02900f662cc50c5c6e690a73cb1320e1",
       "width": 429,
-      "height": 302
+      "height": 302,
+      "section_id": "sec_10_2_2",
+      "parent_section_id": "sec_10_2",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_10_2",
+          "title": "10.2 Wiring Diagrams"
+        },
+        {
+          "id": "sec_10_2_2",
+          "title": "10.2.2.Outdoor unit FOR12K"
+        }
+      ],
+      "page": 149,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

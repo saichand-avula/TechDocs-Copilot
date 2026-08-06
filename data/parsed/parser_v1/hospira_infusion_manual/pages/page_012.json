@@ -19,7 +19,20 @@
       },
       "content": "1.2 CONVENTIONS",
       "level": 2,
-      "role": "section"
+      "section_number": "1.2",
+      "section_id": "sec_1_2",
+      "section_path": [
+        {
+          "id": "sec_1_2",
+          "title": "1.2 CONVENTIONS"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 2,
+      "page": 12,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -32,7 +45,20 @@
         "r": 411.66134062509974,
         "b": 678.3472949280329
       },
-      "content": "The conventions listed in Table 1-1 are used throughout this manual."
+      "content": "The conventions listed in Table 1-1 are used throughout this manual.",
+      "section_id": "sec_1_2",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1_2",
+          "title": "1.2 CONVENTIONS"
+        }
+      ],
+      "page": 12,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -47,7 +73,20 @@
       },
       "markdown": "| Table 1-1. Conventions   | Table 1-1. Conventions                                | Table 1-1. Conventions                                                 |\n|--------------------------|-------------------------------------------------------|------------------------------------------------------------------------|\n| Convention               | Application                                           | Example                                                                |\n| Italic                   | Reference to a section, figure, table, or publication | (see Section 6.1)                                                      |\n| [ALL CAPS]               | In-text references to keys and touchswitches          | [START]                                                                |\n| ALL CAPS                 | Screen displays                                       | CASSETTE TEST IN PROGRESS                                              |\n| Bold                     | Emphasis                                              | CAUTION: Use proper ESD grounding techniques when handling components. |",
       "rows": 6,
-      "cols": 3
+      "cols": 3,
+      "section_id": "sec_1_2",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1_2",
+          "title": "1.2 CONVENTIONS"
+        }
+      ],
+      "page": 12,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -60,7 +99,20 @@
         "r": 503.9565700909003,
         "b": 463.6672473860328
       },
-      "content": "Throughout this manual, warnings, cautions, and notes are used to emphasize important information as follows:"
+      "content": "Throughout this manual, warnings, cautions, and notes are used to emphasize important information as follows:",
+      "section_id": "sec_1_2",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1_2",
+          "title": "1.2 CONVENTIONS"
+        }
+      ],
+      "page": 12,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "admonition",
@@ -74,7 +126,20 @@
         "t": 432.98365,
         "r": 149.15732399999996,
         "b": 422.82715
-      }
+      },
+      "section_id": "sec_1_2",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1_2",
+          "title": "1.2 CONVENTIONS"
+        }
+      ],
+      "page": 12,
+      "chunk_hint": "admonition",
+      "semantic_role": "warning",
+      "source": "pdf_text"
     },
     {
       "type": "admonition",
@@ -88,7 +153,20 @@
         "b": 341.73966422908546
       },
       "content": "CAUTION: A  CAUTION  usually  appears  in  front  of  a  procedure  or  statement. It contains information that could prevent hardware failure, irreversible damage to equipment, or loss of data.",
-      "severity": "caution"
+      "severity": "caution",
+      "section_id": "sec_1_2",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1_2",
+          "title": "1.2 CONVENTIONS"
+        }
+      ],
+      "page": 12,
+      "chunk_hint": "admonition",
+      "semantic_role": "caution",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -106,7 +184,20 @@
       "next_block_id": "txt_0039",
       "width": 12,
       "height": 13,
-      "image_hash": "7b3e2310470e265575c05e5f9ade3aece48412a8bc38a5f927c44dbffa0e745f"
+      "image_hash": "7b3e2310470e265575c05e5f9ade3aece48412a8bc38a5f927c44dbffa0e745f",
+      "section_id": "sec_1_2",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1_2",
+          "title": "1.2 CONVENTIONS"
+        }
+      ],
+      "page": 12,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "admonition",
@@ -120,7 +211,20 @@
         "t": 323.22276681,
         "r": 117.38604349600004,
         "b": 314.4663260511885
-      }
+      },
+      "section_id": "sec_1_2",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1_2",
+          "title": "1.2 CONVENTIONS"
+        }
+      ],
+      "page": 12,
+      "chunk_hint": "admonition",
+      "semantic_role": "note",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -137,7 +241,20 @@
       "next_block_id": "txt_0041",
       "width": 38,
       "height": 19,
-      "image_hash": "584f2868a7a25d2685384b804b25bb86322d4826d567a03eeba8cfab56c28fbe"
+      "image_hash": "584f2868a7a25d2685384b804b25bb86322d4826d567a03eeba8cfab56c28fbe",
+      "section_id": "sec_1_2",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1_2",
+          "title": "1.2 CONVENTIONS"
+        }
+      ],
+      "page": 12,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -150,7 +267,20 @@
         "r": 462.9994860970995,
         "b": 284.3278844081328
       },
-      "content": "Indicates International Electrotechnical Commission (IEC) compliance."
+      "content": "Indicates International Electrotechnical Commission (IEC) compliance.",
+      "section_id": "sec_1_2",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1_2",
+          "title": "1.2 CONVENTIONS"
+        }
+      ],
+      "page": 12,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -165,7 +295,20 @@
       },
       "content": "1.3 COMPONENT DESIGNATORS",
       "level": 2,
-      "role": "section"
+      "section_number": "1.3",
+      "section_id": "sec_1_3",
+      "section_path": [
+        {
+          "id": "sec_1_3",
+          "title": "1.3 COMPONENT DESIGNATORS"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 2,
+      "page": 12,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -178,7 +321,20 @@
         "r": 407.0273463725008,
         "b": 201.40743492803279
       },
-      "content": "Components are indicated by alpha-numeric designators, as follows:"
+      "content": "Components are indicated by alpha-numeric designators, as follows:",
+      "section_id": "sec_1_3",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1_3",
+          "title": "1.3 COMPONENT DESIGNATORS"
+        }
+      ],
+      "page": 12,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -193,7 +349,20 @@
       },
       "markdown": "| Battery   | BT   | Diode              | D   | Resistor   | R   |\n|-----------|------|--------------------|-----|------------|-----|\n| Capacitor | C    | Fuse               | F   | Switch     | SW  |\n| Crystal   | Y    | Integrated Circuit | U   | Transistor | Q   |",
       "rows": 3,
-      "cols": 6
+      "cols": 6,
+      "section_id": "sec_1_3",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1_3",
+          "title": "1.3 COMPONENT DESIGNATORS"
+        }
+      ],
+      "page": 12,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -206,7 +375,20 @@
         "r": 503.9687213030997,
         "b": 105.22760236203283
       },
-      "content": "The number following the letter is a unique value for each type of component (e.g., R1, R2)."
+      "content": "The number following the letter is a unique value for each type of component (e.g., R1, R2).",
+      "section_id": "sec_1_3",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1_3",
+          "title": "1.3 COMPONENT DESIGNATORS"
+        }
+      ],
+      "page": 12,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -223,7 +405,20 @@
       "previous_block_id": "txt_0044",
       "width": 12,
       "height": 12,
-      "image_hash": "c17ff8de68a3a8136f40b78d0bd329a50e4c58b1286fa45da9a8b08b3c332bc6"
+      "image_hash": "c17ff8de68a3a8136f40b78d0bd329a50e4c58b1286fa45da9a8b08b3c332bc6",
+      "section_id": "sec_1_3",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1_3",
+          "title": "1.3 COMPONENT DESIGNATORS"
+        }
+      ],
+      "page": 12,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

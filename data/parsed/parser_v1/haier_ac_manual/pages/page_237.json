@@ -18,8 +18,29 @@
         "b": 759.582435
       },
       "content": "10.3.2.OUTDOORUNIT",
-      "level": 2,
-      "role": "section"
+      "level": 3,
+      "section_number": "10.3.2",
+      "section_id": "sec_10_3_2",
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_2531",
+          "title": "FOR18K"
+        },
+        {
+          "id": "sec_10_3_2",
+          "title": "10.3.2.OUTDOORUNIT"
+        }
+      ],
+      "parent_section_id": "sec_auto_2531",
+      "section_level": 3,
+      "page": 237,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -34,7 +55,23 @@
       },
       "content": "FOR12K",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_2537",
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_2537",
+          "title": "FOR12K"
+        }
+      ],
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "page": 237,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -49,7 +86,23 @@
       },
       "content": "module board Circuit Diagrams",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_2538",
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_2538",
+          "title": "module board Circuit Diagrams"
+        }
+      ],
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "page": 237,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -67,7 +120,24 @@
       "next_block_id": "txt_1948",
       "image_hash": "874c2ff0c6a61a98b034e3156fe44ed5b11c5f50f30e02541218847c8542a339",
       "width": 405,
-      "height": 205
+      "height": 205,
+      "section_id": "sec_auto_2538",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_2538",
+          "title": "module board Circuit Diagrams"
+        }
+      ],
+      "page": 237,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -82,7 +152,23 @@
       },
       "content": "control board Circuit Diagrams",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_2540",
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_2540",
+          "title": "control board Circuit Diagrams"
+        }
+      ],
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "page": 237,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -99,7 +185,24 @@
       "previous_block_id": "txt_1948",
       "image_hash": "75675966288006b645d47add93831061de054baecbf5044e81505b4ca0b79892",
       "width": 460,
-      "height": 305
+      "height": 305,
+      "section_id": "sec_auto_2540",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_2540",
+          "title": "control board Circuit Diagrams"
+        }
+      ],
+      "page": 237,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

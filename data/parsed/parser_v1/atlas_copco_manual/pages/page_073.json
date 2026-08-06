@@ -19,7 +19,23 @@
       },
       "content": "Detail views",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_763",
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4       OSCi (optional)"
+        },
+        {
+          "id": "sec_auto_763",
+          "title": "Detail views"
+        }
+      ],
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "page": 73,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -37,7 +53,24 @@
       "next_block_id": "txt_0502",
       "image_hash": "046d2e6d59251394d2c687ac1260d260046e7d06d9a6d994da1b9264a4939e29",
       "width": 193,
-      "height": 232
+      "height": 232,
+      "section_id": "sec_auto_763",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4       OSCi (optional)"
+        },
+        {
+          "id": "sec_auto_763",
+          "title": "Detail views"
+        }
+      ],
+      "page": 73,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "caption",
@@ -51,6 +84,24 @@
         "b": 479.14
       },
       "content": "View of OSCi inlet",
+      "section_id": "sec_auto_763",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4       OSCi (optional)"
+        },
+        {
+          "id": "sec_auto_763",
+          "title": "Detail views"
+        }
+      ],
+      "page": 73,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_tbl_0058",
+      "source": "pdf_text",
       "caption_for": "tbl_0058"
     },
     {
@@ -65,9 +116,27 @@
         "b": 424.4859619140625
       },
       "markdown": "|   1 | Filter position sensor       |\n|-----|------------------------------|\n|   2 | Condensate inlet connections |",
-      "caption_id": "txt_0502",
       "rows": 2,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_auto_763",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4       OSCi (optional)"
+        },
+        {
+          "id": "sec_auto_763",
+          "title": "Detail views"
+        }
+      ],
+      "page": 73,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "group_id": "grp_tbl_0058",
+      "source": "pdf_text",
+      "caption_id": "txt_0502"
     },
     {
       "type": "figure",
@@ -83,11 +152,29 @@
       "image_path": "figures/figure_0208.png",
       "previous_block_id": "txt_0502",
       "next_block_id": "txt_0503",
-      "caption_id": "txt_0503",
       "caption": "View of OSCi outlet",
       "image_hash": "90e600ea597ed0950d9e3c2a69576ec328c10f39bf2fc64c5776cc3efe79643e",
       "width": 139,
-      "height": 232
+      "height": 232,
+      "section_id": "sec_auto_763",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4       OSCi (optional)"
+        },
+        {
+          "id": "sec_auto_763",
+          "title": "Detail views"
+        }
+      ],
+      "page": 73,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0208",
+      "source": "pdf_text",
+      "caption_id": "txt_0503"
     },
     {
       "type": "caption",
@@ -101,6 +188,24 @@
         "b": 120.39999999999998
       },
       "content": "View of OSCi outlet",
+      "section_id": "sec_auto_763",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4       OSCi (optional)"
+        },
+        {
+          "id": "sec_auto_763",
+          "title": "Detail views"
+        }
+      ],
+      "page": 73,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0208",
+      "source": "pdf_text",
       "caption_for": "fig_0208"
     },
     {
@@ -119,7 +224,24 @@
       "width": 47,
       "height": 23,
       "decorative": true,
-      "image_hash": "b28a1d23de5124d82d6f84120acacff249829ec0e42f4c826059a188d93e4d2e"
+      "image_hash": "b28a1d23de5124d82d6f84120acacff249829ec0e42f4c826059a188d93e4d2e",
+      "section_id": "sec_auto_763",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4       OSCi (optional)"
+        },
+        {
+          "id": "sec_auto_763",
+          "title": "Detail views"
+        }
+      ],
+      "page": 73,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

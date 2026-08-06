@@ -19,7 +19,23 @@
       },
       "content": "Trouble shooting",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1513",
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1.Press ON/OFF to starting"
+        },
+        {
+          "id": "sec_auto_1513",
+          "title": "Trouble shooting"
+        }
+      ],
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "page": 131,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -34,7 +50,23 @@
       },
       "content": "Cautions",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1514",
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1.Press ON/OFF to starting"
+        },
+        {
+          "id": "sec_auto_1514",
+          "title": "Cautions"
+        }
+      ],
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "page": 131,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -51,7 +83,24 @@
       "previous_block_id": "txt_1144",
       "image_hash": "e11d105e00780db055f2c3e7c89f50397766dbe475f76e96139c386ebb5f5a73",
       "width": 567,
-      "height": 529
+      "height": 529,
+      "section_id": "sec_auto_1514",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1.Press ON/OFF to starting"
+        },
+        {
+          "id": "sec_auto_1514",
+          "title": "Cautions"
+        }
+      ],
+      "page": 131,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

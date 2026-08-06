@@ -21,7 +21,24 @@
       "next_block_id": "txt_0188",
       "width": 47,
       "height": 21,
-      "image_hash": "ad39bfb0adf0dd1863a2443fcf34326a898cc9f4c5433d8cb19530f46b7e957c"
+      "image_hash": "ad39bfb0adf0dd1863a2443fcf34326a898cc9f4c5433d8cb19530f46b7e957c",
+      "section_id": "sec_auto_241",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_auto_241",
+          "title": "Electrical components"
+        }
+      ],
+      "page": 26,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -36,7 +53,24 @@
       },
       "content": "2.8    Electrical diagrams",
       "level": 2,
-      "role": "section"
+      "section_number": "2.8",
+      "section_id": "sec_2_8",
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_2_8",
+          "title": "2.8    Electrical diagrams"
+        }
+      ],
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "page": 26,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -52,11 +86,29 @@
       "image_path": "figures/figure_0051.png",
       "previous_block_id": "txt_0188",
       "next_block_id": "txt_0189",
-      "caption_id": "txt_0189",
       "caption": "Service diagram for GA37+ up to GA 75",
       "image_hash": "c7605351d85fa1f216659ec143357c13786323c7ba4f22002d1feb8bf053b027",
       "width": 460,
-      "height": 584
+      "height": 584,
+      "section_id": "sec_2_8",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_2_8",
+          "title": "2.8    Electrical diagrams"
+        }
+      ],
+      "page": 26,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0051",
+      "source": "pdf_text",
+      "caption_id": "txt_0189"
     },
     {
       "type": "caption",
@@ -70,6 +122,24 @@
         "b": 96.03999999999996
       },
       "content": "Service diagram for GA37+ up to GA 75",
+      "section_id": "sec_2_8",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_2_8",
+          "title": "2.8    Electrical diagrams"
+        }
+      ],
+      "page": 26,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0051",
+      "source": "pdf_text",
       "caption_for": "fig_0051"
     }
   ],

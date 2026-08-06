@@ -20,7 +20,11 @@
       "next_block_id": "txt_0001",
       "image_hash": "a75b692dc10ef27da70a77d87ecba4f1446a30cd0f1f6f25ecd2a50c16eec634",
       "width": 374,
-      "height": 196
+      "height": 196,
+      "page": 1,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -32,7 +36,11 @@
         "r": 296.69005499999986,
         "b": 442.7869258
       },
-      "content": "For use with list number 12391-36"
+      "content": "For use with list number 12391-36",
+      "page": 1,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -47,7 +55,19 @@
       },
       "content": "Technical Service Manual",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_2",
+      "section_path": [
+        {
+          "id": "sec_auto_2",
+          "title": "Technical Service Manual"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 2,
+      "page": 1,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -64,7 +84,20 @@
       "previous_block_id": "txt_0002",
       "image_hash": "7df6f65bf681dcad2604c8f1ad1b1b20c9b10d10d744b8650f7910329c7acbe0",
       "width": 86,
-      "height": 66
+      "height": 66,
+      "section_id": "sec_auto_2",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_2",
+          "title": "Technical Service Manual"
+        }
+      ],
+      "page": 1,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

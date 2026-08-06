@@ -19,7 +19,23 @@
       },
       "content": "Task B",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1934",
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8 Annual PM check procedure for conneX ®"
+        },
+        {
+          "id": "sec_auto_1934",
+          "title": "Task B"
+        }
+      ],
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "page": 116,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -37,7 +53,24 @@
       "next_block_id": "txt_1473",
       "image_hash": "fa40799494aa1a94028ec68e97c70de7b400b7075f75e77e3559578d2b2dcd0f",
       "width": 145,
-      "height": 110
+      "height": 110,
+      "section_id": "sec_auto_1934",
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8 Annual PM check procedure for conneX ®"
+        },
+        {
+          "id": "sec_auto_1934",
+          "title": "Task B"
+        }
+      ],
+      "page": 116,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -50,7 +83,24 @@
         "r": 164.69100000000003,
         "b": 578.5413344167462
       },
-      "content": "Switch the oven on and record the Serial Number. Check the firmware is correct, update if older version is observed (select the 'cog' to enter settings)."
+      "content": "Switch the oven on and record the Serial Number. Check the firmware is correct, update if older version is observed (select the 'cog' to enter settings).",
+      "section_id": "sec_auto_1934",
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8 Annual PM check procedure for conneX ®"
+        },
+        {
+          "id": "sec_auto_1934",
+          "title": "Task B"
+        }
+      ],
+      "page": 116,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -68,7 +118,24 @@
       "next_block_id": "txt_1474",
       "image_hash": "2d45321a525bfc3ada735c65ee0a855f3a4e4a73fc9d75aaacf89c2478ba79ce",
       "width": 107,
-      "height": 124
+      "height": 124,
+      "section_id": "sec_auto_1934",
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8 Annual PM check procedure for conneX ®"
+        },
+        {
+          "id": "sec_auto_1934",
+          "title": "Task B"
+        }
+      ],
+      "page": 116,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "caption",
@@ -82,6 +149,23 @@
         "b": 578.5443344167461
       },
       "content": "9. Enter the password MANAGER to access the settings menu. Use the displayed oven serial number if this is invalid.",
+      "section_id": "sec_auto_1934",
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8 Annual PM check procedure for conneX ®"
+        },
+        {
+          "id": "sec_auto_1934",
+          "title": "Task B"
+        }
+      ],
+      "page": 116,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "source": "pdf_text",
       "caption_for": "fig_0398"
     },
     {
@@ -98,11 +182,29 @@
       "image_path": "figures/figure_0397.png",
       "previous_block_id": "txt_1474",
       "next_block_id": "txt_1475",
-      "caption_id": "txt_1475",
       "caption": "12. Check the 'Event Log' for details of any logged appliance errors. Refer to the fault-finding section 5.3 to reference any errors logged.",
       "image_hash": "4e6f30c78a566f8997d652979fc85221dfa24d647e02f66f87094220d3ecabf7",
       "width": 108,
-      "height": 66
+      "height": 66,
+      "section_id": "sec_auto_1934",
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8 Annual PM check procedure for conneX ®"
+        },
+        {
+          "id": "sec_auto_1934",
+          "title": "Task B"
+        }
+      ],
+      "page": 116,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0397",
+      "source": "pdf_text",
+      "caption_id": "txt_1475"
     },
     {
       "type": "caption",
@@ -116,6 +218,24 @@
         "b": 415.33833441674614
       },
       "content": "12. Check the 'Event Log' for details of any logged appliance errors. Refer to the fault-finding section 5.3 to reference any errors logged.",
+      "section_id": "sec_auto_1934",
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8 Annual PM check procedure for conneX ®"
+        },
+        {
+          "id": "sec_auto_1934",
+          "title": "Task B"
+        }
+      ],
+      "page": 116,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0397",
+      "source": "pdf_text",
       "caption_for": "fig_0397"
     },
     {
@@ -132,11 +252,29 @@
       "image_path": "figures/figure_0398.png",
       "previous_block_id": "txt_1475",
       "next_block_id": "txt_1476",
-      "caption_id": "txt_1476",
       "caption": "13. Select the oven statistics and reference the service check sheet for recommended replacements, advise the customer on actions required.",
       "image_hash": "1528826ac3ca0e1e8008a4264a2cb1531d32d2e607454f0000a89d9adbfe2527",
       "width": 112,
-      "height": 66
+      "height": 66,
+      "section_id": "sec_auto_1934",
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8 Annual PM check procedure for conneX ®"
+        },
+        {
+          "id": "sec_auto_1934",
+          "title": "Task B"
+        }
+      ],
+      "page": 116,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0398",
+      "source": "pdf_text",
+      "caption_id": "txt_1476"
     },
     {
       "type": "caption",
@@ -150,6 +288,24 @@
         "b": 403.2213344167461
       },
       "content": "13. Select the oven statistics and reference the service check sheet for recommended replacements, advise the customer on actions required.",
+      "section_id": "sec_auto_1934",
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8 Annual PM check procedure for conneX ®"
+        },
+        {
+          "id": "sec_auto_1934",
+          "title": "Task B"
+        }
+      ],
+      "page": 116,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0398",
+      "source": "pdf_text",
       "caption_for": "fig_0398"
     },
     {
@@ -164,7 +320,24 @@
         "b": 326.6643344167461
       },
       "content": "Note: ensure a bowl of cold  water is in the cavity for the microwave current draw checks.",
-      "severity": "note"
+      "severity": "note",
+      "section_id": "sec_auto_1934",
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8 Annual PM check procedure for conneX ®"
+        },
+        {
+          "id": "sec_auto_1934",
+          "title": "Task B"
+        }
+      ],
+      "page": 116,
+      "chunk_hint": "admonition",
+      "semantic_role": "note",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -177,7 +350,24 @@
         "r": 299.0639999999999,
         "b": 247.94133441674603
       },
-      "content": "Exit out of visual view, place a bowl with 275 ml of cold water in the cavity and select tests / Microwave Leakage. While the test is running hold the test probe at right angles to the oven, ensuring the sensor is about 50mm away from the   surface."
+      "content": "Exit out of visual view, place a bowl with 275 ml of cold water in the cavity and select tests / Microwave Leakage. While the test is running hold the test probe at right angles to the oven, ensuring the sensor is about 50mm away from the   surface.",
+      "section_id": "sec_auto_1934",
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8 Annual PM check procedure for conneX ®"
+        },
+        {
+          "id": "sec_auto_1934",
+          "title": "Task B"
+        }
+      ],
+      "page": 116,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -190,7 +380,24 @@
         "r": 290.9054999999998,
         "b": 211.10433441674604
       },
-      "content": "Test all around the front and rear of the oven, refer to section 5.6 for further details. Level must be 5mW/cm2 or lower &  record."
+      "content": "Test all around the front and rear of the oven, refer to section 5.6 for further details. Level must be 5mW/cm2 or lower &  record.",
+      "section_id": "sec_auto_1934",
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8 Annual PM check procedure for conneX ®"
+        },
+        {
+          "id": "sec_auto_1934",
+          "title": "Task B"
+        }
+      ],
+      "page": 116,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -208,7 +415,24 @@
       "next_block_id": "txt_1480",
       "image_hash": "2c635f2f18e00c6e3923d595f33a1475c0d1a586ac5285e276ebaf784abb45d0",
       "width": 125,
-      "height": 123
+      "height": 123,
+      "section_id": "sec_auto_1934",
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8 Annual PM check procedure for conneX ®"
+        },
+        {
+          "id": "sec_auto_1934",
+          "title": "Task B"
+        }
+      ],
+      "page": 116,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "caption",
@@ -222,6 +446,24 @@
         "b": 589.2213344167461
       },
       "content": "11. Enter the service settings, password SERVICE to access the service screen. Use the displayed oven serial number if this is invalid.",
+      "section_id": "sec_auto_1934",
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8 Annual PM check procedure for conneX ®"
+        },
+        {
+          "id": "sec_auto_1934",
+          "title": "Task B"
+        }
+      ],
+      "page": 116,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0400",
+      "source": "pdf_text",
       "caption_for": "fig_0400"
     },
     {
@@ -238,11 +480,29 @@
       "image_path": "figures/figure_0400.png",
       "previous_block_id": "txt_1480",
       "next_block_id": "txt_1481",
-      "caption_id": "txt_1480",
       "caption": "11. Enter the service settings, password SERVICE to access the service screen. Use the displayed oven serial number if this is invalid.",
       "image_hash": "9e93df47a6d8c0fb6e0bdc3ef20fdb4e4297104b4d9efe9551b85d795c428ff5",
       "width": 120,
-      "height": 67
+      "height": 67,
+      "section_id": "sec_auto_1934",
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8 Annual PM check procedure for conneX ®"
+        },
+        {
+          "id": "sec_auto_1934",
+          "title": "Task B"
+        }
+      ],
+      "page": 116,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0400",
+      "source": "pdf_text",
+      "caption_id": "txt_1480"
     },
     {
       "type": "list_item",
@@ -255,7 +515,24 @@
         "r": 545.097,
         "b": 400.2213344167461
       },
-      "content": "In diagnostic view select/operate each component to check operation, as detailed in the visual view section 5.2. Check all speed ranges of the fans."
+      "content": "In diagnostic view select/operate each component to check operation, as detailed in the visual view section 5.2. Check all speed ranges of the fans.",
+      "section_id": "sec_auto_1934",
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8 Annual PM check procedure for conneX ®"
+        },
+        {
+          "id": "sec_auto_1934",
+          "title": "Task B"
+        }
+      ],
+      "page": 116,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -268,7 +545,24 @@
         "r": 533.343,
         "b": 363.5013344167461
       },
-      "content": "Record microwave (individual & combined) current draws."
+      "content": "Record microwave (individual & combined) current draws.",
+      "section_id": "sec_auto_1934",
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8 Annual PM check procedure for conneX ®"
+        },
+        {
+          "id": "sec_auto_1934",
+          "title": "Task B"
+        }
+      ],
+      "page": 116,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -281,7 +575,24 @@
         "r": 541.731,
         "b": 351.0183344167461
       },
-      "content": "Record displayed Voltage."
+      "content": "Record displayed Voltage.",
+      "section_id": "sec_auto_1934",
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8 Annual PM check procedure for conneX ®"
+        },
+        {
+          "id": "sec_auto_1934",
+          "title": "Task B"
+        }
+      ],
+      "page": 116,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -299,7 +610,24 @@
       "next_block_id": "txt_1484",
       "image_hash": "22965465a2a99f05cc104702f2083e4ff8d17967c63aecdfbb60f56e6ecd40e1",
       "width": 247,
-      "height": 99
+      "height": 99,
+      "section_id": "sec_auto_1934",
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8 Annual PM check procedure for conneX ®"
+        },
+        {
+          "id": "sec_auto_1934",
+          "title": "Task B"
+        }
+      ],
+      "page": 116,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -312,7 +640,24 @@
         "r": 316.26,
         "b": 137.52168579079193
       },
-      "content": "Finally, remove the bowl of water from inside the cavity and select the recommission test (if the recommission test is greyed out, it means the oven is above the desired temperature and the function is disabled). Follow the onscreen instructions and record result."
+      "content": "Finally, remove the bowl of water from inside the cavity and select the recommission test (if the recommission test is greyed out, it means the oven is above the desired temperature and the function is disabled). Follow the onscreen instructions and record result.",
+      "section_id": "sec_auto_1934",
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8 Annual PM check procedure for conneX ®"
+        },
+        {
+          "id": "sec_auto_1934",
+          "title": "Task B"
+        }
+      ],
+      "page": 116,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -325,7 +670,24 @@
         "r": 178.86,
         "b": 76.22133441674623
       },
-      "content": "Come out of the service and setting modes. Pre-heat the oven and cook one item of food from the operators' menu."
+      "content": "Come out of the service and setting modes. Pre-heat the oven and cook one item of food from the operators' menu.",
+      "section_id": "sec_auto_1934",
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8 Annual PM check procedure for conneX ®"
+        },
+        {
+          "id": "sec_auto_1934",
+          "title": "Task B"
+        }
+      ],
+      "page": 116,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -343,7 +705,24 @@
       "next_block_id": "txt_1486",
       "image_hash": "0c20104aee87080b4d8714ceaa246468a8631a4becc72c5f465078623e9cdf95",
       "width": 119,
-      "height": 69
+      "height": 69,
+      "section_id": "sec_auto_1934",
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8 Annual PM check procedure for conneX ®"
+        },
+        {
+          "id": "sec_auto_1934",
+          "title": "Task B"
+        }
+      ],
+      "page": 116,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -361,7 +740,24 @@
       "next_block_id": "txt_1486",
       "image_hash": "4395a01d448f2590d9ac2c03cc6201610b0f7eb07b792722ca1e924d889b350f",
       "width": 191,
-      "height": 98
+      "height": 98,
+      "section_id": "sec_auto_1934",
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8 Annual PM check procedure for conneX ®"
+        },
+        {
+          "id": "sec_auto_1934",
+          "title": "Task B"
+        }
+      ],
+      "page": 116,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -379,7 +775,24 @@
       "next_block_id": "txt_1486",
       "image_hash": "b995d8f4c9813d0cfb6d592df9e07587bad41e229a887e468d7bc058e07fa657",
       "width": 107,
-      "height": 61
+      "height": 61,
+      "section_id": "sec_auto_1934",
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8 Annual PM check procedure for conneX ®"
+        },
+        {
+          "id": "sec_auto_1934",
+          "title": "Task B"
+        }
+      ],
+      "page": 116,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "caption",
@@ -393,6 +806,24 @@
         "b": 577.5783344167461
       },
       "content": "10. Check the date, time, and the time zone, correct if necessary. Refer to the Installation and User manual for details on the procedure.",
+      "section_id": "sec_auto_1934",
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8 Annual PM check procedure for conneX ®"
+        },
+        {
+          "id": "sec_auto_1934",
+          "title": "Task B"
+        }
+      ],
+      "page": 116,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0405",
+      "source": "pdf_text",
       "caption_for": "fig_0405"
     },
     {
@@ -409,11 +840,29 @@
       "image_path": "figures/figure_0405.png",
       "previous_block_id": "txt_1486",
       "next_block_id": "txt_1487",
-      "caption_id": "txt_1486",
       "caption": "10. Check the date, time, and the time zone, correct if necessary. Refer to the Installation and User manual for details on the procedure.",
       "image_hash": "fda67a2f08ce1b2986c59753cab37496aa74e1e6040493e6bf369881221e1b67",
       "width": 104,
-      "height": 59
+      "height": 59,
+      "section_id": "sec_auto_1934",
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8 Annual PM check procedure for conneX ®"
+        },
+        {
+          "id": "sec_auto_1934",
+          "title": "Task B"
+        }
+      ],
+      "page": 116,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0405",
+      "source": "pdf_text",
+      "caption_id": "txt_1486"
     },
     {
       "type": "figure",
@@ -429,11 +878,29 @@
       "image_path": "figures/figure_0406.png",
       "previous_block_id": "txt_1486",
       "next_block_id": "txt_1487",
-      "caption_id": "txt_1487",
       "caption": "14. Select the diagnostic view to perform individual component checks.",
       "image_hash": "83c2450e08164217649f24ca14ba7efcc126e2d305e5758723cd1753daeb5486",
       "width": 109,
-      "height": 67
+      "height": 67,
+      "section_id": "sec_auto_1934",
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8 Annual PM check procedure for conneX ®"
+        },
+        {
+          "id": "sec_auto_1934",
+          "title": "Task B"
+        }
+      ],
+      "page": 116,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0406",
+      "source": "pdf_text",
+      "caption_id": "txt_1487"
     },
     {
       "type": "caption",
@@ -447,6 +914,24 @@
         "b": 437.7783344167462
       },
       "content": "14. Select the diagnostic view to perform individual component checks.",
+      "section_id": "sec_auto_1934",
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8 Annual PM check procedure for conneX ®"
+        },
+        {
+          "id": "sec_auto_1934",
+          "title": "Task B"
+        }
+      ],
+      "page": 116,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0406",
+      "source": "pdf_text",
       "caption_for": "fig_0406"
     }
   ],

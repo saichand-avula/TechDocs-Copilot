@@ -21,7 +21,24 @@
       "next_block_id": "txt_0372",
       "image_hash": "fb397454d9d4b581f5afd70f1659b8c4ef5612162aabfefeb3a93810720a6eed",
       "width": 22,
-      "height": 21
+      "height": 21,
+      "section_id": "sec_auto_435",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_auto_435",
+          "title": "Use of dry contact ports"
+        }
+      ],
+      "page": 44,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -34,7 +51,24 @@
         "r": 541.61568,
         "b": 650.996101363195
       },
-      "content": "closure (auxiliary contact), external output switch closure (auxiliary contact) and start test program (used in engineering debug mode). When the above functions are used, the shielded cable shall be used  for  connection  to  prevent  the  interference  from  causing  the  wrong  action,  resulting  in  the power down of the load or other effects. If this function is not needed, please keep the input dry contact terminal disconnected. Pin arrangements of ports are shown in Figure 3-35."
+      "content": "closure (auxiliary contact), external output switch closure (auxiliary contact) and start test program (used in engineering debug mode). When the above functions are used, the shielded cable shall be used  for  connection  to  prevent  the  interference  from  causing  the  wrong  action,  resulting  in  the power down of the load or other effects. If this function is not needed, please keep the input dry contact terminal disconnected. Pin arrangements of ports are shown in Figure 3-35.",
+      "section_id": "sec_auto_435",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_auto_435",
+          "title": "Use of dry contact ports"
+        }
+      ],
+      "page": 44,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -47,7 +81,24 @@
         "r": 541.5995199999999,
         "b": 557.366101363195
       },
-      "content": "The output dry contacts include the operation mode of the UPS and fault alarms (The specific ports are defined in Table 3-7). Customizable functions of OUT-1, OUT-3 and OUT-4: close dry contact function, fan fault, power on, battery low voltage, start up the generator, time-sharing power off, battery  undervoltage  release,  bypass  contactor closure (internal  control  signal).  Each  output  dry contact port provides a normally open contact and a normally closed contact. The user chooses to use according to the specific situation. Pin arrangements of ports are shown in Figure 3-34."
+      "content": "The output dry contacts include the operation mode of the UPS and fault alarms (The specific ports are defined in Table 3-7). Customizable functions of OUT-1, OUT-3 and OUT-4: close dry contact function, fan fault, power on, battery low voltage, start up the generator, time-sharing power off, battery  undervoltage  release,  bypass  contactor closure (internal  control  signal).  Each  output  dry contact port provides a normally open contact and a normally closed contact. The user chooses to use according to the specific situation. Pin arrangements of ports are shown in Figure 3-34.",
+      "section_id": "sec_auto_435",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_auto_435",
+          "title": "Use of dry contact ports"
+        }
+      ],
+      "page": 44,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -62,7 +113,24 @@
       },
       "content": "3.10 Maintenance Sockets",
       "level": 2,
-      "role": "section"
+      "section_number": "3.10",
+      "section_id": "sec_3_10",
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_10",
+          "title": "3.10 Maintenance Sockets"
+        }
+      ],
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "page": 44,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -75,7 +143,24 @@
         "r": 541.3440799999996,
         "b": 467.966101363195
       },
-      "content": "Maintenance  sockets  can  supply  power  to  the  tools  which  need  power,  when  engineer  doing maintenance (220 V / 50 Hz)."
+      "content": "Maintenance  sockets  can  supply  power  to  the  tools  which  need  power,  when  engineer  doing maintenance (220 V / 50 Hz).",
+      "section_id": "sec_3_10",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_10",
+          "title": "3.10 Maintenance Sockets"
+        }
+      ],
+      "page": 44,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -88,7 +173,24 @@
         "r": 541.61568,
         "b": 436.766101363195
       },
-      "content": "For example ： Electric iron, digital oscilloscope, the maximum current which can be passed through the maintenance socket is 5 A."
+      "content": "For example ： Electric iron, digital oscilloscope, the maximum current which can be passed through the maintenance socket is 5 A.",
+      "section_id": "sec_3_10",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_10",
+          "title": "3.10 Maintenance Sockets"
+        }
+      ],
+      "page": 44,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "admonition",
@@ -102,7 +204,24 @@
         "t": 430.6376629101563,
         "r": 102.67968,
         "b": 421.16610136319497
-      }
+      },
+      "section_id": "sec_3_10",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_10",
+          "title": "3.10 Maintenance Sockets"
+        }
+      ],
+      "page": 44,
+      "chunk_hint": "admonition",
+      "semantic_role": "note",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -115,7 +234,24 @@
         "r": 541.3786399999991,
         "b": 311.946101363195
       },
-      "content": " When performing 'maintenance bypass output', UPS system will set the manual bypass as 'open' to switch to bypass mode, and it shall operate by monitoring panel if it needs to switch off manual bypass."
+      "content": " When performing 'maintenance bypass output', UPS system will set the manual bypass as 'open' to switch to bypass mode, and it shall operate by monitoring panel if it needs to switch off manual bypass.",
+      "section_id": "sec_3_10",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_10",
+          "title": "3.10 Maintenance Sockets"
+        }
+      ],
+      "page": 44,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -128,7 +264,24 @@
         "r": 541.6175999999999,
         "b": 280.74610136319495
       },
-      "content": " When UPS is in bypass mode, the load cannot be protected by UPS if voltage and frequency are fluctuated or power fails."
+      "content": " When UPS is in bypass mode, the load cannot be protected by UPS if voltage and frequency are fluctuated or power fails.",
+      "section_id": "sec_3_10",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_10",
+          "title": "3.10 Maintenance Sockets"
+        }
+      ],
+      "page": 44,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

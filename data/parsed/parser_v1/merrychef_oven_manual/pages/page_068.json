@@ -19,7 +19,24 @@
       },
       "markdown": "| LED Drive Status                  | Flash rate      | Additional details                            | Recovery   |\n|-----------------------------------|-----------------|-----------------------------------------------|------------|\n| Normal Operation (Run)            | On Continuously | Fan motor operating normally                  | 10s        |\n| Overload (Hardware Current >10A)  | 1               | Fan motor off (switched off in less than 1ms) | 10s        |\n| Overload (Software Current >3.5A) | 2               | Fan motor off (switched off after 5s)         | 10s        |\n| Output Phase Missing              | 3               | Fan motor off (switched off after 2s)         | 10s        |\n| Lock Motor                        | 3               | Fan motor off (switched off after 2s)         | 10s        |\n| Over Voltage (>275VAC)            | 5               | Fan motor running in safe mode (1000rpm)      | 10s        |\n| Under Voltage (<150VAC)           | 6               | Fan motor running in safe mode (1000rpm)      | 10s        |\n| P1 - P2 link wire missing         | 7               | Fan motor off (switched off in 100ms)         | 10s        |\n| Onboard Fuse Blown                | 2 then 3        | Fan motor off (switched off after 55ms)       | 10s        |",
       "rows": 10,
-      "cols": 4
+      "cols": 4,
+      "section_id": "sec_auto_1111",
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. To recalibrate, promptly access 'Temperature Calibration' in the Service Settings"
+        },
+        {
+          "id": "sec_auto_1111",
+          "title": "Convection fan: motor speed controller LED status display"
+        }
+      ],
+      "page": 68,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -34,7 +51,23 @@
       },
       "content": "Convection fan: motor speed controller control voltages & link positions",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1114",
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. To recalibrate, promptly access 'Temperature Calibration' in the Service Settings"
+        },
+        {
+          "id": "sec_auto_1114",
+          "title": "Convection fan: motor speed controller control voltages & link positions"
+        }
+      ],
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "page": 68,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -49,7 +82,24 @@
       },
       "markdown": "Link positions are factory pre-set based on the model of convection fan used in the conneX ovens. The link positions must not be altered without express instruction from Merrychef.\n\n| Oven Variant   | 13A & 15A/16A   | 30A          |\n|----------------|-----------------|--------------|\n| Input %        | 0 - 10 Volts    | 0 - 10 Volts |\n| 10             | 2               | 2            |\n| 20             | 2.8             | 2.8          |\n| 30             | 3.5             | 3.5          |\n| 40             | 4.3             | 4.3          |\n| 50             | 5               | 5            |\n| 60             | 5.5             | 6            |\n| 70             | 6               | 7            |\n| 80             | 6.5             | 8            |\n| 90             | 7               | 9            |\n| 100            | 7.5             | 10           |",
       "rows": 12,
-      "cols": 3
+      "cols": 3,
+      "section_id": "sec_auto_1114",
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. To recalibrate, promptly access 'Temperature Calibration' in the Service Settings"
+        },
+        {
+          "id": "sec_auto_1114",
+          "title": "Convection fan: motor speed controller control voltages & link positions"
+        }
+      ],
+      "page": 68,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "caption",
@@ -63,6 +113,24 @@
         "b": 393.73833441674617
       },
       "content": "Link positions are factory pre-set based on the model of convection fan used in the conneX ovens. The link positions must not be altered without express instruction from Merrychef.",
+      "section_id": "sec_auto_1114",
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. To recalibrate, promptly access 'Temperature Calibration' in the Service Settings"
+        },
+        {
+          "id": "sec_auto_1114",
+          "title": "Convection fan: motor speed controller control voltages & link positions"
+        }
+      ],
+      "page": 68,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0177",
+      "source": "pdf_text",
       "caption_for": "fig_0177"
     },
     {
@@ -79,11 +147,29 @@
       "image_path": "figures/figure_0177.png",
       "previous_block_id": "txt_0888",
       "next_block_id": "txt_0889",
-      "caption_id": "txt_0888",
       "caption": "Link positions are factory pre-set based on the model of convection fan used in the conneX ovens. The link positions must not be altered without express instruction from Merrychef.",
       "image_hash": "64d912c9d772684f7fd436a413143e69048d72c91fbefe4809b71824fa63b56d",
       "width": 164,
-      "height": 133
+      "height": 133,
+      "section_id": "sec_auto_1114",
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. To recalibrate, promptly access 'Temperature Calibration' in the Service Settings"
+        },
+        {
+          "id": "sec_auto_1114",
+          "title": "Convection fan: motor speed controller control voltages & link positions"
+        }
+      ],
+      "page": 68,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0177",
+      "source": "pdf_text",
+      "caption_id": "txt_0888"
     },
     {
       "type": "heading",
@@ -98,7 +184,23 @@
       },
       "content": "Convection fan: motor and motor speed controller tests",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1118",
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. To recalibrate, promptly access 'Temperature Calibration' in the Service Settings"
+        },
+        {
+          "id": "sec_auto_1118",
+          "title": "Convection fan: motor and motor speed controller tests"
+        }
+      ],
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "page": 68,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -111,7 +213,24 @@
         "r": 351.29699999999997,
         "b": 328.5783344167462
       },
-      "content": "Ensure the following requirements have been met before starting the test:"
+      "content": "Ensure the following requirements have been met before starting the test:",
+      "section_id": "sec_auto_1118",
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. To recalibrate, promptly access 'Temperature Calibration' in the Service Settings"
+        },
+        {
+          "id": "sec_auto_1118",
+          "title": "Convection fan: motor and motor speed controller tests"
+        }
+      ],
+      "page": 68,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -124,7 +243,24 @@
         "r": 551.691,
         "b": 300.2553344167461
       },
-      "content": " The appliance has been disconnected from the power supply and protective measures have been taken to ensure the power cannot be switched on again."
+      "content": " The appliance has been disconnected from the power supply and protective measures have been taken to ensure the power cannot be switched on again.",
+      "section_id": "sec_auto_1118",
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. To recalibrate, promptly access 'Temperature Calibration' in the Service Settings"
+        },
+        {
+          "id": "sec_auto_1118",
+          "title": "Convection fan: motor and motor speed controller tests"
+        }
+      ],
+      "page": 68,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -137,7 +273,24 @@
         "r": 166.4819999999999,
         "b": 287.1783344167461
       },
-      "content": " The appliance is cool."
+      "content": " The appliance is cool.",
+      "section_id": "sec_auto_1118",
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. To recalibrate, promptly access 'Temperature Calibration' in the Service Settings"
+        },
+        {
+          "id": "sec_auto_1118",
+          "title": "Convection fan: motor and motor speed controller tests"
+        }
+      ],
+      "page": 68,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -150,7 +303,24 @@
         "r": 366.86699999999985,
         "b": 274.69533441674616
       },
-      "content": " The high voltage capacitors are discharged before commencing work."
+      "content": " The high voltage capacitors are discharged before commencing work.",
+      "section_id": "sec_auto_1118",
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. To recalibrate, promptly access 'Temperature Calibration' in the Service Settings"
+        },
+        {
+          "id": "sec_auto_1118",
+          "title": "Convection fan: motor and motor speed controller tests"
+        }
+      ],
+      "page": 68,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -163,7 +333,24 @@
         "r": 244.5929999999999,
         "b": 261.8523344167461
       },
-      "content": " Anti-static precautions have been taken."
+      "content": " Anti-static precautions have been taken.",
+      "section_id": "sec_auto_1118",
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. To recalibrate, promptly access 'Temperature Calibration' in the Service Settings"
+        },
+        {
+          "id": "sec_auto_1118",
+          "title": "Convection fan: motor and motor speed controller tests"
+        }
+      ],
+      "page": 68,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -176,7 +363,24 @@
         "r": 273.6179999999999,
         "b": 249.00933441674613
       },
-      "content": " The casing of the appliance has been removed."
+      "content": " The casing of the appliance has been removed.",
+      "section_id": "sec_auto_1118",
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. To recalibrate, promptly access 'Temperature Calibration' in the Service Settings"
+        },
+        {
+          "id": "sec_auto_1118",
+          "title": "Convection fan: motor and motor speed controller tests"
+        }
+      ],
+      "page": 68,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -191,7 +395,23 @@
       },
       "content": "Check the following:",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1125",
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. To recalibrate, promptly access 'Temperature Calibration' in the Service Settings"
+        },
+        {
+          "id": "sec_auto_1125",
+          "title": "Check the following:"
+        }
+      ],
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "page": 68,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -204,7 +424,24 @@
         "r": 548.2080000000001,
         "b": 193.70133441674625
       },
-      "content": "All associated wiring and connections, from IO board X113 & X519 through the speed controller to the convection fan motor."
+      "content": "All associated wiring and connections, from IO board X113 & X519 through the speed controller to the convection fan motor.",
+      "section_id": "sec_auto_1125",
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. To recalibrate, promptly access 'Temperature Calibration' in the Service Settings"
+        },
+        {
+          "id": "sec_auto_1125",
+          "title": "Check the following:"
+        }
+      ],
+      "page": 68,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -217,7 +454,24 @@
         "r": 319.707,
         "b": 181.1187304760582
       },
-      "content": "Convection fan motor thermal cut-out (IP), two black wires."
+      "content": "Convection fan motor thermal cut-out (IP), two black wires.",
+      "section_id": "sec_auto_1125",
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. To recalibrate, promptly access 'Temperature Calibration' in the Service Settings"
+        },
+        {
+          "id": "sec_auto_1125",
+          "title": "Check the following:"
+        }
+      ],
+      "page": 68,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -230,7 +484,24 @@
         "r": 276.26399999999995,
         "b": 169.12173047605825
       },
-      "content": "Convection fan motor rotates freely / not seized."
+      "content": "Convection fan motor rotates freely / not seized.",
+      "section_id": "sec_auto_1125",
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. To recalibrate, promptly access 'Temperature Calibration' in the Service Settings"
+        },
+        {
+          "id": "sec_auto_1125",
+          "title": "Check the following:"
+        }
+      ],
+      "page": 68,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -243,7 +514,24 @@
         "r": 252.62099999999995,
         "b": 156.76473047605828
       },
-      "content": "Convection fan motor winding resistances:"
+      "content": "Convection fan motor winding resistances:",
+      "section_id": "sec_auto_1125",
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. To recalibrate, promptly access 'Temperature Calibration' in the Service Settings"
+        },
+        {
+          "id": "sec_auto_1125",
+          "title": "Check the following:"
+        }
+      ],
+      "page": 68,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -256,7 +544,24 @@
         "r": 160.983,
         "b": 141.9211135611008
       },
-      "content": "Blue-red 7.5 Ω ± 10%"
+      "content": "Blue-red 7.5 Ω ± 10%",
+      "section_id": "sec_auto_1125",
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. To recalibrate, promptly access 'Temperature Calibration' in the Service Settings"
+        },
+        {
+          "id": "sec_auto_1125",
+          "title": "Check the following:"
+        }
+      ],
+      "page": 68,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -269,7 +574,24 @@
         "r": 171.06000000000003,
         "b": 127.2812135611008
       },
-      "content": "Redyellow 7.5 Ω ± 10%"
+      "content": "Redyellow 7.5 Ω ± 10%",
+      "section_id": "sec_auto_1125",
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. To recalibrate, promptly access 'Temperature Calibration' in the Service Settings"
+        },
+        {
+          "id": "sec_auto_1125",
+          "title": "Check the following:"
+        }
+      ],
+      "page": 68,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -282,7 +604,24 @@
         "r": 173.343,
         "b": 112.52121356110081
       },
-      "content": "Yellow-blue 7.5 Ω ± 10%"
+      "content": "Yellow-blue 7.5 Ω ± 10%",
+      "section_id": "sec_auto_1125",
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. To recalibrate, promptly access 'Temperature Calibration' in the Service Settings"
+        },
+        {
+          "id": "sec_auto_1125",
+          "title": "Check the following:"
+        }
+      ],
+      "page": 68,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -295,7 +634,24 @@
         "r": 256.01699999999994,
         "b": 100.34133441674624
       },
-      "content": "Blue or red or yellow to earth (open circuit)."
+      "content": "Blue or red or yellow to earth (open circuit).",
+      "section_id": "sec_auto_1125",
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. To recalibrate, promptly access 'Temperature Calibration' in the Service Settings"
+        },
+        {
+          "id": "sec_auto_1125",
+          "title": "Check the following:"
+        }
+      ],
+      "page": 68,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -308,7 +664,24 @@
         "r": 559.6139999999999,
         "b": 75.9873344167462
       },
-      "content": "With the oven panels refitted and the oven re-connected to the power supply check the fan speeds using visual view in the service mode."
+      "content": "With the oven panels refitted and the oven re-connected to the power supply check the fan speeds using visual view in the service mode.",
+      "section_id": "sec_auto_1125",
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. To recalibrate, promptly access 'Temperature Calibration' in the Service Settings"
+        },
+        {
+          "id": "sec_auto_1125",
+          "title": "Check the following:"
+        }
+      ],
+      "page": 68,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

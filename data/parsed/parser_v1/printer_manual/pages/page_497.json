@@ -17,7 +17,24 @@
         "r": 529.2400000000002,
         "b": 708.7
       },
-      "content": "M507/E50145 only: Pass the FFC through the opening in the cover, and then remove the control panel."
+      "content": "M507/E50145 only: Pass the FFC through the opening in the cover, and then remove the control panel.",
+      "section_id": "sec_auto_5317",
+      "parent_section_id": "sec_20",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_20",
+          "title": "20. Remove the fan (FM2)."
+        },
+        {
+          "id": "sec_auto_5317",
+          "title": "Post service test"
+        }
+      ],
+      "page": 497,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -36,7 +53,24 @@
       "height": 13,
       "image_hash": "ced0fbc060a1844dc39891c7e44f57eb304665731bfdb2e8df57a2565f2d915a",
       "previous_block_id": "txt_3905",
-      "next_block_id": "txt_3906"
+      "next_block_id": "txt_3906",
+      "section_id": "sec_auto_5317",
+      "parent_section_id": "sec_20",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_20",
+          "title": "20. Remove the fan (FM2)."
+        },
+        {
+          "id": "sec_auto_5317",
+          "title": "Post service test"
+        }
+      ],
+      "page": 497,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "admonition",
@@ -50,7 +84,24 @@
         "b": 679.815
       },
       "content": "CAUTION:",
-      "severity": "caution"
+      "severity": "caution",
+      "section_id": "sec_auto_5317",
+      "parent_section_id": "sec_20",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_20",
+          "title": "20. Remove the fan (FM2)."
+        },
+        {
+          "id": "sec_auto_5317",
+          "title": "Post service test"
+        }
+      ],
+      "page": 497,
+      "chunk_hint": "admonition",
+      "semantic_role": "caution",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -63,7 +114,24 @@
         "r": 287.09,
         "b": 679.815
       },
-      "content": "ESD sensitive part."
+      "content": "ESD sensitive part.",
+      "section_id": "sec_auto_5317",
+      "parent_section_id": "sec_20",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_20",
+          "title": "20. Remove the fan (FM2)."
+        },
+        {
+          "id": "sec_auto_5317",
+          "title": "Post service test"
+        }
+      ],
+      "page": 497,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -82,7 +150,24 @@
       "height": 21,
       "image_hash": "d7bb176ebc38a6f874a531671bd8758ffc4da9ef58f59e55d1e6f5bd91de5d02",
       "previous_block_id": "txt_3907",
-      "next_block_id": "txt_3908"
+      "next_block_id": "txt_3908",
+      "section_id": "sec_auto_5317",
+      "parent_section_id": "sec_20",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_20",
+          "title": "20. Remove the fan (FM2)."
+        },
+        {
+          "id": "sec_auto_5317",
+          "title": "Post service test"
+        }
+      ],
+      "page": 497,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "caption",
@@ -96,6 +181,24 @@
         "b": 650.7
       },
       "content": "Figure 1-807  Remove the control panel (M507/E50145)",
+      "section_id": "sec_auto_5317",
+      "parent_section_id": "sec_20",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_20",
+          "title": "20. Remove the fan (FM2)."
+        },
+        {
+          "id": "sec_auto_5317",
+          "title": "Post service test"
+        }
+      ],
+      "page": 497,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_1405",
+      "source": "pdf_text",
       "caption_for": "fig_1405"
     },
     {
@@ -117,6 +220,24 @@
       "height": 217,
       "previous_block_id": "txt_3908",
       "next_block_id": "txt_3909",
+      "section_id": "sec_auto_5317",
+      "parent_section_id": "sec_20",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_20",
+          "title": "20. Remove the fan (FM2)."
+        },
+        {
+          "id": "sec_auto_5317",
+          "title": "Post service test"
+        }
+      ],
+      "page": 497,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_1405",
+      "source": "pdf_text",
       "caption_id": "txt_3908"
     },
     {
@@ -131,8 +252,21 @@
         "b": 409.83
       },
       "content": "2. Remove the tray.",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "2",
+      "section_id": "sec_2",
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2. Remove the tray."
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 497,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -145,7 +279,20 @@
         "r": 349.0600000000001,
         "b": 388.83
       },
-      "content": "Pull the tray straight out of the printer until it stops."
+      "content": "Pull the tray straight out of the printer until it stops.",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2. Remove the tray."
+        }
+      ],
+      "page": 497,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -166,6 +313,20 @@
       "height": 218,
       "previous_block_id": "txt_3910",
       "next_block_id": "txt_3911",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2. Remove the tray."
+        }
+      ],
+      "page": 497,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_1406",
+      "source": "pdf_text",
       "caption_id": "txt_3911"
     },
     {
@@ -180,6 +341,20 @@
         "b": 367.83
       },
       "content": "Figure 1-808  Pull the tray out until it stops",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2. Remove the tray."
+        }
+      ],
+      "page": 497,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_1406",
+      "source": "pdf_text",
       "caption_for": "fig_1406"
     }
   ],

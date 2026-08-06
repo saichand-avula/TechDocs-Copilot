@@ -17,7 +17,24 @@
         "r": 540.3000000000004,
         "b": 708.7
       },
-      "content": "Rotate the connector end of the fax PCA out and away from the formatter (callout 1), and then slide it as shown (callout 2) to remove it."
+      "content": "Rotate the connector end of the fax PCA out and away from the formatter (callout 1), and then slide it as shown (callout 2) to remove it.",
+      "section_id": "sec_auto_4886",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5. Remove the fan (FM1)."
+        },
+        {
+          "id": "sec_auto_4886",
+          "title": "Post service test"
+        }
+      ],
+      "page": 454,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -38,6 +55,24 @@
       "height": 217,
       "previous_block_id": "txt_3639",
       "next_block_id": "txt_3640",
+      "section_id": "sec_auto_4886",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5. Remove the fan (FM1)."
+        },
+        {
+          "id": "sec_auto_4886",
+          "title": "Post service test"
+        }
+      ],
+      "page": 454,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_1283",
+      "source": "pdf_text",
       "caption_id": "txt_3640"
     },
     {
@@ -52,6 +87,24 @@
         "b": 687.7
       },
       "content": "Figure 1-729  Remove the fax PCA",
+      "section_id": "sec_auto_4886",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5. Remove the fan (FM1)."
+        },
+        {
+          "id": "sec_auto_4886",
+          "title": "Post service test"
+        }
+      ],
+      "page": 454,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_1283",
+      "source": "pdf_text",
       "caption_for": "fig_1283"
     },
     {
@@ -66,8 +119,21 @@
         "b": 446.83
       },
       "content": "6. Remove the formatter.",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "6",
+      "section_id": "sec_6",
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6. Remove the formatter."
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 454,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "admonition",
@@ -81,7 +147,20 @@
         "b": 411.33
       },
       "content": "CAUTION: Never remove and then install a replacement DCC and formatter at the same time. Doing so will cause the printer to become unstable.",
-      "severity": "caution"
+      "severity": "caution",
+      "section_id": "sec_6",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6. Remove the formatter."
+        }
+      ],
+      "page": 454,
+      "chunk_hint": "admonition",
+      "semantic_role": "caution",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -94,7 +173,20 @@
         "r": 533.7700100000002,
         "b": 378.33
       },
-      "content": "If a replacement DCC and formatter must be installed, first remove and install the formatter. Test operate the printer, and then if necessary install a replacement DCC."
+      "content": "If a replacement DCC and formatter must be installed, first remove and install the formatter. Test operate the printer, and then if necessary install a replacement DCC.",
+      "section_id": "sec_6",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6. Remove the formatter."
+        }
+      ],
+      "page": 454,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -107,7 +199,20 @@
         "r": 529.72,
         "b": 333.33
       },
-      "content": "IMPORTANT: Take note of all empty connectors on the PCA before disconnecting any wire harnesses or flat-flexible cables (FFCs). Some empty connectors might not be visible until other items-like the harddisk drive-are removed, so pay close attention while removing the formatter and accessory items."
+      "content": "IMPORTANT: Take note of all empty connectors on the PCA before disconnecting any wire harnesses or flat-flexible cables (FFCs). Some empty connectors might not be visible until other items-like the harddisk drive-are removed, so pay close attention while removing the formatter and accessory items.",
+      "section_id": "sec_6",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6. Remove the formatter."
+        }
+      ],
+      "page": 454,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -120,7 +225,20 @@
         "r": 528.2900000000003,
         "b": 298.83
       },
-      "content": "M501: Disconnect all of the connectors and FFCs, remove four screws (callout 1), and then remove the formatter."
+      "content": "M501: Disconnect all of the connectors and FFCs, remove four screws (callout 1), and then remove the formatter.",
+      "section_id": "sec_6",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6. Remove the formatter."
+        }
+      ],
+      "page": 454,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

@@ -19,7 +19,24 @@
       },
       "content": "5.3 Fault finding",
       "level": 2,
-      "role": "section"
+      "section_number": "5.3",
+      "section_id": "sec_5_3",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Service information"
+        },
+        {
+          "id": "sec_5_3",
+          "title": "5.3 Fault finding"
+        }
+      ],
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "page": 49,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -34,7 +51,23 @@
       },
       "content": "Hardware control components",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_759",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Service information"
+        },
+        {
+          "id": "sec_auto_759",
+          "title": "Hardware control components"
+        }
+      ],
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "page": 49,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -49,7 +82,23 @@
       },
       "content": "Operations communication:",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_760",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Service information"
+        },
+        {
+          "id": "sec_auto_760",
+          "title": "Operations communication:"
+        }
+      ],
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "page": 49,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -62,7 +111,24 @@
         "r": 558.8910000000001,
         "b": 680.8983344167461
       },
-      "content": "The oven has two main controlling parts, being the User Interface 'UI' assembly (keyboard, screen, logic) and the Inputs & Outputs 'IO' Board (to switch and monitor the required operation)."
+      "content": "The oven has two main controlling parts, being the User Interface 'UI' assembly (keyboard, screen, logic) and the Inputs & Outputs 'IO' Board (to switch and monitor the required operation).",
+      "section_id": "sec_auto_760",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Service information"
+        },
+        {
+          "id": "sec_auto_760",
+          "title": "Operations communication:"
+        }
+      ],
+      "page": 49,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -75,7 +141,24 @@
         "r": 558.855,
         "b": 656.6613344167462
       },
-      "content": "The UI is the master of the oven and instructs the IO what to do, in turn the IO communicates information on the operation back to the UI."
+      "content": "The UI is the master of the oven and instructs the IO what to do, in turn the IO communicates information on the operation back to the UI.",
+      "section_id": "sec_auto_760",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Service information"
+        },
+        {
+          "id": "sec_auto_760",
+          "title": "Operations communication:"
+        }
+      ],
+      "page": 49,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -88,7 +171,24 @@
         "r": 558.7289999999999,
         "b": 632.0643344167462
       },
-      "content": "The UI and IO have their own Personality Module (PM) fitted with the respective software to be able to communicate and work with each other."
+      "content": "The UI and IO have their own Personality Module (PM) fitted with the respective software to be able to communicate and work with each other.",
+      "section_id": "sec_auto_760",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Service information"
+        },
+        {
+          "id": "sec_auto_760",
+          "title": "Operations communication:"
+        }
+      ],
+      "page": 49,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -101,7 +201,24 @@
         "r": 558.8639999999998,
         "b": 607.5843344167462
       },
-      "content": "The power provision to the UI and the communication between UI and IO is enabled via ONE cable with a multipin (12 pin X523) connector fitted."
+      "content": "The power provision to the UI and the communication between UI and IO is enabled via ONE cable with a multipin (12 pin X523) connector fitted.",
+      "section_id": "sec_auto_760",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Service information"
+        },
+        {
+          "id": "sec_auto_760",
+          "title": "Operations communication:"
+        }
+      ],
+      "page": 49,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -116,7 +233,23 @@
       },
       "content": "Start-up sequence",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_765",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Service information"
+        },
+        {
+          "id": "sec_auto_765",
+          "title": "Start-up sequence"
+        }
+      ],
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "page": 49,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -129,7 +262,24 @@
         "r": 560.9430000000001,
         "b": 460.58133441674613
       },
-      "content": "Once the mains power is switched ON, the UI & IO boards boot up. The screen displays 'Loading…' during this process. The screen then goes blank before the on switch appears in the centre of the screen. When the oven switch is switched ON, by tapping the centre of the screen, the display scrolls through the Welbilt brands before settling on the Merrychef Screen. The safety relays energise and then the auxiliary components start running - microwave Stirrer Motor(s), Cooling Fan & Convection Fan. From here the oven information can be viewed and the oven settings can also be accessed by pressing the appropriate button. If the oven information or settings buttons are not selected, after 5 seconds the oven then preheats or displays a preheat temperature choice when more than one is configured on the oven. Once preheated the oven displays the main menu if in \"Full service mode\", a recipe selection if in \"Quick service mode\", a recipe selection if in 'Press & Go mode' or a 'manual mode' dependant on the oven configuration."
+      "content": "Once the mains power is switched ON, the UI & IO boards boot up. The screen displays 'Loading…' during this process. The screen then goes blank before the on switch appears in the centre of the screen. When the oven switch is switched ON, by tapping the centre of the screen, the display scrolls through the Welbilt brands before settling on the Merrychef Screen. The safety relays energise and then the auxiliary components start running - microwave Stirrer Motor(s), Cooling Fan & Convection Fan. From here the oven information can be viewed and the oven settings can also be accessed by pressing the appropriate button. If the oven information or settings buttons are not selected, after 5 seconds the oven then preheats or displays a preheat temperature choice when more than one is configured on the oven. Once preheated the oven displays the main menu if in \"Full service mode\", a recipe selection if in \"Quick service mode\", a recipe selection if in 'Press & Go mode' or a 'manual mode' dependant on the oven configuration.",
+      "section_id": "sec_auto_765",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Service information"
+        },
+        {
+          "id": "sec_auto_765",
+          "title": "Start-up sequence"
+        }
+      ],
+      "page": 49,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -144,7 +294,23 @@
       },
       "content": "Shutting down sequence",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_767",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Service information"
+        },
+        {
+          "id": "sec_auto_767",
+          "title": "Shutting down sequence"
+        }
+      ],
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "page": 49,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -157,7 +323,24 @@
         "r": 560.7719999999998,
         "b": 374.65533441674614
       },
-      "content": "When the oven is switched OFF the oven enters the cooling mode and the microwave and heater safety relays de-energise. As part of the cleaning process, the cooling fan and convection fan operate until the cabinet temperature has been sufficiently reduced to a cavity temperature of 50°C (122°F). On completion of the cleaning process the screen will return to the on-switch display. The UI & IO boards remain active whilst a mains power supply is present."
+      "content": "When the oven is switched OFF the oven enters the cooling mode and the microwave and heater safety relays de-energise. As part of the cleaning process, the cooling fan and convection fan operate until the cabinet temperature has been sufficiently reduced to a cavity temperature of 50°C (122°F). On completion of the cleaning process the screen will return to the on-switch display. The UI & IO boards remain active whilst a mains power supply is present.",
+      "section_id": "sec_auto_767",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Service information"
+        },
+        {
+          "id": "sec_auto_767",
+          "title": "Shutting down sequence"
+        }
+      ],
+      "page": 49,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -172,7 +355,23 @@
       },
       "content": "Reboot",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_769",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Service information"
+        },
+        {
+          "id": "sec_auto_769",
+          "title": "Reboot"
+        }
+      ],
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "page": 49,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -185,7 +384,24 @@
         "r": 536.337,
         "b": 325.58133441674613
       },
-      "content": "At any point the oven can be 'rebooted' by pressing and holding the off button in the top left-hand corner of the screen."
+      "content": "At any point the oven can be 'rebooted' by pressing and holding the off button in the top left-hand corner of the screen.",
+      "section_id": "sec_auto_769",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Service information"
+        },
+        {
+          "id": "sec_auto_769",
+          "title": "Reboot"
+        }
+      ],
+      "page": 49,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -200,7 +416,23 @@
       },
       "content": "Exchanging data via USB interface",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_771",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Service information"
+        },
+        {
+          "id": "sec_auto_771",
+          "title": "Exchanging data via USB interface"
+        }
+      ],
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "page": 49,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -213,7 +445,24 @@
         "r": 560.457,
         "b": 249.37833441674616
       },
-      "content": "Loading menus/firmware from a USB memory stick and downloading the menu/recipe counters/error log to a USB memory stick is covered in sections 4.4 & 4.5 within this service & repair manual."
+      "content": "Loading menus/firmware from a USB memory stick and downloading the menu/recipe counters/error log to a USB memory stick is covered in sections 4.4 & 4.5 within this service & repair manual.",
+      "section_id": "sec_auto_771",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Service information"
+        },
+        {
+          "id": "sec_auto_771",
+          "title": "Exchanging data via USB interface"
+        }
+      ],
+      "page": 49,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

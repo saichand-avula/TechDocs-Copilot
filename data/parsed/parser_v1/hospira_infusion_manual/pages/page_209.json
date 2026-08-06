@@ -19,7 +19,23 @@
       },
       "content": "APPENDIX",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1526",
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_auto_1526",
+          "title": "APPENDIX"
+        }
+      ],
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "page": 209,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -34,7 +50,23 @@
       },
       "content": "USE OF THE INFUSION SYSTEM IN ELECTROMAGNETIC ENVIRONMENTS",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1527",
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_auto_1527",
+          "title": "USE OF THE INFUSION SYSTEM IN ELECTROMAGNETIC ENVIRONMENTS"
+        }
+      ],
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "page": 209,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -52,7 +84,24 @@
       "next_block_id": "txt_1378",
       "image_hash": "575e234d67f3a6954da5601d53d5758efd7d624365b673fd3d35f7f35c49c093",
       "width": 38,
-      "height": 18
+      "height": 18,
+      "section_id": "sec_auto_1527",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_auto_1527",
+          "title": "USE OF THE INFUSION SYSTEM IN ELECTROMAGNETIC ENVIRONMENTS"
+        }
+      ],
+      "page": 209,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -65,7 +114,24 @@
         "r": 540.1134480000006,
         "b": 541.3681050491803
       },
-      "content": "The Plum A+ ®  infusion system (outside of the United States) is intended for use in  the  electromagnetic  environment  specified  in Electromagnetic  Emissions, Electromagnetic Immunity, and Electromagnetic Immunity for Life-Supporting Equipment and Systems . The user of the infusion system should assure that it is used only in the appropriate environment. EN-2"
+      "content": "The Plum A+ ®  infusion system (outside of the United States) is intended for use in  the  electromagnetic  environment  specified  in Electromagnetic  Emissions, Electromagnetic Immunity, and Electromagnetic Immunity for Life-Supporting Equipment and Systems . The user of the infusion system should assure that it is used only in the appropriate environment. EN-2",
+      "section_id": "sec_auto_1527",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_auto_1527",
+          "title": "USE OF THE INFUSION SYSTEM IN ELECTROMAGNETIC ENVIRONMENTS"
+        }
+      ],
+      "page": 209,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -80,7 +146,23 @@
       },
       "content": "ELECTROMAGNETIC EMISSIONS",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1530",
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_auto_1530",
+          "title": "ELECTROMAGNETIC EMISSIONS"
+        }
+      ],
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "page": 209,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -93,7 +175,24 @@
         "r": 535.0871999999999,
         "b": 488.3873370491803
       },
-      "content": "Table A-1 details electromagnetic emissions compliance and guidance for the Plum A+ ® ."
+      "content": "Table A-1 details electromagnetic emissions compliance and guidance for the Plum A+ ® .",
+      "section_id": "sec_auto_1530",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_auto_1530",
+          "title": "ELECTROMAGNETIC EMISSIONS"
+        }
+      ],
+      "page": 209,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -108,7 +207,24 @@
       },
       "markdown": "| Table A-1. Guidance and Manufacturer's Declaration - Electromagnetic Emissions   | Table A-1. Guidance and Manufacturer's Declaration - Electromagnetic Emissions   | Table A-1. Guidance and Manufacturer's Declaration - Electromagnetic Emissions                                                                                                                                           |\n|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Emissions Test                                                                   | Compliance                                                                       | Electromagnetic Enforcement - Guidance                                                                                                                                                                                   |\n| RF Emissions CISPR 11                                                            | Class B                                                                          | The infuser is suitable for use in all establishments, including domestic establishments and those directly connected to the public low voltage power supply network that supplies buildings used for domestic purposes. |\n| Harmonic emissions IEC 61000-3-2                                                 | Class B                                                                          | The infuser is suitable for use in all establishments, including domestic establishments and those directly connected to the public low voltage power supply network that supplies buildings used for domestic purposes. |\n| Voltage fluctuations/ flicker emissions IEC 61000-3-3                            | Complies                                                                         | The infuser is suitable for use in all establishments, including domestic establishments and those directly connected to the public low voltage power supply network that supplies buildings used for domestic purposes. |",
       "rows": 5,
-      "cols": 3
+      "cols": 3,
+      "section_id": "sec_auto_1530",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_auto_1530",
+          "title": "ELECTROMAGNETIC EMISSIONS"
+        }
+      ],
+      "page": 209,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

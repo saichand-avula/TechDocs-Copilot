@@ -18,8 +18,29 @@
         "b": 776.76089
       },
       "content": "5.2.2 Outdoor fan control",
-      "level": 2,
-      "role": "section"
+      "level": 3,
+      "section_number": "5.2.2",
+      "section_id": "sec_5_2_2",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_auto_1998",
+          "title": "Compressor Frequency Increase/Decrease Speed"
+        },
+        {
+          "id": "sec_5_2_2",
+          "title": "5.2.2 Outdoor fan control"
+        }
+      ],
+      "parent_section_id": "sec_auto_1998",
+      "section_level": 3,
+      "page": 187,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -34,7 +55,23 @@
       },
       "content": "Compressor startup within 3min ,outdoor fan speed control as follows:",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_2002",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_auto_2002",
+          "title": "Compressor startup within 3min ,outdoor fan speed control as follows:"
+        }
+      ],
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "page": 187,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -49,7 +86,24 @@
       },
       "markdown": "| Outdoor Temperature   |   <10 |   25 ī 10 |   25  |\n|-----------------------|-------|-----------|---|\n| Cooling/              |     1 |         3 | 7 |\n| Heating               |     5 |         3 | 2 |",
       "rows": 3,
-      "cols": 4
+      "cols": 4,
+      "section_id": "sec_auto_2002",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_auto_2002",
+          "title": "Compressor startup within 3min ,outdoor fan speed control as follows:"
+        }
+      ],
+      "page": 187,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -64,7 +118,23 @@
       },
       "content": "fter compressor runs 3min ,outdoor fan speed control as follows:",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_2004",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_auto_2004",
+          "title": "fter compressor runs 3min ,outdoor fan speed control as follows:"
+        }
+      ],
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "page": 187,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -79,7 +149,23 @@
       },
       "content": "Cooling/ Dehumidification:",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_2005",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_auto_2005",
+          "title": "Cooling/ Dehumidification:"
+        }
+      ],
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "page": 187,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -94,7 +180,24 @@
       },
       "markdown": "| Compressor Operation Frequency ˄ Hz ˅   | Compressor Operation Frequency ˄ Hz ˅   |   <25 |   25 45 ī |    45 |\n|-----------------------------------------|-----------------------------------------|-------|-----------|---|\n|                                         | 38 ī 32                                 |     3 |         4 | 7 |\n|                                         | 32 ī 23                                 |     1 |         2 | 5 |\n|                                         | 23                                      |       |           |   |\n|                                         | 38 ı                                    |       |         7 |   |",
       "rows": 5,
-      "cols": 5
+      "cols": 5,
+      "section_id": "sec_auto_2005",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_auto_2005",
+          "title": "Cooling/ Dehumidification:"
+        }
+      ],
+      "page": 187,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -109,7 +212,23 @@
       },
       "content": "Heating:",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_2007",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_auto_2007",
+          "title": "Heating:"
+        }
+      ],
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "page": 187,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -124,7 +243,24 @@
       },
       "markdown": "| Compressor Operation Frequency (Hz)   | Compressor Operation Frequency (Hz)   |   <25 |   25 45 ī |    45 |\n|---------------------------------------|---------------------------------------|-------|-----------|---|\n| 7DR˄ć˅                                | İ                                     |     3 |         4 | 7 |\n| 7DR˄ć˅                                | ī                                     |     2 |         4 | 7 |\n| 7DR˄ć˅                                | ı                                     |     1 |         1 | 1 |",
       "rows": 4,
-      "cols": 5
+      "cols": 5,
+      "section_id": "sec_auto_2007",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_auto_2007",
+          "title": "Heating:"
+        }
+      ],
+      "page": 187,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -139,7 +275,23 @@
       },
       "content": "Compressor shutdown and outdoor fan residual heat blow process",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_2009",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_auto_2009",
+          "title": "Compressor shutdown and outdoor fan residual heat blow process"
+        }
+      ],
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "page": 187,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -152,7 +304,24 @@
         "r": 547.736521670001,
         "b": 396.57682637999994
       },
-      "content": "When compressor shuts down in cooling mode, outdoor fan automatically jumps to low speed and blows residual heat for 30s and stop."
+      "content": "When compressor shuts down in cooling mode, outdoor fan automatically jumps to low speed and blows residual heat for 30s and stop.",
+      "section_id": "sec_auto_2009",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_auto_2009",
+          "title": "Compressor shutdown and outdoor fan residual heat blow process"
+        }
+      ],
+      "page": 187,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -166,8 +335,29 @@
         "b": 346.67879
       },
       "content": "5.2.3 Four-way Valve Control",
-      "level": 2,
-      "role": "section"
+      "level": 3,
+      "section_number": "5.2.3",
+      "section_id": "sec_5_2_3",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_auto_2009",
+          "title": "Compressor shutdown and outdoor fan residual heat blow process"
+        },
+        {
+          "id": "sec_5_2_3",
+          "title": "5.2.3 Four-way Valve Control"
+        }
+      ],
+      "parent_section_id": "sec_auto_2009",
+      "section_level": 3,
+      "page": 187,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -180,7 +370,28 @@
         "r": 448.3670146800013,
         "b": 324.99582748750004
       },
-      "content": "Defrosting Four-way Valve Control ˈ (please see defrosting process for details)"
+      "content": "Defrosting Four-way Valve Control ˈ (please see defrosting process for details)",
+      "section_id": "sec_5_2_3",
+      "parent_section_id": "sec_auto_2009",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_auto_2009",
+          "title": "Compressor shutdown and outdoor fan residual heat blow process"
+        },
+        {
+          "id": "sec_5_2_3",
+          "title": "5.2.3 Four-way Valve Control"
+        }
+      ],
+      "page": 187,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -193,7 +404,28 @@
         "r": 347.57408055000025,
         "b": 310.0534358
       },
-      "content": "Time sequence of the defrosting operation is as follows:"
+      "content": "Time sequence of the defrosting operation is as follows:",
+      "section_id": "sec_5_2_3",
+      "parent_section_id": "sec_auto_2009",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_auto_2009",
+          "title": "Compressor shutdown and outdoor fan residual heat blow process"
+        },
+        {
+          "id": "sec_5_2_3",
+          "title": "5.2.3 Four-way Valve Control"
+        }
+      ],
+      "page": 187,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -206,7 +438,28 @@
         "r": 300.30245314000035,
         "b": 294.4955804
       },
-      "content": "Four-way Valve Work Status in Other Modes:"
+      "content": "Four-way Valve Work Status in Other Modes:",
+      "section_id": "sec_5_2_3",
+      "parent_section_id": "sec_auto_2009",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_auto_2009",
+          "title": "Compressor shutdown and outdoor fan residual heat blow process"
+        },
+        {
+          "id": "sec_5_2_3",
+          "title": "5.2.3 Four-way Valve Control"
+        }
+      ],
+      "page": 187,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -219,7 +472,28 @@
         "r": 547.644723700001,
         "b": 266.91710839999996
       },
-      "content": "In heating mode, four-way valve is on. If compressor is off or is switched to non-heating mode, four-way valve ensures that it is off at least 2 minutes after compressor shuts down."
+      "content": "In heating mode, four-way valve is on. If compressor is off or is switched to non-heating mode, four-way valve ensures that it is off at least 2 minutes after compressor shuts down.",
+      "section_id": "sec_5_2_3",
+      "parent_section_id": "sec_auto_2009",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_auto_2009",
+          "title": "Compressor shutdown and outdoor fan residual heat blow process"
+        },
+        {
+          "id": "sec_5_2_3",
+          "title": "5.2.3 Four-way Valve Control"
+        }
+      ],
+      "page": 187,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -233,8 +507,29 @@
         "b": 217.02309000000002
       },
       "content": "5.2.4 Outdoor Defrosting Control",
-      "level": 2,
-      "role": "section"
+      "level": 3,
+      "section_number": "5.2.4",
+      "section_id": "sec_5_2_4",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_auto_2009",
+          "title": "Compressor shutdown and outdoor fan residual heat blow process"
+        },
+        {
+          "id": "sec_5_2_4",
+          "title": "5.2.4 Outdoor Defrosting Control"
+        }
+      ],
+      "parent_section_id": "sec_auto_2009",
+      "section_level": 3,
+      "page": 187,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -249,7 +544,23 @@
       },
       "content": "Defrosting Mode Entry Conditions",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_2017",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_auto_2017",
+          "title": "Defrosting Mode Entry Conditions"
+        }
+      ],
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "page": 187,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -262,7 +573,24 @@
         "r": 547.8774510900005,
         "b": 92.25496099999998
       },
-      "content": "The unit will enter defrosting mode when compressor starts up and operates for 10 minutes continuously in heating mode or after compressor runs for an accumulated time of 45 minutes (Upon completion of defrosting or when switched to cooling mode, compressor accumulated operation time will be cleared) and when 2 minutes' continuous checking by defrosting sensor TE (check frosting condition of outdoor unit heat exchanger) and outdoor ambient temperature sensor TA meets the following conditions:"
+      "content": "The unit will enter defrosting mode when compressor starts up and operates for 10 minutes continuously in heating mode or after compressor runs for an accumulated time of 45 minutes (Upon completion of defrosting or when switched to cooling mode, compressor accumulated operation time will be cleared) and when 2 minutes' continuous checking by defrosting sensor TE (check frosting condition of outdoor unit heat exchanger) and outdoor ambient temperature sensor TA meets the following conditions:",
+      "section_id": "sec_auto_2017",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_auto_2017",
+          "title": "Defrosting Mode Entry Conditions"
+        }
+      ],
+      "page": 187,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

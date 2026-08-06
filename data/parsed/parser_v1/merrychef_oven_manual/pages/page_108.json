@@ -17,7 +17,24 @@
         "r": 42.7296,
         "b": 791.5826731190363
       },
-      "content": "7 CIRCUIT BOARDS AND DIAGRAMS"
+      "content": "7 CIRCUIT BOARDS AND DIAGRAMS",
+      "section_id": "sec_auto_1851",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7 Circuit boards and diagrams"
+        },
+        {
+          "id": "sec_auto_1851",
+          "title": "IO terminal legend"
+        }
+      ],
+      "page": 108,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -32,7 +49,24 @@
       },
       "markdown": "| Terminal   | Name                                                                               |\n|------------|------------------------------------------------------------------------------------|\n| X514       | LH Magnetron overheat thermostat. Wires 74                                         |\n| X515       | Not used - Linked out (jumper)                                                     |\n| X516       | Not used - Linked out (jumper)                                                     |\n| X517       | Not used                                                                           |\n| X518       | Not used                                                                           |\n| X519       | Convection fan speed controller (VFD) signal Wire 66 red, 0-10V Wire 67 green, 10V |\n| X520       | Not used                                                                           |\n| X521       | Not used                                                                           |\n| X522       | Not used                                                                           |\n| X523       | UI communication and power cable                                                   |\n| X524       | Not used                                                                           |\n| X530       | Cavity temperature thermocouple                                                    |\n| X531       | Not used                                                                           |\n| X532       | Not used                                                                           |\n| X533       | Not used                                                                           |\n| X534       | Not used                                                                           |\n| X535       | Not used                                                                           |\n| X540       | Not used                                                                           |\n| X541       | Not used                                                                           |\n| X560       | Not used                                                                           |\n| X600       | PM                                                                                 |\n| GND        | Chassis ground                                                                     |",
       "rows": 23,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_auto_1851",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7 Circuit boards and diagrams"
+        },
+        {
+          "id": "sec_auto_1851",
+          "title": "IO terminal legend"
+        }
+      ],
+      "page": 108,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "admonition",
@@ -46,7 +80,24 @@
         "b": 308.65823441674615
       },
       "content": "Note: IO Board test points (TP1 to TP58) are for factory build procedures only.",
-      "severity": "note"
+      "severity": "note",
+      "section_id": "sec_auto_1851",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7 Circuit boards and diagrams"
+        },
+        {
+          "id": "sec_auto_1851",
+          "title": "IO terminal legend"
+        }
+      ],
+      "page": 108,
+      "chunk_hint": "admonition",
+      "semantic_role": "note",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

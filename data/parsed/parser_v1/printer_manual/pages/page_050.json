@@ -19,7 +19,23 @@
       },
       "content": "Before performing service",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_631",
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1 Removal and replacement"
+        },
+        {
+          "id": "sec_auto_631",
+          "title": "Before performing service"
+        }
+      ],
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "page": 50,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -34,7 +50,23 @@
       },
       "content": "Turn the printer power off",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_632",
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1 Removal and replacement"
+        },
+        {
+          "id": "sec_auto_632",
+          "title": "Turn the printer power off"
+        }
+      ],
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "page": 50,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -47,7 +79,24 @@
         "r": 225.21002999999993,
         "b": 680.7
       },
-      "content": "Disconnect the power cable."
+      "content": "Disconnect the power cable.",
+      "section_id": "sec_auto_632",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1 Removal and replacement"
+        },
+        {
+          "id": "sec_auto_632",
+          "title": "Turn the printer power off"
+        }
+      ],
+      "page": 50,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -65,7 +114,24 @@
       "height": 12,
       "image_hash": "5d53f369e8aa3392685504ec4132d138272afcd2c51a1269fa8711885cb50991",
       "previous_block_id": "txt_0508",
-      "next_block_id": "txt_0509"
+      "next_block_id": "txt_0509",
+      "section_id": "sec_auto_632",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1 Removal and replacement"
+        },
+        {
+          "id": "sec_auto_632",
+          "title": "Turn the printer power off"
+        }
+      ],
+      "page": 50,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "admonition",
@@ -79,7 +145,24 @@
         "b": 645.2
       },
       "content": "WARNING! To avoid damage to the printer, turn the printer off, wait 30 seconds, and then remove the power cord before attempting to service the printer.",
-      "severity": "warning"
+      "severity": "warning",
+      "section_id": "sec_auto_632",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1 Removal and replacement"
+        },
+        {
+          "id": "sec_auto_632",
+          "title": "Turn the printer power off"
+        }
+      ],
+      "page": 50,
+      "chunk_hint": "admonition",
+      "semantic_role": "warning",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -92,7 +175,24 @@
         "r": 470.47000000000025,
         "b": 610.7
       },
-      "content": "Use the table below to identify the correct part number for your printer . To order the part, go to www.hp.com/buy/parts."
+      "content": "Use the table below to identify the correct part number for your printer . To order the part, go to www.hp.com/buy/parts.",
+      "section_id": "sec_auto_632",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1 Removal and replacement"
+        },
+        {
+          "id": "sec_auto_632",
+          "title": "Turn the printer power off"
+        }
+      ],
+      "page": 50,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -107,7 +207,23 @@
       },
       "content": "Table 1-6  Part number",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_637",
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1 Removal and replacement"
+        },
+        {
+          "id": "sec_auto_637",
+          "title": "Table 1-6  Part number"
+        }
+      ],
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "page": 50,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -124,7 +240,24 @@
       "title": "Table 1-6  Part number",
       "table_number": "Table 1-6",
       "rows": 2,
-      "cols": 1
+      "cols": 1,
+      "section_id": "sec_auto_637",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1 Removal and replacement"
+        },
+        {
+          "id": "sec_auto_637",
+          "title": "Table 1-6  Part number"
+        }
+      ],
+      "page": 50,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -139,7 +272,23 @@
       },
       "content": "Required tools",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_639",
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1 Removal and replacement"
+        },
+        {
+          "id": "sec_auto_639",
+          "title": "Required tools"
+        }
+      ],
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "page": 50,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -152,7 +301,24 @@
         "r": 344.38,
         "b": 491.07500000000005
       },
-      "content": "No special tools are required to remove or install this assembly."
+      "content": "No special tools are required to remove or install this assembly.",
+      "section_id": "sec_auto_639",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1 Removal and replacement"
+        },
+        {
+          "id": "sec_auto_639",
+          "title": "Required tools"
+        }
+      ],
+      "page": 50,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -167,7 +333,23 @@
       },
       "content": "After performing service",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_641",
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1 Removal and replacement"
+        },
+        {
+          "id": "sec_auto_641",
+          "title": "After performing service"
+        }
+      ],
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "page": 50,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -182,7 +364,23 @@
       },
       "content": "Turn the printer power on",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_642",
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1 Removal and replacement"
+        },
+        {
+          "id": "sec_auto_642",
+          "title": "Turn the printer power on"
+        }
+      ],
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "page": 50,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -195,7 +393,24 @@
         "r": 213.84004999999996,
         "b": 425.075
       },
-      "content": "Connect the power cable."
+      "content": "Connect the power cable.",
+      "section_id": "sec_auto_642",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1 Removal and replacement"
+        },
+        {
+          "id": "sec_auto_642",
+          "title": "Turn the printer power on"
+        }
+      ],
+      "page": 50,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -208,7 +423,24 @@
         "r": 285.29004,
         "b": 403.82585
       },
-      "content": "Use the power switch to turn the power on."
+      "content": "Use the power switch to turn the power on.",
+      "section_id": "sec_auto_642",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1 Removal and replacement"
+        },
+        {
+          "id": "sec_auto_642",
+          "title": "Turn the printer power on"
+        }
+      ],
+      "page": 50,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -223,7 +455,23 @@
       },
       "content": "Post service test",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_645",
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1 Removal and replacement"
+        },
+        {
+          "id": "sec_auto_645",
+          "title": "Post service test"
+        }
+      ],
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "page": 50,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -236,7 +484,24 @@
         "r": 303.0000299999999,
         "b": 358.57669999999996
       },
-      "content": "Make sure that the printer initializes to a Ready state."
+      "content": "Make sure that the printer initializes to a Ready state.",
+      "section_id": "sec_auto_645",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1 Removal and replacement"
+        },
+        {
+          "id": "sec_auto_645",
+          "title": "Post service test"
+        }
+      ],
+      "page": 50,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -249,7 +514,24 @@
         "r": 406.64004000000006,
         "b": 337.57669999999996
       },
-      "content": "Print a configuration page to make sure that the printer is functioning correctly."
+      "content": "Print a configuration page to make sure that the printer is functioning correctly.",
+      "section_id": "sec_auto_645",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1 Removal and replacement"
+        },
+        {
+          "id": "sec_auto_645",
+          "title": "Post service test"
+        }
+      ],
+      "page": 50,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -262,7 +544,24 @@
         "r": 225.16003999999995,
         "b": 316.57669999999996
       },
-      "content": "Remove the toner cartridge."
+      "content": "Remove the toner cartridge.",
+      "section_id": "sec_auto_645",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1 Removal and replacement"
+        },
+        {
+          "id": "sec_auto_645",
+          "title": "Post service test"
+        }
+      ],
+      "page": 50,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -275,7 +574,24 @@
         "r": 493.0100500000004,
         "b": 295.57669999999996
       },
-      "content": "An MFP printer is shown in this section. However, the procedure is correct for all printer models."
+      "content": "An MFP printer is shown in this section. However, the procedure is correct for all printer models.",
+      "section_id": "sec_auto_645",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1 Removal and replacement"
+        },
+        {
+          "id": "sec_auto_645",
+          "title": "Post service test"
+        }
+      ],
+      "page": 50,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -288,7 +604,24 @@
         "r": 297.07003999999995,
         "b": 274.57669999999996
       },
-      "content": "Press the cartridge-door-release button."
+      "content": "Press the cartridge-door-release button.",
+      "section_id": "sec_auto_645",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1 Removal and replacement"
+        },
+        {
+          "id": "sec_auto_645",
+          "title": "Post service test"
+        }
+      ],
+      "page": 50,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "caption",
@@ -302,6 +635,24 @@
         "b": 253.57669999999996
       },
       "content": "Figure 1-43  Press the cartridge-door-release button",
+      "section_id": "sec_auto_645",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1 Removal and replacement"
+        },
+        {
+          "id": "sec_auto_645",
+          "title": "Post service test"
+        }
+      ],
+      "page": 50,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0118",
+      "source": "pdf_text",
       "caption_for": "fig_0118"
     },
     {
@@ -322,6 +673,24 @@
       "width": 216,
       "height": 142,
       "previous_block_id": "txt_0524",
+      "section_id": "sec_auto_645",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1 Removal and replacement"
+        },
+        {
+          "id": "sec_auto_645",
+          "title": "Post service test"
+        }
+      ],
+      "page": 50,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0118",
+      "source": "pdf_text",
       "caption_id": "txt_0524"
     }
   ],

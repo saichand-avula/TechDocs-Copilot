@@ -18,8 +18,33 @@
         "b": 773.524614
       },
       "content": "5.1.2.2 When the compressor stops and remains idle for 3 minutes",
-      "level": 2,
-      "role": "section"
+      "level": 4,
+      "section_number": "5.1.2.2",
+      "section_id": "sec_5_1_2_2",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_5_1",
+          "title": "5.1 Main functions and control specification of indoor unit"
+        },
+        {
+          "id": "sec_5_1_2",
+          "title": "5.1.2 Main functions"
+        },
+        {
+          "id": "sec_5_1_2_2",
+          "title": "5.1.2.2 When the compressor stops and remains idle for 3 minutes"
+        }
+      ],
+      "parent_section_id": "sec_5_1_2",
+      "section_level": 4,
+      "page": 18,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -32,7 +57,32 @@
         "r": 550.7690639399985,
         "b": 743.7224826
       },
-      "content": "20 seconds after the compressor stops, the up wind volume is weak (switching to SSLO in silent running mode) and then slightly weak. While the down wind volume is stoped"
+      "content": "20 seconds after the compressor stops, the up wind volume is weak (switching to SSLO in silent running mode) and then slightly weak. While the down wind volume is stoped",
+      "section_id": "sec_5_1_2_2",
+      "parent_section_id": "sec_5_1_2",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_5_1",
+          "title": "5.1 Main functions and control specification of indoor unit"
+        },
+        {
+          "id": "sec_5_1_2",
+          "title": "5.1.2 Main functions"
+        },
+        {
+          "id": "sec_5_1_2_2",
+          "title": "5.1.2.2 When the compressor stops and remains idle for 3 minutes"
+        }
+      ],
+      "page": 18,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -45,7 +95,32 @@
         "r": 454.98725991999925,
         "b": 728.1646272
       },
-      "content": "If the compressor stops when the heat running starts, the wind volume is weak"
+      "content": "If the compressor stops when the heat running starts, the wind volume is weak",
+      "section_id": "sec_5_1_2_2",
+      "parent_section_id": "sec_5_1_2",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_5_1",
+          "title": "5.1 Main functions and control specification of indoor unit"
+        },
+        {
+          "id": "sec_5_1_2",
+          "title": "5.1.2 Main functions"
+        },
+        {
+          "id": "sec_5_1_2_2",
+          "title": "5.1.2.2 When the compressor stops and remains idle for 3 minutes"
+        }
+      ],
+      "page": 18,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -59,8 +134,33 @@
         "b": 680.185014
       },
       "content": "5.1.2.3 Dehumidification running",
-      "level": 2,
-      "role": "section"
+      "level": 4,
+      "section_number": "5.1.2.3",
+      "section_id": "sec_5_1_2_3",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_5_1",
+          "title": "5.1 Main functions and control specification of indoor unit"
+        },
+        {
+          "id": "sec_5_1_2",
+          "title": "5.1.2 Main functions"
+        },
+        {
+          "id": "sec_5_1_2_3",
+          "title": "5.1.2.3 Dehumidification running"
+        }
+      ],
+      "parent_section_id": "sec_5_1_2",
+      "section_level": 4,
+      "page": 18,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -73,7 +173,32 @@
         "r": 450.1399379300009,
         "b": 665.9405380000001
       },
-      "content": "Under the dehumidification mode the fan motor stops as the compressor stops"
+      "content": "Under the dehumidification mode the fan motor stops as the compressor stops",
+      "section_id": "sec_5_1_2_3",
+      "parent_section_id": "sec_5_1_2",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_5_1",
+          "title": "5.1 Main functions and control specification of indoor unit"
+        },
+        {
+          "id": "sec_5_1_2",
+          "title": "5.1.2 Main functions"
+        },
+        {
+          "id": "sec_5_1_2_3",
+          "title": "5.1.2.3 Dehumidification running"
+        }
+      ],
+      "page": 18,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -86,7 +211,32 @@
         "r": 323.47131382000026,
         "b": 650.3826826000001
       },
-      "content": "The operation is weak after 3 minutes' idle mode"
+      "content": "The operation is weak after 3 minutes' idle mode",
+      "section_id": "sec_5_1_2_3",
+      "parent_section_id": "sec_5_1_2",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_5_1",
+          "title": "5.1 Main functions and control specification of indoor unit"
+        },
+        {
+          "id": "sec_5_1_2",
+          "title": "5.1.2 Main functions"
+        },
+        {
+          "id": "sec_5_1_2_3",
+          "title": "5.1.2.3 Dehumidification running"
+        }
+      ],
+      "page": 18,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -99,7 +249,32 @@
         "r": 326.87832294999987,
         "b": 634.8248272000001
       },
-      "content": "After stand by for 3 minutes, the compressor is on."
+      "content": "After stand by for 3 minutes, the compressor is on.",
+      "section_id": "sec_5_1_2_3",
+      "parent_section_id": "sec_5_1_2",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_5_1",
+          "title": "5.1 Main functions and control specification of indoor unit"
+        },
+        {
+          "id": "sec_5_1_2",
+          "title": "5.1.2 Main functions"
+        },
+        {
+          "id": "sec_5_1_2_3",
+          "title": "5.1.2.3 Dehumidification running"
+        }
+      ],
+      "page": 18,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -112,7 +287,32 @@
         "r": 550.7680651099984,
         "b": 603.7091164000001
       },
-      "content": "The compressor operates as the set wind volume when the wind volume is set to be strong, medium or weak"
+      "content": "The compressor operates as the set wind volume when the wind volume is set to be strong, medium or weak",
+      "section_id": "sec_5_1_2_3",
+      "parent_section_id": "sec_5_1_2",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_5_1",
+          "title": "5.1 Main functions and control specification of indoor unit"
+        },
+        {
+          "id": "sec_5_1_2",
+          "title": "5.1.2 Main functions"
+        },
+        {
+          "id": "sec_5_1_2_3",
+          "title": "5.1.2.3 Dehumidification running"
+        }
+      ],
+      "page": 18,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -125,7 +325,32 @@
         "r": 550.8120136299987,
         "b": 572.5934056000001
       },
-      "content": "The wind volume is decided according to the temperature adjusting when the wind volume is set to be automatic."
+      "content": "The wind volume is decided according to the temperature adjusting when the wind volume is set to be automatic.",
+      "section_id": "sec_5_1_2_3",
+      "parent_section_id": "sec_5_1_2",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_5_1",
+          "title": "5.1 Main functions and control specification of indoor unit"
+        },
+        {
+          "id": "sec_5_1_2",
+          "title": "5.1.2 Main functions"
+        },
+        {
+          "id": "sec_5_1_2_3",
+          "title": "5.1.2.3 Dehumidification running"
+        }
+      ],
+      "page": 18,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -143,7 +368,32 @@
       "next_block_id": "txt_0106",
       "image_hash": "9c7d4f898df9017000d6133c29b4a94e99b6dda9bf6c3f9cb2beea387bc73fbd",
       "width": 389,
-      "height": 150
+      "height": 150,
+      "section_id": "sec_5_1_2_3",
+      "parent_section_id": "sec_5_1_2",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_5_1",
+          "title": "5.1 Main functions and control specification of indoor unit"
+        },
+        {
+          "id": "sec_5_1_2",
+          "title": "5.1.2 Main functions"
+        },
+        {
+          "id": "sec_5_1_2_3",
+          "title": "5.1.2.3 Dehumidification running"
+        }
+      ],
+      "page": 18,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -157,8 +407,33 @@
         "b": 369.05301399999996
       },
       "content": "5.1.2.4 Automatic running",
-      "level": 2,
-      "role": "section"
+      "level": 4,
+      "section_number": "5.1.2.4",
+      "section_id": "sec_5_1_2_4",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_5_1",
+          "title": "5.1 Main functions and control specification of indoor unit"
+        },
+        {
+          "id": "sec_5_1_2",
+          "title": "5.1.2 Main functions"
+        },
+        {
+          "id": "sec_5_1_2_4",
+          "title": "5.1.2.4 Automatic running"
+        }
+      ],
+      "parent_section_id": "sec_5_1_2",
+      "section_level": 4,
+      "page": 18,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -171,7 +446,32 @@
         "r": 550.8010265000013,
         "b": 308.1349718
       },
-      "content": "When  the  running  mode  is  turned  to  automation  after  starting  the  system,  the  system  will  first determine the running mode according to the current room temperature and then will run according to the determined mode. Tr in the following selection conditions means room temperature, Ts means setting temperature, Tp means temperature of indoor coil pipe"
+      "content": "When  the  running  mode  is  turned  to  automation  after  starting  the  system,  the  system  will  first determine the running mode according to the current room temperature and then will run according to the determined mode. Tr in the following selection conditions means room temperature, Ts means setting temperature, Tp means temperature of indoor coil pipe",
+      "section_id": "sec_5_1_2_4",
+      "parent_section_id": "sec_5_1_2",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_5_1",
+          "title": "5.1 Main functions and control specification of indoor unit"
+        },
+        {
+          "id": "sec_5_1_2",
+          "title": "5.1.2 Main functions"
+        },
+        {
+          "id": "sec_5_1_2_4",
+          "title": "5.1.2.4 Automatic running"
+        }
+      ],
+      "page": 18,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -184,7 +484,33 @@
         "r": 137.36631173,
         "b": 292.0216058875001
       },
-      "content": "Tr  23 ć"
+      "content": "Tr  23 ć",
+      "section_id": "sec_5_1_2_4",
+      "parent_section_id": "sec_5_1_2",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_5_1",
+          "title": "5.1 Main functions and control specification of indoor unit"
+        },
+        {
+          "id": "sec_5_1_2",
+          "title": "5.1.2 Main functions"
+        },
+        {
+          "id": "sec_5_1_2_4",
+          "title": "5.1.2.4 Automatic running"
+        }
+      ],
+      "page": 18,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text",
+      "confidence": 0.8
     },
     {
       "type": "paragraph",
@@ -197,7 +523,32 @@
         "r": 285.9033198600001,
         "b": 292.5771164
       },
-      "content": "Choose Cooling Mode"
+      "content": "Choose Cooling Mode",
+      "section_id": "sec_5_1_2_4",
+      "parent_section_id": "sec_5_1_2",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_5_1",
+          "title": "5.1 Main functions and control specification of indoor unit"
+        },
+        {
+          "id": "sec_5_1_2",
+          "title": "5.1.2 Main functions"
+        },
+        {
+          "id": "sec_5_1_2_4",
+          "title": "5.1.2.4 Automatic running"
+        }
+      ],
+      "page": 18,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -210,7 +561,32 @@
         "r": 141.85205726,
         "b": 276.4037972875001
       },
-      "content": "Tr ˘ 23 ć"
+      "content": "Tr ˘ 23 ć",
+      "section_id": "sec_5_1_2_4",
+      "parent_section_id": "sec_5_1_2",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_5_1",
+          "title": "5.1 Main functions and control specification of indoor unit"
+        },
+        {
+          "id": "sec_5_1_2",
+          "title": "5.1.2 Main functions"
+        },
+        {
+          "id": "sec_5_1_2_4",
+          "title": "5.1.2.4 Automatic running"
+        }
+      ],
+      "page": 18,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -223,7 +599,32 @@
         "r": 285.77447079000007,
         "b": 276.95930780000003
       },
-      "content": "Choose Heating Mode"
+      "content": "Choose Heating Mode",
+      "section_id": "sec_5_1_2_4",
+      "parent_section_id": "sec_5_1_2",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_5_1",
+          "title": "5.1 Main functions and control specification of indoor unit"
+        },
+        {
+          "id": "sec_5_1_2",
+          "title": "5.1.2 Main functions"
+        },
+        {
+          "id": "sec_5_1_2_4",
+          "title": "5.1.2.4 Automatic running"
+        }
+      ],
+      "page": 18,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -236,7 +637,32 @@
         "r": 550.7850452200009,
         "b": 230.34569480000005
       },
-      "content": "After turning to the automation mode, the running mode can be switched between cooling mode, fan mode  and  heating  mode  according  to  the  change  of  the  indoor  ambient  temperature.  But  the automatic conversion between cooling mode and heating mode must be conducted after 15 minutes."
+      "content": "After turning to the automation mode, the running mode can be switched between cooling mode, fan mode  and  heating  mode  according  to  the  change  of  the  indoor  ambient  temperature.  But  the automatic conversion between cooling mode and heating mode must be conducted after 15 minutes.",
+      "section_id": "sec_5_1_2_4",
+      "parent_section_id": "sec_5_1_2",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_5_1",
+          "title": "5.1 Main functions and control specification of indoor unit"
+        },
+        {
+          "id": "sec_5_1_2",
+          "title": "5.1.2 Main functions"
+        },
+        {
+          "id": "sec_5_1_2_4",
+          "title": "5.1.2.4 Automatic running"
+        }
+      ],
+      "page": 18,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -250,8 +676,29 @@
         "b": 173.40269
       },
       "content": "5.1.3 Special functions",
-      "level": 2,
-      "role": "section"
+      "level": 3,
+      "section_number": "5.1.3",
+      "section_id": "sec_5_1_3",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_5_1",
+          "title": "5.1 Main functions and control specification of indoor unit"
+        },
+        {
+          "id": "sec_5_1_3",
+          "title": "5.1.3 Special functions"
+        }
+      ],
+      "parent_section_id": "sec_5_1",
+      "section_level": 3,
+      "page": 18,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -265,8 +712,33 @@
         "b": 151.26081399999998
       },
       "content": "5.1.3.1 Powerful running",
-      "level": 2,
-      "role": "section"
+      "level": 4,
+      "section_number": "5.1.3.1",
+      "section_id": "sec_5_1_3_1",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_5_1",
+          "title": "5.1 Main functions and control specification of indoor unit"
+        },
+        {
+          "id": "sec_5_1_3",
+          "title": "5.1.3 Special functions"
+        },
+        {
+          "id": "sec_5_1_3_1",
+          "title": "5.1.3.1 Powerful running"
+        }
+      ],
+      "parent_section_id": "sec_5_1_3",
+      "section_level": 4,
+      "page": 18,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -279,7 +751,32 @@
         "r": 245.4237364499999,
         "b": 137.01633800000002
       },
-      "content": "Powerful running for 15 minutes"
+      "content": "Powerful running for 15 minutes",
+      "section_id": "sec_5_1_3_1",
+      "parent_section_id": "sec_5_1_3",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_5_1",
+          "title": "5.1 Main functions and control specification of indoor unit"
+        },
+        {
+          "id": "sec_5_1_3",
+          "title": "5.1.3 Special functions"
+        },
+        {
+          "id": "sec_5_1_3_1",
+          "title": "5.1.3.1 Powerful running"
+        }
+      ],
+      "page": 18,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -292,7 +789,32 @@
         "r": 387.5392665100001,
         "b": 121.45848260000002
       },
-      "content": "The running stops or ends the powerful running after 15 minutes"
+      "content": "The running stops or ends the powerful running after 15 minutes",
+      "section_id": "sec_5_1_3_1",
+      "parent_section_id": "sec_5_1_3",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_5_1",
+          "title": "5.1 Main functions and control specification of indoor unit"
+        },
+        {
+          "id": "sec_5_1_3",
+          "title": "5.1.3 Special functions"
+        },
+        {
+          "id": "sec_5_1_3_1",
+          "title": "5.1.3.1 Powerful running"
+        }
+      ],
+      "page": 18,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -305,7 +827,32 @@
         "r": 297.4448005100007,
         "b": 105.89962797999999
       },
-      "content": "The mode switch ends the powerful running"
+      "content": "The mode switch ends the powerful running",
+      "section_id": "sec_5_1_3_1",
+      "parent_section_id": "sec_5_1_3",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_5_1",
+          "title": "5.1 Main functions and control specification of indoor unit"
+        },
+        {
+          "id": "sec_5_1_3",
+          "title": "5.1.3 Special functions"
+        },
+        {
+          "id": "sec_5_1_3_1",
+          "title": "5.1.3.1 Powerful running"
+        }
+      ],
+      "page": 18,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -318,7 +865,32 @@
         "r": 550.7850452200012,
         "b": 74.78291795999996
       },
-      "content": "Enter into the silent mode, normal running mode or timed switching on mode to end the powerful running When in automatic mode, there are powerful and silent functions for your choice. When the main unit is in cooling mode, it operates with powerful cooling or silent cooling. When the main unit is in heating mode, it operates with powerful heating or silent heating. When the main unit is in wind-sending mode, there are no powerful or silent modes."
+      "content": "Enter into the silent mode, normal running mode or timed switching on mode to end the powerful running When in automatic mode, there are powerful and silent functions for your choice. When the main unit is in cooling mode, it operates with powerful cooling or silent cooling. When the main unit is in heating mode, it operates with powerful heating or silent heating. When the main unit is in wind-sending mode, there are no powerful or silent modes.",
+      "section_id": "sec_5_1_3_1",
+      "parent_section_id": "sec_5_1_3",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_5_1",
+          "title": "5.1 Main functions and control specification of indoor unit"
+        },
+        {
+          "id": "sec_5_1_3",
+          "title": "5.1.3 Special functions"
+        },
+        {
+          "id": "sec_5_1_3_1",
+          "title": "5.1.3.1 Powerful running"
+        }
+      ],
+      "page": 18,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -335,7 +907,32 @@
       "previous_block_id": "txt_0118",
       "width": 31,
       "height": 10,
-      "image_hash": "4932c2d5d0b7074cda725139f9d9564f1f04035ce7b4f980001f49bec2498beb"
+      "image_hash": "4932c2d5d0b7074cda725139f9d9564f1f04035ce7b4f980001f49bec2498beb",
+      "section_id": "sec_5_1_3_1",
+      "parent_section_id": "sec_5_1_3",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_5_1",
+          "title": "5.1 Main functions and control specification of indoor unit"
+        },
+        {
+          "id": "sec_5_1_3",
+          "title": "5.1.3 Special functions"
+        },
+        {
+          "id": "sec_5_1_3_1",
+          "title": "5.1.3.1 Powerful running"
+        }
+      ],
+      "page": 18,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

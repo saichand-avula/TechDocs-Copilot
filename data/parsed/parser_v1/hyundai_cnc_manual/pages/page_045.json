@@ -18,8 +18,21 @@
         "b": 755.7829409281768
       },
       "content": "4. Head Stock",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "4",
+      "section_id": "sec_4",
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4. Head Stock"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 45,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -33,8 +46,21 @@
         "b": 721.8231569281769
       },
       "content": "4-1. SUPER KIA TURN 100",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "4",
+      "section_id": "sec_4",
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4-1. SUPER KIA TURN 100"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 45,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -52,7 +78,20 @@
       "next_block_id": "txt_0264",
       "image_hash": "431963ea4a67cbbbb22467483711c90f3a67ce3a72dac1eb2d85bc3c8c29fce1",
       "width": 105,
-      "height": 27
+      "height": 27,
+      "section_id": "sec_4",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4-1. SUPER KIA TURN 100"
+        }
+      ],
+      "page": 45,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -65,7 +104,20 @@
         "r": 393.3024779999999,
         "b": 636.8030489281768
       },
-      "content": "Before operating the machine, sufficient warm up the Head Stock."
+      "content": "Before operating the machine, sufficient warm up the Head Stock.",
+      "section_id": "sec_4",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4-1. SUPER KIA TURN 100"
+        }
+      ],
+      "page": 45,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -78,7 +130,20 @@
         "r": 228.99251400000006,
         "b": 585.8032529281769
       },
-      "content": "The Head Stock is A2-5"
+      "content": "The Head Stock is A2-5",
+      "section_id": "sec_4",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4-1. SUPER KIA TURN 100"
+        }
+      ],
+      "page": 45,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -96,7 +161,20 @@
       "next_block_id": "txt_0266",
       "image_hash": "24abc14c939a227a6eb0730456da6bfdb8b08633f0b8ff1eca131d3825469885",
       "width": 440,
-      "height": 250
+      "height": 250,
+      "section_id": "sec_4",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4-1. SUPER KIA TURN 100"
+        }
+      ],
+      "page": 45,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "caption",
@@ -110,6 +188,20 @@
         "b": 313.8243809281769
       },
       "content": "Fig. 3-3  Head Stock (SUPER KIATURN 100)",
+      "section_id": "sec_4",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4-1. SUPER KIA TURN 100"
+        }
+      ],
+      "page": 45,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_tbl_0014",
+      "source": "pdf_text",
       "caption_for": "tbl_0014"
     },
     {
@@ -124,9 +216,23 @@
         "b": 151.1812744140625
       },
       "markdown": "|   No. | Part Name    |   No. | Part Name      |\n|-------|--------------|-------|----------------|\n|     1 | Spindle      |     7 | Collar \"B\"     |\n|     2 | Head Body    |     8 | Rear Flange    |\n|     3 | Bearing      |     9 | O-Ring         |\n|     4 | Labyrinth    |    10 | Hex. Bolt      |\n|     5 | Front Flange |    11 | Spindle Pulley |\n|     6 | Collar \"A\"   |    12 | Key            |",
-      "caption_id": "txt_0266",
       "rows": 7,
-      "cols": 4
+      "cols": 4,
+      "section_id": "sec_4",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4-1. SUPER KIA TURN 100"
+        }
+      ],
+      "page": 45,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "group_id": "grp_tbl_0014",
+      "source": "pdf_text",
+      "caption_id": "txt_0266"
     }
   ],
   "page_stats": {

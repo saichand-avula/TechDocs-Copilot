@@ -19,12 +19,30 @@
       },
       "image_path": "figures/figure_0011.png",
       "next_block_id": "txt_0315",
-      "caption_id": "txt_0315",
       "caption": ". SINGLE-PHASE GENERATOR SET SCHEMATIC",
       "figure_number": "FIGURE 5-3",
       "image_hash": "365a3035ac4fcdf3ab126a21f3562906054d7a27a94be4e360f047a302521d40",
       "width": 517,
-      "height": 455
+      "height": 455,
+      "section_id": "sec_auto_318",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5. Generator Set/Voltage Regulator"
+        },
+        {
+          "id": "sec_auto_318",
+          "title": "GENERAL DESCRIPTION"
+        }
+      ],
+      "page": 25,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0011",
+      "source": "pdf_text",
+      "caption_id": "txt_0315"
     },
     {
       "type": "caption",
@@ -38,6 +56,24 @@
         "b": 234.3465569398876
       },
       "content": "FIGURE 5-3. SINGLE-PHASE GENERATOR SET SCHEMATIC",
+      "section_id": "sec_auto_318",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5. Generator Set/Voltage Regulator"
+        },
+        {
+          "id": "sec_auto_318",
+          "title": "GENERAL DESCRIPTION"
+        }
+      ],
+      "page": 25,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0011",
+      "source": "pdf_text",
       "caption_for": "fig_0011"
     }
   ],

@@ -18,8 +18,21 @@
         "b": 755.7829409281768
       },
       "content": "6-2. Safety Device",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "6",
+      "section_id": "sec_6",
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6-2. Safety Device"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 30,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -37,7 +50,20 @@
       "next_block_id": "txt_0211",
       "image_hash": "1c9406e0cd87b0c4cc54d9b956fdcf5a94733982369b2fb27807b0ba05462012",
       "width": 457,
-      "height": 246
+      "height": 246,
+      "section_id": "sec_6",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6-2. Safety Device"
+        }
+      ],
+      "page": 30,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -52,7 +78,20 @@
       },
       "markdown": "|   No. | Name                  | Function                                                                            |\n|-------|-----------------------|-------------------------------------------------------------------------------------|\n|     1 | Door Lock System      | If the door opened while operating the machine, it may be in Emergency Stop sate.   |\n|     2 | Emergency Stop Switch | If Pressing this switch, all operating parts except hydraulic ones will be stopped. |",
       "rows": 3,
-      "cols": 3
+      "cols": 3,
+      "section_id": "sec_6",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6-2. Safety Device"
+        }
+      ],
+      "page": 30,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -66,8 +105,21 @@
         "b": 362.7829289281768
       },
       "content": "6-2-1. Door Lock System (Applicable only to the C.E)",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "6",
+      "section_id": "sec_6",
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6-2-1. Door Lock System (Applicable only to the C.E)"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 30,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -85,7 +137,20 @@
       "next_block_id": "txt_0212",
       "image_hash": "5b9044f939984ef91aedd7496dd3da2b0238170c86a908c0a2eeea28168e6d04",
       "width": 110,
-      "height": 27
+      "height": 27,
+      "section_id": "sec_6",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6-2-1. Door Lock System (Applicable only to the C.E)"
+        }
+      ],
+      "page": 30,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -98,7 +163,20 @@
         "r": 394.0599899999999,
         "b": 277.82304892817683
       },
-      "content": "Set the \"LOCK / UNLOCK\" switch of door lock system to \"LOCK\" ."
+      "content": "Set the \"LOCK / UNLOCK\" switch of door lock system to \"LOCK\" .",
+      "section_id": "sec_6",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6-2-1. Door Lock System (Applicable only to the C.E)"
+        }
+      ],
+      "page": 30,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -111,7 +189,20 @@
         "r": 513.1627200000012,
         "b": 243.80314492817683
       },
-      "content": "If  setting  it  to  \"UNLOCK\"  ,  it  may  allow  the  door  to  be  opened  while  operating  and  cause serious risks."
+      "content": "If  setting  it  to  \"UNLOCK\"  ,  it  may  allow  the  door  to  be  opened  while  operating  and  cause serious risks.",
+      "section_id": "sec_6",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6-2-1. Door Lock System (Applicable only to the C.E)"
+        }
+      ],
+      "page": 30,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

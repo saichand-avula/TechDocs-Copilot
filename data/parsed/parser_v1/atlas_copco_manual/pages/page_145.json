@@ -18,8 +18,21 @@
         "b": 747.024
       },
       "content": "12     Instructions for use of air receiver",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "12",
+      "section_id": "sec_12",
+      "section_path": [
+        {
+          "id": "sec_12",
+          "title": "12     Instructions for use of air receiver"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 145,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -34,7 +47,24 @@
       },
       "content": "12.1   Instructions for use",
       "level": 2,
-      "role": "section"
+      "section_number": "12.1",
+      "section_id": "sec_12_1",
+      "section_path": [
+        {
+          "id": "sec_12",
+          "title": "12     Instructions for use of air receiver"
+        },
+        {
+          "id": "sec_12_1",
+          "title": "12.1   Instructions for use"
+        }
+      ],
+      "parent_section_id": "sec_12",
+      "section_level": 2,
+      "page": 145,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -49,7 +79,23 @@
       },
       "content": "Instructions",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1534",
+      "section_path": [
+        {
+          "id": "sec_12",
+          "title": "12     Instructions for use of air receiver"
+        },
+        {
+          "id": "sec_auto_1534",
+          "title": "Instructions"
+        }
+      ],
+      "parent_section_id": "sec_12",
+      "section_level": 2,
+      "page": 145,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -64,7 +110,24 @@
       },
       "markdown": "|   1 | This vessel can contain pressurised air; this can be potentially dangerous if the equipment is misused.                                                                                                                                |\n|-----|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n|   2 | This vessel must only be used as a compressed air/oil separator and must be operated within the limits specified on the data plate.                                                                                                    |\n|   3 | No alterations must be made to this vessel by welding, drilling or other mechanical methods without the written permission of the manufacturer.                                                                                        |\n|   4 | The pressure and temperature of this vessel must be clearly indicated.                                                                                                                                                                 |\n|   5 | The safety valve must correspond with pressure surges of 1.1 times the maximum allowable operating pressure. It should guarantee that the pressure will not permanently exceed the maximum allowable operating pressure of the vessel. |\n|   6 | Use only oil as specified by the manufacturer.                                                                                                                                                                                         |\n|   7 | Original bolts have to be used after opening for inspection. The maximum torque has to be taken into consideration: for M12 bolts 73 Nm (+/-18), for M16 bolts 185 Nm (+/-45).                                                         |",
       "rows": 7,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_auto_1534",
+      "parent_section_id": "sec_12",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_12",
+          "title": "12     Instructions for use of air receiver"
+        },
+        {
+          "id": "sec_auto_1534",
+          "title": "Instructions"
+        }
+      ],
+      "page": 145,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -81,7 +144,24 @@
       "previous_block_id": "txt_1053",
       "image_hash": "b28a1d23de5124d82d6f84120acacff249829ec0e42f4c826059a188d93e4d2e",
       "width": 48,
-      "height": 23
+      "height": 23,
+      "section_id": "sec_auto_1534",
+      "parent_section_id": "sec_12",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_12",
+          "title": "12     Instructions for use of air receiver"
+        },
+        {
+          "id": "sec_auto_1534",
+          "title": "Instructions"
+        }
+      ],
+      "page": 145,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

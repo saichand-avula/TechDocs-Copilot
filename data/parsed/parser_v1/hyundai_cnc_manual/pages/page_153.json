@@ -18,8 +18,21 @@
         "b": 733.0429409281768
       },
       "content": "3-5-2. Cleaning Lubrication Unit",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "3",
+      "section_id": "sec_3",
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-5-2. Cleaning Lubrication Unit"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 153,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -33,8 +46,21 @@
         "b": 716.0029289281767
       },
       "content": "1) Construction",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "1",
+      "section_id": "sec_1",
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1) Construction"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 153,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -50,12 +76,26 @@
       "image_path": "figures/figure_0272.png",
       "previous_block_id": "txt_1100",
       "next_block_id": "txt_1101",
-      "caption_id": "txt_1101",
       "caption": "Lubrication Unit construction",
       "figure_number": "Fig. 5-58",
       "image_hash": "abdc6f1f665558a05fa208ab6788faf7c6cd679adf1bd868065379d4386ead68",
       "width": 436,
-      "height": 267
+      "height": 267,
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1) Construction"
+        }
+      ],
+      "page": 153,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0272",
+      "source": "pdf_text",
+      "caption_id": "txt_1101"
     },
     {
       "type": "caption",
@@ -69,6 +109,20 @@
         "b": 410.0041529281769
       },
       "content": "Fig. 5-58 Lubrication Unit construction",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1) Construction"
+        }
+      ],
+      "page": 153,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0272",
+      "source": "pdf_text",
       "caption_for": "fig_0272"
     },
     {
@@ -83,11 +137,25 @@
         "b": 163.93206787109375
       },
       "markdown": "Table 5-5. Lubrication Unit Parts List\n\n|   No. | Nomenclature    |   Qty | Model            | Remark   |\n|-------|-----------------|-------|------------------|----------|\n|     1 | Oil cap         |     1 |                  |          |\n|     2 | Shaft guide     |     1 |                  |          |\n|     3 | Filter          |     1 |                  |          |\n|     4 | Hose            |     1 | Ø 6(Ø 0.024)     | mm(in)   |\n|     5 | Pressure switch |     1 |                  |          |\n|     6 | Oil tank        |     1 | 1800cc(0.47 gal) |          |\n|     7 | Relief valve    |     1 |                  |          |\n|     8 | Gear pump       |     1 | See next page.   |          |\n|     9 | Float switch    |     1 |                  |          |\n|    10 | Motor           |     1 | 15W(0.02HP) 2P   |          |",
-      "caption_id": "txt_1102",
       "title": "Table 5-5. Lubrication Unit Parts List",
       "table_number": "Table 5-5",
       "rows": 11,
-      "cols": 5
+      "cols": 5,
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1) Construction"
+        }
+      ],
+      "page": 153,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "group_id": "grp_tbl_0044",
+      "source": "pdf_text",
+      "caption_id": "txt_1102"
     },
     {
       "type": "caption",
@@ -101,6 +169,20 @@
         "b": 376.0443689281769
       },
       "content": "Table 5-5. Lubrication Unit Parts List",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1) Construction"
+        }
+      ],
+      "page": 153,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_tbl_0044",
+      "source": "pdf_text",
       "caption_for": "tbl_0044"
     }
   ],

@@ -18,9 +18,23 @@
         "b": 144.60052490234375
       },
       "markdown": "Ì : Option\n\n| M-code   | Function             | Remark   | M-code   | Function         | Remark   |\n|----------|----------------------|----------|----------|------------------|----------|\n| M50      |                      |          | M75      |                  |          |\n| M51      | SPINDLE AIR BLOW ON  | Ì        | M76      |                  |          |\n| M52      | SPINDLE AIR BLOW OFF | Ì        | M77      |                  |          |\n| M53      |                      |          | M78      |                  |          |\n| M54      |                      |          | M79      |                  |          |\n| M55      |                      |          | M80      |                  |          |\n| M56      |                      |          | M81      |                  |          |\n| M57      |                      |          | M82      |                  |          |\n| M58      |                      |          | M83      |                  |          |\n| M59      |                      |          | M84      |                  |          |\n| M60      |                      |          | M85      |                  |          |\n| M61      | AUTO DOOR OPEN       | Ì        | M86      |                  |          |\n| M62      | AUTO DOOR CLOSE      | Ì        | M87      |                  |          |\n| M63      | PART CATCHER UP      | Ì        | M88      |                  |          |\n| M64      | PART CATCHER DOWN    | Ì        | M89      |                  |          |\n| M65      |                      |          | M90      |                  |          |\n| M66      | CHUCK PRESSURE LOW   | Ì        | M91      |                  |          |\n| M67      | CHUCK PRESSURE HIGH  | Ì        | M92      |                  |          |\n| M68      | CHUCK CLAMP          |          | M93      |                  |          |\n| M69      | CHUCK UNCLAMP        |          | M94      |                  |          |\n| M70      | CALL LIGHT ON        |          | M95      |                  |          |\n| M71      |                      |          | M96      |                  |          |\n| M72      |                      |          | M97      |                  |          |\n| M73      |                      |          | M98      | SUB PROGRAM CALL |          |\n| M74      |                      |          | M99      | SUB PROGRAM STOP |          |",
-      "caption_id": "txt_0259",
       "rows": 26,
-      "cols": 6
+      "cols": 6,
+      "section_id": "sec_3",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-2. M Function (Auxiliary)"
+        }
+      ],
+      "page": 43,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "group_id": "grp_tbl_0013",
+      "source": "pdf_text",
+      "caption_id": "txt_0259"
     },
     {
       "type": "caption",
@@ -34,6 +48,20 @@
         "b": 755.3561
       },
       "content": "Ì : Option",
+      "section_id": "sec_3",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-2. M Function (Auxiliary)"
+        }
+      ],
+      "page": 43,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_tbl_0013",
+      "source": "pdf_text",
       "caption_for": "tbl_0013"
     }
   ],

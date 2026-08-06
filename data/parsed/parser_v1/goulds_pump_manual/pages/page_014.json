@@ -18,7 +18,20 @@
         "b": 713.40184
       },
       "content": "NOTICE: When lifting a unit that does not have a way to secure the strap on the suction flange, you must secure the strap around the frame adapter. Failure to do so may result in equipment damage.",
-      "severity": "note"
+      "severity": "note",
+      "section_id": "sec_auto_217",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_217",
+          "title": "Examples"
+        }
+      ],
+      "page": 14,
+      "chunk_hint": "admonition",
+      "semantic_role": "note",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -34,12 +47,26 @@
       "image_path": "figures/figure_0019.png",
       "previous_block_id": "txt_0203",
       "next_block_id": "txt_0204",
-      "caption_id": "txt_0204",
       "caption": ": Example of a proper lifting method with a strap secured around the frame adapter",
       "figure_number": "Figure 4",
       "image_hash": "43a56b1d94413d18194ad5a0710e5e7a0c5c2c3984cdcad70119a8fc89e6b718",
       "width": 103,
-      "height": 158
+      "height": 158,
+      "section_id": "sec_auto_217",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_217",
+          "title": "Examples"
+        }
+      ],
+      "page": 14,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0019",
+      "source": "pdf_text",
+      "caption_id": "txt_0204"
     },
     {
       "type": "caption",
@@ -53,6 +80,20 @@
         "b": 503.19764
       },
       "content": "Figure 4: Example of a proper lifting method with a strap secured around the frame adapter",
+      "section_id": "sec_auto_217",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_217",
+          "title": "Examples"
+        }
+      ],
+      "page": 14,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0019",
+      "source": "pdf_text",
       "caption_for": "fig_0019"
     },
     {
@@ -68,7 +109,19 @@
       },
       "content": "Storage guidelines",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_230",
+      "section_path": [
+        {
+          "id": "sec_auto_230",
+          "title": "Storage guidelines"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 2,
+      "page": 14,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -83,7 +136,19 @@
       },
       "content": "Pump storage requirements",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_231",
+      "section_path": [
+        {
+          "id": "sec_auto_231",
+          "title": "Pump storage requirements"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 2,
+      "page": 14,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -96,7 +161,20 @@
         "r": 536.7790000000003,
         "b": 409.65128
       },
-      "content": "Storage requirements depend on the amount of time that you store the unit. The normal packaging is designed only to protect the unit during shipping."
+      "content": "Storage requirements depend on the amount of time that you store the unit. The normal packaging is designed only to protect the unit during shipping.",
+      "section_id": "sec_auto_231",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_231",
+          "title": "Pump storage requirements"
+        }
+      ],
+      "page": 14,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -111,7 +189,20 @@
       },
       "markdown": "| Length of time in storage                      | Storage requirements                                                                                                                                                |\n|------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Upon receipt/short-term (less than six months) | • Store in a covered and dry location. • Store the unit free from dirt and vibrations.                                                                              |\n| Long-term (more than six months)               | • Store in a covered and dry location. • Store the unit free from heat, dirt, and vibrations. • Rotate the shaft by hand several times at least every three months. |",
       "rows": 3,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_auto_231",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_231",
+          "title": "Pump storage requirements"
+        }
+      ],
+      "page": 14,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "admonition",
@@ -125,7 +216,20 @@
         "t": 277.7912799999999,
         "r": 187.45,
         "b": 266.5512799999999
-      }
+      },
+      "section_id": "sec_auto_231",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_231",
+          "title": "Pump storage requirements"
+        }
+      ],
+      "page": 14,
+      "chunk_hint": "admonition",
+      "semantic_role": "note",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -138,7 +242,20 @@
         "r": 533.2900400000003,
         "b": 206.51126999999997
       },
-      "content": "Treat bearing and machined surfaces so that they are well preserved. Refer to drive unit and coupling manufacturers for their long-term storage procedures."
+      "content": "Treat bearing and machined surfaces so that they are well preserved. Refer to drive unit and coupling manufacturers for their long-term storage procedures.",
+      "section_id": "sec_auto_231",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_231",
+          "title": "Pump storage requirements"
+        }
+      ],
+      "page": 14,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -151,7 +268,20 @@
         "r": 550.6001000000006,
         "b": 179.51126999999997
       },
-      "content": "You can purchase long-term storage treatment with the initial unit order or you can purchase it and apply it after the units are already in the field. Contact your local ITT sales representative."
+      "content": "You can purchase long-term storage treatment with the initial unit order or you can purchase it and apply it after the units are already in the field. Contact your local ITT sales representative.",
+      "section_id": "sec_auto_231",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_231",
+          "title": "Pump storage requirements"
+        }
+      ],
+      "page": 14,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -166,7 +296,19 @@
       },
       "content": "Frostproofing",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_238",
+      "section_path": [
+        {
+          "id": "sec_auto_238",
+          "title": "Frostproofing"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 2,
+      "page": 14,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -180,11 +322,25 @@
         "b": 66.54376220703125
       },
       "markdown": "Table 2: Situations when the pump is or is not frostproof\n\n| Situation                                                | Condition                  |\n|----------------------------------------------------------|----------------------------|\n| Operating                                                | The pump is frostproof.    |\n| Immersed in a liquid                                     | The pump is frostproof.    |\n| Lifted out of a liquid into a temperature below freezing | The impeller might freeze. |",
-      "caption_id": "txt_0213",
       "title": "Table 2: Situations when the pump is or is not frostproof",
       "table_number": "Table 2",
       "rows": 4,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_auto_238",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_238",
+          "title": "Frostproofing"
+        }
+      ],
+      "page": 14,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "group_id": "grp_tbl_0009",
+      "source": "pdf_text",
+      "caption_id": "txt_0213"
     },
     {
       "type": "caption",
@@ -198,6 +354,20 @@
         "b": 139.61763999999994
       },
       "content": "Table 2: Situations when the pump is or is not frostproof",
+      "section_id": "sec_auto_238",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_238",
+          "title": "Frostproofing"
+        }
+      ],
+      "page": 14,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_tbl_0009",
+      "source": "pdf_text",
       "caption_for": "tbl_0009"
     }
   ],

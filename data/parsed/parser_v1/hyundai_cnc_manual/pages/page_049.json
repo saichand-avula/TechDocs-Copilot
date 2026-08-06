@@ -18,8 +18,21 @@
         "b": 755.7829409281768
       },
       "content": "5-2. SUPER KIATURN 100 Hollow Chuck (6',  0165)",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "5",
+      "section_id": "sec_5",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5-2. SUPER KIATURN 100 Hollow Chuck (6',  0165)"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 49,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -34,7 +47,20 @@
       },
       "markdown": "| Name     | Manufacturer    |\n|----------|-----------------|\n| Chuck    | SAMCHUNREE, SMI |\n| Cylinder | SAMCHUNREE. SMI |",
       "rows": 3,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_5",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5-2. SUPER KIATURN 100 Hollow Chuck (6',  0165)"
+        }
+      ],
+      "page": 49,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -48,8 +74,21 @@
         "b": 651.8030489281768
       },
       "content": "5-2-1. Connecting Parts for Rotary Cylinder",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "5",
+      "section_id": "sec_5",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5-2-1. Connecting Parts for Rotary Cylinder"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 49,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -67,7 +106,20 @@
       "next_block_id": "txt_0279",
       "image_hash": "5ca8dd5a2296cc9588036e0b23d0f8174dabbcb94334ae58966b3b4fa2850b96",
       "width": 439,
-      "height": 258
+      "height": 258,
+      "section_id": "sec_5",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5-2-1. Connecting Parts for Rotary Cylinder"
+        }
+      ],
+      "page": 49,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "caption",
@@ -81,6 +133,20 @@
         "b": 362.7841649281769
       },
       "content": "Fig. 3-7  Connecting Parts for Cylinder",
+      "section_id": "sec_5",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5-2-1. Connecting Parts for Rotary Cylinder"
+        }
+      ],
+      "page": 49,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_tbl_0019",
+      "source": "pdf_text",
       "caption_for": "tbl_0019"
     },
     {
@@ -95,9 +161,23 @@
         "b": 152.76837158203125
       },
       "markdown": "|   No. | Item               | Item No.      | Item No.      | Qty.   | Remarks    | Remarks   |\n|-------|--------------------|---------------|---------------|--------|------------|-----------|\n|       |                    | SAMCHUNREE    | SMI           | Qty.   | SAMCHUNREE | SMI       |\n|     1 | Hydraulic Cylinder | 1680-11-302-0 | 1344-11-101-3 | 1      | SYH1239    | HHH35CA6  |\n|     2 | Cylinder Flange    | 1680-11-304-0 | 1344-11-313-0 | 1      |            |           |\n|     3 | SCREW, HEX S/C     | SM1101010030  | SM1101010030  | 12     | M10 x 30L  |           |\n|     4 | Draw Tube          | 1680-11-303-0 | 1654-11-306-0 | 1      |            |           |\n|     5 | Chuck              | 1680-11-301-0 | 1344-11-205-1 | 1      | HAS-06     | HH037M6   |\n|     6 | Soft Jaw           | 1674-11-317-0 | KK007003      | 1 SET  |            |           |",
-      "caption_id": "txt_0279",
       "rows": 8,
-      "cols": 7
+      "cols": 7,
+      "section_id": "sec_5",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5-2-1. Connecting Parts for Rotary Cylinder"
+        }
+      ],
+      "page": 49,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "group_id": "grp_tbl_0019",
+      "source": "pdf_text",
+      "caption_id": "txt_0279"
     }
   ],
   "page_stats": {

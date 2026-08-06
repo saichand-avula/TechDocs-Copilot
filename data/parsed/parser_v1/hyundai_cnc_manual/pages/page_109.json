@@ -18,8 +18,21 @@
         "b": 746.7829409281768
       },
       "content": "2-2. Check and Repair Items",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "2",
+      "section_id": "sec_2",
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-2. Check and Repair Items"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 109,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -34,7 +47,20 @@
       },
       "markdown": "| Period                                                   | Checking and Repairing period   | Checking and Repairing period   | Checking and Repairing period      | Checking and Repairing period   | Checking and Repairing period   | Checking and Repairing period   | Reference   |\n|----------------------------------------------------------|---------------------------------|---------------------------------|------------------------------------|---------------------------------|---------------------------------|---------------------------------|-------------|\n| Item                                                     | Daily                           | Weekly                          | Monthly                            | Six- monthly                    | Yearly                          | Biennially                      | Reference   |\n| 1. Remove chips inside the machine                       | {                               |                                 |                                    |                                 |                                 |                                 | 2-3-1       |\n| 2. Remove chips above the tool post                      | {                               |                                 |                                    |                                 |                                 |                                 | 2-3-1       |\n| 3. Remove chips above the tail stock                     | {                               |                                 |                                    |                                 |                                 |                                 | 2-3-1       |\n| 4. Remove chips from each slider cover                   | {                               |                                 |                                    |                                 |                                 |                                 | 2-3-1       |\n| 5. Clean coolant nozzle                                  |                                 |                                 | { (if clogged)                     |                                 |                                 |                                 | 3-6-3       |\n| 6. Treatment of chip                                     | {                               |                                 |                                    |                                 |                                 |                                 | 2-3-1       |\n| 7. Clean coolant tank                                    | {                               |                                 |                                    |                                 |                                 |                                 | 3-6-2       |\n| 8. Coolant filter                                        |                                 | {                               |                                    |                                 |                                 |                                 | 3-6-2       |\n| 9. Check the hydraulic oil flow                          | {                               |                                 |                                    |                                 |                                 |                                 | 2-3-3       |\n| 10. Check the coolant flow                               | z                               |                                 |                                    |                                 |                                 |                                 | 2-3-3       |\n| 11. Check the lubricating flow                           | {                               |                                 |                                    |                                 |                                 |                                 | 2-3-3       |\n| 12. Hydraulic oil pressure 35 kgf/cm 2                   | {                               |                                 |                                    |                                 |                                 |                                 | 2-3-4       |\n| 13. Check the lubricating oil supply                     | z                               |                                 |                                    |                                 |                                 |                                 | 3-5-1       |\n| 14. Check the coolant supply                             | {                               |                                 |                                    |                                 |                                 |                                 | 3-6-1       |\n| 15. Hydraulic oil strainer                               |                                 |                                 |                                    |                                 | {                               |                                 | 3-4-2       |\n| 16. Lubricating pump filter                              |                                 |                                 |                                    |                                 | {                               |                                 | 3-5-2       |\n| 17. Clean around the machine                             | {                               |                                 |                                    |                                 |                                 |                                 | 2-3-1       |\n| 18. Oil leakage                                          | {                               |                                 |                                    |                                 |                                 |                                 | 2-3-3       |\n| 19. Remove the tool chip and check if damaged and broken | {                               |                                 |                                    |                                 |                                 |                                 | 2-4-2       |\n| 20. Loosen bolt                                          |                                 | {                               |                                    |                                 |                                 |                                 |             |\n| 21. Turret tool sank                                     |                                 | {                               |                                    |                                 |                                 |                                 | 2-4-2       |\n| 22. Check Operating Panel                                |                                 | {                               |                                    |                                 |                                 |                                 |             |\n| 23. Clean the Electric Panel                             |                                 | {                               |                                    |                                 |                                 |                                 |             |\n| 24. Operation of emergency stop switch                   |                                 | {                               |                                    |                                 |                                 |                                 |             |\n| 25. Vibration, noise and increased temperature           |                                 | {                               |                                    |                                 |                                 |                                 |             |\n| 26. Check the operation of safety device                 |                                 |                                 |                                    | z                               |                                 |                                 |             |\n| 27. Check the tension of spindle belt                    |                                 |                                 | ( { ) one month after installation | {                               |                                 |                                 | 2-6-2       |",
       "rows": 29,
-      "cols": 8
+      "cols": 8,
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-2. Check and Repair Items"
+        }
+      ],
+      "page": 109,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "admonition",
@@ -48,7 +74,20 @@
         "t": 738.674768,
         "r": 402.385608,
         "b": 729.8030489281768
-      }
+      },
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-2. Check and Repair Items"
+        }
+      ],
+      "page": 109,
+      "chunk_hint": "admonition",
+      "semantic_role": "note",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -61,7 +100,20 @@
         "r": 496.7455259999999,
         "b": 712.8229409281769
       },
-      "content": "z CRT display"
+      "content": "z CRT display",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-2. Check and Repair Items"
+        }
+      ],
+      "page": 109,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

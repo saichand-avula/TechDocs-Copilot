@@ -18,9 +18,27 @@
         "b": 438.2535400390625
       },
       "markdown": "| Table 6-1. Warning Messages   | Table 6-1. Warning Messages                                                                                                             | Table 6-1. Warning Messages               |\n|-------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|\n| Message                       | Possible Cause                                                                                                                          | Corrective Action                         |\n| Stop delivery, then turn off  | Attempting to turn off the infuser while a delivery is in progress                                                                      | Stop all lines, then turn off the infuser |\n| Warning: Low Battery          | Battery is discharged so that only approximately 30 minutes of battery life remains                                                     | Plug into AC power                        |\n| Warning: Replace Battery      | Battery service needed Battery voltage is less than the depleted threshold and the charge level is higher than the low charge threshold | Replace the battery                       |\n| Warning: Charger Service      | A hardware problem with the battery charging circuit is detected Charging circuitry is not behaving as expected                         | Press the SILENCE key                     |",
-      "caption_id": "txt_0758",
       "rows": 6,
-      "cols": 3
+      "cols": 3,
+      "section_id": "sec_6_2",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_6_2",
+          "title": "6.2 WARNING MESSAGES"
+        }
+      ],
+      "page": 76,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "group_id": "grp_tbl_0024",
+      "source": "pdf_text",
+      "caption_id": "txt_0758"
     },
     {
       "type": "heading",
@@ -35,7 +53,24 @@
       },
       "content": "6.3 ALARM MESSAGES AND ERROR CODES",
       "level": 2,
-      "role": "section"
+      "section_number": "6.3",
+      "section_id": "sec_6_3",
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_6_3",
+          "title": "6.3 ALARM MESSAGES AND ERROR CODES"
+        }
+      ],
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "page": 76,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -48,7 +83,24 @@
         "r": 503.9854541198998,
         "b": 337.12750488003275
       },
-      "content": "Under most alarm conditions the infuser ceases normal operation, generates an audible alarm, and displays an alarm message or error code on the LCD screen."
+      "content": "Under most alarm conditions the infuser ceases normal operation, generates an audible alarm, and displays an alarm message or error code on the LCD screen.",
+      "section_id": "sec_6_3",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_6_3",
+          "title": "6.3 ALARM MESSAGES AND ERROR CODES"
+        }
+      ],
+      "page": 76,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -61,7 +113,24 @@
         "r": 268.3365975248998,
         "b": 313.12776518393275
       },
-      "content": "There are two types of alarm conditions:"
+      "content": "There are two types of alarm conditions:",
+      "section_id": "sec_6_3",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_6_3",
+          "title": "6.3 ALARM MESSAGES AND ERROR CODES"
+        }
+      ],
+      "page": 76,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -74,7 +143,24 @@
         "r": 323.3686407779001,
         "b": 295.12793551183273
       },
-      "content": "-alarm codes that can be cleared by the operator"
+      "content": "-alarm codes that can be cleared by the operator",
+      "section_id": "sec_6_3",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_6_3",
+          "title": "6.3 ALARM MESSAGES AND ERROR CODES"
+        }
+      ],
+      "page": 76,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -87,7 +173,24 @@
         "r": 338.60745607790045,
         "b": 277.7278976419327
       },
-      "content": "-error codes that require qualified service personnel"
+      "content": "-error codes that require qualified service personnel",
+      "section_id": "sec_6_3",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_6_3",
+          "title": "6.3 ALARM MESSAGES AND ERROR CODES"
+        }
+      ],
+      "page": 76,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -101,8 +204,29 @@
         "b": 226.34302588772732
       },
       "content": "6.3.1 OPERATIONAL ALARM MESSAGES",
-      "level": 2,
-      "role": "section"
+      "level": 3,
+      "section_number": "6.3.1",
+      "section_id": "sec_6_3_1",
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_6_3",
+          "title": "6.3 ALARM MESSAGES AND ERROR CODES"
+        },
+        {
+          "id": "sec_6_3_1",
+          "title": "6.3.1 OPERATIONAL ALARM MESSAGES"
+        }
+      ],
+      "parent_section_id": "sec_6_3",
+      "section_level": 3,
+      "page": 76,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "caption",
@@ -116,6 +240,28 @@
         "b": 191.26761488003285
       },
       "content": "Table 6-2 lists  infuser  alarm  codes that can be cleared by the operator. Also listed in Table 6-2 are the alarm messages, descriptions, possible causes, and corrective actions.",
+      "section_id": "sec_6_3_1",
+      "parent_section_id": "sec_6_3",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_6_3",
+          "title": "6.3 ALARM MESSAGES AND ERROR CODES"
+        },
+        {
+          "id": "sec_6_3_1",
+          "title": "6.3.1 OPERATIONAL ALARM MESSAGES"
+        }
+      ],
+      "page": 76,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_tbl_0024",
+      "source": "pdf_text",
       "caption_for": "tbl_0024"
     },
     {
@@ -129,7 +275,29 @@
         "r": 504.07406933660025,
         "b": 153.94751488003283
       },
-      "content": " Note: Operational alarm messages are displayed on the LCD screen. Associated error codes are displayed in the alarms log (see Section 1.9.1) ."
+      "content": " Note: Operational alarm messages are displayed on the LCD screen. Associated error codes are displayed in the alarms log (see Section 1.9.1) .",
+      "section_id": "sec_6_3_1",
+      "parent_section_id": "sec_6_3",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_6_3",
+          "title": "6.3 ALARM MESSAGES AND ERROR CODES"
+        },
+        {
+          "id": "sec_6_3_1",
+          "title": "6.3.1 OPERATIONAL ALARM MESSAGES"
+        }
+      ],
+      "page": 76,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text",
+      "group_id": "grp_tbl_0024"
     }
   ],
   "page_stats": {

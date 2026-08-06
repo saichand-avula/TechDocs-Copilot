@@ -19,7 +19,23 @@
       },
       "content": "EMEA",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_7601",
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 Parts and diagrams"
+        },
+        {
+          "id": "sec_auto_7601",
+          "title": "EMEA"
+        }
+      ],
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "page": 716,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "reference",
@@ -32,7 +48,24 @@
         "r": 294.17000999999993,
         "b": 701.7
       },
-      "content": "https://support.hp.com/wise/home/emea-en"
+      "content": "https://support.hp.com/wise/home/emea-en",
+      "section_id": "sec_auto_7601",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 Parts and diagrams"
+        },
+        {
+          "id": "sec_auto_7601",
+          "title": "EMEA"
+        }
+      ],
+      "page": 716,
+      "chunk_hint": "reference",
+      "semantic_role": "reference",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

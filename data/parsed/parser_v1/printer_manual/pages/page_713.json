@@ -22,6 +22,24 @@
       "table_number": "Table 2-3",
       "rows": 20,
       "cols": 3,
+      "section_id": "sec_auto_7549",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 Parts and diagrams"
+        },
+        {
+          "id": "sec_auto_7549",
+          "title": "Supplies and accessories"
+        }
+      ],
+      "page": 713,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "group_id": "grp_tbl_0055",
+      "source": "pdf_text",
       "caption_id": "txt_5476"
     },
     {
@@ -36,6 +54,24 @@
         "b": 722.23
       },
       "content": "Table 2-3  Accessories (continued)",
+      "section_id": "sec_auto_7549",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 Parts and diagrams"
+        },
+        {
+          "id": "sec_auto_7549",
+          "title": "Supplies and accessories"
+        }
+      ],
+      "page": 713,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_tbl_0055",
+      "source": "pdf_text",
       "caption_for": "tbl_0055"
     },
     {
@@ -51,7 +87,23 @@
       },
       "content": "Customer self-repair kits",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_7563",
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 Parts and diagrams"
+        },
+        {
+          "id": "sec_auto_7563",
+          "title": "Customer self-repair kits"
+        }
+      ],
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "page": 713,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -64,7 +116,24 @@
         "r": 365.16201,
         "b": 87.07500000000005
       },
-      "content": "Following are the available customer self-repair kits part numbers."
+      "content": "Following are the available customer self-repair kits part numbers.",
+      "section_id": "sec_auto_7563",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 Parts and diagrams"
+        },
+        {
+          "id": "sec_auto_7563",
+          "title": "Customer self-repair kits"
+        }
+      ],
+      "page": 713,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

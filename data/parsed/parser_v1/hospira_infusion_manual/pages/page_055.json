@@ -19,12 +19,30 @@
       },
       "image_path": "figures/figure_0025.png",
       "next_block_id": "txt_0461",
-      "caption_id": "txt_0461",
       "caption": ". Fluid Path in the Cassette",
       "figure_number": "Figure 4-7",
       "image_hash": "4dae06b19fb10d8807a85618d7576b8d701cf788f64bd300d5f11f7a749237f0",
       "width": 395,
-      "height": 320
+      "height": 320,
+      "section_id": "sec_4_5_1",
+      "parent_section_id": "sec_4_5",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_4_5",
+          "title": "4.5 MECHANICAL OVERVIEW"
+        },
+        {
+          "id": "sec_4_5_1",
+          "title": "4.5.1 CASSETTE"
+        }
+      ],
+      "page": 55,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0025",
+      "source": "pdf_text",
+      "caption_id": "txt_0461"
     },
     {
       "type": "caption",
@@ -38,6 +56,24 @@
         "b": 378.51826793000004
       },
       "content": "Figure 4-7. Fluid Path in the Cassette",
+      "section_id": "sec_4_5_1",
+      "parent_section_id": "sec_4_5",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_4_5",
+          "title": "4.5 MECHANICAL OVERVIEW"
+        },
+        {
+          "id": "sec_4_5_1",
+          "title": "4.5.1 CASSETTE"
+        }
+      ],
+      "page": 55,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0025",
+      "source": "pdf_text",
       "caption_for": "fig_0025"
     },
     {
@@ -52,8 +88,25 @@
         "b": 322.52291588772727
       },
       "content": "4.5.2 MECHANISM ASSEMBLY",
-      "level": 2,
-      "role": "section"
+      "level": 3,
+      "section_number": "4.5.2",
+      "section_id": "sec_4_5_2",
+      "section_path": [
+        {
+          "id": "sec_4_5",
+          "title": "4.5 MECHANICAL OVERVIEW"
+        },
+        {
+          "id": "sec_4_5_2",
+          "title": "4.5.2 MECHANISM ASSEMBLY"
+        }
+      ],
+      "parent_section_id": "sec_4_5",
+      "section_level": 3,
+      "page": 55,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -66,7 +119,24 @@
         "r": 540.0603533951003,
         "b": 251.44805473603276
       },
-      "content": "The mechanism assembly is a fully self-contained unit consisting of the motor and valve assemblies, A/B valve subsystem, inlet/outlet valve subsystem, plunger drive subsystem, air bubble (ultrasonic) sensor assemblies, cassette door, and pressure sensor assemblies. The  motor  and  valve  assemblies,  A/B  valve  subsystem,  inlet/outlet  valve  subsystem, and plunger drive subsystem are detailed in the following sections."
+      "content": "The mechanism assembly is a fully self-contained unit consisting of the motor and valve assemblies, A/B valve subsystem, inlet/outlet valve subsystem, plunger drive subsystem, air bubble (ultrasonic) sensor assemblies, cassette door, and pressure sensor assemblies. The  motor  and  valve  assemblies,  A/B  valve  subsystem,  inlet/outlet  valve  subsystem, and plunger drive subsystem are detailed in the following sections.",
+      "section_id": "sec_4_5_2",
+      "parent_section_id": "sec_4_5",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_4_5",
+          "title": "4.5 MECHANICAL OVERVIEW"
+        },
+        {
+          "id": "sec_4_5_2",
+          "title": "4.5.2 MECHANISM ASSEMBLY"
+        }
+      ],
+      "page": 55,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -79,7 +149,24 @@
         "r": 540.0450149797008,
         "b": 191.44885489593275
       },
-      "content": "During infuser operation, the mechanism assembly plunger motor drives a lead screw that is coupled to the plunger. The motor action and lead screw move the plunger forward to cause the delivery of approximately 0.33 mL of fluid per cycle. The plunger motion is synchronized to the valve motors to provide controlled fluid delivery."
+      "content": "During infuser operation, the mechanism assembly plunger motor drives a lead screw that is coupled to the plunger. The motor action and lead screw move the plunger forward to cause the delivery of approximately 0.33 mL of fluid per cycle. The plunger motion is synchronized to the valve motors to provide controlled fluid delivery.",
+      "section_id": "sec_4_5_2",
+      "parent_section_id": "sec_4_5",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_4_5",
+          "title": "4.5 MECHANICAL OVERVIEW"
+        },
+        {
+          "id": "sec_4_5_2",
+          "title": "4.5.2 MECHANISM ASSEMBLY"
+        }
+      ],
+      "page": 55,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -93,8 +180,29 @@
         "b": 159.05006062366033
       },
       "content": "4.5.2.1",
-      "level": 2,
-      "role": "section"
+      "level": 4,
+      "section_number": "4.5.2.1",
+      "section_id": "sec_4_5_2_1",
+      "section_path": [
+        {
+          "id": "sec_4_5",
+          "title": "4.5 MECHANICAL OVERVIEW"
+        },
+        {
+          "id": "sec_4_5_2",
+          "title": "4.5.2 MECHANISM ASSEMBLY"
+        },
+        {
+          "id": "sec_4_5_2_1",
+          "title": "4.5.2.1"
+        }
+      ],
+      "parent_section_id": "sec_4_5_2",
+      "section_level": 4,
+      "page": 55,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -109,7 +217,19 @@
       },
       "content": "MOTOR AND VALVE ASSEMBLIES",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_511",
+      "section_path": [
+        {
+          "id": "sec_auto_511",
+          "title": "MOTOR AND VALVE ASSEMBLIES"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 2,
+      "page": 55,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -122,7 +242,20 @@
         "r": 540.1246950597006,
         "b": 71.44815473603273
       },
-      "content": "The mechanism assembly pumping action is controlled by three stepper motors. The first stepper motor, in conjunction with an associated valve assembly, activates the A valve or the  B  valve  of  the  cassette,  depending  on  the  command.  The  second  stepper  motor alternately opens and closes the inlet and outlet valve to control fluid delivery through the cassette pumping chamber. A third stepper motor controls plunger movement."
+      "content": "The mechanism assembly pumping action is controlled by three stepper motors. The first stepper motor, in conjunction with an associated valve assembly, activates the A valve or the  B  valve  of  the  cassette,  depending  on  the  command.  The  second  stepper  motor alternately opens and closes the inlet and outlet valve to control fluid delivery through the cassette pumping chamber. A third stepper motor controls plunger movement.",
+      "section_id": "sec_auto_511",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_511",
+          "title": "MOTOR AND VALVE ASSEMBLIES"
+        }
+      ],
+      "page": 55,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

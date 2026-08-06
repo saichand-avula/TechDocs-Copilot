@@ -21,7 +21,24 @@
       "next_block_id": "txt_0685",
       "width": 47,
       "height": 22,
-      "image_hash": "7577891dcf1743bd2e7a735ef2621e01244d960bde43e28868c27d7c1437ddb9"
+      "image_hash": "7577891dcf1743bd2e7a735ef2621e01244d960bde43e28868c27d7c1437ddb9",
+      "section_id": "sec_6_1",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6       Installation"
+        },
+        {
+          "id": "sec_6_1",
+          "title": "6.1     Dimension drawings"
+        }
+      ],
+      "page": 96,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -36,7 +53,24 @@
       },
       "content": "6.2    Installation proposal",
       "level": 2,
-      "role": "section"
+      "section_number": "6.2",
+      "section_id": "sec_6_2",
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6       Installation"
+        },
+        {
+          "id": "sec_6_2",
+          "title": "6.2    Installation proposal"
+        }
+      ],
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "page": 96,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -51,7 +85,23 @@
       },
       "content": "Compressor room example",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1024",
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6       Installation"
+        },
+        {
+          "id": "sec_auto_1024",
+          "title": "Compressor room example"
+        }
+      ],
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "page": 96,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -67,11 +117,29 @@
       "image_path": "figures/figure_0259.png",
       "previous_block_id": "txt_0686",
       "next_block_id": "txt_0687",
-      "caption_id": "txt_0687",
       "caption": "Compressor room example",
       "image_hash": "7ad0dccb5e5ca9ff4fb40e0dfb0a5fa157249b78096c7aa699e4d149b024b7ae",
       "width": 455,
-      "height": 513
+      "height": 513,
+      "section_id": "sec_auto_1024",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6       Installation"
+        },
+        {
+          "id": "sec_auto_1024",
+          "title": "Compressor room example"
+        }
+      ],
+      "page": 96,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0259",
+      "source": "pdf_text",
+      "caption_id": "txt_0687"
     },
     {
       "type": "caption",
@@ -85,6 +153,24 @@
         "b": 145.84000000000003
       },
       "content": "Compressor room example",
+      "section_id": "sec_auto_1024",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6       Installation"
+        },
+        {
+          "id": "sec_auto_1024",
+          "title": "Compressor room example"
+        }
+      ],
+      "page": 96,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0259",
+      "source": "pdf_text",
       "caption_for": "fig_0259"
     }
   ],

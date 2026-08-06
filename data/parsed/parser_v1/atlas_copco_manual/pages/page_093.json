@@ -19,7 +19,23 @@
       },
       "content": "Data for low temperature rise/high water flow systems",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1009",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5       Energy recovery (optional)"
+        },
+        {
+          "id": "sec_auto_1009",
+          "title": "Data for low temperature rise/high water flow systems"
+        }
+      ],
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "page": 93,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -34,7 +50,24 @@
       },
       "markdown": "| Parameter             | Unit   |   GA37+ |   GA45+ |   GA55 |   GA75 |\n|-----------------------|--------|---------|---------|--------|--------|\n| Recoverable energy    | kW     |    32.5 |    39.6 |   48.4 |     66 |\n| Water flow            | l/min  |    46.6 |    56.7 |   69.3 |   94.5 |\n| Temperature at inlet  | °C     |      50 |      50 |     50 |     50 |\n| Temperature at outlet | °C     |      60 |      60 |     60 |     60 |",
       "rows": 5,
-      "cols": 6
+      "cols": 6,
+      "section_id": "sec_auto_1009",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5       Energy recovery (optional)"
+        },
+        {
+          "id": "sec_auto_1009",
+          "title": "Data for low temperature rise/high water flow systems"
+        }
+      ],
+      "page": 93,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -49,7 +82,23 @@
       },
       "content": "Data for high temperature rise/low water flow systems",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1011",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5       Energy recovery (optional)"
+        },
+        {
+          "id": "sec_auto_1011",
+          "title": "Data for high temperature rise/low water flow systems"
+        }
+      ],
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "page": 93,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -64,7 +113,24 @@
       },
       "markdown": "| Parameter             | Unit   |   GA37+ |   GA45+ |   GA55 |   GA75 |\n|-----------------------|--------|---------|---------|--------|--------|\n| Recoverable energy    | kW     |    32.5 |    39.6 |   48.4 |     66 |\n| Water flow            | l/min  |    46.6 |    56.7 |   69.3 |   94.5 |\n| Temperature at inlet  | °C     |      50 |      50 |     50 |     50 |\n| Temperature at outlet | °C     |      60 |      60 |     60 |     60 |",
       "rows": 5,
-      "cols": 6
+      "cols": 6,
+      "section_id": "sec_auto_1011",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5       Energy recovery (optional)"
+        },
+        {
+          "id": "sec_auto_1011",
+          "title": "Data for high temperature rise/low water flow systems"
+        }
+      ],
+      "page": 93,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -81,7 +147,24 @@
       "previous_block_id": "txt_0680",
       "image_hash": "b28a1d23de5124d82d6f84120acacff249829ec0e42f4c826059a188d93e4d2e",
       "width": 48,
-      "height": 23
+      "height": 23,
+      "section_id": "sec_auto_1011",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5       Energy recovery (optional)"
+        },
+        {
+          "id": "sec_auto_1011",
+          "title": "Data for high temperature rise/low water flow systems"
+        }
+      ],
+      "page": 93,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

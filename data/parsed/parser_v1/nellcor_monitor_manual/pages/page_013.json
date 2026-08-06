@@ -18,9 +18,23 @@
         "b": 376.9994201660156
       },
       "markdown": "|   1 | ECG/Respiration Connector   |\n|-----|-----------------------------|\n|   2 | SpO2 Connector              |\n|   3 | NIBP Connector              |\n|   4 | Temperature Connector (T2)  |\n|   5 | Temperature Connector (T1)  |",
-      "caption_id": "txt_0104",
       "rows": 5,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_1_3",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1_3",
+          "title": "1.3 Description of the N5500 Patient Monitor"
+        }
+      ],
+      "page": 13,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "group_id": "grp_tbl_0004",
+      "source": "pdf_text",
+      "caption_id": "txt_0104"
     },
     {
       "type": "figure",
@@ -37,7 +51,20 @@
       "next_block_id": "txt_0104",
       "image_hash": "73b007bdb32bf5d200f16f24b37b4f32a3fca920cdf1d6f47d49f62fb3bd46c8",
       "width": 205,
-      "height": 304
+      "height": 304,
+      "section_id": "sec_1_3",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1_3",
+          "title": "1.3 Description of the N5500 Patient Monitor"
+        }
+      ],
+      "page": 13,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "caption",
@@ -51,6 +78,20 @@
         "b": 358.655862784027
       },
       "content": "Figure 3. N5500 Right Side Panel",
+      "section_id": "sec_1_3",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1_3",
+          "title": "1.3 Description of the N5500 Patient Monitor"
+        }
+      ],
+      "page": 13,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_tbl_0004",
+      "source": "pdf_text",
       "caption_for": "tbl_0004"
     },
     {
@@ -67,12 +108,26 @@
       "image_path": "figures/figure_0026.png",
       "previous_block_id": "txt_0104",
       "next_block_id": "txt_0105",
-      "caption_id": "txt_0105",
       "caption": ". N5500 Left Side Panel",
       "figure_number": "Figure 4",
       "image_hash": "6987754323091f05eb964f6466531f90ae29ae779b365e284e920cc3004b413b",
       "width": 218,
-      "height": 226
+      "height": 226,
+      "section_id": "sec_1_3",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1_3",
+          "title": "1.3 Description of the N5500 Patient Monitor"
+        }
+      ],
+      "page": 13,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0026",
+      "source": "pdf_text",
+      "caption_id": "txt_0105"
     },
     {
       "type": "caption",
@@ -86,6 +141,20 @@
         "b": 99.90586278402702
       },
       "content": "Figure 4. N5500 Left Side Panel",
+      "section_id": "sec_1_3",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1_3",
+          "title": "1.3 Description of the N5500 Patient Monitor"
+        }
+      ],
+      "page": 13,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0026",
+      "source": "pdf_text",
       "caption_for": "fig_0026"
     }
   ],

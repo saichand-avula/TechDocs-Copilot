@@ -19,7 +19,23 @@
       },
       "content": "FLOW CHART C. ENGINE STARTS BUT STOPS AFTER RUNNING SEVERAL SECONDS",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_262",
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3. Engine Controls"
+        },
+        {
+          "id": "sec_auto_262",
+          "title": "FLOW CHART C. ENGINE STARTS BUT STOPS AFTER RUNNING SEVERAL SECONDS"
+        }
+      ],
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "page": 19,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -32,7 +48,24 @@
         "r": 562.0317,
         "b": 677.7854519502827
       },
-      "content": "Many troubleshooting procedures present hazards that can result in severe personal injury or death.  Only qualified service personnel with knowledge of fuels, electricity, and machinery hazards should perform service procedures.  Review Safety Precautions. WARNING"
+      "content": "Many troubleshooting procedures present hazards that can result in severe personal injury or death.  Only qualified service personnel with knowledge of fuels, electricity, and machinery hazards should perform service procedures.  Review Safety Precautions. WARNING",
+      "section_id": "sec_auto_262",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3. Engine Controls"
+        },
+        {
+          "id": "sec_auto_262",
+          "title": "FLOW CHART C. ENGINE STARTS BUT STOPS AFTER RUNNING SEVERAL SECONDS"
+        }
+      ],
+      "page": 19,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -49,7 +82,24 @@
       "previous_block_id": "txt_0255",
       "image_hash": "07217540b13c3331ffb7e7f63d561e1a0dee8912da2f928092bd1bd29fe4506f",
       "width": 512,
-      "height": 218
+      "height": 218,
+      "section_id": "sec_auto_262",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3. Engine Controls"
+        },
+        {
+          "id": "sec_auto_262",
+          "title": "FLOW CHART C. ENGINE STARTS BUT STOPS AFTER RUNNING SEVERAL SECONDS"
+        }
+      ],
+      "page": 19,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

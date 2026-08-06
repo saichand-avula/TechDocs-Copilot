@@ -19,7 +19,24 @@
       },
       "content": "9.9    Compliance",
       "level": 2,
-      "role": "section"
+      "section_number": "9.9",
+      "section_id": "sec_9_9",
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6. Turn monitor off."
+        },
+        {
+          "id": "sec_9_9",
+          "title": "9.9    Compliance"
+        }
+      ],
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "page": 85,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -34,7 +51,24 @@
       },
       "markdown": "| Item                        | Compliant with                                                                                                                                                                                                                                                                                                   |\n|-----------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Classification              | Class I (on AC power) Internally powered (on battery power)                                                                                                                                                                                                                                                      |\n| Type of protection          | Type CF - Applied part                                                                                                                                                                                                                                                                                           |\n| Mode of operation           | Continuous                                                                                                                                                                                                                                                                                                       |\n| Resistant to liquid         | Class IPX1 Drip-proof equipment                                                                                                                                                                                                                                                                                  |\n| General Safety              | IEC60601-1:1998+A1:1991+A2:1995 General requirements for Safety and Essential Performance                                                                                                                                                                                                                        |\n| Alarms Electrocardiograph   | EN475:1995 Electrically - generated alarm signals IEC60601-1-8:2001 Draft Alarm systems requirements, tests and guidances in medical electrical equipments systems IEC60601-2-27:1994 Particular requirements for the safety of Electrocardiographic monitoring equipment                                        |\n|                             | AAMI SP10:1992+A1:1996 Electronic or Automated Sphygmomanometers EN1060-1:1995 Non-invasive sphygmomanometers EN1060-3:1997 Supplementary requirements for electrical-mechanical blood pressure measuring systems IEC60601-2-30:1999 Particular requirements for the Safety, including essential performance, of |\n| Non-invasive Blood Pressure | automatic cycling indirect blood pressure monitoring equipment                                                                                                                                                                                                                                                   |\n|                             | EN865:1997 Pulse oximeters, Particular requirements ASTM F 1415:1992 Standard specification for Pulse oximeters ISO9919:1992 Pulse oximeters for medical use-requirements ISO/W 9919:2001 Draft use                                                                                                              |\n| Oxygen saturation           | Basic safety & essential performance of Pulse oximeter for medical                                                                                                                                                                                                                                               |\n| Temperature monitoring      | EN12470-4:2001 Performance of Electrical Thermometers for continuous Measurement                                                                                                                                                                                                                                 |",
       "rows": 12,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_9_9",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6. Turn monitor off."
+        },
+        {
+          "id": "sec_9_9",
+          "title": "9.9    Compliance"
+        }
+      ],
+      "page": 85,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

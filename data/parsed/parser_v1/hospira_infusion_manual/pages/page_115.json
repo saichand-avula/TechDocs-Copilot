@@ -18,8 +18,33 @@
         "b": 728.8081433057852
       },
       "content": "7.2.12.1",
-      "level": 2,
-      "role": "section"
+      "level": 4,
+      "section_number": "7.2.12.1",
+      "section_id": "sec_7_2_12_1",
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_auto_1156",
+          "title": "Spring, Clutch, Minipole"
+        },
+        {
+          "id": "sec_7_2_12",
+          "title": "7.2.12 MAIN CHASSIS ASSEMBLY COMPONENT REPLACEMENT"
+        },
+        {
+          "id": "sec_7_2_12_1",
+          "title": "7.2.12.1"
+        }
+      ],
+      "parent_section_id": "sec_7_2_12",
+      "section_level": 4,
+      "page": 115,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -34,7 +59,23 @@
       },
       "content": "POWER SUPPLY PWA REPLACEMENT",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1168",
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_auto_1168",
+          "title": "POWER SUPPLY PWA REPLACEMENT"
+        }
+      ],
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "page": 115,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -47,7 +88,24 @@
         "r": 505.49463599999956,
         "b": 691.2473370491804
       },
-      "content": "The recommended tool for this procedure is a medium size flat blade screwdriver."
+      "content": "The recommended tool for this procedure is a medium size flat blade screwdriver.",
+      "section_id": "sec_auto_1168",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_auto_1168",
+          "title": "POWER SUPPLY PWA REPLACEMENT"
+        }
+      ],
+      "page": 115,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -60,7 +118,24 @@
         "r": 330.0960479999997,
         "b": 667.2477210491804
       },
-      "content": "The replacement parts for this procedure are:"
+      "content": "The replacement parts for this procedure are:",
+      "section_id": "sec_auto_1168",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_auto_1168",
+          "title": "POWER SUPPLY PWA REPLACEMENT"
+        }
+      ],
+      "page": 115,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -73,7 +148,24 @@
         "r": 331.90976399999977,
         "b": 635.3473840327869
       },
-      "content": "PWA, Power Supply Assembly, Cable, Power Supply/Battery"
+      "content": "PWA, Power Supply Assembly, Cable, Power Supply/Battery",
+      "section_id": "sec_auto_1168",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_auto_1168",
+          "title": "POWER SUPPLY PWA REPLACEMENT"
+        }
+      ],
+      "page": 115,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -86,7 +178,24 @@
         "r": 325.510464,
         "b": 621.3675280327868
       },
-      "content": "Assembly, Cable, Power Supply/Driver"
+      "content": "Assembly, Cable, Power Supply/Driver",
+      "section_id": "sec_auto_1168",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_auto_1168",
+          "title": "POWER SUPPLY PWA REPLACEMENT"
+        }
+      ],
+      "page": 115,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "admonition",
@@ -100,7 +209,24 @@
         "b": 571.3616763093622
       },
       "content": "CAUTION: Use  proper  ESD  grounding  techniques  when  handling  components. Wear an antistatic wrist strap and use an ESD-protected workstation. Store the PWA in an antistatic bag before placing it on any surface.",
-      "severity": "caution"
+      "severity": "caution",
+      "section_id": "sec_auto_1168",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_auto_1168",
+          "title": "POWER SUPPLY PWA REPLACEMENT"
+        }
+      ],
+      "page": 115,
+      "chunk_hint": "admonition",
+      "semantic_role": "caution",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -113,7 +239,24 @@
         "r": 369.31753200000065,
         "b": 547.2496410491804
       },
-      "content": "To replace the power supply PWA, proceed as follows:"
+      "content": "To replace the power supply PWA, proceed as follows:",
+      "section_id": "sec_auto_1168",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_auto_1168",
+          "title": "POWER SUPPLY PWA REPLACEMENT"
+        }
+      ],
+      "page": 115,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -126,7 +269,24 @@
         "r": 444.2346599999992,
         "b": 523.2500250491803
       },
-      "content": "Turn off the infuser and disconnect the device from AC power."
+      "content": "Turn off the infuser and disconnect the device from AC power.",
+      "section_id": "sec_auto_1168",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_auto_1168",
+          "title": "POWER SUPPLY PWA REPLACEMENT"
+        }
+      ],
+      "page": 115,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -139,7 +299,24 @@
         "r": 380.0474400000001,
         "b": 507.77019304918025
       },
-      "content": "Remove the battery as described in Section 7.2.4 ."
+      "content": "Remove the battery as described in Section 7.2.4 .",
+      "section_id": "sec_auto_1168",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_auto_1168",
+          "title": "POWER SUPPLY PWA REPLACEMENT"
+        }
+      ],
+      "page": 115,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -152,7 +329,24 @@
         "r": 532.8079440000001,
         "b": 492.35012104918025
       },
-      "content": "Separate the rear enclosure from the main chassis as described in Section 7.2.8 ."
+      "content": "Separate the rear enclosure from the main chassis as described in Section 7.2.8 .",
+      "section_id": "sec_auto_1168",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_auto_1168",
+          "title": "POWER SUPPLY PWA REPLACEMENT"
+        }
+      ],
+      "page": 115,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -165,7 +359,24 @@
         "r": 421.76987999999966,
         "b": 476.93004904918024
       },
-      "content": "Disconnect the battery cable from the power supply PWA."
+      "content": "Disconnect the battery cable from the power supply PWA.",
+      "section_id": "sec_auto_1168",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_auto_1168",
+          "title": "POWER SUPPLY PWA REPLACEMENT"
+        }
+      ],
+      "page": 115,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -178,7 +389,24 @@
         "r": 415.5309360000007,
         "b": 461.45021704918025
       },
-      "content": "Disconnect the driver cable from the power supply PWA."
+      "content": "Disconnect the driver cable from the power supply PWA.",
+      "section_id": "sec_auto_1168",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_auto_1168",
+          "title": "POWER SUPPLY PWA REPLACEMENT"
+        }
+      ],
+      "page": 115,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -191,7 +419,24 @@
         "r": 517.7603760000006,
         "b": 446.03014504918025
       },
-      "content": "Remove the power supply PWA by sliding the board away from the CPU PWA."
+      "content": "Remove the power supply PWA by sliding the board away from the CPU PWA.",
+      "section_id": "sec_auto_1168",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_auto_1168",
+          "title": "POWER SUPPLY PWA REPLACEMENT"
+        }
+      ],
+      "page": 115,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -204,7 +449,24 @@
         "r": 531.6824640000011,
         "b": 430.61007304918024
       },
-      "content": "Install the replacement power supply PWA in the exact reverse order of removal."
+      "content": "Install the replacement power supply PWA in the exact reverse order of removal.",
+      "section_id": "sec_auto_1168",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_auto_1168",
+          "title": "POWER SUPPLY PWA REPLACEMENT"
+        }
+      ],
+      "page": 115,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -217,7 +479,24 @@
         "r": 539.9640720000003,
         "b": 397.78752904918025
       },
-      "content": " Note: Verify the replacement power supply PWA connects to the CPU PWA correctly to avoid misalignment."
+      "content": " Note: Verify the replacement power supply PWA connects to the CPU PWA correctly to avoid misalignment.",
+      "section_id": "sec_auto_1168",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_auto_1168",
+          "title": "POWER SUPPLY PWA REPLACEMENT"
+        }
+      ],
+      "page": 115,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -230,7 +509,24 @@
         "r": 540.0676559999988,
         "b": 366.34779304918027
       },
-      "content": "Join  the  rear  enclosure  and  main  chassis  assembly  in  the  exact  reverse  order of separation."
+      "content": "Join  the  rear  enclosure  and  main  chassis  assembly  in  the  exact  reverse  order of separation.",
+      "section_id": "sec_auto_1168",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_auto_1168",
+          "title": "POWER SUPPLY PWA REPLACEMENT"
+        }
+      ],
+      "page": 115,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -243,7 +539,24 @@
         "r": 420.4689720000002,
         "b": 350.92772104918026
       },
-      "content": "Reinstall the battery and connect the device to AC power."
+      "content": "Reinstall the battery and connect the device to AC power.",
+      "section_id": "sec_auto_1168",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_auto_1168",
+          "title": "POWER SUPPLY PWA REPLACEMENT"
+        }
+      ],
+      "page": 115,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -256,7 +569,24 @@
         "r": 518.9474759999999,
         "b": 331.48779304918025
       },
-      "content": "To verify successful power supply PWA replacement, perform the PVT in Section 5.2 ."
+      "content": "To verify successful power supply PWA replacement, perform the PVT in Section 5.2 .",
+      "section_id": "sec_auto_1168",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_auto_1168",
+          "title": "POWER SUPPLY PWA REPLACEMENT"
+        }
+      ],
+      "page": 115,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -270,8 +600,29 @@
         "b": 285.34634933884297
       },
       "content": "7.2.12.2 KEYPAD REPLACEMENT",
-      "level": 2,
-      "role": "section"
+      "level": 4,
+      "section_number": "7.2.12.2",
+      "section_id": "sec_7_2_12_2",
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_auto_1168",
+          "title": "POWER SUPPLY PWA REPLACEMENT"
+        },
+        {
+          "id": "sec_7_2_12_2",
+          "title": "7.2.12.2 KEYPAD REPLACEMENT"
+        }
+      ],
+      "parent_section_id": "sec_auto_1168",
+      "section_level": 4,
+      "page": 115,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -284,7 +635,28 @@
         "r": 540.015,
         "b": 249.46752904918026
       },
-      "content": "The recommended tools for this procedure are a #2 Phillips screwdriver, medium size flat blade screwdriver, and an X-acto knife."
+      "content": "The recommended tools for this procedure are a #2 Phillips screwdriver, medium size flat blade screwdriver, and an X-acto knife.",
+      "section_id": "sec_7_2_12_2",
+      "parent_section_id": "sec_auto_1168",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_auto_1168",
+          "title": "POWER SUPPLY PWA REPLACEMENT"
+        },
+        {
+          "id": "sec_7_2_12_2",
+          "title": "7.2.12.2 KEYPAD REPLACEMENT"
+        }
+      ],
+      "page": 115,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -297,7 +669,28 @@
         "r": 330.0960479999997,
         "b": 225.4679130491803
       },
-      "content": "The replacement parts for this procedure are:"
+      "content": "The replacement parts for this procedure are:",
+      "section_id": "sec_7_2_12_2",
+      "parent_section_id": "sec_auto_1168",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_auto_1168",
+          "title": "POWER SUPPLY PWA REPLACEMENT"
+        },
+        {
+          "id": "sec_7_2_12_2",
+          "title": "7.2.12.2 KEYPAD REPLACEMENT"
+        }
+      ],
+      "page": 115,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "code",
@@ -310,7 +703,28 @@
         "r": 397.05911999999955,
         "b": 151.62800803278685
       },
-      "content": "Assembly, Keypad Gasket, Ground Spacer Screw, 4-24 x 1/4, Pan Head, Phillips Screw, 4-40 x 3/16, Hex Head, Slotted, with Washer"
+      "content": "Assembly, Keypad Gasket, Ground Spacer Screw, 4-24 x 1/4, Pan Head, Phillips Screw, 4-40 x 3/16, Hex Head, Slotted, with Washer",
+      "section_id": "sec_7_2_12_2",
+      "parent_section_id": "sec_auto_1168",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_auto_1168",
+          "title": "POWER SUPPLY PWA REPLACEMENT"
+        },
+        {
+          "id": "sec_7_2_12_2",
+          "title": "7.2.12.2 KEYPAD REPLACEMENT"
+        }
+      ],
+      "page": 115,
+      "chunk_hint": "continue",
+      "semantic_role": "code",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -324,7 +738,28 @@
         "b": 125.44859704918031
       },
       "content": "To replace the keypad, see Figure 7-12, then proceed as follows:",
-      "hyperlink_hint": true
+      "hyperlink_hint": true,
+      "section_id": "sec_7_2_12_2",
+      "parent_section_id": "sec_auto_1168",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_auto_1168",
+          "title": "POWER SUPPLY PWA REPLACEMENT"
+        },
+        {
+          "id": "sec_7_2_12_2",
+          "title": "7.2.12.2 KEYPAD REPLACEMENT"
+        }
+      ],
+      "page": 115,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -337,7 +772,28 @@
         "r": 444.2346599999993,
         "b": 101.44898104918025
       },
-      "content": "Turn off the infuser and disconnect the device from AC power."
+      "content": "Turn off the infuser and disconnect the device from AC power.",
+      "section_id": "sec_7_2_12_2",
+      "parent_section_id": "sec_auto_1168",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_auto_1168",
+          "title": "POWER SUPPLY PWA REPLACEMENT"
+        },
+        {
+          "id": "sec_7_2_12_2",
+          "title": "7.2.12.2 KEYPAD REPLACEMENT"
+        }
+      ],
+      "page": 115,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -350,7 +806,28 @@
         "r": 380.0474400000001,
         "b": 86.02890904918024
       },
-      "content": "Remove the battery as described in Section 7.2.4 ."
+      "content": "Remove the battery as described in Section 7.2.4 .",
+      "section_id": "sec_7_2_12_2",
+      "parent_section_id": "sec_auto_1168",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_auto_1168",
+          "title": "POWER SUPPLY PWA REPLACEMENT"
+        },
+        {
+          "id": "sec_7_2_12_2",
+          "title": "7.2.12.2 KEYPAD REPLACEMENT"
+        }
+      ],
+      "page": 115,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -363,7 +840,28 @@
         "r": 539.9552399999997,
         "b": 59.148861049180255
       },
-      "content": "Separate  the  front  enclosure,  rear  enclosure,  and  main  chassis  assembly as described in Section 7.2.8 ."
+      "content": "Separate  the  front  enclosure,  rear  enclosure,  and  main  chassis  assembly as described in Section 7.2.8 .",
+      "section_id": "sec_7_2_12_2",
+      "parent_section_id": "sec_auto_1168",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_auto_1168",
+          "title": "POWER SUPPLY PWA REPLACEMENT"
+        },
+        {
+          "id": "sec_7_2_12_2",
+          "title": "7.2.12.2 KEYPAD REPLACEMENT"
+        }
+      ],
+      "page": 115,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

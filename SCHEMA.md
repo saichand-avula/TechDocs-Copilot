@@ -170,7 +170,16 @@ One file per parsed page. Primary consumption unit for the chunker.
 | `type` | string | Block type (see above). |
 | `id` | string | Document-scoped unique ID. Format: `txt_XXXX`, `fig_XXXX`, `tbl_XXXX`. |
 | `reading_order` | int | 0-based global reading-order index. Monotonically increasing across the full document. |
-| `section` | string\|null | Human-readable text of the nearest ancestor heading at parse time. Example: `"Removal and replacement procedures"`. |
+| `page` | int | 1-based page number. Stamped by the post-processor so each block is self-contained without the page envelope. |
+| `section` | string\|null | Human-readable text of the nearest ancestor heading at parse time. Backward-compatible. Prefer `section_path` for new code. |
+| `section_id` | string\|null | Stable ID of the nearest ancestor heading. Format: `"sec_5_2_1"` (numbered headings) or `"sec_auto_{reading_order}"` (unnumbered headings). Suitable as a foreign key. |
+| `parent_section_id` | string\|null | `section_id` of the heading one level up. Enables O(1) parent navigation without walking `section_path`. |
+| `section_level` | int\|null | Depth of the nearest ancestor heading (1 = chapter, 2 = section, 3 = subsection, …). |
+| `section_path` | array\|null | Full ancestor heading chain from the document root to the nearest heading. Each entry: `{"id": "sec_5_2_1", "title": "Outdoor Unit Operation Frequency"}`. Headings include themselves; other blocks reflect the most recent heading. |
+| `chunk_hint` | string\|null | Pre-computed chunker signal. Values: `section_heading` \| `section_start` \| `continue` \| `table` \| `toc` \| `figure` \| `caption` \| `admonition` \| `reference` \| `footnote`. `page_header`/`page_footer` blocks have no hint. |
+| `semantic_role` | string\|null | Semantic meaning beyond structural type. Values: `section_heading` \| `overview` (first paragraph after a heading) \| `description` (general prose) \| `procedure_step` \| `warning` \| `caution` \| `note` \| `tip` \| `important` \| `caption` \| `data_table` \| `navigation` \| `figure` \| `reference` \| `footnote` \| `code` \| `unknown`. |
+| `group_id` | string\|null | Shared stable ID for a figure/table + caption + optional explanation trio. All blocks sharing a `group_id` must never be split across chunks. Format: `"grp_{figure_or_table_id}"`. |
+| `source` | string\|null | Extraction method: `"pdf_text"` \| `"ocr"` \| `"vision"`. Stamped on every block. Future blocks from OCR or multimodal pipelines will carry different values. |
 | `bbox` | object\|null | `{l, t, r, b}` bounding box in PDF points. Origin bottom-left; `t > b`. |
 
 ---
@@ -182,12 +191,13 @@ Applies to: `paragraph`, `heading`, `list_item`, `caption`, `admonition`, `refer
 | Field | Type | Description |
 |---|---|---|
 | `content` | string | Verbatim text from the PDF. Never synthesized. |
-| `level` | int\|null | **Headings only.** 1 = document title, 2 = section, 3 = subsection. |
-| `role` | string\|null | Sub-role. Headings: `"chapter"` / `"section"` / `"subsection"`. Numbered list items: `"procedure_step"`. |
+| `level` | int\|null | **Headings only.** Inferred from the numeric section-number prefix in the content text (`5.2.1` → 3 dots → level 3). Falls back to the parser-assigned value for headings without a numeric prefix. |
+| `role` | string\|null | Sub-role for non-heading blocks. Numbered list items: `"procedure_step"`. Admonitions: severity role. |
 | `severity` | string\|null | **Admonitions only.** `"warning"` / `"caution"` / `"note"` / `"tip"` / `"important"`. |
 | `icon_path` | string\|null | **Merged admonitions only.** Relative path to the icon figure merged into this block. |
 | `caption_for` | string\|null | **Caption blocks only.** ID of the figure or table this caption describes. |
 | `hyperlink_hint` | bool\|null | `true` when the block contains anchor text that likely had a PDF hyperlink (e.g. "view a video"). Target URL is not preserved — flag only. |
+| `section_number` | string\|null | **Headings only.** Numeric prefix extracted from `content`, e.g. `"5.2.1"`. `null` for unnumbered headings. |
 
 ---
 
@@ -299,4 +309,5 @@ IDs are **document-scoped** — unique within one document, not globally unique 
 
 | Version | Date | Changes |
 |---|---|---|
+| v1.1 | 2026-08-06 | **FROZEN.** All blocks carry: `page`, `section_id`, `parent_section_id`, `section_level`, `section_path` (rich `{id,title}` objects), `chunk_hint`, `semantic_role`, `group_id`, `source`. Heading `level` inferred from numeric prefix. `section_number` on headings. `sec_auto_{reading_order}` IDs for unnumbered headings. Stale `role` removed from headings. `semantic_role` uses `overview`/`description` instead of generic `body`. `group_id` covers figure+caption+explanation trio. `confidence` removed (not backed by real model). |
 | v1.0 | 2026-08-05 | Frozen. 6 must-fix bugs resolved, 7 should-fix enrichments added. `block_count` in `page_stats`. `previous_block_id`/`next_block_id` replaces `previous_text_id`/`next_text_id`. Caption convention documented. Known behaviours documented. |

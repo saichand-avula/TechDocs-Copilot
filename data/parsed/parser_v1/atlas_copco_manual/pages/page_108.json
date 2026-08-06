@@ -22,7 +22,24 @@
       "width": 47,
       "height": 23,
       "decorative": true,
-      "image_hash": "7577891dcf1743bd2e7a735ef2621e01244d960bde43e28868c27d7c1437ddb9"
+      "image_hash": "7577891dcf1743bd2e7a735ef2621e01244d960bde43e28868c27d7c1437ddb9",
+      "section_id": "sec_auto_1193",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7       Operating instructions"
+        },
+        {
+          "id": "sec_auto_1193",
+          "title": "Procedure"
+        }
+      ],
+      "page": 108,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -37,11 +54,29 @@
       },
       "image_path": "figures/figure_0282.png",
       "next_block_id": "txt_0835",
-      "caption_id": "txt_0835",
       "caption": "Electric cubicle ,GA 37 + up to GA 75",
       "image_hash": "bcb3a41af07f2d7df5e09b1e183a39cbf7f1752757a67ae3dc3e066bc8710b6c",
       "width": 378,
-      "height": 280
+      "height": 280,
+      "section_id": "sec_auto_1193",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7       Operating instructions"
+        },
+        {
+          "id": "sec_auto_1193",
+          "title": "Procedure"
+        }
+      ],
+      "page": 108,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0282",
+      "source": "pdf_text",
+      "caption_id": "txt_0835"
     },
     {
       "type": "caption",
@@ -55,6 +90,24 @@
         "b": 436.35999999999996
       },
       "content": "Electric cubicle ,GA 37 + up to GA 75",
+      "section_id": "sec_auto_1193",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7       Operating instructions"
+        },
+        {
+          "id": "sec_auto_1193",
+          "title": "Procedure"
+        }
+      ],
+      "page": 108,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0282",
+      "source": "pdf_text",
       "caption_for": "fig_0282"
     },
     {
@@ -70,7 +123,24 @@
       },
       "markdown": "| -   | Consult the sections Electric cable size, Installation proposal and Dimension drawings                                                                                                                                                                                                                       |\n|-----|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| -   | The following transport fixtures, painted red, must be removed: Bolts (1) Bushes (2) Supports (3)                                                                                                                                                                                                            |\n| -   | Check that the electrical connections correspond to the applicable codes and that all wires are clamped tight to their terminals. The installation must be earthed and protected against short circuits by fuses of the inert type in all phases. An isolating switch must be installed near the compressor. |\n| -   | Check transformer (T1) for correct connection. Check the settings of drive motor overload relay (F21). Check that the motor overload relay is set for manual                                                                                                                                                 |\n| -   | On air-cooled compressors, check the setting of circuit breaker (Q15). Also check that the switch on the circuit breaker is in position I.                                                                                                                                                                   |\n|     | Fit air outlet valve (AV); see section Introduction for the location of the valve. Close the valve. Connect the air net to the valve. On compressors equipped with a dryer bypass, fit the air outlet valve to the dryer bypass                                                                              |\n| -   | i Connect the condensate drain outlet(s) to a drain collector. See section Condensate system.                                                                                                                                                                                                                |\n| -   | For compressors with a DD or a DD and PD filter connect the automatic drain of the filters to a suitable drain collector.                                                                                                                                                                                    |\n| -   | On water-cooled compressors, drain valves, shut-off valves and a regulating valve should be fitted by the customer in the cooling water piping.                                                                                                                                                              |",
       "rows": 9,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_auto_1193",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7       Operating instructions"
+        },
+        {
+          "id": "sec_auto_1193",
+          "title": "Procedure"
+        }
+      ],
+      "page": 108,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

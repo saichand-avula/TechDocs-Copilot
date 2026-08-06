@@ -21,7 +21,24 @@
       "next_block_id": "txt_1021",
       "image_hash": "7577891dcf1743bd2e7a735ef2621e01244d960bde43e28868c27d7c1437ddb9",
       "width": 47,
-      "height": 23
+      "height": 23,
+      "section_id": "sec_auto_1453",
+      "parent_section_id": "sec_11",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_11",
+          "title": "11     Technical data"
+        },
+        {
+          "id": "sec_auto_1453",
+          "title": "Worst case conditions refer to:"
+        }
+      ],
+      "page": 132,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -36,7 +53,23 @@
       },
       "content": "Recommended cable size (Pack and Full-Feature)",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1465",
+      "section_path": [
+        {
+          "id": "sec_11",
+          "title": "11     Technical data"
+        },
+        {
+          "id": "sec_auto_1465",
+          "title": "Recommended cable size (Pack and Full-Feature)"
+        }
+      ],
+      "parent_section_id": "sec_11",
+      "section_level": 2,
+      "page": 132,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -51,7 +84,24 @@
       },
       "markdown": "| Type   |   V |   Hz | Approval   |   I tot P (1) |   I tot FF (1) | Recommended wire section (2)   | Recommended wire section (3)   | Main fuses (A) (4)   |\n|--------|-----|------|------------|---------------|----------------|--------------------------------|--------------------------------|----------------------|\n| GA 37+ | 400 |   50 | IEC        |            82 |             87 | 4 X 35 mm 2                    | 4 X 70 mm 2                    | 100 (50)             |\n| GA 45+ | 400 |   50 | IEC        |           100 |            110 | 4 X 50 mm 2                    | 7 X 25 mm 2                    | 125 (63)             |\n| GA 55  | 400 |   50 | IEC        |           116 |            126 | 4 x 70 mm 2                    | 7 x 50 mm 2                    | 160(80)              |\n| GA 75  | 400 |   50 | IEC        |           159 |            169 | 7 x 35 mm 2                    | 7 x 70 mm 2                    | (100)                |",
       "rows": 5,
-      "cols": 9
+      "cols": 9,
+      "section_id": "sec_auto_1465",
+      "parent_section_id": "sec_11",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_11",
+          "title": "11     Technical data"
+        },
+        {
+          "id": "sec_auto_1465",
+          "title": "Recommended cable size (Pack and Full-Feature)"
+        }
+      ],
+      "page": 132,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -66,7 +116,23 @@
       },
       "content": "Remarks :",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1467",
+      "section_path": [
+        {
+          "id": "sec_11",
+          "title": "11     Technical data"
+        },
+        {
+          "id": "sec_auto_1467",
+          "title": "Remarks :"
+        }
+      ],
+      "parent_section_id": "sec_11",
+      "section_level": 2,
+      "page": 132,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -79,7 +145,24 @@
         "r": 273.4577999999998,
         "b": 584.2843
       },
-      "content": "(1): current in the supply lines at maximum load"
+      "content": "(1): current in the supply lines at maximum load",
+      "section_id": "sec_auto_1467",
+      "parent_section_id": "sec_11",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_11",
+          "title": "11     Technical data"
+        },
+        {
+          "id": "sec_auto_1467",
+          "title": "Remarks :"
+        }
+      ],
+      "page": 132,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -92,7 +175,24 @@
         "r": 316.97159999999974,
         "b": 565.0849000000001
       },
-      "content": "(2): recommended wire section under standard conditions"
+      "content": "(2): recommended wire section under standard conditions",
+      "section_id": "sec_auto_1467",
+      "parent_section_id": "sec_11",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_11",
+          "title": "11     Technical data"
+        },
+        {
+          "id": "sec_auto_1467",
+          "title": "Remarks :"
+        }
+      ],
+      "page": 132,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -105,7 +205,24 @@
         "r": 328.2576,
         "b": 545.8855000000001
       },
-      "content": "(3): recommended wire section under worst case conditions"
+      "content": "(3): recommended wire section under worst case conditions",
+      "section_id": "sec_auto_1467",
+      "parent_section_id": "sec_11",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_11",
+          "title": "11     Technical data"
+        },
+        {
+          "id": "sec_auto_1467",
+          "title": "Remarks :"
+        }
+      ],
+      "page": 132,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -118,7 +235,24 @@
         "r": 395.7612999999999,
         "b": 526.6861000000001
       },
-      "content": "(4): fuse value between () valid in case of 6 fuses for parallel supply cables"
+      "content": "(4): fuse value between () valid in case of 6 fuses for parallel supply cables",
+      "section_id": "sec_auto_1467",
+      "parent_section_id": "sec_11",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_11",
+          "title": "11     Technical data"
+        },
+        {
+          "id": "sec_auto_1467",
+          "title": "Remarks :"
+        }
+      ],
+      "page": 132,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -131,7 +265,24 @@
         "r": 201.19659999999988,
         "b": 507.48560000000015
       },
-      "content": "Fuse specifications IEC: gL/gG"
+      "content": "Fuse specifications IEC: gL/gG",
+      "section_id": "sec_auto_1467",
+      "parent_section_id": "sec_11",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_11",
+          "title": "11     Technical data"
+        },
+        {
+          "id": "sec_auto_1467",
+          "title": "Remarks :"
+        }
+      ],
+      "page": 132,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -146,7 +297,24 @@
       },
       "content": "11.3  Settings of fan motor circuit breaker",
       "level": 2,
-      "role": "section"
+      "section_number": "11.3",
+      "section_id": "sec_11_3",
+      "section_path": [
+        {
+          "id": "sec_11",
+          "title": "11     Technical data"
+        },
+        {
+          "id": "sec_11_3",
+          "title": "11.3  Settings of fan motor circuit breaker"
+        }
+      ],
+      "parent_section_id": "sec_11",
+      "section_level": 2,
+      "page": 132,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -161,7 +329,23 @@
       },
       "content": "Circuit breaker",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1474",
+      "section_path": [
+        {
+          "id": "sec_11",
+          "title": "11     Technical data"
+        },
+        {
+          "id": "sec_auto_1474",
+          "title": "Circuit breaker"
+        }
+      ],
+      "parent_section_id": "sec_11",
+      "section_level": 2,
+      "page": 132,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -176,7 +360,24 @@
       },
       "markdown": "| Frequency (Hz)   | Voltage (V)   |   GA 37+ and GA 45+ Fan motor circuit breaker Q15 (A) |   GA 55 Fan motor circuit breaker Q15 (A) |   GA 75 Fan motor circuit breaker Q15 (A) |\n|------------------|---------------|-------------------------------------------------------|-------------------------------------------|-------------------------------------------|\n| IEC              | Star-delta    |                                                       |                                           |                                           |\n| 50               | 400           |                                                   3.0 |                                       5.0 |                                       7.7 |",
       "rows": 3,
-      "cols": 5
+      "cols": 5,
+      "section_id": "sec_auto_1474",
+      "parent_section_id": "sec_11",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_11",
+          "title": "11     Technical data"
+        },
+        {
+          "id": "sec_auto_1474",
+          "title": "Circuit breaker"
+        }
+      ],
+      "page": 132,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -191,7 +392,24 @@
       },
       "content": "11.4  Settings for motor overload relay",
       "level": 2,
-      "role": "section"
+      "section_number": "11.4",
+      "section_id": "sec_11_4",
+      "section_path": [
+        {
+          "id": "sec_11",
+          "title": "11     Technical data"
+        },
+        {
+          "id": "sec_11_4",
+          "title": "11.4  Settings for motor overload relay"
+        }
+      ],
+      "parent_section_id": "sec_11",
+      "section_level": 2,
+      "page": 132,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -206,7 +424,23 @@
       },
       "content": "Overload relay and fuses",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1477",
+      "section_path": [
+        {
+          "id": "sec_11",
+          "title": "11     Technical data"
+        },
+        {
+          "id": "sec_auto_1477",
+          "title": "Overload relay and fuses"
+        }
+      ],
+      "parent_section_id": "sec_11",
+      "section_level": 2,
+      "page": 132,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -221,7 +455,24 @@
       },
       "markdown": "| Frequency   |             | GA 37+ Overload Relay   | GA 45+   |   GA55 Overload relay F21 (A) | GA75 relay (A)   |\n|-------------|-------------|-------------------------|----------|-------------------------------|------------------|\n| IEC         | Voltage (V) | F21(A)                  | Overload |                               | Overload F21     |\n|             | Star-delta  |                         |          |                               |                  |\n| 50          | 400         | 50                      | 62       |                            71 | 97               |",
       "rows": 4,
-      "cols": 5
+      "cols": 5,
+      "section_id": "sec_auto_1477",
+      "parent_section_id": "sec_11",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_11",
+          "title": "11     Technical data"
+        },
+        {
+          "id": "sec_auto_1477",
+          "title": "Overload relay and fuses"
+        }
+      ],
+      "page": 132,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

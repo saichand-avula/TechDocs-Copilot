@@ -18,8 +18,21 @@
         "b": 746.8429409281769
       },
       "content": "1-2. Moving Range of Axis",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "1",
+      "section_id": "sec_1",
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-2. Moving Range of Axis"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 88,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -34,7 +47,20 @@
       },
       "markdown": "| X-Axis   | X-Axis Up/Down direction vertically with the center of spindle +: in tool post upward -: in Tool post downward                                                   |\n|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Z-axis   | Z-axis Up/Downward direction horizontally with the center spindle +: in the right direction of tool post movement -: in the left direction of tool post movement |",
       "rows": 2,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-2. Moving Range of Axis"
+        }
+      ],
+      "page": 88,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -52,7 +78,20 @@
       "next_block_id": "txt_0499",
       "image_hash": "773b5e600ea55f4c68740c4054f02f152378b61a5601cec45674dd95e4106dc8",
       "width": 114,
-      "height": 31
+      "height": 31,
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-2. Moving Range of Axis"
+        }
+      ],
+      "page": 88,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -65,7 +104,20 @@
         "r": 448.593378000001,
         "b": 538.9430409281769
       },
-      "content": "It is based when the operator spindle stands in front of the machine."
+      "content": "It is based when the operator spindle stands in front of the machine.",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-2. Moving Range of Axis"
+        }
+      ],
+      "page": 88,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -81,12 +133,26 @@
       "image_path": "figures/figure_0122.png",
       "previous_block_id": "txt_0499",
       "next_block_id": "txt_0500",
-      "caption_id": "txt_0500",
       "caption": "Moving Range of Axis",
       "figure_number": "Fig. 5-2",
       "image_hash": "6b386480af19301d5e2af06e8c42a00184cafaa4c5b75db228683385e6fe096f",
       "width": 461,
-      "height": 329
+      "height": 329,
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-2. Moving Range of Axis"
+        }
+      ],
+      "page": 88,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0122",
+      "source": "pdf_text",
+      "caption_id": "txt_0500"
     },
     {
       "type": "caption",
@@ -100,6 +166,20 @@
         "b": 130.40435692817675
       },
       "content": "Fig. 5-2 Moving Range of Axis",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-2. Moving Range of Axis"
+        }
+      ],
+      "page": 88,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0122",
+      "source": "pdf_text",
       "caption_for": "fig_0122"
     }
   ],

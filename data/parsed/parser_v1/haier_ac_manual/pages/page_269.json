@@ -19,7 +19,24 @@
       },
       "content": "5.3 Function of    Main Thermistor",
       "level": 2,
-      "role": "section"
+      "section_number": "5.3",
+      "section_id": "sec_5_3",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_5_3",
+          "title": "5.3 Function of    Main Thermistor"
+        }
+      ],
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "page": 269,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -35,11 +52,29 @@
       "image_path": "figures/figure_0526.png",
       "previous_block_id": "txt_2206",
       "next_block_id": "txt_2207",
-      "caption_id": "txt_2207",
       "caption": "Note: A:Outdoor suction temperature sensor",
       "image_hash": "d8041f509e71fa330fc078faadb1fa18ef6c248226c29f581680d9de82e3a4aa",
       "width": 221,
-      "height": 144
+      "height": 144,
+      "section_id": "sec_5_3",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_5_3",
+          "title": "5.3 Function of    Main Thermistor"
+        }
+      ],
+      "page": 269,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0526",
+      "source": "pdf_text",
+      "caption_id": "txt_2207"
     },
     {
       "type": "caption",
@@ -53,6 +88,24 @@
         "b": 543.0247754000001
       },
       "content": "Note: A:Outdoor suction temperature sensor",
+      "section_id": "sec_5_3",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_5_3",
+          "title": "5.3 Function of    Main Thermistor"
+        }
+      ],
+      "page": 269,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0526",
+      "source": "pdf_text",
       "caption_for": "fig_0526"
     },
     {
@@ -66,7 +119,25 @@
         "r": 277.0424064000004,
         "b": 527.6116077
       },
-      "content": "B: Exhaust temperature sensor"
+      "content": "B: Exhaust temperature sensor",
+      "section_id": "sec_5_3",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_5_3",
+          "title": "5.3 Function of    Main Thermistor"
+        }
+      ],
+      "page": 269,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text",
+      "group_id": "grp_fig_0526"
     },
     {
       "type": "list_item",
@@ -79,7 +150,24 @@
         "r": 288.17102320000015,
         "b": 513.7597984
       },
-      "content": "C: Indoor heat-exchange sensor"
+      "content": "C: Indoor heat-exchange sensor",
+      "section_id": "sec_5_3",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_5_3",
+          "title": "5.3 Function of    Main Thermistor"
+        }
+      ],
+      "page": 269,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -94,7 +182,23 @@
       },
       "content": "Outdoor Suction Temperature Sensor",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_2892",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_auto_2892",
+          "title": "Outdoor Suction Temperature Sensor"
+        }
+      ],
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "page": 269,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -107,7 +211,24 @@
         "r": 507.87372120000146,
         "b": 469.142886
       },
-      "content": "The outdoor heat exchanger thermistor is used for controlling target discharge temperature."
+      "content": "The outdoor heat exchanger thermistor is used for controlling target discharge temperature.",
+      "section_id": "sec_auto_2892",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_auto_2892",
+          "title": "Outdoor Suction Temperature Sensor"
+        }
+      ],
+      "page": 269,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -120,7 +241,24 @@
         "r": 498.9113044400009,
         "b": 422.27277
       },
-      "content": "The system sets a target discharge temperature according to the outdoor and indoor heat exchanger temperature, and controls the electronic expansion valve opening so that the target discharge temperature can be obtained."
+      "content": "The system sets a target discharge temperature according to the outdoor and indoor heat exchanger temperature, and controls the electronic expansion valve opening so that the target discharge temperature can be obtained.",
+      "section_id": "sec_auto_2892",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_auto_2892",
+          "title": "Outdoor Suction Temperature Sensor"
+        }
+      ],
+      "page": 269,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -135,7 +273,23 @@
       },
       "content": "Exhaust Temperature Sensor",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_2895",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_auto_2895",
+          "title": "Exhaust Temperature Sensor"
+        }
+      ],
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "page": 269,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -148,7 +302,24 @@
         "r": 488.6246440600008,
         "b": 344.32487
       },
-      "content": "The discharge pipe thermistor is used for controlling temperature of the discharge pipe. If the temperature of discharge pipe (used in place of the inner temperature of the compressor) rises abnormally, the operating frequency drops or the operation halts."
+      "content": "The discharge pipe thermistor is used for controlling temperature of the discharge pipe. If the temperature of discharge pipe (used in place of the inner temperature of the compressor) rises abnormally, the operating frequency drops or the operation halts.",
+      "section_id": "sec_auto_2895",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_auto_2895",
+          "title": "Exhaust Temperature Sensor"
+        }
+      ],
+      "page": 269,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -163,7 +334,23 @@
       },
       "content": "Indoor heat-exchange sensor",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_2897",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_auto_2897",
+          "title": "Indoor heat-exchange sensor"
+        }
+      ],
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "page": 269,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -176,7 +363,24 @@
         "r": 510.1278380799991,
         "b": 282.06738599999994
       },
-      "content": "1.The indoor heat exchanger thermistor is used for controlling target discharge temperature."
+      "content": "1.The indoor heat exchanger thermistor is used for controlling target discharge temperature.",
+      "section_id": "sec_auto_2897",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_auto_2897",
+          "title": "Indoor heat-exchange sensor"
+        }
+      ],
+      "page": 269,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -189,7 +393,24 @@
         "r": 498.83723488000055,
         "b": 235.29479460000005
       },
-      "content": "The system sets a target discharge temperature according to the outdoor and indoor heat exchanger temperature, and controls the electronic expansion valve opening so that the target discharge temperature can be obtained."
+      "content": "The system sets a target discharge temperature according to the outdoor and indoor heat exchanger temperature, and controls the electronic expansion valve opening so that the target discharge temperature can be obtained.",
+      "section_id": "sec_auto_2897",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_auto_2897",
+          "title": "Indoor heat-exchange sensor"
+        }
+      ],
+      "page": 269,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -202,7 +423,24 @@
         "r": 551.5076986199991,
         "b": 204.113067
       },
-      "content": "2.The indoor heat exchanger thermistor is used for preventing freezing.During the cooling operation, if the temperature drops abnormally, the operating frequency becomes lower, then the operation halts."
+      "content": "2.The indoor heat exchanger thermistor is used for preventing freezing.During the cooling operation, if the temperature drops abnormally, the operating frequency becomes lower, then the operation halts.",
+      "section_id": "sec_auto_2897",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_auto_2897",
+          "title": "Indoor heat-exchange sensor"
+        }
+      ],
+      "page": 269,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -215,7 +453,24 @@
         "r": 551.5317211800005,
         "b": 157.25036999999998
       },
-      "content": "3.The indoor heat exchanger thermistor is used for anti-icing control.During the cooling operation, if the heat exchanger temperature in the room where operation is halted becomes -1°C, it is assumed as icing."
+      "content": "3.The indoor heat exchanger thermistor is used for anti-icing control.During the cooling operation, if the heat exchanger temperature in the room where operation is halted becomes -1°C, it is assumed as icing.",
+      "section_id": "sec_auto_2897",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_auto_2897",
+          "title": "Indoor heat-exchange sensor"
+        }
+      ],
+      "page": 269,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -232,7 +487,24 @@
       "previous_block_id": "txt_2219",
       "width": 32,
       "height": 10,
-      "image_hash": "94999f07086a3008817d2cc3bb1f30a0eab22bdc27921adef7de776233c7e95e"
+      "image_hash": "94999f07086a3008817d2cc3bb1f30a0eab22bdc27921adef7de776233c7e95e",
+      "section_id": "sec_auto_2897",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_auto_2897",
+          "title": "Indoor heat-exchange sensor"
+        }
+      ],
+      "page": 269,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

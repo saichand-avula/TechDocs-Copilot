@@ -18,8 +18,25 @@
         "b": 713.146259338843
       },
       "content": "4.5.2.3 INLET/OUTLET VALVE SUBSYSTEM",
-      "level": 2,
-      "role": "section"
+      "level": 4,
+      "section_number": "4.5.2.3",
+      "section_id": "sec_4_5_2_3",
+      "section_path": [
+        {
+          "id": "sec_auto_514",
+          "title": "A/B VALVE SUBSYSTEM"
+        },
+        {
+          "id": "sec_4_5_2_3",
+          "title": "4.5.2.3 INLET/OUTLET VALVE SUBSYSTEM"
+        }
+      ],
+      "parent_section_id": "sec_auto_514",
+      "section_level": 4,
+      "page": 57,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -32,7 +49,24 @@
         "r": 539.9358532701,
         "b": 677.2075248800329
       },
-      "content": "The  inlet/outlet  valve  subsystem  is  similar  in  function  and  build  to  the  A/B  valve subsystem (see Section 4.5.2.2) ."
+      "content": "The  inlet/outlet  valve  subsystem  is  similar  in  function  and  build  to  the  A/B  valve subsystem (see Section 4.5.2.2) .",
+      "section_id": "sec_4_5_2_3",
+      "parent_section_id": "sec_auto_514",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_auto_514",
+          "title": "A/B VALVE SUBSYSTEM"
+        },
+        {
+          "id": "sec_4_5_2_3",
+          "title": "4.5.2.3 INLET/OUTLET VALVE SUBSYSTEM"
+        }
+      ],
+      "page": 57,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -46,8 +80,25 @@
         "b": 629.146259338843
       },
       "content": "4.5.2.4 PLUNGER DRIVE SUBSYSTEM",
-      "level": 2,
-      "role": "section"
+      "level": 4,
+      "section_number": "4.5.2.4",
+      "section_id": "sec_4_5_2_4",
+      "section_path": [
+        {
+          "id": "sec_auto_514",
+          "title": "A/B VALVE SUBSYSTEM"
+        },
+        {
+          "id": "sec_4_5_2_4",
+          "title": "4.5.2.4 PLUNGER DRIVE SUBSYSTEM"
+        }
+      ],
+      "parent_section_id": "sec_auto_514",
+      "section_level": 4,
+      "page": 57,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -60,7 +111,24 @@
         "r": 540.0366485713001,
         "b": 545.2082446880331
       },
-      "content": "The main components of the plunger drive subsystem are: plunger, lead screw and coupler, and stepper motor. When the infuser is turned on, the plunger moves from the retracted, PARK position to the HOME position. The cassette diaphragm is engaged. The stepper motor rotates approximately 1 2/3 revolutions per pump cycle to permit a 0.33 mL fluid displacement every pump cycle. The stepper motor then reverses and the plunger returns to HOME position. This cycle repeats for the duration of fluid administration."
+      "content": "The main components of the plunger drive subsystem are: plunger, lead screw and coupler, and stepper motor. When the infuser is turned on, the plunger moves from the retracted, PARK position to the HOME position. The cassette diaphragm is engaged. The stepper motor rotates approximately 1 2/3 revolutions per pump cycle to permit a 0.33 mL fluid displacement every pump cycle. The stepper motor then reverses and the plunger returns to HOME position. This cycle repeats for the duration of fluid administration.",
+      "section_id": "sec_4_5_2_4",
+      "parent_section_id": "sec_auto_514",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_auto_514",
+          "title": "A/B VALVE SUBSYSTEM"
+        },
+        {
+          "id": "sec_4_5_2_4",
+          "title": "4.5.2.4 PLUNGER DRIVE SUBSYSTEM"
+        }
+      ],
+      "page": 57,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -73,7 +141,24 @@
         "r": 540.0015893361001,
         "b": 461.209404751933
       },
-      "content": "The screw/coupler assembly links the motor and the plunger. This assembly includes a flag that passes through an interrupter module. This screw/coupler, flag/interrupter module combination is used in conjunction with predetermined factory calibration data to  determine  the  plunger  position.  During  operation,  if  the  screw/coupler  flag  passes through  the  interrupter  module  at  the  incorrect  time  sequence,  a  motor  phase  loss is detected."
+      "content": "The screw/coupler assembly links the motor and the plunger. This assembly includes a flag that passes through an interrupter module. This screw/coupler, flag/interrupter module combination is used in conjunction with predetermined factory calibration data to  determine  the  plunger  position.  During  operation,  if  the  screw/coupler  flag  passes through  the  interrupter  module  at  the  incorrect  time  sequence,  a  motor  phase  loss is detected.",
+      "section_id": "sec_4_5_2_4",
+      "parent_section_id": "sec_auto_514",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_auto_514",
+          "title": "A/B VALVE SUBSYSTEM"
+        },
+        {
+          "id": "sec_4_5_2_4",
+          "title": "4.5.2.4 PLUNGER DRIVE SUBSYSTEM"
+        }
+      ],
+      "page": 57,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

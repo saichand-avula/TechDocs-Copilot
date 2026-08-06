@@ -22,7 +22,24 @@
       "width": 47,
       "height": 22,
       "decorative": true,
-      "image_hash": "b28a1d23de5124d82d6f84120acacff249829ec0e42f4c826059a188d93e4d2e"
+      "image_hash": "b28a1d23de5124d82d6f84120acacff249829ec0e42f4c826059a188d93e4d2e",
+      "section_id": "sec_auto_178",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_auto_178",
+          "title": "Description"
+        }
+      ],
+      "page": 19,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -35,7 +52,24 @@
         "r": 560.8966000000006,
         "b": 718.0840999999999
       },
-      "content": "Check valve (CV) prevents blow-back of compressed air when the compressor is stopped. Minimum pressure valve (Vp) prevents the receiver pressure (AR) from dropping below a minimum pressure during unloaded operation."
+      "content": "Check valve (CV) prevents blow-back of compressed air when the compressor is stopped. Minimum pressure valve (Vp) prevents the receiver pressure (AR) from dropping below a minimum pressure during unloaded operation.",
+      "section_id": "sec_auto_178",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_auto_178",
+          "title": "Description"
+        }
+      ],
+      "page": 19,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -50,7 +84,24 @@
       },
       "content": "2.3 Oil system",
       "level": 2,
-      "role": "section"
+      "section_number": "2.3",
+      "section_id": "sec_2_3",
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_2_3",
+          "title": "2.3 Oil system"
+        }
+      ],
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "page": 19,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -65,7 +116,23 @@
       },
       "content": "Flow diagram",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_185",
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_auto_185",
+          "title": "Flow diagram"
+        }
+      ],
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "page": 19,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -83,7 +150,24 @@
       "next_block_id": "txt_0143",
       "image_hash": "0d90c8f0faeda5613adf1efa6a3c4ff98d3ab12da02037cba95ff59c6339bb10",
       "width": 326,
-      "height": 252
+      "height": 252,
+      "section_id": "sec_auto_185",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_auto_185",
+          "title": "Flow diagram"
+        }
+      ],
+      "page": 19,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -98,7 +182,24 @@
       },
       "markdown": "| References   | Description                                                                                                                   |\n|--------------|-------------------------------------------------------------------------------------------------------------------------------|\n| 1            | For Workplace units, compressed air flow to the air outlet valve For Full-Feature units, compressed air flow to the air dryer |\n| A            | Intake air                                                                                                                    |\n| B            | Air/oil mixture                                                                                                               |\n| C            | Oil                                                                                                                           |\n| D            | Wet compressed air                                                                                                            |\n| F            | Condensate                                                                                                                    |",
       "rows": 7,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_auto_185",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_auto_185",
+          "title": "Flow diagram"
+        }
+      ],
+      "page": 19,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "admonition",
@@ -112,7 +213,24 @@
         "b": 215.70399999999995
       },
       "content": "Note: The cooling fan is not provided on water-cooled compressors.",
-      "severity": "note"
+      "severity": "note",
+      "section_id": "sec_auto_185",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_auto_185",
+          "title": "Flow diagram"
+        }
+      ],
+      "page": 19,
+      "chunk_hint": "admonition",
+      "semantic_role": "note",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -127,7 +245,23 @@
       },
       "content": "Description",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_189",
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_auto_189",
+          "title": "Description"
+        }
+      ],
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "page": 19,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -140,7 +274,24 @@
         "r": 533.6093000000009,
         "b": 138.9031
       },
-      "content": "In air receiver/oil separator (AR), most of the oil is removed from the air/oil mixture by centrifugal action.The rest is removed by oil separator (OS). The oil collects in the lower part of air receiver/oil separator (AR),which serves as an oil tank."
+      "content": "In air receiver/oil separator (AR), most of the oil is removed from the air/oil mixture by centrifugal action.The rest is removed by oil separator (OS). The oil collects in the lower part of air receiver/oil separator (AR),which serves as an oil tank.",
+      "section_id": "sec_auto_189",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_auto_189",
+          "title": "Description"
+        }
+      ],
+      "page": 19,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -153,7 +304,24 @@
         "r": 552.3455999999992,
         "b": 106.56310000000008
       },
-      "content": "The oil system is provided with a thermostatic bypass valve (BV). When the oil temperature is below its set point, bypass valve (BV) shuts off the supply to oil cooler (Co) and the oil cooler is bypassed."
+      "content": "The oil system is provided with a thermostatic bypass valve (BV). When the oil temperature is below its set point, bypass valve (BV) shuts off the supply to oil cooler (Co) and the oil cooler is bypassed.",
+      "section_id": "sec_auto_189",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_auto_189",
+          "title": "Description"
+        }
+      ],
+      "page": 19,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

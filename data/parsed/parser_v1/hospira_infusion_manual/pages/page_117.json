@@ -18,8 +18,29 @@
         "b": 713.1462493388431
       },
       "content": "7.2.12.4 CPU PWA REPLACEMENT",
-      "level": 2,
-      "role": "section"
+      "level": 4,
+      "section_number": "7.2.12.4",
+      "section_id": "sec_7_2_12_4",
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_auto_1206",
+          "title": "DISPLAY REPLACEMENT"
+        },
+        {
+          "id": "sec_7_2_12_4",
+          "title": "7.2.12.4 CPU PWA REPLACEMENT"
+        }
+      ],
+      "parent_section_id": "sec_auto_1206",
+      "section_level": 4,
+      "page": 117,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -32,7 +53,28 @@
         "r": 506.2595640000006,
         "b": 689.2073370491804
       },
-      "content": "The recommended tool for this procedure is a medium size flat-blade screwdriver."
+      "content": "The recommended tool for this procedure is a medium size flat-blade screwdriver.",
+      "section_id": "sec_7_2_12_4",
+      "parent_section_id": "sec_auto_1206",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_auto_1206",
+          "title": "DISPLAY REPLACEMENT"
+        },
+        {
+          "id": "sec_7_2_12_4",
+          "title": "7.2.12.4 CPU PWA REPLACEMENT"
+        }
+      ],
+      "page": 117,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -45,7 +87,28 @@
         "r": 330.0960479999997,
         "b": 665.2077210491805
       },
-      "content": "The replacement parts for this procedure are:"
+      "content": "The replacement parts for this procedure are:",
+      "section_id": "sec_7_2_12_4",
+      "parent_section_id": "sec_auto_1206",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_auto_1206",
+          "title": "DISPLAY REPLACEMENT"
+        },
+        {
+          "id": "sec_7_2_12_4",
+          "title": "7.2.12.4 CPU PWA REPLACEMENT"
+        }
+      ],
+      "page": 117,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -60,7 +123,23 @@
       },
       "content": "PWA, CPU Screw, 4-40 x 1/4, Hex Head, Slotted, with Washer",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1225",
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_auto_1225",
+          "title": "PWA, CPU Screw, 4-40 x 1/4, Hex Head, Slotted, with Washer"
+        }
+      ],
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "page": 117,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "admonition",
@@ -74,7 +153,24 @@
         "b": 587.3213883093622
       },
       "content": "CAUTION: Use  proper  ESD  grounding  techniques  when  handling  components. Wear an antistatic wrist strap and use an ESD-protected workstation. Store the PWA in an antistatic bag before placing it on any surface.",
-      "severity": "caution"
+      "severity": "caution",
+      "section_id": "sec_auto_1225",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_auto_1225",
+          "title": "PWA, CPU Screw, 4-40 x 1/4, Hex Head, Slotted, with Washer"
+        }
+      ],
+      "page": 117,
+      "chunk_hint": "admonition",
+      "semantic_role": "caution",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -88,7 +184,24 @@
         "b": 567.2292090491803
       },
       "content": "To replace the CPU PWA, see Figure 7-12 and Figure 7-13 , then proceed as follows:",
-      "hyperlink_hint": true
+      "hyperlink_hint": true,
+      "section_id": "sec_auto_1225",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_auto_1225",
+          "title": "PWA, CPU Screw, 4-40 x 1/4, Hex Head, Slotted, with Washer"
+        }
+      ],
+      "page": 117,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -101,7 +214,24 @@
         "r": 444.2356559999992,
         "b": 549.2294970491803
       },
-      "content": "Turn off the infuser and disconnect the device from AC power."
+      "content": "Turn off the infuser and disconnect the device from AC power.",
+      "section_id": "sec_auto_1225",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_auto_1225",
+          "title": "PWA, CPU Screw, 4-40 x 1/4, Hex Head, Slotted, with Washer"
+        }
+      ],
+      "page": 117,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -114,7 +244,24 @@
         "r": 380.0484360000001,
         "b": 533.8094250491803
       },
-      "content": "Remove the battery as described in Section 7.2.4 ."
+      "content": "Remove the battery as described in Section 7.2.4 .",
+      "section_id": "sec_auto_1225",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_auto_1225",
+          "title": "PWA, CPU Screw, 4-40 x 1/4, Hex Head, Slotted, with Washer"
+        }
+      ],
+      "page": 117,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -127,7 +274,24 @@
         "r": 539.9562359999996,
         "b": 506.92937704918023
       },
-      "content": "Separate  the  front  enclosure,  rear  enclosure,  and  main  chassis  assembly as described in Section 7.2.8 ."
+      "content": "Separate  the  front  enclosure,  rear  enclosure,  and  main  chassis  assembly as described in Section 7.2.8 .",
+      "section_id": "sec_auto_1225",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_auto_1225",
+          "title": "PWA, CPU Screw, 4-40 x 1/4, Hex Head, Slotted, with Washer"
+        }
+      ],
+      "page": 117,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -140,7 +304,24 @@
         "r": 451.81023600000015,
         "b": 491.44954504918024
       },
-      "content": "Remove the power supply PWA as described in Section 7.2.12.1 ."
+      "content": "Remove the power supply PWA as described in Section 7.2.12.1 .",
+      "section_id": "sec_auto_1225",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_auto_1225",
+          "title": "PWA, CPU Screw, 4-40 x 1/4, Hex Head, Slotted, with Washer"
+        }
+      ],
+      "page": 117,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -153,7 +334,24 @@
         "r": 444.25059600000014,
         "b": 476.02947304918024
       },
-      "content": "Remove the display assembly as described in Section 7.2.12.3 ."
+      "content": "Remove the display assembly as described in Section 7.2.12.3 .",
+      "section_id": "sec_auto_1225",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_auto_1225",
+          "title": "PWA, CPU Screw, 4-40 x 1/4, Hex Head, Slotted, with Washer"
+        }
+      ],
+      "page": 117,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -166,7 +364,24 @@
         "r": 540.1454759999997,
         "b": 449.14942504918025
       },
-      "content": "Using the flat blade screwdriver, remove the two screws that secure the CPU PWA to the main chassis."
+      "content": "Using the flat blade screwdriver, remove the two screws that secure the CPU PWA to the main chassis.",
+      "section_id": "sec_auto_1225",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_auto_1225",
+          "title": "PWA, CPU Screw, 4-40 x 1/4, Hex Head, Slotted, with Washer"
+        }
+      ],
+      "page": 117,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -179,7 +394,24 @@
         "r": 487.8485040000005,
         "b": 433.72935304918025
       },
-      "content": "Install the replacement CPU PWA in the exact reverse order of removal."
+      "content": "Install the replacement CPU PWA in the exact reverse order of removal.",
+      "section_id": "sec_auto_1225",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_auto_1225",
+          "title": "PWA, CPU Screw, 4-40 x 1/4, Hex Head, Slotted, with Washer"
+        }
+      ],
+      "page": 117,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -192,7 +424,24 @@
         "r": 520.4894160000009,
         "b": 418.24952104918026
       },
-      "content": "Reassemble the keypad, display assembly, CPU PWA, and power supply PWA."
+      "content": "Reassemble the keypad, display assembly, CPU PWA, and power supply PWA.",
+      "section_id": "sec_auto_1225",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_auto_1225",
+          "title": "PWA, CPU Screw, 4-40 x 1/4, Hex Head, Slotted, with Washer"
+        }
+      ],
+      "page": 117,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -205,7 +454,24 @@
         "r": 540.0279479999994,
         "b": 391.36947304918027
       },
-      "content": "Join the front enclosure, rear enclosure, and main chassis assembly in the exact reverse order of separation."
+      "content": "Join the front enclosure, rear enclosure, and main chassis assembly in the exact reverse order of separation.",
+      "section_id": "sec_auto_1225",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_auto_1225",
+          "title": "PWA, CPU Screw, 4-40 x 1/4, Hex Head, Slotted, with Washer"
+        }
+      ],
+      "page": 117,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -218,7 +484,24 @@
         "r": 420.37149599999975,
         "b": 375.94940104918027
       },
-      "content": "Reinstall the battery and connect the device to AC power."
+      "content": "Reinstall the battery and connect the device to AC power.",
+      "section_id": "sec_auto_1225",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_auto_1225",
+          "title": "PWA, CPU Screw, 4-40 x 1/4, Hex Head, Slotted, with Washer"
+        }
+      ],
+      "page": 117,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -231,7 +514,24 @@
         "r": 475.21026000000006,
         "b": 352.48961704918025
       },
-      "content": "To verify successful CPU PWA replacement, perform the PVT in Section 5.2 ."
+      "content": "To verify successful CPU PWA replacement, perform the PVT in Section 5.2 .",
+      "section_id": "sec_auto_1225",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_auto_1225",
+          "title": "PWA, CPU Screw, 4-40 x 1/4, Hex Head, Slotted, with Washer"
+        }
+      ],
+      "page": 117,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

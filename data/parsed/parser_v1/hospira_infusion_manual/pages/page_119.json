@@ -18,8 +18,29 @@
         "b": 392.7477233057851
       },
       "content": "7.2.12.5",
-      "level": 2,
-      "role": "section"
+      "level": 4,
+      "section_number": "7.2.12.5",
+      "section_id": "sec_7_2_12_5",
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_auto_1225",
+          "title": "PWA, CPU Screw, 4-40 x 1/4, Hex Head, Slotted, with Washer"
+        },
+        {
+          "id": "sec_7_2_12_5",
+          "title": "7.2.12.5"
+        }
+      ],
+      "parent_section_id": "sec_auto_1225",
+      "section_level": 4,
+      "page": 119,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -34,7 +55,23 @@
       },
       "content": "PIEZO ALARM REPLACEMENT",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1243",
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_auto_1243",
+          "title": "PIEZO ALARM REPLACEMENT"
+        }
+      ],
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "page": 119,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -47,7 +84,24 @@
         "r": 505.49463599999956,
         "b": 353.1473370491803
       },
-      "content": "The recommended tool for this procedure is a medium size flat blade screwdriver."
+      "content": "The recommended tool for this procedure is a medium size flat blade screwdriver.",
+      "section_id": "sec_auto_1243",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_auto_1243",
+          "title": "PIEZO ALARM REPLACEMENT"
+        }
+      ],
+      "page": 119,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -60,7 +114,24 @@
         "r": 330.0960479999997,
         "b": 329.1477210491803
       },
-      "content": "The replacement parts for this procedure are:"
+      "content": "The replacement parts for this procedure are:",
+      "section_id": "sec_auto_1243",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_auto_1243",
+          "title": "PIEZO ALARM REPLACEMENT"
+        }
+      ],
+      "page": 119,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "code",
@@ -73,7 +144,24 @@
         "r": 243.8972279999999,
         "b": 297.3071440327869
       },
-      "content": "Assembly, Piezo Alarm Splashguard"
+      "content": "Assembly, Piezo Alarm Splashguard",
+      "section_id": "sec_auto_1243",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_auto_1243",
+          "title": "PIEZO ALARM REPLACEMENT"
+        }
+      ],
+      "page": 119,
+      "chunk_hint": "continue",
+      "semantic_role": "code",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -86,7 +174,24 @@
         "r": 390.4327320000004,
         "b": 283.3272880327869
       },
-      "content": "Screw, 4-40 x 3/8, Hex Head, Slotted, with Washer"
+      "content": "Screw, 4-40 x 3/8, Hex Head, Slotted, with Washer",
+      "section_id": "sec_auto_1243",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_auto_1243",
+          "title": "PIEZO ALARM REPLACEMENT"
+        }
+      ],
+      "page": 119,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "admonition",
@@ -100,7 +205,24 @@
         "b": 233.26068030936233
       },
       "content": "CAUTION: Use  proper  ESD  grounding  techniques  when  handling  components. Wear an antistatic wrist strap and use an ESD-protected workstation. Store the PWA in an antistatic bag before placing it on any surface.",
-      "severity": "caution"
+      "severity": "caution",
+      "section_id": "sec_auto_1243",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_auto_1243",
+          "title": "PIEZO ALARM REPLACEMENT"
+        }
+      ],
+      "page": 119,
+      "chunk_hint": "admonition",
+      "semantic_role": "caution",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -114,7 +236,24 @@
         "b": 209.14864504918035
       },
       "content": "To replace the piezo alarm, see Figure 7-12 , then proceed as follows:",
-      "hyperlink_hint": true
+      "hyperlink_hint": true,
+      "section_id": "sec_auto_1243",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_auto_1243",
+          "title": "PIEZO ALARM REPLACEMENT"
+        }
+      ],
+      "page": 119,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -127,7 +266,24 @@
         "r": 444.2346599999992,
         "b": 185.1490290491804
       },
-      "content": "Turn off the infuser and disconnect the device from AC power."
+      "content": "Turn off the infuser and disconnect the device from AC power.",
+      "section_id": "sec_auto_1243",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_auto_1243",
+          "title": "PIEZO ALARM REPLACEMENT"
+        }
+      ],
+      "page": 119,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -140,7 +296,24 @@
         "r": 380.0474400000001,
         "b": 169.7289570491804
       },
-      "content": "Remove the battery as described in Section 7.2.4 ."
+      "content": "Remove the battery as described in Section 7.2.4 .",
+      "section_id": "sec_auto_1243",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_auto_1243",
+          "title": "PIEZO ALARM REPLACEMENT"
+        }
+      ],
+      "page": 119,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -153,7 +326,24 @@
         "r": 539.9552399999997,
         "b": 142.8489090491804
       },
-      "content": "Separate  the  front  enclosure,  rear  enclosure,  and  main  chassis  assembly as described in Section 7.2.8 ."
+      "content": "Separate  the  front  enclosure,  rear  enclosure,  and  main  chassis  assembly as described in Section 7.2.8 .",
+      "section_id": "sec_auto_1243",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_auto_1243",
+          "title": "PIEZO ALARM REPLACEMENT"
+        }
+      ],
+      "page": 119,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -166,7 +356,24 @@
         "r": 451.80924000000016,
         "b": 127.36907704918042
       },
-      "content": "Remove the power supply PWA as described in Section 7.2.12.1 ."
+      "content": "Remove the power supply PWA as described in Section 7.2.12.1 .",
+      "section_id": "sec_auto_1243",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_auto_1243",
+          "title": "PIEZO ALARM REPLACEMENT"
+        }
+      ],
+      "page": 119,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -179,7 +386,24 @@
         "r": 430.8095760000001,
         "b": 111.94900504918041
       },
-      "content": "Remove the CPU assembly as described in Section 7.2.12.4 ."
+      "content": "Remove the CPU assembly as described in Section 7.2.12.4 .",
+      "section_id": "sec_auto_1243",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_auto_1243",
+          "title": "PIEZO ALARM REPLACEMENT"
+        }
+      ],
+      "page": 119,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -192,7 +416,24 @@
         "r": 540.0329280000007,
         "b": 85.06895704918043
       },
-      "content": "Using the flat blade screwdriver, remove the screws that secure the splashguard and piezo alarm to the main chassis."
+      "content": "Using the flat blade screwdriver, remove the screws that secure the splashguard and piezo alarm to the main chassis.",
+      "section_id": "sec_auto_1243",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_auto_1243",
+          "title": "PIEZO ALARM REPLACEMENT"
+        }
+      ],
+      "page": 119,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -208,12 +449,30 @@
       "image_path": "figures/figure_0048.png",
       "previous_block_id": "txt_1169",
       "next_block_id": "txt_1170",
-      "caption_id": "txt_1170",
       "caption": ". CPU PWA Replacement",
       "figure_number": "Figure 7-13",
       "image_hash": "dbaab99bbefa07326e2e42ccdaed4057610334e429b11bb9b6ec994c0d1326e5",
       "width": 314,
-      "height": 276
+      "height": 276,
+      "section_id": "sec_auto_1243",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_auto_1243",
+          "title": "PIEZO ALARM REPLACEMENT"
+        }
+      ],
+      "page": 119,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0048",
+      "source": "pdf_text",
+      "caption_id": "txt_1170"
     },
     {
       "type": "caption",
@@ -227,6 +486,24 @@
         "b": 429.21828
       },
       "content": "Figure 7-13. CPU PWA Replacement",
+      "section_id": "sec_auto_1243",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_auto_1243",
+          "title": "PIEZO ALARM REPLACEMENT"
+        }
+      ],
+      "page": 119,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0048",
+      "source": "pdf_text",
       "caption_for": "fig_0048"
     },
     {
@@ -240,7 +517,25 @@
         "r": 536.1968118000001,
         "b": 453.660858
       },
-      "content": "05K01034"
+      "content": "05K01034",
+      "section_id": "sec_auto_1243",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_auto_1243",
+          "title": "PIEZO ALARM REPLACEMENT"
+        }
+      ],
+      "page": 119,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text",
+      "group_id": "grp_fig_0048"
     }
   ],
   "page_stats": {

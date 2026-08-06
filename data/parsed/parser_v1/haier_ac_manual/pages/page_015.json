@@ -19,11 +19,29 @@
       },
       "image_path": "figures/figure_0043.png",
       "next_block_id": "txt_0075",
-      "caption_id": "txt_0075",
       "caption": "PCB(2)",
       "image_hash": "3591fc50a1cc8f9a55a304a80e41da475842f26d53a2982e1e31e2e24475b7c9",
       "width": 526,
-      "height": 341
+      "height": 341,
+      "section_id": "sec_auto_119",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Introduction"
+        },
+        {
+          "id": "sec_auto_119",
+          "title": "PCB(2) (module    PCB)"
+        }
+      ],
+      "page": 15,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0043",
+      "source": "pdf_text",
+      "caption_id": "txt_0075"
     },
     {
       "type": "caption",
@@ -37,6 +55,24 @@
         "b": 752.937938
       },
       "content": "PCB(2)",
+      "section_id": "sec_auto_119",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Introduction"
+        },
+        {
+          "id": "sec_auto_119",
+          "title": "PCB(2) (module    PCB)"
+        }
+      ],
+      "page": 15,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0043",
+      "source": "pdf_text",
       "caption_for": "fig_0043"
     },
     {
@@ -54,7 +90,24 @@
       "previous_block_id": "txt_0075",
       "width": 31,
       "height": 10,
-      "image_hash": "a68d37a9d789f6241de46e9204a195ccb1fa0f24c353fd9ebc5c0995349844d3"
+      "image_hash": "a68d37a9d789f6241de46e9204a195ccb1fa0f24c353fd9ebc5c0995349844d3",
+      "section_id": "sec_auto_119",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Introduction"
+        },
+        {
+          "id": "sec_auto_119",
+          "title": "PCB(2) (module    PCB)"
+        }
+      ],
+      "page": 15,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

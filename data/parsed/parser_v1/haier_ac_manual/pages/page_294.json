@@ -19,7 +19,24 @@
       },
       "content": "7.3.Error Codes and Description indoor display",
       "level": 2,
-      "role": "section"
+      "section_number": "7.3",
+      "section_id": "sec_7_3",
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_7_3",
+          "title": "7.3.Error Codes and Description indoor display"
+        }
+      ],
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "page": 294,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -34,7 +51,24 @@
       },
       "markdown": "|                     | Code indication   | Code indication            |                                                                |                |\n|---------------------|-------------------|----------------------------|----------------------------------------------------------------|----------------|\n|                     | indoor            | Outdoor (LED1 flash times) | Description                                                    | Reference Page |\n| Indoorand Outdoor   | E7                | 15                         | Communication fault between indoor and outdoor units           | Page . 60      |\n| Indoor Malfunction  | E1                |                            | Room temperature sensor failure                                | Page . 52      |\n| Indoor Malfunction  | E2                |                            | Heat-exchange sensor failure                                   | Page . 52      |\n| Indoor Malfunction  | E4                |                            | Indoor EEPROM error                                            | Page . 58      |\n| Indoor Malfunction  | E14               |                            | Indoor fan motor malfunction                                   | Page . 53      |\n| Outdoor Malfunction |                   | 1                          | Outdoor EEPROM error                                           | Page . 59      |\n| Outdoor Malfunction |                   | 2                          | The protection of IPM                                          | Page . 55      |\n| Outdoor Malfunction |                   | 3                          | Overcurrent protection of AC electricity for the outdoor model |                |\n|                     |                   | 4                          | Communication fault between the IPM and outdoor PCB            | Page 56        |\n|                     |                   | 6                          | Power voltage is too high or low                               | Page . 62      |\n|                     |                   | 8                          | Overheat protection for exhaust temperature                    | Page . 58      |\n|                     |                   | 9                          | outdoor fan motor malfunction                                  |                |\n|                     |                   | 10                         | Frost-removing temperature sensor failure                      | Page . 57      |\n|                     |                   | 11                         | SUCK temperature sensor failure                                | Page . 57      |\n|                     |                   | 12                         | Ambient temperature sensor failure                             | Page . 57      |\n|                     |                   | 13                         | Exhaust temperature sensor failure                             | Page . 57      |\n|                     |                   | 18                         | deviate from the normal for the compressor                     | Page . 63      |\n|                     |                   | 19                         | Loop of the station detect error                               | Page . 63      |\n|                     |                   | 24                         | Overcurrent of the compressor                                  | Page . 64      |\n|                     |                   | 25                         | Overcurrent protection for single-phase of the compressor      | Page . 64      |",
       "rows": 22,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_7_3",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_7_3",
+          "title": "7.3.Error Codes and Description indoor display"
+        }
+      ],
+      "page": 294,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

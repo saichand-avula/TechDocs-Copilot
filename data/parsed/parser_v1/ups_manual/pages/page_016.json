@@ -21,7 +21,24 @@
       "next_block_id": "txt_0135",
       "image_hash": "8f6349d6b5ce3904f64fd7dc4e5f492cb679b5b1b128a5bfcad90681fb2ce2f6",
       "width": 371,
-      "height": 266
+      "height": 266,
+      "section_id": "sec_auto_147",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2. Fault protection"
+        },
+        {
+          "id": "sec_auto_147",
+          "title": "(1) The model of 80 ~120 kVA UPS"
+        }
+      ],
+      "page": 16,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "caption",
@@ -35,6 +52,23 @@
         "b": 426.086101363195
       },
       "content": "Figure 2-12: Rectifier, inverter and STS module of 160 kVA UPS",
+      "section_id": "sec_auto_147",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2. Fault protection"
+        },
+        {
+          "id": "sec_auto_147",
+          "title": "(1) The model of 80 ~120 kVA UPS"
+        }
+      ],
+      "page": 16,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "source": "pdf_text",
       "caption_for": "fig_0018"
     },
     {
@@ -51,12 +85,30 @@
       "image_path": "figures/figure_0018.png",
       "previous_block_id": "txt_0135",
       "next_block_id": "txt_0136",
-      "caption_id": "txt_0136",
       "caption": ": Bus capacitance of 160 kVA UPS",
       "figure_number": "Figure 2-13",
       "image_hash": "610f5e6c040a13972e967f683ede2710d2ac2db899527ad94ccfb1844a39c529",
       "width": 315,
-      "height": 233
+      "height": 233,
+      "section_id": "sec_auto_147",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2. Fault protection"
+        },
+        {
+          "id": "sec_auto_147",
+          "title": "(1) The model of 80 ~120 kVA UPS"
+        }
+      ],
+      "page": 16,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0018",
+      "source": "pdf_text",
+      "caption_id": "txt_0136"
     },
     {
       "type": "caption",
@@ -70,6 +122,24 @@
         "b": 131.19610136319488
       },
       "content": "Figure 2-13: Bus capacitance of 160 kVA UPS",
+      "section_id": "sec_auto_147",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2. Fault protection"
+        },
+        {
+          "id": "sec_auto_147",
+          "title": "(1) The model of 80 ~120 kVA UPS"
+        }
+      ],
+      "page": 16,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0018",
+      "source": "pdf_text",
       "caption_for": "fig_0018"
     }
   ],

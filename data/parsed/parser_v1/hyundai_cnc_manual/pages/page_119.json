@@ -18,8 +18,21 @@
         "b": 746.7829409281768
       },
       "content": "2-5. Monthly Check and Repair",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "2",
+      "section_id": "sec_2",
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-5. Monthly Check and Repair"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 119,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -33,8 +46,21 @@
         "b": 712.8231569281769
       },
       "content": "2-5-1. Inside of the Machine",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "2",
+      "section_id": "sec_2",
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-5-1. Inside of the Machine"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 119,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -47,7 +73,20 @@
         "r": 118.071114,
         "b": 678.8032529281769
       },
-      "content": "1)"
+      "content": "1)",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-5-1. Inside of the Machine"
+        }
+      ],
+      "page": 119,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -60,7 +99,20 @@
         "r": 268.61059199999994,
         "b": 661.823360928177
       },
-      "content": "Cleaning the nozzle of coolant Used tool: - and + screwdrivers"
+      "content": "Cleaning the nozzle of coolant Used tool: - and + screwdrivers",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-5-1. Inside of the Machine"
+        }
+      ],
+      "page": 119,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -73,7 +125,20 @@
         "r": 392.1541859999999,
         "b": 644.7833489281769
       },
-      "content": "Remove chips around the coolant nozzle attached at turret."
+      "content": "Remove chips around the coolant nozzle attached at turret.",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-5-1. Inside of the Machine"
+        }
+      ],
+      "page": 119,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -89,12 +154,26 @@
       "image_path": "figures/figure_0192.png",
       "previous_block_id": "txt_0748",
       "next_block_id": "txt_0749",
-      "caption_id": "txt_0749",
       "caption": "Removing Turret Nozzle Chip",
       "figure_number": "Fig. 5-18",
       "image_hash": "405c0c911dc00f9414f410d2ebb6f4abc3977ca6ea301f861e11737131c2ea72",
       "width": 456,
-      "height": 168
+      "height": 168,
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-5-1. Inside of the Machine"
+        }
+      ],
+      "page": 119,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0192",
+      "source": "pdf_text",
+      "caption_id": "txt_0749"
     },
     {
       "type": "caption",
@@ -108,6 +187,20 @@
         "b": 440.784164928177
       },
       "content": "Fig. 5-18  Removing Turret Nozzle Chip",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-5-1. Inside of the Machine"
+        }
+      ],
+      "page": 119,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0192",
+      "source": "pdf_text",
       "caption_for": "fig_0192"
     },
     {
@@ -124,12 +217,26 @@
       "image_path": "figures/figure_0193.png",
       "previous_block_id": "txt_0749",
       "next_block_id": "txt_0750",
-      "caption_id": "txt_0750",
       "caption": "Coolant Supplying Route",
       "figure_number": "Fig. 5-19",
       "image_hash": "ec9e277e8665c80c9adaf3334a2545bdc2cd216ffb5faf1ed96baac8e90e0970",
       "width": 455,
-      "height": 298
+      "height": 298,
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-5-1. Inside of the Machine"
+        }
+      ],
+      "page": 119,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0193",
+      "source": "pdf_text",
+      "caption_id": "txt_0750"
     },
     {
       "type": "caption",
@@ -143,6 +250,20 @@
         "b": 83.78559292817704
       },
       "content": "Fig. 5-19  Coolant Supplying Route",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-5-1. Inside of the Machine"
+        }
+      ],
+      "page": 119,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0193",
+      "source": "pdf_text",
       "caption_for": "fig_0193"
     }
   ],

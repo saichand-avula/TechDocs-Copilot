@@ -18,8 +18,21 @@
         "b": 733.0429409281768
       },
       "content": "4-2. SUPER KIA TURN 200",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "4",
+      "section_id": "sec_4",
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4-2. SUPER KIA TURN 200"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 46,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -32,7 +45,20 @@
         "r": 221.91238200000006,
         "b": 699.0230369281768
       },
-      "content": "The Head Stock is A2-6"
+      "content": "The Head Stock is A2-6",
+      "section_id": "sec_4",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4-2. SUPER KIA TURN 200"
+        }
+      ],
+      "page": 46,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -50,7 +76,20 @@
       "next_block_id": "txt_0269",
       "image_hash": "ba4c503484de52cf2221f158f0784649fb1b611bcba5393bb8f734645c5896f4",
       "width": 439,
-      "height": 249
+      "height": 249,
+      "section_id": "sec_4",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4-2. SUPER KIA TURN 200"
+        }
+      ],
+      "page": 46,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "caption",
@@ -64,6 +103,20 @@
         "b": 410.0041529281769
       },
       "content": "Fig. 3-4  Head Stock (SUPER KIATURN 200)",
+      "section_id": "sec_4",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4-2. SUPER KIA TURN 200"
+        }
+      ],
+      "page": 46,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_tbl_0015",
+      "source": "pdf_text",
       "caption_for": "tbl_0015"
     },
     {
@@ -78,9 +131,23 @@
         "b": 268.10357666015625
       },
       "markdown": "|   No. | Part Name    |   No. | Part Name      |\n|-------|--------------|-------|----------------|\n|     1 | Spindle      |     7 | Collar \"B\"     |\n|     2 | Head Body    |     8 | Rear Flange    |\n|     3 | Bearing      |     9 | O-Ring         |\n|     4 | Labyrinth    |    10 | Hex. Bolt      |\n|     5 | Front Flange |    11 | Spindle Pulley |\n|     6 | Collar \"A\"   |    12 | Key            |",
-      "caption_id": "txt_0269",
       "rows": 7,
-      "cols": 4
+      "cols": 4,
+      "section_id": "sec_4",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4-2. SUPER KIA TURN 200"
+        }
+      ],
+      "page": 46,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "group_id": "grp_tbl_0015",
+      "source": "pdf_text",
+      "caption_id": "txt_0269"
     }
   ],
   "page_stats": {

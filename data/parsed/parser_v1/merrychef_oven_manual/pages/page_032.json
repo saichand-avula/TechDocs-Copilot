@@ -19,7 +19,23 @@
       },
       "content": "conneX 16",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_475",
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Technical data"
+        },
+        {
+          "id": "sec_auto_475",
+          "title": "conneX 16"
+        }
+      ],
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "page": 32,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "caption",
@@ -33,6 +49,23 @@
         "b": 739.8183344167462
       },
       "content": "Front view (door closed)",
+      "section_id": "sec_auto_475",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Technical data"
+        },
+        {
+          "id": "sec_auto_475",
+          "title": "conneX 16"
+        }
+      ],
+      "page": 32,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "source": "pdf_text",
       "caption_for": "fig_0042"
     },
     {
@@ -47,6 +80,23 @@
         "b": 739.8183344167462
       },
       "content": "Cavity dimensions (door closed)",
+      "section_id": "sec_auto_475",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Technical data"
+        },
+        {
+          "id": "sec_auto_475",
+          "title": "conneX 16"
+        }
+      ],
+      "page": 32,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "source": "pdf_text",
       "caption_for": "fig_0042"
     },
     {
@@ -63,11 +113,29 @@
       "image_path": "figures/figure_0042.png",
       "previous_block_id": "txt_0400",
       "next_block_id": "txt_0401",
-      "caption_id": "txt_0401",
       "caption": "View from the top (door closed)",
       "image_hash": "b42fbc2d3a369b9a0adb409d54c10d52b15ea39897bea5e88a277a515c3d0ff8",
       "width": 497,
-      "height": 230
+      "height": 230,
+      "section_id": "sec_auto_475",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Technical data"
+        },
+        {
+          "id": "sec_auto_475",
+          "title": "conneX 16"
+        }
+      ],
+      "page": 32,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0042",
+      "source": "pdf_text",
+      "caption_id": "txt_0401"
     },
     {
       "type": "caption",
@@ -81,6 +149,24 @@
         "b": 481.9383344167462
       },
       "content": "View from the top (door closed)",
+      "section_id": "sec_auto_475",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Technical data"
+        },
+        {
+          "id": "sec_auto_475",
+          "title": "conneX 16"
+        }
+      ],
+      "page": 32,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0042",
+      "source": "pdf_text",
       "caption_for": "fig_0042"
     },
     {
@@ -97,11 +183,29 @@
       "image_path": "figures/figure_0043.png",
       "previous_block_id": "txt_0401",
       "next_block_id": "txt_0402",
-      "caption_id": "txt_0402",
       "caption": "View from the right-hand side (door open)",
       "image_hash": "3e657057abdfe9ed7c3da7fa71acaed5fc978a46fc87a86a3044b89409a10e7c",
       "width": 502,
-      "height": 194
+      "height": 194,
+      "section_id": "sec_auto_475",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Technical data"
+        },
+        {
+          "id": "sec_auto_475",
+          "title": "conneX 16"
+        }
+      ],
+      "page": 32,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0043",
+      "source": "pdf_text",
+      "caption_id": "txt_0402"
     },
     {
       "type": "caption",
@@ -115,6 +219,24 @@
         "b": 481.9383344167462
       },
       "content": "View from the right-hand side (door open)",
+      "section_id": "sec_auto_475",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Technical data"
+        },
+        {
+          "id": "sec_auto_475",
+          "title": "conneX 16"
+        }
+      ],
+      "page": 32,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0043",
+      "source": "pdf_text",
       "caption_for": "fig_0043"
     }
   ],

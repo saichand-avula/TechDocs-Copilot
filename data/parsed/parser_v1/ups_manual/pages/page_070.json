@@ -18,8 +18,21 @@
         "b": 699.4558810919744
       },
       "content": "6 Maintenance",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "6",
+      "section_id": "sec_6",
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6 Maintenance"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 70,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -34,7 +47,24 @@
       },
       "content": "6.1 UPS Room Management",
       "level": 2,
-      "role": "section"
+      "section_number": "6.1",
+      "section_id": "sec_6_1",
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6 Maintenance"
+        },
+        {
+          "id": "sec_6_1",
+          "title": "6.1 UPS Room Management"
+        }
+      ],
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "page": 70,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -47,7 +77,24 @@
         "r": 541.2737599999996,
         "b": 607.436101363195
       },
-      "content": "UPS room management includes environmental safety management and equipment management in UPS room."
+      "content": "UPS room management includes environmental safety management and equipment management in UPS room.",
+      "section_id": "sec_6_1",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6 Maintenance"
+        },
+        {
+          "id": "sec_6_1",
+          "title": "6.1 UPS Room Management"
+        }
+      ],
+      "page": 70,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -60,7 +107,24 @@
         "r": 541.5371199999998,
         "b": 529.406101363195
       },
-      "content": "Basic tasks of environmental safety management include: ensure ambient temperature, relative humidity,  clean  class,  electrostatic  interference,  noise,  and  strong  current  electromagnetic interference in UPS room can meet related requirements, guarantee stable performance, reliable operation,  and  safe  production  of  equipment,  and  assure  normal  power  supply  of  electric equipments."
+      "content": "Basic tasks of environmental safety management include: ensure ambient temperature, relative humidity,  clean  class,  electrostatic  interference,  noise,  and  strong  current  electromagnetic interference in UPS room can meet related requirements, guarantee stable performance, reliable operation,  and  safe  production  of  equipment,  and  assure  normal  power  supply  of  electric equipments.",
+      "section_id": "sec_6_1",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6 Maintenance"
+        },
+        {
+          "id": "sec_6_1",
+          "title": "6.1 UPS Room Management"
+        }
+      ],
+      "page": 70,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -73,7 +137,24 @@
         "r": 541.6147199999999,
         "b": 467.006101363195
       },
-      "content": "Basic requirements of equipment management are: guarantee perfect mechanical performance of  equipment,  electric  performance  can  meet  related  standard  and  requirements,  stable  and reliable operation of equipment, and complete technical data and original records related to the equipment."
+      "content": "Basic requirements of equipment management are: guarantee perfect mechanical performance of  equipment,  electric  performance  can  meet  related  standard  and  requirements,  stable  and reliable operation of equipment, and complete technical data and original records related to the equipment.",
+      "section_id": "sec_6_1",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6 Maintenance"
+        },
+        {
+          "id": "sec_6_1",
+          "title": "6.1 UPS Room Management"
+        }
+      ],
+      "page": 70,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -88,7 +169,24 @@
       },
       "content": "6.2 Maintenance Guidance",
       "level": 2,
-      "role": "section"
+      "section_number": "6.2",
+      "section_id": "sec_6_2",
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6 Maintenance"
+        },
+        {
+          "id": "sec_6_2",
+          "title": "6.2 Maintenance Guidance"
+        }
+      ],
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "page": 70,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -101,7 +199,24 @@
         "r": 541.4804799999996,
         "b": 330.786101363195
       },
-      "content": "Correct maintenance (including preventative maintenance and remedial maintenance) is the key to achieve optimum operation of UPS and can ensure long service life of equipment. Preventative maintenance includes some procedures executed frequently, which are used to prevent fault of the system and to ensure maximum operating efficiency of the system. Remedial maintenance includes looking for fault of the system to achieve effective maintenance."
+      "content": "Correct maintenance (including preventative maintenance and remedial maintenance) is the key to achieve optimum operation of UPS and can ensure long service life of equipment. Preventative maintenance includes some procedures executed frequently, which are used to prevent fault of the system and to ensure maximum operating efficiency of the system. Remedial maintenance includes looking for fault of the system to achieve effective maintenance.",
+      "section_id": "sec_6_2",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6 Maintenance"
+        },
+        {
+          "id": "sec_6_2",
+          "title": "6.2 Maintenance Guidance"
+        }
+      ],
+      "page": 70,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -116,7 +231,24 @@
       },
       "content": "6.3 Safety Precautions",
       "level": 2,
-      "role": "section"
+      "section_number": "6.3",
+      "section_id": "sec_6_3",
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6 Maintenance"
+        },
+        {
+          "id": "sec_6_3",
+          "title": "6.3 Safety Precautions"
+        }
+      ],
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "page": 70,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -129,7 +261,24 @@
         "r": 541.3392799999995,
         "b": 225.78610136319492
       },
-      "content": "To  safely  and  successfully  execute  maintenance  of  the  system,  it  must  follow  related  safety precautions,  use  necessary  tools  and  testing  devices,  be  operated  by  qualified  maintenance personal, and pay attention to following safe operation regulations:"
+      "content": "To  safely  and  successfully  execute  maintenance  of  the  system,  it  must  follow  related  safety precautions,  use  necessary  tools  and  testing  devices,  be  operated  by  qualified  maintenance personal, and pay attention to following safe operation regulations:",
+      "section_id": "sec_6_3",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6 Maintenance"
+        },
+        {
+          "id": "sec_6_3",
+          "title": "6.3 Safety Precautions"
+        }
+      ],
+      "page": 70,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -142,7 +291,24 @@
         "r": 461.31568,
         "b": 210.15610136319492
       },
-      "content": "Do remember it has danger voltage inside UPS even if it is not under operation."
+      "content": "Do remember it has danger voltage inside UPS even if it is not under operation.",
+      "section_id": "sec_6_3",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6 Maintenance"
+        },
+        {
+          "id": "sec_6_3",
+          "title": "6.3 Safety Precautions"
+        }
+      ],
+      "page": 70,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -155,7 +321,24 @@
         "r": 541.3085599999993,
         "b": 178.956101363195
       },
-      "content": "Ensure  UPS  operations  and  maintenance  personal  must  be  familiar  with  the  equipment  and content of this manual."
+      "content": "Ensure  UPS  operations  and  maintenance  personal  must  be  familiar  with  the  equipment  and content of this manual.",
+      "section_id": "sec_6_3",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6 Maintenance"
+        },
+        {
+          "id": "sec_6_3",
+          "title": "6.3 Safety Precautions"
+        }
+      ],
+      "page": 70,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -168,7 +351,24 @@
         "r": 506.81568,
         "b": 163.35610136319497
       },
-      "content": "Please do not wear metal or silver jewelries such as ring and watch when operating UPS."
+      "content": "Please do not wear metal or silver jewelries such as ring and watch when operating UPS.",
+      "section_id": "sec_6_3",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6 Maintenance"
+        },
+        {
+          "id": "sec_6_3",
+          "title": "6.3 Safety Precautions"
+        }
+      ],
+      "page": 70,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -181,7 +381,24 @@
         "r": 417.63568,
         "b": 147.75610136319494
       },
-      "content": "Please study to personal who is familiar with it if there is any question."
+      "content": "Please study to personal who is familiar with it if there is any question.",
+      "section_id": "sec_6_3",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6 Maintenance"
+        },
+        {
+          "id": "sec_6_3",
+          "title": "6.3 Safety Precautions"
+        }
+      ],
+      "page": 70,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -194,7 +411,24 @@
         "r": 541.1500799999995,
         "b": 116.55610136319501
       },
-      "content": "Be  careful  of  danger  voltage  inside  the  UPS,  and  inspect  and  ensure  power  supply  is  under safety status before taking maintenance and debugging."
+      "content": "Be  careful  of  danger  voltage  inside  the  UPS,  and  inspect  and  ensure  power  supply  is  under safety status before taking maintenance and debugging.",
+      "section_id": "sec_6_3",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6 Maintenance"
+        },
+        {
+          "id": "sec_6_3",
+          "title": "6.3 Safety Precautions"
+        }
+      ],
+      "page": 70,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

@@ -18,8 +18,21 @@
         "b": 754.9440000000001
       },
       "content": "4       OSCi (optional)",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "4",
+      "section_id": "sec_4",
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4       OSCi (optional)"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 69,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -34,7 +47,24 @@
       },
       "content": "4.1    Introduction",
       "level": 2,
-      "role": "section"
+      "section_number": "4.1",
+      "section_id": "sec_4_1",
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4       OSCi (optional)"
+        },
+        {
+          "id": "sec_4_1",
+          "title": "4.1    Introduction"
+        }
+      ],
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "page": 69,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -47,7 +77,24 @@
         "r": 565.1880000000007,
         "b": 650.824
       },
-      "content": "Compressed air produced by oil-injected compressors contains a small quantity of oil. During the cooling of the air in the aftercooler and in the refrigeration dryer (on compressors with built-in refrigeration dryer), oilcontaining condensate is formed."
+      "content": "Compressed air produced by oil-injected compressors contains a small quantity of oil. During the cooling of the air in the aftercooler and in the refrigeration dryer (on compressors with built-in refrigeration dryer), oilcontaining condensate is formed.",
+      "section_id": "sec_4_1",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4       OSCi (optional)"
+        },
+        {
+          "id": "sec_4_1",
+          "title": "4.1    Introduction"
+        }
+      ],
+      "page": 69,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -60,7 +107,24 @@
         "r": 564.4300999999992,
         "b": 578.8839999999998
       },
-      "content": "The OSCi is a condensate treatment device, designed to separate the major part of this oil from the condensate and to sorb it in its replaceable filters, thus preventing contamination of the environment. It is capable to break and sorb most stable emulsions. The OSCi is in sensitive to shocks and vibrations because of the use of filter sand can be used with all types of drains. The condensate meets the requirements of the environmental codes."
+      "content": "The OSCi is a condensate treatment device, designed to separate the major part of this oil from the condensate and to sorb it in its replaceable filters, thus preventing contamination of the environment. It is capable to break and sorb most stable emulsions. The OSCi is in sensitive to shocks and vibrations because of the use of filter sand can be used with all types of drains. The condensate meets the requirements of the environmental codes.",
+      "section_id": "sec_4_1",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4       OSCi (optional)"
+        },
+        {
+          "id": "sec_4_1",
+          "title": "4.1    Introduction"
+        }
+      ],
+      "page": 69,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -73,7 +137,24 @@
         "r": 340.1334999999997,
         "b": 559.7439999999998
       },
-      "content": "The OSCi is installed inside the canopy of a compressor."
+      "content": "The OSCi is installed inside the canopy of a compressor.",
+      "section_id": "sec_4_1",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4       OSCi (optional)"
+        },
+        {
+          "id": "sec_4_1",
+          "title": "4.1    Introduction"
+        }
+      ],
+      "page": 69,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -86,7 +167,24 @@
         "r": 469.2239999999989,
         "b": 539.7635999999998
       },
-      "content": "The number in the model designation is the original GA range for which it is designed."
+      "content": "The number in the model designation is the original GA range for which it is designed.",
+      "section_id": "sec_4_1",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4       OSCi (optional)"
+        },
+        {
+          "id": "sec_4_1",
+          "title": "4.1    Introduction"
+        }
+      ],
+      "page": 69,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -102,11 +200,29 @@
       "image_path": "figures/figure_0200.png",
       "previous_block_id": "txt_0486",
       "next_block_id": "txt_0487",
-      "caption_id": "txt_0487",
       "caption": "OSCi 3790 inside a GA 45 FF compressor",
       "image_hash": "590bc2a49ab5b1063e3f9600c72b7497a4d4859bd6c3caacdf90fca9616b233e",
       "width": 307,
-      "height": 278
+      "height": 278,
+      "section_id": "sec_4_1",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4       OSCi (optional)"
+        },
+        {
+          "id": "sec_4_1",
+          "title": "4.1    Introduction"
+        }
+      ],
+      "page": 69,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0200",
+      "source": "pdf_text",
+      "caption_id": "txt_0487"
     },
     {
       "type": "caption",
@@ -120,6 +236,24 @@
         "b": 179.79999999999995
       },
       "content": "OSCi 3790 inside a GA 45 FF compressor",
+      "section_id": "sec_4_1",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4       OSCi (optional)"
+        },
+        {
+          "id": "sec_4_1",
+          "title": "4.1    Introduction"
+        }
+      ],
+      "page": 69,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0200",
+      "source": "pdf_text",
       "caption_for": "fig_0200"
     },
     {
@@ -137,7 +271,24 @@
       "previous_block_id": "txt_0487",
       "width": 47,
       "height": 22,
-      "image_hash": "b28a1d23de5124d82d6f84120acacff249829ec0e42f4c826059a188d93e4d2e"
+      "image_hash": "b28a1d23de5124d82d6f84120acacff249829ec0e42f4c826059a188d93e4d2e",
+      "section_id": "sec_4_1",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4       OSCi (optional)"
+        },
+        {
+          "id": "sec_4_1",
+          "title": "4.1    Introduction"
+        }
+      ],
+      "page": 69,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

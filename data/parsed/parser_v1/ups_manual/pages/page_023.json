@@ -19,12 +19,34 @@
       },
       "image_path": "figures/figure_0029.png",
       "next_block_id": "txt_0188",
-      "caption_id": "txt_0188",
       "caption": ": External view of 80 ~ 300 kVA cabinet",
       "figure_number": "Figure 3-2",
       "image_hash": "158c085ed39242517efbf6a40ecfee0193c94d6e08b947a15639a5ade54845af",
       "width": 342,
-      "height": 226
+      "height": 226,
+      "section_id": "sec_3_1_1",
+      "parent_section_id": "sec_3_1",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_1",
+          "title": "3.1 Selecting Location"
+        },
+        {
+          "id": "sec_3_1_1",
+          "title": "3.1.1 UPS Room"
+        }
+      ],
+      "page": 23,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0029",
+      "source": "pdf_text",
+      "caption_id": "txt_0188"
     },
     {
       "type": "caption",
@@ -38,6 +60,28 @@
         "b": 465.326101363195
       },
       "content": "Figure 3-2: External view of 80 ~ 300 kVA cabinet",
+      "section_id": "sec_3_1_1",
+      "parent_section_id": "sec_3_1",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_1",
+          "title": "3.1 Selecting Location"
+        },
+        {
+          "id": "sec_3_1_1",
+          "title": "3.1.1 UPS Room"
+        }
+      ],
+      "page": 23,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0029",
+      "source": "pdf_text",
       "caption_for": "fig_0029"
     },
     {
@@ -52,7 +96,28 @@
         "b": 434.126101363195
       },
       "content": "Note: The series of 80 ~ 160 kVA UPS is equipped with single-door, the series of 200 ~ 300 kVA UPS is equipped with double-door, the Figure above is schematic diagram.",
-      "severity": "note"
+      "severity": "note",
+      "section_id": "sec_3_1_1",
+      "parent_section_id": "sec_3_1",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_1",
+          "title": "3.1 Selecting Location"
+        },
+        {
+          "id": "sec_3_1_1",
+          "title": "3.1.1 UPS Room"
+        }
+      ],
+      "page": 23,
+      "chunk_hint": "admonition",
+      "semantic_role": "note",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -66,8 +131,29 @@
         "b": 405.5628447886093
       },
       "content": "3.1.2 External Battery Room",
-      "level": 2,
-      "role": "section"
+      "level": 3,
+      "section_number": "3.1.2",
+      "section_id": "sec_3_1_2",
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_1",
+          "title": "3.1 Selecting Location"
+        },
+        {
+          "id": "sec_3_1_2",
+          "title": "3.1.2 External Battery Room"
+        }
+      ],
+      "parent_section_id": "sec_3_1",
+      "section_level": 3,
+      "page": 23,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -80,7 +166,28 @@
         "r": 541.5571200000002,
         "b": 353.22610136319497
       },
-      "content": "Ambient  temperature  of  the  battery  should  be  constant,  and  it  is  the  major  factor  affecting  the , it will"
+      "content": "Ambient  temperature  of  the  battery  should  be  constant,  and  it  is  the  major  factor  affecting  the , it will",
+      "section_id": "sec_3_1_2",
+      "parent_section_id": "sec_3_1",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_1",
+          "title": "3.1 Selecting Location"
+        },
+        {
+          "id": "sec_3_1_2",
+          "title": "3.1.2 External Battery Room"
+        }
+      ],
+      "page": 23,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -93,7 +200,28 @@
         "r": 541.3190399999992,
         "b": 314.586101363195
       },
-      "content": "capacity and service life of battery. Standard working temperature of battery is 20 ℃ ~ 25 ℃ shorten the service life of battery if it is used in condition that ambient temperature is higher than it, and it will reduce the battery capacity if it is used in condition that ambient temperature is lower than"
+      "content": "capacity and service life of battery. Standard working temperature of battery is 20 ℃ ~ 25 ℃ shorten the service life of battery if it is used in condition that ambient temperature is higher than it, and it will reduce the battery capacity if it is used in condition that ambient temperature is lower than",
+      "section_id": "sec_3_1_2",
+      "parent_section_id": "sec_3_1",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_1",
+          "title": "3.1 Selecting Location"
+        },
+        {
+          "id": "sec_3_1_2",
+          "title": "3.1.2 External Battery Room"
+        }
+      ],
+      "page": 23,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -106,7 +234,28 @@
         "r": 541.5495999999998,
         "b": 290.55950638841716
       },
-      "content": "it. In general condition, ambient temperature range of battery is 15 ℃ ~ 25 ℃ . The battery should be"
+      "content": "it. In general condition, ambient temperature range of battery is 15 ℃ ~ 25 ℃ . The battery should be",
+      "section_id": "sec_3_1_2",
+      "parent_section_id": "sec_3_1",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_1",
+          "title": "3.1 Selecting Location"
+        },
+        {
+          "id": "sec_3_1_2",
+          "title": "3.1.2 External Battery Room"
+        }
+      ],
+      "page": 23,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -119,7 +268,28 @@
         "r": 541.5447999999997,
         "b": 236.58610136319498
       },
-      "content": "far away from heat resource and take reasonable ventilation (EN50091-1 annex N) to avoid forming of mixed gas of hydrogen and oxygen which is explosive. Battery switch should be installed near the battery, and wiring distance from battery to UPS should be as short as possible."
+      "content": "far away from heat resource and take reasonable ventilation (EN50091-1 annex N) to avoid forming of mixed gas of hydrogen and oxygen which is explosive. Battery switch should be installed near the battery, and wiring distance from battery to UPS should be as short as possible.",
+      "section_id": "sec_3_1_2",
+      "parent_section_id": "sec_3_1",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_1",
+          "title": "3.1 Selecting Location"
+        },
+        {
+          "id": "sec_3_1_2",
+          "title": "3.1.2 External Battery Room"
+        }
+      ],
+      "page": 23,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -133,8 +303,29 @@
         "b": 207.99284478860932
       },
       "content": "3.1.3 Storage",
-      "level": 2,
-      "role": "section"
+      "level": 3,
+      "section_number": "3.1.3",
+      "section_id": "sec_3_1_3",
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_1",
+          "title": "3.1 Selecting Location"
+        },
+        {
+          "id": "sec_3_1_3",
+          "title": "3.1.3 Storage"
+        }
+      ],
+      "parent_section_id": "sec_3_1",
+      "section_level": 3,
+      "page": 23,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -147,7 +338,28 @@
         "r": 541.56208,
         "b": 148.11610136319496
       },
-      "content": "If it is not installed at once, please put the UPS vertically according to instruction shown in package. It  should be stored in dry and shade room together with its packing-case to avoid dust and high temperature."
+      "content": "If it is not installed at once, please put the UPS vertically according to instruction shown in package. It  should be stored in dry and shade room together with its packing-case to avoid dust and high temperature.",
+      "section_id": "sec_3_1_3",
+      "parent_section_id": "sec_3_1",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_1",
+          "title": "3.1 Selecting Location"
+        },
+        {
+          "id": "sec_3_1_3",
+          "title": "3.1.3 Storage"
+        }
+      ],
+      "page": 23,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -160,7 +372,28 @@
         "r": 541.3488799999999,
         "b": 101.316101363195
       },
-      "content": "Cover UPS with packing-case to prevent dust or other impurities from entering UPS, which will influence reliability of UPS, when the room or place where it is stored need to decorate or UPS is not used for a long time."
+      "content": "Cover UPS with packing-case to prevent dust or other impurities from entering UPS, which will influence reliability of UPS, when the room or place where it is stored need to decorate or UPS is not used for a long time.",
+      "section_id": "sec_3_1_3",
+      "parent_section_id": "sec_3_1",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_1",
+          "title": "3.1 Selecting Location"
+        },
+        {
+          "id": "sec_3_1_3",
+          "title": "3.1.3 Storage"
+        }
+      ],
+      "page": 23,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

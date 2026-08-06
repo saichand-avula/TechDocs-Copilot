@@ -19,7 +19,19 @@
       },
       "content": "Section  1",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_9",
+      "section_path": [
+        {
+          "id": "sec_auto_9",
+          "title": "Section  1"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 2,
+      "page": 5,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -34,7 +46,19 @@
       },
       "content": "Contents",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_10",
+      "section_path": [
+        {
+          "id": "sec_auto_10",
+          "title": "Contents"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 2,
+      "page": 5,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -49,7 +73,20 @@
       },
       "markdown": "| INTRODUCTION   |\n|----------------|",
       "rows": 1,
-      "cols": 1
+      "cols": 1,
+      "section_id": "sec_auto_10",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_10",
+          "title": "Contents"
+        }
+      ],
+      "page": 5,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

@@ -18,8 +18,21 @@
         "b": 746.8429409281769
       },
       "content": "2-3-4. Checking Pressure",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "2",
+      "section_id": "sec_2",
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-3-4. Checking Pressure"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 114,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -32,7 +45,20 @@
         "r": 430.47066599999897,
         "b": 712.8230369281769
       },
-      "content": "Check the pressures in Hydraulic unit, Chuck, Sub-chuck and Tail Stock."
+      "content": "Check the pressures in Hydraulic unit, Chuck, Sub-chuck and Tail Stock.",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-3-4. Checking Pressure"
+        }
+      ],
+      "page": 114,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -45,7 +71,20 @@
         "r": 290.15066399999995,
         "b": 695.8429409281769
       },
-      "content": "Hydraulic unit: 35 kgf/cm 2 (3.5 MPa)"
+      "content": "Hydraulic unit: 35 kgf/cm 2 (3.5 MPa)",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-3-4. Checking Pressure"
+        }
+      ],
+      "page": 114,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -58,7 +97,20 @@
         "r": 300.1851119999998,
         "b": 678.8029289281768
       },
-      "content": "Chuck: 5 ~ 27 kgf/cm 2 (0.5 ~ 2.7 MPa)"
+      "content": "Chuck: 5 ~ 27 kgf/cm 2 (0.5 ~ 2.7 MPa)",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-3-4. Checking Pressure"
+        }
+      ],
+      "page": 114,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -71,7 +123,20 @@
         "r": 307.3964879999999,
         "b": 661.8229409281769
       },
-      "content": "Tail Stock: 1 ~ 20 kgf/cm 2 (0.1 ~ 2 MPa)"
+      "content": "Tail Stock: 1 ~ 20 kgf/cm 2 (0.1 ~ 2 MPa)",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-3-4. Checking Pressure"
+        }
+      ],
+      "page": 114,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -89,7 +154,20 @@
       "next_block_id": "txt_0697",
       "image_hash": "aae24094f332139edc3ead9028a9b80c540a77263d29a78362a758b0a3735028",
       "width": 122,
-      "height": 31
+      "height": 31,
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-3-4. Checking Pressure"
+        }
+      ],
+      "page": 114,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -102,7 +180,20 @@
         "r": 461.5533419999989,
         "b": 572.4229409281768
       },
-      "content": "If being set above the specified pressure, it can cause machine failure."
+      "content": "If being set above the specified pressure, it can cause machine failure.",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-3-4. Checking Pressure"
+        }
+      ],
+      "page": 114,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -118,12 +209,26 @@
       "image_path": "figures/figure_0179.png",
       "previous_block_id": "txt_0697",
       "next_block_id": "txt_0698",
-      "caption_id": "txt_0698",
       "caption": "Checking Pressure",
       "figure_number": "Fig. 5-12",
       "image_hash": "1baa049bdb2e7830e3a2b94e7c264573ce1b9c4e11d7fa9d0f45673a8e4a37f6",
       "width": 467,
-      "height": 414
+      "height": 414,
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-3-4. Checking Pressure"
+        }
+      ],
+      "page": 114,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0179",
+      "source": "pdf_text",
+      "caption_id": "txt_0698"
     },
     {
       "type": "caption",
@@ -137,6 +242,20 @@
         "b": 110.90466892817676
       },
       "content": "Fig. 5-12  Checking Pressure",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-3-4. Checking Pressure"
+        }
+      ],
+      "page": 114,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0179",
+      "source": "pdf_text",
       "caption_for": "fig_0179"
     }
   ],

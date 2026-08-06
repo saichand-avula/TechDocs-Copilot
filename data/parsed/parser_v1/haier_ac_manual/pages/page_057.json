@@ -17,7 +17,24 @@
         "r": 149.44167204,
         "b": 738.279438
       },
-      "content": "outdoor display"
+      "content": "outdoor display",
+      "section_id": "sec_auto_703",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. 3 .3    IPM protection"
+        },
+        {
+          "id": "sec_auto_703",
+          "title": "Check the IPM module method:"
+        }
+      ],
+      "page": 57,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -30,7 +47,24 @@
         "r": 357.0139461,
         "b": 738.279438
       },
-      "content": "LED1 flash    4 times          Indoor Display      F3"
+      "content": "LED1 flash    4 times          Indoor Display      F3",
+      "section_id": "sec_auto_703",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. 3 .3    IPM protection"
+        },
+        {
+          "id": "sec_auto_703",
+          "title": "Check the IPM module method:"
+        }
+      ],
+      "page": 57,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -48,7 +82,24 @@
       "next_block_id": "txt_0515",
       "image_hash": "6d19f92619d4043e77ee77b4d536d335022b3f146abf6eab3ebabaa3b037c243",
       "width": 516,
-      "height": 633
+      "height": 633,
+      "section_id": "sec_auto_703",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. 3 .3    IPM protection"
+        },
+        {
+          "id": "sec_auto_703",
+          "title": "Check the IPM module method:"
+        }
+      ],
+      "page": 57,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -62,8 +113,21 @@
         "b": 87.14975700000002
       },
       "content": "7. .5    Thermistor or Related Abnormality(outdoor unit)",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "7",
+      "section_id": "sec_7",
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. .5    Thermistor or Related Abnormality(outdoor unit)"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 57,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -76,7 +140,20 @@
         "r": 261.5044050600004,
         "b": 68.68813799999998
       },
-      "content": "Frost-removing temperature sensor failure"
+      "content": "Frost-removing temperature sensor failure",
+      "section_id": "sec_7",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. .5    Thermistor or Related Abnormality(outdoor unit)"
+        }
+      ],
+      "page": 57,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

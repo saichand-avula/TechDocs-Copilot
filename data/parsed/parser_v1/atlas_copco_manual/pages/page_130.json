@@ -22,7 +22,24 @@
       "width": 47,
       "height": 23,
       "decorative": true,
-      "image_hash": "7577891dcf1743bd2e7a735ef2621e01244d960bde43e28868c27d7c1437ddb9"
+      "image_hash": "7577891dcf1743bd2e7a735ef2621e01244d960bde43e28868c27d7c1437ddb9",
+      "section_id": "sec_auto_1425",
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10     Problem solving"
+        },
+        {
+          "id": "sec_auto_1425",
+          "title": "Faults and remedies"
+        }
+      ],
+      "page": 130,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -36,8 +53,21 @@
         "b": 754.9440000000001
       },
       "content": "11     Technical data",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "11",
+      "section_id": "sec_11",
+      "section_path": [
+        {
+          "id": "sec_11",
+          "title": "11     Technical data"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 130,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -52,7 +82,24 @@
       },
       "content": "11.1   Readings on display",
       "level": 2,
-      "role": "section"
+      "section_number": "11.1",
+      "section_id": "sec_11_1",
+      "section_path": [
+        {
+          "id": "sec_11",
+          "title": "11     Technical data"
+        },
+        {
+          "id": "sec_11_1",
+          "title": "11.1   Readings on display"
+        }
+      ],
+      "parent_section_id": "sec_11",
+      "section_level": 2,
+      "page": 130,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -67,7 +114,23 @@
       },
       "content": "Display of the Elektronikon®",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1441",
+      "section_path": [
+        {
+          "id": "sec_11",
+          "title": "11     Technical data"
+        },
+        {
+          "id": "sec_auto_1441",
+          "title": "Display of the Elektronikon®"
+        }
+      ],
+      "parent_section_id": "sec_11",
+      "section_level": 2,
+      "page": 130,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -85,7 +148,24 @@
       "next_block_id": "txt_1005",
       "image_hash": "618118a7081dfe00445e81b26dd647c320daa6d7b3c07231a91f583c5457a1c2",
       "width": 150,
-      "height": 119
+      "height": 119,
+      "section_id": "sec_auto_1441",
+      "parent_section_id": "sec_11",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_11",
+          "title": "11     Technical data"
+        },
+        {
+          "id": "sec_auto_1441",
+          "title": "Display of the Elektronikon®"
+        }
+      ],
+      "page": 130,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -98,7 +178,24 @@
         "r": 489.814373300001,
         "b": 444.4681552
       },
-      "content": "The readings mentioned below are valid under the reference conditions (see section Reference conditions and limitations)."
+      "content": "The readings mentioned below are valid under the reference conditions (see section Reference conditions and limitations).",
+      "section_id": "sec_auto_1441",
+      "parent_section_id": "sec_11",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_11",
+          "title": "11     Technical data"
+        },
+        {
+          "id": "sec_auto_1441",
+          "title": "Display of the Elektronikon®"
+        }
+      ],
+      "page": 130,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -117,7 +214,24 @@
       "width": 22,
       "height": 24,
       "decorative": true,
-      "image_hash": "3c54246c9a8d1bbd2c103b3216b061ade72d8dc94d4e69a1a6092c970da41efe"
+      "image_hash": "3c54246c9a8d1bbd2c103b3216b061ade72d8dc94d4e69a1a6092c970da41efe",
+      "section_id": "sec_auto_1441",
+      "parent_section_id": "sec_11",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_11",
+          "title": "11     Technical data"
+        },
+        {
+          "id": "sec_auto_1441",
+          "title": "Display of the Elektronikon®"
+        }
+      ],
+      "page": 130,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -132,7 +246,24 @@
       },
       "markdown": "| Type   |   V |   Hz | Approval   |   I tot P (1) |   I tot FF (1) | Recommended wire section (2)   | Recommended wire section (3)   | Main fuses (A) (4)   |\n|--------|-----|------|------------|---------------|----------------|--------------------------------|--------------------------------|----------------------|\n| GA 37+ | 400 |   50 | IEC        |            82 |             87 | 4 X 35 mm 2                    | 4 X 70 mm 2                    | 100 (50)             |\n| GA 45+ | 400 |   50 | IEC        |           100 |            110 | 4 X 50 mm 2                    | 7 X 25 mm 2                    | 125 (63)             |\n| GA 55  | 400 |   50 | IEC        |           116 |            126 | 4 x 70 mm 2                    | 7 x 50 mm 2                    | 160(80)              |\n| GA 75  | 400 |   50 | IEC        |           159 |            169 | 7 x 35 mm 2                    | 7 x 70 mm 2                    | (100)                |",
       "rows": 5,
-      "cols": 9
+      "cols": 9,
+      "section_id": "sec_auto_1441",
+      "parent_section_id": "sec_11",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_11",
+          "title": "11     Technical data"
+        },
+        {
+          "id": "sec_auto_1441",
+          "title": "Display of the Elektronikon®"
+        }
+      ],
+      "page": 130,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -147,7 +278,23 @@
       },
       "content": "Important",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1446",
+      "section_path": [
+        {
+          "id": "sec_11",
+          "title": "11     Technical data"
+        },
+        {
+          "id": "sec_auto_1446",
+          "title": "Important"
+        }
+      ],
+      "parent_section_id": "sec_11",
+      "section_level": 2,
+      "page": 130,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

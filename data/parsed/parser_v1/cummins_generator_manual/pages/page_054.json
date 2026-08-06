@@ -19,7 +19,23 @@
       },
       "content": "AIR CLEANER",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_663",
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8. Routine Maintenance"
+        },
+        {
+          "id": "sec_auto_663",
+          "title": "AIR CLEANER"
+        }
+      ],
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "page": 54,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -32,7 +48,24 @@
         "r": 291.3848000000004,
         "b": 641.9583492035389
       },
-      "content": "The air cleaner element (Figure 8-5) is a dry type and should never have oil applied to it.  Avoid touching the element except when cleaning it.  Instructions  for  cleaning  the  element  are  on  a  label  attached to the element.  Change the element yearly, or more often in extremely dusty conditions."
+      "content": "The air cleaner element (Figure 8-5) is a dry type and should never have oil applied to it.  Avoid touching the element except when cleaning it.  Instructions  for  cleaning  the  element  are  on  a  label  attached to the element.  Change the element yearly, or more often in extremely dusty conditions.",
+      "section_id": "sec_auto_663",
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8. Routine Maintenance"
+        },
+        {
+          "id": "sec_auto_663",
+          "title": "AIR CLEANER"
+        }
+      ],
+      "page": 54,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -48,12 +81,30 @@
       "image_path": "figures/figure_0033.png",
       "previous_block_id": "txt_0630",
       "next_block_id": "txt_0631",
-      "caption_id": "txt_0631",
       "caption": ".  AIR CLEANER ASSEMBLY",
       "figure_number": "FIGURE 8-5",
       "image_hash": "8f4bf5ad65052a9de9b71877d174c87df00c7f8d5c2070ef7f572eb2c2d75d24",
       "width": 245,
-      "height": 240
+      "height": 240,
+      "section_id": "sec_auto_663",
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8. Routine Maintenance"
+        },
+        {
+          "id": "sec_auto_663",
+          "title": "AIR CLEANER"
+        }
+      ],
+      "page": 54,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0033",
+      "source": "pdf_text",
+      "caption_id": "txt_0631"
     },
     {
       "type": "caption",
@@ -67,6 +118,24 @@
         "b": 361.2253569398876
       },
       "content": "FIGURE 8-5.  AIR CLEANER ASSEMBLY",
+      "section_id": "sec_auto_663",
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8. Routine Maintenance"
+        },
+        {
+          "id": "sec_auto_663",
+          "title": "AIR CLEANER"
+        }
+      ],
+      "page": 54,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0033",
+      "source": "pdf_text",
       "caption_for": "fig_0033"
     },
     {
@@ -82,7 +151,23 @@
       },
       "content": "BATTERY CARE",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_667",
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8. Routine Maintenance"
+        },
+        {
+          "id": "sec_auto_667",
+          "title": "BATTERY CARE"
+        }
+      ],
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "page": 54,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -95,7 +180,24 @@
         "r": 291.47940000000045,
         "b": 261.49104920353875
       },
-      "content": "Service the battery at the intervals  shown in the maintenance schedule.  Check the electrolyte level more frequently during hot weather."
+      "content": "Service the battery at the intervals  shown in the maintenance schedule.  Check the electrolyte level more frequently during hot weather.",
+      "section_id": "sec_auto_667",
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8. Routine Maintenance"
+        },
+        {
+          "id": "sec_auto_667",
+          "title": "BATTERY CARE"
+        }
+      ],
+      "page": 54,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "admonition",
@@ -109,7 +211,24 @@
         "b": 145.4396519502825
       },
       "content": "WARNING Batteries present the hazard of explosion that can result in severe personal injury.  Do not smoke or allow any fire, flame, spark, pilot  light,  arc-producing  equipment  or  other ignition sources around the battery area.  Do not disconnect battery cables while the generator set is cranking or running because explosive battery gases could be ignited.",
-      "severity": "warning"
+      "severity": "warning",
+      "section_id": "sec_auto_667",
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8. Routine Maintenance"
+        },
+        {
+          "id": "sec_auto_667",
+          "title": "BATTERY CARE"
+        }
+      ],
+      "page": 54,
+      "chunk_hint": "admonition",
+      "semantic_role": "warning",
+      "source": "pdf_text"
     },
     {
       "type": "admonition",
@@ -123,7 +242,24 @@
         "b": 77.63405195028258
       },
       "content": "WARNING Battery  electrolyte  can  cause  severe eye damage and burns to the skin.  Wear goggles, rubber gloves and a protective apron when working with batteries.",
-      "severity": "warning"
+      "severity": "warning",
+      "section_id": "sec_auto_667",
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8. Routine Maintenance"
+        },
+        {
+          "id": "sec_auto_667",
+          "title": "BATTERY CARE"
+        }
+      ],
+      "page": 54,
+      "chunk_hint": "admonition",
+      "semantic_role": "warning",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -136,7 +272,24 @@
         "r": 247.66880000000018,
         "b": 54.675849203538746
       },
-      "content": "Keep the battery case clean and dry."
+      "content": "Keep the battery case clean and dry.",
+      "section_id": "sec_auto_667",
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8. Routine Maintenance"
+        },
+        {
+          "id": "sec_auto_667",
+          "title": "BATTERY CARE"
+        }
+      ],
+      "page": 54,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -149,7 +302,24 @@
         "r": 564.8747000000002,
         "b": 702.7892492035388
       },
-      "content": "Make  certain  that  the  battery  cable  connections are clean and tight.  Use a terminal puller tool to remove the battery cables."
+      "content": "Make  certain  that  the  battery  cable  connections are clean and tight.  Use a terminal puller tool to remove the battery cables.",
+      "section_id": "sec_auto_667",
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8. Routine Maintenance"
+        },
+        {
+          "id": "sec_auto_667",
+          "title": "BATTERY CARE"
+        }
+      ],
+      "page": 54,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -162,7 +332,24 @@
         "r": 564.9593999999993,
         "b": 585.606249203539
       },
-      "content": "Remove  corrosion  from  the  battery  terminal connections.  Wash the terminals with an ammonia solution or a solution consisting of 1/4 pound (about 100 grams) of baking soda in 1 quart (about 1 liter) of water. Be sure the vent plugs are tight to prevent cleaning solution from entering the cells.  After cleaning, flush the outside of the battery and the surrounding areas with clean water."
+      "content": "Remove  corrosion  from  the  battery  terminal connections.  Wash the terminals with an ammonia solution or a solution consisting of 1/4 pound (about 100 grams) of baking soda in 1 quart (about 1 liter) of water. Be sure the vent plugs are tight to prevent cleaning solution from entering the cells.  After cleaning, flush the outside of the battery and the surrounding areas with clean water.",
+      "section_id": "sec_auto_667",
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8. Routine Maintenance"
+        },
+        {
+          "id": "sec_auto_667",
+          "title": "BATTERY CARE"
+        }
+      ],
+      "page": 54,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -175,7 +362,24 @@
         "r": 564.8801999999993,
         "b": 531.6347492035392
       },
-      "content": "Identify the cable as positive (+) or negative (-) before  making  the  battery  connections.    Always connect the negative (-) cable last, to reduce the risk of arcing."
+      "content": "Identify the cable as positive (+) or negative (-) before  making  the  battery  connections.    Always connect the negative (-) cable last, to reduce the risk of arcing.",
+      "section_id": "sec_auto_667",
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8. Routine Maintenance"
+        },
+        {
+          "id": "sec_auto_667",
+          "title": "BATTERY CARE"
+        }
+      ],
+      "page": 54,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -188,7 +392,24 @@
         "r": 564.8912000000005,
         "b": 452.3214492035393
       },
-      "content": "Maintain the electrolyte level by adding distilled water.  Fill each cell to the split-level marker in the battery.  The water component of the electrolyte evaporates, but the sulfuric acid component remains.  For this reason, add water, not electrolyte to the battery."
+      "content": "Maintain the electrolyte level by adding distilled water.  Fill each cell to the split-level marker in the battery.  The water component of the electrolyte evaporates, but the sulfuric acid component remains.  For this reason, add water, not electrolyte to the battery.",
+      "section_id": "sec_auto_667",
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8. Routine Maintenance"
+        },
+        {
+          "id": "sec_auto_667",
+          "title": "BATTERY CARE"
+        }
+      ],
+      "page": 54,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -201,7 +422,24 @@
         "r": 564.8592999999998,
         "b": 358.12470683593745
       },
-      "content": "Use a battery hydrometer to check the specific gravity  of  the  electrolyte  in  each  battery  cell (Figure 8-6).  Charge the battery if the specific gravity measures less than 1.215.  Do not overcharge the battery.  Stop charging the battery when the electrolyte specific gravity reaches 1.260, at approximately 80  F (27  C)."
+      "content": "Use a battery hydrometer to check the specific gravity  of  the  electrolyte  in  each  battery  cell (Figure 8-6).  Charge the battery if the specific gravity measures less than 1.215.  Do not overcharge the battery.  Stop charging the battery when the electrolyte specific gravity reaches 1.260, at approximately 80  F (27  C).",
+      "section_id": "sec_auto_667",
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8. Routine Maintenance"
+        },
+        {
+          "id": "sec_auto_667",
+          "title": "BATTERY CARE"
+        }
+      ],
+      "page": 54,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -217,12 +455,30 @@
       "image_path": "figures/figure_0034.png",
       "previous_block_id": "txt_0641",
       "next_block_id": "txt_0642",
-      "caption_id": "txt_0642",
       "caption": ". BATTERY CHECK",
       "figure_number": "FIGURE 8-6",
       "image_hash": "b65ae4d0307b4e236721ea0ac3a2752ea7693d36d99332b1c1b255e2ce3552d5",
       "width": 242,
-      "height": 181
+      "height": 181,
+      "section_id": "sec_auto_667",
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8. Routine Maintenance"
+        },
+        {
+          "id": "sec_auto_667",
+          "title": "BATTERY CARE"
+        }
+      ],
+      "page": 54,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0034",
+      "source": "pdf_text",
+      "caption_id": "txt_0642"
     },
     {
       "type": "caption",
@@ -236,6 +492,24 @@
         "b": 150.89465693988757
       },
       "content": "FIGURE 8-6. BATTERY CHECK",
+      "section_id": "sec_auto_667",
+      "parent_section_id": "sec_8",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8. Routine Maintenance"
+        },
+        {
+          "id": "sec_auto_667",
+          "title": "BATTERY CARE"
+        }
+      ],
+      "page": 54,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0034",
+      "source": "pdf_text",
       "caption_for": "fig_0034"
     }
   ],

@@ -19,12 +19,30 @@
       },
       "image_path": "figures/figure_0028.png",
       "next_block_id": "txt_0510",
-      "caption_id": "txt_0510",
       "caption": ".  LOCATION, OUTPUT VOLTAGE ADJUSTMENT",
       "figure_number": "FIGURE 7-7",
       "image_hash": "9dc9603ef1ad45bffd4e03eac6f38b8e869f2f3f2237dfaeb6396ad9638ea92b",
       "width": 518,
-      "height": 351
+      "height": 351,
+      "section_id": "sec_auto_536",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. Generator Set/Regulator Tests"
+        },
+        {
+          "id": "sec_auto_536",
+          "title": "RECONNECTION"
+        }
+      ],
+      "page": 44,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0028",
+      "source": "pdf_text",
+      "caption_id": "txt_0510"
     },
     {
       "type": "caption",
@@ -38,6 +56,24 @@
         "b": 358.2773569398876
       },
       "content": "FIGURE 7-7.  LOCATION, OUTPUT VOLTAGE ADJUSTMENT",
+      "section_id": "sec_auto_536",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. Generator Set/Regulator Tests"
+        },
+        {
+          "id": "sec_auto_536",
+          "title": "RECONNECTION"
+        }
+      ],
+      "page": 44,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0028",
+      "source": "pdf_text",
       "caption_for": "fig_0028"
     }
   ],

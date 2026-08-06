@@ -18,8 +18,21 @@
         "b": 733.0429409281768
       },
       "content": "2-1. Spindle Output and Torque Diagram",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "2",
+      "section_id": "sec_2",
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-1. Spindle Output and Torque Diagram"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 36,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -32,7 +45,20 @@
         "r": 520.1506679999999,
         "b": 682.0431449281768
       },
-      "content": "The constant output area and torque to ensure the rated output of machine are shown in the followings."
+      "content": "The constant output area and torque to ensure the rated output of machine are shown in the followings.",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-1. Spindle Output and Torque Diagram"
+        }
+      ],
+      "page": 36,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -45,7 +71,20 @@
         "r": 223.9574640000001,
         "b": 665.0031329281768
       },
-      "content": "SUPER KIATURN 100"
+      "content": "SUPER KIATURN 100",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-1. Spindle Output and Torque Diagram"
+        }
+      ],
+      "page": 36,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -58,7 +97,20 @@
         "r": 223.95746400000013,
         "b": 376.0443689281769
       },
-      "content": "SUPER KIATURN 200"
+      "content": "SUPER KIATURN 200",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-1. Spindle Output and Torque Diagram"
+        }
+      ],
+      "page": 36,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -74,12 +126,26 @@
       "image_path": "figures/figure_0060.png",
       "previous_block_id": "txt_0236",
       "next_block_id": "txt_0237",
-      "caption_id": "txt_0237",
       "caption": "Output and Torque Diagram",
       "figure_number": "Fig. 3-1",
       "image_hash": "4a34afb186fe56a2c27bb7494dd5ee5cac177ae19d4fb7a0ea9470fd03884728",
       "width": 462,
-      "height": 227
+      "height": 227,
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-1. Spindle Output and Torque Diagram"
+        }
+      ],
+      "page": 36,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0060",
+      "source": "pdf_text",
+      "caption_id": "txt_0237"
     },
     {
       "type": "caption",
@@ -93,6 +159,20 @@
         "b": 410.0041529281769
       },
       "content": "Fig. 3-1  Output and Torque Diagram",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-1. Spindle Output and Torque Diagram"
+        }
+      ],
+      "page": 36,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0060",
+      "source": "pdf_text",
       "caption_for": "fig_0060"
     },
     {
@@ -109,12 +189,26 @@
       "image_path": "figures/figure_0061.png",
       "previous_block_id": "txt_0237",
       "next_block_id": "txt_0238",
-      "caption_id": "txt_0238",
       "caption": "Output and Torque Diagram",
       "figure_number": "Fig. 3-2",
       "image_hash": "2abdf7c2c3d9dcb2e4865305bb1b648262c3aaaf0e999879f58c1d3bd764e935",
       "width": 462,
-      "height": 227
+      "height": 227,
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-1. Spindle Output and Torque Diagram"
+        }
+      ],
+      "page": 36,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0061",
+      "source": "pdf_text",
+      "caption_id": "txt_0238"
     },
     {
       "type": "caption",
@@ -128,6 +222,20 @@
         "b": 126.02532892817692
       },
       "content": "Fig. 3-2 Output and Torque Diagram",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-1. Spindle Output and Torque Diagram"
+        }
+      ],
+      "page": 36,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0061",
+      "source": "pdf_text",
       "caption_for": "fig_0061"
     }
   ],

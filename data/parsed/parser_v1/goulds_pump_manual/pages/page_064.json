@@ -19,7 +19,19 @@
       },
       "content": "Bearing maintenance",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1105",
+      "section_path": [
+        {
+          "id": "sec_auto_1105",
+          "title": "Bearing maintenance"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 2,
+      "page": 64,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -32,7 +44,20 @@
         "r": 553.2440100000001,
         "b": 669.88183
       },
-      "content": "These bearing lubrication sections list different temperatures of  the pumped fluid. If  the pump is ATEXcertified and the temperature of  the pumped fluid exceeds the permitted temperature values, then consult your ITT representative."
+      "content": "These bearing lubrication sections list different temperatures of  the pumped fluid. If  the pump is ATEXcertified and the temperature of  the pumped fluid exceeds the permitted temperature values, then consult your ITT representative.",
+      "section_id": "sec_auto_1105",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_1105",
+          "title": "Bearing maintenance"
+        }
+      ],
+      "page": 64,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -47,7 +72,19 @@
       },
       "content": "Bearing lubrication schedule",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1107",
+      "section_path": [
+        {
+          "id": "sec_auto_1107",
+          "title": "Bearing lubrication schedule"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 2,
+      "page": 64,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -62,7 +99,20 @@
       },
       "markdown": "| Type of bearing            | First lubrication                                                                               | Lubrication intervals                                                                       |\n|----------------------------|-------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|\n| Oil-lubricated bearings    | Add oil before you install and start the pump. Change the oil after 200 hours for new bearings. | After the first 200 hours, change the oil every 2000 operating hours or every three months. |\n| Grease-lubricated bearings | Grease-lubricated bearings are initially lubricated at the factory.                             | Regrease bearings every 2000 operating hours or every three months.                         |",
       "rows": 3,
-      "cols": 3
+      "cols": 3,
+      "section_id": "sec_auto_1107",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_1107",
+          "title": "Bearing lubrication schedule"
+        }
+      ],
+      "page": 64,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -77,7 +127,19 @@
       },
       "content": "Lubricating-oil requirements",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1109",
+      "section_path": [
+        {
+          "id": "sec_auto_1109",
+          "title": "Lubricating-oil requirements"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 2,
+      "page": 64,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -92,7 +154,19 @@
       },
       "content": "Oil requirements based on temperature",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1110",
+      "section_path": [
+        {
+          "id": "sec_auto_1110",
+          "title": "Oil requirements based on temperature"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 2,
+      "page": 64,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -105,7 +179,20 @@
         "r": 545.722,
         "b": 480.34184
       },
-      "content": "For the majority of  operating conditions, bearing temperatures run between 120°F (49°C) and 180°F (82°C), and you can use an oil of  ISO viscosity grade 68 at 100°F (38°C). If  temperatures exceed 180°F (82°C), refer to the table for temperature requirements."
+      "content": "For the majority of  operating conditions, bearing temperatures run between 120°F (49°C) and 180°F (82°C), and you can use an oil of  ISO viscosity grade 68 at 100°F (38°C). If  temperatures exceed 180°F (82°C), refer to the table for temperature requirements.",
+      "section_id": "sec_auto_1110",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_1110",
+          "title": "Oil requirements based on temperature"
+        }
+      ],
+      "page": 64,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -120,7 +207,20 @@
       },
       "markdown": "| Temperature                                    | Oil requirement                                                                                                                                                                    |\n|------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Bearing temperatures exceed 180°F (82°C)       | Use ISO viscosity grade 100 with bearing-frame cooling or finned-tube oil cooler. The finned-tube oil cooler is standard with the HT 3196 model and optional for all other models. |\n| Pumped-fluid temperatures exceed 350°F (177°C) | Use synthetic lubrication.                                                                                                                                                         |",
       "rows": 3,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_auto_1110",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_1110",
+          "title": "Oil requirements based on temperature"
+        }
+      ],
+      "page": 64,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -135,7 +235,19 @@
       },
       "content": "Oil volumes",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1113",
+      "section_path": [
+        {
+          "id": "sec_auto_1113",
+          "title": "Oil volumes"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 2,
+      "page": 64,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -150,7 +262,19 @@
       },
       "content": "Oil volume requirements",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1114",
+      "section_path": [
+        {
+          "id": "sec_auto_1114",
+          "title": "Oil volume requirements"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 2,
+      "page": 64,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -163,7 +287,20 @@
         "r": 418.99799000000024,
         "b": 345.28184
       },
-      "content": "This table shows the required amount of oil for oil-lubricated bearings."
+      "content": "This table shows the required amount of oil for oil-lubricated bearings.",
+      "section_id": "sec_auto_1114",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_1114",
+          "title": "Oil volume requirements"
+        }
+      ],
+      "page": 64,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -178,7 +315,20 @@
       },
       "markdown": "| Frame         |   Qts. |   Oz. |   ml |\n|---------------|--------|-------|------|\n| STi           |    0.5 |    16 |  400 |\n| MTi           |    1.5 |    47 | 1400 |\n| LTi           |    1.5 |    48 | 1400 |\n| XLT-i and i17 |      3 |    96 | 3000 |",
       "rows": 5,
-      "cols": 4
+      "cols": 4,
+      "section_id": "sec_auto_1114",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_1114",
+          "title": "Oil volume requirements"
+        }
+      ],
+      "page": 64,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -193,7 +343,19 @@
       },
       "content": "Acceptable oil for lubricating bearings",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1117",
+      "section_path": [
+        {
+          "id": "sec_auto_1117",
+          "title": "Acceptable oil for lubricating bearings"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 2,
+      "page": 64,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -208,7 +370,19 @@
       },
       "content": "Acceptable lubricants",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1118",
+      "section_path": [
+        {
+          "id": "sec_auto_1118",
+          "title": "Acceptable lubricants"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 2,
+      "page": 64,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -223,7 +397,20 @@
       },
       "markdown": "| Brand        | Lubricant type                   |\n|--------------|----------------------------------|\n| Chevron      | GTS Oil 68                       |\n| Exxon        | Teresstic EP 68                  |\n| Mobil        | DTE 26 300 SSU @ 100°F (38°C)    |\n| Philips      | Mangus Oil 315                   |\n| Shell        | Tellus Oil 68                    |\n| Sunoco       | Sunvis 968                       |\n| Royal Purple | SYNFILM ISO VG 68 Synthetic Lube |",
       "rows": 8,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_auto_1118",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_1118",
+          "title": "Acceptable lubricants"
+        }
+      ],
+      "page": 64,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

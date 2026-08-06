@@ -20,7 +20,24 @@
       "image_path": "figures/figure_0049.png",
       "image_hash": "b28a1d23de5124d82d6f84120acacff249829ec0e42f4c826059a188d93e4d2e",
       "width": 48,
-      "height": 23
+      "height": 23,
+      "section_id": "sec_auto_241",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_auto_241",
+          "title": "Electrical components"
+        }
+      ],
+      "page": 25,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -35,7 +52,24 @@
       },
       "markdown": "| Reference             | Designation                     |\n|-----------------------|---------------------------------|\n| T1                    | Transformer                     |\n| 1X0                   | Terminal strip (voltage supply) |\n| X103/X108/X108 A/X117 | Connectors                      |\n| PE                    | Earth terminal                  |",
       "rows": 5,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_auto_241",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_auto_241",
+          "title": "Electrical components"
+        }
+      ],
+      "page": 25,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

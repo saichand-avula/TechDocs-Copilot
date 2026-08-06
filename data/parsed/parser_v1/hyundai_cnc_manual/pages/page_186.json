@@ -17,7 +17,20 @@
         "r": 327.0863100000001,
         "b": 746.8429409281769
       },
-      "content": "Maintenance Instruction Related To Fanuc Spindle Alarm"
+      "content": "Maintenance Instruction Related To Fanuc Spindle Alarm",
+      "section_id": "sec_3",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-9-6. Error Codes Serial Spindle)"
+        }
+      ],
+      "page": 186,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -30,7 +43,20 @@
         "r": 527.3420219999998,
         "b": 678.8031329281769
       },
-      "content": "When a serial spindle alarm occurs, the following number is displayed on the CNC. n is a number corresponding to the spindle on which an alarm occurs. (n = 1 : First spindle:  n = 2 : Second spindle; etc.)"
+      "content": "When a serial spindle alarm occurs, the following number is displayed on the CNC. n is a number corresponding to the spindle on which an alarm occurs. (n = 1 : First spindle:  n = 2 : Second spindle; etc.)",
+      "section_id": "sec_3",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-9-6. Error Codes Serial Spindle)"
+        }
+      ],
+      "page": 186,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "admonition",
@@ -44,7 +70,20 @@
         "t": 656.07794,
         "r": 105.90355199999999,
         "b": 643.7000325524862
-      }
+      },
+      "section_id": "sec_3",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-9-6. Error Codes Serial Spindle)"
+        }
+      ],
+      "page": 186,
+      "chunk_hint": "admonition",
+      "semantic_role": "note",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -59,7 +98,20 @@
       },
       "markdown": "| SPM indication (*1)   | Faulty location and remedy                                                                                   | Description                                                                                                                                                                                                             |\n|-----------------------|--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| A0 A                  | 1 Replace the ROM on the SPM control printed circuit board. 2 Replace the SPM control printed circuit board. | The program does not start normally. ROM series error or hardware abnormality on the SPM control printed circuit board.                                                                                                 |\n| A1                    | Replace the SPM control printed circuit board.                                                               | An abnormality was detected in the CPU peripheral circuit of the SPM control circuit.                                                                                                                                   |\n| 01                    | 1 Check and correct the peripheral temperature and load status. 2 If the cooling fan stops, replace it.      | The thermostat embedded in the motor winding operated. The internally temperature of the motor exceeds the specified level. The motor is used in excess of the continuous rating, or the cooling component is abnormal. |\n| 02                    | 1 Check and correct the cutting conditions to decrease the load. 2 Correct parameter No.4082.                | The motor speed cannot follow a specified speed. An excessive motor load torque is detected. The acceleration/deceleration time in parameter No.4082 is insufficient.                                                   |",
       "rows": 5,
-      "cols": 3
+      "cols": 3,
+      "section_id": "sec_3",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-9-6. Error Codes Serial Spindle)"
+        }
+      ],
+      "page": 186,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

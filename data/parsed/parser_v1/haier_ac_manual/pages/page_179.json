@@ -19,11 +19,29 @@
       },
       "image_path": "figures/figure_0359.png",
       "next_block_id": "txt_1420",
-      "caption_id": "txt_1420",
       "caption": "PCB(2)",
       "image_hash": "f232d537d11525ce968d3df3e295c707d802b56c925eeaeb70c1250a90a13204",
       "width": 527,
-      "height": 342
+      "height": 342,
+      "section_id": "sec_auto_1870",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Introduction"
+        },
+        {
+          "id": "sec_auto_1870",
+          "title": "PCB(2) (module PCB)"
+        }
+      ],
+      "page": 179,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0359",
+      "source": "pdf_text",
+      "caption_id": "txt_1420"
     },
     {
       "type": "caption",
@@ -37,6 +55,24 @@
         "b": 755.570538
       },
       "content": "PCB(2)",
+      "section_id": "sec_auto_1870",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Introduction"
+        },
+        {
+          "id": "sec_auto_1870",
+          "title": "PCB(2) (module PCB)"
+        }
+      ],
+      "page": 179,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0359",
+      "source": "pdf_text",
       "caption_for": "fig_0359"
     }
   ],

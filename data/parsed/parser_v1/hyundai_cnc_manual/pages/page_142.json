@@ -18,8 +18,21 @@
         "b": 746.8429409281769
       },
       "content": "3-3-4. Restoration in Collision of Turret",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "3",
+      "section_id": "sec_3",
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-3-4. Restoration in Collision of Turret"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 142,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -32,7 +45,20 @@
         "r": 541.4451719999994,
         "b": 695.8431449281769
       },
-      "content": "If  the  turret  is  collided  by  crash,  misoperation  or  program  error  while  turning,  correct  it  in  the following orders."
+      "content": "If  the  turret  is  collided  by  crash,  misoperation  or  program  error  while  turning,  correct  it  in  the following orders.",
+      "section_id": "sec_3",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-3-4. Restoration in Collision of Turret"
+        }
+      ],
+      "page": 142,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -50,7 +76,20 @@
       "next_block_id": "txt_0980",
       "image_hash": "a4874a19869a2ab2fadcb78332595e70648abbd8662db27b1659d69127d20b82",
       "width": 117,
-      "height": 31
+      "height": 31,
+      "section_id": "sec_3",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-3-4. Restoration in Collision of Turret"
+        }
+      ],
+      "page": 142,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -63,7 +102,20 @@
         "r": 536.0585099999997,
         "b": 597.8630489281769
       },
-      "content": "If the power required, always install the safety guard and then work inside of the machine. Otherwise, it may cause personal severe injury."
+      "content": "If the power required, always install the safety guard and then work inside of the machine. Otherwise, it may cause personal severe injury.",
+      "section_id": "sec_3",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-3-4. Restoration in Collision of Turret"
+        }
+      ],
+      "page": 142,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -79,12 +131,26 @@
       "image_path": "figures/figure_0249.png",
       "previous_block_id": "txt_0980",
       "next_block_id": "txt_0981",
-      "caption_id": "txt_0982",
       "caption": "Installation of Safety Guard in Repairing.",
       "figure_number": "Fig. 5-45",
       "image_hash": "aef574423166b131eefa6a8a3947dcafd4420532b4fd06b0e67fd3241867383c",
       "width": 319,
-      "height": 156
+      "height": 156,
+      "section_id": "sec_3",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-3-4. Restoration in Collision of Turret"
+        }
+      ],
+      "page": 142,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0249",
+      "source": "pdf_text",
+      "caption_id": "txt_0982"
     },
     {
       "type": "heading",
@@ -99,7 +165,23 @@
       },
       "content": "Under Repairing",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1271",
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-3-4. Restoration in Collision of Turret"
+        },
+        {
+          "id": "sec_auto_1271",
+          "title": "Under Repairing"
+        }
+      ],
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "page": 142,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "caption",
@@ -113,6 +195,24 @@
         "b": 376.3437569281768
       },
       "content": "Fig. 5-45  Installation of Safety Guard in Repairing.",
+      "section_id": "sec_auto_1271",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-3-4. Restoration in Collision of Turret"
+        },
+        {
+          "id": "sec_auto_1271",
+          "title": "Under Repairing"
+        }
+      ],
+      "page": 142,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0249",
+      "source": "pdf_text",
       "caption_for": "fig_0249"
     },
     {
@@ -126,7 +226,25 @@
         "r": 159.204216,
         "b": 342.3238529281768
       },
-      "content": "Used tools:"
+      "content": "Used tools:",
+      "section_id": "sec_auto_1271",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-3-4. Restoration in Collision of Turret"
+        },
+        {
+          "id": "sec_auto_1271",
+          "title": "Under Repairing"
+        }
+      ],
+      "page": 142,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text",
+      "group_id": "grp_fig_0249"
     },
     {
       "type": "paragraph",
@@ -139,7 +257,24 @@
         "r": 270.1526700000001,
         "b": 342.3238529281768
       },
-      "content": "dial gage (0,002 mm)"
+      "content": "dial gage (0,002 mm)",
+      "section_id": "sec_auto_1271",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-3-4. Restoration in Collision of Turret"
+        },
+        {
+          "id": "sec_auto_1271",
+          "title": "Under Repairing"
+        }
+      ],
+      "page": 142,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -152,7 +287,24 @@
         "r": 329.58129,
         "b": 341.806832
       },
-      "content": "∅ 9.8 drill"
+      "content": "∅ 9.8 drill",
+      "section_id": "sec_auto_1271",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-3-4. Restoration in Collision of Turret"
+        },
+        {
+          "id": "sec_auto_1271",
+          "title": "Under Repairing"
+        }
+      ],
+      "page": 142,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -165,7 +317,24 @@
         "r": 275.6556540000001,
         "b": 325.3439609281768
       },
-      "content": "wrench (8 and 10 mm)"
+      "content": "wrench (8 and 10 mm)",
+      "section_id": "sec_auto_1271",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-3-4. Restoration in Collision of Turret"
+        },
+        {
+          "id": "sec_auto_1271",
+          "title": "Under Repairing"
+        }
+      ],
+      "page": 142,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -178,7 +347,24 @@
         "r": 342.90388200000024,
         "b": 324.8269399999999
       },
-      "content": "∅ 10 reamer"
+      "content": "∅ 10 reamer",
+      "section_id": "sec_auto_1271",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-3-4. Restoration in Collision of Turret"
+        },
+        {
+          "id": "sec_auto_1271",
+          "title": "Under Repairing"
+        }
+      ],
+      "page": 142,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -191,7 +377,24 @@
         "r": 293.4802319999998,
         "b": 257.3041529281768
       },
-      "content": "Perform the Home Position Setting of turret as shown  in param.  3-3-2 \"Turret Home Position Setting\"."
+      "content": "Perform the Home Position Setting of turret as shown  in param.  3-3-2 \"Turret Home Position Setting\".",
+      "section_id": "sec_auto_1271",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-3-4. Restoration in Collision of Turret"
+        },
+        {
+          "id": "sec_auto_1271",
+          "title": "Under Repairing"
+        }
+      ],
+      "page": 142,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -204,7 +407,24 @@
         "r": 293.50929000000025,
         "b": 206.30435692817673
       },
-      "content": "Install  the  dial  gage  on  the  surface No. 1 of turret and check the X-axis for flat."
+      "content": "Install  the  dial  gage  on  the  surface No. 1 of turret and check the X-axis for flat.",
+      "section_id": "sec_auto_1271",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-3-4. Restoration in Collision of Turret"
+        },
+        {
+          "id": "sec_auto_1271",
+          "title": "Under Repairing"
+        }
+      ],
+      "page": 142,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -217,7 +437,24 @@
         "r": 293.5132980000001,
         "b": 138.32466892817683
       },
-      "content": "3)If the flatness of turret is more than 0.02 mm, disassemble the plug and pin in front  of  turret  and  loosen  the  bolt properly."
+      "content": "3)If the flatness of turret is more than 0.02 mm, disassemble the plug and pin in front  of  turret  and  loosen  the  bolt properly.",
+      "section_id": "sec_auto_1271",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-3-4. Restoration in Collision of Turret"
+        },
+        {
+          "id": "sec_auto_1271",
+          "title": "Under Repairing"
+        }
+      ],
+      "page": 142,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -230,7 +467,24 @@
         "r": 293.52431999999993,
         "b": 104.30476492817684
       },
-      "content": "Adjust the turret so far the flatness is within 0.02 mm and engage the bolt."
+      "content": "Adjust the turret so far the flatness is within 0.02 mm and engage the bolt.",
+      "section_id": "sec_auto_1271",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-3-4. Restoration in Collision of Turret"
+        },
+        {
+          "id": "sec_auto_1271",
+          "title": "Under Repairing"
+        }
+      ],
+      "page": 142,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -246,12 +500,30 @@
       "image_path": "figures/figure_0250.png",
       "previous_block_id": "txt_0991",
       "next_block_id": "txt_0992",
-      "caption_id": "txt_0992",
       "caption": "Repairing Turret",
       "figure_number": "Fig. 5-46",
       "image_hash": "b93f143b7dea6176b7d149bfd10dfc00f1a67a6c7d4fb8fd3752d57bf8a78c6e",
       "width": 248,
-      "height": 207
+      "height": 207,
+      "section_id": "sec_auto_1271",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-3-4. Restoration in Collision of Turret"
+        },
+        {
+          "id": "sec_auto_1271",
+          "title": "Under Repairing"
+        }
+      ],
+      "page": 142,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0250",
+      "source": "pdf_text",
+      "caption_id": "txt_0992"
     },
     {
       "type": "caption",
@@ -265,6 +537,24 @@
         "b": 70.34498092817682
       },
       "content": "Fig. 5-46 Repairing Turret",
+      "section_id": "sec_auto_1271",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-3-4. Restoration in Collision of Turret"
+        },
+        {
+          "id": "sec_auto_1271",
+          "title": "Under Repairing"
+        }
+      ],
+      "page": 142,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0250",
+      "source": "pdf_text",
       "caption_for": "fig_0250"
     }
   ],

@@ -19,12 +19,34 @@
       },
       "image_path": "figures/figure_0045.png",
       "next_block_id": "txt_0254",
-      "caption_id": "txt_0254",
       "caption": ": Power distribution cabinet of 80 ~ 300 kVA UPS",
       "figure_number": "Figure 3-17",
       "image_hash": "a0d5c202eda200d902f9e975ad4766484cba1b7b75cd6b3ac7b2c1dfe321fb42",
       "width": 124,
-      "height": 235
+      "height": 235,
+      "section_id": "sec_3_4_1",
+      "parent_section_id": "sec_3_4",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_4",
+          "title": "3.4 Optional Accessories"
+        },
+        {
+          "id": "sec_3_4_1",
+          "title": "3.4.1 Power Distribution Cabinet and Maintenance Bypass Switch Cabinet"
+        }
+      ],
+      "page": 32,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0045",
+      "source": "pdf_text",
+      "caption_id": "txt_0254"
     },
     {
       "type": "caption",
@@ -38,6 +60,28 @@
         "b": 418.526101363195
       },
       "content": "Figure 3-17: Power distribution cabinet of 80 ~ 300 kVA UPS",
+      "section_id": "sec_3_4_1",
+      "parent_section_id": "sec_3_4",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_4",
+          "title": "3.4 Optional Accessories"
+        },
+        {
+          "id": "sec_3_4_1",
+          "title": "3.4.1 Power Distribution Cabinet and Maintenance Bypass Switch Cabinet"
+        }
+      ],
+      "page": 32,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0045",
+      "source": "pdf_text",
       "caption_for": "fig_0045"
     },
     {
@@ -52,8 +96,29 @@
         "b": 401.96284478860935
       },
       "content": "3.4.2 Cold Start of Battery",
-      "level": 2,
-      "role": "section"
+      "level": 3,
+      "section_number": "3.4.2",
+      "section_id": "sec_3_4_2",
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_4",
+          "title": "3.4 Optional Accessories"
+        },
+        {
+          "id": "sec_3_4_2",
+          "title": "3.4.2 Cold Start of Battery"
+        }
+      ],
+      "parent_section_id": "sec_3_4",
+      "section_level": 3,
+      "page": 32,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -66,7 +131,28 @@
         "r": 418.95568,
         "b": 373.386101363195
       },
-      "content": "Cold start of battery can start the UPS directly, as shown in Figure 3-20."
+      "content": "Cold start of battery can start the UPS directly, as shown in Figure 3-20.",
+      "section_id": "sec_3_4_2",
+      "parent_section_id": "sec_3_4",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_4",
+          "title": "3.4 Optional Accessories"
+        },
+        {
+          "id": "sec_3_4_2",
+          "title": "3.4.2 Cold Start of Battery"
+        }
+      ],
+      "page": 32,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -82,12 +168,34 @@
       "image_path": "figures/figure_0046.png",
       "previous_block_id": "txt_0256",
       "next_block_id": "txt_0257",
-      "caption_id": "txt_0257",
       "caption": ": Cold start box",
       "figure_number": "Figure 3-19",
       "image_hash": "743a914ba2c4fcbaa662b026e951b85b65d4506f37f12a84382870770ac7ecb9",
       "width": 212,
-      "height": 235
+      "height": 235,
+      "section_id": "sec_3_4_2",
+      "parent_section_id": "sec_3_4",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_4",
+          "title": "3.4 Optional Accessories"
+        },
+        {
+          "id": "sec_3_4_2",
+          "title": "3.4.2 Cold Start of Battery"
+        }
+      ],
+      "page": 32,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0046",
+      "source": "pdf_text",
+      "caption_id": "txt_0257"
     },
     {
       "type": "caption",
@@ -101,6 +209,28 @@
         "b": 94.12010136319498
       },
       "content": "Figure 3-19: Cold start box",
+      "section_id": "sec_3_4_2",
+      "parent_section_id": "sec_3_4",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_4",
+          "title": "3.4 Optional Accessories"
+        },
+        {
+          "id": "sec_3_4_2",
+          "title": "3.4.2 Cold Start of Battery"
+        }
+      ],
+      "page": 32,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0046",
+      "source": "pdf_text",
       "caption_for": "fig_0046"
     },
     {
@@ -117,12 +247,34 @@
       "image_path": "figures/figure_0047.png",
       "previous_block_id": "txt_0257",
       "next_block_id": "txt_0258",
-      "caption_id": "txt_0258",
       "caption": ": Maintenance bypass switch cabinet of 400 ~ 500 kVA UPS",
       "figure_number": "Figure 3-18",
       "image_hash": "e46d47feab29bd9f71d4b03d675672a056efc3c145162b144e45e2e5aeaa5715",
       "width": 150,
-      "height": 262
+      "height": 262,
+      "section_id": "sec_3_4_2",
+      "parent_section_id": "sec_3_4",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_4",
+          "title": "3.4 Optional Accessories"
+        },
+        {
+          "id": "sec_3_4_2",
+          "title": "3.4.2 Cold Start of Battery"
+        }
+      ],
+      "page": 32,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0047",
+      "source": "pdf_text",
+      "caption_id": "txt_0258"
     },
     {
       "type": "caption",
@@ -136,6 +288,28 @@
         "b": 418.526101363195
       },
       "content": "Figure 3-18: Maintenance bypass switch cabinet of 400 ~ 500 kVA UPS",
+      "section_id": "sec_3_4_2",
+      "parent_section_id": "sec_3_4",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_4",
+          "title": "3.4 Optional Accessories"
+        },
+        {
+          "id": "sec_3_4_2",
+          "title": "3.4.2 Cold Start of Battery"
+        }
+      ],
+      "page": 32,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0047",
+      "source": "pdf_text",
       "caption_for": "fig_0047"
     }
   ],

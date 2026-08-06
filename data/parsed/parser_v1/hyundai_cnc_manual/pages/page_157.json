@@ -18,8 +18,21 @@
         "b": 733.0429409281768
       },
       "content": "3-6. Coolant",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "3",
+      "section_id": "sec_3",
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-6. Coolant"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 157,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -33,8 +46,21 @@
         "b": 699.0230369281768
       },
       "content": "3-6-1. Coolant Unit Construction",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "3",
+      "section_id": "sec_3",
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-6-1. Coolant Unit Construction"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 157,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -47,7 +73,20 @@
         "r": 541.4722260000004,
         "b": 648.0232409281768
       },
-      "content": "Coolant is pumped by the pump in coolant tank, injected through the nozzle and used to cool and lubricate the workpiece."
+      "content": "Coolant is pumped by the pump in coolant tank, injected through the nozzle and used to cool and lubricate the workpiece.",
+      "section_id": "sec_3",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-6-1. Coolant Unit Construction"
+        }
+      ],
+      "page": 157,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -65,7 +104,20 @@
       "next_block_id": "txt_1132",
       "image_hash": "f977d2a6eb48a2b5ccafd3aca5b701a410a8f35437cfc54965acaa287af5d1d0",
       "width": 115,
-      "height": 31
+      "height": 31,
+      "section_id": "sec_3",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-6-1. Coolant Unit Construction"
+        }
+      ],
+      "page": 157,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -78,7 +130,20 @@
         "r": 533.2591740000001,
         "b": 541.6430289281768
       },
-      "content": "Coolant can be divided to solubility or unsolubility in water, but it is recommended to use water-soluble coolant because in case of being unsoluable, it may cause major parts to be rusted."
+      "content": "Coolant can be divided to solubility or unsolubility in water, but it is recommended to use water-soluble coolant because in case of being unsoluable, it may cause major parts to be rusted.",
+      "section_id": "sec_3",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-6-1. Coolant Unit Construction"
+        }
+      ],
+      "page": 157,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -94,12 +159,26 @@
       "image_path": "figures/figure_0278.png",
       "previous_block_id": "txt_1132",
       "next_block_id": "txt_1133",
-      "caption_id": "txt_1133",
       "caption": "Coolant and Construction",
       "figure_number": "Fig. 5-60",
       "image_hash": "ecba4fa85091b73372f65dc114a3ca7f4a27c9eb6a5db9d348b84cff2cd12bae",
       "width": 461,
-      "height": 379
+      "height": 379,
+      "section_id": "sec_3",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-6-1. Coolant Unit Construction"
+        }
+      ],
+      "page": 157,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0278",
+      "source": "pdf_text",
+      "caption_id": "txt_1133"
     },
     {
       "type": "caption",
@@ -113,6 +192,20 @@
         "b": 114.14457292817679
       },
       "content": "Fig. 5-60 Coolant and Construction",
+      "section_id": "sec_3",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-6-1. Coolant Unit Construction"
+        }
+      ],
+      "page": 157,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0278",
+      "source": "pdf_text",
       "caption_for": "fig_0278"
     }
   ],

@@ -19,7 +19,24 @@
       },
       "markdown": "| Offset Data Tape Reading Variable-lead Thread Cutting Program Checking Input/Output Interface Block Skip Arc. Radius R Designation Chamfering R Memory Lock Key Skip Function   | G10 G34 Dry run + Spindle Stop + Coolant Stop RS232 * 1 1EA   |\n|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|\n|                                                                                                                                                                                 | G31                                                           |\n| Number of registerable Program 200EA                                                                                                                                            |                                                               |\n| Single Block                                                                                                                                                                    |                                                               |\n| Feed Hold                                                                                                                                                                       |                                                               |\n| Canned Cycle for Drilling Tool Life Management Stored Pitch Error                                                                                                               | G80, G83, G84, G85, G87, G88, G79                             |\n| Decimal Point Input Program No. Search Sequence No. Search Label Skip Machine Lock Dry Run                                                                                      |                                                               |\n| Custom Macro B                                                                                                                                                                  |                                                               |\n|                                                                                                                                                                                 | Review spec, when using DI/DO                                 |\n| Compensation                                                                                                                                                                    |                                                               |\n| Background editing                                                                                                                                                              |                                                               |",
       "rows": 11,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_auto_306",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3. NC Device Specification (FANUC Oi-TA)"
+        },
+        {
+          "id": "sec_auto_306",
+          "title": "<Standard Specification>"
+        }
+      ],
+      "page": 38,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "footnote",
@@ -32,7 +49,24 @@
         "r": 414.865518,
         "b": 222.02304892817676
       },
-      "content": "*1. Only interface exists. The cable connected with I/O device is not included."
+      "content": "*1. Only interface exists. The cable connected with I/O device is not included.",
+      "section_id": "sec_auto_306",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3. NC Device Specification (FANUC Oi-TA)"
+        },
+        {
+          "id": "sec_auto_306",
+          "title": "<Standard Specification>"
+        }
+      ],
+      "page": 38,
+      "chunk_hint": "footnote",
+      "semantic_role": "footnote",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

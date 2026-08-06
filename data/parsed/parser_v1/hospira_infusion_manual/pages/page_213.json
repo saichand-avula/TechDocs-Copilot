@@ -19,7 +19,23 @@
       },
       "content": "RECOMMENDED SEPARATION DISTANCES FOR COMMUNICATIONS EQUIPMENT",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1546",
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_auto_1546",
+          "title": "RECOMMENDED SEPARATION DISTANCES FOR COMMUNICATIONS EQUIPMENT"
+        }
+      ],
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "page": 213,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -32,7 +48,24 @@
         "r": 540.035411999999,
         "b": 635.2081050491803
       },
-      "content": "The Plum A+ ®  is intended for use in an electromagnetic environment in which radiated RF disturbances are controlled. The recommendations provided in Table A-4 help the user of the infusion system to prevent electromagnetic interference by maintaining a minimum distance between portable and mobile RF communications equipment (transmitters) and the infuser, according to the maximum output power of the communications equipment."
+      "content": "The Plum A+ ®  is intended for use in an electromagnetic environment in which radiated RF disturbances are controlled. The recommendations provided in Table A-4 help the user of the infusion system to prevent electromagnetic interference by maintaining a minimum distance between portable and mobile RF communications equipment (transmitters) and the infuser, according to the maximum output power of the communications equipment.",
+      "section_id": "sec_auto_1546",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_auto_1546",
+          "title": "RECOMMENDED SEPARATION DISTANCES FOR COMMUNICATIONS EQUIPMENT"
+        }
+      ],
+      "page": 213,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -47,7 +80,24 @@
       },
       "markdown": "| Table A-4. Recommended Separation Distances Between Portable and Mobile RF Communications Equipment and the Infusion System   | Table A-4. Recommended Separation Distances Between Portable and Mobile RF Communications Equipment and the Infusion System   | Table A-4. Recommended Separation Distances Between Portable and Mobile RF Communications Equipment and the Infusion System   | Table A-4. Recommended Separation Distances Between Portable and Mobile RF Communications Equipment and the Infusion System   | Table A-4. Recommended Separation Distances Between Portable and Mobile RF Communications Equipment and the Infusion System   |\n|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|\n| Rated Maximum Output Power of Transmitter (Watts)                                                                             | Separation Distance According to Frequency of Transmitter (Meters)                                                            | Separation Distance According to Frequency of Transmitter (Meters)                                                            | Separation Distance According to Frequency of Transmitter (Meters)                                                            | Separation Distance According to Frequency of Transmitter (Meters)                                                            |\n|                                                                                                                               | 150 kHz to 80 MHZ outside ISM bands d 3 5 , V 1 - - - - - - - - - - P =                                                       | 150 kHz to 80 MHz in ISM bands d 12 V 2 - - - - - P =                                                                         | 80 Mhz to 800 MHz d 12 E 1 - - - - - P =                                                                                      | 800 MHz to 2.5 GHz d 23 E 1 - - - - - P =                                                                                     |\n| 0.01                                                                                                                          | 0.035                                                                                                                         | 0.12                                                                                                                          | 0.12                                                                                                                          | 0.23                                                                                                                          |\n| 0.1                                                                                                                           | 0.11                                                                                                                          | 0.38                                                                                                                          | 0.38                                                                                                                          | 0.73                                                                                                                          |\n| 1                                                                                                                             | 0.35                                                                                                                          | 1.2                                                                                                                           | 1.2                                                                                                                           | 2.3                                                                                                                           |\n| 10                                                                                                                            | 1.1                                                                                                                           | 3.8                                                                                                                           | 3.8                                                                                                                           | 7.3                                                                                                                           |\n| 100                                                                                                                           | 3.5                                                                                                                           | 12                                                                                                                            | 12                                                                                                                            | 23                                                                                                                            |",
       "rows": 8,
-      "cols": 5
+      "cols": 5,
+      "section_id": "sec_auto_1546",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_auto_1546",
+          "title": "RECOMMENDED SEPARATION DISTANCES FOR COMMUNICATIONS EQUIPMENT"
+        }
+      ],
+      "page": 213,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -60,7 +110,24 @@
         "r": 536.4668520000002,
         "b": 305.07793200000015
       },
-      "content": "For transmitters rated at a maximum output power not listed above, the recommended separation distance d in meters (m) can be determined using the equation applicable to the frequency of the transmitter, where p is the maximum output power rating of the transmitter in watts (W) according to the transmitter manufacturer."
+      "content": "For transmitters rated at a maximum output power not listed above, the recommended separation distance d in meters (m) can be determined using the equation applicable to the frequency of the transmitter, where p is the maximum output power rating of the transmitter in watts (W) according to the transmitter manufacturer.",
+      "section_id": "sec_auto_1546",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_auto_1546",
+          "title": "RECOMMENDED SEPARATION DISTANCES FOR COMMUNICATIONS EQUIPMENT"
+        }
+      ],
+      "page": 213,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -73,7 +140,24 @@
         "r": 539.9963639999996,
         "b": 259.7276290491802
       },
-      "content": " Note: At 80 MHz and 800 MHz, the separation distance for the higher frequency range applies."
+      "content": " Note: At 80 MHz and 800 MHz, the separation distance for the higher frequency range applies.",
+      "section_id": "sec_auto_1546",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_auto_1546",
+          "title": "RECOMMENDED SEPARATION DISTANCES FOR COMMUNICATIONS EQUIPMENT"
+        }
+      ],
+      "page": 213,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -86,7 +170,24 @@
         "r": 540.1766400000007,
         "b": 210.40782104918037
       },
-      "content": " Note: The ISM bands between 150 kHz and 80 MHz are 6.765 MHz to 6.695 MHz; 13.553 MHz to 13.567 MHz; 26.957 MHz to 27.283 MHz; and 40.660 MHz to 40.700 MHz."
+      "content": " Note: The ISM bands between 150 kHz and 80 MHz are 6.765 MHz to 6.695 MHz; 13.553 MHz to 13.567 MHz; 26.957 MHz to 27.283 MHz; and 40.660 MHz to 40.700 MHz.",
+      "section_id": "sec_auto_1546",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_auto_1546",
+          "title": "RECOMMENDED SEPARATION DISTANCES FOR COMMUNICATIONS EQUIPMENT"
+        }
+      ],
+      "page": 213,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -99,7 +200,24 @@
         "r": 540.0103080000011,
         "b": 137.02810504918034
       },
-      "content": " Note: An additional factor of 10/3 is used in calculating the recommended separation distance for transmitters in the ISM frequency bands between 150 kHz and 80MHz and in the frequency range 80 MHz to 2.5 GHz to decrease the likelihood that mobile/ portable communications equipment could cause interference if it is inadvertently brought into patient areas."
+      "content": " Note: An additional factor of 10/3 is used in calculating the recommended separation distance for transmitters in the ISM frequency bands between 150 kHz and 80MHz and in the frequency range 80 MHz to 2.5 GHz to decrease the likelihood that mobile/ portable communications equipment could cause interference if it is inadvertently brought into patient areas.",
+      "section_id": "sec_auto_1546",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_auto_1546",
+          "title": "RECOMMENDED SEPARATION DISTANCES FOR COMMUNICATIONS EQUIPMENT"
+        }
+      ],
+      "page": 213,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -112,7 +230,24 @@
         "r": 539.9644920000003,
         "b": 99.70752904918027
       },
-      "content": " Note: These guidelines may not apply in all situations. Electromagnetic propagation is affected by absorption and reflection from structure, objects and people."
+      "content": " Note: These guidelines may not apply in all situations. Electromagnetic propagation is affected by absorption and reflection from structure, objects and people.",
+      "section_id": "sec_auto_1546",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_auto_1546",
+          "title": "RECOMMENDED SEPARATION DISTANCES FOR COMMUNICATIONS EQUIPMENT"
+        }
+      ],
+      "page": 213,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -125,7 +260,24 @@
         "r": 153.38601599999996,
         "b": 74.52642803278684
       },
-      "content": " Note:"
+      "content": " Note:",
+      "section_id": "sec_auto_1546",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_auto_1546",
+          "title": "RECOMMENDED SEPARATION DISTANCES FOR COMMUNICATIONS EQUIPMENT"
+        }
+      ],
+      "page": 213,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -138,7 +290,24 @@
         "r": 382.30695599999996,
         "b": 74.38743704918033
       },
-      "content": "V1 =10 V rms , V 2 =10 V rms , and E 1 =10 V/meter."
+      "content": "V1 =10 V rms , V 2 =10 V rms , and E 1 =10 V/meter.",
+      "section_id": "sec_auto_1546",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_auto_1546",
+          "title": "RECOMMENDED SEPARATION DISTANCES FOR COMMUNICATIONS EQUIPMENT"
+        }
+      ],
+      "page": 213,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

@@ -20,7 +20,11 @@
       "next_block_id": "txt_0001",
       "image_hash": "1f16e1ab306500a6bf5e069ea9ff0bf22123c8d59e7255ff8d36be6d9394c112",
       "width": 281,
-      "height": 46
+      "height": 46,
+      "page": 1,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -36,7 +40,11 @@
       "next_block_id": "txt_0001",
       "image_hash": "6f3d4102876d0854d9bf03cfee9f6b76b8ca9d4784d50f68185f5a46487436ab",
       "width": 107,
-      "height": 23
+      "height": 23,
+      "page": 1,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -51,7 +59,19 @@
       },
       "content": "Service & repair manual",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_2",
+      "section_path": [
+        {
+          "id": "sec_auto_2",
+          "title": "Service & repair manual"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 2,
+      "page": 1,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -69,7 +89,20 @@
       "next_block_id": "txt_0002",
       "image_hash": "39fdf414aeb30d32882ee967cc8e3fd8eb4e21383c8cf2e1bfd4ec10ffb77efd",
       "width": 466,
-      "height": 364
+      "height": 364,
+      "section_id": "sec_auto_2",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_2",
+          "title": "Service & repair manual"
+        }
+      ],
+      "page": 1,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -82,7 +115,20 @@
         "r": 310.73352,
         "b": 196.8473070885019
       },
-      "content": "Microwave combination oven"
+      "content": "Microwave combination oven",
+      "section_id": "sec_auto_2",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_2",
+          "title": "Service & repair manual"
+        }
+      ],
+      "page": 1,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -95,7 +141,20 @@
         "r": 142.286664,
         "b": 165.0750449510973
       },
-      "content": "Part number:"
+      "content": "Part number:",
+      "section_id": "sec_auto_2",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_2",
+          "title": "Service & repair manual"
+        }
+      ],
+      "page": 1,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -108,7 +167,20 @@
         "r": 189.79199999999997,
         "b": 165.31501953125007
       },
-      "content": "32Z9170"
+      "content": "32Z9170",
+      "section_id": "sec_auto_2",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_2",
+          "title": "Service & repair manual"
+        }
+      ],
+      "page": 1,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -121,7 +193,20 @@
         "r": 99.404592,
         "b": 89.44779075262409
       },
-      "content": "Models:"
+      "content": "Models:",
+      "section_id": "sec_auto_2",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_2",
+          "title": "Service & repair manual"
+        }
+      ],
+      "page": 1,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -134,7 +219,20 @@
         "r": 187.49435999999994,
         "b": 89.29240860515085
       },
-      "content": "50Hz & 60Hz"
+      "content": "50Hz & 60Hz",
+      "section_id": "sec_auto_2",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_2",
+          "title": "Service & repair manual"
+        }
+      ],
+      "page": 1,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -147,7 +245,20 @@
         "r": 114.16905600000004,
         "b": 57.52083075262408
       },
-      "content": "Language:"
+      "content": "Language:",
+      "section_id": "sec_auto_2",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_2",
+          "title": "Service & repair manual"
+        }
+      ],
+      "page": 1,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -160,7 +271,20 @@
         "r": 177.77867999999998,
         "b": 57.365448605150846
       },
-      "content": "ENGLISH"
+      "content": "ENGLISH",
+      "section_id": "sec_auto_2",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_2",
+          "title": "Service & repair manual"
+        }
+      ],
+      "page": 1,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -177,7 +301,20 @@
       "previous_block_id": "txt_0008",
       "image_hash": "45e57d794b9dfe204896b6078389fd522624ea6044fb81c9dd3f7ea266987112",
       "width": 168,
-      "height": 18
+      "height": 18,
+      "section_id": "sec_auto_2",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_2",
+          "title": "Service & repair manual"
+        }
+      ],
+      "page": 1,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

@@ -18,8 +18,25 @@
         "b": 709.2828958877272
       },
       "content": "1.8.3 SELF TEST",
-      "level": 2,
-      "role": "section"
+      "level": 3,
+      "section_number": "1.8.3",
+      "section_id": "sec_1_8_3",
+      "section_path": [
+        {
+          "id": "sec_1_8",
+          "title": "1.8 INSTRUMENT INSTALLATION PROCEDURE"
+        },
+        {
+          "id": "sec_1_8_3",
+          "title": "1.8.3 SELF TEST"
+        }
+      ],
+      "parent_section_id": "sec_1_8",
+      "section_level": 3,
+      "page": 17,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -34,7 +51,19 @@
       },
       "content": "CAUTION: Do not place the infuser in service if the self test fails.",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_84",
+      "section_path": [
+        {
+          "id": "sec_auto_84",
+          "title": "CAUTION: Do not place the infuser in service if the self test fails."
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 2,
+      "page": 17,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -47,7 +76,20 @@
         "r": 539.9688916310005,
         "b": 636.8876948320329
       },
-      "content": " Note: Do not place the infuser in service if the battery is not fully charged. To make certain the battery is fully charged, connect the infuser to AC power for six hours (see Section 8) ."
+      "content": " Note: Do not place the infuser in service if the battery is not fully charged. To make certain the battery is fully charged, connect the infuser to AC power for six hours (see Section 8) .",
+      "section_id": "sec_auto_84",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_84",
+          "title": "CAUTION: Do not place the infuser in service if the self test fails."
+        }
+      ],
+      "page": 17,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -60,7 +102,20 @@
         "r": 540.0257632880999,
         "b": 579.587884784033
       },
-      "content": " Note: If an alarm condition occurs during the self test, cycle the power and repeat the self test. If the alarm condition recurs, note the message and take corrective action (see Section 6) . Repeat the self test. If the alarm condition continues to recur, remove the infuser from service and contact Hospira."
+      "content": " Note: If an alarm condition occurs during the self test, cycle the power and repeat the self test. If the alarm condition recurs, note the message and take corrective action (see Section 6) . Repeat the self test. If the alarm condition continues to recur, remove the infuser from service and contact Hospira.",
+      "section_id": "sec_auto_84",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_84",
+          "title": "CAUTION: Do not place the infuser in service if the self test fails."
+        }
+      ],
+      "page": 17,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -74,7 +129,20 @@
         "b": 555.588145087933
       },
       "content": "To perform the self test, see Figure 1-1 , and proceed as follows:",
-      "hyperlink_hint": true
+      "hyperlink_hint": true,
+      "section_id": "sec_auto_84",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_84",
+          "title": "CAUTION: Do not place the infuser in service if the self test fails."
+        }
+      ],
+      "page": 17,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -87,7 +155,20 @@
         "r": 539.9869192490999,
         "b": 526.128327909833
       },
-      "content": "Connect  the  AC  power  cord  to  a  grounded  AC  outlet.  Verify  the  charging/line indicator CHARGE illuminates and an alarm beep sounds."
+      "content": "Connect  the  AC  power  cord  to  a  grounded  AC  outlet.  Verify  the  charging/line indicator CHARGE illuminates and an alarm beep sounds.",
+      "section_id": "sec_auto_84",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_84",
+          "title": "CAUTION: Do not place the infuser in service if the self test fails."
+        }
+      ],
+      "page": 17,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -100,7 +181,20 @@
         "r": 505.11851784069955,
         "b": 510.708240427833
       },
-      "content": "Without a cassette installed, press the ON/OFF key to turn on the infuser."
+      "content": "Without a cassette installed, press the ON/OFF key to turn on the infuser.",
+      "section_id": "sec_auto_84",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_84",
+          "title": "CAUTION: Do not place the infuser in service if the self test fails."
+        }
+      ],
+      "page": 17,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -114,7 +208,20 @@
         "b": 495.228392885833
       },
       "content": "The LCD screen briefly displays the SELF TEST screen (see Figure 1-1) .",
-      "hyperlink_hint": true
+      "hyperlink_hint": true,
+      "section_id": "sec_auto_84",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_84",
+          "title": "CAUTION: Do not place the infuser in service if the self test fails."
+        }
+      ],
+      "page": 17,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -127,7 +234,20 @@
         "r": 484.44845134310003,
         "b": 470.4473349280328
       },
-      "content": " Note: If the SELF TEST screen does not appear, contact Hospira."
+      "content": " Note: If the SELF TEST screen does not appear, contact Hospira.",
+      "section_id": "sec_auto_84",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_84",
+          "title": "CAUTION: Do not place the infuser in service if the self test fails."
+        }
+      ],
+      "page": 17,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -140,7 +260,20 @@
         "r": 540.025207543,
         "b": 439.0075673620328
       },
-      "content": "After the self test is complete, the message 'INSERT PLUM SET CLOSE LEVER' appears."
+      "content": "After the self test is complete, the message 'INSERT PLUM SET CLOSE LEVER' appears.",
+      "section_id": "sec_auto_84",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_84",
+          "title": "CAUTION: Do not place the infuser in service if the self test fails."
+        }
+      ],
+      "page": 17,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -153,7 +286,20 @@
         "r": 473.22730487689995,
         "b": 423.5874798800328
       },
-      "content": "Verify the time and date. To set the time and date, see Section 1.9.2 ."
+      "content": "Verify the time and date. To set the time and date, see Section 1.9.2 .",
+      "section_id": "sec_auto_84",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_84",
+          "title": "CAUTION: Do not place the infuser in service if the self test fails."
+        }
+      ],
+      "page": 17,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -166,7 +312,20 @@
         "r": 540.0699279879007,
         "b": 385.2474173860328
       },
-      "content": "Open the  cassette  door  and  insert  a  primed  cassette.  Close  the  cassette  door. The cassette test is complete when the 'CASSETTE TEST IN PROGRESS' message disappears."
+      "content": "Open the  cassette  door  and  insert  a  primed  cassette.  Close  the  cassette  door. The cassette test is complete when the 'CASSETTE TEST IN PROGRESS' message disappears.",
+      "section_id": "sec_auto_84",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_84",
+          "title": "CAUTION: Do not place the infuser in service if the self test fails."
+        }
+      ],
+      "page": 17,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -179,7 +338,20 @@
         "r": 539.9316830491005,
         "b": 352.48752488003277
       },
-      "content": " Note: The message 'MECHANISM INITIALIZATION IN PROGRESS' may briefly appear prior to the 'CASSETTE TEST IN PROGRESS' message."
+      "content": " Note: The message 'MECHANISM INITIALIZATION IN PROGRESS' may briefly appear prior to the 'CASSETTE TEST IN PROGRESS' message.",
+      "section_id": "sec_auto_84",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_84",
+          "title": "CAUTION: Do not place the infuser in service if the self test fails."
+        }
+      ],
+      "page": 17,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -192,7 +364,20 @@
         "r": 461.429772632,
         "b": 334.48769520793275
       },
-      "content": "A 'NEW PATIENT?' message may appear. Press the [YES] softkey."
+      "content": "A 'NEW PATIENT?' message may appear. Press the [YES] softkey.",
+      "section_id": "sec_auto_84",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_84",
+          "title": "CAUTION: Do not place the infuser in service if the self test fails."
+        }
+      ],
+      "page": 17,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -205,7 +390,20 @@
         "r": 362.81093281719984,
         "b": 319.06760772593276
       },
-      "content": "Press the ON/OFF key to turn off the infuser."
+      "content": "Press the ON/OFF key to turn off the infuser.",
+      "section_id": "sec_auto_84",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_84",
+          "title": "CAUTION: Do not place the infuser in service if the self test fails."
+        }
+      ],
+      "page": 17,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

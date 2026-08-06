@@ -22,7 +22,24 @@
       "width": 47,
       "height": 22,
       "decorative": true,
-      "image_hash": "7577891dcf1743bd2e7a735ef2621e01244d960bde43e28868c27d7c1437ddb9"
+      "image_hash": "7577891dcf1743bd2e7a735ef2621e01244d960bde43e28868c27d7c1437ddb9",
+      "section_id": "sec_auto_311",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3       Elektronikon® Graphic controller"
+        },
+        {
+          "id": "sec_auto_311",
+          "title": "Automatic restart after voltage failure"
+        }
+      ],
+      "page": 34,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -37,7 +54,24 @@
       },
       "content": "3.2    Control panel",
       "level": 2,
-      "role": "section"
+      "section_number": "3.2",
+      "section_id": "sec_3_2",
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3       Elektronikon® Graphic controller"
+        },
+        {
+          "id": "sec_3_2",
+          "title": "3.2    Control panel"
+        }
+      ],
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "page": 34,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -52,7 +86,23 @@
       },
       "content": "Elektronikon regulator",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_318",
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3       Elektronikon® Graphic controller"
+        },
+        {
+          "id": "sec_auto_318",
+          "title": "Elektronikon regulator"
+        }
+      ],
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "page": 34,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -67,7 +117,23 @@
       },
       "content": "Parts and functions",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_319",
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3       Elektronikon® Graphic controller"
+        },
+        {
+          "id": "sec_auto_319",
+          "title": "Parts and functions"
+        }
+      ],
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "page": 34,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -82,7 +148,24 @@
       },
       "markdown": "Control panel\n\n|   Reference | Designation             | Function                                                                                                                                       |\n|-------------|-------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|\n|           1 | Display                 | Shows the compressor operating condition and a number of icons to navigate through the menu.                                                   |\n|           2 | Pictograph              | Automatic operation                                                                                                                            |\n|           3 | Pictograph              | General alarm                                                                                                                                  |\n|           4 | General alarm LED       | Flashes if a shut-down warning condition exists.                                                                                               |\n|           5 | Pictograph              | Service                                                                                                                                        |\n|           6 | Service LED             | Lights up if service is needed                                                                                                                 |\n|           7 | Automatic operation LED | Indicates that the regulator is automatically controlling the compressor.                                                                      |\n|           8 | Voltage on LED          | Indicates that the voltage is switched on.                                                                                                     |\n|           9 | Pictograph              | Voltage on                                                                                                                                     |\n|          10 | Enter key               | Key to select the parameter indicated by the horizontal arrow. Only the parameters followed by an arrow pointing to the right can be modified. |\n|          11 | Escape key              | To go to previous screen or to end the current action                                                                                          |\n|          12 | Scroll keys             | Keys to scroll through the menu.                                                                                                               |\n|          13 | Stop button             | Button to stop the compressor. LED (7) goes out.                                                                                               |\n|          14 | Start button            | Button to start the compressor. LED (7) lights up indicating that the Elektronikon regulator is operative.                                     |",
       "rows": 15,
-      "cols": 3
+      "cols": 3,
+      "section_id": "sec_auto_319",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3       Elektronikon® Graphic controller"
+        },
+        {
+          "id": "sec_auto_319",
+          "title": "Parts and functions"
+        }
+      ],
+      "page": 34,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "caption",
@@ -96,6 +179,24 @@
         "b": 481.9
       },
       "content": "Control panel",
+      "section_id": "sec_auto_319",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3       Elektronikon® Graphic controller"
+        },
+        {
+          "id": "sec_auto_319",
+          "title": "Parts and functions"
+        }
+      ],
+      "page": 34,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0066",
+      "source": "pdf_text",
       "caption_for": "fig_0066"
     },
     {
@@ -111,11 +212,29 @@
       },
       "image_path": "figures/figure_0066.png",
       "previous_block_id": "txt_0236",
-      "caption_id": "txt_0236",
       "caption": "Control panel",
       "image_hash": "08704a89aeff038391627243549adc44f92b622c8f4d3b189ef2915f483e705a",
       "width": 216,
-      "height": 194
+      "height": 194,
+      "section_id": "sec_auto_319",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3       Elektronikon® Graphic controller"
+        },
+        {
+          "id": "sec_auto_319",
+          "title": "Parts and functions"
+        }
+      ],
+      "page": 34,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0066",
+      "source": "pdf_text",
+      "caption_id": "txt_0236"
     }
   ],
   "page_stats": {

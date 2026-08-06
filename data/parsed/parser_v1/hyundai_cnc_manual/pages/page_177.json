@@ -20,7 +20,24 @@
       "image_path": "figures/figure_0339.png",
       "width": 27,
       "height": 40,
-      "image_hash": "cbcf6b8b5592ba2ac421f6833ceb249ac962091b27a777411add7772514245d9"
+      "image_hash": "cbcf6b8b5592ba2ac421f6833ceb249ac962091b27a777411add7772514245d9",
+      "section_id": "sec_auto_1644",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-9-5. Alarm display and corresponding Coutermeasures"
+        },
+        {
+          "id": "sec_auto_1644",
+          "title": "[ Servo Alarm ]"
+        }
+      ],
+      "page": 177,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -36,7 +53,24 @@
       "image_path": "figures/figure_0340.png",
       "width": 28,
       "height": 40,
-      "image_hash": "09cedcbf0a350dad39c9c02d7afff4981ca4fa10094a4a1e5fb8c7b1ba9f09da"
+      "image_hash": "09cedcbf0a350dad39c9c02d7afff4981ca4fa10094a4a1e5fb8c7b1ba9f09da",
+      "section_id": "sec_auto_1644",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-9-5. Alarm display and corresponding Coutermeasures"
+        },
+        {
+          "id": "sec_auto_1644",
+          "title": "[ Servo Alarm ]"
+        }
+      ],
+      "page": 177,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -52,7 +86,24 @@
       "image_path": "figures/figure_0341.png",
       "width": 27,
       "height": 41,
-      "image_hash": "fe73e422fdb5e586bc35c081bb2f1f34438893e033d73db9111962740169b7f9"
+      "image_hash": "fe73e422fdb5e586bc35c081bb2f1f34438893e033d73db9111962740169b7f9",
+      "section_id": "sec_auto_1644",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-9-5. Alarm display and corresponding Coutermeasures"
+        },
+        {
+          "id": "sec_auto_1644",
+          "title": "[ Servo Alarm ]"
+        }
+      ],
+      "page": 177,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -68,7 +119,24 @@
       "image_path": "figures/figure_0342.png",
       "width": 28,
       "height": 40,
-      "image_hash": "6faff4d622e5a0bb489ac51e366663cffd40b219a65eadf619b89b0250a6319e"
+      "image_hash": "6faff4d622e5a0bb489ac51e366663cffd40b219a65eadf619b89b0250a6319e",
+      "section_id": "sec_auto_1644",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-9-5. Alarm display and corresponding Coutermeasures"
+        },
+        {
+          "id": "sec_auto_1644",
+          "title": "[ Servo Alarm ]"
+        }
+      ],
+      "page": 177,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -83,7 +151,24 @@
       },
       "markdown": "|   No. | LED                                                                                                                                                                          | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Countermeasure                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |\n|-------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n|   404 |                                                                                                                                                                              | has overheated. regenerative discharge energy is too high (when the ACC/DEC frequency is too high, for example). When the regenerative discharge resistor is not being used, check whether a dummy connector is fitted to the CX11-6 connector. 1) The average regenerative discharge energy may be too high. Decrease the ACC/DEC frequency. 2) The thermostat line of the separate regenerative discharge unit may not be connected properly. Check the connection. 3) The thermostat of the separate regenerative discharge unit may be defective. Disconnect the separate regenerative discharge unit, then check the thermostat. If the thermostat is open even through the separate regenerative discharge unit is cool, replace the separate regenerative discharge unit. If (1) to (3) are not the cause of the alarm, replace the servo amplifier. | has overheated. regenerative discharge energy is too high (when the ACC/DEC frequency is too high, for example). When the regenerative discharge resistor is not being used, check whether a dummy connector is fitted to the CX11-6 connector. 1) The average regenerative discharge energy may be too high. Decrease the ACC/DEC frequency. 2) The thermostat line of the separate regenerative discharge unit may not be connected properly. Check the connection. 3) The thermostat of the separate regenerative discharge unit may be defective. Disconnect the separate regenerative discharge unit, then check the thermostat. If the thermostat is open even through the separate regenerative discharge unit is cool, replace the separate regenerative discharge unit. If (1) to (3) are not the cause of the alarm, replace the servo amplifier. |\n|   405 | Reference position return not be executed correctly. If                                                                                                                      | could Re-execute reference position return.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |\n|   405 | setting parameter No.032 (CMR) to the value between 4 and 96, an alarm could be occurred. This time, set the parameter No.001 #4(N405) to \"1\" to prevent the alarm occurred. | setting parameter No.032 (CMR) to the value between 4 and 96, an alarm could be occurred. This time, set the parameter No.001 #4(N405) to \"1\" to prevent the alarm occurred.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | setting parameter No.032 (CMR) to the value between 4 and 96, an alarm could be occurred. This time, set the parameter No.001 #4(N405) to \"1\" to prevent the alarm occurred.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |\n|   410 | The servo position error stop state is larger than specified in parameter                                                                                                    | in the the value No. 110. Determine the mechanical cause of the large position error. If no mechanical cause is found, specify a larger value for the parameter.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |\n|   411 | The servo position error movement is larger than specified in parameter                                                                                                      | during the value No. 182. Determine the mechanical cause of the large position error. If no mechanical cause is found, apply any of the following counter-measures: • Specify a larger value for the parameter • Specify a lower federate.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | • Increase the time contants.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |",
       "rows": 6,
-      "cols": 4
+      "cols": 4,
+      "section_id": "sec_auto_1644",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-9-5. Alarm display and corresponding Coutermeasures"
+        },
+        {
+          "id": "sec_auto_1644",
+          "title": "[ Servo Alarm ]"
+        }
+      ],
+      "page": 177,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

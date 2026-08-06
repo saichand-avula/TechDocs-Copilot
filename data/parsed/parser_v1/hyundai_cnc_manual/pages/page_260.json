@@ -17,7 +17,24 @@
         "r": 255.29306400000002,
         "b": 757.84592
       },
-      "content": "β AMP Dl signal(PMM CNC)"
+      "content": "β AMP Dl signal(PMM CNC)",
+      "section_id": "sec_auto_2394",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-4-3. β DI/DO Diagnosis signal"
+        },
+        {
+          "id": "sec_auto_2394",
+          "title": "CAUTION"
+        }
+      ],
+      "page": 260,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -32,7 +49,24 @@
       },
       "markdown": "| ADRESS              | 7                                            | 6                                            | 5                                            | 4                                            | 3                                            | 2                                            | 1                                            | 0                                            |\n|---------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|\n| ADRESS              | 128                                          | 64                                           | 32                                           | 16                                           | 8                                            | 4                                            | 2                                            | 1                                            |\n| Y64 (016)           | OPC4                                         | OPC3                                         | OPC2                                         | OPC1                                         | INPX                                         | SUPX                                         | IPLX                                         | DEN2                                         |\n| Y64 (016)           |                                              |                                              |                                              |                                              | 1                                            |                                              |                                              |                                              |\n| Y65 (017)           | OP                                           | SA                                           | STL                                          | UCPC2                                        |                                              |                                              | DRCO                                         | ABSWT                                        |\n| Y65 (017)           | 1                                            | 1                                            |                                              |                                              |                                              |                                              |                                              |                                              |\n| Y66 (018)           | MA                                           | AL                                           | DSP2                                         | DSP1                                         | DSALO                                        | TRQM                                         | RST                                          | ZPX                                          |\n| Y66 (018)           | 1                                            | 1                                            |                                              |                                              |                                              |                                              |                                              |                                              |\n| Y67(019) ~ X70(022) | Response DATA (Current TOOL NO.) BINARY DATA | Response DATA (Current TOOL NO.) BINARY DATA | Response DATA (Current TOOL NO.) BINARY DATA | Response DATA (Current TOOL NO.) BINARY DATA | Response DATA (Current TOOL NO.) BINARY DATA | Response DATA (Current TOOL NO.) BINARY DATA | Response DATA (Current TOOL NO.) BINARY DATA | Response DATA (Current TOOL NO.) BINARY DATA |\n| Y71 (023)           |                                              | SVERX                                        |                                              | PSG2                                         | PSG1                                         | MVX                                          | APBAL                                        | MVDX                                         |\n| Y71 (023)           |                                              |                                              |                                              | 1                                            | 1                                            |                                              |                                              |                                              |",
       "rows": 11,
-      "cols": 9
+      "cols": 9,
+      "section_id": "sec_auto_2394",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-4-3. β DI/DO Diagnosis signal"
+        },
+        {
+          "id": "sec_auto_2394",
+          "title": "CAUTION"
+        }
+      ],
+      "page": 260,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -50,7 +84,24 @@
       "next_block_id": "txt_1874",
       "image_hash": "1f890bf36bb82e8df44b0170a11c993ec6a901543ed39bec6e2b04b77cd58d84",
       "width": 32,
-      "height": 31
+      "height": 31,
+      "section_id": "sec_auto_2394",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-4-3. β DI/DO Diagnosis signal"
+        },
+        {
+          "id": "sec_auto_2394",
+          "title": "CAUTION"
+        }
+      ],
+      "page": 260,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -65,7 +116,23 @@
       },
       "content": "CAUTION",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_2400",
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-4-3. β DI/DO Diagnosis signal"
+        },
+        {
+          "id": "sec_auto_2400",
+          "title": "CAUTION"
+        }
+      ],
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "page": 260,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -78,7 +145,24 @@
         "r": 503.56933199999884,
         "b": 360.98306692817675
       },
-      "content": "DGN numbers 016 to 031 correspond to signal addresses Xx+O to Xx+15. respectively."
+      "content": "DGN numbers 016 to 031 correspond to signal addresses Xx+O to Xx+15. respectively.",
+      "section_id": "sec_auto_2400",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-4-3. β DI/DO Diagnosis signal"
+        },
+        {
+          "id": "sec_auto_2400",
+          "title": "CAUTION"
+        }
+      ],
+      "page": 260,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -91,7 +175,24 @@
         "r": 516.9660719999998,
         "b": 337.94307892817676
       },
-      "content": "DGN numbers 024 to 031 (signal addresses Xx+8 to Xx+15)are not used for the peripheral equipment control interface are used as response area for power motion manager."
+      "content": "DGN numbers 024 to 031 (signal addresses Xx+8 to Xx+15)are not used for the peripheral equipment control interface are used as response area for power motion manager.",
+      "section_id": "sec_auto_2400",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-4-3. β DI/DO Diagnosis signal"
+        },
+        {
+          "id": "sec_auto_2400",
+          "title": "CAUTION"
+        }
+      ],
+      "page": 260,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

@@ -19,12 +19,26 @@
       },
       "image_path": "figures/figure_0092.png",
       "next_block_id": "txt_0381",
-      "caption_id": "txt_0381",
       "caption": "Foundation Work",
       "figure_number": "Fig. 4-5",
       "image_hash": "71eaf9a3f78650faf5b125089f9c19e1960f13451e07e12a7b06922750bc1d0f",
       "width": 445,
-      "height": 271
+      "height": 271,
+      "section_id": "sec_4",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4-2-2. Using Foundation Bolt (Optional)"
+        }
+      ],
+      "page": 68,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0092",
+      "source": "pdf_text",
+      "caption_id": "txt_0381"
     },
     {
       "type": "caption",
@@ -38,6 +52,20 @@
         "b": 483.80406892817706
       },
       "content": "Fig. 4-5 Foundation Work",
+      "section_id": "sec_4",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4-2-2. Using Foundation Bolt (Optional)"
+        }
+      ],
+      "page": 68,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0092",
+      "source": "pdf_text",
       "caption_for": "fig_0092"
     },
     {
@@ -52,8 +80,21 @@
         "b": 449.78416492817706
       },
       "content": "5. Adjustment of Level",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "5",
+      "section_id": "sec_5",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5. Adjustment of Level"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 68,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -66,7 +107,20 @@
         "r": 469.0015740000008,
         "b": 414.26426692817705
       },
-      "content": "The levelling method is one of the factors to determine the degree of machine."
+      "content": "The levelling method is one of the factors to determine the degree of machine.",
+      "section_id": "sec_5",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5. Adjustment of Level"
+        }
+      ],
+      "page": 68,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -79,7 +133,20 @@
         "r": 527.3299980000013,
         "b": 376.224338928177
       },
-      "content": "Levelling the machine is the most- basic work and has an influence on the degree of the workpiece and the life of machine itself."
+      "content": "Levelling the machine is the most- basic work and has an influence on the degree of the workpiece and the life of machine itself.",
+      "section_id": "sec_5",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5. Adjustment of Level"
+        }
+      ],
+      "page": 68,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -92,7 +159,20 @@
         "r": 295.57942199999997,
         "b": 357.26449492817704
       },
-      "content": "Perform levelling in the following order."
+      "content": "Perform levelling in the following order.",
+      "section_id": "sec_5",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5. Adjustment of Level"
+        }
+      ],
+      "page": 68,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -105,7 +185,20 @@
         "r": 521.9191979999999,
         "b": 338.244530928177
       },
-      "content": "Install the machine on the floor to be installed as shown in the chapter 4, \"installation\""
+      "content": "Install the machine on the floor to be installed as shown in the chapter 4, \"installation\"",
+      "section_id": "sec_5",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5. Adjustment of Level"
+        }
+      ],
+      "page": 68,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -118,7 +211,20 @@
         "r": 386.3516039999993,
         "b": 319.22456692817696
       },
-      "content": "Attach the level plate to the turret as shown in Fig. 4-6."
+      "content": "Attach the level plate to the turret as shown in Fig. 4-6.",
+      "section_id": "sec_5",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5. Adjustment of Level"
+        }
+      ],
+      "page": 68,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -131,7 +237,20 @@
         "r": 306.9410999999997,
         "b": 300.264722928177
       },
-      "content": "Place the level above the level plate."
+      "content": "Place the level above the level plate.",
+      "section_id": "sec_5",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5. Adjustment of Level"
+        }
+      ],
+      "page": 68,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -144,7 +263,20 @@
         "r": 527.342022,
         "b": 243.26495092817697
       },
-      "content": "Move the level much as the full feed in 2-axis (430mm 16.93in) and then read the result. At  the  time,  adjust  the  level  using  the  levelling  bolt  so  that  the  difference  from  the reading is ±0.04mm/m (±0.00157in/40in)"
+      "content": "Move the level much as the full feed in 2-axis (430mm 16.93in) and then read the result. At  the  time,  adjust  the  level  using  the  levelling  bolt  so  that  the  difference  from  the reading is ±0.04mm/m (±0.00157in/40in)",
+      "section_id": "sec_5",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5. Adjustment of Level"
+        }
+      ],
+      "page": 68,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -159,7 +291,20 @@
       },
       "markdown": "| Level Tolerance   | 0.04 mm/m(0.00157in/40in)           |\n|-------------------|-------------------------------------|\n| Level Accuracy    | 1 scale = 0.02 mm/m(0.00079in/40in) |",
       "rows": 2,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_5",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5. Adjustment of Level"
+        }
+      ],
+      "page": 68,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

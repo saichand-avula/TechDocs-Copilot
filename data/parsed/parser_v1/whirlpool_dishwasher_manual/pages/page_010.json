@@ -17,7 +17,24 @@
         "r": 72.4687,
         "b": 32.765719354838666
       },
-      "content": "n"
+      "content": "n",
+      "section_id": "sec_auto_142",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_142",
+          "title": "Underside of countertop to floor"
+        }
+      ],
+      "page": 10,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -32,7 +49,23 @@
       },
       "content": "Model & Serial Number Label",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_151",
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_151",
+          "title": "Model & Serial Number Label"
+        }
+      ],
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "page": 10,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -48,12 +81,30 @@
       "image_path": "figures/figure_0019.png",
       "previous_block_id": "txt_0132",
       "next_block_id": "txt_0133",
-      "caption_id": "txt_0133",
       "caption": "Model/Serial Number Label located inside, on left side wall, toward front.",
       "figure_number": "Figure 7",
       "image_hash": "41e6be5c3b94e32e3d11d7252dd694fceb20c1a086107c76507f397c459caeb1",
       "width": 376,
-      "height": 285
+      "height": 285,
+      "section_id": "sec_auto_151",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_151",
+          "title": "Model & Serial Number Label"
+        }
+      ],
+      "page": 10,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0019",
+      "source": "pdf_text",
+      "caption_id": "txt_0133"
     },
     {
       "type": "caption",
@@ -67,6 +118,24 @@
         "b": 402.88709075630254
       },
       "content": "Figure 7 - Model/Serial Number Label located inside, on left side wall, toward front.",
+      "section_id": "sec_auto_151",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_151",
+          "title": "Model & Serial Number Label"
+        }
+      ],
+      "page": 10,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0019",
+      "source": "pdf_text",
       "caption_for": "fig_0019"
     },
     {
@@ -82,7 +151,23 @@
       },
       "content": "Tech Sheet Location",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_154",
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_154",
+          "title": "Tech Sheet Location"
+        }
+      ],
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "page": 10,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -98,12 +183,30 @@
       "image_path": "figures/figure_0020.png",
       "previous_block_id": "txt_0134",
       "next_block_id": "txt_0135",
-      "caption_id": "txt_0135",
       "caption": "Tech Sheet located behind toe panel inside insulation folds.",
       "figure_number": "Figure 8",
       "image_hash": "ed40b80604684c2ea58135d987feb6fd7a7254a82de81e3dda30cc71f38bdc07",
       "width": 346,
-      "height": 264
+      "height": 264,
+      "section_id": "sec_auto_154",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_154",
+          "title": "Tech Sheet Location"
+        }
+      ],
+      "page": 10,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0020",
+      "source": "pdf_text",
+      "caption_id": "txt_0135"
     },
     {
       "type": "caption",
@@ -117,6 +220,24 @@
         "b": 58.59209075630247
       },
       "content": "Figure 8 - Tech Sheet located behind toe panel inside insulation folds.",
+      "section_id": "sec_auto_154",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_154",
+          "title": "Tech Sheet Location"
+        }
+      ],
+      "page": 10,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0020",
+      "source": "pdf_text",
       "caption_for": "fig_0020"
     }
   ],

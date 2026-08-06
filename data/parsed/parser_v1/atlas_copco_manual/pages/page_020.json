@@ -21,7 +21,24 @@
       "next_block_id": "txt_0147",
       "width": 47,
       "height": 23,
-      "image_hash": "7577891dcf1743bd2e7a735ef2621e01244d960bde43e28868c27d7c1437ddb9"
+      "image_hash": "7577891dcf1743bd2e7a735ef2621e01244d960bde43e28868c27d7c1437ddb9",
+      "section_id": "sec_auto_189",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_auto_189",
+          "title": "Description"
+        }
+      ],
+      "page": 20,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -34,7 +51,24 @@
         "r": 516.7599000000002,
         "b": 727.444
       },
-      "content": "Air pressure forces the oil from air receiver/oil separator (AR) through oil filter (OF) and oil stop valve (Vs)to compressor element (E)."
+      "content": "Air pressure forces the oil from air receiver/oil separator (AR) through oil filter (OF) and oil stop valve (Vs)to compressor element (E).",
+      "section_id": "sec_auto_189",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_auto_189",
+          "title": "Description"
+        }
+      ],
+      "page": 20,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -47,7 +81,24 @@
         "r": 525.7996999999996,
         "b": 695.1039999999999
       },
-      "content": "Bypass valve (BV) starts opening the supply from cooler (Co) when the oil temperature has increased to the set point. At approx. 15 °C above the set point, all the oil flows through the oil cooler."
+      "content": "Bypass valve (BV) starts opening the supply from cooler (Co) when the oil temperature has increased to the set point. At approx. 15 °C above the set point, all the oil flows through the oil cooler.",
+      "section_id": "sec_auto_189",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_auto_189",
+          "title": "Description"
+        }
+      ],
+      "page": 20,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -60,7 +111,24 @@
         "r": 500.32919999999893,
         "b": 662.7639999999999
       },
-      "content": "Oil stop valve (Vs) prevents the compressor element from flooding with oil when the compressor is stopped.The valve is opened by element outlet pressure when the compressor is started."
+      "content": "Oil stop valve (Vs) prevents the compressor element from flooding with oil when the compressor is stopped.The valve is opened by element outlet pressure when the compressor is started.",
+      "section_id": "sec_auto_189",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_auto_189",
+          "title": "Description"
+        }
+      ],
+      "page": 20,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -75,7 +143,24 @@
       },
       "content": "2.4    Cooling system",
       "level": 2,
-      "role": "section"
+      "section_number": "2.4",
+      "section_id": "sec_2_4",
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_2_4",
+          "title": "2.4    Cooling system"
+        }
+      ],
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "page": 20,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -90,7 +175,23 @@
       },
       "content": "Flow diagram",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_197",
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_auto_197",
+          "title": "Flow diagram"
+        }
+      ],
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "page": 20,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -106,11 +207,29 @@
       "image_path": "figures/figure_0039.png",
       "previous_block_id": "txt_0151",
       "next_block_id": "txt_0152",
-      "caption_id": "txt_0152",
       "caption": "Cooling system,air-cooled compressors",
       "image_hash": "447616a2e8ef60099ddf2765d250305f8e0a76fdcb5d79cc78f0ed906fb2e8e2",
       "width": 327,
-      "height": 231
+      "height": 231,
+      "section_id": "sec_auto_197",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_auto_197",
+          "title": "Flow diagram"
+        }
+      ],
+      "page": 20,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0039",
+      "source": "pdf_text",
+      "caption_id": "txt_0152"
     },
     {
       "type": "caption",
@@ -124,6 +243,24 @@
         "b": 290.44000000000005
       },
       "content": "Cooling system,air-cooled compressors",
+      "section_id": "sec_auto_197",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_auto_197",
+          "title": "Flow diagram"
+        }
+      ],
+      "page": 20,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0039",
+      "source": "pdf_text",
       "caption_for": "fig_0039"
     }
   ],

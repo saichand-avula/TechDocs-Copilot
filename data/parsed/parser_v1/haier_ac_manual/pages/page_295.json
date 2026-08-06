@@ -19,7 +19,24 @@
       },
       "content": "7.3.1Thermistor or Related Abnormality (indoor unit)",
       "level": 2,
-      "role": "section"
+      "section_number": "7.3",
+      "section_id": "sec_7_3",
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_7_3",
+          "title": "7.3.1Thermistor or Related Abnormality (indoor unit)"
+        }
+      ],
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "page": 295,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -32,7 +49,24 @@
         "r": 173.53374523,
         "b": 729.31328
       },
-      "content": "Indoor Display          E1"
+      "content": "Indoor Display          E1",
+      "section_id": "sec_7_3",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_7_3",
+          "title": "7.3.1Thermistor or Related Abnormality (indoor unit)"
+        }
+      ],
+      "page": 295,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -45,7 +79,24 @@
         "r": 355.62858261999986,
         "b": 729.31328
       },
-      "content": ": Room temperature sensor failure"
+      "content": ": Room temperature sensor failure",
+      "section_id": "sec_7_3",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_7_3",
+          "title": "7.3.1Thermistor or Related Abnormality (indoor unit)"
+        }
+      ],
+      "page": 295,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -58,7 +109,24 @@
         "r": 362.1383362099999,
         "b": 713.72348
       },
-      "content": "E2 : Heat-exchange sensor failure"
+      "content": "E2 : Heat-exchange sensor failure",
+      "section_id": "sec_7_3",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_7_3",
+          "title": "7.3.1Thermistor or Related Abnormality (indoor unit)"
+        }
+      ],
+      "page": 295,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -71,7 +139,24 @@
         "r": 141.99007770000003,
         "b": 662.933086
       },
-      "content": "Method of Malfunction Detection"
+      "content": "Method of Malfunction Detection",
+      "section_id": "sec_7_3",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_7_3",
+          "title": "7.3.1Thermistor or Related Abnormality (indoor unit)"
+        }
+      ],
+      "page": 295,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -84,7 +169,24 @@
         "r": 518.9952468599998,
         "b": 685.957386
       },
-      "content": "the temperatures detected by the thermistors are used to determine thermistor errors"
+      "content": "the temperatures detected by the thermistors are used to determine thermistor errors",
+      "section_id": "sec_7_3",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_7_3",
+          "title": "7.3.1Thermistor or Related Abnormality (indoor unit)"
+        }
+      ],
+      "page": 295,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -97,7 +199,24 @@
         "r": 140.96896460000002,
         "b": 616.9400956
       },
-      "content": "Malfunction Decision Conditions"
+      "content": "Malfunction Decision Conditions",
+      "section_id": "sec_7_3",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_7_3",
+          "title": "7.3.1Thermistor or Related Abnormality (indoor unit)"
+        }
+      ],
+      "page": 295,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -110,7 +229,24 @@
         "r": 513.2533453399993,
         "b": 628.515586
       },
-      "content": "when the thermistor input is more than 4.92V or less than 0.08V during compressor operation."
+      "content": "when the thermistor input is more than 4.92V or less than 0.08V during compressor operation.",
+      "section_id": "sec_7_3",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_7_3",
+          "title": "7.3.1Thermistor or Related Abnormality (indoor unit)"
+        }
+      ],
+      "page": 295,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "admonition",
@@ -124,7 +260,24 @@
         "t": 614.8216465400001,
         "r": 170.96065330000002,
         "b": 605.54923814
-      }
+      },
+      "section_id": "sec_7_3",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_7_3",
+          "title": "7.3.1Thermistor or Related Abnormality (indoor unit)"
+        }
+      ],
+      "page": 295,
+      "chunk_hint": "admonition",
+      "semantic_role": "note",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -137,7 +290,24 @@
         "r": 160.74421629999998,
         "b": 582.5237760000001
       },
-      "content": "Supposed                g374 Causes                      g374"
+      "content": "Supposed                g374 Causes                      g374",
+      "section_id": "sec_7_3",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_7_3",
+          "title": "7.3.1Thermistor or Related Abnormality (indoor unit)"
+        }
+      ],
+      "page": 295,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -150,7 +320,24 @@
         "r": 288.45322614000014,
         "b": 594.0391860000001
       },
-      "content": "Faulty connector connection"
+      "content": "Faulty connector connection",
+      "section_id": "sec_7_3",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_7_3",
+          "title": "7.3.1Thermistor or Related Abnormality (indoor unit)"
+        }
+      ],
+      "page": 295,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -163,7 +350,24 @@
         "r": 240.06790350000006,
         "b": 582.5269860000001
       },
-      "content": "Faulty thermistor"
+      "content": "Faulty thermistor",
+      "section_id": "sec_7_3",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_7_3",
+          "title": "7.3.1Thermistor or Related Abnormality (indoor unit)"
+        }
+      ],
+      "page": 295,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -176,7 +380,24 @@
         "r": 260.10175724000004,
         "b": 569.7983968859043
       },
-      "content": "Ƶ Faulty PCB"
+      "content": "Ƶ Faulty PCB",
+      "section_id": "sec_7_3",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_7_3",
+          "title": "7.3.1Thermistor or Related Abnormality (indoor unit)"
+        }
+      ],
+      "page": 295,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -189,7 +410,24 @@
         "r": 205.99920159999996,
         "b": 545.1713850000001
       },
-      "content": "Troubleshooting        * Caution"
+      "content": "Troubleshooting        * Caution",
+      "section_id": "sec_7_3",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_7_3",
+          "title": "7.3.1Thermistor or Related Abnormality (indoor unit)"
+        }
+      ],
+      "page": 295,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -202,7 +440,24 @@
         "r": 552.650841780001,
         "b": 529.7007830000001
       },
-      "content": "Be sure to turn off power switch before connect or disconnect connector,      or else parts damage may be occurred."
+      "content": "Be sure to turn off power switch before connect or disconnect connector,      or else parts damage may be occurred.",
+      "section_id": "sec_7_3",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_7_3",
+          "title": "7.3.1Thermistor or Related Abnormality (indoor unit)"
+        }
+      ],
+      "page": 295,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -220,7 +475,24 @@
       "next_block_id": "txt_2442",
       "image_hash": "54f33d07f136655af18f44e6b615ecaa4c9dc9ac45cc29597e59daf362142cab",
       "width": 371,
-      "height": 297
+      "height": 297,
+      "section_id": "sec_7_3",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_7_3",
+          "title": "7.3.1Thermistor or Related Abnormality (indoor unit)"
+        }
+      ],
+      "page": 295,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -235,7 +507,23 @@
       },
       "content": "Thermistor resistance check method:",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_3200",
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_3200",
+          "title": "Thermistor resistance check method:"
+        }
+      ],
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "page": 295,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -248,7 +536,24 @@
         "r": 551.5424871200019,
         "b": 153.75047700000005
       },
-      "content": "Remove the connector of the thermistor on the PCB, and measure the resistance of thermistor using tester.The relationship between normal temperature and resistance is shown in the value of indoor thermistor."
+      "content": "Remove the connector of the thermistor on the PCB, and measure the resistance of thermistor using tester.The relationship between normal temperature and resistance is shown in the value of indoor thermistor.",
+      "section_id": "sec_auto_3200",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_3200",
+          "title": "Thermistor resistance check method:"
+        }
+      ],
+      "page": 295,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -265,7 +570,24 @@
       "previous_block_id": "txt_2443",
       "image_hash": "9aeed8984417007d2728a794205f7c5b9da4103d6df65348e75e85784ad6ca50",
       "width": 288,
-      "height": 53
+      "height": 53,
+      "section_id": "sec_auto_3200",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_3200",
+          "title": "Thermistor resistance check method:"
+        }
+      ],
+      "page": 295,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

@@ -19,12 +19,34 @@
       },
       "image_path": "figures/figure_0036.png",
       "next_block_id": "txt_0231",
-      "caption_id": "txt_0231",
       "caption": ": Side-by-side placement of 400 ~ 500 kVA UPS rectifier cabinet and inverter cabinet",
       "figure_number": "Figure 3-9",
       "image_hash": "f74d897d103a96a32cf6d2e8637ce9958ca2cc204b8bbcd859f293ec72022804",
       "width": 214,
-      "height": 198
+      "height": 198,
+      "section_id": "sec_3_3_3",
+      "parent_section_id": "sec_3_3",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_3",
+          "title": "3.3 Positioning and Installation"
+        },
+        {
+          "id": "sec_3_3_3",
+          "title": "3.3.3 Cabinet Parallel Installation"
+        }
+      ],
+      "page": 28,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0036",
+      "source": "pdf_text",
+      "caption_id": "txt_0231"
     },
     {
       "type": "caption",
@@ -38,6 +60,28 @@
         "b": 496.526101363195
       },
       "content": "Figure 3-9: Side-by-side placement of 400 ~ 500 kVA UPS rectifier cabinet and inverter cabinet",
+      "section_id": "sec_3_3_3",
+      "parent_section_id": "sec_3_3",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_3",
+          "title": "3.3 Positioning and Installation"
+        },
+        {
+          "id": "sec_3_3_3",
+          "title": "3.3.3 Cabinet Parallel Installation"
+        }
+      ],
+      "page": 28,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0036",
+      "source": "pdf_text",
       "caption_for": "fig_0036"
     },
     {
@@ -51,7 +95,29 @@
         "r": 541.2747199999995,
         "b": 449.72610136319497
       },
-      "content": "Fixed  installation:  disassembly  the  back  board  of  cabinets  placed  side  by  side.  Fix  the  two cabinets together with screw rod at the \"fixing holes for parallel connection of the two cabinets\" (as shown in Figure 3-10), and then fit on the back board."
+      "content": "Fixed  installation:  disassembly  the  back  board  of  cabinets  placed  side  by  side.  Fix  the  two cabinets together with screw rod at the \"fixing holes for parallel connection of the two cabinets\" (as shown in Figure 3-10), and then fit on the back board.",
+      "section_id": "sec_3_3_3",
+      "parent_section_id": "sec_3_3",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_3",
+          "title": "3.3 Positioning and Installation"
+        },
+        {
+          "id": "sec_3_3_3",
+          "title": "3.3.3 Cabinet Parallel Installation"
+        }
+      ],
+      "page": 28,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text",
+      "group_id": "grp_fig_0036"
     },
     {
       "type": "list_item",
@@ -64,7 +130,28 @@
         "r": 541.61566,
         "b": 139.35610136319497
       },
-      "content": "Bus connection: connect the bus of rectifier cabinet with soft copper bar (as shown in Figure 3-11) and then correspondingly connect it to the copper bars for the bus of inverter cabinet (as shown in Figure 3-12)."
+      "content": "Bus connection: connect the bus of rectifier cabinet with soft copper bar (as shown in Figure 3-11) and then correspondingly connect it to the copper bars for the bus of inverter cabinet (as shown in Figure 3-12).",
+      "section_id": "sec_3_3_3",
+      "parent_section_id": "sec_3_3",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_3",
+          "title": "3.3 Positioning and Installation"
+        },
+        {
+          "id": "sec_3_3_3",
+          "title": "3.3.3 Cabinet Parallel Installation"
+        }
+      ],
+      "page": 28,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -77,7 +164,28 @@
         "r": 397.83567999999997,
         "b": 111.15610136319492
       },
-      "content": "Note: +BUS, N and -BUS must be connected correspondingly."
+      "content": "Note: +BUS, N and -BUS must be connected correspondingly.",
+      "section_id": "sec_3_3_3",
+      "parent_section_id": "sec_3_3",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_3",
+          "title": "3.3 Positioning and Installation"
+        },
+        {
+          "id": "sec_3_3_3",
+          "title": "3.3.3 Cabinet Parallel Installation"
+        }
+      ],
+      "page": 28,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -93,12 +201,34 @@
       "image_path": "figures/figure_0037.png",
       "previous_block_id": "txt_0234",
       "next_block_id": "txt_0235",
-      "caption_id": "txt_0235",
       "caption": ": Diagram of fixing holes for parallel connection of 400 ~ 500 kVA UPS rectifier cabinet and inverter cabinet",
       "figure_number": "Figure 3-10",
       "image_hash": "7206b8189c665a81bdff02d3575fb7cd4c12f65704f15c0c4659022605b72114",
       "width": 190,
-      "height": 210
+      "height": 210,
+      "section_id": "sec_3_3_3",
+      "parent_section_id": "sec_3_3",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_3",
+          "title": "3.3 Positioning and Installation"
+        },
+        {
+          "id": "sec_3_3_3",
+          "title": "3.3.3 Cabinet Parallel Installation"
+        }
+      ],
+      "page": 28,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0037",
+      "source": "pdf_text",
+      "caption_id": "txt_0235"
     },
     {
       "type": "caption",
@@ -112,6 +242,28 @@
         "b": 186.15610136319492
       },
       "content": "Figure 3-10: Diagram of fixing holes for parallel connection of 400 ~ 500 kVA UPS rectifier cabinet and inverter cabinet",
+      "section_id": "sec_3_3_3",
+      "parent_section_id": "sec_3_3",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_3",
+          "title": "3.3 Positioning and Installation"
+        },
+        {
+          "id": "sec_3_3_3",
+          "title": "3.3.3 Cabinet Parallel Installation"
+        }
+      ],
+      "page": 28,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0037",
+      "source": "pdf_text",
       "caption_for": "fig_0037"
     },
     {
@@ -130,7 +282,28 @@
       "width": 20,
       "height": 19,
       "decorative": true,
-      "image_hash": "b27ad333facf7eded82fd51cd408038f07ca2a2b6acff4b55d741fe768cd3d58"
+      "image_hash": "b27ad333facf7eded82fd51cd408038f07ca2a2b6acff4b55d741fe768cd3d58",
+      "section_id": "sec_3_3_3",
+      "parent_section_id": "sec_3_3",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_3",
+          "title": "3.3 Positioning and Installation"
+        },
+        {
+          "id": "sec_3_3_3",
+          "title": "3.3.3 Cabinet Parallel Installation"
+        }
+      ],
+      "page": 28,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

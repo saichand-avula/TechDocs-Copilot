@@ -18,8 +18,21 @@
         "b": 699.4558810919744
       },
       "content": "7 Annex",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "7",
+      "section_id": "sec_7",
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7 Annex"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 73,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -34,7 +47,24 @@
       },
       "content": "7.1 Product Specifications",
       "level": 2,
-      "role": "section"
+      "section_number": "7.1",
+      "section_id": "sec_7_1",
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7 Annex"
+        },
+        {
+          "id": "sec_7_1",
+          "title": "7.1 Product Specifications"
+        }
+      ],
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "page": 73,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -47,7 +77,24 @@
         "r": 309.60568,
         "b": 623.036101363195
       },
-      "content": "Product design shall meet following standards:"
+      "content": "Product design shall meet following standards:",
+      "section_id": "sec_7_1",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7 Annex"
+        },
+        {
+          "id": "sec_7_1",
+          "title": "7.1 Product Specifications"
+        }
+      ],
+      "page": 73,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -61,11 +108,29 @@
         "b": 508.7399788174132
       },
       "markdown": "Table 7-1\n\n| Item                                                          | Standard                                       |\n|---------------------------------------------------------------|------------------------------------------------|\n| General safety requirements for operational area of UPS       | EN 50091-1-1/IEC 62040-1-1/AS 62040-1-1        |\n| UPS EMC requirements                                          | EN 50091-2/IEC 62040-2/AS 62040-2 (A class)    |\n| Determination method and test requirements of UPS performance | EN 50091-3/IEC 62040-3/AS 62040-3 (VFI SS III) |",
-      "caption_id": "txt_0585",
       "title": "Table 7-1",
       "table_number": "Table 7-1",
       "rows": 4,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_7_1",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7 Annex"
+        },
+        {
+          "id": "sec_7_1",
+          "title": "7.1 Product Specifications"
+        }
+      ],
+      "page": 73,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "group_id": "grp_tbl_0041",
+      "source": "pdf_text",
+      "caption_id": "txt_0585"
     },
     {
       "type": "caption",
@@ -79,6 +144,23 @@
         "b": 607.436101363195
       },
       "content": "Table 7-1",
+      "section_id": "sec_7_1",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7 Annex"
+        },
+        {
+          "id": "sec_7_1",
+          "title": "7.1 Product Specifications"
+        }
+      ],
+      "page": 73,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "source": "pdf_text",
       "caption_for": "tbl_0041"
     },
     {
@@ -92,7 +174,24 @@
         "r": 342.72568,
         "b": 480.086101363195
       },
-      "content": "Environmental characteristics of product are as follows:"
+      "content": "Environmental characteristics of product are as follows:",
+      "section_id": "sec_7_1",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7 Annex"
+        },
+        {
+          "id": "sec_7_1",
+          "title": "7.1 Product Specifications"
+        }
+      ],
+      "page": 73,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -109,7 +208,24 @@
       "title": "Table 7-1",
       "table_number": "Table 7-1",
       "rows": 6,
-      "cols": 6
+      "cols": 6,
+      "section_id": "sec_7_1",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7 Annex"
+        },
+        {
+          "id": "sec_7_1",
+          "title": "7.1 Product Specifications"
+        }
+      ],
+      "page": 73,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "caption",
@@ -123,6 +239,24 @@
         "b": 464.48610136319496
       },
       "content": "Table 7-2: Environmental characteristics",
+      "section_id": "sec_7_1",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7 Annex"
+        },
+        {
+          "id": "sec_7_1",
+          "title": "7.1 Product Specifications"
+        }
+      ],
+      "page": 73,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_tbl_0041",
+      "source": "pdf_text",
       "caption_for": "tbl_0041"
     },
     {
@@ -138,7 +272,24 @@
       },
       "content": "7.2 SNMP Card",
       "level": 2,
-      "role": "section"
+      "section_number": "7.2",
+      "section_id": "sec_7_2",
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7 Annex"
+        },
+        {
+          "id": "sec_7_2",
+          "title": "7.2 SNMP Card"
+        }
+      ],
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "page": 73,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -151,7 +302,24 @@
         "r": 541.5092799999998,
         "b": 110.6761013631949
       },
-      "content": "iStars  is  a  new  kind  of  network  monitoring  product  designed  for  the  convenience  of  UPS management. Real-time network monitoring and management of UPS can be realized through this product. You can look over the real-time dynamic data and control UPS from remote distance by using  this  product,  which  facilitates  the  network  management  of  UPS.  You  can  monitor  a stand-alone UPS through this product. Integrated monitoring management can be realized as well by cooperating with the corresponding PC software."
+      "content": "iStars  is  a  new  kind  of  network  monitoring  product  designed  for  the  convenience  of  UPS management. Real-time network monitoring and management of UPS can be realized through this product. You can look over the real-time dynamic data and control UPS from remote distance by using  this  product,  which  facilitates  the  network  management  of  UPS.  You  can  monitor  a stand-alone UPS through this product. Integrated monitoring management can be realized as well by cooperating with the corresponding PC software.",
+      "section_id": "sec_7_2",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7 Annex"
+        },
+        {
+          "id": "sec_7_2",
+          "title": "7.2 SNMP Card"
+        }
+      ],
+      "page": 73,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

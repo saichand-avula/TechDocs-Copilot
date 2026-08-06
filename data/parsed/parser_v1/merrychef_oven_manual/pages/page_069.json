@@ -22,7 +22,24 @@
       "width": 14,
       "height": 11,
       "decorative": true,
-      "image_hash": "bdeae25a95d5e09b4b7679bee016e9911e229608f7d65fb1c9e3a6472371daa0"
+      "image_hash": "bdeae25a95d5e09b4b7679bee016e9911e229608f7d65fb1c9e3a6472371daa0",
+      "section_id": "sec_auto_1125",
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. To recalibrate, promptly access 'Temperature Calibration' in the Service Settings"
+        },
+        {
+          "id": "sec_auto_1125",
+          "title": "Check the following:"
+        }
+      ],
+      "page": 69,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -35,7 +52,24 @@
         "r": 535.0139999999998,
         "b": 768.3813344167462
       },
-      "content": "Finally, if all suitable precautions (including where necessary the provision of suitable protective equipment) have been taken to prevent injury;"
+      "content": "Finally, if all suitable precautions (including where necessary the provision of suitable protective equipment) have been taken to prevent injury;",
+      "section_id": "sec_auto_1125",
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. To recalibrate, promptly access 'Temperature Calibration' in the Service Settings"
+        },
+        {
+          "id": "sec_auto_1125",
+          "title": "Check the following:"
+        }
+      ],
+      "page": 69,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -50,7 +84,23 @@
       },
       "content": "Check the following:",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1137",
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. To recalibrate, promptly access 'Temperature Calibration' in the Service Settings"
+        },
+        {
+          "id": "sec_auto_1137",
+          "title": "Check the following:"
+        }
+      ],
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "page": 69,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -63,7 +113,24 @@
         "r": 189.648,
         "b": 731.6786304760582
       },
-      "content": "Speed controller LED status"
+      "content": "Speed controller LED status",
+      "section_id": "sec_auto_1137",
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. To recalibrate, promptly access 'Temperature Calibration' in the Service Settings"
+        },
+        {
+          "id": "sec_auto_1137",
+          "title": "Check the following:"
+        }
+      ],
+      "page": 69,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -76,7 +143,24 @@
         "r": 239.202,
         "b": 719.3216304760582
       },
-      "content": "Electrical supply to the speed controller"
+      "content": "Electrical supply to the speed controller",
+      "section_id": "sec_auto_1137",
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. To recalibrate, promptly access 'Temperature Calibration' in the Service Settings"
+        },
+        {
+          "id": "sec_auto_1137",
+          "title": "Check the following:"
+        }
+      ],
+      "page": 69,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -91,7 +175,24 @@
       },
       "content": "5.9 KitchenConnect components",
       "level": 2,
-      "role": "section"
+      "section_number": "5.9",
+      "section_id": "sec_5_9",
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. To recalibrate, promptly access 'Temperature Calibration' in the Service Settings"
+        },
+        {
+          "id": "sec_5_9",
+          "title": "5.9 KitchenConnect components"
+        }
+      ],
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "page": 69,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -106,7 +207,23 @@
       },
       "content": "KitchenConnect connections",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1141",
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. To recalibrate, promptly access 'Temperature Calibration' in the Service Settings"
+        },
+        {
+          "id": "sec_auto_1141",
+          "title": "KitchenConnect connections"
+        }
+      ],
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "page": 69,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -119,7 +236,24 @@
         "r": 553.9770000000001,
         "b": 623.4182344167461
       },
-      "content": "Optional Ethernet port between the UI ethernet loom connection (under the IO Board) and the rear panel lead socket. Wi-Fi connectivity built into the UI as standard."
+      "content": "Optional Ethernet port between the UI ethernet loom connection (under the IO Board) and the rear panel lead socket. Wi-Fi connectivity built into the UI as standard.",
+      "section_id": "sec_auto_1141",
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. To recalibrate, promptly access 'Temperature Calibration' in the Service Settings"
+        },
+        {
+          "id": "sec_auto_1141",
+          "title": "KitchenConnect connections"
+        }
+      ],
+      "page": 69,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -137,7 +271,24 @@
       "next_block_id": "txt_0913",
       "image_hash": "b324990f8157dcd6106938a9378aa966b84b2ebd489f77272d0cf02c135496d9",
       "width": 238,
-      "height": 137
+      "height": 137,
+      "section_id": "sec_auto_1141",
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. To recalibrate, promptly access 'Temperature Calibration' in the Service Settings"
+        },
+        {
+          "id": "sec_auto_1141",
+          "title": "KitchenConnect connections"
+        }
+      ],
+      "page": 69,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -150,7 +301,24 @@
         "r": 289.37399999999997,
         "b": 451.6983344167462
       },
-      "content": "Connection details can be accessed from the settings menu."
+      "content": "Connection details can be accessed from the settings menu.",
+      "section_id": "sec_auto_1141",
+      "parent_section_id": "sec_10",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. To recalibrate, promptly access 'Temperature Calibration' in the Service Settings"
+        },
+        {
+          "id": "sec_auto_1141",
+          "title": "KitchenConnect connections"
+        }
+      ],
+      "page": 69,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -164,8 +332,21 @@
         "b": 415.0924086051508
       },
       "content": "6 Replacing components",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "6",
+      "section_id": "sec_6",
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6 Replacing components"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 69,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -184,7 +365,20 @@
       "width": 23,
       "height": 20,
       "decorative": true,
-      "image_hash": "e51b43fa2ba731d5bbb1c497b7692eaa5d491a3578c5e004bd090af942927c19"
+      "image_hash": "e51b43fa2ba731d5bbb1c497b7692eaa5d491a3578c5e004bd090af942927c19",
+      "section_id": "sec_6",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6 Replacing components"
+        }
+      ],
+      "page": 69,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -199,7 +393,24 @@
       },
       "content": "6.1 Safe working when replacing appliance parts",
       "level": 2,
-      "role": "section"
+      "section_number": "6.1",
+      "section_id": "sec_6_1",
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6 Replacing components"
+        },
+        {
+          "id": "sec_6_1",
+          "title": "6.1 Safe working when replacing appliance parts"
+        }
+      ],
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "page": 69,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -218,7 +429,24 @@
       "width": 11,
       "height": 11,
       "decorative": true,
-      "image_hash": "fb43616a066765d815aa3d2809000627474bd1056c9378f3361c3df0ebfbf246"
+      "image_hash": "fb43616a066765d815aa3d2809000627474bd1056c9378f3361c3df0ebfbf246",
+      "section_id": "sec_6_1",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6 Replacing components"
+        },
+        {
+          "id": "sec_6_1",
+          "title": "6.1 Safe working when replacing appliance parts"
+        }
+      ],
+      "page": 69,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -233,7 +461,23 @@
       },
       "content": "For your safety when replacing appliance parts",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1149",
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6 Replacing components"
+        },
+        {
+          "id": "sec_auto_1149",
+          "title": "For your safety when replacing appliance parts"
+        }
+      ],
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "page": 69,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -246,7 +490,24 @@
         "r": 555.3000000000001,
         "b": 310.69823441674623
       },
-      "content": "Before starting service / repair work, it is essential that you familiarize yourself with the rules and hazard warnings specified in section 2 'For your safety', specifically section 2.16 'Safe working when replacing appliance parts'."
+      "content": "Before starting service / repair work, it is essential that you familiarize yourself with the rules and hazard warnings specified in section 2 'For your safety', specifically section 2.16 'Safe working when replacing appliance parts'.",
+      "section_id": "sec_auto_1149",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6 Replacing components"
+        },
+        {
+          "id": "sec_auto_1149",
+          "title": "For your safety when replacing appliance parts"
+        }
+      ],
+      "page": 69,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -261,7 +522,23 @@
       },
       "content": "Tools required",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1151",
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6 Replacing components"
+        },
+        {
+          "id": "sec_auto_1151",
+          "title": "Tools required"
+        }
+      ],
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "page": 69,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -274,7 +551,24 @@
         "r": 159.18300000000002,
         "b": 251.06123441674617
       },
-      "content": "HV Capacitor discharge tool"
+      "content": "HV Capacitor discharge tool",
+      "section_id": "sec_auto_1151",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6 Replacing components"
+        },
+        {
+          "id": "sec_auto_1151",
+          "title": "Tools required"
+        }
+      ],
+      "page": 69,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -287,7 +581,24 @@
         "r": 159.066,
         "b": 235.58123441674616
       },
-      "content": "Digital Multi-Meter (D.M.M.)"
+      "content": "Digital Multi-Meter (D.M.M.)",
+      "section_id": "sec_auto_1151",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6 Replacing components"
+        },
+        {
+          "id": "sec_auto_1151",
+          "title": "Tools required"
+        }
+      ],
+      "page": 69,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -300,7 +611,24 @@
         "r": 158.70600000000002,
         "b": 219.98423441674618
       },
-      "content": "Proprietary voltage detector"
+      "content": "Proprietary voltage detector",
+      "section_id": "sec_auto_1151",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6 Replacing components"
+        },
+        {
+          "id": "sec_auto_1151",
+          "title": "Tools required"
+        }
+      ],
+      "page": 69,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -313,7 +641,24 @@
         "r": 196.27200000000002,
         "b": 204.3872344167462
       },
-      "content": "Electrical lock out tools & equipment"
+      "content": "Electrical lock out tools & equipment",
+      "section_id": "sec_auto_1151",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6 Replacing components"
+        },
+        {
+          "id": "sec_auto_1151",
+          "title": "Tools required"
+        }
+      ],
+      "page": 69,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -326,7 +671,24 @@
         "r": 219.31200000000004,
         "b": 188.90723441674618
       },
-      "content": "Door spacer kit (2 x 4mm & 2mm Spacers)"
+      "content": "Door spacer kit (2 x 4mm & 2mm Spacers)",
+      "section_id": "sec_auto_1151",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6 Replacing components"
+        },
+        {
+          "id": "sec_auto_1151",
+          "title": "Tools required"
+        }
+      ],
+      "page": 69,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -339,7 +701,24 @@
         "r": 117.66600000000003,
         "b": 173.3102344167462
       },
-      "content": "M2 hex key socket"
+      "content": "M2 hex key socket",
+      "section_id": "sec_auto_1151",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6 Replacing components"
+        },
+        {
+          "id": "sec_auto_1151",
+          "title": "Tools required"
+        }
+      ],
+      "page": 69,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -352,7 +731,24 @@
         "r": 197.82900000000004,
         "b": 157.71323441674622
       },
-      "content": "M5.5 hex socket wrench / nut runner"
+      "content": "M5.5 hex socket wrench / nut runner",
+      "section_id": "sec_auto_1151",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6 Replacing components"
+        },
+        {
+          "id": "sec_auto_1151",
+          "title": "Tools required"
+        }
+      ],
+      "page": 69,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -365,7 +761,24 @@
         "r": 164.592,
         "b": 142.2332344167462
       },
-      "content": "M5.5 hex open / ring spanner"
+      "content": "M5.5 hex open / ring spanner",
+      "section_id": "sec_auto_1151",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6 Replacing components"
+        },
+        {
+          "id": "sec_auto_1151",
+          "title": "Tools required"
+        }
+      ],
+      "page": 69,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -378,7 +791,24 @@
         "r": 190.26900000000003,
         "b": 126.63623441674622
       },
-      "content": "M7 hex socket wrench / nut runner"
+      "content": "M7 hex socket wrench / nut runner",
+      "section_id": "sec_auto_1151",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6 Replacing components"
+        },
+        {
+          "id": "sec_auto_1151",
+          "title": "Tools required"
+        }
+      ],
+      "page": 69,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -391,7 +821,24 @@
         "r": 156.90600000000003,
         "b": 111.1562344167462
       },
-      "content": "M7 hex open / ring spanner"
+      "content": "M7 hex open / ring spanner",
+      "section_id": "sec_auto_1151",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6 Replacing components"
+        },
+        {
+          "id": "sec_auto_1151",
+          "title": "Tools required"
+        }
+      ],
+      "page": 69,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -404,7 +851,24 @@
         "r": 190.26900000000003,
         "b": 95.55923441674622
       },
-      "content": "M8 hex socket wrench / nut runner"
+      "content": "M8 hex socket wrench / nut runner",
+      "section_id": "sec_auto_1151",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6 Replacing components"
+        },
+        {
+          "id": "sec_auto_1151",
+          "title": "Tools required"
+        }
+      ],
+      "page": 69,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -417,7 +881,24 @@
         "r": 195.42600000000002,
         "b": 79.96223441674624
       },
-      "content": "M10 hex socket wrench / nut runner"
+      "content": "M10 hex socket wrench / nut runner",
+      "section_id": "sec_auto_1151",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6 Replacing components"
+        },
+        {
+          "id": "sec_auto_1151",
+          "title": "Tools required"
+        }
+      ],
+      "page": 69,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -430,7 +911,24 @@
         "r": 182.22,
         "b": 64.4583344167462
       },
-      "content": "M14 hex socket wrench / spanner"
+      "content": "M14 hex socket wrench / spanner",
+      "section_id": "sec_auto_1151",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6 Replacing components"
+        },
+        {
+          "id": "sec_auto_1151",
+          "title": "Tools required"
+        }
+      ],
+      "page": 69,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -448,7 +946,24 @@
       "next_block_id": "txt_0932",
       "image_hash": "00ff3612ecc459af6658f6e51859a5510e0d9243cb4aff5dd6e85cbf41da9515",
       "width": 243,
-      "height": 140
+      "height": 140,
+      "section_id": "sec_auto_1151",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6 Replacing components"
+        },
+        {
+          "id": "sec_auto_1151",
+          "title": "Tools required"
+        }
+      ],
+      "page": 69,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -461,7 +976,24 @@
         "r": 558.0540000000001,
         "b": 144.14133441674608
       },
-      "content": "Torque wrench Stanley / retractable knife Sealant gun Long handled Pozidriv screwdriver PZ1 Long handled Pozidriv screwdriver PZ2 Flat screwdriver or lever Pliers (or M14 ring spanner) Two metal pins, 3mm diameter & 10mm long Two metal pins, 2 to 3mm diameter & 40mm or longer in length"
+      "content": "Torque wrench Stanley / retractable knife Sealant gun Long handled Pozidriv screwdriver PZ1 Long handled Pozidriv screwdriver PZ2 Flat screwdriver or lever Pliers (or M14 ring spanner) Two metal pins, 3mm diameter & 10mm long Two metal pins, 2 to 3mm diameter & 40mm or longer in length",
+      "section_id": "sec_auto_1151",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6 Replacing components"
+        },
+        {
+          "id": "sec_auto_1151",
+          "title": "Tools required"
+        }
+      ],
+      "page": 69,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -474,7 +1006,24 @@
         "r": 562.014,
         "b": 131.90133441674607
       },
-      "content": "Hammer (for removing pressed screws from a spare magnetron)"
+      "content": "Hammer (for removing pressed screws from a spare magnetron)",
+      "section_id": "sec_auto_1151",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6 Replacing components"
+        },
+        {
+          "id": "sec_auto_1151",
+          "title": "Tools required"
+        }
+      ],
+      "page": 69,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -487,7 +1036,24 @@
         "r": 365.68799999999993,
         "b": 119.5443344167461
       },
-      "content": "M3 hex key socket"
+      "content": "M3 hex key socket",
+      "section_id": "sec_auto_1151",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6 Replacing components"
+        },
+        {
+          "id": "sec_auto_1151",
+          "title": "Tools required"
+        }
+      ],
+      "page": 69,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

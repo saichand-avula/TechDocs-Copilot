@@ -19,7 +19,28 @@
       },
       "markdown": "| Table 6-2. Operational Alarm Messages and Corrective Actions   | Table 6-2. Operational Alarm Messages and Corrective Actions   | Table 6-2. Operational Alarm Messages and Corrective Actions                        | Table 6-2. Operational Alarm Messages and Corrective Actions                      | Table 6-2. Operational Alarm Messages and Corrective Actions   |\n|----------------------------------------------------------------|----------------------------------------------------------------|-------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|----------------------------------------------------------------|\n| Alarm Code                                                     | Alarm                                                          | Description                                                                         | Possible Cause                                                                    | Corrective Action                                              |\n| N100 (URC)                                                     | Unrecognizable cassette                                        | Incorrect cassette type                                                             | An incorrect cassette is inserted                                                 | Insert proper cassette                                         |\n| N101 (NAA)                                                     | No action                                                      | No operator action and no delivery for two minutes during delivery parameters entry | Interruption or a partial change to a program                                     | Complete programming of the infuser                            |\n| N102 (RL)                                                      | Infuser idle 2 minutes                                         | Infuser in reset or idle for over two minutes                                       | Programming set without start for two minutes                                     | Press [START]                                                  |\n| N103 (SEEP CRC)                                                | NV RAM lost thrpy data                                         | Therapy data is lost                                                                | Infuser did not complete the previous non-volatile memory write successfully      | Re-enter all programmed data                                   |\n| N104 (NC2)                                                     | Nurse callback B                                               | Delivery line B has changed (if alarm is enabled)                                   | End of delivery step on line B other than VTBI complete while callback is enabled | Press the SILENCE key                                          |\n| N105 (NC1)                                                     | Nurse callback A                                               | Delivery line A has changed (if alarm is enabled)                                   | End of delivery step on line A other than VTBI complete while callback is enabled | Press the SILENCE key                                          |\n| N160 or E160 (VTB2)                                            | Line B VTBI complete                                           | Programmed volume to be infused completed on line B                                 | VTBI is complete on line B                                                        | Press the SILENCE key and replace IV bag, and restart line B   |\n| N161 or E161 (VTB1)                                            | Line A VTBI complete                                           | Programmed volume to be infused completed on line A                                 | VTBI is complete on line A                                                        | Press the SILENCE key and replace IV bag, and restart line A   |\n| N180 or E180 (OD1)                                             | Distal Occl                                                    | Peak distal occlusion, non-delivery                                                 | Distal occlusion detected during non-delivery                                     | Backprime the cassette and restart the infuser                 |",
       "rows": 11,
-      "cols": 5
+      "cols": 5,
+      "section_id": "sec_6_3_1",
+      "parent_section_id": "sec_6_3",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-800-241-4002"
+        },
+        {
+          "id": "sec_6_3",
+          "title": "6.3 ALARM MESSAGES AND ERROR CODES"
+        },
+        {
+          "id": "sec_6_3_1",
+          "title": "6.3.1 OPERATIONAL ALARM MESSAGES"
+        }
+      ],
+      "page": 77,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

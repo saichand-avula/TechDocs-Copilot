@@ -22,7 +22,24 @@
       "width": 47,
       "height": 23,
       "decorative": true,
-      "image_hash": "7577891dcf1743bd2e7a735ef2621e01244d960bde43e28868c27d7c1437ddb9"
+      "image_hash": "7577891dcf1743bd2e7a735ef2621e01244d960bde43e28868c27d7c1437ddb9",
+      "section_id": "sec_auto_169",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_auto_169",
+          "title": "Flow diagrams"
+        }
+      ],
+      "page": 18,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -39,7 +56,24 @@
       "next_block_id": "txt_0134",
       "image_hash": "fe8bc894b1a204381fd678a2fc8151186894eb12853f2fcd2c8a841fe5174818",
       "width": 346,
-      "height": 355
+      "height": 355,
+      "section_id": "sec_auto_169",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_auto_169",
+          "title": "Flow diagrams"
+        }
+      ],
+      "page": 18,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "caption",
@@ -53,6 +87,24 @@
         "b": 394.71999999999997
       },
       "content": "Flow diagram, GA Workplace Full-Feature",
+      "section_id": "sec_auto_169",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_auto_169",
+          "title": "Flow diagrams"
+        }
+      ],
+      "page": 18,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_tbl_0008",
+      "source": "pdf_text",
       "caption_for": "tbl_0008"
     },
     {
@@ -67,9 +119,27 @@
         "b": 245.6156005859375
       },
       "markdown": "| Reference   | Description        |\n|-------------|--------------------|\n| A           | Intake air         |\n| B           | Air/oil mixture    |\n| C           | Oil                |\n| D           | Wet compressed air |\n| F           | Condensate         |\n| G           | Dry compressed air |",
-      "caption_id": "txt_0134",
       "rows": 7,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_auto_169",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_auto_169",
+          "title": "Flow diagrams"
+        }
+      ],
+      "page": 18,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "group_id": "grp_tbl_0008",
+      "source": "pdf_text",
+      "caption_id": "txt_0134"
     },
     {
       "type": "admonition",
@@ -83,7 +153,24 @@
         "b": 214.50400000000002
       },
       "content": "Note: The cooling fan is not provided on water-cooled compressors.",
-      "severity": "note"
+      "severity": "note",
+      "section_id": "sec_auto_169",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_auto_169",
+          "title": "Flow diagrams"
+        }
+      ],
+      "page": 18,
+      "chunk_hint": "admonition",
+      "semantic_role": "note",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -98,7 +185,23 @@
       },
       "content": "Description",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_178",
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_auto_178",
+          "title": "Description"
+        }
+      ],
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "page": 18,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -111,7 +214,24 @@
         "r": 531.7801000000005,
         "b": 141.30349999999999
       },
-      "content": "Air drawn through filter (AF) and open inlet valve (IV) into compressor element (E) is compressed. A mix of compressed air and oil flows into the air receiver/oil separator (AR) via check valve (CV). The air is discharged through outlet valve (AV) via minimum pressure valve (Vp) and air cooler (Ca)."
+      "content": "Air drawn through filter (AF) and open inlet valve (IV) into compressor element (E) is compressed. A mix of compressed air and oil flows into the air receiver/oil separator (AR) via check valve (CV). The air is discharged through outlet valve (AV) via minimum pressure valve (Vp) and air cooler (Ca).",
+      "section_id": "sec_auto_178",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_auto_178",
+          "title": "Description"
+        }
+      ],
+      "page": 18,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -124,7 +244,24 @@
         "r": 296.2568999999998,
         "b": 114.90350000000001
       },
-      "content": "The air cooler is provided with a moisture trap (MT)."
+      "content": "The air cooler is provided with a moisture trap (MT).",
+      "section_id": "sec_auto_178",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_auto_178",
+          "title": "Description"
+        }
+      ],
+      "page": 18,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -137,7 +274,24 @@
         "r": 519.8055000000011,
         "b": 74.52359999999999
       },
-      "content": "On Full-Feature compressors, the air flows through air dryer (DR) before it is discharged through outlet valve(AV). Also see section Air dryer."
+      "content": "On Full-Feature compressors, the air flows through air dryer (DR) before it is discharged through outlet valve(AV). Also see section Air dryer.",
+      "section_id": "sec_auto_178",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_auto_178",
+          "title": "Description"
+        }
+      ],
+      "page": 18,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

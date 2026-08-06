@@ -17,7 +17,20 @@
         "r": 281.510562,
         "b": 746.7829409281768
       },
-      "content": "Absolute pulse coder (APC) alarm"
+      "content": "Absolute pulse coder (APC) alarm",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2) Background edit alarm"
+        }
+      ],
+      "page": 213,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -32,7 +45,20 @@
       },
       "markdown": "|   No. | Message                           | Contents                                                                                                                                                                                                                             |\n|-------|-----------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n|   300 | APC ALARM : n AXIS NEED ZRN       | Manual reference position return is required for the nth-axis(n = 1-8)                                                                                                                                                               |\n|   301 | APC ALARM : n AXIS COMMUNICATION  | nth-axis(m = l-8) APC communication error. Failure in data transmission Possible causes include a faulty APC, cable, or servo interface module.                                                                                      |\n|   302 | APC ALARM : n AXIS OVER TIME      | nth-axis(n = 1-8) APC overtime error. Failure in data transmission. Possible causes include a faulty APC, cable, or servo interface module.                                                                                          |\n|   303 | APC ALARM : n AXIS FRAMING        | nth-axis(n = 1-8) APC framing error. Failure in data transmission. Possible causes include a faulty APC, cable, or servo interface module.                                                                                           |\n|   304 | APC ALARM : n AXIS PARITY         | nth-axis(n = 1-8) APC parity error. Failure in data transmission. Possible causes include a faulty APC, cable, or servo interface module.                                                                                            |\n|   305 | APC ALARM : n AXIS PULSE MISS     | nth-axis(n = 1-8) APC pulse error. APC alarm. APC or cable may be faulty.                                                                                                                                                            |\n|   306 | APC ALARM : n AXIS BATTERY ZERO   | nth-axis(n = 1-8) APC battery voltage has decreased to a low level so that the data cannot be held. APC alarm. Battery or cable may be faulty.                                                                                       |\n|   307 | APC ALARM : n AXIS BATTERY DOWN 1 | nth-axis(n = 1-8) axis APC battery voltage reaches level where the battery must be renewed. APC alarm. Replace the battery.                                                                                                          |\n|   308 | APC ALARM : n AXIS BATTERY DOWN 2 | nth-axis(n = 1-8) APC battery voltage has reached a level where the battery must be renewed (including when power is OFF). APC alarm. Replace battery.                                                                               |\n|   309 | APC ALARM : n AXIS ZRN IMPOSSIBLE | An attempt was made to perform reference position return without rotating the motor through one or more turns. Rotate the motor through one or more turns, turn off the power then on again, then perform reference position return. |",
       "rows": 11,
-      "cols": 3
+      "cols": 3,
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2) Background edit alarm"
+        }
+      ],
+      "page": 213,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

@@ -21,7 +21,24 @@
       "next_block_id": "txt_0616",
       "width": 47,
       "height": 23,
-      "image_hash": "b28a1d23de5124d82d6f84120acacff249829ec0e42f4c826059a188d93e4d2e"
+      "image_hash": "b28a1d23de5124d82d6f84120acacff249829ec0e42f4c826059a188d93e4d2e",
+      "section_id": "sec_auto_932",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5       Energy recovery (optional)"
+        },
+        {
+          "id": "sec_auto_932",
+          "title": "Detailed description"
+        }
+      ],
+      "page": 89,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -36,7 +53,24 @@
       },
       "markdown": "| Reference   | Designation                          | Reference   | Designation                                     |\n|-------------|--------------------------------------|-------------|-------------------------------------------------|\n| BV2         | Thermostatic bypass valve of ER unit | OF          | Oil filter                                      |\n| HE          | Oil/water heat exchanger (ER unit)   | AR          | Oil separator vessel                            |\n| E           | Compressor element                   | BV1         | Thermostatic bypass valve in oil filter housing |\n| Co          | Oil cooler (compressor)              | Ca          | Aftercooler (compressor)                        |\n| 1           | Water inlet                          | 2           | Water outlet                                    |",
       "rows": 6,
-      "cols": 4
+      "cols": 4,
+      "section_id": "sec_auto_932",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5       Energy recovery (optional)"
+        },
+        {
+          "id": "sec_auto_932",
+          "title": "Detailed description"
+        }
+      ],
+      "page": 89,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -49,7 +83,24 @@
         "r": 557.8477999999992,
         "b": 587.944
       },
-      "content": "BV2 starts closing the bypass line and opening the oil supply line from the ER heat exchanger (HE) at the lower limit of its temperature range. At the upper limit of its temperature range, the bypass line is completely closed and all the oil flows through the ER heat exchanger."
+      "content": "BV2 starts closing the bypass line and opening the oil supply line from the ER heat exchanger (HE) at the lower limit of its temperature range. At the upper limit of its temperature range, the bypass line is completely closed and all the oil flows through the ER heat exchanger.",
+      "section_id": "sec_auto_932",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5       Energy recovery (optional)"
+        },
+        {
+          "id": "sec_auto_932",
+          "title": "Detailed description"
+        }
+      ],
+      "page": 89,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -62,7 +113,24 @@
         "r": 538.3106999999993,
         "b": 555.5434999999999
       },
-      "content": "On compressors versions with a maximum pressure lower than 13 bar, BV2 starts opening at 40 °C  and is completely open at 55 °C ."
+      "content": "On compressors versions with a maximum pressure lower than 13 bar, BV2 starts opening at 40 °C  and is completely open at 55 °C .",
+      "section_id": "sec_auto_932",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5       Energy recovery (optional)"
+        },
+        {
+          "id": "sec_auto_932",
+          "title": "Detailed description"
+        }
+      ],
+      "page": 89,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -75,7 +143,24 @@
         "r": 563.188299999999,
         "b": 523.1429999999998
       },
-      "content": "On compressors with a maximum pressure of 13 bar , BV2 starts opening at 60 °C  and is completely open at 75 °C."
+      "content": "On compressors with a maximum pressure of 13 bar , BV2 starts opening at 60 °C  and is completely open at 75 °C.",
+      "section_id": "sec_auto_932",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5       Energy recovery (optional)"
+        },
+        {
+          "id": "sec_auto_932",
+          "title": "Detailed description"
+        }
+      ],
+      "page": 89,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -88,7 +173,24 @@
         "r": 532.3618999999985,
         "b": 491.2836999999998
       },
-      "content": "The housing of  BV2 is provided with a special handle (V1), allowing to control the working of the energy recovery system."
+      "content": "The housing of  BV2 is provided with a special handle (V1), allowing to control the working of the energy recovery system.",
+      "section_id": "sec_auto_932",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5       Energy recovery (optional)"
+        },
+        {
+          "id": "sec_auto_932",
+          "title": "Detailed description"
+        }
+      ],
+      "page": 89,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -101,7 +203,24 @@
         "r": 538.3733999999995,
         "b": 458.9436999999998
       },
-      "content": "As can be seen on the ER label, the ER unit is integrated in the oil circuit and will recover energy when the handle is completely turned in clockwise."
+      "content": "As can be seen on the ER label, the ER unit is integrated in the oil circuit and will recover energy when the handle is completely turned in clockwise.",
+      "section_id": "sec_auto_932",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5       Energy recovery (optional)"
+        },
+        {
+          "id": "sec_auto_932",
+          "title": "Detailed description"
+        }
+      ],
+      "page": 89,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -114,7 +233,24 @@
         "r": 528.6251999999992,
         "b": 426.54319999999984
       },
-      "content": "When the handle is turned out anticlockwise, the heat exchanger (HE) is bypassed and no energy will be recovered."
+      "content": "When the handle is turned out anticlockwise, the heat exchanger (HE) is bypassed and no energy will be recovered.",
+      "section_id": "sec_auto_932",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5       Energy recovery (optional)"
+        },
+        {
+          "id": "sec_auto_932",
+          "title": "Detailed description"
+        }
+      ],
+      "page": 89,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -130,11 +266,29 @@
       "image_path": "figures/figure_0248.png",
       "previous_block_id": "txt_0621",
       "next_block_id": "txt_0622",
-      "caption_id": "txt_0622",
       "caption": "Detail of valve housing of BV2 with handle V1",
       "image_hash": "b558f08f6762710ceb6e82e8e6d453dea22023a57d1279c043a2426c498e191d",
       "width": 166,
-      "height": 137
+      "height": 137,
+      "section_id": "sec_auto_932",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5       Energy recovery (optional)"
+        },
+        {
+          "id": "sec_auto_932",
+          "title": "Detailed description"
+        }
+      ],
+      "page": 89,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0248",
+      "source": "pdf_text",
+      "caption_id": "txt_0622"
     },
     {
       "type": "caption",
@@ -148,6 +302,24 @@
         "b": 241.12
       },
       "content": "Detail of valve housing of BV2 with handle V1",
+      "section_id": "sec_auto_932",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5       Energy recovery (optional)"
+        },
+        {
+          "id": "sec_auto_932",
+          "title": "Detailed description"
+        }
+      ],
+      "page": 89,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0248",
+      "source": "pdf_text",
       "caption_for": "fig_0248"
     }
   ],

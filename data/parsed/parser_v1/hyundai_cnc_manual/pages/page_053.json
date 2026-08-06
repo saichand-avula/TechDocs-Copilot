@@ -18,8 +18,21 @@
         "b": 755.7829409281768
       },
       "content": "6-2. SUPER KIATURN 100",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "6",
+      "section_id": "sec_6",
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6-2. SUPER KIATURN 100"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 53,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -34,7 +47,23 @@
       },
       "content": "· Base Holder",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_385",
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6-2. SUPER KIATURN 100"
+        },
+        {
+          "id": "sec_auto_385",
+          "title": "· Base Holder"
+        }
+      ],
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "page": 53,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -50,12 +79,30 @@
       "image_path": "figures/figure_0073.png",
       "previous_block_id": "txt_0293",
       "next_block_id": "txt_0294",
-      "caption_id": "txt_0294",
       "caption": "Base Holder",
       "figure_number": "Fig. 3-12",
       "image_hash": "ec5350d912cb1e6107578eb54598e2cad64b34e9867f3ba53713d9ba83cf06e6",
       "width": 439,
-      "height": 247
+      "height": 247,
+      "section_id": "sec_auto_385",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6-2. SUPER KIATURN 100"
+        },
+        {
+          "id": "sec_auto_385",
+          "title": "· Base Holder"
+        }
+      ],
+      "page": 53,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0073",
+      "source": "pdf_text",
+      "caption_id": "txt_0294"
     },
     {
       "type": "caption",
@@ -69,6 +116,24 @@
         "b": 444.80422492817706
       },
       "content": "Fig. 3-12  Base Holder",
+      "section_id": "sec_auto_385",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6-2. SUPER KIATURN 100"
+        },
+        {
+          "id": "sec_auto_385",
+          "title": "· Base Holder"
+        }
+      ],
+      "page": 53,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0073",
+      "source": "pdf_text",
       "caption_for": "fig_0073"
     },
     {
@@ -85,12 +150,30 @@
       "image_path": "figures/figure_0074.png",
       "previous_block_id": "txt_0294",
       "next_block_id": "txt_0295",
-      "caption_id": "txt_0295",
       "caption": "Face Grooving Base Holder",
       "figure_number": "Fig. 3-13",
       "image_hash": "ef51033933e004b7a6232800a9978b53d4a37ec315732247801d0d4049d986d4",
       "width": 440,
-      "height": 269
+      "height": 269,
+      "section_id": "sec_auto_385",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6-2. SUPER KIATURN 100"
+        },
+        {
+          "id": "sec_auto_385",
+          "title": "· Base Holder"
+        }
+      ],
+      "page": 53,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0074",
+      "source": "pdf_text",
+      "caption_id": "txt_0295"
     },
     {
       "type": "caption",
@@ -104,6 +187,24 @@
         "b": 132.8054729281771
       },
       "content": "Fig. 3-13  Face Grooving Base Holder",
+      "section_id": "sec_auto_385",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6-2. SUPER KIATURN 100"
+        },
+        {
+          "id": "sec_auto_385",
+          "title": "· Base Holder"
+        }
+      ],
+      "page": 53,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0074",
+      "source": "pdf_text",
       "caption_for": "fig_0074"
     },
     {
@@ -117,7 +218,25 @@
         "r": 506.0535299999999,
         "b": 704.7831449281769
       },
-      "content": "mm (in)"
+      "content": "mm (in)",
+      "section_id": "sec_auto_385",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6-2. SUPER KIATURN 100"
+        },
+        {
+          "id": "sec_auto_385",
+          "title": "· Base Holder"
+        }
+      ],
+      "page": 53,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text",
+      "group_id": "grp_fig_0074"
     },
     {
       "type": "heading",
@@ -132,7 +251,23 @@
       },
       "content": "mm (in)",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_391",
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6-2. SUPER KIATURN 100"
+        },
+        {
+          "id": "sec_auto_391",
+          "title": "mm (in)"
+        }
+      ],
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "page": 53,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

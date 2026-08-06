@@ -19,7 +19,19 @@
       },
       "content": "Service Manual",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_0",
+      "section_path": [
+        {
+          "id": "sec_auto_0",
+          "title": "Service Manual"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 2,
+      "page": 1,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -34,7 +46,19 @@
       },
       "content": "Onan Generator Set for Commercial Mobile",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1",
+      "section_path": [
+        {
+          "id": "sec_auto_1",
+          "title": "Onan Generator Set for Commercial Mobile"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 2,
+      "page": 1,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -49,7 +73,19 @@
       },
       "content": "HDKAG (Spec A -K)",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_2",
+      "section_path": [
+        {
+          "id": "sec_auto_2",
+          "title": "HDKAG (Spec A -K)"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 2,
+      "page": 1,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -66,7 +102,20 @@
       "previous_block_id": "txt_0003",
       "image_hash": "4ddd81125cdd93ab29cb82e236e2f5f0e28bd87f9d2ad5bf4cadd8fc5df7aaef",
       "width": 72,
-      "height": 64
+      "height": 64,
+      "section_id": "sec_auto_2",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_2",
+          "title": "HDKAG (Spec A -K)"
+        }
+      ],
+      "page": 1,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

@@ -19,12 +19,34 @@
       },
       "image_path": "figures/figure_0039.png",
       "next_block_id": "txt_0236",
-      "caption_id": "txt_0236",
       "caption": ":  Soft  copper  bars  for  the  bus  of rectifier cabinet",
       "figure_number": "Figure 3-11",
       "image_hash": "736f4094b96259619654ca871330d10914a8d8e9643f40031223358c48327849",
       "width": 149,
-      "height": 90
+      "height": 90,
+      "section_id": "sec_3_3_3",
+      "parent_section_id": "sec_3_3",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_3",
+          "title": "3.3 Positioning and Installation"
+        },
+        {
+          "id": "sec_3_3_3",
+          "title": "3.3.3 Cabinet Parallel Installation"
+        }
+      ],
+      "page": 29,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0039",
+      "source": "pdf_text",
+      "caption_id": "txt_0236"
     },
     {
       "type": "caption",
@@ -38,6 +60,28 @@
         "b": 574.556101363195
       },
       "content": "Figure  3-11:  Soft  copper  bars  for  the  bus  of rectifier cabinet",
+      "section_id": "sec_3_3_3",
+      "parent_section_id": "sec_3_3",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_3",
+          "title": "3.3 Positioning and Installation"
+        },
+        {
+          "id": "sec_3_3_3",
+          "title": "3.3.3 Cabinet Parallel Installation"
+        }
+      ],
+      "page": 29,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0039",
+      "source": "pdf_text",
       "caption_for": "fig_0039"
     },
     {
@@ -54,12 +98,34 @@
       "image_path": "figures/figure_0040.png",
       "previous_block_id": "txt_0236",
       "next_block_id": "txt_0237",
-      "caption_id": "txt_0237",
       "caption": ":  Copper  bars  for  bus  of  inverter cabinet",
       "figure_number": "Figure 3-12",
       "image_hash": "f8591f02166d1b29faa82a01baa093c70f9771c8549dfc9ffe0d583ba8586abe",
       "width": 152,
-      "height": 93
+      "height": 93,
+      "section_id": "sec_3_3_3",
+      "parent_section_id": "sec_3_3",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_3",
+          "title": "3.3 Positioning and Installation"
+        },
+        {
+          "id": "sec_3_3_3",
+          "title": "3.3.3 Cabinet Parallel Installation"
+        }
+      ],
+      "page": 29,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0040",
+      "source": "pdf_text",
+      "caption_id": "txt_0237"
     },
     {
       "type": "caption",
@@ -73,6 +139,28 @@
         "b": 574.556101363195
       },
       "content": "Figure  3-12:  Copper  bars  for  bus  of  inverter cabinet",
+      "section_id": "sec_3_3_3",
+      "parent_section_id": "sec_3_3",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_3",
+          "title": "3.3 Positioning and Installation"
+        },
+        {
+          "id": "sec_3_3_3",
+          "title": "3.3.3 Cabinet Parallel Installation"
+        }
+      ],
+      "page": 29,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0040",
+      "source": "pdf_text",
       "caption_for": "fig_0040"
     },
     {
@@ -86,7 +174,29 @@
         "r": 527.7015199999994,
         "b": 496.526101363195
       },
-      "content": "Inverter connection: connect the \"inverter output switch terminal\" of rectifier cabinet with the \"inverter output terminal' of inverter cabinet with the given soft copper bars. In connection, the phase sequence should maintain corresponding connection (for example: \"phase A of inverter output switch terminal\" should be connected with \"phase A of inverter output terminal\" correspondingly)"
+      "content": "Inverter connection: connect the \"inverter output switch terminal\" of rectifier cabinet with the \"inverter output terminal' of inverter cabinet with the given soft copper bars. In connection, the phase sequence should maintain corresponding connection (for example: \"phase A of inverter output switch terminal\" should be connected with \"phase A of inverter output terminal\" correspondingly)",
+      "section_id": "sec_3_3_3",
+      "parent_section_id": "sec_3_3",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_3",
+          "title": "3.3 Positioning and Installation"
+        },
+        {
+          "id": "sec_3_3_3",
+          "title": "3.3.3 Cabinet Parallel Installation"
+        }
+      ],
+      "page": 29,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text",
+      "group_id": "grp_fig_0040"
     },
     {
       "type": "paragraph",
@@ -99,7 +209,28 @@
         "r": 539.75136,
         "b": 465.326101363195
       },
-      "content": "The N-line copper between rectifier cabinet and inverter cabinet     also need to be connected. Th e inverter connection is as shown in Figure 3-13."
+      "content": "The N-line copper between rectifier cabinet and inverter cabinet     also need to be connected. Th e inverter connection is as shown in Figure 3-13.",
+      "section_id": "sec_3_3_3",
+      "parent_section_id": "sec_3_3",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_3",
+          "title": "3.3 Positioning and Installation"
+        },
+        {
+          "id": "sec_3_3_3",
+          "title": "3.3.3 Cabinet Parallel Installation"
+        }
+      ],
+      "page": 29,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -115,12 +246,34 @@
       "image_path": "figures/figure_0041.png",
       "previous_block_id": "txt_0239",
       "next_block_id": "txt_0240",
-      "caption_id": "txt_0240",
       "caption": ": Diagram for inversion connection of 400 ~ 500 kVA UPS",
       "figure_number": "Figure 3-13",
       "image_hash": "2bc774220b7b99c49390ec734ae0a44fafc06112bd3e092be0219d44419a2669",
       "width": 393,
-      "height": 90
+      "height": 90,
+      "section_id": "sec_3_3_3",
+      "parent_section_id": "sec_3_3",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_3",
+          "title": "3.3 Positioning and Installation"
+        },
+        {
+          "id": "sec_3_3_3",
+          "title": "3.3.3 Cabinet Parallel Installation"
+        }
+      ],
+      "page": 29,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0041",
+      "source": "pdf_text",
+      "caption_id": "txt_0240"
     },
     {
       "type": "caption",
@@ -134,6 +287,28 @@
         "b": 342.186101363195
       },
       "content": "Figure 3-13: Diagram for inversion connection of 400 ~ 500 kVA UPS",
+      "section_id": "sec_3_3_3",
+      "parent_section_id": "sec_3_3",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_3",
+          "title": "3.3 Positioning and Installation"
+        },
+        {
+          "id": "sec_3_3_3",
+          "title": "3.3.3 Cabinet Parallel Installation"
+        }
+      ],
+      "page": 29,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0041",
+      "source": "pdf_text",
       "caption_for": "fig_0041"
     },
     {
@@ -147,7 +322,29 @@
         "r": 541.53328,
         "b": 279.78610136319503
       },
-      "content": "Connection of signal cable: connect a bunch of unconnected signal cables on the top right of rectifier cabinet to the switch board on the top left of inverter cabinet correspondingly (as shown in Figure 3-14) and the connection between signal cable mark and corresponding terminal is as shown in Table 3-3."
+      "content": "Connection of signal cable: connect a bunch of unconnected signal cables on the top right of rectifier cabinet to the switch board on the top left of inverter cabinet correspondingly (as shown in Figure 3-14) and the connection between signal cable mark and corresponding terminal is as shown in Table 3-3.",
+      "section_id": "sec_3_3_3",
+      "parent_section_id": "sec_3_3",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_3",
+          "title": "3.3 Positioning and Installation"
+        },
+        {
+          "id": "sec_3_3_3",
+          "title": "3.3.3 Cabinet Parallel Installation"
+        }
+      ],
+      "page": 29,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text",
+      "group_id": "grp_fig_0041"
     },
     {
       "type": "table",
@@ -161,11 +358,33 @@
         "b": 118.4435159347181
       },
       "markdown": "Table 3-3: Corresponding connection of terminals\n\n| Switch board 1                           | Switch board 2                             |\n|------------------------------------------|--------------------------------------------|\n| cable J2 is connected to switch board J2 | cable J4A is connected to switch board J4A |\n| cable J4 is connected to switch board J4 | cable J3B is connected to switch board J3B |\n| cable J5 is connected to switch board J5 | cable J2B is connected to switch board J2B |\n| cable J8 is connected to switch board J8 | cable J1B is connected to switch board J1B |",
-      "caption_id": "txt_0242",
       "title": "Table 3-3: Corresponding connection of terminals",
       "table_number": "Table 3-3",
       "rows": 5,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_3_3_3",
+      "parent_section_id": "sec_3_3",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_3",
+          "title": "3.3 Positioning and Installation"
+        },
+        {
+          "id": "sec_3_3_3",
+          "title": "3.3.3 Cabinet Parallel Installation"
+        }
+      ],
+      "page": 29,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "group_id": "grp_tbl_0008",
+      "source": "pdf_text",
+      "caption_id": "txt_0242"
     },
     {
       "type": "caption",
@@ -179,6 +398,28 @@
         "b": 264.186101363195
       },
       "content": "Table 3-3: Corresponding connection of terminals",
+      "section_id": "sec_3_3_3",
+      "parent_section_id": "sec_3_3",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_3",
+          "title": "3.3 Positioning and Installation"
+        },
+        {
+          "id": "sec_3_3_3",
+          "title": "3.3.3 Cabinet Parallel Installation"
+        }
+      ],
+      "page": 29,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_tbl_0008",
+      "source": "pdf_text",
       "caption_for": "tbl_0008"
     }
   ],

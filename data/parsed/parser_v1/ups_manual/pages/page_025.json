@@ -22,7 +22,24 @@
       "width": 19,
       "height": 19,
       "decorative": true,
-      "image_hash": "b27ad333facf7eded82fd51cd408038f07ca2a2b6acff4b55d741fe768cd3d58"
+      "image_hash": "b27ad333facf7eded82fd51cd408038f07ca2a2b6acff4b55d741fe768cd3d58",
+      "section_id": "sec_3_2",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_2",
+          "title": "3.2 Initial Inspection and Unpacking of UPS"
+        }
+      ],
+      "page": 25,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "admonition",
@@ -36,7 +53,24 @@
         "b": 682.196101363195
       },
       "content": "Note: Because UPS cabinet is heavy, please keep it vertical to the ground during removing or transportation, otherwise casualties and property losses will be caused if the UPS cabinet topples.",
-      "severity": "note"
+      "severity": "note",
+      "section_id": "sec_3_2",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_2",
+          "title": "3.2 Initial Inspection and Unpacking of UPS"
+        }
+      ],
+      "page": 25,
+      "chunk_hint": "admonition",
+      "semantic_role": "note",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -52,12 +86,30 @@
       "image_path": "figures/figure_0032.png",
       "previous_block_id": "txt_0207",
       "next_block_id": "txt_0208",
-      "caption_id": "txt_0209",
       "caption": ": Position of fixed bolt hole of 80 ~ 500 kVA UPS cabinet and pallet",
       "figure_number": "Figure 3-5",
       "image_hash": "e03a1cd47da2aec59d7941bc11fd54c2128c7c3c06dc00a37ca371a0fc2851ef",
       "width": 424,
-      "height": 191
+      "height": 191,
+      "section_id": "sec_3_2",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_2",
+          "title": "3.2 Initial Inspection and Unpacking of UPS"
+        }
+      ],
+      "page": 25,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0032",
+      "source": "pdf_text",
+      "caption_id": "txt_0209"
     },
     {
       "type": "caption",
@@ -71,6 +123,23 @@
         "b": 449.72610136319497
       },
       "content": "Figure 3-4: Position schematic diagram of shield",
+      "section_id": "sec_3_2",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_2",
+          "title": "3.2 Initial Inspection and Unpacking of UPS"
+        }
+      ],
+      "page": 25,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "source": "pdf_text",
       "caption_for": "fig_0032"
     },
     {
@@ -85,6 +154,24 @@
         "b": 434.126101363195
       },
       "content": "Figure 3-5: Position of fixed bolt hole of 80 ~ 500 kVA UPS cabinet and pallet",
+      "section_id": "sec_3_2",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_2",
+          "title": "3.2 Initial Inspection and Unpacking of UPS"
+        }
+      ],
+      "page": 25,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0032",
+      "source": "pdf_text",
       "caption_for": "fig_0032"
     },
     {
@@ -100,7 +187,24 @@
       },
       "content": "3.3 Positioning and Installation",
       "level": 2,
-      "role": "section"
+      "section_number": "3.3",
+      "section_id": "sec_3_3",
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_3",
+          "title": "3.3 Positioning and Installation"
+        }
+      ],
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "page": 25,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -113,7 +217,24 @@
         "r": 541.61376,
         "b": 326.586101363195
       },
-      "content": "Component arrangement of UPS brings convenience for maintenance, diagnosis and repairing of UPS from front, so it reduces room requirement for side and back. After opening the front door of UPS, you can see the power terminal, auxiliary terminal block, and power operating switch. Selection of location for UPS should ensure:"
+      "content": "Component arrangement of UPS brings convenience for maintenance, diagnosis and repairing of UPS from front, so it reduces room requirement for side and back. After opening the front door of UPS, you can see the power terminal, auxiliary terminal block, and power operating switch. Selection of location for UPS should ensure:",
+      "section_id": "sec_3_3",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_3",
+          "title": "3.3 Positioning and Installation"
+        }
+      ],
+      "page": 25,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -126,7 +247,24 @@
         "r": 211.30568,
         "b": 310.98610136319496
       },
-      "content": " Convenient wiring"
+      "content": " Convenient wiring",
+      "section_id": "sec_3_3",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_3",
+          "title": "3.3 Positioning and Installation"
+        }
+      ],
+      "page": 25,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -139,7 +277,24 @@
         "r": 241.54568,
         "b": 295.38610136319494
       },
-      "content": " Enough operating space"
+      "content": " Enough operating space",
+      "section_id": "sec_3_3",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_3",
+          "title": "3.3 Positioning and Installation"
+        }
+      ],
+      "page": 25,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -152,7 +307,24 @@
         "r": 376.44568,
         "b": 279.78610136319503
       },
-      "content": " Good ventilation to meet heat dissipation requirement"
+      "content": " Good ventilation to meet heat dissipation requirement",
+      "section_id": "sec_3_3",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_3",
+          "title": "3.3 Positioning and Installation"
+        }
+      ],
+      "page": 25,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -165,7 +337,24 @@
         "r": 242.26568,
         "b": 264.186101363195
       },
-      "content": " No corrosive gas around"
+      "content": " No corrosive gas around",
+      "section_id": "sec_3_3",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_3",
+          "title": "3.3 Positioning and Installation"
+        }
+      ],
+      "page": 25,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -178,7 +367,24 @@
         "r": 241.42568,
         "b": 248.58610136319498
       },
-      "content": " Away from combustibles"
+      "content": " Away from combustibles",
+      "section_id": "sec_3_3",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_3",
+          "title": "3.3 Positioning and Installation"
+        }
+      ],
+      "page": 25,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -191,7 +397,24 @@
         "r": 331.56568,
         "b": 232.98610136319496
       },
-      "content": " No over-wet and high-temperature resource"
+      "content": " No over-wet and high-temperature resource",
+      "section_id": "sec_3_3",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_3",
+          "title": "3.3 Positioning and Installation"
+        }
+      ],
+      "page": 25,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -204,7 +427,24 @@
         "r": 277.92568,
         "b": 217.38610136319494
       },
-      "content": " Not environment with much dust"
+      "content": " Not environment with much dust",
+      "section_id": "sec_3_3",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_3",
+          "title": "3.3 Positioning and Installation"
+        }
+      ],
+      "page": 25,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -217,7 +457,24 @@
         "r": 269.50568,
         "b": 201.75610136319494
       },
-      "content": " Meet fire fighting requirements"
+      "content": " Meet fire fighting requirements",
+      "section_id": "sec_3_3",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_3",
+          "title": "3.3 Positioning and Installation"
+        }
+      ],
+      "page": 25,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -230,7 +487,24 @@
         "r": 541.5601600000001,
         "b": 170.556101363195
       },
-      "content": " Optimal  ambient  temperature  for  working:  +20 ℃ ~  +25 ℃ ,  temperature  range  for maximum efficiency of battery."
+      "content": " Optimal  ambient  temperature  for  working:  +20 ℃ ~  +25 ℃ ,  temperature  range  for maximum efficiency of battery.",
+      "section_id": "sec_3_3",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_3",
+          "title": "3.3 Positioning and Installation"
+        }
+      ],
+      "page": 25,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -244,8 +518,29 @@
         "b": 141.99284478860932
       },
       "content": "3.3.1 Clearance",
-      "level": 2,
-      "role": "section"
+      "level": 3,
+      "section_number": "3.3.1",
+      "section_id": "sec_3_3_1",
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_3",
+          "title": "3.3 Positioning and Installation"
+        },
+        {
+          "id": "sec_3_3_1",
+          "title": "3.3.1 Clearance"
+        }
+      ],
+      "parent_section_id": "sec_3_3",
+      "section_level": 3,
+      "page": 25,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -258,7 +553,28 @@
         "r": 541.6156399999999,
         "b": 97.720101363195
       },
-      "content": "There is no air grid in side and back of this series of UPS. For 80 ~ 300 kVA UPS, it has no special space requirement to the side and the back. However, for 400 ~ 500 kVA UPS, at least 500 mm should be kept behind the cabinet for the convenience of connection of the UPSs. Besides meeting local stipulations, it should keep enough space in front of UPS so that human can walk freely after full open of front door of UPS. For convenience of daily maintenance, at least 500 mm should be kept behind 80 ~ 500 kVA UPS, at least 700 mm should be kept between top of UPS and ceiling to ensure unblocking of ventilation in above space of it."
+      "content": "There is no air grid in side and back of this series of UPS. For 80 ~ 300 kVA UPS, it has no special space requirement to the side and the back. However, for 400 ~ 500 kVA UPS, at least 500 mm should be kept behind the cabinet for the convenience of connection of the UPSs. Besides meeting local stipulations, it should keep enough space in front of UPS so that human can walk freely after full open of front door of UPS. For convenience of daily maintenance, at least 500 mm should be kept behind 80 ~ 500 kVA UPS, at least 700 mm should be kept between top of UPS and ceiling to ensure unblocking of ventilation in above space of it.",
+      "section_id": "sec_3_3_1",
+      "parent_section_id": "sec_3_3",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_3",
+          "title": "3.3 Positioning and Installation"
+        },
+        {
+          "id": "sec_3_3_1",
+          "title": "3.3.1 Clearance"
+        }
+      ],
+      "page": 25,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

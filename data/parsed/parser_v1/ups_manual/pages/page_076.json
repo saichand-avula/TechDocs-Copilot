@@ -19,7 +19,24 @@
       },
       "content": "7.4 Email and SMS Platform of SNMP",
       "level": 2,
-      "role": "section"
+      "section_number": "7.4",
+      "section_id": "sec_7_4",
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7 Annex"
+        },
+        {
+          "id": "sec_7_4",
+          "title": "7.4 Email and SMS Platform of SNMP"
+        }
+      ],
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "page": 76,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -33,8 +50,29 @@
         "b": 682.7928447886094
       },
       "content": "7.4.1 Web page login",
-      "level": 2,
-      "role": "section"
+      "level": 3,
+      "section_number": "7.4.1",
+      "section_id": "sec_7_4_1",
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7 Annex"
+        },
+        {
+          "id": "sec_7_4",
+          "title": "7.4 Email and SMS Platform of SNMP"
+        },
+        {
+          "id": "sec_7_4_1",
+          "title": "7.4.1 Web page login"
+        }
+      ],
+      "parent_section_id": "sec_7_4",
+      "section_level": 3,
+      "page": 76,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -47,7 +85,28 @@
         "r": 542.57568,
         "b": 591.836101363195
       },
-      "content": "Before logging in the web page, enter \"Function setting\" option in the control panel of UPS and set the communication protocol as \"EA protocol\", and then the following operations can be carried out. After  hardware  connection  between  iStars  and  network  and  settings  are  completed,  enter  the corresponding IP address obtained through iStars in the browser to log in the monitoring web page of iStars to remotely monitor UPS or set the related information."
+      "content": "Before logging in the web page, enter \"Function setting\" option in the control panel of UPS and set the communication protocol as \"EA protocol\", and then the following operations can be carried out. After  hardware  connection  between  iStars  and  network  and  settings  are  completed,  enter  the corresponding IP address obtained through iStars in the browser to log in the monitoring web page of iStars to remotely monitor UPS or set the related information.",
+      "section_id": "sec_7_4_1",
+      "parent_section_id": "sec_7_4",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7 Annex"
+        },
+        {
+          "id": "sec_7_4",
+          "title": "7.4 Email and SMS Platform of SNMP"
+        },
+        {
+          "id": "sec_7_4_1",
+          "title": "7.4.1 Web page login"
+        }
+      ],
+      "page": 76,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -66,7 +125,28 @@
       "width": 21,
       "height": 19,
       "decorative": true,
-      "image_hash": "a7d6770e25ccc6cb949a4fd01b02306f1840d38b667da403070f0438fb14681f"
+      "image_hash": "a7d6770e25ccc6cb949a4fd01b02306f1840d38b667da403070f0438fb14681f",
+      "section_id": "sec_7_4_1",
+      "parent_section_id": "sec_7_4",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7 Annex"
+        },
+        {
+          "id": "sec_7_4",
+          "title": "7.4 Email and SMS Platform of SNMP"
+        },
+        {
+          "id": "sec_7_4_1",
+          "title": "7.4.1 Web page login"
+        }
+      ],
+      "page": 76,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -79,7 +159,28 @@
         "r": 541.2804799999993,
         "b": 545.006101363195
       },
-      "content": "Please make sure the IP address setting and address of user's host are in the same network segment."
+      "content": "Please make sure the IP address setting and address of user's host are in the same network segment.",
+      "section_id": "sec_7_4_1",
+      "parent_section_id": "sec_7_4",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7 Annex"
+        },
+        {
+          "id": "sec_7_4",
+          "title": "7.4 Email and SMS Platform of SNMP"
+        },
+        {
+          "id": "sec_7_4_1",
+          "title": "7.4.1 Web page login"
+        }
+      ],
+      "page": 76,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -92,7 +193,28 @@
         "r": 435.63568,
         "b": 529.406101363195
       },
-      "content": "Open the browser and enter the IP address of iStars (such as 192.168.6.6)."
+      "content": "Open the browser and enter the IP address of iStars (such as 192.168.6.6).",
+      "section_id": "sec_7_4_1",
+      "parent_section_id": "sec_7_4",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7 Annex"
+        },
+        {
+          "id": "sec_7_4",
+          "title": "7.4 Email and SMS Platform of SNMP"
+        },
+        {
+          "id": "sec_7_4_1",
+          "title": "7.4.1 Web page login"
+        }
+      ],
+      "page": 76,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -105,7 +227,28 @@
         "r": 541.2641599999995,
         "b": 482.60610136319497
       },
-      "content": "Enter user name and password, click on \"Enter\" to enter the monitoring web page. The user name of  default  administrator account is admin and password is admin. Users can add or delete user account and permission in setting according to their actual need."
+      "content": "Enter user name and password, click on \"Enter\" to enter the monitoring web page. The user name of  default  administrator account is admin and password is admin. Users can add or delete user account and permission in setting according to their actual need.",
+      "section_id": "sec_7_4_1",
+      "parent_section_id": "sec_7_4",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7 Annex"
+        },
+        {
+          "id": "sec_7_4",
+          "title": "7.4 Email and SMS Platform of SNMP"
+        },
+        {
+          "id": "sec_7_4_1",
+          "title": "7.4.1 Web page login"
+        }
+      ],
+      "page": 76,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -121,12 +264,34 @@
       "image_path": "figures/figure_0126.png",
       "previous_block_id": "txt_0616",
       "next_block_id": "txt_0617",
-      "caption_id": "txt_0617",
       "caption": ": Logging in interface of iStars web page",
       "figure_number": "Figure 7-7",
       "image_hash": "06d4efc2b6f10db09e6b597693799ef0cd503e1575b7afd33b9b58b945e87e1d",
       "width": 185,
-      "height": 143
+      "height": 143,
+      "section_id": "sec_7_4_1",
+      "parent_section_id": "sec_7_4",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7 Annex"
+        },
+        {
+          "id": "sec_7_4",
+          "title": "7.4 Email and SMS Platform of SNMP"
+        },
+        {
+          "id": "sec_7_4_1",
+          "title": "7.4.1 Web page login"
+        }
+      ],
+      "page": 76,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0126",
+      "source": "pdf_text",
+      "caption_id": "txt_0617"
     },
     {
       "type": "caption",
@@ -140,6 +305,28 @@
         "b": 296.946101363195
       },
       "content": "Figure 7-7: Logging in interface of iStars web page",
+      "section_id": "sec_7_4_1",
+      "parent_section_id": "sec_7_4",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7 Annex"
+        },
+        {
+          "id": "sec_7_4",
+          "title": "7.4 Email and SMS Platform of SNMP"
+        },
+        {
+          "id": "sec_7_4_1",
+          "title": "7.4.1 Web page login"
+        }
+      ],
+      "page": 76,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0126",
+      "source": "pdf_text",
       "caption_for": "fig_0126"
     },
     {
@@ -154,8 +341,29 @@
         "b": 268.3828447886094
       },
       "content": "7.4.2 iStars web page operation",
-      "level": 2,
-      "role": "section"
+      "level": 3,
+      "section_number": "7.4.2",
+      "section_id": "sec_7_4_2",
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7 Annex"
+        },
+        {
+          "id": "sec_7_4",
+          "title": "7.4 Email and SMS Platform of SNMP"
+        },
+        {
+          "id": "sec_7_4_2",
+          "title": "7.4.2 iStars web page operation"
+        }
+      ],
+      "parent_section_id": "sec_7_4",
+      "section_level": 3,
+      "page": 76,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -168,7 +376,28 @@
         "r": 541.61376,
         "b": 239.706101363195
       },
-      "content": "The current user name and the permission, function menu of system, information  and status of"
+      "content": "The current user name and the permission, function menu of system, information  and status of",
+      "section_id": "sec_7_4_2",
+      "parent_section_id": "sec_7_4",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7 Annex"
+        },
+        {
+          "id": "sec_7_4",
+          "title": "7.4 Email and SMS Platform of SNMP"
+        },
+        {
+          "id": "sec_7_4_2",
+          "title": "7.4.2 iStars web page operation"
+        }
+      ],
+      "page": 76,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -181,7 +410,28 @@
         "r": 541.3718399999995,
         "b": 208.47610136319497
       },
-      "content": "system, and other information will be displayed on the front page after entering iStars web page. Main functions of system menu includes: UPS information and status, setting and control, query log"
+      "content": "system, and other information will be displayed on the front page after entering iStars web page. Main functions of system menu includes: UPS information and status, setting and control, query log",
+      "section_id": "sec_7_4_2",
+      "parent_section_id": "sec_7_4",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7 Annex"
+        },
+        {
+          "id": "sec_7_4",
+          "title": "7.4 Email and SMS Platform of SNMP"
+        },
+        {
+          "id": "sec_7_4_2",
+          "title": "7.4.2 iStars web page operation"
+        }
+      ],
+      "page": 76,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -194,7 +444,28 @@
         "r": 215.74568,
         "b": 192.87610136319495
       },
-      "content": "and miscellaneous function."
+      "content": "and miscellaneous function.",
+      "section_id": "sec_7_4_2",
+      "parent_section_id": "sec_7_4",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7 Annex"
+        },
+        {
+          "id": "sec_7_4",
+          "title": "7.4 Email and SMS Platform of SNMP"
+        },
+        {
+          "id": "sec_7_4_2",
+          "title": "7.4.2 iStars web page operation"
+        }
+      ],
+      "page": 76,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

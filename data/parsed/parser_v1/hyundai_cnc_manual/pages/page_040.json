@@ -18,8 +18,21 @@
         "b": 737.3629409281768
       },
       "content": "3-1. G-Function",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "3",
+      "section_id": "sec_3",
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-1. G-Function"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 40,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -34,7 +47,20 @@
       },
       "markdown": "| Standard G Code   | Group   | Function                                                                 | Type   |\n|-------------------|---------|--------------------------------------------------------------------------|--------|\n| G00               | 01      | Positioning (rapid traverse)                                             | B      |\n| G01               | 01      | Linear interpolation, (Cutting feed)                                     | B,O    |\n| G02               | 01      | Circular interpolation CW                                                | B      |\n| G03               | 01      | Circular interpolation CCW                                               | B      |\n| G04               | *       | Dwell                                                                    | B      |\n| GO6               | *       | Error detecting OFF positioning                                          | B      |\n| G10               | *       | Tool offset setting                                                      | B      |\n| G20               | 05      | Inch input                                                               | O      |\n| G21               | 05      | Metric input                                                             | O      |\n| G22               | 01      | Circular interpolation radius R setting CW                               | O      |\n| G23               | 01      | Circular interpolation radius R setting CCW                              | O      |\n| G27               | *       | Reference point return check                                             | B      |\n| G28               | *       | Auto reference point return                                              | B      |\n| G29               | *       | Return from reference point                                              | B      |\n| G30               | *       | 2nd reference point return                                               | B      |\n| G31               | *       | Skip function                                                            | O      |\n| G32               | 01      | Thread cutting, continuous thread cutting, multi thread cutting (Option) | B,O    |\n| G34               | 01      | Variable lead thread cutting                                             | O      |\n| G35               | *       | Tool set error compensation                                              | O      |\n| G36               | 07      | The 2nd Stored stroke limit ON                                           | B      |\n| G37               | 07      | The 2nd Stored stroke limit OFF                                          | B      |\n| G38               | 08      | The 3rd Stored stroke limit ON                                           | B      |\n| G39               |         | The 3rd Stored stroke limit OFF                                          | B      |\n| G50               | *       | Coordinate system setting                                                | B      |\n| G50               | *       | Max. spindle speed setting, work coordinate system setting.              | O      |\n| G51               | *       | Return of current display value to origin                                | O      |\n| G65               | *       | Macro simple call                                                        | O      |\n| G66               | 09      | Macro modal call                                                         | O      |\n| G67               | 09      | Macro modal call cancel                                                  | O      |\n| G68               | 10      | Programmable mirror image ON                                             | O      |\n| G69               | 10      | Programmable mirror image OFF                                            | O      |",
       "rows": 32,
-      "cols": 4
+      "cols": 4,
+      "section_id": "sec_3",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-1. G-Function"
+        }
+      ],
+      "page": 40,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -49,7 +75,23 @@
       },
       "content": "B. Standard, O: Option",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_314",
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-1. G-Function"
+        },
+        {
+          "id": "sec_auto_314",
+          "title": "B. Standard, O: Option"
+        }
+      ],
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "page": 40,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

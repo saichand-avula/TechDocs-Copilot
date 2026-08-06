@@ -18,8 +18,21 @@
         "b": 706.4658870854176
       },
       "content": "1. Safety Precautions",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "1",
+      "section_id": "sec_1",
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Safety Precautions"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 5,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -34,7 +47,23 @@
       },
       "content": "Thoroughly  read  the  OPERATOR'S  MANUAL before operating the generator set. Safe operation and top performance can be obtained only with proper operation and maintenance.",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_9",
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Safety Precautions"
+        },
+        {
+          "id": "sec_auto_9",
+          "title": "Thoroughly  read  the  OPERATOR'S  MANUAL before operating the generator set. Safe operation and top performance can be obtained only with proper operation and maintenance."
+        }
+      ],
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "page": 5,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -47,7 +76,24 @@
         "r": 291.3771000000004,
         "b": 585.1516492035389
       },
-      "content": "The following symbols in this Manual alert you to potential hazards to the operator, service person and equipment."
+      "content": "The following symbols in this Manual alert you to potential hazards to the operator, service person and equipment.",
+      "section_id": "sec_auto_9",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Safety Precautions"
+        },
+        {
+          "id": "sec_auto_9",
+          "title": "Thoroughly  read  the  OPERATOR'S  MANUAL before operating the generator set. Safe operation and top performance can be obtained only with proper operation and maintenance."
+        }
+      ],
+      "page": 5,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -62,7 +108,23 @@
       },
       "content": "This  symbol  warns  of  immediate hazards which will result in severe personal injury or death.",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_11",
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Safety Precautions"
+        },
+        {
+          "id": "sec_auto_11",
+          "title": "This  symbol  warns  of  immediate hazards which will result in severe personal injury or death."
+        }
+      ],
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "page": 5,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -77,7 +139,23 @@
       },
       "content": "WARNING This symbol refers to a hazard or unsafe practice which can result in severe personal injury or death.",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_12",
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Safety Precautions"
+        },
+        {
+          "id": "sec_auto_12",
+          "title": "WARNING This symbol refers to a hazard or unsafe practice which can result in severe personal injury or death."
+        }
+      ],
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "page": 5,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -92,7 +170,23 @@
       },
       "content": "CAUTION This symbol refers to a hazard or unsafe practice which can result in personal injury or product or property damage.",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_13",
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Safety Precautions"
+        },
+        {
+          "id": "sec_auto_13",
+          "title": "CAUTION This symbol refers to a hazard or unsafe practice which can result in personal injury or product or property damage."
+        }
+      ],
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "page": 5,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -107,7 +201,23 @@
       },
       "content": "GENERAL PRECAUTIONS",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_14",
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Safety Precautions"
+        },
+        {
+          "id": "sec_auto_14",
+          "title": "GENERAL PRECAUTIONS"
+        }
+      ],
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "page": 5,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -120,7 +230,24 @@
         "r": 242.05460000000022,
         "b": 388.05860683593744
       },
-      "content": " Keep ABC fire extinguishers handy."
+      "content": " Keep ABC fire extinguishers handy.",
+      "section_id": "sec_auto_14",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Safety Precautions"
+        },
+        {
+          "id": "sec_auto_14",
+          "title": "GENERAL PRECAUTIONS"
+        }
+      ],
+      "page": 5,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -133,7 +260,24 @@
         "r": 291.5733000000001,
         "b": 360.19334920353873
       },
-      "content": " Make sure all fasteners are secure and torqued properly."
+      "content": " Make sure all fasteners are secure and torqued properly.",
+      "section_id": "sec_auto_14",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Safety Precautions"
+        },
+        {
+          "id": "sec_auto_14",
+          "title": "GENERAL PRECAUTIONS"
+        }
+      ],
+      "page": 5,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -146,7 +290,24 @@
         "r": 291.39840000000015,
         "b": 305.71184920353875
       },
-      "content": " Keep the generator set and its compartment clean. Excess oil and oily rags can catch fire. Dirt and gear stowed in the compartment can restrict cooling air."
+      "content": " Keep the generator set and its compartment clean. Excess oil and oily rags can catch fire. Dirt and gear stowed in the compartment can restrict cooling air.",
+      "section_id": "sec_auto_14",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Safety Precautions"
+        },
+        {
+          "id": "sec_auto_14",
+          "title": "GENERAL PRECAUTIONS"
+        }
+      ],
+      "page": 5,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -159,7 +320,24 @@
         "r": 291.3830000000003,
         "b": 251.22954920353868
       },
-      "content": " Let the engine cool down before removing the coolant pressure cap or opening the coolant drain. Hot coolant under pressure can spray out and cause severe burns."
+      "content": " Let the engine cool down before removing the coolant pressure cap or opening the coolant drain. Hot coolant under pressure can spray out and cause severe burns.",
+      "section_id": "sec_auto_14",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Safety Precautions"
+        },
+        {
+          "id": "sec_auto_14",
+          "title": "GENERAL PRECAUTIONS"
+        }
+      ],
+      "page": 5,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -172,7 +350,24 @@
         "r": 291.37860000000006,
         "b": 209.44714920353874
       },
-      "content": " Before working on the generator set, disconnect the negative ( -) battery cable at the battery to prevent starting."
+      "content": " Before working on the generator set, disconnect the negative ( -) battery cable at the battery to prevent starting.",
+      "section_id": "sec_auto_14",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Safety Precautions"
+        },
+        {
+          "id": "sec_auto_14",
+          "title": "GENERAL PRECAUTIONS"
+        }
+      ],
+      "page": 5,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -185,7 +380,24 @@
         "r": 291.3764000000002,
         "b": 152.35824920353866
       },
-      "content": " Use caution when making adjustments while the generator set is running-hot, moving or electrically live parts can cause severe personal injury or death."
+      "content": " Use caution when making adjustments while the generator set is running-hot, moving or electrically live parts can cause severe personal injury or death.",
+      "section_id": "sec_auto_14",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Safety Precautions"
+        },
+        {
+          "id": "sec_auto_14",
+          "title": "GENERAL PRECAUTIONS"
+        }
+      ],
+      "page": 5,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -198,7 +410,24 @@
         "r": 564.9145000000001,
         "b": 630.2796492035387
       },
-      "content": " Used engine oil has been identified by some state and federal agencies as causing cancer or reproductive toxicity. Do not ingest, inhale or contact used oil or its vapors."
+      "content": " Used engine oil has been identified by some state and federal agencies as causing cancer or reproductive toxicity. Do not ingest, inhale or contact used oil or its vapors.",
+      "section_id": "sec_auto_14",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Safety Precautions"
+        },
+        {
+          "id": "sec_auto_14",
+          "title": "GENERAL PRECAUTIONS"
+        }
+      ],
+      "page": 5,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -211,7 +440,24 @@
         "r": 564.7428999999998,
         "b": 563.6097492035389
       },
-      "content": " Benzene  and  lead  in  some  gasolines  have been  identified  by  some  state  and  federal agencies  as  causing  cancer  or  reproductive toxicity. Do not ingest, inhale or contact gasoline or its vapors."
+      "content": " Benzene  and  lead  in  some  gasolines  have been  identified  by  some  state  and  federal agencies  as  causing  cancer  or  reproductive toxicity. Do not ingest, inhale or contact gasoline or its vapors.",
+      "section_id": "sec_auto_14",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Safety Precautions"
+        },
+        {
+          "id": "sec_auto_14",
+          "title": "GENERAL PRECAUTIONS"
+        }
+      ],
+      "page": 5,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -224,7 +470,24 @@
         "r": 564.7461999999997,
         "b": 522.2244492035389
       },
-      "content": " Do not work on the generator set  when mentally or physically fatigued or after consuming alcohol or drugs."
+      "content": " Do not work on the generator set  when mentally or physically fatigued or after consuming alcohol or drugs.",
+      "section_id": "sec_auto_14",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Safety Precautions"
+        },
+        {
+          "id": "sec_auto_14",
+          "title": "GENERAL PRECAUTIONS"
+        }
+      ],
+      "page": 5,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -237,7 +500,24 @@
         "r": 564.7164999999998,
         "b": 493.48144920353894
       },
-      "content": " Carefully follow all applicable local, state and federal codes."
+      "content": " Carefully follow all applicable local, state and federal codes.",
+      "section_id": "sec_auto_14",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Safety Precautions"
+        },
+        {
+          "id": "sec_auto_14",
+          "title": "GENERAL PRECAUTIONS"
+        }
+      ],
+      "page": 5,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -252,7 +532,23 @@
       },
       "content": "GENERATOR SET VOLTAGE IS DEADLY!",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_25",
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Safety Precautions"
+        },
+        {
+          "id": "sec_auto_25",
+          "title": "GENERATOR SET VOLTAGE IS DEADLY!"
+        }
+      ],
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "page": 5,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -265,7 +561,24 @@
         "r": 564.7571999999998,
         "b": 432.48094920353896
       },
-      "content": " Generator  set  output  connections  must  be made by a qualified electrician in accordance with applicable codes."
+      "content": " Generator  set  output  connections  must  be made by a qualified electrician in accordance with applicable codes.",
+      "section_id": "sec_auto_25",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Safety Precautions"
+        },
+        {
+          "id": "sec_auto_25",
+          "title": "GENERATOR SET VOLTAGE IS DEADLY!"
+        }
+      ],
+      "page": 5,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -278,7 +591,24 @@
         "r": 564.9914999999996,
         "b": 353.16874920353905
       },
-      "content": " The generator set must not be connected to the public utility or any other source of electrical power. Connection could lead to electrocution of  utility  workers,  damage  to  equipment  and fire.  An  approved  switching  device  must  be used to prevent interconnections."
+      "content": " The generator set must not be connected to the public utility or any other source of electrical power. Connection could lead to electrocution of  utility  workers,  damage  to  equipment  and fire.  An  approved  switching  device  must  be used to prevent interconnections.",
+      "section_id": "sec_auto_25",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Safety Precautions"
+        },
+        {
+          "id": "sec_auto_25",
+          "title": "GENERATOR SET VOLTAGE IS DEADLY!"
+        }
+      ],
+      "page": 5,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -291,7 +621,24 @@
         "r": 564.7605000000001,
         "b": 299.1411492035391
       },
-      "content": " Use  caution  when  working  on  live  electrical equipment. Remove jewelry, make sure clothing and shoes are dry and stand on a dry wooden platform on the ground or floor."
+      "content": " Use  caution  when  working  on  live  electrical equipment. Remove jewelry, make sure clothing and shoes are dry and stand on a dry wooden platform on the ground or floor.",
+      "section_id": "sec_auto_25",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Safety Precautions"
+        },
+        {
+          "id": "sec_auto_25",
+          "title": "GENERATOR SET VOLTAGE IS DEADLY!"
+        }
+      ],
+      "page": 5,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -306,7 +653,23 @@
       },
       "content": "FUEL IS FLAMMABLE AND EXPLOSIVE",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_29",
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Safety Precautions"
+        },
+        {
+          "id": "sec_auto_29",
+          "title": "FUEL IS FLAMMABLE AND EXPLOSIVE"
+        }
+      ],
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "page": 5,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -319,7 +682,24 @@
         "r": 564.8892999999996,
         "b": 211.8286492035387
       },
-      "content": " Keep  flames,  cigarettes,  sparks,  pilot  lights, electrical arc-producing equipment and switches and all other sources of ignition well away from areas where fuel fumes are present and areas sharing ventilation."
+      "content": " Keep  flames,  cigarettes,  sparks,  pilot  lights, electrical arc-producing equipment and switches and all other sources of ignition well away from areas where fuel fumes are present and areas sharing ventilation.",
+      "section_id": "sec_auto_29",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Safety Precautions"
+        },
+        {
+          "id": "sec_auto_29",
+          "title": "FUEL IS FLAMMABLE AND EXPLOSIVE"
+        }
+      ],
+      "page": 5,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -332,7 +712,24 @@
         "r": 564.7660999999993,
         "b": 182.12094920353877
       },
-      "content": " Fuel lines must be secured, free of leaks and separated or shielded from electrical wiring."
+      "content": " Fuel lines must be secured, free of leaks and separated or shielded from electrical wiring.",
+      "section_id": "sec_auto_29",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Safety Precautions"
+        },
+        {
+          "id": "sec_auto_29",
+          "title": "FUEL IS FLAMMABLE AND EXPLOSIVE"
+        }
+      ],
+      "page": 5,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -345,7 +742,24 @@
         "r": 564.7451999999998,
         "b": 152.3571492035387
       },
-      "content": " Use  approved  non-conductive  flexible  fuel hose for fuel connections at the generator set."
+      "content": " Use  approved  non-conductive  flexible  fuel hose for fuel connections at the generator set.",
+      "section_id": "sec_auto_29",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Safety Precautions"
+        },
+        {
+          "id": "sec_auto_29",
+          "title": "FUEL IS FLAMMABLE AND EXPLOSIVE"
+        }
+      ],
+      "page": 5,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

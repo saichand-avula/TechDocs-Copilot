@@ -19,7 +19,23 @@
       },
       "content": "Sub Program Call",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_333",
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-2. M Function (Auxiliary)"
+        },
+        {
+          "id": "sec_auto_333",
+          "title": "Sub Program Call"
+        }
+      ],
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "page": 44,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -32,7 +48,24 @@
         "r": 92.06520599999999,
         "b": 699.0230369281768
       },
-      "content": "(Ex)"
+      "content": "(Ex)",
+      "section_id": "sec_auto_333",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-2. M Function (Auxiliary)"
+        },
+        {
+          "id": "sec_auto_333",
+          "title": "Sub Program Call"
+        }
+      ],
+      "page": 44,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -49,7 +82,24 @@
       "previous_block_id": "txt_0261",
       "image_hash": "5f13a0f27e7c7678e53fea660c3e9b4602642cd2cc2b5ad76b3633d9a1de4f0e",
       "width": 424,
-      "height": 352
+      "height": 352,
+      "section_id": "sec_auto_333",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-2. M Function (Auxiliary)"
+        },
+        {
+          "id": "sec_auto_333",
+          "title": "Sub Program Call"
+        }
+      ],
+      "page": 44,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

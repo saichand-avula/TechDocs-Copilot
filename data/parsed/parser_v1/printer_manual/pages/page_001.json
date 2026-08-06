@@ -20,7 +20,11 @@
       "image_hash": "50a1692c7d5fd1079c3119c585baf2a7f17d5a06b55cafb7506a070667c974a5",
       "width": 67,
       "height": 65,
-      "next_block_id": "txt_0001"
+      "next_block_id": "txt_0001",
+      "page": 1,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -32,7 +36,11 @@
         "r": 421.86815000000036,
         "b": 684.4047800000001
       },
-      "content": "HP LaserJet Pro M501 HP LaserJet Enterprise M506, M507 HP LaserJet Enterprise MFP M527, M528 HP LaserJet Managed E50145, MFP E52645 HP LaserJet Managed E50045, MFP E52545"
+      "content": "HP LaserJet Pro M501 HP LaserJet Enterprise M506, M507 HP LaserJet Enterprise MFP M527, M528 HP LaserJet Managed E50145, MFP E52645 HP LaserJet Managed E50045, MFP E52545",
+      "page": 1,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -47,7 +55,19 @@
       },
       "content": "Service Manual: Repair",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_2",
+      "section_path": [
+        {
+          "id": "sec_auto_2",
+          "title": "Service Manual: Repair"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 2,
+      "page": 1,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -64,7 +84,20 @@
       "image_hash": "3adf4eadf37517742b83f13e228464bc5471093d65428f87692b25ebb7956bc6",
       "width": 110,
       "height": 81,
-      "previous_block_id": "txt_0002"
+      "previous_block_id": "txt_0002",
+      "section_id": "sec_auto_2",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_2",
+          "title": "Service Manual: Repair"
+        }
+      ],
+      "page": 1,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -81,7 +114,20 @@
       "image_hash": "f4f56a06b5d022ff9e7d791f3a1c2341c058ad4363659f9262689e5514a5647b",
       "width": 110,
       "height": 111,
-      "previous_block_id": "txt_0002"
+      "previous_block_id": "txt_0002",
+      "section_id": "sec_auto_2",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_2",
+          "title": "Service Manual: Repair"
+        }
+      ],
+      "page": 1,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -98,7 +144,20 @@
       "width": 37,
       "height": 37,
       "image_hash": "eeb65f848ab947e104898f309e969948ad99cafcd38d9a3fa9be6ac322fcba64",
-      "previous_block_id": "txt_0002"
+      "previous_block_id": "txt_0002",
+      "section_id": "sec_auto_2",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_2",
+          "title": "Service Manual: Repair"
+        }
+      ],
+      "page": 1,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -115,7 +174,20 @@
       "image_hash": "6e476ec2900039cd3e77473251f499e6a9d7cdff3cce847d5e9cfc9d64d41ad0",
       "width": 112,
       "height": 109,
-      "previous_block_id": "txt_0002"
+      "previous_block_id": "txt_0002",
+      "section_id": "sec_auto_2",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_2",
+          "title": "Service Manual: Repair"
+        }
+      ],
+      "page": 1,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -132,7 +204,20 @@
       "image_hash": "e48b01e9f174ab68577c48259f0edc56942ad3b65b57a82bf1044db4453d5ee9",
       "width": 116,
       "height": 103,
-      "previous_block_id": "txt_0002"
+      "previous_block_id": "txt_0002",
+      "section_id": "sec_auto_2",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_2",
+          "title": "Service Manual: Repair"
+        }
+      ],
+      "page": 1,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

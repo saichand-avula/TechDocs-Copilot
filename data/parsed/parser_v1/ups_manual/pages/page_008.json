@@ -19,12 +19,34 @@
       },
       "image_path": "figures/figure_0006.png",
       "next_block_id": "txt_0058",
-      "caption_id": "txt_0058",
       "caption": ": Maintenance bypass mode",
       "figure_number": "Figure 2-5",
       "image_hash": "05ab6c9d0429519d2e01e95bdbf4510e278187d4afad85e985b4c456b97e95e3",
       "width": 293,
-      "height": 118
+      "height": 118,
+      "section_id": "sec_2_2_4",
+      "parent_section_id": "sec_2_2",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 Product Overview"
+        },
+        {
+          "id": "sec_2_2",
+          "title": "2.2 Operation Modes"
+        },
+        {
+          "id": "sec_2_2_4",
+          "title": "2.2.4 Maintenance Mode"
+        }
+      ],
+      "page": 8,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0006",
+      "source": "pdf_text",
+      "caption_id": "txt_0058"
     },
     {
       "type": "caption",
@@ -38,6 +60,28 @@
         "b": 566.486101363195
       },
       "content": "Figure 2-5: Maintenance bypass mode",
+      "section_id": "sec_2_2_4",
+      "parent_section_id": "sec_2_2",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 Product Overview"
+        },
+        {
+          "id": "sec_2_2",
+          "title": "2.2 Operation Modes"
+        },
+        {
+          "id": "sec_2_2_4",
+          "title": "2.2.4 Maintenance Mode"
+        }
+      ],
+      "page": 8,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0006",
+      "source": "pdf_text",
       "caption_for": "fig_0006"
     },
     {
@@ -52,8 +96,29 @@
         "b": 537.9228447886094
       },
       "content": "2.2.5 Parallel Redundancy Mode (System Expansion)",
-      "level": 2,
-      "role": "section"
+      "level": 3,
+      "section_number": "2.2.5",
+      "section_id": "sec_2_2_5",
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 Product Overview"
+        },
+        {
+          "id": "sec_2_2",
+          "title": "2.2 Operation Modes"
+        },
+        {
+          "id": "sec_2_2_5",
+          "title": "2.2.5 Parallel Redundancy Mode (System Expansion)"
+        }
+      ],
+      "parent_section_id": "sec_2_2",
+      "section_level": 3,
+      "page": 8,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -66,7 +131,28 @@
         "r": 541.58976,
         "b": 478.04610136319496
       },
-      "content": "To improve capacity and reliability of the system, it can set direct parallel of several stand-alone UPSs to control logic by paralleled UPS of every UPS to ensure automatic equal-division load of all units."
+      "content": "To improve capacity and reliability of the system, it can set direct parallel of several stand-alone UPSs to control logic by paralleled UPS of every UPS to ensure automatic equal-division load of all units.",
+      "section_id": "sec_2_2_5",
+      "parent_section_id": "sec_2_2",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 Product Overview"
+        },
+        {
+          "id": "sec_2_2",
+          "title": "2.2 Operation Modes"
+        },
+        {
+          "id": "sec_2_2_5",
+          "title": "2.2.5 Parallel Redundancy Mode (System Expansion)"
+        }
+      ],
+      "page": 8,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -79,7 +165,28 @@
         "r": 541.59456,
         "b": 431.24610136319495
       },
-      "content": "In parallel system, if there is any fault of one UPS, there will be no output of faulted UPS, and other UPSs without faults continue to share load. If all UPSs of parallel system are faulted, the system will switch to bypass mode. Parallel UPS can be paralleled by 6 stand-alone UPSs at most."
+      "content": "In parallel system, if there is any fault of one UPS, there will be no output of faulted UPS, and other UPSs without faults continue to share load. If all UPSs of parallel system are faulted, the system will switch to bypass mode. Parallel UPS can be paralleled by 6 stand-alone UPSs at most.",
+      "section_id": "sec_2_2_5",
+      "parent_section_id": "sec_2_2",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 Product Overview"
+        },
+        {
+          "id": "sec_2_2",
+          "title": "2.2 Operation Modes"
+        },
+        {
+          "id": "sec_2_2_5",
+          "title": "2.2.5 Parallel Redundancy Mode (System Expansion)"
+        }
+      ],
+      "page": 8,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -93,8 +200,29 @@
         "b": 402.6828447886093
       },
       "content": "2.2.6 Economic (ECO) Mode (Only for Single UPS System)",
-      "level": 2,
-      "role": "section"
+      "level": 3,
+      "section_number": "2.2.6",
+      "section_id": "sec_2_2_6",
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 Product Overview"
+        },
+        {
+          "id": "sec_2_2",
+          "title": "2.2 Operation Modes"
+        },
+        {
+          "id": "sec_2_2_6",
+          "title": "2.2.6 Economic (ECO) Mode (Only for Single UPS System)"
+        }
+      ],
+      "parent_section_id": "sec_2_2",
+      "section_level": 3,
+      "page": 8,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -107,7 +235,28 @@
         "r": 541.61568,
         "b": 296.10610136319497
       },
-      "content": "If the economic mode is selected, under normal bypass power condition, the power supply of load is preferentially supplied by bypass and double conversion UPS is in standby status to achieve the purpose of energy-saving. When bypass power is within the working scope of ECO, power supply of the load is supplied by bypass; and if it is out of the working scope of ECO, the system will switch to inverter output. However, it may occur disconnection of power supply of the load, and maximum disconnection time is 10 ms."
+      "content": "If the economic mode is selected, under normal bypass power condition, the power supply of load is preferentially supplied by bypass and double conversion UPS is in standby status to achieve the purpose of energy-saving. When bypass power is within the working scope of ECO, power supply of the load is supplied by bypass; and if it is out of the working scope of ECO, the system will switch to inverter output. However, it may occur disconnection of power supply of the load, and maximum disconnection time is 10 ms.",
+      "section_id": "sec_2_2_6",
+      "parent_section_id": "sec_2_2",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 Product Overview"
+        },
+        {
+          "id": "sec_2_2",
+          "title": "2.2 Operation Modes"
+        },
+        {
+          "id": "sec_2_2_6",
+          "title": "2.2.6 Economic (ECO) Mode (Only for Single UPS System)"
+        }
+      ],
+      "page": 8,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -123,12 +272,34 @@
       "image_path": "figures/figure_0007.png",
       "previous_block_id": "txt_0063",
       "next_block_id": "txt_0064",
-      "caption_id": "txt_0064",
       "caption": ": ECO mode",
       "figure_number": "Figure 2-6",
       "image_hash": "c241ad6f709d544626933da1d90541226839238c38638a901299d37cd9c55bb1",
       "width": 268,
-      "height": 119
+      "height": 119,
+      "section_id": "sec_2_2_6",
+      "parent_section_id": "sec_2_2",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 Product Overview"
+        },
+        {
+          "id": "sec_2_2",
+          "title": "2.2 Operation Modes"
+        },
+        {
+          "id": "sec_2_2_6",
+          "title": "2.2.6 Economic (ECO) Mode (Only for Single UPS System)"
+        }
+      ],
+      "page": 8,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0007",
+      "source": "pdf_text",
+      "caption_id": "txt_0064"
     },
     {
       "type": "caption",
@@ -142,6 +313,28 @@
         "b": 126.03610136319492
       },
       "content": "Figure 2-6: ECO mode",
+      "section_id": "sec_2_2_6",
+      "parent_section_id": "sec_2_2",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 Product Overview"
+        },
+        {
+          "id": "sec_2_2",
+          "title": "2.2 Operation Modes"
+        },
+        {
+          "id": "sec_2_2_6",
+          "title": "2.2.6 Economic (ECO) Mode (Only for Single UPS System)"
+        }
+      ],
+      "page": 8,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0007",
+      "source": "pdf_text",
       "caption_for": "fig_0007"
     }
   ],

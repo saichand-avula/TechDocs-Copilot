@@ -19,7 +19,23 @@
       },
       "content": "GENERATOR SET OPERATION",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_330",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5. Generator Set/Voltage Regulator"
+        },
+        {
+          "id": "sec_auto_330",
+          "title": "GENERATOR SET OPERATION"
+        }
+      ],
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "page": 27,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -33,7 +49,24 @@
         "b": 677.1639492035388
       },
       "content": "Refer  to  Figures  5-3  and  5-4,  the  generator  set schematics, while working through the following description.",
-      "hyperlink_hint": true
+      "hyperlink_hint": true,
+      "section_id": "sec_auto_330",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5. Generator Set/Voltage Regulator"
+        },
+        {
+          "id": "sec_auto_330",
+          "title": "GENERATOR SET OPERATION"
+        }
+      ],
+      "page": 27,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -46,7 +79,24 @@
         "r": 291.5520000000005,
         "b": 542.407349203539
       },
-      "content": "Voltage  regulator  VR1  (three-phase:  VR21) supplies DC to the field winding (F1 - F2 leads) through brushes and slip rings, thereby establishing a revolving 4-pole magnetic field.  The battery is connected during startup to initiate field excitation.  Voltage regulator VR1 supplies field  current  during  operation.    Rated  output voltage is maintained as the generator set load varies, by varying field current to maintain field strength proportional to the load."
+      "content": "Voltage  regulator  VR1  (three-phase:  VR21) supplies DC to the field winding (F1 - F2 leads) through brushes and slip rings, thereby establishing a revolving 4-pole magnetic field.  The battery is connected during startup to initiate field excitation.  Voltage regulator VR1 supplies field  current  during  operation.    Rated  output voltage is maintained as the generator set load varies, by varying field current to maintain field strength proportional to the load.",
+      "section_id": "sec_auto_330",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5. Generator Set/Voltage Regulator"
+        },
+        {
+          "id": "sec_auto_330",
+          "title": "GENERATOR SET OPERATION"
+        }
+      ],
+      "page": 27,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -59,7 +109,24 @@
         "r": 291.62679999999966,
         "b": 499.6602492035389
       },
-      "content": "The revolving magnetic field induces AC in the stator windings (T1 - T2 and T3  - T4) which are connected to the load."
+      "content": "The revolving magnetic field induces AC in the stator windings (T1 - T2 and T3  - T4) which are connected to the load.",
+      "section_id": "sec_auto_330",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5. Generator Set/Voltage Regulator"
+        },
+        {
+          "id": "sec_auto_330",
+          "title": "GENERATOR SET OPERATION"
+        }
+      ],
+      "page": 27,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -72,7 +139,24 @@
         "r": 291.5619,
         "b": 456.97144920353895
       },
-      "content": "Under light load, the stator windings can supply sufficient current for the field to maintain rated output voltage."
+      "content": "Under light load, the stator windings can supply sufficient current for the field to maintain rated output voltage.",
+      "section_id": "sec_auto_330",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5. Generator Set/Voltage Regulator"
+        },
+        {
+          "id": "sec_auto_330",
+          "title": "GENERATOR SET OPERATION"
+        }
+      ],
+      "page": 27,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -85,7 +169,24 @@
         "r": 291.3980000000003,
         "b": 426.924949203539
       },
-      "content": "As the load increases, load currents increase, resulting in a proportional increase of current,"
+      "content": "As the load increases, load currents increase, resulting in a proportional increase of current,",
+      "section_id": "sec_auto_330",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5. Generator Set/Voltage Regulator"
+        },
+        {
+          "id": "sec_auto_330",
+          "title": "GENERATOR SET OPERATION"
+        }
+      ],
+      "page": 27,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -98,7 +199,24 @@
         "r": 564.7545999999996,
         "b": 702.792849203539
       },
-      "content": "which in turn supplies the field.  Rated output voltage is thereby maintained as the load varies."
+      "content": "which in turn supplies the field.  Rated output voltage is thereby maintained as the load varies.",
+      "section_id": "sec_auto_330",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5. Generator Set/Voltage Regulator"
+        },
+        {
+          "id": "sec_auto_330",
+          "title": "GENERATOR SET OPERATION"
+        }
+      ],
+      "page": 27,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -113,7 +231,23 @@
       },
       "content": "ELECTRONIC VOLTAGE REGULATOR",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_337",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5. Generator Set/Voltage Regulator"
+        },
+        {
+          "id": "sec_auto_337",
+          "title": "ELECTRONIC VOLTAGE REGULATOR"
+        }
+      ],
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "page": 27,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -126,7 +260,24 @@
         "r": 564.7524999999997,
         "b": 630.9020492035387
       },
-      "content": "The voltage regulator controls the output of the generator set so that a constant voltage is maintained under varying load conditions."
+      "content": "The voltage regulator controls the output of the generator set so that a constant voltage is maintained under varying load conditions.",
+      "section_id": "sec_auto_337",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5. Generator Set/Voltage Regulator"
+        },
+        {
+          "id": "sec_auto_337",
+          "title": "ELECTRONIC VOLTAGE REGULATOR"
+        }
+      ],
+      "page": 27,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -139,7 +290,24 @@
         "r": 564.8888999999999,
         "b": 503.6276492035389
       },
-      "content": "Only the basic functions of the regulator are described (Figure 5-5).  Voltage from quadrature windings Q1/Q2 supply power to the voltage regulator itself.  The voltage regulator in turn supplies an excitation voltage (F1/F2) that is directly proportionate to  the  output  voltage  (L1/L0)  it  senses.    Any changes in the generator set output voltage produce a corresponding change in the excitation voltage provided by the regulator."
+      "content": "Only the basic functions of the regulator are described (Figure 5-5).  Voltage from quadrature windings Q1/Q2 supply power to the voltage regulator itself.  The voltage regulator in turn supplies an excitation voltage (F1/F2) that is directly proportionate to  the  output  voltage  (L1/L0)  it  senses.    Any changes in the generator set output voltage produce a corresponding change in the excitation voltage provided by the regulator.",
+      "section_id": "sec_auto_337",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5. Generator Set/Voltage Regulator"
+        },
+        {
+          "id": "sec_auto_337",
+          "title": "ELECTRONIC VOLTAGE REGULATOR"
+        }
+      ],
+      "page": 27,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -152,7 +320,24 @@
         "r": 564.7524999999991,
         "b": 426.923549203539
       },
-      "content": "On the HDKAG, the voltage regulator assembly includes a potentiometer which enables a slight degree of output voltage adjustment.  The voltage regulator assembly contains no user-serviceable parts.  If the assembly fails, it must be replaced."
+      "content": "On the HDKAG, the voltage regulator assembly includes a potentiometer which enables a slight degree of output voltage adjustment.  The voltage regulator assembly contains no user-serviceable parts.  If the assembly fails, it must be replaced.",
+      "section_id": "sec_auto_337",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5. Generator Set/Voltage Regulator"
+        },
+        {
+          "id": "sec_auto_337",
+          "title": "ELECTRONIC VOLTAGE REGULATOR"
+        }
+      ],
+      "page": 27,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -168,12 +353,30 @@
       "image_path": "figures/figure_0013.png",
       "previous_block_id": "txt_0327",
       "next_block_id": "txt_0328",
-      "caption_id": "txt_0328",
       "caption": ". ADJUSTMENTS ON GENERATOR SET VOLTAGE REGULATOR BOARD",
       "figure_number": "FIGURE 5-5",
       "image_hash": "c6f593d0130af309f52c77bd2eb9d8db095cc2faf563f71103b481baa32a496f",
       "width": 519,
-      "height": 273
+      "height": 273,
+      "section_id": "sec_auto_337",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5. Generator Set/Voltage Regulator"
+        },
+        {
+          "id": "sec_auto_337",
+          "title": "ELECTRONIC VOLTAGE REGULATOR"
+        }
+      ],
+      "page": 27,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0013",
+      "source": "pdf_text",
+      "caption_id": "txt_0328"
     },
     {
       "type": "caption",
@@ -187,6 +390,24 @@
         "b": 94.88205693988755
       },
       "content": "FIGURE 5-5. ADJUSTMENTS ON GENERATOR SET VOLTAGE REGULATOR BOARD",
+      "section_id": "sec_auto_337",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5. Generator Set/Voltage Regulator"
+        },
+        {
+          "id": "sec_auto_337",
+          "title": "ELECTRONIC VOLTAGE REGULATOR"
+        }
+      ],
+      "page": 27,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0013",
+      "source": "pdf_text",
       "caption_for": "fig_0013"
     }
   ],

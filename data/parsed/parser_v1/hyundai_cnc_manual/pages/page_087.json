@@ -18,8 +18,21 @@
         "b": 746.7829409281768
       },
       "content": "1. Mechanical Overview",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "1",
+      "section_id": "sec_1",
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Mechanical Overview"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 87,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -33,8 +46,21 @@
         "b": 723.8030729281768
       },
       "content": "1-1. Mechanical Construction",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "1",
+      "section_id": "sec_1",
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-1. Mechanical Construction"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 87,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -50,12 +76,26 @@
       "image_path": "figures/figure_0120.png",
       "previous_block_id": "txt_0496",
       "next_block_id": "txt_0497",
-      "caption_id": "txt_0497",
       "caption": "Mechanical Construction - Major Unit",
       "figure_number": "Fig. 5-1",
       "image_hash": "bd290455a4442bc3450a930fb02d8634510a1ae3b959f0393800866978c3ffe1",
       "width": 458,
-      "height": 560
+      "height": 560,
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-1. Mechanical Construction"
+        }
+      ],
+      "page": 87,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0120",
+      "source": "pdf_text",
+      "caption_id": "txt_0497"
     },
     {
       "type": "caption",
@@ -69,6 +109,20 @@
         "b": 139.82344492817674
       },
       "content": "Fig. 5-1 Mechanical Construction - Major Unit",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-1. Mechanical Construction"
+        }
+      ],
+      "page": 87,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0120",
+      "source": "pdf_text",
       "caption_for": "fig_0120"
     }
   ],

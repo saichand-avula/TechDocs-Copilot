@@ -19,7 +19,19 @@
       },
       "content": "SERVICE MANUAL",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_3",
+      "section_path": [
+        {
+          "id": "sec_auto_3",
+          "title": "SERVICE MANUAL"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 2,
+      "page": 2,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -34,7 +46,19 @@
       },
       "content": "For N5500 Patient Monitor",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_4",
+      "section_path": [
+        {
+          "id": "sec_auto_4",
+          "title": "For N5500 Patient Monitor"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 2,
+      "page": 2,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -49,7 +73,19 @@
       },
       "content": "Tyco Healthcare",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_5",
+      "section_path": [
+        {
+          "id": "sec_auto_5",
+          "title": "Tyco Healthcare"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 2,
+      "page": 2,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -62,7 +98,20 @@
         "r": 298.3125,
         "b": 248.24625000000003
       },
-      "content": "15 Hampshire Street Mansfield, MA02048, U.S.A."
+      "content": "15 Hampshire Street Mansfield, MA02048, U.S.A.",
+      "section_id": "sec_auto_5",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_5",
+          "title": "Tyco Healthcare"
+        }
+      ],
+      "page": 2,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -77,7 +126,19 @@
       },
       "content": "Tyco Healthcare EMEA (Europe, Middle East and Africa)",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_7",
+      "section_path": [
+        {
+          "id": "sec_auto_7",
+          "title": "Tyco Healthcare EMEA (Europe, Middle East and Africa)"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 2,
+      "page": 2,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -90,7 +151,20 @@
         "r": 397.3125,
         "b": 207.74625000000003
       },
-      "content": "Tyco Healthcare UK Ltd. 154 Fareham Road, Gosport PO13 OAS, U.K."
+      "content": "Tyco Healthcare UK Ltd. 154 Fareham Road, Gosport PO13 OAS, U.K.",
+      "section_id": "sec_auto_7",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_7",
+          "title": "Tyco Healthcare EMEA (Europe, Middle East and Africa)"
+        }
+      ],
+      "page": 2,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -105,7 +179,19 @@
       },
       "content": "EU Representative",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_9",
+      "section_path": [
+        {
+          "id": "sec_auto_9",
+          "title": "EU Representative"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 2,
+      "page": 2,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -118,7 +204,20 @@
         "r": 397.3125,
         "b": 153.74625000000003
       },
-      "content": "Tyco Healthcare UK Ltd. 154 Fareham Road, Gosport PO13 OAS, U.K. Tel: (44) 1 329 224 114 Fax: (44) 1 329 224 390"
+      "content": "Tyco Healthcare UK Ltd. 154 Fareham Road, Gosport PO13 OAS, U.K. Tel: (44) 1 329 224 114 Fax: (44) 1 329 224 390",
+      "section_id": "sec_auto_9",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_9",
+          "title": "EU Representative"
+        }
+      ],
+      "page": 2,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -131,7 +230,20 @@
         "r": 456.5625,
         "b": 113.24625000000003
       },
-      "content": "Manufactured for Tyco Healthcare Mansfield, MA 02048, U.S.A. Manufactured by Mediana Co.,Ltd. 231-6 Nonhyun-Dong, Kangnam-Ku, Seoul, Korea"
+      "content": "Manufactured for Tyco Healthcare Mansfield, MA 02048, U.S.A. Manufactured by Mediana Co.,Ltd. 231-6 Nonhyun-Dong, Kangnam-Ku, Seoul, Korea",
+      "section_id": "sec_auto_9",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_9",
+          "title": "EU Representative"
+        }
+      ],
+      "page": 2,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -144,7 +256,20 @@
         "r": 341.14955000000015,
         "b": 86.4375
       },
-      "content": "Copyright © 2003 Tyco Healthcare. All rights reserved."
+      "content": "Copyright © 2003 Tyco Healthcare. All rights reserved.",
+      "section_id": "sec_auto_9",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_9",
+          "title": "EU Representative"
+        }
+      ],
+      "page": 2,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -161,7 +286,20 @@
       "previous_block_id": "txt_0011",
       "image_hash": "3e9496e0a9871d761103f2447b14a6ea552655dcb391faf1c029811f5bb00377",
       "width": 41,
-      "height": 43
+      "height": 43,
+      "section_id": "sec_auto_9",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_9",
+          "title": "EU Representative"
+        }
+      ],
+      "page": 2,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

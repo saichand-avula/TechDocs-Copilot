@@ -20,7 +20,24 @@
       "image_path": "figures/figure_0053.png",
       "image_hash": "7577891dcf1743bd2e7a735ef2621e01244d960bde43e28868c27d7c1437ddb9",
       "width": 47,
-      "height": 23
+      "height": 23,
+      "section_id": "sec_2_8",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_2_8",
+          "title": "2.8    Electrical diagrams"
+        }
+      ],
+      "page": 28,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -35,7 +52,24 @@
       },
       "markdown": "| Reference   | Motors                                           |\n|-------------|--------------------------------------------------|\n| M1          | Compressor motor                                 |\n| M2          | Fan motor (on air-cooled compressors)            |\n| M3          | Fan motor, cubicle (on water-cooled compressors) |",
       "rows": 4,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_2_8",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_2_8",
+          "title": "2.8    Electrical diagrams"
+        }
+      ],
+      "page": 28,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -50,7 +84,24 @@
       },
       "markdown": "| Reference   | Electric cabinet            |\n|-------------|-----------------------------|\n| F1-18       | Fuses                       |\n| F21         | Overload relay, drive motor |\n| K21         | Line contactor              |\n| K22         | Star contactor              |\n| K23         | Delta contactor             |\n| T1          | Transformers                |\n| 1X0-1X5     | Terminal strips             |\n| X101-133    | Connectors                  |",
       "rows": 9,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_2_8",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_2_8",
+          "title": "2.8    Electrical diagrams"
+        }
+      ],
+      "page": 28,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -65,7 +116,24 @@
       },
       "markdown": "| Reference   | Compressor control module                   |\n|-------------|---------------------------------------------|\n| I           | Start button                                |\n| O           | Stop button                                 |\n| S3          | Emergency stop button                       |\n| K01         | Blocking relay                              |\n| K02         | Auxiliary relay, star contactor             |\n| K03         | Auxiliary relay, delta contactor            |\n| K04         | Auxiliary relay, loading/unloading          |\n| K05         | Auxiliary relay, general shut-down          |\n| K06         | Auxiliary relay, dryer                      |\n| K07         | Auxiliary relay, manual/automatic operation |\n| K08         | Auxiliary relay, warning                    |\n| K09         | Auxiliary relay, fan control                |",
       "rows": 13,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_2_8",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_2_8",
+          "title": "2.8    Electrical diagrams"
+        }
+      ],
+      "page": 28,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

@@ -18,8 +18,21 @@
         "b": 773.289497
       },
       "content": "5.Funcitions and Control",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "5",
+      "section_id": "sec_5",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 97,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -34,7 +47,24 @@
       },
       "content": "5.1 Main functions and control specification of indoor unit",
       "level": 2,
-      "role": "section"
+      "section_number": "5.1",
+      "section_id": "sec_5_1",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_5_1",
+          "title": "5.1 Main functions and control specification of indoor unit"
+        }
+      ],
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "page": 97,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -47,7 +77,24 @@
         "r": 548.0387607000002,
         "b": 693.1249604000001
       },
-      "content": "This specification use for HSU12/18VHJ ˄ DB ˅ frequency conversion air condition are manufactured by Haier air condition parent company. \"Setting value\" (express in parameter) in this specification means is a parameter that is stored in EEPROM. Refer to [EEPROM parameter table]."
+      "content": "This specification use for HSU12/18VHJ ˄ DB ˅ frequency conversion air condition are manufactured by Haier air condition parent company. \"Setting value\" (express in parameter) in this specification means is a parameter that is stored in EEPROM. Refer to [EEPROM parameter table].",
+      "section_id": "sec_5_1",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_5_1",
+          "title": "5.1 Main functions and control specification of indoor unit"
+        }
+      ],
+      "page": 97,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -61,8 +108,29 @@
         "b": 667.8633900000001
       },
       "content": "5.1.1 Temperature Adjusting function",
-      "level": 2,
-      "role": "section"
+      "level": 3,
+      "section_number": "5.1.1",
+      "section_id": "sec_5_1_1",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_5_1",
+          "title": "5.1 Main functions and control specification of indoor unit"
+        },
+        {
+          "id": "sec_5_1_1",
+          "title": "5.1.1 Temperature Adjusting function"
+        }
+      ],
+      "parent_section_id": "sec_5_1",
+      "section_level": 3,
+      "page": 97,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -76,8 +144,33 @@
         "b": 645.482614
       },
       "content": "5.1.1.1 Temperature adjusting of different levels.",
-      "level": 2,
-      "role": "section"
+      "level": 4,
+      "section_number": "5.1.1.1",
+      "section_id": "sec_5_1_1_1",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_5_1",
+          "title": "5.1 Main functions and control specification of indoor unit"
+        },
+        {
+          "id": "sec_5_1_1",
+          "title": "5.1.1 Temperature Adjusting function"
+        },
+        {
+          "id": "sec_5_1_1_1",
+          "title": "5.1.1.1 Temperature adjusting of different levels."
+        }
+      ],
+      "parent_section_id": "sec_5_1_1",
+      "section_level": 4,
+      "page": 97,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -90,7 +183,32 @@
         "r": 336.1891615799994,
         "b": 630.8997320000001
       },
-      "content": "(DASH operation conditions under different modes)"
+      "content": "(DASH operation conditions under different modes)",
+      "section_id": "sec_5_1_1_1",
+      "parent_section_id": "sec_5_1_1",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_5_1",
+          "title": "5.1 Main functions and control specification of indoor unit"
+        },
+        {
+          "id": "sec_5_1_1",
+          "title": "5.1.1 Temperature Adjusting function"
+        },
+        {
+          "id": "sec_5_1_1_1",
+          "title": "5.1.1.1 Temperature adjusting of different levels."
+        }
+      ],
+      "page": 97,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -108,7 +226,32 @@
       "next_block_id": "txt_0763",
       "image_hash": "b572a139069fb345612225df1a1d97fd63c5f284f5ae7d024ec11dad88a29acf",
       "width": 445,
-      "height": 239
+      "height": 239,
+      "section_id": "sec_5_1_1_1",
+      "parent_section_id": "sec_5_1_1",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_5_1",
+          "title": "5.1 Main functions and control specification of indoor unit"
+        },
+        {
+          "id": "sec_5_1_1",
+          "title": "5.1.1 Temperature Adjusting function"
+        },
+        {
+          "id": "sec_5_1_1_1",
+          "title": "5.1.1.1 Temperature adjusting of different levels."
+        }
+      ],
+      "page": 97,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -122,8 +265,33 @@
         "b": 334.350614
       },
       "content": "5.1.1.2 Select the wind volume when it is set automatic",
-      "level": 2,
-      "role": "section"
+      "level": 4,
+      "section_number": "5.1.1.2",
+      "section_id": "sec_5_1_1_2",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_5_1",
+          "title": "5.1 Main functions and control specification of indoor unit"
+        },
+        {
+          "id": "sec_5_1_1",
+          "title": "5.1.1 Temperature Adjusting function"
+        },
+        {
+          "id": "sec_5_1_1_2",
+          "title": "5.1.1.2 Select the wind volume when it is set automatic"
+        }
+      ],
+      "parent_section_id": "sec_5_1_1",
+      "section_level": 4,
+      "page": 97,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -136,7 +304,32 @@
         "r": 547.6527143399999,
         "b": 304.54928259999997
       },
-      "content": "When the wind volume is automatic, it can be switched between strong, medium and weak according to the temperature adjusting levels."
+      "content": "When the wind volume is automatic, it can be switched between strong, medium and weak according to the temperature adjusting levels.",
+      "section_id": "sec_5_1_1_2",
+      "parent_section_id": "sec_5_1_1",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_5_1",
+          "title": "5.1 Main functions and control specification of indoor unit"
+        },
+        {
+          "id": "sec_5_1_1",
+          "title": "5.1.1 Temperature Adjusting function"
+        },
+        {
+          "id": "sec_5_1_1_2",
+          "title": "5.1.1.2 Select the wind volume when it is set automatic"
+        }
+      ],
+      "page": 97,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -149,7 +342,32 @@
         "r": 336.1424712000008,
         "b": 288.9914272
       },
-      "content": "Wind volume under the automatic wind volume mode"
+      "content": "Wind volume under the automatic wind volume mode",
+      "section_id": "sec_5_1_1_2",
+      "parent_section_id": "sec_5_1_1",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_5_1",
+          "title": "5.1 Main functions and control specification of indoor unit"
+        },
+        {
+          "id": "sec_5_1_1",
+          "title": "5.1.1 Temperature Adjusting function"
+        },
+        {
+          "id": "sec_5_1_1_2",
+          "title": "5.1.1.2 Select the wind volume when it is set automatic"
+        }
+      ],
+      "page": 97,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -164,7 +382,32 @@
       },
       "markdown": "|                   | Temperature adjusting levels   | Temperature adjusting levels   | Temperature adjusting levels   | Temperature adjusting levels   | Temperature adjusting levels   | Temperature adjusting levels   | Temperature adjusting levels   | Temperature adjusting levels   | Temperature adjusting levels   |\n|-------------------|--------------------------------|--------------------------------|--------------------------------|--------------------------------|--------------------------------|--------------------------------|--------------------------------|--------------------------------|--------------------------------|\n|                   | A                              | B                              | C                              | D                              | E                              | F                              | G                              | H                              | I                              |\n| Heating           | Strong                         | Strong                         | Strong                         | Strong                         | Strong                         | Medium                         | Weak                           | Weak                           | SLO                            |\n| cooling           |                                | Strong                         | Strong                         | Strong                         | Medium                         | Medium                         | Weak                           | Weak                           | Weak                           |\n| Moisture removing |                                | Strong                         | Medium                         | Medium                         | Medium                         | Weak                           | Weak                           | SLO                            | SLO                            |",
       "rows": 5,
-      "cols": 9
+      "cols": 9,
+      "section_id": "sec_5_1_1_2",
+      "parent_section_id": "sec_5_1_1",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5.Funcitions and Control"
+        },
+        {
+          "id": "sec_5_1",
+          "title": "5.1 Main functions and control specification of indoor unit"
+        },
+        {
+          "id": "sec_5_1_1",
+          "title": "5.1.1 Temperature Adjusting function"
+        },
+        {
+          "id": "sec_5_1_1_2",
+          "title": "5.1.1.2 Select the wind volume when it is set automatic"
+        }
+      ],
+      "page": 97,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

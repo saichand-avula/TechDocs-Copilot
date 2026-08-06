@@ -18,8 +18,21 @@
         "b": 733.5829409281769
       },
       "content": "1. General",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "1",
+      "section_id": "sec_1",
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. General"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 15,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -32,7 +45,20 @@
         "r": 527.1456299999999,
         "b": 682.5831449281769
       },
-      "content": "The purpose of safety notice is to avoid personal injury or damage to the equipment from accidental events."
+      "content": "The purpose of safety notice is to avoid personal injury or damage to the equipment from accidental events.",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. General"
+        }
+      ],
+      "page": 15,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -45,7 +71,20 @@
         "r": 527.2067519999999,
         "b": 648.5632409281769
       },
-      "content": "The expressions DANGER, WARNING or CAUTION used in this manual, have a special meaning, which is stated below:"
+      "content": "The expressions DANGER, WARNING or CAUTION used in this manual, have a special meaning, which is stated below:",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. General"
+        }
+      ],
+      "page": 15,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -63,7 +102,20 @@
       "next_block_id": "txt_0114",
       "image_hash": "15b7f66383771b574984503453e87d0ffb4a94c7e107cd5afeca8307fc17491c",
       "width": 119,
-      "height": 40
+      "height": 40,
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. General"
+        }
+      ],
+      "page": 15,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -81,7 +133,20 @@
       "next_block_id": "txt_0114",
       "image_hash": "1eab3264d6bebc27f1269a81103f01677016e9b5ccd38cfbd5ac69198fd2ad6a",
       "width": 119,
-      "height": 39
+      "height": 39,
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. General"
+        }
+      ],
+      "page": 15,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -99,7 +164,20 @@
       "next_block_id": "txt_0114",
       "image_hash": "26e60cf26e229d7c46eda7a388c1adc214b43fb162b048b852452d69321b267b",
       "width": 112,
-      "height": 36
+      "height": 36,
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. General"
+        }
+      ],
+      "page": 15,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -112,7 +190,20 @@
         "r": 458.13688799999886,
         "b": 590.5429409281768
       },
-      "content": "Failure to comply may result in personal death."
+      "content": "Failure to comply may result in personal death.",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. General"
+        }
+      ],
+      "page": 15,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -125,7 +216,20 @@
         "r": 527.1566699999997,
         "b": 486.5630489281768
       },
-      "content": "Failure to comply may result in personal severe injury or lethal damage to the machine."
+      "content": "Failure to comply may result in personal severe injury or lethal damage to the machine.",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. General"
+        }
+      ],
+      "page": 15,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -138,7 +242,20 @@
         "r": 527.1538319999981,
         "b": 382.58304892817677
       },
-      "content": "Failure to comply may result in personal light injury or damage to the machine."
+      "content": "Failure to comply may result in personal light injury or damage to the machine.",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. General"
+        }
+      ],
+      "page": 15,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -151,7 +268,20 @@
         "r": 527.1628499999991,
         "b": 302.5432889281767
       },
-      "content": "Read and observe instructions of the name plate on the machine. Also, do not change the position of the name plate or damage it. If broken, purchase it with the no. of item shown in Part List."
+      "content": "Read and observe instructions of the name plate on the machine. Also, do not change the position of the name plate or damage it. If broken, purchase it with the no. of item shown in Part List.",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. General"
+        }
+      ],
+      "page": 15,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -164,7 +294,20 @@
         "r": 527.21796,
         "b": 251.54349292817676
       },
-      "content": "Before Servicing this machine, thoroughly be familiar with this instruction and the notice of nameplate."
+      "content": "Before Servicing this machine, thoroughly be familiar with this instruction and the notice of nameplate.",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. General"
+        }
+      ],
+      "page": 15,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -177,7 +320,20 @@
         "r": 387.5451719999998,
         "b": 234.5636009281768
       },
-      "content": "We're not responsible for damage due to your careless use."
+      "content": "We're not responsible for damage due to your careless use.",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. General"
+        }
+      ],
+      "page": 15,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

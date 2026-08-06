@@ -19,7 +19,19 @@
       },
       "content": "Final alignment (hot alignment) checks",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_513",
+      "section_path": [
+        {
+          "id": "sec_auto_513",
+          "title": "Final alignment (hot alignment) checks"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 2,
+      "page": 30,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -34,7 +46,20 @@
       },
       "markdown": "| When                | Why                                                                                            |\n|---------------------|------------------------------------------------------------------------------------------------|\n| After the first run | This ensures correct alignment when both the pump and the driver are at operating temperature. |\n| Periodically        | This follows the plant operating procedures.                                                   |",
       "rows": 3,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_auto_513",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_513",
+          "title": "Final alignment (hot alignment) checks"
+        }
+      ],
+      "page": 30,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -49,7 +74,19 @@
       },
       "content": "Permitted indicator values for alignment checks",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_515",
+      "section_path": [
+        {
+          "id": "sec_auto_515",
+          "title": "Permitted indicator values for alignment checks"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 2,
+      "page": 30,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "admonition",
@@ -63,7 +100,20 @@
         "b": 583.88185
       },
       "content": "NOTICE: The specified permitted reading values are valid only at operating temperature. For cold settings, other values are permitted. You must use the correct tolerances. Failure to do so can result in misalignment and reduced pump reliability.",
-      "severity": "note"
+      "severity": "note",
+      "section_id": "sec_auto_515",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_515",
+          "title": "Permitted indicator values for alignment checks"
+        }
+      ],
+      "page": 30,
+      "chunk_hint": "admonition",
+      "semantic_role": "note",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -76,7 +126,20 @@
         "r": 546.5499800000005,
         "b": 550.36184
       },
-      "content": "When dial indicators are used to check the final alignment, the pump and drive unit are correctly aligned when these conditions are true:"
+      "content": "When dial indicators are used to check the final alignment, the pump and drive unit are correctly aligned when these conditions are true:",
+      "section_id": "sec_auto_515",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_515",
+          "title": "Permitted indicator values for alignment checks"
+        }
+      ],
+      "page": 30,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -89,7 +152,20 @@
         "r": 509.51996000000014,
         "b": 536.56184
       },
-      "content": "The total indicator runout is a maximum of 0.002 in. (0.05 mm) at operating temperature."
+      "content": "The total indicator runout is a maximum of 0.002 in. (0.05 mm) at operating temperature.",
+      "section_id": "sec_auto_515",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_515",
+          "title": "Permitted indicator values for alignment checks"
+        }
+      ],
+      "page": 30,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -102,7 +178,20 @@
         "r": 554.3599600000002,
         "b": 510.76183999999995
       },
-      "content": "The tolerance of the indicator is 0.0005 in./in. (0.0127 mm/mm) of indicator separation at operating temperature."
+      "content": "The tolerance of the indicator is 0.0005 in./in. (0.0127 mm/mm) of indicator separation at operating temperature.",
+      "section_id": "sec_auto_515",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_515",
+          "title": "Permitted indicator values for alignment checks"
+        }
+      ],
+      "page": 30,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -117,7 +206,19 @@
       },
       "content": "Cold settings for parallel vertical alignment",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_520",
+      "section_path": [
+        {
+          "id": "sec_auto_520",
+          "title": "Cold settings for parallel vertical alignment"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 2,
+      "page": 30,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -130,7 +231,20 @@
         "r": 107.76193,
         "b": 472.76181999999994
       },
-      "content": "Introduction This section shows the recommended preliminary (cold) settings for electric motor-driven pumps based on different temperatures of  pumped fluid. Consult driver manufacturers for recommended cold settings for other types of  drivers such as steam turbines and engines."
+      "content": "Introduction This section shows the recommended preliminary (cold) settings for electric motor-driven pumps based on different temperatures of  pumped fluid. Consult driver manufacturers for recommended cold settings for other types of  drivers such as steam turbines and engines.",
+      "section_id": "sec_auto_520",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_520",
+          "title": "Cold settings for parallel vertical alignment"
+        }
+      ],
+      "page": 30,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -145,7 +259,19 @@
       },
       "content": "Recommended settings for models 3196, CV 3196, and LF 3196",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_522",
+      "section_path": [
+        {
+          "id": "sec_auto_522",
+          "title": "Recommended settings for models 3196, CV 3196, and LF 3196"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 2,
+      "page": 30,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -160,7 +286,20 @@
       },
       "markdown": "| Pumpage temperature   | Recommended setting       |\n|-----------------------|---------------------------|\n| 50°F (10°C)           | 0.002 in. (0.05 mm), low  |\n| 150°F (65°C)          | 0.001 in. (0.03 mm), high |\n| 250°F (120°C)         | 0.005 in. (0.12 mm), high |\n| 350°F (175°C)         | 0.009 in. (0.23 mm), high |\n| 450°F (218°C)         | 0.013 in. (0.33 mm), high |\n| 550°F (228°C)         | 0.017 in. (0.43 mm), high |\n| 650°F (343°C)         | 0.021 in. (0.53 mm), high |\n| 700°F (371°C)         | 0.023 in. (0.58 mm), high |",
       "rows": 9,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_auto_522",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_522",
+          "title": "Recommended settings for models 3196, CV 3196, and LF 3196"
+        }
+      ],
+      "page": 30,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -175,7 +314,19 @@
       },
       "content": "Alignment measurement guidelines",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_524",
+      "section_path": [
+        {
+          "id": "sec_auto_524",
+          "title": "Alignment measurement guidelines"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 2,
+      "page": 30,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -190,7 +341,20 @@
       },
       "markdown": "| Guideline                                                                                                                                                     | Explanation                                                                   |\n|---------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|\n| Rotate the pump coupling half and the driver coupling half together so that the indicator rods have contact with the same points on the driver coupling half. | This prevents incorrect measurement.                                          |\n| Move or shim only the driver in order to make adjustments.                                                                                                    | This prevents strain on the piping installations.                             |\n| Make sure that the hold-down bolts for the driver feet are tight when you take indicator measurements.                                                        | This keeps the driver stationary since movement causes incorrect measurement. |",
       "rows": 4,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_auto_524",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_524",
+          "title": "Alignment measurement guidelines"
+        }
+      ],
+      "page": 30,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

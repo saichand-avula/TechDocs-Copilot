@@ -18,8 +18,25 @@
         "b": 726.9695302479339
       },
       "content": "5.2.8",
-      "level": 2,
-      "role": "section"
+      "level": 3,
+      "section_number": "5.2.8",
+      "section_id": "sec_5_2_8",
+      "section_path": [
+        {
+          "id": "sec_auto_607",
+          "title": "DISPLAY TEST"
+        },
+        {
+          "id": "sec_5_2_8",
+          "title": "5.2.8"
+        }
+      ],
+      "parent_section_id": "sec_auto_607",
+      "section_level": 3,
+      "page": 65,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -34,7 +51,19 @@
       },
       "content": "KEYPAD VERIFICATION/FUNCTIONAL TEST",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_618",
+      "section_path": [
+        {
+          "id": "sec_auto_618",
+          "title": "KEYPAD VERIFICATION/FUNCTIONAL TEST"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 2,
+      "page": 65,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -48,7 +77,20 @@
         "b": 686.2073449280329
       },
       "content": "To perform the keypad verification/functional test, see Figure 5-1 , then proceed as follows:",
-      "hyperlink_hint": true
+      "hyperlink_hint": true,
+      "section_id": "sec_auto_618",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_618",
+          "title": "KEYPAD VERIFICATION/FUNCTIONAL TEST"
+        }
+      ],
+      "page": 65,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -61,7 +103,20 @@
         "r": 526.8196157011995,
         "b": 662.2076052319328
       },
-      "content": "With the infuser in the DELIVERY screen, press the [A] softkey to select line A."
+      "content": "With the infuser in the DELIVERY screen, press the [A] softkey to select line A.",
+      "section_id": "sec_auto_618",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_618",
+          "title": "KEYPAD VERIFICATION/FUNCTIONAL TEST"
+        }
+      ],
+      "page": 65,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -74,7 +129,20 @@
         "r": 343.98789533539986,
         "b": 646.7875177499328
       },
-      "content": "Verify the PROGRAM screen is displayed."
+      "content": "Verify the PROGRAM screen is displayed.",
+      "section_id": "sec_auto_618",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_618",
+          "title": "KEYPAD VERIFICATION/FUNCTIONAL TEST"
+        }
+      ],
+      "page": 65,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -87,7 +155,20 @@
         "r": 360.4834646972001,
         "b": 631.3674302679328
       },
-      "content": "Enter a rate of 123 mL/hr and VTBI of 4567."
+      "content": "Enter a rate of 123 mL/hr and VTBI of 4567.",
+      "section_id": "sec_auto_618",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_618",
+          "title": "KEYPAD VERIFICATION/FUNCTIONAL TEST"
+        }
+      ],
+      "page": 65,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -100,7 +181,20 @@
         "r": 539.9788805133003,
         "b": 604.4872556798329
       },
-      "content": "Press [START] and verify the 'CONFIRM PROGRAM?' message is displayed. If rate and VTBI are correct, press [YES]."
+      "content": "Press [START] and verify the 'CONFIRM PROGRAM?' message is displayed. If rate and VTBI are correct, press [YES].",
+      "section_id": "sec_auto_618",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_618",
+          "title": "KEYPAD VERIFICATION/FUNCTIONAL TEST"
+        }
+      ],
+      "page": 65,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -113,7 +207,20 @@
         "r": 539.8033851371014,
         "b": 577.6070810917329
       },
-      "content": "Verify fluid is pumping, the message 'PUMPING' is displayed in the line A status bar, and the line A LED flashes."
+      "content": "Verify fluid is pumping, the message 'PUMPING' is displayed in the line A status bar, and the line A LED flashes.",
+      "section_id": "sec_auto_618",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_618",
+          "title": "KEYPAD VERIFICATION/FUNCTIONAL TEST"
+        }
+      ],
+      "page": 65,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -126,7 +233,20 @@
         "r": 438.0629785881995,
         "b": 562.1272335497329
       },
-      "content": "Press [STOP], then press and hold the [BACKPRIME] softkey."
+      "content": "Press [STOP], then press and hold the [BACKPRIME] softkey.",
+      "section_id": "sec_auto_618",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_618",
+          "title": "KEYPAD VERIFICATION/FUNCTIONAL TEST"
+        }
+      ],
+      "page": 65,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -139,7 +259,20 @@
         "r": 539.891033225101,
         "b": 535.2471585617329
       },
-      "content": "Verify  the  'BACKPRIMING'  and  'RELEASE  BACKPRIME  TO  STOP'  messages are displayed, and verify the infuser is actually backpriming."
+      "content": "Verify  the  'BACKPRIMING'  and  'RELEASE  BACKPRIME  TO  STOP'  messages are displayed, and verify the infuser is actually backpriming.",
+      "section_id": "sec_auto_618",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_618",
+          "title": "KEYPAD VERIFICATION/FUNCTIONAL TEST"
+        }
+      ],
+      "page": 65,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -152,7 +285,20 @@
         "r": 539.9448172791002,
         "b": 508.3670835737329
       },
-      "content": "Release  the  [BACKPRIME]  softkey,  press  [START],  and  verify  normal  pumping operation."
+      "content": "Release  the  [BACKPRIME]  softkey,  press  [START],  and  verify  normal  pumping operation.",
+      "section_id": "sec_auto_618",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_618",
+          "title": "KEYPAD VERIFICATION/FUNCTIONAL TEST"
+        }
+      ],
+      "page": 65,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -165,7 +311,20 @@
         "r": 243.01819436029987,
         "b": 492.9469960917329
       },
-      "content": "Press the [B] softkey."
+      "content": "Press the [B] softkey.",
+      "section_id": "sec_auto_618",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_618",
+          "title": "KEYPAD VERIFICATION/FUNCTIONAL TEST"
+        }
+      ],
+      "page": 65,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -178,7 +337,20 @@
         "r": 540.0079637425004,
         "b": 466.0669211037329
       },
-      "content": "Verify PIGGYBACK is the displayed delivery mode. If necessary, change the delivery mode by pressing the [CHANGE MODE] softkey."
+      "content": "Verify PIGGYBACK is the displayed delivery mode. If necessary, change the delivery mode by pressing the [CHANGE MODE] softkey.",
+      "section_id": "sec_auto_618",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_618",
+          "title": "KEYPAD VERIFICATION/FUNCTIONAL TEST"
+        }
+      ],
+      "page": 65,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -191,7 +363,20 @@
         "r": 360.482269496,
         "b": 450.6468336217329
       },
-      "content": "Enter a rate of 890 mL/hr and VTBI of 2 mL."
+      "content": "Enter a rate of 890 mL/hr and VTBI of 2 mL.",
+      "section_id": "sec_auto_618",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_618",
+          "title": "KEYPAD VERIFICATION/FUNCTIONAL TEST"
+        }
+      ],
+      "page": 65,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -204,7 +389,20 @@
         "r": 540.0083621429002,
         "b": 423.7666590336329
       },
-      "content": "Press [START] and verify the 'CONFIRM PROGRAM?' message is displayed. If rate and VTBI are correct, press [YES]."
+      "content": "Press [START] and verify the 'CONFIRM PROGRAM?' message is displayed. If rate and VTBI are correct, press [YES].",
+      "section_id": "sec_auto_618",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_618",
+          "title": "KEYPAD VERIFICATION/FUNCTIONAL TEST"
+        }
+      ],
+      "page": 65,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -217,7 +415,20 @@
         "r": 539.9888405232999,
         "b": 396.88648444553286
       },
-      "content": "Verify fluid is pumping, the message 'PUMPING' is displayed in the line B status bar, and the line B LED flashes."
+      "content": "Verify fluid is pumping, the message 'PUMPING' is displayed in the line B status bar, and the line B LED flashes.",
+      "section_id": "sec_auto_618",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_618",
+          "title": "KEYPAD VERIFICATION/FUNCTIONAL TEST"
+        }
+      ],
+      "page": 65,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -230,7 +441,20 @@
         "r": 414.9229869552994,
         "b": 381.40663690353284
       },
-      "content": "After 20 seconds, verify pumping has switched to line A."
+      "content": "After 20 seconds, verify pumping has switched to line A.",
+      "section_id": "sec_auto_618",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_618",
+          "title": "KEYPAD VERIFICATION/FUNCTIONAL TEST"
+        }
+      ],
+      "page": 65,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -243,7 +467,20 @@
         "r": 205.9579931513001,
         "b": 365.98654942153286
       },
-      "content": "Press [STOP]."
+      "content": "Press [STOP].",
+      "section_id": "sec_auto_618",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_618",
+          "title": "KEYPAD VERIFICATION/FUNCTIONAL TEST"
+        }
+      ],
+      "page": 65,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -256,7 +493,20 @@
         "r": 497.38111294449976,
         "b": 350.56646193953287
       },
-      "content": "Press [OPTIONS/VOL INF]. Select Volume Infused and press [CHOOSE]."
+      "content": "Press [OPTIONS/VOL INF]. Select Volume Infused and press [CHOOSE].",
+      "section_id": "sec_auto_618",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_618",
+          "title": "KEYPAD VERIFICATION/FUNCTIONAL TEST"
+        }
+      ],
+      "page": 65,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -269,7 +519,20 @@
         "r": 203.49886668230016,
         "b": 335.08661439753286
       },
-      "content": "Select line A."
+      "content": "Select line A.",
+      "section_id": "sec_auto_618",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_618",
+          "title": "KEYPAD VERIFICATION/FUNCTIONAL TEST"
+        }
+      ],
+      "page": 65,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -282,7 +545,20 @@
         "r": 452.47620865930026,
         "b": 319.66652691553287
       },
-      "content": "Press [CLEAR]. Verify line A volume is 0 mL and press [ENTER]."
+      "content": "Press [CLEAR]. Verify line A volume is 0 mL and press [ENTER].",
+      "section_id": "sec_auto_618",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_618",
+          "title": "KEYPAD VERIFICATION/FUNCTIONAL TEST"
+        }
+      ],
+      "page": 65,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -296,8 +572,25 @@
         "b": 281.9496602479339
       },
       "content": "5.2.9",
-      "level": 2,
-      "role": "section"
+      "level": 3,
+      "section_number": "5.2.9",
+      "section_id": "sec_5_2_9",
+      "section_path": [
+        {
+          "id": "sec_auto_618",
+          "title": "KEYPAD VERIFICATION/FUNCTIONAL TEST"
+        },
+        {
+          "id": "sec_5_2_9",
+          "title": "5.2.9"
+        }
+      ],
+      "parent_section_id": "sec_auto_618",
+      "section_level": 3,
+      "page": 65,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -312,7 +605,19 @@
       },
       "content": "ALARM LOUDNESS TEST",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_639",
+      "section_path": [
+        {
+          "id": "sec_auto_639",
+          "title": "ALARM LOUDNESS TEST"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 2,
+      "page": 65,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -325,7 +630,20 @@
         "r": 378.3366830221005,
         "b": 241.18733492803278
       },
-      "content": "To perform the alarm loudness test, proceed as follows:"
+      "content": "To perform the alarm loudness test, proceed as follows:",
+      "section_id": "sec_auto_639",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_639",
+          "title": "ALARM LOUDNESS TEST"
+        }
+      ],
+      "page": 65,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -338,7 +656,20 @@
         "r": 316.6066326442,
         "b": 217.18759523193285
       },
-      "content": "Press the [A] softkey to select line A."
+      "content": "Press the [A] softkey to select line A.",
+      "section_id": "sec_auto_639",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_639",
+          "title": "ALARM LOUDNESS TEST"
+        }
+      ],
+      "page": 65,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -351,7 +682,20 @@
         "r": 360.48645270019955,
         "b": 201.76750774993275
       },
-      "content": "Enter a rate of 400 mL/hr and VTBI of 1 mL."
+      "content": "Enter a rate of 400 mL/hr and VTBI of 1 mL.",
+      "section_id": "sec_auto_639",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_639",
+          "title": "ALARM LOUDNESS TEST"
+        }
+      ],
+      "page": 65,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -364,7 +708,20 @@
         "r": 539.9779841124001,
         "b": 174.8874327619328
       },
-      "content": "Press [START] and verify the 'CONFIRM PROGRAM?' message is displayed. If rate and VTBI are correct, press [YES]."
+      "content": "Press [START] and verify the 'CONFIRM PROGRAM?' message is displayed. If rate and VTBI are correct, press [YES].",
+      "section_id": "sec_auto_639",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_639",
+          "title": "ALARM LOUDNESS TEST"
+        }
+      ],
+      "page": 65,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -377,7 +734,20 @@
         "r": 539.8024887362013,
         "b": 148.00735777393277
       },
-      "content": "Verify fluid is pumping, the message 'PUMPING' is displayed in the line A status bar, and the line A LED flashes."
+      "content": "Verify fluid is pumping, the message 'PUMPING' is displayed in the line A status bar, and the line A LED flashes.",
+      "section_id": "sec_auto_639",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_639",
+          "title": "ALARM LOUDNESS TEST"
+        }
+      ],
+      "page": 65,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -390,7 +760,20 @@
         "r": 428.41372090019934,
         "b": 132.58727029193278
       },
-      "content": "Verify the alarm sounds when the dose has been delivered."
+      "content": "Verify the alarm sounds when the dose has been delivered.",
+      "section_id": "sec_auto_639",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_639",
+          "title": "ALARM LOUDNESS TEST"
+        }
+      ],
+      "page": 65,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -404,7 +787,20 @@
         "b": 105.70709570383269
       },
       "content": "Turn the volume control knob between HIGH and LOW (see Figure 5-2) . Verify the alarm loudness changes.",
-      "hyperlink_hint": true
+      "hyperlink_hint": true,
+      "section_id": "sec_auto_639",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_639",
+          "title": "ALARM LOUDNESS TEST"
+        }
+      ],
+      "page": 65,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -417,7 +813,20 @@
         "r": 416.11221214930055,
         "b": 90.22724816183268
       },
-      "content": "Press the SILENCE key, and verify the alarm is silenced."
+      "content": "Press the SILENCE key, and verify the alarm is silenced.",
+      "section_id": "sec_auto_639",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_639",
+          "title": "ALARM LOUDNESS TEST"
+        }
+      ],
+      "page": 65,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -430,7 +839,20 @@
         "r": 205.96755476089993,
         "b": 74.80716067983269
       },
-      "content": "Press [STOP]."
+      "content": "Press [STOP].",
+      "section_id": "sec_auto_639",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_639",
+          "title": "ALARM LOUDNESS TEST"
+        }
+      ],
+      "page": 65,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

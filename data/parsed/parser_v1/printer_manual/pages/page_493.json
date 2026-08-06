@@ -21,7 +21,24 @@
       "image_hash": "dd3ccaafe8241dd04c92da398bccb04c42ae02ea919dd6112ad760af8c27d480",
       "width": 14,
       "height": 13,
-      "next_block_id": "txt_3875"
+      "next_block_id": "txt_3875",
+      "section_id": "sec_auto_5303",
+      "parent_section_id": "sec_20",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_20",
+          "title": "20. Remove the fan (FM2)."
+        },
+        {
+          "id": "sec_auto_5303",
+          "title": "Turn the printer power off"
+        }
+      ],
+      "page": 493,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "admonition",
@@ -35,7 +52,24 @@
         "b": 706.2
       },
       "content": "WARNING! To avoid damage to the printer, turn the printer off, wait 30 seconds, and then remove the power cord before attempting to service the printer.",
-      "severity": "warning"
+      "severity": "warning",
+      "section_id": "sec_auto_5303",
+      "parent_section_id": "sec_20",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_20",
+          "title": "20. Remove the fan (FM2)."
+        },
+        {
+          "id": "sec_auto_5303",
+          "title": "Turn the printer power off"
+        }
+      ],
+      "page": 493,
+      "chunk_hint": "admonition",
+      "semantic_role": "warning",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -48,7 +82,24 @@
         "r": 479.47000000000025,
         "b": 671.7
       },
-      "content": "Use the table below to identify the correct part number for your printer . To order the part, go to www.hp.com/buy/parts."
+      "content": "Use the table below to identify the correct part number for your printer . To order the part, go to www.hp.com/buy/parts.",
+      "section_id": "sec_auto_5303",
+      "parent_section_id": "sec_20",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_20",
+          "title": "20. Remove the fan (FM2)."
+        },
+        {
+          "id": "sec_auto_5303",
+          "title": "Turn the printer power off"
+        }
+      ],
+      "page": 493,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -63,7 +114,23 @@
       },
       "content": "Table 1-39  Part number",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_5308",
+      "section_path": [
+        {
+          "id": "sec_20",
+          "title": "20. Remove the fan (FM2)."
+        },
+        {
+          "id": "sec_auto_5308",
+          "title": "Table 1-39  Part number"
+        }
+      ],
+      "parent_section_id": "sec_20",
+      "section_level": 2,
+      "page": 493,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -80,7 +147,24 @@
       "title": "Table 1-39  Part number",
       "table_number": "Table 1-39",
       "rows": 3,
-      "cols": 1
+      "cols": 1,
+      "section_id": "sec_auto_5308",
+      "parent_section_id": "sec_20",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_20",
+          "title": "20. Remove the fan (FM2)."
+        },
+        {
+          "id": "sec_auto_5308",
+          "title": "Table 1-39  Part number"
+        }
+      ],
+      "page": 493,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -95,7 +179,23 @@
       },
       "content": "Required tools",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_5310",
+      "section_path": [
+        {
+          "id": "sec_20",
+          "title": "20. Remove the fan (FM2)."
+        },
+        {
+          "id": "sec_auto_5310",
+          "title": "Required tools"
+        }
+      ],
+      "parent_section_id": "sec_20",
+      "section_level": 2,
+      "page": 493,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -108,7 +208,24 @@
         "r": 234.80999999999997,
         "b": 533.575
       },
-      "content": "Small flat-blade screwdriver"
+      "content": "Small flat-blade screwdriver",
+      "section_id": "sec_auto_5310",
+      "parent_section_id": "sec_20",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_20",
+          "title": "20. Remove the fan (FM2)."
+        },
+        {
+          "id": "sec_auto_5310",
+          "title": "Required tools"
+        }
+      ],
+      "page": 493,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -121,7 +238,24 @@
         "r": 423.9999800000002,
         "b": 512.32585
       },
-      "content": "#2 Phillips screwdriver with a magnetic tip and a 152 mm (6 in) shaft length"
+      "content": "#2 Phillips screwdriver with a magnetic tip and a 152 mm (6 in) shaft length",
+      "section_id": "sec_auto_5310",
+      "parent_section_id": "sec_20",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_20",
+          "title": "20. Remove the fan (FM2)."
+        },
+        {
+          "id": "sec_auto_5310",
+          "title": "Required tools"
+        }
+      ],
+      "page": 493,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -136,7 +270,23 @@
       },
       "content": "After performing service",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_5313",
+      "section_path": [
+        {
+          "id": "sec_20",
+          "title": "20. Remove the fan (FM2)."
+        },
+        {
+          "id": "sec_auto_5313",
+          "title": "After performing service"
+        }
+      ],
+      "parent_section_id": "sec_20",
+      "section_level": 2,
+      "page": 493,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -151,7 +301,23 @@
       },
       "content": "Turn the printer power on",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_5314",
+      "section_path": [
+        {
+          "id": "sec_20",
+          "title": "20. Remove the fan (FM2)."
+        },
+        {
+          "id": "sec_auto_5314",
+          "title": "Turn the printer power on"
+        }
+      ],
+      "parent_section_id": "sec_20",
+      "section_level": 2,
+      "page": 493,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -164,7 +330,24 @@
         "r": 222.84001999999998,
         "b": 446.07669999999996
       },
-      "content": "Connect the power cable."
+      "content": "Connect the power cable.",
+      "section_id": "sec_auto_5314",
+      "parent_section_id": "sec_20",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_20",
+          "title": "20. Remove the fan (FM2)."
+        },
+        {
+          "id": "sec_auto_5314",
+          "title": "Turn the printer power on"
+        }
+      ],
+      "page": 493,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -177,7 +360,24 @@
         "r": 294.29002,
         "b": 424.82756
       },
-      "content": "Use the power switch to turn the power on."
+      "content": "Use the power switch to turn the power on.",
+      "section_id": "sec_auto_5314",
+      "parent_section_id": "sec_20",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_20",
+          "title": "20. Remove the fan (FM2)."
+        },
+        {
+          "id": "sec_auto_5314",
+          "title": "Turn the printer power on"
+        }
+      ],
+      "page": 493,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -192,7 +392,23 @@
       },
       "content": "Post service test",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_5317",
+      "section_path": [
+        {
+          "id": "sec_20",
+          "title": "20. Remove the fan (FM2)."
+        },
+        {
+          "id": "sec_auto_5317",
+          "title": "Post service test"
+        }
+      ],
+      "parent_section_id": "sec_20",
+      "section_level": 2,
+      "page": 493,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -205,7 +421,24 @@
         "r": 311.99999999999994,
         "b": 379.57840999999996
       },
-      "content": "Make sure that the printer initializes to a Ready state."
+      "content": "Make sure that the printer initializes to a Ready state.",
+      "section_id": "sec_auto_5317",
+      "parent_section_id": "sec_20",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_20",
+          "title": "20. Remove the fan (FM2)."
+        },
+        {
+          "id": "sec_auto_5317",
+          "title": "Post service test"
+        }
+      ],
+      "page": 493,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -218,7 +451,24 @@
         "r": 373.2600000000001,
         "b": 358.57840999999996
       },
-      "content": "Remove the control panel (M506x/E50045x/M507x/E50145x)."
+      "content": "Remove the control panel (M506x/E50045x/M507x/E50145x).",
+      "section_id": "sec_auto_5317",
+      "parent_section_id": "sec_20",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_20",
+          "title": "20. Remove the fan (FM2)."
+        },
+        {
+          "id": "sec_auto_5317",
+          "title": "Post service test"
+        }
+      ],
+      "page": 493,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -231,7 +481,24 @@
         "r": 334.42997999999994,
         "b": 337.57840999999996
       },
-      "content": "Tilt the control panel to the fully raised position."
+      "content": "Tilt the control panel to the fully raised position.",
+      "section_id": "sec_auto_5317",
+      "parent_section_id": "sec_20",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_20",
+          "title": "20. Remove the fan (FM2)."
+        },
+        {
+          "id": "sec_auto_5317",
+          "title": "Post service test"
+        }
+      ],
+      "page": 493,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

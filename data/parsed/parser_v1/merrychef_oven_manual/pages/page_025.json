@@ -19,7 +19,23 @@
       },
       "content": "Electrical connected load ratings - X12 Standard power version",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_451",
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Technical data"
+        },
+        {
+          "id": "sec_auto_451",
+          "title": "Electrical connected load ratings - X12 Standard power version"
+        }
+      ],
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "page": 25,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -34,7 +50,24 @@
       },
       "markdown": "| Electrical supply                                                |     | 1N~ 220-230V 50Hz   | 1N~ 220-230V 50Hz   | 1N~ 220V 60Hz   | 2~ 208V 60Hz   |\n|------------------------------------------------------------------|-----|---------------------|---------------------|-----------------|----------------|\n| Connections used                                                 |     | L + N + E           | L + N + E           | L + N + E       | 2P + E         |\n| Arrangement                                                      |     | Single phase        | Single phase        | Single phase    | Two pole       |\n| Max power input                                                  | [W] | 2990                | 3680                | 2990            | 4500           |\n| Rated current per phase                                          | [A] | 13                  | 16                  | 13              | 20             |\n| Power output                                                     |     |                     |                     |                 |                |\n| Rated power output convected heat                                | [W] | 2200                | 2200                | 2200            | 2200           |\n| Rated power output microwave (IEC 705) 100%                      | [W] | 1000                | 1000                | 1000            | 1000           |\n| Rated power output combination mode (convected heat + microwave) | [W] | 900 + 1000          | 1300 + 1000         | 900 + 1000      | 1300 + 1000    |",
       "rows": 9,
-      "cols": 5
+      "cols": 5,
+      "section_id": "sec_auto_451",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Technical data"
+        },
+        {
+          "id": "sec_auto_451",
+          "title": "Electrical connected load ratings - X12 Standard power version"
+        }
+      ],
+      "page": 25,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -49,7 +82,23 @@
       },
       "content": "Electrical connected load ratings - X16 High power version",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_453",
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Technical data"
+        },
+        {
+          "id": "sec_auto_453",
+          "title": "Electrical connected load ratings - X16 High power version"
+        }
+      ],
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "page": 25,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -64,7 +113,24 @@
       },
       "markdown": "| Electrical supply                           |     | 1N~ 220-230V 50Hz   | 2N~ 380-400V 50Hz   | 1N~ 220V 60Hz   | 2~ 200V 50/60Hz   |\n|---------------------------------------------|-----|---------------------|---------------------|-----------------|-------------------|\n| Connections used                            |     | L + N + E           | L1 + L2 + N + E     | L + N + E       | 2P + E            |\n| Arrangement                                 |     | Single phase        | Twin phase          | Single phase    | Two pole          |\n| Max power input                             | [W] | 6000                | 2500 + 3300         | 6000            | 6000              |\n| Rated current per phase                     | [A] | 32                  | 16 / 32             | 32              | 32                |\n| Power output                                |     |                     |                     |                 |                   |\n| Rated power output convected heat           | [W] | 3200                | 3200                | 3200            | 3200              |\n| Rated power output microwave (IEC 705) 100% | [W] | 2000                | 2000                | 2000            | 2000              |\n| Rated power output combination mode         | [W] | 3200 + 2000         | 3200 + 2000         | 3200 + 2000     | 3200 + 2000       |",
       "rows": 9,
-      "cols": 5
+      "cols": 5,
+      "section_id": "sec_auto_453",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Technical data"
+        },
+        {
+          "id": "sec_auto_453",
+          "title": "Electrical connected load ratings - X16 High power version"
+        }
+      ],
+      "page": 25,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -79,7 +145,23 @@
       },
       "content": "Regulatory standards compliance",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_455",
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Technical data"
+        },
+        {
+          "id": "sec_auto_455",
+          "title": "Regulatory standards compliance"
+        }
+      ],
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "page": 25,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -94,7 +176,24 @@
       },
       "markdown": "| Degree of protection   | IPX3                   |\n|------------------------|------------------------|\n| Noise emission         | max. 65 [dBA]          |\n| Approval marks         |                        |\n| Tested safety          | UKCA, CE, CB (IEC), UL |\n| Hygiene                | UL-EPH (NSF/ANSI 4)    |",
       "rows": 5,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_auto_455",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Technical data"
+        },
+        {
+          "id": "sec_auto_455",
+          "title": "Regulatory standards compliance"
+        }
+      ],
+      "page": 25,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

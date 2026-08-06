@@ -18,8 +18,21 @@
         "b": 733.0429409281768
       },
       "content": "3-9-5. Alarm display and corresponding Coutermeasures",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "3",
+      "section_id": "sec_3",
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-9-5. Alarm display and corresponding Coutermeasures"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 173,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -34,7 +47,20 @@
       },
       "markdown": "| Alarm No.    | Alarm type             |\n|--------------|------------------------|\n| 000-299      | Program/Setting Alarm  |\n| 300-399. 401 | Pulse Coder Alarm      |\n| 400-499      | Servo Alarm            |\n| 500-599      | Over Travel Alarm      |\n| -            | System/ I/O Link Alarm |",
       "rows": 6,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_3",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-9-5. Alarm display and corresponding Coutermeasures"
+        }
+      ],
+      "page": 173,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -49,7 +75,23 @@
       },
       "content": "[ Program/Setting Alarm (PS Alarm) ]",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1601",
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-9-5. Alarm display and corresponding Coutermeasures"
+        },
+        {
+          "id": "sec_auto_1601",
+          "title": "[ Program/Setting Alarm (PS Alarm) ]"
+        }
+      ],
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "page": 173,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -66,7 +108,24 @@
       "previous_block_id": "txt_1249",
       "width": 25,
       "height": 39,
-      "image_hash": "939ff31a8eff54be3db6b3e0b94a26b4d87caacfe46161e9929655ce2f7b196f"
+      "image_hash": "939ff31a8eff54be3db6b3e0b94a26b4d87caacfe46161e9929655ce2f7b196f",
+      "section_id": "sec_auto_1601",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-9-5. Alarm display and corresponding Coutermeasures"
+        },
+        {
+          "id": "sec_auto_1601",
+          "title": "[ Program/Setting Alarm (PS Alarm) ]"
+        }
+      ],
+      "page": 173,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -83,7 +142,24 @@
       "previous_block_id": "txt_1249",
       "width": 25,
       "height": 20,
-      "image_hash": "778951547403526fc515d7152b830dcaecb4bf71ee3df609e354647dd00644fb"
+      "image_hash": "778951547403526fc515d7152b830dcaecb4bf71ee3df609e354647dd00644fb",
+      "section_id": "sec_auto_1601",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-9-5. Alarm display and corresponding Coutermeasures"
+        },
+        {
+          "id": "sec_auto_1601",
+          "title": "[ Program/Setting Alarm (PS Alarm) ]"
+        }
+      ],
+      "page": 173,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -100,7 +176,24 @@
       "previous_block_id": "txt_1249",
       "width": 25,
       "height": 20,
-      "image_hash": "648ada9ef0a961a8b74f0679db82fd970fb82dc1d54a5b1b031e7a948faf2fa4"
+      "image_hash": "648ada9ef0a961a8b74f0679db82fd970fb82dc1d54a5b1b031e7a948faf2fa4",
+      "section_id": "sec_auto_1601",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-9-5. Alarm display and corresponding Coutermeasures"
+        },
+        {
+          "id": "sec_auto_1601",
+          "title": "[ Program/Setting Alarm (PS Alarm) ]"
+        }
+      ],
+      "page": 173,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -117,7 +210,24 @@
       "previous_block_id": "txt_1249",
       "width": 26,
       "height": 20,
-      "image_hash": "139fa235e76f4a517548a3acd6dfbc9efd4cb2f0436cbe651b1792646531c469"
+      "image_hash": "139fa235e76f4a517548a3acd6dfbc9efd4cb2f0436cbe651b1792646531c469",
+      "section_id": "sec_auto_1601",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-9-5. Alarm display and corresponding Coutermeasures"
+        },
+        {
+          "id": "sec_auto_1601",
+          "title": "[ Program/Setting Alarm (PS Alarm) ]"
+        }
+      ],
+      "page": 173,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -134,7 +244,24 @@
       "previous_block_id": "txt_1249",
       "width": 25,
       "height": 20,
-      "image_hash": "627f237adc13be6f88276d75f1de8d0a4bc00df8dfdaa062f8ec80e92025b2ca"
+      "image_hash": "627f237adc13be6f88276d75f1de8d0a4bc00df8dfdaa062f8ec80e92025b2ca",
+      "section_id": "sec_auto_1601",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-9-5. Alarm display and corresponding Coutermeasures"
+        },
+        {
+          "id": "sec_auto_1601",
+          "title": "[ Program/Setting Alarm (PS Alarm) ]"
+        }
+      ],
+      "page": 173,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -151,7 +278,24 @@
       "previous_block_id": "txt_1249",
       "width": 26,
       "height": 41,
-      "image_hash": "8dd4f92383ebb2ebaebbe0c788c479e822faf5b21702a081fc9c5a1cb95905fc"
+      "image_hash": "8dd4f92383ebb2ebaebbe0c788c479e822faf5b21702a081fc9c5a1cb95905fc",
+      "section_id": "sec_auto_1601",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-9-5. Alarm display and corresponding Coutermeasures"
+        },
+        {
+          "id": "sec_auto_1601",
+          "title": "[ Program/Setting Alarm (PS Alarm) ]"
+        }
+      ],
+      "page": 173,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -168,7 +312,24 @@
       "previous_block_id": "txt_1249",
       "width": 26,
       "height": 21,
-      "image_hash": "62938fd7b280d2b064f894941f75800300f185c1342f736cdb645eba21a369c2"
+      "image_hash": "62938fd7b280d2b064f894941f75800300f185c1342f736cdb645eba21a369c2",
+      "section_id": "sec_auto_1601",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-9-5. Alarm display and corresponding Coutermeasures"
+        },
+        {
+          "id": "sec_auto_1601",
+          "title": "[ Program/Setting Alarm (PS Alarm) ]"
+        }
+      ],
+      "page": 173,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -185,7 +346,24 @@
       "previous_block_id": "txt_1249",
       "width": 25,
       "height": 19,
-      "image_hash": "bd01f6ebec96cb4f6cd266381686206307ba562c9c003cf3c3654c305dca2143"
+      "image_hash": "bd01f6ebec96cb4f6cd266381686206307ba562c9c003cf3c3654c305dca2143",
+      "section_id": "sec_auto_1601",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-9-5. Alarm display and corresponding Coutermeasures"
+        },
+        {
+          "id": "sec_auto_1601",
+          "title": "[ Program/Setting Alarm (PS Alarm) ]"
+        }
+      ],
+      "page": 173,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -202,7 +380,24 @@
       "previous_block_id": "txt_1249",
       "width": 25,
       "height": 20,
-      "image_hash": "22b1ece0c877c4a2f4acab322ff81b923255546177cb04071e3be1fbb037fb38"
+      "image_hash": "22b1ece0c877c4a2f4acab322ff81b923255546177cb04071e3be1fbb037fb38",
+      "section_id": "sec_auto_1601",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-9-5. Alarm display and corresponding Coutermeasures"
+        },
+        {
+          "id": "sec_auto_1601",
+          "title": "[ Program/Setting Alarm (PS Alarm) ]"
+        }
+      ],
+      "page": 173,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -219,7 +414,24 @@
       "previous_block_id": "txt_1249",
       "width": 25,
       "height": 20,
-      "image_hash": "4f050e70b93d206457e8918fd80c4cfa3699020ab2df9881d1da748bd335f548"
+      "image_hash": "4f050e70b93d206457e8918fd80c4cfa3699020ab2df9881d1da748bd335f548",
+      "section_id": "sec_auto_1601",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-9-5. Alarm display and corresponding Coutermeasures"
+        },
+        {
+          "id": "sec_auto_1601",
+          "title": "[ Program/Setting Alarm (PS Alarm) ]"
+        }
+      ],
+      "page": 173,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -236,7 +448,24 @@
       "previous_block_id": "txt_1249",
       "width": 25,
       "height": 21,
-      "image_hash": "d67379bba7840c5c9676e9cf728e0bf3efd8e840fcd212dede3007cc5ee93f40"
+      "image_hash": "d67379bba7840c5c9676e9cf728e0bf3efd8e840fcd212dede3007cc5ee93f40",
+      "section_id": "sec_auto_1601",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-9-5. Alarm display and corresponding Coutermeasures"
+        },
+        {
+          "id": "sec_auto_1601",
+          "title": "[ Program/Setting Alarm (PS Alarm) ]"
+        }
+      ],
+      "page": 173,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -253,7 +482,24 @@
       "previous_block_id": "txt_1249",
       "width": 25,
       "height": 20,
-      "image_hash": "db40daab7369d7a87813cad7dc3b0caa8ff4ecbd35f55960db65f2e90e522a7c"
+      "image_hash": "db40daab7369d7a87813cad7dc3b0caa8ff4ecbd35f55960db65f2e90e522a7c",
+      "section_id": "sec_auto_1601",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-9-5. Alarm display and corresponding Coutermeasures"
+        },
+        {
+          "id": "sec_auto_1601",
+          "title": "[ Program/Setting Alarm (PS Alarm) ]"
+        }
+      ],
+      "page": 173,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -268,7 +514,24 @@
       },
       "markdown": "|   No. | LED                                                                                                                                      | Description                                                                         | Countermeasure   |\n|-------|------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|------------------|\n|   000 | A parameter that requires power-down has been specified.                                                                                 | Turn the power off, then back on.                                                   |                  |\n|   011 | The specified feedrate is zero.                                                                                                          | Check the feedrate parameter specified with a function code.                        |                  |\n|   013 | The specified feedrate (maximum feedrate) is zero.                                                                                       | Check the value of parameter No. which indicates the maximum that can be specified. | 043, feedrate    |\n|   070 | More than 32 blocks have been registered for a buffering operation.                                                                      | Reduce the number of registered blocks to 32                                        |                  |\n|   085 | Input from the reader/punch interface or the like caused ah overrun, parity, or framing error.                                           | Correct the baud rate of the input/output unit (always 4800) or other settings.     |                  |\n|   086 | Input from the reader/punch interface or the like includes an input/output unit operation ready signal (DR) that is set to off.          | Turn the reader/punch on. Check the cable connection.                               |                  |\n|   087 | After input from the reader/punch interface or the like stops, character input does not stop even though ten characters have been input. | Check the cable connection.                                                         |                  |",
       "rows": 8,
-      "cols": 4
+      "cols": 4,
+      "section_id": "sec_auto_1601",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-9-5. Alarm display and corresponding Coutermeasures"
+        },
+        {
+          "id": "sec_auto_1601",
+          "title": "[ Program/Setting Alarm (PS Alarm) ]"
+        }
+      ],
+      "page": 173,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

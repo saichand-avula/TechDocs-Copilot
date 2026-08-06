@@ -18,8 +18,21 @@
         "b": 737.3629409281768
       },
       "content": "3-2. M Function (Auxiliary)",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "3",
+      "section_id": "sec_3",
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-2. M Function (Auxiliary)"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 42,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -33,9 +46,23 @@
         "b": 117.8004150390625
       },
       "markdown": "Ì : Option\n\n| M-code   | Function                           | Remark   | M-code   | Function                    | Remark   |\n|----------|------------------------------------|----------|----------|-----------------------------|----------|\n| M00      | PROGRAM STOP                       |          | M25      | CENTER FORWARD              | Ì        |\n| M01      | OPTIONAL STOP                      |          | M26      | CENTER RETRACT (TIMER STOP) | Ì        |\n| M02      | PROGRAM END                        |          | M27      |                             |          |\n| M03      | SPINDLE FORWARD                    |          | M28      | CENTER RETRACT (TIMER STOP) | Ì        |\n| M04      | SPINDLE REVERSE                    |          | M29      |                             |          |\n| M05      | SPINDLE STOP                       |          | M30      | NC RESET & REWIND           |          |\n| M06      |                                    |          | M31      | END OF BAR COUNTR UP CHECK  |          |\n| M07      |                                    |          | M32      |                             |          |\n| M08      | COOLANT ON                         |          | M33      |                             |          |\n| M09      | COOLANT OFF                        |          | M34      | LUBRICATION INHIBIT         |          |\n| M10      |                                    |          | M35      | LUBRICATION INHIBIT OFF     |          |\n| M11      |                                    |          | M36      | AUTO POWER OFF ENABLE       | Ì        |\n| M12      | COUNTER                            | Ì        | M37      | AUTO POWER OFF DISABLE      | Ì        |\n| M13      |                                    |          | M38      | CENTER AIR BLOW ON          | Ì        |\n| M14      |                                    |          | M39      | CENTER AIR BLOW OFF         | Ì        |\n| M15      |                                    |          | M40      |                             |          |\n| M16      |                                    |          | M41      |                             |          |\n| M17      |                                    |          | M42      |                             |          |\n| M18      | RELEASE OF THE SPINDLE POSITIONING |          | M43      |                             |          |\n| M19      | SPINDLE POSITIONING                | Ì        | M44      | SERVO MODE ON               | Ì        |\n| M20      |                                    |          | M45      | SERVO MODE OFF              | Ì        |\n| M21      | ERROR DETECT ON                    |          | M46      | SPINDLE OVERRIDE ENABLE     | Ì        |\n| M22      | ERROR DETECT OFF                   |          | M47      | SPINDLE OVERRIDE DISABLE    | Ì        |\n| M23      | CHAMFERING ON                      |          | M48      | FEED OVERRIDE ENABLE        |          |\n| M24      | CHAMFERING OFF                     |          | M49      | FEED OVERRIDE DISABLE       |          |",
-      "caption_id": "txt_0258",
       "rows": 26,
-      "cols": 6
+      "cols": 6,
+      "section_id": "sec_3",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-2. M Function (Auxiliary)"
+        }
+      ],
+      "page": 42,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "group_id": "grp_tbl_0012",
+      "source": "pdf_text",
+      "caption_id": "txt_0258"
     },
     {
       "type": "caption",
@@ -49,6 +76,20 @@
         "b": 725.476226
       },
       "content": "Ì : Option",
+      "section_id": "sec_3",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-2. M Function (Auxiliary)"
+        }
+      ],
+      "page": 42,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_tbl_0012",
+      "source": "pdf_text",
       "caption_for": "tbl_0012"
     }
   ],

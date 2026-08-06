@@ -17,7 +17,28 @@
         "r": 422.2318399999997,
         "b": 682.196101363195
       },
-      "content": "For complete historical record, please see historical record information in ' Event list of UPS displayed in front panel of it can be seen in Table 5-13."
+      "content": "For complete historical record, please see historical record information in ' Event list of UPS displayed in front panel of it can be seen in Table 5-13.",
+      "section_id": "sec_5_1_7",
+      "parent_section_id": "sec_auto_690",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Button control"
+        },
+        {
+          "id": "sec_auto_690",
+          "title": "Reminder: please set single battery voltage first, and then set other parameters."
+        },
+        {
+          "id": "sec_5_1_7",
+          "title": "5.1.7 Current Information Record Window"
+        }
+      ],
+      "page": 66,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -32,7 +53,24 @@
       },
       "content": "5.2 Display Events",
       "level": 2,
-      "role": "section"
+      "section_number": "5.2",
+      "section_id": "sec_5_2",
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Button control"
+        },
+        {
+          "id": "sec_5_2",
+          "title": "5.2 Display Events"
+        }
+      ],
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "page": 66,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -49,7 +87,24 @@
       "title": "Table 5-13: List of display events",
       "table_number": "Table 5-13",
       "rows": 29,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_5_2",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Button control"
+        },
+        {
+          "id": "sec_5_2",
+          "title": "5.2 Display Events"
+        }
+      ],
+      "page": 66,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "caption",
@@ -63,6 +118,24 @@
         "b": 608.3961013631949
       },
       "content": "Table 5-13: List of display events",
+      "section_id": "sec_5_2",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Button control"
+        },
+        {
+          "id": "sec_5_2",
+          "title": "5.2 Display Events"
+        }
+      ],
+      "page": 66,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0120",
+      "source": "pdf_text",
       "caption_for": "fig_0120"
     },
     {
@@ -79,12 +152,30 @@
       "image_path": "figures/figure_0120.png",
       "previous_block_id": "txt_0545",
       "next_block_id": "txt_0546",
-      "caption_id": "txt_0545",
       "caption": ": List of display events",
       "figure_number": "Table 5-13",
       "image_hash": "e5f8a99289eb1656b9130d3f6f6cce2dea73f7da2b087fe42824548354f31be6",
       "width": 37,
-      "height": 20
+      "height": 20,
+      "section_id": "sec_5_2",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Button control"
+        },
+        {
+          "id": "sec_5_2",
+          "title": "5.2 Display Events"
+        }
+      ],
+      "page": 66,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0120",
+      "source": "pdf_text",
+      "caption_id": "txt_0545"
     },
     {
       "type": "paragraph",
@@ -97,7 +188,24 @@
         "r": 466.35568,
         "b": 700.556101363195
       },
-      "content": "'."
+      "content": "'.",
+      "section_id": "sec_5_2",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Button control"
+        },
+        {
+          "id": "sec_5_2",
+          "title": "5.2 Display Events"
+        }
+      ],
+      "page": 66,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

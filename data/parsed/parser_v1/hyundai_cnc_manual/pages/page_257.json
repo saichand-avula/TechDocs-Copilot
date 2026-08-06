@@ -17,7 +17,20 @@
         "r": 527.2220040000007,
         "b": 696.4435889281768
       },
-      "content": "When the host NC program executes a T code command, the PMC on the host NC sets the function code, command data 1, and command data 2, then sends the ST signal or +X/-X signal to the servo unit. Upon receipt of the data, the servo unit returns the operation completion 1 signal to the NC, and also outputs the unclamp command signal."
+      "content": "When the host NC program executes a T code command, the PMC on the host NC sets the function code, command data 1, and command data 2, then sends the ST signal or +X/-X signal to the servo unit. Upon receipt of the data, the servo unit returns the operation completion 1 signal to the NC, and also outputs the unclamp command signal.",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-4-1. β SERVO TURRET CONTROL TIME CHART"
+        }
+      ],
+      "page": 257,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -30,7 +43,20 @@
         "r": 517.6478939999989,
         "b": 642.6832829281768
       },
-      "content": "When unclamp completion notification is sent from the host NC, the servo unit returns the operation completion 2 signal to the host NC, then starts movement to the position corresponding to a specified turret/magazine number."
+      "content": "When unclamp completion notification is sent from the host NC, the servo unit returns the operation completion 2 signal to the host NC, then starts movement to the position corresponding to a specified turret/magazine number.",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-4-1. β SERVO TURRET CONTROL TIME CHART"
+        }
+      ],
+      "page": 257,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -43,7 +69,20 @@
         "r": 509.84932799999854,
         "b": 606.2034689281768
       },
-      "content": "Upon completion of the movement, the servo unit returns the operation completion 3 signal to the NC, and also outputs the clamp command signal."
+      "content": "Upon completion of the movement, the servo unit returns the operation completion 3 signal to the NC, and also outputs the clamp command signal.",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-4-1. β SERVO TURRET CONTROL TIME CHART"
+        }
+      ],
+      "page": 257,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -56,7 +95,20 @@
         "r": 518.7240419999998,
         "b": 552.4441649281767
       },
-      "content": "When clamp completion notification is sent from the host NC, the servo unit returns response data (turret/magazine number or coordinatesland the operation completion 4 signal, and is placed in the start enabled state."
+      "content": "When clamp completion notification is sent from the host NC, the servo unit returns response data (turret/magazine number or coordinatesland the operation completion 4 signal, and is placed in the start enabled state.",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-4-1. β SERVO TURRET CONTROL TIME CHART"
+        }
+      ],
+      "page": 257,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -69,7 +121,20 @@
         "r": 519.2390699999995,
         "b": 515.9633489281767
       },
-      "content": "Upon receipt of the operation completion 4 signal, the PMC on the host NC returns the FIN signal."
+      "content": "Upon receipt of the operation completion 4 signal, the PMC on the host NC returns the FIN signal.",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-4-1. β SERVO TURRET CONTROL TIME CHART"
+        }
+      ],
+      "page": 257,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -82,7 +147,20 @@
         "r": 520.9554960000015,
         "b": 444.9816689281767
       },
-      "content": "If an alarm is issued while the servo unit is executing an instruction, the AL signal is output. So, the PMC on the host NC is to perform processing such as alarm indication. In this case, the number of alarms and alarm numbers can be included in the response data by setting the DSAL signal to 1."
+      "content": "If an alarm is issued while the servo unit is executing an instruction, the AL signal is output. So, the PMC on the host NC is to perform processing such as alarm indication. In this case, the number of alarms and alarm numbers can be included in the response data by setting the DSAL signal to 1.",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-4-1. β SERVO TURRET CONTROL TIME CHART"
+        }
+      ],
+      "page": 257,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -97,7 +175,23 @@
       },
       "content": "[Supplementary information]",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_2378",
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-4-1. β SERVO TURRET CONTROL TIME CHART"
+        },
+        {
+          "id": "sec_auto_2378",
+          "title": "[Supplementary information]"
+        }
+      ],
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "page": 257,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -110,7 +204,24 @@
         "r": 519.8623140000001,
         "b": 366.20142292817667
       },
-      "content": "The unclamp/clamp command signal and state signal are used for communication with the host."
+      "content": "The unclamp/clamp command signal and state signal are used for communication with the host.",
+      "section_id": "sec_auto_2378",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-4-1. β SERVO TURRET CONTROL TIME CHART"
+        },
+        {
+          "id": "sec_auto_2378",
+          "title": "[Supplementary information]"
+        }
+      ],
+      "page": 257,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -123,7 +234,24 @@
         "r": 516.5076179999991,
         "b": 312.4411169281766
       },
-      "content": "Whether the unclamp/clamp state signal is to be checked is specified by setting bit 2 (IGCP)of parameter No. 003. When IGCP is set such that no check is to be made, the operation completion 2 signal and operation completion 3 signal are not output."
+      "content": "Whether the unclamp/clamp state signal is to be checked is specified by setting bit 2 (IGCP)of parameter No. 003. When IGCP is set such that no check is to be made, the operation completion 2 signal and operation completion 3 signal are not output.",
+      "section_id": "sec_auto_2378",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-4-1. β SERVO TURRET CONTROL TIME CHART"
+        },
+        {
+          "id": "sec_auto_2378",
+          "title": "[Supplementary information]"
+        }
+      ],
+      "page": 257,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -136,7 +264,24 @@
         "r": 512.1829859999991,
         "b": 258.7399289281766
       },
-      "content": "Use parameter No. 167 to set the period between the servo unit being turned on and the output of the unclamp command signal. Use parameter No. 168 to set the period between the clamp command signal being output and the servo unit being turned off."
+      "content": "Use parameter No. 167 to set the period between the servo unit being turned on and the output of the unclamp command signal. Use parameter No. 168 to set the period between the clamp command signal being output and the servo unit being turned off.",
+      "section_id": "sec_auto_2378",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-4-1. β SERVO TURRET CONTROL TIME CHART"
+        },
+        {
+          "id": "sec_auto_2378",
+          "title": "[Supplementary information]"
+        }
+      ],
+      "page": 257,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -149,7 +294,24 @@
         "r": 418.5470879999992,
         "b": 239.4794849281766
       },
-      "content": "The \"ST\" signal can be accepted in the start enabled state only."
+      "content": "The \"ST\" signal can be accepted in the start enabled state only.",
+      "section_id": "sec_auto_2378",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-4-1. β SERVO TURRET CONTROL TIME CHART"
+        },
+        {
+          "id": "sec_auto_2378",
+          "title": "[Supplementary information]"
+        }
+      ],
+      "page": 257,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -162,7 +324,24 @@
         "r": 425.89775999999927,
         "b": 220.21904092817658
       },
-      "content": "The start enabled state is that state in which the STL signal is off."
+      "content": "The start enabled state is that state in which the STL signal is off.",
+      "section_id": "sec_auto_2378",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-4-1. β SERVO TURRET CONTROL TIME CHART"
+        },
+        {
+          "id": "sec_auto_2378",
+          "title": "[Supplementary information]"
+        }
+      ],
+      "page": 257,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

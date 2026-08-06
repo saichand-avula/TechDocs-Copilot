@@ -19,7 +19,24 @@
       },
       "content": "2.7 Options",
       "level": 2,
-      "role": "section"
+      "section_number": "2.7",
+      "section_id": "sec_2_7",
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2. Fault protection"
+        },
+        {
+          "id": "sec_2_7",
+          "title": "2.7 Options"
+        }
+      ],
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "page": 20,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -32,7 +49,24 @@
         "r": 206.86568,
         "b": 668.156101363195
       },
-      "content": "Battery cold start option"
+      "content": "Battery cold start option",
+      "section_id": "sec_2_7",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2. Fault protection"
+        },
+        {
+          "id": "sec_2_7",
+          "title": "2.7 Options"
+        }
+      ],
+      "page": 20,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -45,7 +79,24 @@
         "r": 378.39567999999997,
         "b": 652.556101363195
       },
-      "content": "The UPS can start by using battery directly without input of AC."
+      "content": "The UPS can start by using battery directly without input of AC.",
+      "section_id": "sec_2_7",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2. Fault protection"
+        },
+        {
+          "id": "sec_2_7",
+          "title": "2.7 Options"
+        }
+      ],
+      "page": 20,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -58,7 +109,24 @@
         "r": 155.35567999999998,
         "b": 636.956101363195
       },
-      "content": "SNMP card"
+      "content": "SNMP card",
+      "section_id": "sec_2_7",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2. Fault protection"
+        },
+        {
+          "id": "sec_2_7",
+          "title": "2.7 Options"
+        }
+      ],
+      "page": 20,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -71,7 +139,24 @@
         "r": 378.51568,
         "b": 621.356101363195
       },
-      "content": "Remote management of UPS through network can be realized."
+      "content": "Remote management of UPS through network can be realized.",
+      "section_id": "sec_2_7",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2. Fault protection"
+        },
+        {
+          "id": "sec_2_7",
+          "title": "2.7 Options"
+        }
+      ],
+      "page": 20,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -84,7 +169,24 @@
         "r": 485.21567999999996,
         "b": 605.756101363195
       },
-      "content": "(3) Undervoltage release of battery (adapted to ABBT4-T6 molded case circuit breaker)"
+      "content": "(3) Undervoltage release of battery (adapted to ABBT4-T6 molded case circuit breaker)",
+      "section_id": "sec_2_7",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2. Fault protection"
+        },
+        {
+          "id": "sec_2_7",
+          "title": "2.7 Options"
+        }
+      ],
+      "page": 20,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -97,7 +199,24 @@
         "r": 541.6157600000001,
         "b": 543.326101363195
       },
-      "content": "Cut the circuit of battery off when the UPS goes wrong or does not work to avoid the irreparable damage to battery caused by deep discharge of battery. Battery switch is only allowed to close after inverter is working normally if it contains undervoltage release, otherwise, battery switch or UPS will be damaged if it is forced to close."
+      "content": "Cut the circuit of battery off when the UPS goes wrong or does not work to avoid the irreparable damage to battery caused by deep discharge of battery. Battery switch is only allowed to close after inverter is working normally if it contains undervoltage release, otherwise, battery switch or UPS will be damaged if it is forced to close.",
+      "section_id": "sec_2_7",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2. Fault protection"
+        },
+        {
+          "id": "sec_2_7",
+          "title": "2.7 Options"
+        }
+      ],
+      "page": 20,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -112,7 +231,23 @@
       },
       "content": "(4) LBS synchronous controller",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_188",
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2. Fault protection"
+        },
+        {
+          "id": "sec_auto_188",
+          "title": "(4) LBS synchronous controller"
+        }
+      ],
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "page": 20,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -125,7 +260,24 @@
         "r": 541.61856,
         "b": 496.526101363195
       },
-      "content": "It can ensure that two independent UPS systems output synchronously, which is most suitable for power distribution system with double bus."
+      "content": "It can ensure that two independent UPS systems output synchronously, which is most suitable for power distribution system with double bus.",
+      "section_id": "sec_auto_188",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2. Fault protection"
+        },
+        {
+          "id": "sec_auto_188",
+          "title": "(4) LBS synchronous controller"
+        }
+      ],
+      "page": 20,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -140,7 +292,23 @@
       },
       "content": "(5) Lightning protection device",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_190",
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2. Fault protection"
+        },
+        {
+          "id": "sec_auto_190",
+          "title": "(5) Lightning protection device"
+        }
+      ],
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "page": 20,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -153,7 +321,24 @@
         "r": 541.4648799999998,
         "b": 449.72610136319497
       },
-      "content": "It is used to control overvoltage caused by lightning surge in power distribution to protect UPS or rear-end load."
+      "content": "It is used to control overvoltage caused by lightning surge in power distribution to protect UPS or rear-end load.",
+      "section_id": "sec_auto_190",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2. Fault protection"
+        },
+        {
+          "id": "sec_auto_190",
+          "title": "(5) Lightning protection device"
+        }
+      ],
+      "page": 20,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -166,7 +351,24 @@
         "r": 366.96567999999996,
         "b": 434.126101363195
       },
-      "content": "Power distribution cabinet (optional range: 80 ~ 300 kVA)"
+      "content": "Power distribution cabinet (optional range: 80 ~ 300 kVA)",
+      "section_id": "sec_auto_190",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2. Fault protection"
+        },
+        {
+          "id": "sec_auto_190",
+          "title": "(5) Lightning protection device"
+        }
+      ],
+      "page": 20,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -179,7 +381,24 @@
         "r": 179.50567999999998,
         "b": 418.526101363195
       },
-      "content": "Provide upper wiring."
+      "content": "Provide upper wiring.",
+      "section_id": "sec_auto_190",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2. Fault protection"
+        },
+        {
+          "id": "sec_auto_190",
+          "title": "(5) Lightning protection device"
+        }
+      ],
+      "page": 20,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -192,7 +411,24 @@
         "r": 418.83567999999997,
         "b": 402.92610136319496
       },
-      "content": "Bypass maintenance switch cabinet (optional range: 400 ~ 500 kVA)"
+      "content": "Bypass maintenance switch cabinet (optional range: 400 ~ 500 kVA)",
+      "section_id": "sec_auto_190",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2. Fault protection"
+        },
+        {
+          "id": "sec_auto_190",
+          "title": "(5) Lightning protection device"
+        }
+      ],
+      "page": 20,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -205,7 +441,24 @@
         "r": 459.51568,
         "b": 387.30610136319495
       },
-      "content": "It contains maintenance switch and battery switch and has upper wiring function."
+      "content": "It contains maintenance switch and battery switch and has upper wiring function.",
+      "section_id": "sec_auto_190",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2. Fault protection"
+        },
+        {
+          "id": "sec_auto_190",
+          "title": "(5) Lightning protection device"
+        }
+      ],
+      "page": 20,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -218,7 +471,24 @@
         "r": 295.20568,
         "b": 371.706101363195
       },
-      "content": "Parallel kit (optional range: 80 ~ 500 kVA)"
+      "content": "Parallel kit (optional range: 80 ~ 500 kVA)",
+      "section_id": "sec_auto_190",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2. Fault protection"
+        },
+        {
+          "id": "sec_auto_190",
+          "title": "(5) Lightning protection device"
+        }
+      ],
+      "page": 20,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -231,7 +501,24 @@
         "r": 513.6556800000001,
         "b": 356.10610136319497
       },
-      "content": "It needs to be equipped with the parallel kit, when the stand-alone is extended to parallel unit."
+      "content": "It needs to be equipped with the parallel kit, when the stand-alone is extended to parallel unit.",
+      "section_id": "sec_auto_190",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2. Fault protection"
+        },
+        {
+          "id": "sec_auto_190",
+          "title": "(5) Lightning protection device"
+        }
+      ],
+      "page": 20,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -244,7 +531,24 @@
         "r": 374.04568,
         "b": 340.506101363195
       },
-      "content": "Battery temperature sensor (optional range: 80 ~ 500 kVA)"
+      "content": "Battery temperature sensor (optional range: 80 ~ 500 kVA)",
+      "section_id": "sec_auto_190",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2. Fault protection"
+        },
+        {
+          "id": "sec_auto_190",
+          "title": "(5) Lightning protection device"
+        }
+      ],
+      "page": 20,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -257,7 +561,24 @@
         "r": 541.3390399999994,
         "b": 309.306101363195
       },
-      "content": "It  is  mainly  used  to  collect  the  working  temperature  of  external  battery  pack  and  realize  the temperature compensation function of battery charging voltage."
+      "content": "It  is  mainly  used  to  collect  the  working  temperature  of  external  battery  pack  and  realize  the temperature compensation function of battery charging voltage.",
+      "section_id": "sec_auto_190",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2. Fault protection"
+        },
+        {
+          "id": "sec_auto_190",
+          "title": "(5) Lightning protection device"
+        }
+      ],
+      "page": 20,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -270,7 +591,24 @@
         "r": 474.87568,
         "b": 293.706101363195
       },
-      "content": "Main power-bypass short connected copper bar (optional range: 400 ~ 500 kVA)"
+      "content": "Main power-bypass short connected copper bar (optional range: 400 ~ 500 kVA)",
+      "section_id": "sec_auto_190",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2. Fault protection"
+        },
+        {
+          "id": "sec_auto_190",
+          "title": "(5) Lightning protection device"
+        }
+      ],
+      "page": 20,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -283,7 +621,24 @@
         "r": 541.4727199999993,
         "b": 262.50610136319506
       },
-      "content": "It is suitable for the common input connection, that is, short connected mains input and bypass input when single circuit mains inputs"
+      "content": "It is suitable for the common input connection, that is, short connected mains input and bypass input when single circuit mains inputs",
+      "section_id": "sec_auto_190",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2. Fault protection"
+        },
+        {
+          "id": "sec_auto_190",
+          "title": "(5) Lightning protection device"
+        }
+      ],
+      "page": 20,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

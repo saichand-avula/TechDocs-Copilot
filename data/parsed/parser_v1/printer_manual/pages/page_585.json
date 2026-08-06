@@ -19,7 +19,23 @@
       },
       "content": "i. Remove the formatter case.",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_6135",
+      "section_path": [
+        {
+          "id": "sec_13",
+          "title": "13. Remove the right cover."
+        },
+        {
+          "id": "sec_auto_6135",
+          "title": "i. Remove the formatter case."
+        }
+      ],
+      "parent_section_id": "sec_13",
+      "section_level": 2,
+      "page": 585,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -38,7 +54,24 @@
       "height": 12,
       "image_hash": "74ce7e8f2a5626463dd6444cf5bfde42178fe3c8175c4176382a6d973a8e84c7",
       "previous_block_id": "txt_4431",
-      "next_block_id": "txt_4432"
+      "next_block_id": "txt_4432",
+      "section_id": "sec_auto_6135",
+      "parent_section_id": "sec_13",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_13",
+          "title": "13. Remove the right cover."
+        },
+        {
+          "id": "sec_auto_6135",
+          "title": "i. Remove the formatter case."
+        }
+      ],
+      "page": 585,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "admonition",
@@ -52,7 +85,24 @@
         "b": 685.2
       },
       "content": "NOTE: WiFi models only: If the formatter case is being replaced, make sure that the WiFi PCA and bracket (callout 1) are transferred to the replacement case.",
-      "severity": "note"
+      "severity": "note",
+      "section_id": "sec_auto_6135",
+      "parent_section_id": "sec_13",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_13",
+          "title": "13. Remove the right cover."
+        },
+        {
+          "id": "sec_auto_6135",
+          "title": "i. Remove the formatter case."
+        }
+      ],
+      "page": 585,
+      "chunk_hint": "admonition",
+      "semantic_role": "note",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -73,6 +123,24 @@
       "height": 218,
       "previous_block_id": "txt_4432",
       "next_block_id": "txt_4433",
+      "section_id": "sec_auto_6135",
+      "parent_section_id": "sec_13",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_13",
+          "title": "13. Remove the right cover."
+        },
+        {
+          "id": "sec_auto_6135",
+          "title": "i. Remove the formatter case."
+        }
+      ],
+      "page": 585,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_1664",
+      "source": "pdf_text",
       "caption_id": "txt_4433"
     },
     {
@@ -87,6 +155,24 @@
         "b": 662.7
       },
       "content": "Figure 1-972  Remove the formatter case",
+      "section_id": "sec_auto_6135",
+      "parent_section_id": "sec_13",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_13",
+          "title": "13. Remove the right cover."
+        },
+        {
+          "id": "sec_auto_6135",
+          "title": "i. Remove the formatter case."
+        }
+      ],
+      "page": 585,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_1664",
+      "source": "pdf_text",
       "caption_for": "fig_1664"
     },
     {
@@ -101,8 +187,21 @@
         "b": 421.83
       },
       "content": "20. Remove the DC controller (DCC).",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "20",
+      "section_id": "sec_20",
+      "section_path": [
+        {
+          "id": "sec_20",
+          "title": "20. Remove the DC controller (DCC)."
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 585,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -121,7 +220,20 @@
       "height": 13,
       "image_hash": "21806dff275e85ee17b16f6c347ea8a4af18ae74cfa2f73bf77ac17fa35b6b57",
       "previous_block_id": "txt_4434",
-      "next_block_id": "txt_4435"
+      "next_block_id": "txt_4435",
+      "section_id": "sec_20",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_20",
+          "title": "20. Remove the DC controller (DCC)."
+        }
+      ],
+      "page": 585,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "admonition",
@@ -135,7 +247,20 @@
         "b": 386.33
       },
       "content": "CAUTION: Never remove and then install a replacement DCC and formatter at the same time. Doing so will cause the printer to become unstable.",
-      "severity": "caution"
+      "severity": "caution",
+      "section_id": "sec_20",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_20",
+          "title": "20. Remove the DC controller (DCC)."
+        }
+      ],
+      "page": 585,
+      "chunk_hint": "admonition",
+      "semantic_role": "caution",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -148,7 +273,20 @@
         "r": 542.7700100000002,
         "b": 353.33
       },
-      "content": "If a replacement DCC and formatter must be installed, first remove and install the formatter. Test operate the printer, and then if necessary install a replacement DCC."
+      "content": "If a replacement DCC and formatter must be installed, first remove and install the formatter. Test operate the printer, and then if necessary install a replacement DCC.",
+      "section_id": "sec_20",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_20",
+          "title": "20. Remove the DC controller (DCC)."
+        }
+      ],
+      "page": 585,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -167,7 +305,20 @@
       "height": 8,
       "image_hash": "e112650060640f873aeb396ebfaf5acc6f133d35e3f8d08c70336e1a46b67e5b",
       "previous_block_id": "txt_4436",
-      "next_block_id": "txt_4437"
+      "next_block_id": "txt_4437",
+      "section_id": "sec_20",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_20",
+          "title": "20. Remove the DC controller (DCC)."
+        }
+      ],
+      "page": 585,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -180,7 +331,20 @@
         "r": 498.6700300000003,
         "b": 330.83
       },
-      "content": "Disconnect all of the connectors and flat-flexible cables (FFCs) on the DC controller (DCC)."
+      "content": "Disconnect all of the connectors and flat-flexible cables (FFCs) on the DC controller (DCC).",
+      "section_id": "sec_20",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_20",
+          "title": "20. Remove the DC controller (DCC)."
+        }
+      ],
+      "page": 585,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -199,7 +363,20 @@
       "height": 13,
       "image_hash": "64d8dc5e9258df4365c3024614ceb1ff9ba3ee79835929e3e5822365a528023f",
       "previous_block_id": "txt_4437",
-      "next_block_id": "txt_4438"
+      "next_block_id": "txt_4438",
+      "section_id": "sec_20",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_20",
+          "title": "20. Remove the DC controller (DCC)."
+        }
+      ],
+      "page": 585,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "admonition",
@@ -213,7 +390,20 @@
         "b": 307.33
       },
       "content": "NOTE: The number and type of connectors and FFCs depends on the printer model.",
-      "severity": "note"
+      "severity": "note",
+      "section_id": "sec_20",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_20",
+          "title": "20. Remove the DC controller (DCC)."
+        }
+      ],
+      "page": 585,
+      "chunk_hint": "admonition",
+      "semantic_role": "note",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -226,7 +416,20 @@
         "r": 517.0700000000002,
         "b": 286.33
       },
-      "content": "A SFP printer is shown in this section. However, the procedure is correct for all printer models."
+      "content": "A SFP printer is shown in this section. However, the procedure is correct for all printer models.",
+      "section_id": "sec_20",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_20",
+          "title": "20. Remove the DC controller (DCC)."
+        }
+      ],
+      "page": 585,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

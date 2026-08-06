@@ -18,8 +18,21 @@
         "b": 773.554657
       },
       "content": "7. 3 .8    Communication error between the indoor and outdoor units",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "7",
+      "section_id": "sec_7",
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. 3 .8    Communication error between the indoor and outdoor units"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 61,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -34,7 +47,20 @@
       },
       "markdown": "| Indoor display                                  | E7 ˗                                                                                                                                                                                                    |\n|-------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Outdoor : display ˖                             | LED1 flash 15 times                                                                                                                                                                                     |\n| Method of Malfunction Detection                 | The date received from the another unit in indoor unit-outdoor unit signal transmission is checked whether is normal                                                                                    |\n| Malfunction Decision Conditions Supposed Causes | When the date sent from the another unit cannot be received normally,or when the content of the data is abnormal Ƶ indoor unit- outdoor unit signal transmission error due to wiring error Ƶ Faulty PCB |",
       "rows": 4,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_7",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. 3 .8    Communication error between the indoor and outdoor units"
+        }
+      ],
+      "page": 61,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -47,7 +73,20 @@
         "r": 550.1714336400005,
         "b": 560.513689
       },
-      "content": "Troubleshooting        * Caution Be sure to turn off power switch before connect or disconnect connector, or else parts damage may be occurred."
+      "content": "Troubleshooting        * Caution Be sure to turn off power switch before connect or disconnect connector, or else parts damage may be occurred.",
+      "section_id": "sec_7",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. 3 .8    Communication error between the indoor and outdoor units"
+        }
+      ],
+      "page": 61,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -64,7 +103,20 @@
       "previous_block_id": "txt_0584",
       "image_hash": "7ea88b73cd79bc578339478b6d10bd28463b0249f33bbc112adfd4d9a2b9ca25",
       "width": 495,
-      "height": 395
+      "height": 395,
+      "section_id": "sec_7",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. 3 .8    Communication error between the indoor and outdoor units"
+        }
+      ],
+      "page": 61,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -82,7 +134,20 @@
       "width": 32,
       "height": 10,
       "decorative": true,
-      "image_hash": "7051a27e2c90d9334291cc60f784f38ec96653489f7874898a3c6b9c79af5610"
+      "image_hash": "7051a27e2c90d9334291cc60f784f38ec96653489f7874898a3c6b9c79af5610",
+      "section_id": "sec_7",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. 3 .8    Communication error between the indoor and outdoor units"
+        }
+      ],
+      "page": 61,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

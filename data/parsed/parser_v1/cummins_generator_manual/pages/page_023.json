@@ -18,8 +18,21 @@
         "b": 705.5587870854176
       },
       "content": "5. Generator Set/Voltage Regulator",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "5",
+      "section_id": "sec_5",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5. Generator Set/Voltage Regulator"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 23,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -34,7 +47,23 @@
       },
       "content": "GENERAL DESCRIPTION",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_318",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5. Generator Set/Voltage Regulator"
+        },
+        {
+          "id": "sec_auto_318",
+          "title": "GENERAL DESCRIPTION"
+        }
+      ],
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "page": 23,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -47,7 +76,24 @@
         "r": 291.3694000000001,
         "b": 617.5224492035387
       },
-      "content": "The YK generator set (Figure 5-1) is a four-pole, revolving  field,  brush-type  design  with  drip-proof construction."
+      "content": "The YK generator set (Figure 5-1) is a four-pole, revolving  field,  brush-type  design  with  drip-proof construction.",
+      "section_id": "sec_auto_318",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5. Generator Set/Voltage Regulator"
+        },
+        {
+          "id": "sec_auto_318",
+          "title": "GENERAL DESCRIPTION"
+        }
+      ],
+      "page": 23,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -60,7 +106,24 @@
         "r": 291.36280000000005,
         "b": 556.7485492035388
       },
-      "content": "The generator set rotor is directly coupled to the engine flywheel with a rigid drive disc.  Engine speed determines generator set output voltage and frequency.  A centrifugal blower on the drive disc circulates  generator  set  cooling  air  which  is  drawn  in through the end bell and discharged through an outlet in the blower end."
+      "content": "The generator set rotor is directly coupled to the engine flywheel with a rigid drive disc.  Engine speed determines generator set output voltage and frequency.  A centrifugal blower on the drive disc circulates  generator  set  cooling  air  which  is  drawn  in through the end bell and discharged through an outlet in the blower end.",
+      "section_id": "sec_auto_318",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5. Generator Set/Voltage Regulator"
+        },
+        {
+          "id": "sec_auto_318",
+          "title": "GENERAL DESCRIPTION"
+        }
+      ],
+      "page": 23,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -74,7 +137,24 @@
         "b": 556.7496492035389
       },
       "content": "A ball bearing in the end bell supports the outer end of the rotor shaft.  The end bell is attached with four studs  that  thread  into  the  generator  set  adapter casting.  The generator set  brushes are mounted in the end bell (see Figure 5-2).",
-      "hyperlink_hint": true
+      "hyperlink_hint": true,
+      "section_id": "sec_auto_318",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5. Generator Set/Voltage Regulator"
+        },
+        {
+          "id": "sec_auto_318",
+          "title": "GENERAL DESCRIPTION"
+        }
+      ],
+      "page": 23,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -90,12 +170,30 @@
       "image_path": "figures/figure_0009.png",
       "previous_block_id": "txt_0312",
       "next_block_id": "txt_0313",
-      "caption_id": "txt_0313",
       "caption": ".  YK SERIES GENERATOR SET",
       "figure_number": "FIGURE 5-1",
       "image_hash": "9fd7373d8f450f3912f1a17fafeec32156c51a8142115689082a5a5644bd8cf0",
       "width": 518,
-      "height": 468
+      "height": 468,
+      "section_id": "sec_auto_318",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5. Generator Set/Voltage Regulator"
+        },
+        {
+          "id": "sec_auto_318",
+          "title": "GENERAL DESCRIPTION"
+        }
+      ],
+      "page": 23,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0009",
+      "source": "pdf_text",
+      "caption_id": "txt_0313"
     },
     {
       "type": "caption",
@@ -109,6 +207,24 @@
         "b": 60.92295693988763
       },
       "content": "FIGURE 5-1.  YK SERIES GENERATOR SET",
+      "section_id": "sec_auto_318",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5. Generator Set/Voltage Regulator"
+        },
+        {
+          "id": "sec_auto_318",
+          "title": "GENERAL DESCRIPTION"
+        }
+      ],
+      "page": 23,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0009",
+      "source": "pdf_text",
       "caption_for": "fig_0009"
     }
   ],

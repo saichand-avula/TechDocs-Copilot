@@ -18,9 +18,27 @@
         "b": 496.8805847167969
       },
       "markdown": "Legend: P = Power;  A = Analog;  D = Digital;  I = Input;  O = Output\n\n| Table 4-4. CPU-Mechanism Interface Signals   | Table 4-4. CPU-Mechanism Interface Signals   | Table 4-4. CPU-Mechanism Interface Signals   |\n|----------------------------------------------|----------------------------------------------|----------------------------------------------|\n| Signal Name                                  | Type                                         | Description                                  |\n| SPRXD                                        | D, I SCP receive                             | data                                         |\n| SPTXD                                        | D, O SCP transmit                            | data                                         |\n| CSSEP*                                       | D, O Chip select,                            | EEPROM                                       |\n| V5_0                                         | P 5 V supply                                 | interface power                              |\n| V3_3                                         | P 3.3 V supply                               | logic power                                  |\n| GDIG                                         | P Digital                                    |                                              |\n| VANA                                         | P 5 V supply                                 | analog power                                 |\n| GANA                                         | P Analog                                     |                                              |\n| VMOT, GMOT                                   | P Motor                                      | directly from power                          |\n| V2_5                                         | A, I Reference                               | voltage for ADC and                          |",
-      "caption_id": "txt_0265",
       "rows": 12,
-      "cols": 3
+      "cols": 3,
+      "section_id": "sec_4_2_1_21",
+      "parent_section_id": "sec_auto_288",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_auto_288",
+          "title": "POWER SUPPLY INTERFACE"
+        },
+        {
+          "id": "sec_4_2_1_21",
+          "title": "4.2.1.21 MECHANISM INTERFACE"
+        }
+      ],
+      "page": 38,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "group_id": "grp_tbl_0016",
+      "source": "pdf_text",
+      "caption_id": "txt_0265"
     },
     {
       "type": "caption",
@@ -34,6 +52,24 @@
         "b": 470.4473349280328
       },
       "content": "Legend: P = Power;  A = Analog;  D = Digital;  I = Input;  O = Output",
+      "section_id": "sec_4_2_1_21",
+      "parent_section_id": "sec_auto_288",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_auto_288",
+          "title": "POWER SUPPLY INTERFACE"
+        },
+        {
+          "id": "sec_4_2_1_21",
+          "title": "4.2.1.21 MECHANISM INTERFACE"
+        }
+      ],
+      "page": 38,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_tbl_0016",
+      "source": "pdf_text",
       "caption_for": "tbl_0016"
     },
     {
@@ -48,8 +84,25 @@
         "b": 418.52291588772727
       },
       "content": "4.2.2 POWER SUPPLY SUBSYSTEM",
-      "level": 2,
-      "role": "section"
+      "level": 3,
+      "section_number": "4.2.2",
+      "section_id": "sec_4_2_2",
+      "section_path": [
+        {
+          "id": "sec_auto_288",
+          "title": "POWER SUPPLY INTERFACE"
+        },
+        {
+          "id": "sec_4_2_2",
+          "title": "4.2.2 POWER SUPPLY SUBSYSTEM"
+        }
+      ],
+      "parent_section_id": "sec_auto_288",
+      "section_level": 3,
+      "page": 38,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -62,7 +115,24 @@
         "r": 503.98664932110063,
         "b": 383.44751488003277
       },
-      "content": "The power supply subsystem provides DC power to system circuits and interface software controlled power and battery management."
+      "content": "The power supply subsystem provides DC power to system circuits and interface software controlled power and battery management.",
+      "section_id": "sec_4_2_2",
+      "parent_section_id": "sec_auto_288",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_auto_288",
+          "title": "POWER SUPPLY INTERFACE"
+        },
+        {
+          "id": "sec_4_2_2",
+          "title": "4.2.2 POWER SUPPLY SUBSYSTEM"
+        }
+      ],
+      "page": 38,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -75,7 +145,24 @@
         "r": 391.9045651890008,
         "b": 359.4477751839328
       },
-      "content": "The power supply subsystem provides for the following functions:"
+      "content": "The power supply subsystem provides for the following functions:",
+      "section_id": "sec_4_2_2",
+      "parent_section_id": "sec_auto_288",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_auto_288",
+          "title": "POWER SUPPLY INTERFACE"
+        },
+        {
+          "id": "sec_4_2_2",
+          "title": "4.2.2 POWER SUPPLY SUBSYSTEM"
+        }
+      ],
+      "page": 38,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -88,7 +175,24 @@
         "r": 211.95059051250016,
         "b": 341.44794551183276
       },
-      "content": "Main switching regulator"
+      "content": "Main switching regulator",
+      "section_id": "sec_4_2_2",
+      "parent_section_id": "sec_auto_288",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_auto_288",
+          "title": "POWER SUPPLY INTERFACE"
+        },
+        {
+          "id": "sec_4_2_2",
+          "title": "4.2.2 POWER SUPPLY SUBSYSTEM"
+        }
+      ],
+      "page": 38,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -101,7 +205,24 @@
         "r": 184.3067819576999,
         "b": 323.98794838173274
       },
-      "content": "AC power detection"
+      "content": "AC power detection",
+      "section_id": "sec_4_2_2",
+      "parent_section_id": "sec_auto_288",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_auto_288",
+          "title": "POWER SUPPLY INTERFACE"
+        },
+        {
+          "id": "sec_4_2_2",
+          "title": "4.2.2 POWER SUPPLY SUBSYSTEM"
+        }
+      ],
+      "page": 38,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -114,7 +235,24 @@
         "r": 235.70531396260012,
         "b": 306.5879105118327
       },
-      "content": "-Main regulator fault detection"
+      "content": "-Main regulator fault detection",
+      "section_id": "sec_4_2_2",
+      "parent_section_id": "sec_auto_288",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_auto_288",
+          "title": "POWER SUPPLY INTERFACE"
+        },
+        {
+          "id": "sec_4_2_2",
+          "title": "4.2.2 POWER SUPPLY SUBSYSTEM"
+        }
+      ],
+      "page": 38,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -127,7 +265,24 @@
         "r": 269.4827954757001,
         "b": 289.1279133817327
       },
-      "content": "System power (secondary regulators)"
+      "content": "System power (secondary regulators)",
+      "section_id": "sec_4_2_2",
+      "parent_section_id": "sec_auto_288",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_auto_288",
+          "title": "POWER SUPPLY INTERFACE"
+        },
+        {
+          "id": "sec_4_2_2",
+          "title": "4.2.2 POWER SUPPLY SUBSYSTEM"
+        }
+      ],
+      "page": 38,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -140,7 +295,24 @@
         "r": 177.75717898180005,
         "b": 271.66791625163273
       },
-      "content": "-Auxiliary supplies"
+      "content": "-Auxiliary supplies",
+      "section_id": "sec_4_2_2",
+      "parent_section_id": "sec_auto_288",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_auto_288",
+          "title": "POWER SUPPLY INTERFACE"
+        },
+        {
+          "id": "sec_4_2_2",
+          "title": "4.2.2 POWER SUPPLY SUBSYSTEM"
+        }
+      ],
+      "page": 38,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -153,7 +325,24 @@
         "r": 156.54136168079992,
         "b": 254.26787838173266
       },
-      "content": "Power control"
+      "content": "Power control",
+      "section_id": "sec_4_2_2",
+      "parent_section_id": "sec_auto_288",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_auto_288",
+          "title": "POWER SUPPLY INTERFACE"
+        },
+        {
+          "id": "sec_4_2_2",
+          "title": "4.2.2 POWER SUPPLY SUBSYSTEM"
+        }
+      ],
+      "page": 38,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -166,7 +355,24 @@
         "r": 215.63918061590022,
         "b": 236.8078812516327
       },
-      "content": "-Battery charging circuitry"
+      "content": "-Battery charging circuitry",
+      "section_id": "sec_4_2_2",
+      "parent_section_id": "sec_auto_288",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_auto_288",
+          "title": "POWER SUPPLY INTERFACE"
+        },
+        {
+          "id": "sec_4_2_2",
+          "title": "4.2.2 POWER SUPPLY SUBSYSTEM"
+        }
+      ],
+      "page": 38,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -179,7 +385,24 @@
         "r": 277.5117587368999,
         "b": 219.34788412153273
       },
-      "content": "Battery terminal voltage measurement"
+      "content": "Battery terminal voltage measurement",
+      "section_id": "sec_4_2_2",
+      "parent_section_id": "sec_auto_288",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_auto_288",
+          "title": "POWER SUPPLY INTERFACE"
+        },
+        {
+          "id": "sec_4_2_2",
+          "title": "4.2.2 POWER SUPPLY SUBSYSTEM"
+        }
+      ],
+      "page": 38,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -192,7 +415,24 @@
         "r": 330.14841958489984,
         "b": 201.94784625163265
       },
-      "content": "Battery charge/discharge current measurement\\"
+      "content": "Battery charge/discharge current measurement\\",
+      "section_id": "sec_4_2_2",
+      "parent_section_id": "sec_auto_288",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_auto_288",
+          "title": "POWER SUPPLY INTERFACE"
+        },
+        {
+          "id": "sec_4_2_2",
+          "title": "4.2.2 POWER SUPPLY SUBSYSTEM"
+        }
+      ],
+      "page": 38,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

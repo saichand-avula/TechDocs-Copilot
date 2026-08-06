@@ -18,8 +18,21 @@
         "b": 755.7829409281768
       },
       "content": "4-3. Major Dimensions of Head Stock",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "4",
+      "section_id": "sec_4",
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4-3. Major Dimensions of Head Stock"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 47,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -35,12 +48,26 @@
       "image_path": "figures/figure_0066.png",
       "previous_block_id": "txt_0270",
       "next_block_id": "txt_0271",
-      "caption_id": "txt_0271",
       "caption": "Major Dimensions of Head Stock",
       "figure_number": "Fig. 3-5",
       "image_hash": "5a79cb640f4273f919bbb41477e0834a8ffcd0bfa9b29815b85ed135e380898e",
       "width": 439,
-      "height": 282
+      "height": 282,
+      "section_id": "sec_4",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4-3. Major Dimensions of Head Stock"
+        }
+      ],
+      "page": 47,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0066",
+      "source": "pdf_text",
+      "caption_id": "txt_0271"
     },
     {
       "type": "caption",
@@ -54,6 +81,20 @@
         "b": 443.78418892817706
       },
       "content": "Fig. 3-5  Major Dimensions of Head Stock",
+      "section_id": "sec_4",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4-3. Major Dimensions of Head Stock"
+        }
+      ],
+      "page": 47,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0066",
+      "source": "pdf_text",
       "caption_for": "fig_0066"
     },
     {
@@ -69,7 +110,23 @@
       },
       "content": "mm (in)",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_352",
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4-3. Major Dimensions of Head Stock"
+        },
+        {
+          "id": "sec_auto_352",
+          "title": "mm (in)"
+        }
+      ],
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "page": 47,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -84,7 +141,24 @@
       },
       "markdown": "| No.   | SKT 100              | SKT 200        | No.   | SKT 100   | SKT 200   |\n|-------|----------------------|----------------|-------|-----------|-----------|\n| D     | 82.17(3.235)         | 106.375(4.188) | t2    | 22.4      | 21        |\n| D1    | 62(2.56)             | 90(3.54)       | t3    | 9         | 5         |\n| D2    | 104.8(4.125)         | 133.4(5.25)    | t4    | 20        | 17.5      |\n| D3    | 135(5.31)            | 210(8.26)      | t5    | 3         | 18.5      |\n| D4    | 90(3.54)             | 110(4.33)      | L1    | 474.8     | 535.1     |\n| D5    | 87(3.43) [100(3.94)] | 130(5.12)      | L2    | 519.2     | 575.4     |\n| D6    | 150(5.91)            | 145(5.71)      | n-Z1  | 11-M12    | 11-M12    |\n| D7    | 176(6.93)            | 190(7.48)      | n-Z2  | 8-M8      | 8-M6      |\n| d1    | 54(2.13)             | 78(3.07)       | n-Z3  | 6-M10     | 6-M10     |\n| d2    | 53(2.09)             | 78(3.07)       | n-Z4  | 6-M10     | 3-M8      |\n| d3    | 16(0.63)             | 19.05(0.75)    | Z5    | 10        | 10.2      |\n| t     | 4.75(0.187)          | 4.8(0.189)     | Z6    | M6        | M8        |\n| t1    | 13(5.12)             | 14.3(0.563)    | Z6    | 50        | 30        |",
       "rows": 14,
-      "cols": 6
+      "cols": 6,
+      "section_id": "sec_auto_352",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4-3. Major Dimensions of Head Stock"
+        },
+        {
+          "id": "sec_auto_352",
+          "title": "mm (in)"
+        }
+      ],
+      "page": 47,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

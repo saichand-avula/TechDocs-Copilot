@@ -19,7 +19,23 @@
       },
       "content": "Local ITT Contacts",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_2254",
+      "section_path": [
+        {
+          "id": "sec_3196",
+          "title": "3196 interchangeability"
+        },
+        {
+          "id": "sec_auto_2254",
+          "title": "Local ITT Contacts"
+        }
+      ],
+      "parent_section_id": "sec_3196",
+      "section_level": 2,
+      "page": 153,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -34,7 +50,23 @@
       },
       "content": "Regional offices",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_2255",
+      "section_path": [
+        {
+          "id": "sec_3196",
+          "title": "3196 interchangeability"
+        },
+        {
+          "id": "sec_auto_2255",
+          "title": "Regional offices"
+        }
+      ],
+      "parent_section_id": "sec_3196",
+      "section_level": 2,
+      "page": 153,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -49,7 +81,24 @@
       },
       "markdown": "| Region                       | Address                                                                                                       | Telephone        | Fax              |\n|------------------------------|---------------------------------------------------------------------------------------------------------------|------------------|------------------|\n| North America (Headquarters) | ITT - Goulds Pumps 240 Fall Street Seneca Falls, NY 13148 USA                                                 | +1-315-568-2811  | +1-315-568-2418  |\n| Asia Pacific                 | ITT Industrial Process 10 Jalan Kilang #06-01 Singapore 159410                                                | +65-627-63693    | +65- 627-63685   |\n| Europe                       | ITT - Goulds Pumps Millwey Rise Industrial Estate Axminster, Devon, England EX13 5HU                          | +44-1297-630250  | +44-1297-630256  |\n| Latin America                | ITT - Goulds Pumps Camino La Colina # 1448 Condominio Industrial El Rosal Huechuraba - Santiago 8580000 Chile | +562-544-7000    | +562-544-7001    |\n| Middle East and Africa       | ITT - Goulds Pumps Achileos Kyrou 4 Neo Psychiko 115 25 Athens Greece                                         | +30-210-677-0770 | +30-210-677-5642 |",
       "rows": 6,
-      "cols": 4
+      "cols": 4,
+      "section_id": "sec_auto_2255",
+      "parent_section_id": "sec_3196",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3196",
+          "title": "3196 interchangeability"
+        },
+        {
+          "id": "sec_auto_2255",
+          "title": "Regional offices"
+        }
+      ],
+      "page": 153,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

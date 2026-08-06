@@ -17,7 +17,24 @@
         "r": 520.2089339999995,
         "b": 760.1629409281768
       },
-      "content": "B:Standard, O: Option"
+      "content": "B:Standard, O: Option",
+      "section_id": "sec_auto_314",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-1. G-Function"
+        },
+        {
+          "id": "sec_auto_314",
+          "title": "B. Standard, O: Option"
+        }
+      ],
+      "page": 41,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -32,7 +49,24 @@
       },
       "markdown": "| Standard G Code   | Group   | Function                              | Function                              | Type   |\n|-------------------|---------|---------------------------------------|---------------------------------------|--------|\n| G70               |         | Finishing cycle                       | Multiple repetitive cycle             | O      |\n| G71               |         | Rough turning                         | Multiple repetitive cycle             | O      |\n| G72               |         | Rough facing                          | Multiple repetitive cycle             | O      |\n| G73               |         | Pattern repeating cycle               | Multiple repetitive cycle             | O      |\n| G74               |         | End face peck drilling cycle          | Multiple repetitive cycle             | O      |\n| G75               |         | Grooving in X-axis                    | Multiple repetitive cycle             | O      |\n| G76               |         | Thread cutting cycle                  | Multiple repetitive cycle             | O      |\n| G90               | 01      | Turning cycle A                       | Turning cycle A                       | B      |\n| G92               | 01      | Thread cutting cycle                  | Thread cutting cycle                  | B      |\n| G94               | 01      | Facing cycle B                        | Facing cycle B                        | B      |\n| G96               | 02      | Constant surface speed control        | Constant surface speed control        | B      |\n| G97               | 02      | Constant surface speed control cancel | Constant surface speed control cancel | B      |\n| G98               | 04      | Feed per minute (mm/min)              | Feed per minute (mm/min)              | B      |\n| G99               | 04      | Feed per revolution (mm/rev)          | Feed per revolution (mm/rev)          | B      |\n| G122              | 11      | Tool registration start               | Tool Life Management                  | O      |\n| G123              | 11      | Tool registration finish              | Tool Life Management                  | O      |\n| G111              | *       | Taper multi chamfering/R              | Taper multi chamfering/R              | O      |\n| G112              | *       | Circular multi chamfering/R           | Circular multi chamfering/R           | O      |\n| G141              | *       | Tool nose R left compensation         | Tool nose R left compensation         | B      |\n| G142              | *       | Tool nose R right compensation        | Tool nose R right compensation        | B      |\n| G150              | 13      | Groove width compensation OFF         | Groove width compensation OFF         | B      |\n| G151              | 13      | Groove width compensation ON          | Groove width compensation ON          | B      |",
       "rows": 23,
-      "cols": 5
+      "cols": 5,
+      "section_id": "sec_auto_314",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-1. G-Function"
+        },
+        {
+          "id": "sec_auto_314",
+          "title": "B. Standard, O: Option"
+        }
+      ],
+      "page": 41,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -45,7 +79,24 @@
         "r": 310.24970399999995,
         "b": 318.80336492817673
       },
-      "content": "The G code of group 01-03 is called \"modal G code\" ."
+      "content": "The G code of group 01-03 is called \"modal G code\" .",
+      "section_id": "sec_auto_314",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-1. G-Function"
+        },
+        {
+          "id": "sec_auto_314",
+          "title": "B. Standard, O: Option"
+        }
+      ],
+      "page": 41,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -58,7 +109,24 @@
         "r": 379.8917099999995,
         "b": 296.8435329281767
       },
-      "content": "If the G code commanded, it is effective until another G code is done."
+      "content": "If the G code commanded, it is effective until another G code is done.",
+      "section_id": "sec_auto_314",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-1. G-Function"
+        },
+        {
+          "id": "sec_auto_314",
+          "title": "B. Standard, O: Option"
+        }
+      ],
+      "page": 41,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -71,7 +139,24 @@
         "r": 135.12415200000004,
         "b": 274.82358092817685
       },
-      "content": "Group 01 :"
+      "content": "Group 01 :",
+      "section_id": "sec_auto_314",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-1. G-Function"
+        },
+        {
+          "id": "sec_auto_314",
+          "title": "B. Standard, O: Option"
+        }
+      ],
+      "page": 41,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -84,7 +169,24 @@
         "r": 289.629546,
         "b": 274.82358092817685
       },
-      "content": "Controlling the movement of tool"
+      "content": "Controlling the movement of tool",
+      "section_id": "sec_auto_314",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-1. G-Function"
+        },
+        {
+          "id": "sec_auto_314",
+          "title": "B. Standard, O: Option"
+        }
+      ],
+      "page": 41,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -97,7 +199,24 @@
         "r": 135.12415200000004,
         "b": 252.80362892817675
       },
-      "content": "Group 02 :"
+      "content": "Group 02 :",
+      "section_id": "sec_auto_314",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-1. G-Function"
+        },
+        {
+          "id": "sec_auto_314",
+          "title": "B. Standard, O: Option"
+        }
+      ],
+      "page": 41,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -110,7 +229,24 @@
         "r": 289.629546,
         "b": 252.80362892817675
       },
-      "content": "Controlling the movement of tool"
+      "content": "Controlling the movement of tool",
+      "section_id": "sec_auto_314",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-1. G-Function"
+        },
+        {
+          "id": "sec_auto_314",
+          "title": "B. Standard, O: Option"
+        }
+      ],
+      "page": 41,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -123,7 +259,24 @@
         "r": 135.14519400000003,
         "b": 230.84379692817674
       },
-      "content": "Group 04 :"
+      "content": "Group 04 :",
+      "section_id": "sec_auto_314",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-1. G-Function"
+        },
+        {
+          "id": "sec_auto_314",
+          "title": "B. Standard, O: Option"
+        }
+      ],
+      "page": 41,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -136,7 +289,24 @@
         "r": 314.1414719999996,
         "b": 230.84379692817674
       },
-      "content": "Controlling the movement of tool nose"
+      "content": "Controlling the movement of tool nose",
+      "section_id": "sec_auto_314",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-1. G-Function"
+        },
+        {
+          "id": "sec_auto_314",
+          "title": "B. Standard, O: Option"
+        }
+      ],
+      "page": 41,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -149,7 +319,24 @@
         "r": 330.8418060000001,
         "b": 208.82384492817687
       },
-      "content": "Group 07 and 08 :  Setting enable / disable area of tool"
+      "content": "Group 07 and 08 :  Setting enable / disable area of tool",
+      "section_id": "sec_auto_314",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-1. G-Function"
+        },
+        {
+          "id": "sec_auto_314",
+          "title": "B. Standard, O: Option"
+        }
+      ],
+      "page": 41,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -162,7 +349,24 @@
         "r": 135.13818000000003,
         "b": 186.80389292817677
       },
-      "content": "Group 01 :"
+      "content": "Group 01 :",
+      "section_id": "sec_auto_314",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-1. G-Function"
+        },
+        {
+          "id": "sec_auto_314",
+          "title": "B. Standard, O: Option"
+        }
+      ],
+      "page": 41,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -175,7 +379,24 @@
         "r": 334.6504080000001,
         "b": 186.80389292817677
       },
-      "content": "Controlling the groove width compensation"
+      "content": "Controlling the groove width compensation",
+      "section_id": "sec_auto_314",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-1. G-Function"
+        },
+        {
+          "id": "sec_auto_314",
+          "title": "B. Standard, O: Option"
+        }
+      ],
+      "page": 41,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

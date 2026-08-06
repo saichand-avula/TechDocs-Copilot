@@ -17,7 +17,24 @@
         "r": 214.15999999999997,
         "b": 720.7
       },
-      "content": "Remove the door."
+      "content": "Remove the door.",
+      "section_id": "sec_auto_3421",
+      "parent_section_id": "sec_11",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_11",
+          "title": "11. Remove the right cover."
+        },
+        {
+          "id": "sec_auto_3421",
+          "title": "Post service test"
+        }
+      ],
+      "page": 315,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -38,6 +55,24 @@
       "height": 217,
       "previous_block_id": "txt_2587",
       "next_block_id": "txt_2588",
+      "section_id": "sec_auto_3421",
+      "parent_section_id": "sec_11",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_11",
+          "title": "11. Remove the right cover."
+        },
+        {
+          "id": "sec_auto_3421",
+          "title": "Post service test"
+        }
+      ],
+      "page": 315,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0863",
+      "source": "pdf_text",
       "caption_id": "txt_2588"
     },
     {
@@ -52,6 +87,24 @@
         "b": 699.7
       },
       "content": "Figure 1-485  Remove the door",
+      "section_id": "sec_auto_3421",
+      "parent_section_id": "sec_11",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_11",
+          "title": "11. Remove the right cover."
+        },
+        {
+          "id": "sec_auto_3421",
+          "title": "Post service test"
+        }
+      ],
+      "page": 315,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0863",
+      "source": "pdf_text",
       "caption_for": "fig_0863"
     },
     {
@@ -66,8 +119,21 @@
         "b": 458.83
       },
       "content": "5. Remove the right cover.",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "5",
+      "section_id": "sec_5",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5. Remove the right cover."
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 315,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -86,7 +152,20 @@
       "height": 13,
       "image_hash": "2105793e629132f70c5f4c60b76b76a76fe6616d037c4105b35bed5e962fd577",
       "previous_block_id": "txt_2589",
-      "next_block_id": "txt_2590"
+      "next_block_id": "txt_2590",
+      "section_id": "sec_5",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5. Remove the right cover."
+        }
+      ],
+      "page": 315,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "admonition",
@@ -100,7 +179,20 @@
         "b": 423.33
       },
       "content": "IMPORTANT: The black-plastic cassette front and rear guides (located inside the tray cavity) can be easily dislodged. Do not lose the guides when the cover is removed or installed.",
-      "severity": "important"
+      "severity": "important",
+      "section_id": "sec_5",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5. Remove the right cover."
+        }
+      ],
+      "page": 315,
+      "chunk_hint": "admonition",
+      "semantic_role": "important",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -113,7 +205,20 @@
         "r": 502.01006000000024,
         "b": 402.33
       },
-      "content": "An MFP printer is shown in this section. However, the procedure is correct for all printer models."
+      "content": "An MFP printer is shown in this section. However, the procedure is correct for all printer models.",
+      "section_id": "sec_5",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5. Remove the right cover."
+        }
+      ],
+      "page": 315,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -126,7 +231,20 @@
         "r": 515.5600000000004,
         "b": 379.83
       },
-      "content": "Before proceeding, take note of the location of the tabs and bosses on the inside of the cover."
+      "content": "Before proceeding, take note of the location of the tabs and bosses on the inside of the cover.",
+      "section_id": "sec_5",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5. Remove the right cover."
+        }
+      ],
+      "page": 315,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -147,6 +265,20 @@
       "height": 218,
       "previous_block_id": "txt_2592",
       "next_block_id": "txt_2593",
+      "section_id": "sec_5",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5. Remove the right cover."
+        }
+      ],
+      "page": 315,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0865",
+      "source": "pdf_text",
       "caption_id": "txt_2593"
     },
     {
@@ -161,6 +293,20 @@
         "b": 358.83
       },
       "content": "Figure 1-486  Locate the tabs and bosses",
+      "section_id": "sec_5",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5. Remove the right cover."
+        }
+      ],
+      "page": 315,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0865",
+      "source": "pdf_text",
       "caption_for": "fig_0865"
     }
   ],

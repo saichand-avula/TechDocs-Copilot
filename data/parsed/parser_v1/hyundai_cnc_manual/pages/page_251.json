@@ -19,7 +19,23 @@
       },
       "content": "b) Serial communication LSI chip defective",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_2302",
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-35. Alarm AL-53"
+        },
+        {
+          "id": "sec_auto_2302",
+          "title": "b) Serial communication LSI chip defective"
+        }
+      ],
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "page": 251,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -32,7 +48,24 @@
         "r": 329.05008000000043,
         "b": 711.8723
       },
-      "content": "⇒ Replace the printed-circuit board."
+      "content": "⇒ Replace the printed-circuit board.",
+      "section_id": "sec_auto_2302",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-35. Alarm AL-53"
+        },
+        {
+          "id": "sec_auto_2302",
+          "title": "b) Serial communication LSI chip defective"
+        }
+      ],
+      "page": 251,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -46,8 +79,21 @@
         "b": 678.8030369281769
       },
       "content": "1-36. Alarm AL-54",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "1",
+      "section_id": "sec_1",
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-36. Alarm AL-54"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 251,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -60,7 +106,20 @@
         "r": 184.05967800000002,
         "b": 644.7831329281769
       },
-      "content": "Meaning"
+      "content": "Meaning",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-36. Alarm AL-54"
+        }
+      ],
+      "page": 251,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -73,7 +132,20 @@
         "r": 460.3802159999999,
         "b": 627.8032409281769
       },
-      "content": "It was detected that a high current flowed in the motor for a long period."
+      "content": "It was detected that a high current flowed in the motor for a long period.",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-36. Alarm AL-54"
+        }
+      ],
+      "page": 251,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -86,7 +158,20 @@
         "r": 269.68358400000005,
         "b": 593.7833369281769
       },
-      "content": "Cause and corrective action"
+      "content": "Cause and corrective action",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-36. Alarm AL-54"
+        }
+      ],
+      "page": 251,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -99,7 +184,20 @@
         "r": 409.7932440000001,
         "b": 576.803444928177
       },
-      "content": "Overloaded operation, or frequent acceleration/deceleration"
+      "content": "Overloaded operation, or frequent acceleration/deceleration",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-36. Alarm AL-54"
+        }
+      ],
+      "page": 251,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -112,7 +210,20 @@
         "r": 527.3428740000004,
         "b": 542.783540928177
       },
-      "content": "Check the load meter to see if the load is too heavy. Also check that acceleration/deceleration was repeated frequently."
+      "content": "Check the load meter to see if the load is too heavy. Also check that acceleration/deceleration was repeated frequently.",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-36. Alarm AL-54"
+        }
+      ],
+      "page": 251,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -125,7 +236,20 @@
         "r": 347.400708,
         "b": 524.8523
       },
-      "content": "⇒ Examine the cutting conditions again."
+      "content": "⇒ Examine the cutting conditions again.",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-36. Alarm AL-54"
+        }
+      ],
+      "page": 251,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -139,8 +263,21 @@
         "b": 491.78303692817684
       },
       "content": "1-37. Alarm AL-55",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "1",
+      "section_id": "sec_1",
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-37. Alarm AL-55"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 251,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -153,7 +290,20 @@
         "r": 184.05967800000002,
         "b": 457.8232529281768
       },
-      "content": "Meaning"
+      "content": "Meaning",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-37. Alarm AL-55"
+        }
+      ],
+      "page": 251,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -166,7 +316,20 @@
         "r": 527.3098080000011,
         "b": 406.8234569281768
       },
-      "content": "During spindle switching control or speed range switching control, there was a conflict between  the  switch  request  signal  (SPSL  or  RSL)  and  the  power  line  state confirmation signal (MCFN, MFNHG, or RCH, RCHH(G)."
+      "content": "During spindle switching control or speed range switching control, there was a conflict between  the  switch  request  signal  (SPSL  or  RSL)  and  the  power  line  state confirmation signal (MCFN, MFNHG, or RCH, RCHH(G).",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-37. Alarm AL-55"
+        }
+      ],
+      "page": 251,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -179,7 +342,20 @@
         "r": 269.68358400000005,
         "b": 372.8035529281768
       },
-      "content": "Cause and corrective action"
+      "content": "Cause and corrective action",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-37. Alarm AL-55"
+        }
+      ],
+      "page": 251,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -192,7 +368,20 @@
         "r": 527.3248380000011,
         "b": 338.78364892817683
       },
-      "content": "Switching  umt(magnetic  contactor  for  power  line  switchin(g)  defective  Check  the operation of the switching unit."
+      "content": "Switching  umt(magnetic  contactor  for  power  line  switchin(g)  defective  Check  the operation of the switching unit.",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-37. Alarm AL-55"
+        }
+      ],
+      "page": 251,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -205,7 +394,20 @@
         "r": 504.62252400000136,
         "b": 320.8523
       },
-      "content": "⇒ Replace the switching unit (magnetic contactor for power line switchin(g)."
+      "content": "⇒ Replace the switching unit (magnetic contactor for power line switchin(g).",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-37. Alarm AL-55"
+        }
+      ],
+      "page": 251,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -218,7 +420,20 @@
         "r": 486.4462439999989,
         "b": 287.7830369281768
       },
-      "content": "Loose contact of the magnetic contactor state signal (auxiliary contact signal)"
+      "content": "Loose contact of the magnetic contactor state signal (auxiliary contact signal)",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-37. Alarm AL-55"
+        }
+      ],
+      "page": 251,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -231,7 +446,20 @@
         "r": 461.29303800000116,
         "b": 270.80314492817683
       },
-      "content": "Make sure that the magnetic contactor state signal is switched properly."
+      "content": "Make sure that the magnetic contactor state signal is switched properly.",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-37. Alarm AL-55"
+        }
+      ],
+      "page": 251,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -244,7 +472,20 @@
         "r": 366.0885899999992,
         "b": 252.87239999999997
       },
-      "content": "⇒ Connect the magnetic contactor correctly."
+      "content": "⇒ Connect the magnetic contactor correctly.",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-37. Alarm AL-55"
+        }
+      ],
+      "page": 251,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -257,7 +498,20 @@
         "r": 265.19620799999996,
         "b": 219.80313692817685
       },
-      "content": "Incorrect parameter setting"
+      "content": "Incorrect parameter setting",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-37. Alarm AL-55"
+        }
+      ],
+      "page": 251,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -270,7 +524,20 @@
         "r": 527.3133960000007,
         "b": 185.78323292817686
       },
-      "content": "Make  sure  that  the  parameters  for  the  power  line  state  signals  related  to  spindle switch control and output switch control are set correctly."
+      "content": "Make  sure  that  the  parameters  for  the  power  line  state  signals  related  to  spindle switch control and output switch control are set correctly.",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-37. Alarm AL-55"
+        }
+      ],
+      "page": 251,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

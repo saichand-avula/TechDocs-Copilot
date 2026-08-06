@@ -19,12 +19,30 @@
       },
       "image_path": "figures/figure_0012.png",
       "next_block_id": "txt_0316",
-      "caption_id": "txt_0316",
       "caption": ". THREE-PHASE GENERATOR SET SCHEMATIC",
       "figure_number": "FIGURE 5-4",
       "image_hash": "75312000cd1a400ed4de15ca988b0aec282bc2a0d1d8fa62797aae7aca53687c",
       "width": 518,
-      "height": 585
+      "height": 585,
+      "section_id": "sec_auto_318",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5. Generator Set/Voltage Regulator"
+        },
+        {
+          "id": "sec_auto_318",
+          "title": "GENERAL DESCRIPTION"
+        }
+      ],
+      "page": 26,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0012",
+      "source": "pdf_text",
+      "caption_id": "txt_0316"
     },
     {
       "type": "caption",
@@ -38,6 +56,24 @@
         "b": 125.83635693988754
       },
       "content": "FIGURE 5-4. THREE-PHASE GENERATOR SET SCHEMATIC",
+      "section_id": "sec_auto_318",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5. Generator Set/Voltage Regulator"
+        },
+        {
+          "id": "sec_auto_318",
+          "title": "GENERAL DESCRIPTION"
+        }
+      ],
+      "page": 26,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0012",
+      "source": "pdf_text",
       "caption_for": "fig_0012"
     }
   ],

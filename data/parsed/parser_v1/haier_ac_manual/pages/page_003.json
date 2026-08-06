@@ -18,8 +18,21 @@
         "b": 751.4924440000001
       },
       "content": "1. Introduction",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "1",
+      "section_id": "sec_1",
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Introduction"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 3,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -34,7 +47,24 @@
       },
       "content": "1.1 Safety Cautions",
       "level": 2,
-      "role": "section"
+      "section_number": "1.1",
+      "section_id": "sec_1_1",
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Introduction"
+        },
+        {
+          "id": "sec_1_1",
+          "title": "1.1 Safety Cautions"
+        }
+      ],
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "page": 3,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -47,7 +77,24 @@
         "r": 396.5273500800002,
         "b": 703.315463
       },
-      "content": "Be sure to read the following safety cautions before conducting repair work."
+      "content": "Be sure to read the following safety cautions before conducting repair work.",
+      "section_id": "sec_1_1",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Introduction"
+        },
+        {
+          "id": "sec_1_1",
+          "title": "1.1 Safety Cautions"
+        }
+      ],
+      "page": 3,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -60,7 +107,24 @@
         "r": 548.3729085599991,
         "b": 642.0194905100001
       },
-      "content": "The caution items are classified into 'Warning' and 'Caution'. The 'Warning' items are especially important since they can lead to death or serious injury if they are not followed closely. The 'Caution' items can also lead to serious accidents under some conditions if they are not followed. Therefore, be sure to observe all the safety caution items described below."
+      "content": "The caution items are classified into 'Warning' and 'Caution'. The 'Warning' items are especially important since they can lead to death or serious injury if they are not followed closely. The 'Caution' items can also lead to serious accidents under some conditions if they are not followed. Therefore, be sure to observe all the safety caution items described below.",
+      "section_id": "sec_1_1",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Introduction"
+        },
+        {
+          "id": "sec_1_1",
+          "title": "1.1 Safety Cautions"
+        }
+      ],
+      "page": 3,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -75,7 +139,23 @@
       },
       "content": "About the pictograms",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_12",
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Introduction"
+        },
+        {
+          "id": "sec_auto_12",
+          "title": "About the pictograms"
+        }
+      ],
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "page": 3,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -88,7 +168,24 @@
         "r": 374.14016850000036,
         "b": 611.37001931
       },
-      "content": "This symbol indicates an item for which caution must be exercised."
+      "content": "This symbol indicates an item for which caution must be exercised.",
+      "section_id": "sec_auto_12",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Introduction"
+        },
+        {
+          "id": "sec_auto_12",
+          "title": "About the pictograms"
+        }
+      ],
+      "page": 3,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -101,7 +198,24 @@
         "r": 370.14563955000034,
         "b": 596.04627368
       },
-      "content": "The pictogram shows the item to which attention must be paid."
+      "content": "The pictogram shows the item to which attention must be paid.",
+      "section_id": "sec_auto_12",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Introduction"
+        },
+        {
+          "id": "sec_auto_12",
+          "title": "About the pictograms"
+        }
+      ],
+      "page": 3,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -114,7 +228,24 @@
         "r": 278.2338548399994,
         "b": 580.72153808
       },
-      "content": "This symbol indicates a prohibited action."
+      "content": "This symbol indicates a prohibited action.",
+      "section_id": "sec_auto_12",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Introduction"
+        },
+        {
+          "id": "sec_auto_12",
+          "title": "About the pictograms"
+        }
+      ],
+      "page": 3,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -127,7 +258,24 @@
         "r": 379.0890285300004,
         "b": 565.3968024799999
       },
-      "content": "The prohibited item or action is shown inside or near the symbol."
+      "content": "The prohibited item or action is shown inside or near the symbol.",
+      "section_id": "sec_auto_12",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Introduction"
+        },
+        {
+          "id": "sec_auto_12",
+          "title": "About the pictograms"
+        }
+      ],
+      "page": 3,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -140,7 +288,24 @@
         "r": 381.6778000800004,
         "b": 550.0720668799999
       },
-      "content": "This symbol indicates an action that must be taken, or an instruction."
+      "content": "This symbol indicates an action that must be taken, or an instruction.",
+      "section_id": "sec_auto_12",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Introduction"
+        },
+        {
+          "id": "sec_auto_12",
+          "title": "About the pictograms"
+        }
+      ],
+      "page": 3,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -153,7 +318,24 @@
         "r": 319.02556869000017,
         "b": 534.7473312799998
       },
-      "content": "The instruction is shown inside or near the symbol."
+      "content": "The instruction is shown inside or near the symbol.",
+      "section_id": "sec_auto_12",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Introduction"
+        },
+        {
+          "id": "sec_auto_12",
+          "title": "About the pictograms"
+        }
+      ],
+      "page": 3,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -166,7 +348,24 @@
         "r": 548.2996507800003,
         "b": 504.09786007999975
       },
-      "content": "After the repair work is complete, be sure to conduct a test operation to ensure that the equipment operates normally, and explain the cautions for operating the product to the customer."
+      "content": "After the repair work is complete, be sure to conduct a test operation to ensure that the equipment operates normally, and explain the cautions for operating the product to the customer.",
+      "section_id": "sec_auto_12",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Introduction"
+        },
+        {
+          "id": "sec_auto_12",
+          "title": "About the pictograms"
+        }
+      ],
+      "page": 3,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -180,8 +379,29 @@
         "b": 463.518432
       },
       "content": "1.1.1 Caution in Repair",
-      "level": 2,
-      "role": "section"
+      "level": 3,
+      "section_number": "1.1.1",
+      "section_id": "sec_1_1_1",
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Introduction"
+        },
+        {
+          "id": "sec_auto_12",
+          "title": "About the pictograms"
+        },
+        {
+          "id": "sec_1_1_1",
+          "title": "1.1.1 Caution in Repair"
+        }
+      ],
+      "parent_section_id": "sec_auto_12",
+      "section_level": 3,
+      "page": 3,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -196,7 +416,28 @@
       },
       "markdown": "| Warning                                                                                                                                                                                                                                                                                                                                                                             |\n|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Be sure to disconnect the power cable plug from the plug socket before disassembling the equipment for a repair. Working on the equipment that is connected to a power supply can cause an electrical shook. If it is necessary to supply power to the equipment to conduct the repair or inspecting the circuits, do not touch any electrically charged sections of the equipment. |\n| If the refrigerant gas discharges during the repair work, do not touch the discharging refrigerant gas.The refrigerant gas can cause frostbite.                                                                                                                                                                                                                                     |\n| When disconnecting the suction or discharge pipe of the compressor at the welded section, release the refrigerant gas completely at a well-ventilated place first. If there is a gas remaining inside the compressor, the refrigerant gas or refrigerating machine oil discharges when the pipe is disconnected, and it can cause injury.                                           |\n| If the refrigerant gas leaks during the repair work, ventilate the area. The refrigerant gas can generate toxic gases when it contacts flames.                                                                                                                                                                                                                                      |\n| The step-up capacitor supplies high-voltage electricity to the electrical components of the outdoor unit. Be sure to discharge the capacitor completely before conducting repair work.A charged capacitor can cause an electrical shock.                                                                                                                                            |\n| Do not start or stop the air conditioner operation by plugging or unplugging the power cable plug. Plugging or unplugging the power cable plug to operate the equipment can cause an electrical shock or fire.                                                                                                                                                                      |",
       "rows": 7,
-      "cols": 1
+      "cols": 1,
+      "section_id": "sec_1_1_1",
+      "parent_section_id": "sec_auto_12",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Introduction"
+        },
+        {
+          "id": "sec_auto_12",
+          "title": "About the pictograms"
+        },
+        {
+          "id": "sec_1_1_1",
+          "title": "1.1.1 Caution in Repair"
+        }
+      ],
+      "page": 3,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -214,7 +455,28 @@
       "next_block_id": "txt_0018",
       "width": 38,
       "height": 40,
-      "image_hash": "65ec0d353f6969b13d6d0a0bb0cfe95a524a048ee9eed88d22b7b17b0948bc3d"
+      "image_hash": "65ec0d353f6969b13d6d0a0bb0cfe95a524a048ee9eed88d22b7b17b0948bc3d",
+      "section_id": "sec_1_1_1",
+      "parent_section_id": "sec_auto_12",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Introduction"
+        },
+        {
+          "id": "sec_auto_12",
+          "title": "About the pictograms"
+        },
+        {
+          "id": "sec_1_1_1",
+          "title": "1.1.1 Caution in Repair"
+        }
+      ],
+      "page": 3,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -232,7 +494,28 @@
       "next_block_id": "txt_0018",
       "width": 41,
       "height": 39,
-      "image_hash": "b25ce52bf143cea4374be9e9e0d36c544b48181bfd9ee861aeee392143845548"
+      "image_hash": "b25ce52bf143cea4374be9e9e0d36c544b48181bfd9ee861aeee392143845548",
+      "section_id": "sec_1_1_1",
+      "parent_section_id": "sec_auto_12",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Introduction"
+        },
+        {
+          "id": "sec_auto_12",
+          "title": "About the pictograms"
+        },
+        {
+          "id": "sec_1_1_1",
+          "title": "1.1.1 Caution in Repair"
+        }
+      ],
+      "page": 3,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -250,7 +533,28 @@
       "next_block_id": "txt_0018",
       "width": 41,
       "height": 40,
-      "image_hash": "2fef70c91ca109f55c63505569934079a5c290902c8c809eae180af169e301ac"
+      "image_hash": "2fef70c91ca109f55c63505569934079a5c290902c8c809eae180af169e301ac",
+      "section_id": "sec_1_1_1",
+      "parent_section_id": "sec_auto_12",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Introduction"
+        },
+        {
+          "id": "sec_auto_12",
+          "title": "About the pictograms"
+        },
+        {
+          "id": "sec_1_1_1",
+          "title": "1.1.1 Caution in Repair"
+        }
+      ],
+      "page": 3,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -268,7 +572,28 @@
       "next_block_id": "txt_0018",
       "width": 43,
       "height": 39,
-      "image_hash": "93dff8f769a51c3e6b3b2bd1930c9a2b771f3ea934bf74a65568ba96e1d51c2c"
+      "image_hash": "93dff8f769a51c3e6b3b2bd1930c9a2b771f3ea934bf74a65568ba96e1d51c2c",
+      "section_id": "sec_1_1_1",
+      "parent_section_id": "sec_auto_12",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Introduction"
+        },
+        {
+          "id": "sec_auto_12",
+          "title": "About the pictograms"
+        },
+        {
+          "id": "sec_1_1_1",
+          "title": "1.1.1 Caution in Repair"
+        }
+      ],
+      "page": 3,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -286,7 +611,28 @@
       "next_block_id": "txt_0018",
       "width": 41,
       "height": 40,
-      "image_hash": "8bfb3cb8ffa501927d7511cb6953931e7d989338d849c84ebc15202521c07ca1"
+      "image_hash": "8bfb3cb8ffa501927d7511cb6953931e7d989338d849c84ebc15202521c07ca1",
+      "section_id": "sec_1_1_1",
+      "parent_section_id": "sec_auto_12",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Introduction"
+        },
+        {
+          "id": "sec_auto_12",
+          "title": "About the pictograms"
+        },
+        {
+          "id": "sec_1_1_1",
+          "title": "1.1.1 Caution in Repair"
+        }
+      ],
+      "page": 3,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -299,7 +645,28 @@
         "r": 546.0025532000006,
         "b": 11.519663000000037
       },
-      "content": "Domestic Air Conditioner"
+      "content": "Domestic Air Conditioner",
+      "section_id": "sec_1_1_1",
+      "parent_section_id": "sec_auto_12",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Introduction"
+        },
+        {
+          "id": "sec_auto_12",
+          "title": "About the pictograms"
+        },
+        {
+          "id": "sec_1_1_1",
+          "title": "1.1.1 Caution in Repair"
+        }
+      ],
+      "page": 3,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -316,7 +683,28 @@
       "previous_block_id": "txt_0018",
       "width": 36,
       "height": 10,
-      "image_hash": "70fe4d0357d0ad2b830cd408efd8a3b8cc43aaa3edef928d67cd258b358dd2f8"
+      "image_hash": "70fe4d0357d0ad2b830cd408efd8a3b8cc43aaa3edef928d67cd258b358dd2f8",
+      "section_id": "sec_1_1_1",
+      "parent_section_id": "sec_auto_12",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Introduction"
+        },
+        {
+          "id": "sec_auto_12",
+          "title": "About the pictograms"
+        },
+        {
+          "id": "sec_1_1_1",
+          "title": "1.1.1 Caution in Repair"
+        }
+      ],
+      "page": 3,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

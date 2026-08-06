@@ -18,8 +18,25 @@
         "b": 687.1875
       },
       "content": "3.3.5 Measurement Parameter Operation Tests",
-      "level": 2,
-      "role": "section"
+      "level": 3,
+      "section_number": "3.3.5",
+      "section_id": "sec_3_3_5",
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. Test #4: Print-on-alarm"
+        },
+        {
+          "id": "sec_3_3_5",
+          "title": "3.3.5 Measurement Parameter Operation Tests"
+        }
+      ],
+      "parent_section_id": "sec_7",
+      "section_level": 3,
+      "page": 24,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -33,8 +50,29 @@
         "b": 660.1875
       },
       "content": "3.3.5.1 ECG Operation with an ECG Simulator",
-      "level": 2,
-      "role": "section"
+      "level": 4,
+      "section_number": "3.3.5.1",
+      "section_id": "sec_3_3_5_1",
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. Test #4: Print-on-alarm"
+        },
+        {
+          "id": "sec_3_3_5",
+          "title": "3.3.5 Measurement Parameter Operation Tests"
+        },
+        {
+          "id": "sec_3_3_5_1",
+          "title": "3.3.5.1 ECG Operation with an ECG Simulator"
+        }
+      ],
+      "parent_section_id": "sec_3_3_5",
+      "section_level": 4,
+      "page": 24,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -47,7 +85,28 @@
         "r": 369.5625,
         "b": 632.99625
       },
-      "content": "Press Power On/Off switch to turn monitor on."
+      "content": "Press Power On/Off switch to turn monitor on.",
+      "section_id": "sec_3_3_5_1",
+      "parent_section_id": "sec_3_3_5",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. Test #4: Print-on-alarm"
+        },
+        {
+          "id": "sec_3_3_5",
+          "title": "3.3.5 Measurement Parameter Operation Tests"
+        },
+        {
+          "id": "sec_3_3_5_1",
+          "title": "3.3.5.1 ECG Operation with an ECG Simulator"
+        }
+      ],
+      "page": 24,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -60,7 +119,28 @@
         "r": 422.0617500000001,
         "b": 605.99625
       },
-      "content": "Connect ECG leads to appropriate jacks on ECG simulator."
+      "content": "Connect ECG leads to appropriate jacks on ECG simulator.",
+      "section_id": "sec_3_3_5_1",
+      "parent_section_id": "sec_3_3_5",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. Test #4: Print-on-alarm"
+        },
+        {
+          "id": "sec_3_3_5",
+          "title": "3.3.5 Measurement Parameter Operation Tests"
+        },
+        {
+          "id": "sec_3_3_5_1",
+          "title": "3.3.5.1 ECG Operation with an ECG Simulator"
+        }
+      ],
+      "page": 24,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -73,7 +153,28 @@
         "r": 324.56137500000006,
         "b": 578.99625
       },
-      "content": "Connect leads to MDEC ECG cable."
+      "content": "Connect leads to MDEC ECG cable.",
+      "section_id": "sec_3_3_5_1",
+      "parent_section_id": "sec_3_3_5",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. Test #4: Print-on-alarm"
+        },
+        {
+          "id": "sec_3_3_5",
+          "title": "3.3.5 Measurement Parameter Operation Tests"
+        },
+        {
+          "id": "sec_3_3_5_1",
+          "title": "3.3.5.1 ECG Operation with an ECG Simulator"
+        }
+      ],
+      "page": 24,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -86,7 +187,28 @@
         "r": 362.8113750000001,
         "b": 551.99625
       },
-      "content": "Connect MDEC to ECG input port on N5500."
+      "content": "Connect MDEC to ECG input port on N5500.",
+      "section_id": "sec_3_3_5_1",
+      "parent_section_id": "sec_3_3_5",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. Test #4: Print-on-alarm"
+        },
+        {
+          "id": "sec_3_3_5",
+          "title": "3.3.5 Measurement Parameter Operation Tests"
+        },
+        {
+          "id": "sec_3_3_5_1",
+          "title": "3.3.5.1 ECG Operation with an ECG Simulator"
+        }
+      ],
+      "page": 24,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -99,7 +221,28 @@
         "r": 293.0613750000001,
         "b": 524.99625
       },
-      "content": "Set ECG simulator as follows:"
+      "content": "Set ECG simulator as follows:",
+      "section_id": "sec_3_3_5_1",
+      "parent_section_id": "sec_3_3_5",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. Test #4: Print-on-alarm"
+        },
+        {
+          "id": "sec_3_3_5",
+          "title": "3.3.5 Measurement Parameter Operation Tests"
+        },
+        {
+          "id": "sec_3_3_5_1",
+          "title": "3.3.5.1 ECG Operation with an ECG Simulator"
+        }
+      ],
+      "page": 24,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -112,7 +255,28 @@
         "r": 323.8110000000001,
         "b": 511.49625
       },
-      "content": "l Heart rate:  30 bpm"
+      "content": "l Heart rate:  30 bpm",
+      "section_id": "sec_3_3_5_1",
+      "parent_section_id": "sec_3_3_5",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. Test #4: Print-on-alarm"
+        },
+        {
+          "id": "sec_3_3_5",
+          "title": "3.3.5 Measurement Parameter Operation Tests"
+        },
+        {
+          "id": "sec_3_3_5_1",
+          "title": "3.3.5.1 ECG Operation with an ECG Simulator"
+        }
+      ],
+      "page": 24,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -125,7 +289,28 @@
         "r": 333.5613750000001,
         "b": 497.99625
       },
-      "content": "l Amplitude:  1 millivolt"
+      "content": "l Amplitude:  1 millivolt",
+      "section_id": "sec_3_3_5_1",
+      "parent_section_id": "sec_3_3_5",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. Test #4: Print-on-alarm"
+        },
+        {
+          "id": "sec_3_3_5",
+          "title": "3.3.5 Measurement Parameter Operation Tests"
+        },
+        {
+          "id": "sec_3_3_5_1",
+          "title": "3.3.5.1 ECG Operation with an ECG Simulator"
+        }
+      ],
+      "page": 24,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -138,7 +323,28 @@
         "r": 305.0583750000001,
         "b": 484.49625
       },
-      "content": "l Lead select: II"
+      "content": "l Lead select: II",
+      "section_id": "sec_3_3_5_1",
+      "parent_section_id": "sec_3_3_5",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. Test #4: Print-on-alarm"
+        },
+        {
+          "id": "sec_3_3_5",
+          "title": "3.3.5 Measurement Parameter Operation Tests"
+        },
+        {
+          "id": "sec_3_3_5_1",
+          "title": "3.3.5.1 ECG Operation with an ECG Simulator"
+        }
+      ],
+      "page": 24,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -151,7 +357,28 @@
         "r": 333.55912500000017,
         "b": 470.99625
       },
-      "content": "l Normal sinus rhythm"
+      "content": "l Normal sinus rhythm",
+      "section_id": "sec_3_3_5_1",
+      "parent_section_id": "sec_3_3_5",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. Test #4: Print-on-alarm"
+        },
+        {
+          "id": "sec_3_3_5",
+          "title": "3.3.5 Measurement Parameter Operation Tests"
+        },
+        {
+          "id": "sec_3_3_5_1",
+          "title": "3.3.5.1 ECG Operation with an ECG Simulator"
+        }
+      ],
+      "page": 24,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -164,7 +391,28 @@
         "r": 293.05800000000016,
         "b": 457.49625
       },
-      "content": "l Adult mode"
+      "content": "l Adult mode",
+      "section_id": "sec_3_3_5_1",
+      "parent_section_id": "sec_3_3_5",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. Test #4: Print-on-alarm"
+        },
+        {
+          "id": "sec_3_3_5",
+          "title": "3.3.5 Measurement Parameter Operation Tests"
+        },
+        {
+          "id": "sec_3_3_5_1",
+          "title": "3.3.5.1 ECG Operation with an ECG Simulator"
+        }
+      ],
+      "page": 24,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -177,7 +425,28 @@
         "r": 479.05762500000014,
         "b": 430.49625
       },
-      "content": "After normal power-up sequence, verify the following monitor reactions:"
+      "content": "After normal power-up sequence, verify the following monitor reactions:",
+      "section_id": "sec_3_3_5_1",
+      "parent_section_id": "sec_3_3_5",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. Test #4: Print-on-alarm"
+        },
+        {
+          "id": "sec_3_3_5",
+          "title": "3.3.5 Measurement Parameter Operation Tests"
+        },
+        {
+          "id": "sec_3_3_5_1",
+          "title": "3.3.5.1 ECG Operation with an ECG Simulator"
+        }
+      ],
+      "page": 24,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -190,7 +459,28 @@
         "r": 488.0565000000001,
         "b": 416.99625
       },
-      "content": "After about 15 seconds, monitor displays a heart rate of 30 ±3 bpm."
+      "content": "After about 15 seconds, monitor displays a heart rate of 30 ±3 bpm.",
+      "section_id": "sec_3_3_5_1",
+      "parent_section_id": "sec_3_3_5",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. Test #4: Print-on-alarm"
+        },
+        {
+          "id": "sec_3_3_5",
+          "title": "3.3.5 Measurement Parameter Operation Tests"
+        },
+        {
+          "id": "sec_3_3_5_1",
+          "title": "3.3.5.1 ECG Operation with an ECG Simulator"
+        }
+      ],
+      "page": 24,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -203,7 +493,28 @@
         "r": 539.0589375000004,
         "b": 376.49625
       },
-      "content": "Verify audible alarm will sound, 'Low heart rate limits violated' message will display and  heart rate display will flash,  indicating heart rate is below default low alarm limit (medium priority alarm)."
+      "content": "Verify audible alarm will sound, 'Low heart rate limits violated' message will display and  heart rate display will flash,  indicating heart rate is below default low alarm limit (medium priority alarm).",
+      "section_id": "sec_3_3_5_1",
+      "parent_section_id": "sec_3_3_5",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. Test #4: Print-on-alarm"
+        },
+        {
+          "id": "sec_3_3_5",
+          "title": "3.3.5 Measurement Parameter Operation Tests"
+        },
+        {
+          "id": "sec_3_3_5_1",
+          "title": "3.3.5.1 ECG Operation with an ECG Simulator"
+        }
+      ],
+      "page": 24,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -216,7 +527,28 @@
         "r": 413.0561250000002,
         "b": 349.49625
       },
-      "content": "Increase heart rate setting on ECG simulator to 240 bpm."
+      "content": "Increase heart rate setting on ECG simulator to 240 bpm.",
+      "section_id": "sec_3_3_5_1",
+      "parent_section_id": "sec_3_3_5",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. Test #4: Print-on-alarm"
+        },
+        {
+          "id": "sec_3_3_5",
+          "title": "3.3.5 Measurement Parameter Operation Tests"
+        },
+        {
+          "id": "sec_3_3_5_1",
+          "title": "3.3.5.1 ECG Operation with an ECG Simulator"
+        }
+      ],
+      "page": 24,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -229,7 +561,28 @@
         "r": 513.5557500000002,
         "b": 335.99625
       },
-      "content": "After about 15 seconds, verify monitor displays heart rate of 240 ±3 bpm."
+      "content": "After about 15 seconds, verify monitor displays heart rate of 240 ±3 bpm.",
+      "section_id": "sec_3_3_5_1",
+      "parent_section_id": "sec_3_3_5",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. Test #4: Print-on-alarm"
+        },
+        {
+          "id": "sec_3_3_5",
+          "title": "3.3.5 Measurement Parameter Operation Tests"
+        },
+        {
+          "id": "sec_3_3_5_1",
+          "title": "3.3.5.1 ECG Operation with an ECG Simulator"
+        }
+      ],
+      "page": 24,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -242,7 +595,28 @@
         "r": 540.0255375000002,
         "b": 295.49625
       },
-      "content": "Verify audible alarm will sound, 'High heart rate limits violated' message will display and  heart rate display will flash,  indicating heart rate is  above default high alarm limit (medium priority alarm)."
+      "content": "Verify audible alarm will sound, 'High heart rate limits violated' message will display and  heart rate display will flash,  indicating heart rate is  above default high alarm limit (medium priority alarm).",
+      "section_id": "sec_3_3_5_1",
+      "parent_section_id": "sec_3_3_5",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. Test #4: Print-on-alarm"
+        },
+        {
+          "id": "sec_3_3_5",
+          "title": "3.3.5 Measurement Parameter Operation Tests"
+        },
+        {
+          "id": "sec_3_3_5_1",
+          "title": "3.3.5.1 ECG Operation with an ECG Simulator"
+        }
+      ],
+      "page": 24,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -255,7 +629,28 @@
         "r": 417.5550000000001,
         "b": 268.4962499999999
       },
-      "content": "Decrease heart rate setting on ECG simulator to 120 bpm."
+      "content": "Decrease heart rate setting on ECG simulator to 120 bpm.",
+      "section_id": "sec_3_3_5_1",
+      "parent_section_id": "sec_3_3_5",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. Test #4: Print-on-alarm"
+        },
+        {
+          "id": "sec_3_3_5",
+          "title": "3.3.5 Measurement Parameter Operation Tests"
+        },
+        {
+          "id": "sec_3_3_5_1",
+          "title": "3.3.5.1 ECG Operation with an ECG Simulator"
+        }
+      ],
+      "page": 24,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -268,7 +663,28 @@
         "r": 513.5535,
         "b": 254.99625000000003
       },
-      "content": "After about 15 seconds, verify monitor displays heart rate of 120 ±3 bpm."
+      "content": "After about 15 seconds, verify monitor displays heart rate of 120 ±3 bpm.",
+      "section_id": "sec_3_3_5_1",
+      "parent_section_id": "sec_3_3_5",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. Test #4: Print-on-alarm"
+        },
+        {
+          "id": "sec_3_3_5",
+          "title": "3.3.5 Measurement Parameter Operation Tests"
+        },
+        {
+          "id": "sec_3_3_5_1",
+          "title": "3.3.5.1 ECG Operation with an ECG Simulator"
+        }
+      ],
+      "page": 24,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -281,7 +697,28 @@
         "r": 343.30274999999995,
         "b": 227.99625000000003
       },
-      "content": "Disconnect LL lead from ECG simulator."
+      "content": "Disconnect LL lead from ECG simulator.",
+      "section_id": "sec_3_3_5_1",
+      "parent_section_id": "sec_3_3_5",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. Test #4: Print-on-alarm"
+        },
+        {
+          "id": "sec_3_3_5",
+          "title": "3.3.5 Measurement Parameter Operation Tests"
+        },
+        {
+          "id": "sec_3_3_5_1",
+          "title": "3.3.5.1 ECG Operation with an ECG Simulator"
+        }
+      ],
+      "page": 24,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -294,7 +731,28 @@
         "r": 539.05275,
         "b": 200.99625000000003
       },
-      "content": "Verify 'ECG Leads Off' alarm message appears, three dashes are displayed in HR(heart rate) display, and low priority audible alarm sounds."
+      "content": "Verify 'ECG Leads Off' alarm message appears, three dashes are displayed in HR(heart rate) display, and low priority audible alarm sounds.",
+      "section_id": "sec_3_3_5_1",
+      "parent_section_id": "sec_3_3_5",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. Test #4: Print-on-alarm"
+        },
+        {
+          "id": "sec_3_3_5",
+          "title": "3.3.5 Measurement Parameter Operation Tests"
+        },
+        {
+          "id": "sec_3_3_5_1",
+          "title": "3.3.5.1 ECG Operation with an ECG Simulator"
+        }
+      ],
+      "page": 24,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -307,7 +765,28 @@
         "r": 539.0527499999998,
         "b": 173.99625000000003
       },
-      "content": "Reconnect LL lead to ECG simulator. Verify 'ECG Leads Off' alarm message no longer appears and audible alarm is silenced."
+      "content": "Reconnect LL lead to ECG simulator. Verify 'ECG Leads Off' alarm message no longer appears and audible alarm is silenced.",
+      "section_id": "sec_3_3_5_1",
+      "parent_section_id": "sec_3_3_5",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. Test #4: Print-on-alarm"
+        },
+        {
+          "id": "sec_3_3_5",
+          "title": "3.3.5 Measurement Parameter Operation Tests"
+        },
+        {
+          "id": "sec_3_3_5_1",
+          "title": "3.3.5.1 ECG Operation with an ECG Simulator"
+        }
+      ],
+      "page": 24,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -320,7 +799,28 @@
         "r": 359.05387499999995,
         "b": 160.49625000000003
       },
-      "content": "Repeat this test for LA and RA leads."
+      "content": "Repeat this test for LA and RA leads.",
+      "section_id": "sec_3_3_5_1",
+      "parent_section_id": "sec_3_3_5",
+      "section_level": 4,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. Test #4: Print-on-alarm"
+        },
+        {
+          "id": "sec_3_3_5",
+          "title": "3.3.5 Measurement Parameter Operation Tests"
+        },
+        {
+          "id": "sec_3_3_5_1",
+          "title": "3.3.5.1 ECG Operation with an ECG Simulator"
+        }
+      ],
+      "page": 24,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

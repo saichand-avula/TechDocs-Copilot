@@ -18,8 +18,21 @@
         "b": 755.7829409281768
       },
       "content": "3-6-3. Check and Repair",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "3",
+      "section_id": "sec_3",
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-6-3. Check and Repair"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 160,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -32,7 +45,20 @@
         "r": 541.4662140000002,
         "b": 704.7831449281769
       },
-      "content": "If  there  are  vibration,  noise,  and  abnormal  discharging  in  coolant  pump  during  daily  operation, immediately stop discharging of coolant and repair as a reference with the following table."
+      "content": "If  there  are  vibration,  noise,  and  abnormal  discharging  in  coolant  pump  during  daily  operation, immediately stop discharging of coolant and repair as a reference with the following table.",
+      "section_id": "sec_3",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-6-3. Check and Repair"
+        }
+      ],
+      "page": 160,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -48,12 +74,26 @@
       "image_path": "figures/figure_0285.png",
       "previous_block_id": "txt_1154",
       "next_block_id": "txt_1155",
-      "caption_id": "txt_1156",
       "caption": ".  Checking and Repairing",
       "figure_number": "Table 5-7",
       "image_hash": "993481746066fb6e8dd9f5d0d139348b76c3d56a1de2c7aea2ae4c7f44e0e691",
       "width": 112,
-      "height": 31
+      "height": 31,
+      "section_id": "sec_3",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-6-3. Check and Repair"
+        }
+      ],
+      "page": 160,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0285",
+      "source": "pdf_text",
+      "caption_id": "txt_1156"
     },
     {
       "type": "paragraph",
@@ -66,7 +106,20 @@
         "r": 526.2014820000005,
         "b": 615.3829409281768
       },
-      "content": "Before checking and repairing coolant, turn OFF the power. Otherwise, it may cause personal injury."
+      "content": "Before checking and repairing coolant, turn OFF the power. Otherwise, it may cause personal injury.",
+      "section_id": "sec_3",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-6-3. Check and Repair"
+        }
+      ],
+      "page": 160,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -83,7 +136,20 @@
       "title": "Table 5-7.  Checking and Repairing",
       "table_number": "Table 5-7",
       "rows": 22,
-      "cols": 3
+      "cols": 3,
+      "section_id": "sec_3",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-6-3. Check and Repair"
+        }
+      ],
+      "page": 160,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "caption",
@@ -97,6 +163,20 @@
         "b": 578.9030489281769
       },
       "content": "Table 5-7.  Checking and Repairing",
+      "section_id": "sec_3",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-6-3. Check and Repair"
+        }
+      ],
+      "page": 160,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0285",
+      "source": "pdf_text",
       "caption_for": "fig_0285"
     }
   ],

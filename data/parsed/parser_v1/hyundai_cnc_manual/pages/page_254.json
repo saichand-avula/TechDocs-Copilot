@@ -17,7 +17,20 @@
         "r": 506.0254821777344,
         "b": 584.5921630859375
       },
-      "markdown": ""
+      "markdown": "",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-2. Home Position Setting Method"
+        }
+      ],
+      "page": 254,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -34,7 +47,20 @@
       "next_block_id": "txt_1829",
       "image_hash": "c25d7ed5b6d7c0adc67a08cc459c6895edf6906a2bb7c3051b47e64c1b2d9199",
       "width": 467,
-      "height": 368
+      "height": 368,
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-2. Home Position Setting Method"
+        }
+      ],
+      "page": 254,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -48,8 +74,21 @@
         "b": 379.4028749281768
       },
       "content": "2-3. TOOL NO. SETTING",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "2",
+      "section_id": "sec_2",
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-3. TOOL NO. SETTING"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 254,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -62,7 +101,20 @@
         "r": 393.14316000000065,
         "b": 360.2025509281768
       },
-      "content": "Select the PMM (Power Mate CNC Manager) parameter screen."
+      "content": "Select the PMM (Power Mate CNC Manager) parameter screen.",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-3. TOOL NO. SETTING"
+        }
+      ],
+      "page": 254,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -75,7 +127,20 @@
         "r": 289.6185239999998,
         "b": 340.9431089281768
       },
-      "content": "Set the basic parameter for turret."
+      "content": "Set the basic parameter for turret.",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-3. TOOL NO. SETTING"
+        }
+      ],
+      "page": 254,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -88,7 +153,20 @@
         "r": 301.77779400000026,
         "b": 321.6826649281768
       },
-      "content": "(Set PMM Parameter No.11#0 = \"0\")"
+      "content": "(Set PMM Parameter No.11#0 = \"0\")",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-3. TOOL NO. SETTING"
+        }
+      ],
+      "page": 254,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -101,7 +179,20 @@
         "r": 238.49448,
         "b": 302.48234092817677
       },
-      "content": "Press the \"MDI\" mode."
+      "content": "Press the \"MDI\" mode.",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-3. TOOL NO. SETTING"
+        }
+      ],
+      "page": 254,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -114,7 +205,20 @@
         "r": 340.2806459999996,
         "b": 283.22189692817676
       },
-      "content": "Set the KEEP RELAY PARAMETER K5#0=1\""
+      "content": "Set the KEEP RELAY PARAMETER K5#0=1\"",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-3. TOOL NO. SETTING"
+        }
+      ],
+      "page": 254,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -127,7 +231,20 @@
         "r": 455.4505259999999,
         "b": 263.96145292817675
       },
-      "content": "=> The Alarm Message \" AL-75 TURRET ADJUST MODE \" is displayed."
+      "content": "=> The Alarm Message \" AL-75 TURRET ADJUST MODE \" is displayed.",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-3. TOOL NO. SETTING"
+        }
+      ],
+      "page": 254,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -140,7 +257,20 @@
         "r": 298.42410000000024,
         "b": 244.70100892817675
       },
-      "content": "=> Unclamp the Turret compulsorily."
+      "content": "=> Unclamp the Turret compulsorily.",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-3. TOOL NO. SETTING"
+        }
+      ],
+      "page": 254,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -153,7 +283,20 @@
         "r": 340.246578,
         "b": 225.44056492817674
       },
-      "content": "Turn the Turret by hand and set the No.1 tool."
+      "content": "Turn the Turret by hand and set the No.1 tool.",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-3. TOOL NO. SETTING"
+        }
+      ],
+      "page": 254,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -166,7 +309,20 @@
         "r": 273.57149399999975,
         "b": 206.24024092817672
       },
-      "content": "Clamp the Turret compulsorily."
+      "content": "Clamp the Turret compulsorily.",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-3. TOOL NO. SETTING"
+        }
+      ],
+      "page": 254,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -179,7 +335,20 @@
         "r": 360.97996199999955,
         "b": 186.9797969281767
       },
-      "content": "=> Set the KEEP RELAY PARAMETER K5#0=\"0\""
+      "content": "=> Set the KEEP RELAY PARAMETER K5#0=\"0\"",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-3. TOOL NO. SETTING"
+        }
+      ],
+      "page": 254,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -192,7 +361,20 @@
         "r": 309.61944599999987,
         "b": 167.7193529281767
       },
-      "content": "Set the PMM Parameter No.11#0='1'."
+      "content": "Set the PMM Parameter No.11#0='1'.",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-3. TOOL NO. SETTING"
+        }
+      ],
+      "page": 254,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -205,7 +387,20 @@
         "r": 479.9975219999999,
         "b": 148.4589089281767
       },
-      "content": "=> The Alarm Message \" AL-133 POWER UNIT OFF REQUIRE \" is displayed."
+      "content": "=> The Alarm Message \" AL-133 POWER UNIT OFF REQUIRE \" is displayed.",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-3. TOOL NO. SETTING"
+        }
+      ],
+      "page": 254,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -218,7 +413,20 @@
         "r": 301.9912200000002,
         "b": 129.1984649281767
       },
-      "content": "Turn off and then re-apply the power."
+      "content": "Turn off and then re-apply the power.",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-3. TOOL NO. SETTING"
+        }
+      ],
+      "page": 254,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -231,7 +439,20 @@
         "r": 457.7370899999999,
         "b": 109.99814092817678
       },
-      "content": "=> The Alarm Message \" AL-61 TURRET SET UP ERROR \" is displayed."
+      "content": "=> The Alarm Message \" AL-61 TURRET SET UP ERROR \" is displayed.",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-3. TOOL NO. SETTING"
+        }
+      ],
+      "page": 254,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -244,7 +465,20 @@
         "r": 520.8680999999996,
         "b": 73.45720492817668
       },
-      "content": "Press   the   Spindle   [STOP],   mode   select   [SELECT]   and   [FEEDHOLD]   switch simultaneously."
+      "content": "Press   the   Spindle   [STOP],   mode   select   [SELECT]   and   [FEEDHOLD]   switch simultaneously.",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-3. TOOL NO. SETTING"
+        }
+      ],
+      "page": 254,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

@@ -21,7 +21,24 @@
       "next_block_id": "txt_1985",
       "width": 43,
       "height": 13,
-      "image_hash": "65b5fa437e2c9508a0288f6464d2ad73a258bf979cae0c6cf3643396d5053dbd"
+      "image_hash": "65b5fa437e2c9508a0288f6464d2ad73a258bf979cae0c6cf3643396d5053dbd",
+      "section_id": "sec_auto_2621",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Introduction"
+        },
+        {
+          "id": "sec_auto_2621",
+          "title": "8VLQJ ,FRQV /LVW"
+        }
+      ],
+      "page": 250,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -35,8 +52,21 @@
         "b": 776.8656139999999
       },
       "content": "3. Specifications",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "3",
+      "section_id": "sec_3",
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3. Specifications"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 250,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -51,7 +81,20 @@
       },
       "markdown": "|                                            |                                            |                 | HSU24VHJ(DB)              | HSU24VHJ(DB)              |\n|--------------------------------------------|--------------------------------------------|-----------------|---------------------------|---------------------------|\n|                                            |                                            |                 | Cooling                   | Heating                   |\n|                                            |                                            | kW              | 6.4(2.2~6.7)              | 6.7(2.2~7.0)              |\n| Capacity Rated (Min.~Max.)                 | Capacity Rated (Min.~Max.)                 | Btu/h           | 22000(7500~23000)         | 23000(7500~24000)         |\n|                                            |                                            | kcal/h          | 5504(1892~5762)           | 5762(1892~6020)           |\n| Removal Moisture                           | Removal Moisture                           | pints/h         | 9.68                      | ---                       |\n| (Rated) Current Running                    | (Rated) Current Running                    | A               | 10.0                      | 9.8                       |\n| Rated Consumption Power                    | Rated Consumption Power                    | W               | 2250(300~2400)            | 2200(360~2700)            |\n| Factor Power                               | Factor Power                               | %               | 96                        | 97                        |\n| SEER/HSPF                                  | SEER/HSPF                                  | Btu/(h.w)       | 16                        | 9                         |\n| Piping Connections (external               | Liquid                                     | inches          | 3/8                       | 3/8                       |\n| Piping Connections (external               | Gas                                        | inches          | 5/8                       | 5/8                       |\n| Piping Connections (external               | Drain                                      | inches          | 5/8                       | 5/8                       |\n| Heat Insulation                            | Heat Insulation                            | Heat Insulation | Both Liquid and Gas Pipes | Both Liquid and Gas Pipes |\n| Length Piping Max.                         | Length Piping Max.                         | inches          | 98 7/16                   | 98 7/16                   |\n| Difference Level Max.                      | Difference Level Max.                      | inches          | 59 1/16                   | 59 1/16                   |\n| Chargeless                                 | Chargeless                                 | inches          | 29 1/2                    | 29 1/2                    |\n| Amount of Additional Charge of Refrigerant | Amount of Additional Charge of Refrigerant | pounds/inches   | 0.02                      | 0.02                      |",
       "rows": 18,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_3",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3. Specifications"
+        }
+      ],
+      "page": 250,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -66,7 +109,20 @@
       },
       "markdown": "| Indoor Unit                 | Indoor Unit                 | Indoor Unit           | Indoor Unit                         | Indoor Unit                         |\n|-----------------------------|-----------------------------|-----------------------|-------------------------------------|-------------------------------------|\n| Front Panel Color           | Front Panel Color           | Front Panel Color     | White                               | White                               |\n| Air Flow Rate               | m³/min(cfm)                 | H                     | 11.3(398.9)                         | 12.3(434.2)                         |\n| Air Flow Rate               |                             | M                     | 10.4(367.1)                         | (398.9) 11.3                        |\n| Air Flow Rate               |                             | L                     | 9.4(331.8)                          | 10.3(363.6)                         |\n| Fan                         | Type                        | Type                  | Fan Flow Cross                      | Fan Flow Cross                      |\n| Fan                         | Motor Output upper/lower    | W                     | 20                                  | 20                                  |\n| Fan                         | Speed                       | Steps                 | Auto and Steps 4                    | Auto and Steps 4                    |\n| Control Direction Air       | Control Direction Air       | Control Direction Air | Downward / Horizontal               | Downward / Horizontal               |\n| Air Filter                  | Air Filter                  | Air Filter            | Removable / Washable / Mildew Proof | Removable / Washable / Mildew Proof |\n| Run current rated           | Run current rated           | A                     | 0.15                                | 0.15                                |\n| consumption Power           | consumption Power           | W                     | 33                                  | 33                                  |\n| factor Power                | factor Power                | %                     | 96                                  | 96                                  |\n| Control Temperature         | Control Temperature         | Control Temperature   | Control Microcomputer               | Control Microcomputer               |\n| (H×W×D) Dimensions          | (H×W×D) Dimensions          | inches                | 41 3/16X11 3/4X9 13/32              | 41 3/16X11 3/4X9 13/32              |\n| (H×W×D) Dimensions Packaged | (H×W×D) Dimensions Packaged | inches                | 44 3/8X15 1/4X13 1/2                | 44 3/8X15 1/4X13 1/2                |\n| Weight                      | Weight                      | pounds                | 28.6                                | 28.6                                |\n| Weight Gross                | Weight Gross                | pounds                | 36.3                                | 36.3                                |\n| Sound Operation             | L / M / H                   | dB(A)                 | 50/47/45                            | 50/47/45                            |\n| Sound Power                 | H(cooling/ heating)         | dB(A)                 | 60                                  | 60                                  |",
       "rows": 20,
-      "cols": 5
+      "cols": 5,
+      "section_id": "sec_3",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3. Specifications"
+        }
+      ],
+      "page": 250,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -83,7 +139,20 @@
       "previous_block_id": "txt_1985",
       "width": 44,
       "height": 13,
-      "image_hash": "04141073d288c1ede99411d970f4844e02abf73f67a856f892cb9489c1b9f8eb"
+      "image_hash": "04141073d288c1ede99411d970f4844e02abf73f67a856f892cb9489c1b9f8eb",
+      "section_id": "sec_3",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3. Specifications"
+        }
+      ],
+      "page": 250,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

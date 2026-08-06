@@ -21,7 +21,24 @@
       "next_block_id": "txt_0729",
       "image_hash": "2d2a836df72f659eb0985697292682429e59bf8ad20c0b8fc6a039c365a94e86",
       "width": 48,
-      "height": 23
+      "height": 23,
+      "section_id": "sec_auto_1070",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6       Installation"
+        },
+        {
+          "id": "sec_auto_1070",
+          "title": "Electrical connections"
+        }
+      ],
+      "page": 100,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -36,7 +53,24 @@
       },
       "markdown": "|   Reference | Designation                                |\n|-------------|--------------------------------------------|\n|           7 | Delta connection: 200/220/230 V - 50/60 Hz |",
       "rows": 2,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_auto_1070",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6       Installation"
+        },
+        {
+          "id": "sec_auto_1070",
+          "title": "Electrical connections"
+        }
+      ],
+      "page": 100,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -51,7 +85,23 @@
       },
       "content": "Instructions",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1077",
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6       Installation"
+        },
+        {
+          "id": "sec_auto_1077",
+          "title": "Instructions"
+        }
+      ],
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "page": 100,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -64,7 +114,24 @@
         "r": 193.9469999999999,
         "b": 673.3240999999999
       },
-      "content": "Provide an isolating switch."
+      "content": "Provide an isolating switch.",
+      "section_id": "sec_auto_1077",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6       Installation"
+        },
+        {
+          "id": "sec_auto_1077",
+          "title": "Instructions"
+        }
+      ],
+      "page": 100,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -77,7 +144,24 @@
         "r": 524.8291999999992,
         "b": 660.1240999999999
       },
-      "content": "Check that the motor cables and wires inside the electric cabinet are clamped tight to their terminals."
+      "content": "Check that the motor cables and wires inside the electric cabinet are clamped tight to their terminals.",
+      "section_id": "sec_auto_1077",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6       Installation"
+        },
+        {
+          "id": "sec_auto_1077",
+          "title": "Instructions"
+        }
+      ],
+      "page": 100,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -90,7 +174,24 @@
         "r": 532.9396999999996,
         "b": 646.924
       },
-      "content": "Check the fuses and the setting of the overload relay. See section Settings of overload relay and fuses."
+      "content": "Check the fuses and the setting of the overload relay. See section Settings of overload relay and fuses.",
+      "section_id": "sec_auto_1077",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6       Installation"
+        },
+        {
+          "id": "sec_auto_1077",
+          "title": "Instructions"
+        }
+      ],
+      "page": 100,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -103,7 +204,24 @@
         "r": 517.9313999999986,
         "b": 619.7441
       },
-      "content": "If terminals 1, 3 and 5 of motor contactors K21 and K23 are not bridged, connect power supply cables to terminals 1, 3 and 5 of contactor K21 and to terminals 1, 3 and 5 of contactor K23."
+      "content": "If terminals 1, 3 and 5 of motor contactors K21 and K23 are not bridged, connect power supply cables to terminals 1, 3 and 5 of contactor K21 and to terminals 1, 3 and 5 of contactor K23.",
+      "section_id": "sec_auto_1077",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6       Installation"
+        },
+        {
+          "id": "sec_auto_1077",
+          "title": "Instructions"
+        }
+      ],
+      "page": 100,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -116,7 +234,24 @@
         "r": 525.396000000001,
         "b": 591.7238000000001
       },
-      "content": "If terminals 1, 3 and 5 of motor contactors K21 and K23 are bridged, connect power supply cables to terminals L1, L2 and L3 of terminal strip 1X0."
+      "content": "If terminals 1, 3 and 5 of motor contactors K21 and K23 are bridged, connect power supply cables to terminals L1, L2 and L3 of terminal strip 1X0.",
+      "section_id": "sec_auto_1077",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6       Installation"
+        },
+        {
+          "id": "sec_auto_1077",
+          "title": "Instructions"
+        }
+      ],
+      "page": 100,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -129,7 +264,24 @@
         "r": 515.7588999999992,
         "b": 565.3238
       },
-      "content": "The power cables must be connected stress-free to the terminals to avoid mechanical forces to the terminals. For this reason, the use of flexible cables is strongly advised."
+      "content": "The power cables must be connected stress-free to the terminals to avoid mechanical forces to the terminals. For this reason, the use of flexible cables is strongly advised.",
+      "section_id": "sec_auto_1077",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6       Installation"
+        },
+        {
+          "id": "sec_auto_1077",
+          "title": "Instructions"
+        }
+      ],
+      "page": 100,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -142,7 +294,24 @@
         "r": 229.176,
         "b": 552.1238
       },
-      "content": "Also see section Electric cable size."
+      "content": "Also see section Electric cable size.",
+      "section_id": "sec_auto_1077",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6       Installation"
+        },
+        {
+          "id": "sec_auto_1077",
+          "title": "Instructions"
+        }
+      ],
+      "page": 100,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -155,7 +324,24 @@
         "r": 226.9572000000003,
         "b": 538.924
       },
-      "content": "Connect earth conductor bolt (PE)."
+      "content": "Connect earth conductor bolt (PE).",
+      "section_id": "sec_auto_1077",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6       Installation"
+        },
+        {
+          "id": "sec_auto_1077",
+          "title": "Instructions"
+        }
+      ],
+      "page": 100,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -170,7 +356,24 @@
       },
       "content": "6.4    Cooling water requirements",
       "level": 2,
-      "role": "section"
+      "section_number": "6.4",
+      "section_id": "sec_6_4",
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6       Installation"
+        },
+        {
+          "id": "sec_6_4",
+          "title": "6.4    Cooling water requirements"
+        }
+      ],
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "page": 100,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -185,7 +388,23 @@
       },
       "content": "General",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1087",
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6       Installation"
+        },
+        {
+          "id": "sec_auto_1087",
+          "title": "General"
+        }
+      ],
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "page": 100,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -198,7 +417,24 @@
         "r": 527.1744,
         "b": 405.54410000000007
       },
-      "content": "The cooling water quality must meet certain minimum requirements. No general recommendation can encompass the effects of all combinations of the various compounds, solids and gases typically found in cooling water in interaction with different materials. This recommendation is a general guide line for acceptable coolant quality."
+      "content": "The cooling water quality must meet certain minimum requirements. No general recommendation can encompass the effects of all combinations of the various compounds, solids and gases typically found in cooling water in interaction with different materials. This recommendation is a general guide line for acceptable coolant quality.",
+      "section_id": "sec_auto_1087",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6       Installation"
+        },
+        {
+          "id": "sec_auto_1087",
+          "title": "General"
+        }
+      ],
+      "page": 100,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -211,7 +447,24 @@
         "r": 530.5238999999995,
         "b": 321.3039000000001
       },
-      "content": "It is very important to make a distinction between a closed system or an open system. In a closed system, the same cooling water is circulating through a system without contact with air.  An open system is a pass through system, or a circulating system with a cooling tower. In the latter case, one has to consider the composition of the water as it enters the cooler, and not rely on the composition of the make-up water. Due to the evaporative effect in the cooling tower, much higher concentrations of ions can be obtained in the circulating water than in the make-up water."
+      "content": "It is very important to make a distinction between a closed system or an open system. In a closed system, the same cooling water is circulating through a system without contact with air.  An open system is a pass through system, or a circulating system with a cooling tower. In the latter case, one has to consider the composition of the water as it enters the cooler, and not rely on the composition of the make-up water. Due to the evaporative effect in the cooling tower, much higher concentrations of ions can be obtained in the circulating water than in the make-up water.",
+      "section_id": "sec_auto_1087",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6       Installation"
+        },
+        {
+          "id": "sec_auto_1087",
+          "title": "General"
+        }
+      ],
+      "page": 100,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -226,7 +479,23 @@
       },
       "content": "Cooling water parameters",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1090",
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6       Installation"
+        },
+        {
+          "id": "sec_auto_1090",
+          "title": "Cooling water parameters"
+        }
+      ],
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "page": 100,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -239,7 +508,24 @@
         "r": 232.80670000000018,
         "b": 271.74450000000013
       },
-      "content": "The Rysnar stability index (RSI)"
+      "content": "The Rysnar stability index (RSI)",
+      "section_id": "sec_auto_1090",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6       Installation"
+        },
+        {
+          "id": "sec_auto_1090",
+          "title": "Cooling water parameters"
+        }
+      ],
+      "page": 100,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -252,7 +538,24 @@
         "r": 536.5706000000013,
         "b": 189.87760000000003
       },
-      "content": "The Rysnar Index (RSI) is a parameter for predicting whether water will tend to dissolve or precipitate calcium carbonate. The adhesion of scaling depositions and their effect are different on different materials, but the equilibrium of the water (scaling or corrosive) is only determined by its actual pH value and by the saturation pH value (pHs). The saturation pH value is determined by the relationship between the calcium hardness, the total alkalinity, the total solids concentration and the temperature. The Rysnar Index is calculated as follows: RSI = 2*pH s - pH, in which"
+      "content": "The Rysnar Index (RSI) is a parameter for predicting whether water will tend to dissolve or precipitate calcium carbonate. The adhesion of scaling depositions and their effect are different on different materials, but the equilibrium of the water (scaling or corrosive) is only determined by its actual pH value and by the saturation pH value (pHs). The saturation pH value is determined by the relationship between the calcium hardness, the total alkalinity, the total solids concentration and the temperature. The Rysnar Index is calculated as follows: RSI = 2*pH s - pH, in which",
+      "section_id": "sec_auto_1090",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6       Installation"
+        },
+        {
+          "id": "sec_auto_1090",
+          "title": "Cooling water parameters"
+        }
+      ],
+      "page": 100,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -265,7 +568,24 @@
         "r": 329.71730000000025,
         "b": 178.49699999999996
       },
-      "content": "pH = measured pH (at room temp) of water sample"
+      "content": "pH = measured pH (at room temp) of water sample",
+      "section_id": "sec_auto_1090",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6       Installation"
+        },
+        {
+          "id": "sec_auto_1090",
+          "title": "Cooling water parameters"
+        }
+      ],
+      "page": 100,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -278,7 +598,24 @@
         "r": 191.6565,
         "b": 162.33760000000007
       },
-      "content": "pH s = pH at saturation"
+      "content": "pH s = pH at saturation",
+      "section_id": "sec_auto_1090",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6       Installation"
+        },
+        {
+          "id": "sec_auto_1090",
+          "title": "Cooling water parameters"
+        }
+      ],
+      "page": 100,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -291,7 +628,24 @@
         "r": 177.33149999999995,
         "b": 147.3976
       },
-      "content": "pH s is calculated from:"
+      "content": "pH s is calculated from:",
+      "section_id": "sec_auto_1090",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6       Installation"
+        },
+        {
+          "id": "sec_auto_1090",
+          "title": "Cooling water parameters"
+        }
+      ],
+      "page": 100,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -304,7 +658,24 @@
         "r": 117.25060000000002,
         "b": 120.30430000000001
       },
-      "content": "in which"
+      "content": "in which",
+      "section_id": "sec_auto_1090",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6       Installation"
+        },
+        {
+          "id": "sec_auto_1090",
+          "title": "Cooling water parameters"
+        }
+      ],
+      "page": 100,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -317,7 +688,24 @@
         "r": 326.7258000000002,
         "b": 105.65779999999995
       },
-      "content": "A : depends on the total solids concentration (mg/l)."
+      "content": "A : depends on the total solids concentration (mg/l).",
+      "section_id": "sec_auto_1090",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6       Installation"
+        },
+        {
+          "id": "sec_auto_1090",
+          "title": "Cooling water parameters"
+        }
+      ],
+      "page": 100,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

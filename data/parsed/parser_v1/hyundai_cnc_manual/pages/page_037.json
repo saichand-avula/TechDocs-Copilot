@@ -18,8 +18,21 @@
         "b": 755.7829409281768
       },
       "content": "3. NC Device Specification (FANUC Oi-TA)",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "3",
+      "section_id": "sec_3",
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3. NC Device Specification (FANUC Oi-TA)"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 37,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -34,7 +47,23 @@
       },
       "content": "<Standard Specification>",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_306",
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3. NC Device Specification (FANUC Oi-TA)"
+        },
+        {
+          "id": "sec_auto_306",
+          "title": "<Standard Specification>"
+        }
+      ],
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "page": 37,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -49,7 +78,24 @@
       },
       "markdown": "| Controlling Axis               | X, Z-axis, simultaneous 2-axis.                                 |\n|--------------------------------|-----------------------------------------------------------------|\n| Interpolation Function         | Positioning straight line and arc interpolation.                |\n| Command Method                 | Absolute/Incremental.                                           |\n| Least Input Increment          | 0,001 mm, 0.001 deg                                             |\n| Tape Code                      | EIARS244/ISO 840 auto-identification.                           |\n| M, S, T Function               | Preparation G2, 3 digits, Aux. M2 digits, Tool T4 digits        |\n| Spindle Speed Command          | S code rpm direct command.                                      |\n| Feed Command                   | F code feed rate direct command.                                |\n| Feed Rate Override             | 0 ~ 200% (10% interval)                                         |\n| Rapid Feed Override            | 1%, 5%, 25/50%, 100%                                            |\n| Manual Feed Function           | Rapid feed, Jog feed (0 ~ 2000 mm/min), Handle feed.            |\n| Manual Pulse Generator         | Multiply x1, x10, x100 three stage exchange                     |\n| Tool Position Offset           | No. of offset : 32                                              |\n| Character Display              | 9 inch 512 characters (16 x 32)                                 |\n| Tape Memory Edit               | 320 m                                                           |\n| Position Coder                 | 6.000 rpm                                                       |\n| Canned Cycle                   | G90, G92, G94                                                   |\n| Thread Cutting Function G32    |                                                                 |\n| Constant Surface Speed Control | G96 S x x x x                                                   |\n| Return to Reference            | Manual, Auto G27-~ G30                                          |\n| Run Hour display               | NC display                                                      |\n| Nose R Compensation            | Auto calculation (G40 ~ G42)                                    |\n| Spindle Max. Speed Setting     | G50 Sx x x x                                                    |\n| Auto Coordinate Setting        | T code coordinate setting                                       |\n| Workpiece Coordinate Shift     | Direct, increase/Decrease measured value G54 (workpiece length) |\n| Manual Absolute                | \"ON\" Fix                                                        |\n| Stored Stroke limit            | 1, 2, 3, G22, G23                                               |\n| Incremental Offset             | U, W                                                            |",
       "rows": 28,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_auto_306",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3. NC Device Specification (FANUC Oi-TA)"
+        },
+        {
+          "id": "sec_auto_306",
+          "title": "<Standard Specification>"
+        }
+      ],
+      "page": 37,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

@@ -21,7 +21,24 @@
       "next_block_id": "txt_0681",
       "width": 47,
       "height": 23,
-      "image_hash": "a9fc843e452329e422c1b5433f572f68f0b9e97e655c5f37b4dfd3fd126a60e1"
+      "image_hash": "a9fc843e452329e422c1b5433f572f68f0b9e97e655c5f37b4dfd3fd126a60e1",
+      "section_id": "sec_auto_1011",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5       Energy recovery (optional)"
+        },
+        {
+          "id": "sec_auto_1011",
+          "title": "Data for high temperature rise/low water flow systems"
+        }
+      ],
+      "page": 94,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -35,8 +52,21 @@
         "b": 754.9440000000001
       },
       "content": "6       Installation",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "6",
+      "section_id": "sec_6",
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6       Installation"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 94,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -51,7 +81,24 @@
       },
       "content": "6.1     Dimension drawings",
       "level": 2,
-      "role": "section"
+      "section_number": "6.1",
+      "section_id": "sec_6_1",
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6       Installation"
+        },
+        {
+          "id": "sec_6_1",
+          "title": "6.1     Dimension drawings"
+        }
+      ],
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "page": 94,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -67,11 +114,29 @@
       "image_path": "figures/figure_0256.png",
       "previous_block_id": "txt_0682",
       "next_block_id": "txt_0683",
-      "caption_id": "txt_0684",
       "caption": "Centre of gravity",
       "image_hash": "9451b905c1f1872c5bdc53ff47446600bc0516f27e732e58b006a7ed7677c6f8",
       "width": 476,
-      "height": 542
+      "height": 542,
+      "section_id": "sec_6_1",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6       Installation"
+        },
+        {
+          "id": "sec_6_1",
+          "title": "6.1     Dimension drawings"
+        }
+      ],
+      "page": 94,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0256",
+      "source": "pdf_text",
+      "caption_id": "txt_0684"
     },
     {
       "type": "caption",
@@ -85,6 +150,23 @@
         "b": 114.70000000000005
       },
       "content": "Dimensions  GA 37+  upto GA  75",
+      "section_id": "sec_6_1",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6       Installation"
+        },
+        {
+          "id": "sec_6_1",
+          "title": "6.1     Dimension drawings"
+        }
+      ],
+      "page": 94,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "source": "pdf_text",
       "caption_for": "fig_0256"
     },
     {
@@ -99,6 +181,24 @@
         "b": 76.50400000000002
       },
       "content": "Centre of gravity",
+      "section_id": "sec_6_1",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6       Installation"
+        },
+        {
+          "id": "sec_6_1",
+          "title": "6.1     Dimension drawings"
+        }
+      ],
+      "page": 94,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0256",
+      "source": "pdf_text",
       "caption_for": "fig_0256"
     }
   ],

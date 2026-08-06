@@ -19,7 +19,19 @@
       },
       "content": "Mechanical seal life",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1141",
+      "section_path": [
+        {
+          "id": "sec_auto_1141",
+          "title": "Mechanical seal life"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 2,
+      "page": 66,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -34,7 +46,20 @@
       },
       "markdown": "| Bearing temperature   | Type of grease                                                                                                    |\n|-----------------------|-------------------------------------------------------------------------------------------------------------------|\n| Exceed 350°F (177°C)  | Use a high-temperature grease. Mineral-oil greases should have oxidation stabilizers and a consistency of NGLI 3. |",
       "rows": 2,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_auto_1141",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_1141",
+          "title": "Mechanical seal life"
+        }
+      ],
+      "page": 66,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -49,7 +74,19 @@
       },
       "content": "Grease recommendations based on temperature",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1143",
+      "section_path": [
+        {
+          "id": "sec_auto_1143",
+          "title": "Grease recommendations based on temperature"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 2,
+      "page": 66,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -62,7 +99,20 @@
         "r": 538.4499800000001,
         "b": 649.6118299999999
       },
-      "content": "Most pumps use Sunoco 2EP grease. High temperature units that can pump fluids with a temperature greater than 350°F (177°C) use Mobil SCH32."
+      "content": "Most pumps use Sunoco 2EP grease. High temperature units that can pump fluids with a temperature greater than 350°F (177°C) use Mobil SCH32.",
+      "section_id": "sec_auto_1143",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_1143",
+          "title": "Grease recommendations based on temperature"
+        }
+      ],
+      "page": 66,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -75,7 +125,20 @@
         "r": 432.9300000000001,
         "b": 636.6118299999999
       },
-      "content": "This table shows which brand of grease to use when lubricating the pump."
+      "content": "This table shows which brand of grease to use when lubricating the pump.",
+      "section_id": "sec_auto_1143",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_1143",
+          "title": "Grease recommendations based on temperature"
+        }
+      ],
+      "page": 66,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -90,7 +153,20 @@
       },
       "markdown": "| Brand   | When temperature of pumped fluid is less than 350°F (177°C) - NLGI consistency 2   | When temperature of pumped fluid is greater than350°F (177°C) - NLGI consistency 3   |\n|---------|------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|\n| Mobil   | Mobilux EP2                                                                        | SCH32                                                                                |\n| Exxon   | Unirex N2                                                                          | Unirex N3                                                                            |\n| Sunoco  | Mutipurpose 2EP                                                                    | N/A                                                                                  |\n| SKF     | LGMT 2                                                                             | LGMT 3                                                                               |",
       "rows": 5,
-      "cols": 3
+      "cols": 3,
+      "section_id": "sec_auto_1143",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_1143",
+          "title": "Grease recommendations based on temperature"
+        }
+      ],
+      "page": 66,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -105,7 +181,19 @@
       },
       "content": "Lubricate the bearings after a shutdown period",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1147",
+      "section_path": [
+        {
+          "id": "sec_auto_1147",
+          "title": "Lubricate the bearings after a shutdown period"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 2,
+      "page": 66,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -118,7 +206,20 @@
         "r": 477.20199000000036,
         "b": 475.9918299999999
       },
-      "content": "Flush out the bearings and bearing frame with a light oil to remove contaminants. During flushing, make sure to rotate the shaft slowly by hand."
+      "content": "Flush out the bearings and bearing frame with a light oil to remove contaminants. During flushing, make sure to rotate the shaft slowly by hand.",
+      "section_id": "sec_auto_1147",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_1147",
+          "title": "Lubricate the bearings after a shutdown period"
+        }
+      ],
+      "page": 66,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -131,7 +232,20 @@
         "r": 515.4919500000003,
         "b": 462.1918399999999
       },
-      "content": "Flush the bearing housing with the proper lubricating oil to ensure oil quality after cleaning."
+      "content": "Flush the bearing housing with the proper lubricating oil to ensure oil quality after cleaning.",
+      "section_id": "sec_auto_1147",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_1147",
+          "title": "Lubricate the bearings after a shutdown period"
+        }
+      ],
+      "page": 66,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -146,7 +260,19 @@
       },
       "content": "Shaft seal maintenance",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1150",
+      "section_path": [
+        {
+          "id": "sec_auto_1150",
+          "title": "Shaft seal maintenance"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 2,
+      "page": 66,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -161,7 +287,19 @@
       },
       "content": "Mechanical-seal maintenance",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1151",
+      "section_path": [
+        {
+          "id": "sec_auto_1151",
+          "title": "Mechanical-seal maintenance"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 2,
+      "page": 66,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -179,7 +317,20 @@
       "next_block_id": "txt_1004",
       "image_hash": "3d5c09065f8a28e0277b315e8e33456be1cc7b77c43dcc29058e13cd637355bf",
       "width": 51,
-      "height": 44
+      "height": 44,
+      "section_id": "sec_auto_1151",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_1151",
+          "title": "Mechanical-seal maintenance"
+        }
+      ],
+      "page": 66,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -197,7 +348,20 @@
       "next_block_id": "txt_1004",
       "image_hash": "8858d36e64f51f60646afcf1430cae64c40e7c724e9c2bf06039432d3eb3100c",
       "width": 51,
-      "height": 44
+      "height": 44,
+      "section_id": "sec_auto_1151",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_1151",
+          "title": "Mechanical-seal maintenance"
+        }
+      ],
+      "page": 66,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -212,7 +376,19 @@
       },
       "content": "Reference drawing",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1154",
+      "section_path": [
+        {
+          "id": "sec_auto_1154",
+          "title": "Reference drawing"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 2,
+      "page": 66,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -225,7 +401,20 @@
         "r": 546.5800800000002,
         "b": 224.3609399999999
       },
-      "content": "The manufacturer supplies a reference drawing with the data package. Keep this drawing for future use when you perform maintenance and seal adjustments. The seal drawing specifies the required flush fluid and attachment points."
+      "content": "The manufacturer supplies a reference drawing with the data package. Keep this drawing for future use when you perform maintenance and seal adjustments. The seal drawing specifies the required flush fluid and attachment points.",
+      "section_id": "sec_auto_1154",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_1154",
+          "title": "Reference drawing"
+        }
+      ],
+      "page": 66,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -240,7 +429,19 @@
       },
       "content": "Before you start the pump",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1156",
+      "section_path": [
+        {
+          "id": "sec_auto_1156",
+          "title": "Before you start the pump"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 2,
+      "page": 66,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -253,7 +454,20 @@
         "r": 277.9800399999999,
         "b": 191.84091999999987
       },
-      "content": "Check the seal and all flush piping."
+      "content": "Check the seal and all flush piping.",
+      "section_id": "sec_auto_1156",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_1156",
+          "title": "Before you start the pump"
+        }
+      ],
+      "page": 66,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -266,7 +480,20 @@
         "r": 534.4600400000004,
         "b": 147.32089999999982
       },
-      "content": "The life of  a mechanical seal depends on the cleanliness of  the pumped fluid. Due to the diversity of operating conditions, it is not possible to give definite indications as to the life of  a mechanical seal."
+      "content": "The life of  a mechanical seal depends on the cleanliness of  the pumped fluid. Due to the diversity of operating conditions, it is not possible to give definite indications as to the life of  a mechanical seal.",
+      "section_id": "sec_auto_1156",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_1156",
+          "title": "Before you start the pump"
+        }
+      ],
+      "page": 66,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "admonition",
@@ -280,7 +507,20 @@
         "t": 390.43183999999985,
         "r": 197.11,
         "b": 379.19183999999984
-      }
+      },
+      "section_id": "sec_auto_1156",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_1156",
+          "title": "Before you start the pump"
+        }
+      ],
+      "page": 66,
+      "chunk_hint": "admonition",
+      "semantic_role": "warning",
+      "source": "pdf_text"
     },
     {
       "type": "admonition",
@@ -294,7 +534,20 @@
         "t": 328.7763899999999,
         "r": 194.53007999999997,
         "b": 317.53638999999987
-      }
+      },
+      "section_id": "sec_auto_1156",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_1156",
+          "title": "Before you start the pump"
+        }
+      ],
+      "page": 66,
+      "chunk_hint": "admonition",
+      "semantic_role": "caution",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

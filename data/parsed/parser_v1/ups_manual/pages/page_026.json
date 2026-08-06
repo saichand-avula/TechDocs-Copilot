@@ -21,7 +21,28 @@
       "next_block_id": "txt_0223",
       "image_hash": "639c6feefbb623272557a7c04b7c90959d5baa4801e5c4ab398cb755bbfc5fc9",
       "width": 311,
-      "height": 231
+      "height": 231,
+      "section_id": "sec_3_3_1",
+      "parent_section_id": "sec_3_3",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_3",
+          "title": "3.3 Positioning and Installation"
+        },
+        {
+          "id": "sec_3_3_1",
+          "title": "3.3.1 Clearance"
+        }
+      ],
+      "page": 26,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "caption",
@@ -35,6 +56,27 @@
         "b": 371.706101363195
       },
       "content": "Figure 3-6: Installation space diagram of 80 ~ 300 kVA UPS (unit: mm)",
+      "section_id": "sec_3_3_1",
+      "parent_section_id": "sec_3_3",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_3",
+          "title": "3.3 Positioning and Installation"
+        },
+        {
+          "id": "sec_3_3_1",
+          "title": "3.3.1 Clearance"
+        }
+      ],
+      "page": 26,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "source": "pdf_text",
       "caption_for": "fig_0034"
     },
     {
@@ -51,12 +93,34 @@
       "image_path": "figures/figure_0034.png",
       "previous_block_id": "txt_0223",
       "next_block_id": "txt_0224",
-      "caption_id": "txt_0224",
       "caption": ": Installation space diagram of 400 ~ 500 kVA UPS (unit: mm)",
       "figure_number": "Figure 3-7",
       "image_hash": "87d5999ca198b0cd6658e8e8eeaa95ece8ae744128ed756c09779f004ea61e5c",
       "width": 231,
-      "height": 195
+      "height": 195,
+      "section_id": "sec_3_3_1",
+      "parent_section_id": "sec_3_3",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_3",
+          "title": "3.3 Positioning and Installation"
+        },
+        {
+          "id": "sec_3_3_1",
+          "title": "3.3.1 Clearance"
+        }
+      ],
+      "page": 26,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0034",
+      "source": "pdf_text",
+      "caption_id": "txt_0224"
     },
     {
       "type": "caption",
@@ -70,6 +134,28 @@
         "b": 139.35610136319497
       },
       "content": "Figure 3-7: Installation space diagram of 400 ~ 500 kVA UPS (unit: mm)",
+      "section_id": "sec_3_3_1",
+      "parent_section_id": "sec_3_3",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_3",
+          "title": "3.3 Positioning and Installation"
+        },
+        {
+          "id": "sec_3_3_1",
+          "title": "3.3.1 Clearance"
+        }
+      ],
+      "page": 26,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0034",
+      "source": "pdf_text",
       "caption_for": "fig_0034"
     }
   ],

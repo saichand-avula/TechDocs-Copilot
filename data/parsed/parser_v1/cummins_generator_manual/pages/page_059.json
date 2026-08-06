@@ -18,8 +18,21 @@
         "b": 705.5587870854176
       },
       "content": "9. Wiring Diagrams",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "9",
+      "section_id": "sec_9",
+      "section_path": [
+        {
+          "id": "sec_9",
+          "title": "9. Wiring Diagrams"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 59,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -32,7 +45,20 @@
         "r": 564.9074999999991,
         "b": 649.8377492035388
       },
-      "content": "The electrical schematics and wiring diagrams that apply to the generator set covered in this manual are listed below."
+      "content": "The electrical schematics and wiring diagrams that apply to the generator set covered in this manual are listed below.",
+      "section_id": "sec_9",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_9",
+          "title": "9. Wiring Diagrams"
+        }
+      ],
+      "page": 59,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -47,7 +73,20 @@
       },
       "markdown": "| WIRING DIAGRAM     | DRAWING NO.          | PAGE   |\n|--------------------|----------------------|--------|\n| DC Wiring Diagram  | 612-6635 . . . . . . | 9-3    |\n| Wiring Diagram . . | 612-6637 . . . . . . | 9-4    |\n| AC Wiring Diagram  | 612-6732 . . . . . . | 9-5    |",
       "rows": 4,
-      "cols": 3
+      "cols": 3,
+      "section_id": "sec_9",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_9",
+          "title": "9. Wiring Diagrams"
+        }
+      ],
+      "page": 59,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

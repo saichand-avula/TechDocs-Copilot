@@ -19,7 +19,23 @@
       },
       "content": "Optional equipment",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_260",
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_auto_260",
+          "title": "Optional equipment"
+        }
+      ],
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "page": 29,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -34,7 +50,24 @@
       },
       "markdown": "| Reference   | Designation                                     |\n|-------------|-------------------------------------------------|\n| IO2         | Expansion module                                |\n| B2          | Electronic water drain (EWD) (Full-Feature)     |\n| K04'        | Auxiliary relay, load/unload for ES100          |\n| K21         | Auxiliary contact, compressor running for ES100 |\n| K25         | Phase sequence relay                            |\n| PDS11       | Delta p switch for integrated DD filter         |\n| PDS12       | Delta p switch for integrated PD filter         |\n| R1, K34     | Drive motor thermistor protection, shut-down    |\n| R2, K35     | Drive motor thermistor protection, warning      |\n| R3/R4/R7    | Heaters, freeze protection                      |\n| R96         | Anti-condensation heaters                       |\n| S10         | Main power isolating switch                     |\n| TT51        | Temp.sensor cooling water IN ( watercooled)     |\n| TT52        | Temp.sensor cooling water OUT ( watercooled)    |\n| TT53        | Temp.sensor energy recovery IN                  |\n| TT54        | Temp sensor energy recovery OUT                 |\n| S10         | Main Switch                                     |\n| ES          | 100                                             |\n| Y5          | Solenoid valve, OSCi                            |",
       "rows": 20,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_auto_260",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_auto_260",
+          "title": "Optional equipment"
+        }
+      ],
+      "page": 29,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -51,7 +84,24 @@
       "previous_block_id": "txt_0190",
       "image_hash": "b28a1d23de5124d82d6f84120acacff249829ec0e42f4c826059a188d93e4d2e",
       "width": 48,
-      "height": 23
+      "height": 23,
+      "section_id": "sec_auto_260",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2       General description"
+        },
+        {
+          "id": "sec_auto_260",
+          "title": "Optional equipment"
+        }
+      ],
+      "page": 29,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

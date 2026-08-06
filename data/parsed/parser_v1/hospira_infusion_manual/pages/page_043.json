@@ -18,8 +18,29 @@
         "b": 728.8081107637603
       },
       "content": "4.2.3.1.1",
-      "level": 2,
-      "role": "section"
+      "level": 5,
+      "section_number": "4.2.3.1.1",
+      "section_id": "sec_4_2_3_1_1",
+      "section_path": [
+        {
+          "id": "sec_auto_348",
+          "title": "MECHANISM SUBSYSTEM"
+        },
+        {
+          "id": "sec_4_2_3_1",
+          "title": "4.2.3.1 MOTORS/MOTOR DRIVE"
+        },
+        {
+          "id": "sec_4_2_3_1_1",
+          "title": "4.2.3.1.1"
+        }
+      ],
+      "parent_section_id": "sec_4_2_3_1",
+      "section_level": 5,
+      "page": 43,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -34,7 +55,19 @@
       },
       "content": "Stepper Motors",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_362",
+      "section_path": [
+        {
+          "id": "sec_auto_362",
+          "title": "Stepper Motors"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 2,
+      "page": 43,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -47,7 +80,20 @@
         "r": 343.56718451300014,
         "b": 688.7873549280329
       },
-      "content": "Each motor is named by its function, as follows:"
+      "content": "Each motor is named by its function, as follows:",
+      "section_id": "sec_auto_362",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_362",
+          "title": "Stepper Motors"
+        }
+      ],
+      "page": 43,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -60,7 +106,20 @@
         "r": 339.4592779886002,
         "b": 670.7875252559329
       },
-      "content": "-Plunger motor for driving the plunger screw"
+      "content": "-Plunger motor for driving the plunger screw",
+      "section_id": "sec_auto_362",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_362",
+          "title": "Stepper Motors"
+        }
+      ],
+      "page": 43,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -73,7 +132,20 @@
         "r": 394.91213166410006,
         "b": 653.3275281258329
       },
-      "content": "-I/O valve motor for moving the input-output valve pins"
+      "content": "-I/O valve motor for moving the input-output valve pins",
+      "section_id": "sec_auto_362",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_362",
+          "title": "Stepper Motors"
+        }
+      ],
+      "page": 43,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -86,7 +158,20 @@
         "r": 423.5230571899004,
         "b": 635.927490255933
       },
-      "content": "-L/S valve motor for moving the line select valve pins A and B"
+      "content": "-L/S valve motor for moving the line select valve pins A and B",
+      "section_id": "sec_auto_362",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_362",
+          "title": "Stepper Motors"
+        }
+      ],
+      "page": 43,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -99,7 +184,20 @@
         "r": 540.0453349730004,
         "b": 575.06402
       },
-      "content": "All three motors are four phase stepper types. One electrical revolution is accomplished after four motor steps (phases) are completed. The step-angle (the number of steps per shaft  revolution)  resolutions  are  3.6 ° /step  (100  steps/rev)  for  the  plunger  motor, and 7.5 ° /step (48 steps/rev) for the I/O and L/S valve motors."
+      "content": "All three motors are four phase stepper types. One electrical revolution is accomplished after four motor steps (phases) are completed. The step-angle (the number of steps per shaft  revolution)  resolutions  are  3.6 ° /step  (100  steps/rev)  for  the  plunger  motor, and 7.5 ° /step (48 steps/rev) for the I/O and L/S valve motors.",
+      "section_id": "sec_auto_362",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_362",
+          "title": "Stepper Motors"
+        }
+      ],
+      "page": 43,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -112,7 +210,20 @@
         "r": 540.1026656809996,
         "b": 504.46833503993287
       },
-      "content": "The unipolar motor windings have a center tap connected on each of the two coils as shown in Figure 4-3 . Unidirectional current enters the center tap and is steered to one end of the coil or the other end by the driver electronics, creating positive or negative flux lines in the  motor  coil.  With  two  coils  each  with  a  choice  of  flux  polarity,  four  electrical combinations or phases are possible."
+      "content": "The unipolar motor windings have a center tap connected on each of the two coils as shown in Figure 4-3 . Unidirectional current enters the center tap and is steered to one end of the coil or the other end by the driver electronics, creating positive or negative flux lines in the  motor  coil.  With  two  coils  each  with  a  choice  of  flux  polarity,  four  electrical combinations or phases are possible.",
+      "section_id": "sec_auto_362",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_362",
+          "title": "Stepper Motors"
+        }
+      ],
+      "page": 43,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -128,12 +239,26 @@
       "image_path": "figures/figure_0020.png",
       "previous_block_id": "txt_0334",
       "next_block_id": "txt_0335",
-      "caption_id": "txt_0335",
       "caption": ". Stepper Motor Coils",
       "figure_number": "Figure 4-3",
       "image_hash": "4e2c57f8d6edeff7fd6522574a89944348d3ceae568ca2e7d17411a714036f09",
       "width": 191,
-      "height": 163
+      "height": 163,
+      "section_id": "sec_auto_362",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_362",
+          "title": "Stepper Motors"
+        }
+      ],
+      "page": 43,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0020",
+      "source": "pdf_text",
+      "caption_id": "txt_0335"
     },
     {
       "type": "caption",
@@ -147,6 +272,20 @@
         "b": 166.23849440290007
       },
       "content": "Figure 4-3. Stepper Motor Coils",
+      "section_id": "sec_auto_362",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_362",
+          "title": "Stepper Motors"
+        }
+      ],
+      "page": 43,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0020",
+      "source": "pdf_text",
       "caption_for": "fig_0020"
     },
     {
@@ -160,7 +299,21 @@
         "r": 533.9857118000001,
         "b": 196.2999678
       },
-      "content": "98K01020"
+      "content": "98K01020",
+      "section_id": "sec_auto_362",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_362",
+          "title": "Stepper Motors"
+        }
+      ],
+      "page": 43,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text",
+      "group_id": "grp_fig_0020"
     }
   ],
   "page_stats": {

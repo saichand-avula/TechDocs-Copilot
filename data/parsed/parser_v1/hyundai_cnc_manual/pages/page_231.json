@@ -19,7 +19,20 @@
       },
       "markdown": "|   No. | Message                                | Contents                                                                                                                                          |\n|-------|----------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|\n|   950 | PMC SYSTEM ALARM PC xxx YYYYYYYYYYYYYY | An error occurred in the PMC. For details of PC xxx, see the list of system alarm messages in Section A.2, \"LIST OF ALARMS (PMC)\" in this manual. |\n|   951 | PMC WATCH DOG ALARM                    | An error occurred in the PMC. (Watchdog alarm) The motherboard may be faulty.                                                                     |\n|   970 | NMI OCCURRED IN PMCLSI                 | With the PMC-SA1, an error occurred in the control LSI device on the motherboard. (I/O parity). Replace the motherboard PMC RAM                   |\n|   971 | NMI OCCURRED IN SLC                    | With the PMC-SA1, an I/O Link disconnection was detected. Check the I/O Link.                                                                     |\n|   972 | NMI OCCURRED IN OTHER MODULE           | An NMI occurred on a board other than the motherboard. The option board may be faulty.                                                            |\n|   973 | NON MASK INTERRUPT                     | An NMI occurred as a result of an unknown cause.                                                                                                  |\n|   974 | F-BUS ERROR                            | A bus error occurred on the FANUC bus. The motherboard or option board may be faulty.                                                             |\n|   975 | BUS ERROR                              | A bus error occurred on the motherboard. The motherboard may be faulty.                                                                           |\n|   976 | L-BUS ERROR                            | A bus error occurred on the local bus. The motherboard may be faulty.                                                                             |",
       "rows": 10,
-      "cols": 3
+      "cols": 3,
+      "section_id": "sec_13",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_13",
+          "title": "13)  System alarms"
+        }
+      ],
+      "page": 231,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

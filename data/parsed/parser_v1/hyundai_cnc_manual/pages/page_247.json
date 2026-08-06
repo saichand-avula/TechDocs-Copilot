@@ -18,8 +18,21 @@
         "b": 746.7829409281768
       },
       "content": "1-28. Alarm AL-42",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "1",
+      "section_id": "sec_1",
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-28. Alarm AL-42"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 247,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -32,7 +45,20 @@
         "r": 184.05982800000004,
         "b": 712.8231569281769
       },
-      "content": "Meaning"
+      "content": "Meaning",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-28. Alarm AL-42"
+        }
+      ],
+      "page": 247,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -45,7 +71,20 @@
         "r": 399.70425599999993,
         "b": 695.7831449281769
       },
-      "content": "The position coder one-rotation signal was not generated."
+      "content": "The position coder one-rotation signal was not generated.",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-28. Alarm AL-42"
+        }
+      ],
+      "page": 247,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -58,7 +97,20 @@
         "r": 269.683734,
         "b": 661.823360928177
       },
-      "content": "Cause and corrective action"
+      "content": "Cause and corrective action",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-28. Alarm AL-42"
+        }
+      ],
+      "page": 247,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -71,7 +123,20 @@
         "r": 444.1169039999999,
         "b": 644.7833489281769
       },
-      "content": "Feedback signal cable defective Check the connection of the cable."
+      "content": "Feedback signal cable defective Check the connection of the cable.",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-28. Alarm AL-42"
+        }
+      ],
+      "page": 247,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -84,7 +149,20 @@
         "r": 305.58624600000024,
         "b": 626.8523
       },
-      "content": "⇒ Connect the cable correctly."
+      "content": "⇒ Connect the cable correctly.",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-28. Alarm AL-42"
+        }
+      ],
+      "page": 247,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -97,7 +175,20 @@
         "r": 396.4706520000007,
         "b": 593.7830369281769
       },
-      "content": "Position coder defective Check the position coder signal."
+      "content": "Position coder defective Check the position coder signal.",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-28. Alarm AL-42"
+        }
+      ],
+      "page": 247,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -110,7 +201,20 @@
         "r": 302.9219280000003,
         "b": 575.8523
       },
-      "content": "⇒ Replace the position coder."
+      "content": "⇒ Replace the position coder.",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-28. Alarm AL-42"
+        }
+      ],
+      "page": 247,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -123,7 +227,20 @@
         "r": 377.40860399999997,
         "b": 542.7830369281769
       },
-      "content": "Feedback signal level insufficient (for built in sensor)"
+      "content": "Feedback signal level insufficient (for built in sensor)",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-28. Alarm AL-42"
+        }
+      ],
+      "page": 247,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -136,7 +253,20 @@
         "r": 379.67312400000077,
         "b": 525.803144928177
       },
-      "content": "Check the feedback signal level with an oscilloscope."
+      "content": "Check the feedback signal level with an oscilloscope.",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-28. Alarm AL-42"
+        }
+      ],
+      "page": 247,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -149,7 +279,20 @@
         "r": 324.5531040000005,
         "b": 507.8723
       },
-      "content": "⇒ Adjust the feedback signal level."
+      "content": "⇒ Adjust the feedback signal level.",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-28. Alarm AL-42"
+        }
+      ],
+      "page": 247,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -162,7 +305,20 @@
         "r": 259.674606,
         "b": 474.80303692817677
       },
-      "content": "Detection circuit defective"
+      "content": "Detection circuit defective",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-28. Alarm AL-42"
+        }
+      ],
+      "page": 247,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -175,7 +331,20 @@
         "r": 329.05008000000043,
         "b": 456.8723
       },
-      "content": "⇒ Replace the printed-circuit board."
+      "content": "⇒ Replace the printed-circuit board.",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-28. Alarm AL-42"
+        }
+      ],
+      "page": 247,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -189,8 +358,21 @@
         "b": 423.80303692817677
       },
       "content": "1-29. Alarm AL-43",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "1",
+      "section_id": "sec_1",
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-29. Alarm AL-43"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 247,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -203,7 +385,20 @@
         "r": 184.05967800000002,
         "b": 389.78313292817677
       },
-      "content": "Meaning"
+      "content": "Meaning",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-29. Alarm AL-43"
+        }
+      ],
+      "page": 247,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -216,7 +411,20 @@
         "r": 583.7865359999997,
         "b": 355.82334892817676
       },
-      "content": "The  position  coder  signal  used  for  the  main  spindle  during  the  differential  speed  mode  was disconnected."
+      "content": "The  position  coder  signal  used  for  the  main  spindle  during  the  differential  speed  mode  was disconnected.",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-29. Alarm AL-43"
+        }
+      ],
+      "page": 247,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -229,7 +437,20 @@
         "r": 269.68358400000005,
         "b": 321.80344492817676
       },
-      "content": "Cause and corrective action"
+      "content": "Cause and corrective action",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-29. Alarm AL-43"
+        }
+      ],
+      "page": 247,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -242,7 +463,20 @@
         "r": 288.05224800000013,
         "b": 304.8235529281767
       },
-      "content": "Feedback signal cable defective"
+      "content": "Feedback signal cable defective",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-29. Alarm AL-43"
+        }
+      ],
+      "page": 247,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -255,7 +489,20 @@
         "r": 429.3192179999993,
         "b": 287.78354092817676
       },
-      "content": "Check the connection of the cable. Also check for a broken wire."
+      "content": "Check the connection of the cable. Also check for a broken wire.",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-29. Alarm AL-43"
+        }
+      ],
+      "page": 247,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -268,7 +515,20 @@
         "r": 527.3587200000001,
         "b": 253.82304892817683
       },
-      "content": "⇒ Connect  the  cable  correctly.  If  any  wire  in  the  cable  is  broken,  replace  the cable."
+      "content": "⇒ Connect  the  cable  correctly.  If  any  wire  in  the  cable  is  broken,  replace  the cable.",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-29. Alarm AL-43"
+        }
+      ],
+      "page": 247,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -281,7 +541,20 @@
         "r": 527.3396819999999,
         "b": 219.80314492817683
       },
-      "content": "Feedback  signal  cable  not  shielded  properly  Check  whether  the  cable  is  shielded properly."
+      "content": "Feedback  signal  cable  not  shielded  properly  Check  whether  the  cable  is  shielded properly.",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-29. Alarm AL-43"
+        }
+      ],
+      "page": 247,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -294,7 +567,20 @@
         "r": 260.56438199999997,
         "b": 201.8723
       },
-      "content": "⇒ Shield it correctly."
+      "content": "⇒ Shield it correctly.",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-29. Alarm AL-43"
+        }
+      ],
+      "page": 247,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -307,7 +593,20 @@
         "r": 251.98425600000002,
         "b": 168.80303692817677
       },
-      "content": "Position coder defective"
+      "content": "Position coder defective",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-29. Alarm AL-43"
+        }
+      ],
+      "page": 247,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -320,7 +619,20 @@
         "r": 286.425,
         "b": 151.82314492817682
       },
-      "content": "Check the position coder signal."
+      "content": "Check the position coder signal.",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-29. Alarm AL-43"
+        }
+      ],
+      "page": 247,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -333,7 +645,20 @@
         "r": 302.9219280000003,
         "b": 133.83230000000003
       },
-      "content": "⇒ Replace the position coder."
+      "content": "⇒ Replace the position coder.",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-29. Alarm AL-43"
+        }
+      ],
+      "page": 247,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -346,7 +671,20 @@
         "r": 265.19362200000006,
         "b": 100.82315692817679
       },
-      "content": "Incorrect parameter setting"
+      "content": "Incorrect parameter setting",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-29. Alarm AL-43"
+        }
+      ],
+      "page": 247,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -359,7 +697,20 @@
         "r": 453.7590000000011,
         "b": 83.78314492817674
       },
-      "content": "Check the parameter setting for the differential speed mode functions."
+      "content": "Check the parameter setting for the differential speed mode functions.",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1-29. Alarm AL-43"
+        }
+      ],
+      "page": 247,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

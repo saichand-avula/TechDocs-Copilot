@@ -19,7 +19,19 @@
       },
       "content": "Cover",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_259",
+      "section_path": [
+        {
+          "id": "sec_auto_259",
+          "title": "Cover"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 2,
+      "page": 17,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -32,7 +44,20 @@
         "r": 194.92999999999998,
         "b": 717.88184
       },
-      "content": "Standard seal"
+      "content": "Standard seal",
+      "section_id": "sec_auto_259",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_259",
+          "title": "Cover"
+        }
+      ],
+      "page": 17,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -45,7 +70,20 @@
         "r": 549.9999900000003,
         "b": 690.88184
       },
-      "content": "The 3196 is available with a stuffing-box cover designed for a packing and a BigBore or a TaperBore PLUS seal chamber."
+      "content": "The 3196 is available with a stuffing-box cover designed for a packing and a BigBore or a TaperBore PLUS seal chamber.",
+      "section_id": "sec_auto_259",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_259",
+          "title": "Cover"
+        }
+      ],
+      "page": 17,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -58,7 +96,20 @@
         "r": 195.33996,
         "b": 676.36184
       },
-      "content": "Optional seal"
+      "content": "Optional seal",
+      "section_id": "sec_auto_259",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_259",
+          "title": "Cover"
+        }
+      ],
+      "page": 17,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -71,7 +122,20 @@
         "r": 558.6199500000005,
         "b": 649.36184
       },
-      "content": "a dynamic seal is available which uses a repeller to pump liquid out of  the stuffing box while the pump operates. A static seal prevents leakage when the pump is shut down."
+      "content": "a dynamic seal is available which uses a repeller to pump liquid out of  the stuffing box while the pump operates. A static seal prevents leakage when the pump is shut down.",
+      "section_id": "sec_auto_259",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_259",
+          "title": "Cover"
+        }
+      ],
+      "page": 17,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -84,7 +148,20 @@
         "r": 350.91994,
         "b": 631.36184
       },
-      "content": "This table describes the main parts of  the power end."
+      "content": "This table describes the main parts of  the power end.",
+      "section_id": "sec_auto_259",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_259",
+          "title": "Cover"
+        }
+      ],
+      "page": 17,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -98,11 +175,25 @@
         "b": 265.76611328125
       },
       "markdown": "Table 4: Power end\n\n| Part          | Description                                                                                                                                                                                                                                                                                                                                                                                                    |\n|---------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Frame adapter | The ductile iron frame adapter has • a machined rabbet fitted to the seal chamber/ stuffing box cover • a precision dowel pin fitted to the bearing frame.                                                                                                                                                                                                                                                     |\n| Power end     | • Flood-oil lubrication is standard. • No machining is required to convert from oil to grease or oil-mist lubrication. Regreasable bearings and oil-mist lubrication are optional. • The oil level is checked through a sight glass. • The power end is sealed with labyrinth seals. • The power end is made in the following sizes: • STi • MTi • LTi • XLT-i • i-17                                          |\n| Shaft         | The shaft is available with or without a sleeve.                                                                                                                                                                                                                                                                                                                                                               |\n| Bearings      | The inboard bearing • carries only radial loads. • is free to float axially in the frame. • is a single-row deep-groove ball bearing The outboard bearing • is shouldered and locked to the shaft and housing to enable it to carry radial and thrust loads. • is a double-row angular-contact bearing, except for the LTi which uses a pair of single-row angular-contact ball bearings mounted back-to-back. |",
-      "caption_id": "txt_0234",
       "title": "Table 4: Power end",
       "table_number": "Table 4",
       "rows": 5,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_auto_259",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_259",
+          "title": "Cover"
+        }
+      ],
+      "page": 17,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "group_id": "grp_tbl_0012",
+      "source": "pdf_text",
+      "caption_id": "txt_0234"
     },
     {
       "type": "caption",
@@ -116,6 +207,20 @@
         "b": 615.86823
       },
       "content": "Table 4: Power end",
+      "section_id": "sec_auto_259",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_259",
+          "title": "Cover"
+        }
+      ],
+      "page": 17,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_tbl_0012",
+      "source": "pdf_text",
       "caption_for": "tbl_0012"
     },
     {
@@ -131,7 +236,19 @@
       },
       "content": "General description i-ALERT ™  Condition Monitor",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_267",
+      "section_path": [
+        {
+          "id": "sec_auto_267",
+          "title": "General description i-ALERT ™  Condition Monitor"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 2,
+      "page": 17,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -146,7 +263,19 @@
       },
       "content": "Description",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_268",
+      "section_path": [
+        {
+          "id": "sec_auto_268",
+          "title": "Description"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 2,
+      "page": 17,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -161,7 +290,19 @@
       },
       "content": "Alarm mode",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_269",
+      "section_path": [
+        {
+          "id": "sec_auto_269",
+          "title": "Alarm mode"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 2,
+      "page": 17,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -174,7 +315,20 @@
         "r": 554.7520300000003,
         "b": 138.6617799999998
       },
-      "content": "The i-ALERT Condition Monitor is a compact, battery-operated monitoring device that continuously measures the vibration and temperature of the pump power end. The condition monitor uses blinking red LEDs to alert the pump operator when the pump exceeds pre-set vibration and temperature limits. This allows the pump operator to make changes to the process or the pump before a catastrophic failure occurs. The condition monitor is also equipped with a single green LED to indicate when it is operational and has sufficient battery life."
+      "content": "The i-ALERT Condition Monitor is a compact, battery-operated monitoring device that continuously measures the vibration and temperature of the pump power end. The condition monitor uses blinking red LEDs to alert the pump operator when the pump exceeds pre-set vibration and temperature limits. This allows the pump operator to make changes to the process or the pump before a catastrophic failure occurs. The condition monitor is also equipped with a single green LED to indicate when it is operational and has sufficient battery life.",
+      "section_id": "sec_auto_269",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_269",
+          "title": "Alarm mode"
+        }
+      ],
+      "page": 17,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -187,7 +341,20 @@
         "r": 555.7019900000003,
         "b": 82.14175999999975
       },
-      "content": "The condition monitor enters alarm mode when either vibration or temperature limits are exceeded over two consecutive readings within a ten minute period. Alarm mode is indicated with two red flashing LEDs within two second intervals."
+      "content": "The condition monitor enters alarm mode when either vibration or temperature limits are exceeded over two consecutive readings within a ten minute period. Alarm mode is indicated with two red flashing LEDs within two second intervals.",
+      "section_id": "sec_auto_269",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_269",
+          "title": "Alarm mode"
+        }
+      ],
+      "page": 17,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

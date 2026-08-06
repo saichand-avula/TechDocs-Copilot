@@ -18,8 +18,21 @@
         "b": 746.8429409281769
       },
       "content": "2) Background edit alarm",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "2",
+      "section_id": "sec_2",
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2) Background edit alarm"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 212,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -34,7 +47,20 @@
       },
       "markdown": "| No.   | Message    | Contents                                                                                                                                    |\n|-------|------------|---------------------------------------------------------------------------------------------------------------------------------------------|\n| ???   | BP/S ALARM | BP/S alarm occurs in the same number as the P/S alarm that occurs in ordinary program edit.                                                 |\n| 140   | BP/S ALARM | It was attempted to select or delete in the background a program being selected in the foreground (Note). Use background editing correctly. |",
       "rows": 3,
-      "cols": 3
+      "cols": 3,
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2) Background edit alarm"
+        }
+      ],
+      "page": 212,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "admonition",
@@ -48,7 +74,20 @@
         "t": 586.5376100000001,
         "r": 105.90355199999999,
         "b": 574.1597025524862
-      }
+      },
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2) Background edit alarm"
+        }
+      ],
+      "page": 212,
+      "chunk_hint": "admonition",
+      "semantic_role": "note",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

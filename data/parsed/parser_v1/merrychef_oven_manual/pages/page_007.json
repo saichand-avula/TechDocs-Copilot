@@ -21,7 +21,24 @@
       "next_block_id": "txt_0078",
       "width": 23,
       "height": 20,
-      "image_hash": "e13855a4eaece6100235dc55ed9055c952674fe970e336f515a8e33ba3e9e77d"
+      "image_hash": "e13855a4eaece6100235dc55ed9055c952674fe970e336f515a8e33ba3e9e77d",
+      "section_id": "sec_auto_87",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5 Manufacturer addresses"
+        },
+        {
+          "id": "sec_auto_87",
+          "title": "Standards"
+        }
+      ],
+      "page": 7,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -35,8 +52,21 @@
         "b": 774.2523086051509
       },
       "content": "2 For your safety",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "2",
+      "section_id": "sec_2",
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 For your safety"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 7,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -51,7 +81,23 @@
       },
       "content": "Purpose",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_91",
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 For your safety"
+        },
+        {
+          "id": "sec_auto_91",
+          "title": "Purpose"
+        }
+      ],
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "page": 7,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -64,7 +110,24 @@
         "r": 560.2230000000001,
         "b": 724.3383344167462
       },
-      "content": "This chapter provides you with all the information you need in order to work with the microwave combination oven safely without putting yourself or others at risk."
+      "content": "This chapter provides you with all the information you need in order to work with the microwave combination oven safely without putting yourself or others at risk.",
+      "section_id": "sec_auto_91",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 For your safety"
+        },
+        {
+          "id": "sec_auto_91",
+          "title": "Purpose"
+        }
+      ],
+      "page": 7,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -77,7 +140,24 @@
         "r": 385.02000000000004,
         "b": 711.7557304760583
       },
-      "content": "This is a particularly important chapter that you must read through carefully."
+      "content": "This is a particularly important chapter that you must read through carefully.",
+      "section_id": "sec_auto_91",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 For your safety"
+        },
+        {
+          "id": "sec_auto_91",
+          "title": "Purpose"
+        }
+      ],
+      "page": 7,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "admonition",
@@ -91,7 +171,24 @@
         "t": 697.3860195312501,
         "r": 95.10300000000001,
         "b": 689.1987304760582
-      }
+      },
+      "section_id": "sec_auto_91",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 For your safety"
+        },
+        {
+          "id": "sec_auto_91",
+          "title": "Purpose"
+        }
+      ],
+      "page": 7,
+      "chunk_hint": "admonition",
+      "semantic_role": "important",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -104,7 +201,24 @@
         "r": 560.2500000000001,
         "b": 628.2243344167463
       },
-      "content": "Please remember that it is wiser not to attempt a service task if you are unsure of being able to complete it competently, quickly, and above all safely."
+      "content": "Please remember that it is wiser not to attempt a service task if you are unsure of being able to complete it competently, quickly, and above all safely.",
+      "section_id": "sec_auto_91",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 For your safety"
+        },
+        {
+          "id": "sec_auto_91",
+          "title": "Purpose"
+        }
+      ],
+      "page": 7,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -117,7 +231,24 @@
         "r": 560.4741,
         "b": 603.6273344167463
       },
-      "content": "To avoid injury to yourself or others and to protect the appliance from possible damage, ensure you have read and understand all the relevant instructions and ALWAYS follow the safety codes when servicing an oven."
+      "content": "To avoid injury to yourself or others and to protect the appliance from possible damage, ensure you have read and understand all the relevant instructions and ALWAYS follow the safety codes when servicing an oven.",
+      "section_id": "sec_auto_91",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 For your safety"
+        },
+        {
+          "id": "sec_auto_91",
+          "title": "Purpose"
+        }
+      ],
+      "page": 7,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -130,7 +261,24 @@
         "r": 483.5610000000001,
         "b": 591.0447304760584
       },
-      "content": "Ensure the electrical supply is locked-off to prevent the oven from being inadvertently powered up."
+      "content": "Ensure the electrical supply is locked-off to prevent the oven from being inadvertently powered up.",
+      "section_id": "sec_auto_91",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 For your safety"
+        },
+        {
+          "id": "sec_auto_91",
+          "title": "Purpose"
+        }
+      ],
+      "page": 7,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -143,7 +291,24 @@
         "r": 560.4750000000001,
         "b": 566.9073344167464
       },
-      "content": "Do not leave the oven unattended without the oven panels fitted and keep within sight of other personnel when testing the oven, ensuring persons other than trained engineers are denied access."
+      "content": "Do not leave the oven unattended without the oven panels fitted and keep within sight of other personnel when testing the oven, ensuring persons other than trained engineers are denied access.",
+      "section_id": "sec_auto_91",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 For your safety"
+        },
+        {
+          "id": "sec_auto_91",
+          "title": "Purpose"
+        }
+      ],
+      "page": 7,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -156,7 +321,24 @@
         "r": 560.4570000000001,
         "b": 542.4273344167464
       },
-      "content": "The minimum number of panels should be removed, and the high voltage capacitors must be discharged before working on the oven using a suitable capacitor discharge tool (see section 2.15)."
+      "content": "The minimum number of panels should be removed, and the high voltage capacitors must be discharged before working on the oven using a suitable capacitor discharge tool (see section 2.15).",
+      "section_id": "sec_auto_91",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 For your safety"
+        },
+        {
+          "id": "sec_auto_91",
+          "title": "Purpose"
+        }
+      ],
+      "page": 7,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -169,7 +351,24 @@
         "r": 469.629,
         "b": 529.8447304760584
       },
-      "content": "Temporary insulation should be used to prevent accidental contact with dangerous conductors."
+      "content": "Temporary insulation should be used to prevent accidental contact with dangerous conductors.",
+      "section_id": "sec_auto_91",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 For your safety"
+        },
+        {
+          "id": "sec_auto_91",
+          "title": "Purpose"
+        }
+      ],
+      "page": 7,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -182,7 +381,24 @@
         "r": 558.801,
         "b": 505.5903344167465
       },
-      "content": "Do not touch any internal wiring or connectors within the oven, whether you believe it is live or not and avoid touching the metalwork (casing, panels, etc) of the oven with your body."
+      "content": "Do not touch any internal wiring or connectors within the oven, whether you believe it is live or not and avoid touching the metalwork (casing, panels, etc) of the oven with your body.",
+      "section_id": "sec_auto_91",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 For your safety"
+        },
+        {
+          "id": "sec_auto_91",
+          "title": "Purpose"
+        }
+      ],
+      "page": 7,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -195,7 +411,24 @@
         "r": 497.3490000000001,
         "b": 492.99873047605854
       },
-      "content": "Only use electrically rated screwdrivers for adjusting 'pots' etc., ensuring the tool touches nothing else."
+      "content": "Only use electrically rated screwdrivers for adjusting 'pots' etc., ensuring the tool touches nothing else.",
+      "section_id": "sec_auto_91",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 For your safety"
+        },
+        {
+          "id": "sec_auto_91",
+          "title": "Purpose"
+        }
+      ],
+      "page": 7,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -208,7 +441,24 @@
         "r": 293.8410000000002,
         "b": 480.75873047605825
       },
-      "content": "Ensure the test equipment is set correctly before use."
+      "content": "Ensure the test equipment is set correctly before use.",
+      "section_id": "sec_auto_91",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 For your safety"
+        },
+        {
+          "id": "sec_auto_91",
+          "title": "Purpose"
+        }
+      ],
+      "page": 7,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -221,7 +471,24 @@
         "r": 558.5220000000003,
         "b": 456.62133441674615
       },
-      "content": "Test equipment such as meter test leads or clamps must be fitted and removed whilst the unit is dead, for each and every test."
+      "content": "Test equipment such as meter test leads or clamps must be fitted and removed whilst the unit is dead, for each and every test.",
+      "section_id": "sec_auto_91",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 For your safety"
+        },
+        {
+          "id": "sec_auto_91",
+          "title": "Purpose"
+        }
+      ],
+      "page": 7,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -234,7 +501,24 @@
         "r": 432.16200000000015,
         "b": 444.0387304760582
       },
-      "content": "Do not undertake functional magnetron testing with the panels of the casing removed."
+      "content": "Do not undertake functional magnetron testing with the panels of the casing removed.",
+      "section_id": "sec_auto_91",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 For your safety"
+        },
+        {
+          "id": "sec_auto_91",
+          "title": "Purpose"
+        }
+      ],
+      "page": 7,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -247,7 +531,24 @@
         "r": 366.89400000000023,
         "b": 432.0417304760582
       },
-      "content": "Avoid touching the test equipment, unless necessary for the operation."
+      "content": "Avoid touching the test equipment, unless necessary for the operation.",
+      "section_id": "sec_auto_91",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 For your safety"
+        },
+        {
+          "id": "sec_auto_91",
+          "title": "Purpose"
+        }
+      ],
+      "page": 7,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -260,7 +561,24 @@
         "r": 555.0714000000003,
         "b": 407.6613344167461
       },
-      "content": "Upon completion of a service follow the steps for commissioning the oven under the 'Commissioning the appliance' section of this manual."
+      "content": "Upon completion of a service follow the steps for commissioning the oven under the 'Commissioning the appliance' section of this manual.",
+      "section_id": "sec_auto_91",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 For your safety"
+        },
+        {
+          "id": "sec_auto_91",
+          "title": "Purpose"
+        }
+      ],
+      "page": 7,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -275,7 +593,24 @@
       },
       "content": "2.1 Basic safety code",
       "level": 2,
-      "role": "section"
+      "section_number": "2.1",
+      "section_id": "sec_2_1",
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 For your safety"
+        },
+        {
+          "id": "sec_2_1",
+          "title": "2.1 Basic safety code"
+        }
+      ],
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "page": 7,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -290,7 +625,23 @@
       },
       "content": "Object of the safety code",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_110",
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 For your safety"
+        },
+        {
+          "id": "sec_auto_110",
+          "title": "Object of the safety code"
+        }
+      ],
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "page": 7,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -303,7 +654,24 @@
         "r": 560.5829999999999,
         "b": 299.53833441674624
       },
-      "content": "This safety code aims to ensure that all persons who operate, install, service and repair the microwave combination oven have a thorough knowledge of the hazards and safety precautions, and that they follow the warning notices given in the conneX ® Installation  and  User  manual,  this  Service  manual  and  on  the  appliance.  If  you  do  not  follow  this  safety  code,  you  risk potentially fatal injury and property damage."
+      "content": "This safety code aims to ensure that all persons who operate, install, service and repair the microwave combination oven have a thorough knowledge of the hazards and safety precautions, and that they follow the warning notices given in the conneX ® Installation  and  User  manual,  this  Service  manual  and  on  the  appliance.  If  you  do  not  follow  this  safety  code,  you  risk potentially fatal injury and property damage.",
+      "section_id": "sec_auto_110",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 For your safety"
+        },
+        {
+          "id": "sec_auto_110",
+          "title": "Object of the safety code"
+        }
+      ],
+      "page": 7,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -318,7 +686,23 @@
       },
       "content": "Referring to the conneX ®  Installation and User manual included in the customer documentation",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_112",
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 For your safety"
+        },
+        {
+          "id": "sec_auto_112",
+          "title": "Referring to the conneX ®  Installation and User manual included in the customer documentation"
+        }
+      ],
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "page": 7,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -331,7 +715,24 @@
         "r": 418.12200000000007,
         "b": 242.05833441674622
       },
-      "content": " Read in full this chapter 'For your safety' and the chapters that relate to your work."
+      "content": " Read in full this chapter 'For your safety' and the chapters that relate to your work.",
+      "section_id": "sec_auto_112",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 For your safety"
+        },
+        {
+          "id": "sec_auto_112",
+          "title": "Referring to the conneX ®  Installation and User manual included in the customer documentation"
+        }
+      ],
+      "page": 7,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -344,7 +745,24 @@
         "r": 447.0480000000001,
         "b": 230.06133441674615
       },
-      "content": " Always keep to hand the manuals included in the customer documentation for reference."
+      "content": " Always keep to hand the manuals included in the customer documentation for reference.",
+      "section_id": "sec_auto_112",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 For your safety"
+        },
+        {
+          "id": "sec_auto_112",
+          "title": "Referring to the conneX ®  Installation and User manual included in the customer documentation"
+        }
+      ],
+      "page": 7,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -357,7 +775,24 @@
         "r": 558.918,
         "b": 205.46433441674617
       },
-      "content": " Pass on the user manuals included in the customer documentation with the microwave combination oven if it changes ownership."
+      "content": " Pass on the user manuals included in the customer documentation with the microwave combination oven if it changes ownership.",
+      "section_id": "sec_auto_112",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 For your safety"
+        },
+        {
+          "id": "sec_auto_112",
+          "title": "Referring to the conneX ®  Installation and User manual included in the customer documentation"
+        }
+      ],
+      "page": 7,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -372,7 +807,23 @@
       },
       "content": "CAUTION",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_116",
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 For your safety"
+        },
+        {
+          "id": "sec_auto_116",
+          "title": "CAUTION"
+        }
+      ],
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "page": 7,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -390,7 +841,24 @@
       "next_block_id": "txt_0105",
       "width": 12,
       "height": 11,
-      "image_hash": "87b94d6d0417feeab6ab890579640c60273e85912bcb0d47b21fa74d9be6c73a"
+      "image_hash": "87b94d6d0417feeab6ab890579640c60273e85912bcb0d47b21fa74d9be6c73a",
+      "section_id": "sec_auto_116",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 For your safety"
+        },
+        {
+          "id": "sec_auto_116",
+          "title": "CAUTION"
+        }
+      ],
+      "page": 7,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -405,7 +873,23 @@
       },
       "content": "Warning to service technicians:",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_118",
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 For your safety"
+        },
+        {
+          "id": "sec_auto_118",
+          "title": "Warning to service technicians:"
+        }
+      ],
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "page": 7,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -418,7 +902,24 @@
         "r": 517.8720000000002,
         "b": 156.2613344167462
       },
-      "content": "Precautions to be observed before and during servicing to avoid possible exposure to excessive microwave energy."
+      "content": "Precautions to be observed before and during servicing to avoid possible exposure to excessive microwave energy.",
+      "section_id": "sec_auto_118",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 For your safety"
+        },
+        {
+          "id": "sec_auto_118",
+          "title": "Warning to service technicians:"
+        }
+      ],
+      "page": 7,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -431,7 +932,24 @@
         "r": 357.89700000000005,
         "b": 144.16473047605825
       },
-      "content": "Do not operate or allow the oven to be operated with the door open."
+      "content": "Do not operate or allow the oven to be operated with the door open.",
+      "section_id": "sec_auto_118",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 For your safety"
+        },
+        {
+          "id": "sec_auto_118",
+          "title": "Warning to service technicians:"
+        }
+      ],
+      "page": 7,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -444,7 +962,24 @@
         "r": 558.6420000000003,
         "b": 119.66733441674614
       },
-      "content": "Make the following safety checks on all ovens to be serviced before activating the magnetron or other microwave source, and make repairs as necessary:"
+      "content": "Make the following safety checks on all ovens to be serviced before activating the magnetron or other microwave source, and make repairs as necessary:",
+      "section_id": "sec_auto_118",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 For your safety"
+        },
+        {
+          "id": "sec_auto_118",
+          "title": "Warning to service technicians:"
+        }
+      ],
+      "page": 7,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -457,7 +992,24 @@
         "r": 167.5740000000002,
         "b": 107.1843344167462
       },
-      "content": " Interlock operation."
+      "content": " Interlock operation.",
+      "section_id": "sec_auto_118",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 For your safety"
+        },
+        {
+          "id": "sec_auto_118",
+          "title": "Warning to service technicians:"
+        }
+      ],
+      "page": 7,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -470,7 +1022,24 @@
         "r": 169.97700000000023,
         "b": 94.94433441674619
       },
-      "content": " Proper door closing."
+      "content": " Proper door closing.",
+      "section_id": "sec_auto_118",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 For your safety"
+        },
+        {
+          "id": "sec_auto_118",
+          "title": "Warning to service technicians:"
+        }
+      ],
+      "page": 7,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -483,7 +1052,24 @@
         "r": 332.2020000000002,
         "b": 82.94733441674623
       },
-      "content": " Seal and sealing surfaces (arcing, wear, and other damage)."
+      "content": " Seal and sealing surfaces (arcing, wear, and other damage).",
+      "section_id": "sec_auto_118",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 For your safety"
+        },
+        {
+          "id": "sec_auto_118",
+          "title": "Warning to service technicians:"
+        }
+      ],
+      "page": 7,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -496,7 +1082,24 @@
         "r": 278.31900000000013,
         "b": 70.70733441674622
       },
-      "content": " Damage to or loosening of hinges and latches."
+      "content": " Damage to or loosening of hinges and latches.",
+      "section_id": "sec_auto_118",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 For your safety"
+        },
+        {
+          "id": "sec_auto_118",
+          "title": "Warning to service technicians:"
+        }
+      ],
+      "page": 7,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -509,7 +1112,24 @@
         "r": 214.95000000000022,
         "b": 58.46733441674621
       },
-      "content": " Evidence of dropping or abuse."
+      "content": " Evidence of dropping or abuse.",
+      "section_id": "sec_auto_118",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 For your safety"
+        },
+        {
+          "id": "sec_auto_118",
+          "title": "Warning to service technicians:"
+        }
+      ],
+      "page": 7,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

@@ -18,8 +18,21 @@
         "b": 733.0429409281768
       },
       "content": "5-2-2. Major Dimension",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "5",
+      "section_id": "sec_5",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5-2-2. Major Dimension"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 50,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -34,7 +47,23 @@
       },
       "content": "mm (in)",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_367",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5-2-2. Major Dimension"
+        },
+        {
+          "id": "sec_auto_367",
+          "title": "mm (in)"
+        }
+      ],
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "page": 50,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -52,7 +81,24 @@
       "next_block_id": "txt_0282",
       "image_hash": "b058351fd044341de0e3723bf11a5f7e9aeb68796681134007ebd835203becac",
       "width": 440,
-      "height": 222
+      "height": 222,
+      "section_id": "sec_auto_367",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5-2-2. Major Dimension"
+        },
+        {
+          "id": "sec_auto_367",
+          "title": "mm (in)"
+        }
+      ],
+      "page": 50,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "caption",
@@ -66,6 +112,24 @@
         "b": 461.0039489281769
       },
       "content": "Fig. 3-8  Major Dimensions of Connecting Parts for Cylinder",
+      "section_id": "sec_auto_367",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5-2-2. Major Dimension"
+        },
+        {
+          "id": "sec_auto_367",
+          "title": "mm (in)"
+        }
+      ],
+      "page": 50,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_tbl_0020",
+      "source": "pdf_text",
       "caption_for": "tbl_0020"
     },
     {
@@ -80,8 +144,21 @@
         "b": 427.0441649281769
       },
       "content": "5-3. SUPER KIATURN 200 Hollow Chuck (8\", Ø 210)",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "5",
+      "section_id": "sec_5",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5-3. SUPER KIATURN 200 Hollow Chuck (8\", Ø 210)"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 50,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -95,9 +172,23 @@
         "b": 355.4360046386719
       },
       "markdown": "| Name     | Manufacturer    |\n|----------|-----------------|\n| Chuck    | SAMCHUNREE, SMI |\n| Cylinder | SAMCHUNREE, SMI |",
-      "caption_id": "txt_0282",
       "rows": 3,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_5",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5-3. SUPER KIATURN 200 Hollow Chuck (8\", Ø 210)"
+        }
+      ],
+      "page": 50,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "group_id": "grp_tbl_0020",
+      "source": "pdf_text",
+      "caption_id": "txt_0282"
     },
     {
       "type": "heading",
@@ -111,8 +202,21 @@
         "b": 323.00292892817674
       },
       "content": "5-3-1. Connecting Parts for Rotary Cylinder",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "5",
+      "section_id": "sec_5",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5-3-1. Connecting Parts for Rotary Cylinder"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 50,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -128,12 +232,26 @@
       "image_path": "figures/figure_0070.png",
       "previous_block_id": "txt_0284",
       "next_block_id": "txt_0285",
-      "caption_id": "txt_0285",
       "caption": "Connecting Parts for Cylinder",
       "figure_number": "Fig. 3-9",
       "image_hash": "a072b043065184124bc31d3d246692a861491f0600380ae9477383bcdc6f313a",
       "width": 440,
-      "height": 211
+      "height": 211,
+      "section_id": "sec_5",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5-3-1. Connecting Parts for Rotary Cylinder"
+        }
+      ],
+      "page": 50,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0070",
+      "source": "pdf_text",
+      "caption_id": "txt_0285"
     },
     {
       "type": "caption",
@@ -147,6 +265,20 @@
         "b": 90.02390092817677
       },
       "content": "Fig. 3-9  Connecting Parts for Cylinder",
+      "section_id": "sec_5",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5-3-1. Connecting Parts for Rotary Cylinder"
+        }
+      ],
+      "page": 50,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0070",
+      "source": "pdf_text",
       "caption_for": "fig_0070"
     }
   ],

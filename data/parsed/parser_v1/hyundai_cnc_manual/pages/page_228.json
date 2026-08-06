@@ -18,8 +18,21 @@
         "b": 746.8429409281769
       },
       "content": "12)  Safety zone alarms",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "12",
+      "section_id": "sec_12",
+      "section_path": [
+        {
+          "id": "sec_12",
+          "title": "12)  Safety zone alarms"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 228,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -34,7 +47,20 @@
       },
       "markdown": "|   No. | Message                      | Contents                                                                                                                            |\n|-------|------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|\n|  4800 | ZONE: PUNCHING INHIBITED 1   | When a safety zone check was executed, a punch command was specified in area 1 where punching is inhibited.                         |\n|  4801 | ZONE: PUNCHING INHIBITED 2   | When a safety zone check was executed, a punch command was specified in area 2 where punching is inhibited.                         |\n|  4802 | ZONE PUNCHING INHIBITED 3    | When a safety zone check was executed, a punch command was specified in area 3 where punching is inhibited.                         |\n|  4803 | ZONE: PUNCHING INHIBITED 4   | When a safety zone check was executed, a punch command was specified in area 4 where punching is inhibited.                         |\n|  4810 | ZONE ENTERING INHIBITED 1+X  | When a safety zone check was executed, the machine moving in the positive X direction entered area 1 into which entry is inhibited. |\n|  4811 | ZONE: ENTERING INHIBITED 1-X | When a safety zone check was executed, the machine moving in the negative X direction entered area 1 into which entry is inhibited. |\n|  4812 | ZONE: ENTERING INHIBITED 2+X | When a safety zone check was executed, the machine moving in the positive X direction entered area 2 into which entry is inhibited. |\n|  4813 | ZONE: ENTERING INHIBITED 2-X | When a safety zone check was executed, the machine moving in the negative X direction entered area 2 into which entry is inhibited. |\n|  4814 | ZONE: ENTERING INHIBITED 3+X | When a safety zone check was executed, the machine moving in the positive X direction entered area 3 into which entry is inhibited. |\n|  4815 | ZONE: ENTERING INHIBITED 3-X | When a safety zone check was executed, the machine moving in the negative X direction entered area 3 into which entry is inhibited. |\n|  4816 | ZONE: ENTERING INHIBITED 4+X | When a safety zone check was executed, the machine moving in the positive X direction entered area 4 into which entry is inhibited. |\n|  4817 | ZONE ENTERING INHIBITED 4-X  | When a safety zone check was executed, the machine moving in the negative X direction entered area 4 into which entry is inhibited. |",
       "rows": 13,
-      "cols": 3
+      "cols": 3,
+      "section_id": "sec_12",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_12",
+          "title": "12)  Safety zone alarms"
+        }
+      ],
+      "page": 228,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

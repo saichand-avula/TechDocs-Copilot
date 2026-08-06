@@ -18,8 +18,21 @@
         "b": 746.8429409281769
       },
       "content": "2-5-2. Filling and Changing Oil",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "2",
+      "section_id": "sec_2",
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-5-2. Filling and Changing Oil"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 120,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -32,7 +45,20 @@
         "r": 219.93343199999998,
         "b": 729.8029289281768
       },
-      "content": "Filling lubrication Oil"
+      "content": "Filling lubrication Oil",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-5-2. Filling and Changing Oil"
+        }
+      ],
+      "page": 120,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -50,7 +76,20 @@
       "next_block_id": "txt_0753",
       "image_hash": "6b617a9843c78ba34d32738d3880a599eda94ecd092eda6effe0a647a86fb10e",
       "width": 118,
-      "height": 32
+      "height": 32,
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-5-2. Filling and Changing Oil"
+        }
+      ],
+      "page": 120,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -63,7 +102,20 @@
         "r": 385.0741439999993,
         "b": 623.4229769281769
       },
-      "content": "When filling lubricating oil, always use the recommended oil by KIA. Otherwise, it may cause the machine failures."
+      "content": "When filling lubricating oil, always use the recommended oil by KIA. Otherwise, it may cause the machine failures.",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-5-2. Filling and Changing Oil"
+        }
+      ],
+      "page": 120,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -76,7 +128,20 @@
         "r": 218.98554000000004,
         "b": 552.9231449281768
       },
-      "content": "tank capacity: -1.8 l (0.47 gal)"
+      "content": "tank capacity: -1.8 l (0.47 gal)",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-5-2. Filling and Changing Oil"
+        }
+      ],
+      "page": 120,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -89,7 +154,20 @@
         "r": 278.9993279999999,
         "b": 467.9034449281768
       },
-      "content": "Lubricating oil supply: -33dd/h Recommended oil: See chap. 3-5-2 'Place to be Lubricated'."
+      "content": "Lubricating oil supply: -33dd/h Recommended oil: See chap. 3-5-2 'Place to be Lubricated'.",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-5-2. Filling and Changing Oil"
+        }
+      ],
+      "page": 120,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -105,12 +183,26 @@
       "image_path": "figures/figure_0195.png",
       "previous_block_id": "txt_0755",
       "next_block_id": "txt_0756",
-      "caption_id": "txt_0756",
       "caption": "Lubricating Oil Filling Position",
       "figure_number": "Fig. 5-20",
       "image_hash": "52475a2bf5d2041f75d71ba55e348553c6f0d68741bbca3c2591ce384059acdd",
       "width": 250,
-      "height": 252
+      "height": 252,
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-5-2. Filling and Changing Oil"
+        }
+      ],
+      "page": 120,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0195",
+      "source": "pdf_text",
+      "caption_id": "txt_0756"
     },
     {
       "type": "caption",
@@ -124,6 +216,20 @@
         "b": 331.94406892817676
       },
       "content": "Fig. 5-20  Lubricating Oil Filling Position",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-5-2. Filling and Changing Oil"
+        }
+      ],
+      "page": 120,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0195",
+      "source": "pdf_text",
       "caption_for": "fig_0195"
     },
     {
@@ -140,12 +246,26 @@
       "image_path": "figures/figure_0196.png",
       "previous_block_id": "txt_0756",
       "next_block_id": "txt_0757",
-      "caption_id": "txt_0757",
       "caption": "Filling Lubricating oil",
       "figure_number": "Fig. 5-21",
       "image_hash": "2d7cad16a9a9b3246ef54cde607664c9a9c943c96ca0aa488c326e123dc41fee",
       "width": 464,
-      "height": 174
+      "height": 174,
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-5-2. Filling and Changing Oil"
+        }
+      ],
+      "page": 120,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0196",
+      "source": "pdf_text",
+      "caption_id": "txt_0757"
     },
     {
       "type": "caption",
@@ -159,6 +279,20 @@
         "b": 93.92498092817675
       },
       "content": "Fig. 5-21  Filling Lubricating oil",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-5-2. Filling and Changing Oil"
+        }
+      ],
+      "page": 120,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0196",
+      "source": "pdf_text",
       "caption_for": "fig_0196"
     }
   ],

@@ -22,7 +22,20 @@
       "width": 32,
       "height": 10,
       "decorative": true,
-      "image_hash": "dcf8c3fa353279aae49f95ef65836811b105d56e04110e637e988495f1d66b36"
+      "image_hash": "dcf8c3fa353279aae49f95ef65836811b105d56e04110e637e988495f1d66b36",
+      "section_id": "sec_7",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. 3 .6    Overheat Protection For Exhaust Temperature"
+        }
+      ],
+      "page": 60,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -39,7 +52,20 @@
       "next_block_id": "txt_0558",
       "image_hash": "cd63eb7c07dc005315b1f8c2736e86dec3fa75d3d4f27c184d28a32f5d86db1b",
       "width": 515,
-      "height": 224
+      "height": 224,
+      "section_id": "sec_7",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. 3 .6    Overheat Protection For Exhaust Temperature"
+        }
+      ],
+      "page": 60,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -53,8 +79,21 @@
         "b": 524.649557
       },
       "content": "7. 3 .7 The EEPROM Abnormality (Indoor or outdoor unit)",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "7",
+      "section_id": "sec_7",
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. 3 .7 The EEPROM Abnormality (Indoor or outdoor unit)"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 60,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -69,7 +108,23 @@
       },
       "content": "Indoor Display",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_761",
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. 3 .7 The EEPROM Abnormality (Indoor or outdoor unit)"
+        },
+        {
+          "id": "sec_auto_761",
+          "title": "Indoor Display"
+        }
+      ],
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "page": 60,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -84,7 +139,23 @@
       },
       "content": "Method of Malfunction Detection",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_762",
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. 3 .7 The EEPROM Abnormality (Indoor or outdoor unit)"
+        },
+        {
+          "id": "sec_auto_762",
+          "title": "Method of Malfunction Detection"
+        }
+      ],
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "page": 60,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -97,7 +168,24 @@
         "r": 115.76112444,
         "b": 407.520938
       },
-      "content": "Malfunction"
+      "content": "Malfunction",
+      "section_id": "sec_auto_762",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. 3 .7 The EEPROM Abnormality (Indoor or outdoor unit)"
+        },
+        {
+          "id": "sec_auto_762",
+          "title": "Method of Malfunction Detection"
+        }
+      ],
+      "page": 60,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -110,7 +198,24 @@
         "r": 98.60721802000002,
         "b": 395.97095402
       },
-      "content": "Decision"
+      "content": "Decision",
+      "section_id": "sec_auto_762",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. 3 .7 The EEPROM Abnormality (Indoor or outdoor unit)"
+        },
+        {
+          "id": "sec_auto_762",
+          "title": "Method of Malfunction Detection"
+        }
+      ],
+      "page": 60,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -123,7 +228,24 @@
         "r": 109.07895174000001,
         "b": 384.545638
       },
-      "content": "Conditions"
+      "content": "Conditions",
+      "section_id": "sec_auto_762",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. 3 .7 The EEPROM Abnormality (Indoor or outdoor unit)"
+        },
+        {
+          "id": "sec_auto_762",
+          "title": "Method of Malfunction Detection"
+        }
+      ],
+      "page": 60,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -138,7 +260,23 @@
       },
       "content": "Supposed Causes",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_766",
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. 3 .7 The EEPROM Abnormality (Indoor or outdoor unit)"
+        },
+        {
+          "id": "sec_auto_766",
+          "title": "Supposed Causes"
+        }
+      ],
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "page": 60,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -151,7 +289,24 @@
         "r": 159.87470000000002,
         "b": 358.1427274875
       },
-      "content": "Ƶ"
+      "content": "Ƶ",
+      "section_id": "sec_auto_766",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. 3 .7 The EEPROM Abnormality (Indoor or outdoor unit)"
+        },
+        {
+          "id": "sec_auto_766",
+          "title": "Supposed Causes"
+        }
+      ],
+      "page": 60,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -164,7 +319,24 @@
         "r": 157.0627,
         "b": 345.21802748749997
       },
-      "content": "Ƶ"
+      "content": "Ƶ",
+      "section_id": "sec_auto_766",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. 3 .7 The EEPROM Abnormality (Indoor or outdoor unit)"
+        },
+        {
+          "id": "sec_auto_766",
+          "title": "Supposed Causes"
+        }
+      ],
+      "page": 60,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -177,7 +349,24 @@
         "r": 279.9263098399999,
         "b": 358.698238
       },
-      "content": "Faulty    EEPROM data"
+      "content": "Faulty    EEPROM data",
+      "section_id": "sec_auto_766",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. 3 .7 The EEPROM Abnormality (Indoor or outdoor unit)"
+        },
+        {
+          "id": "sec_auto_766",
+          "title": "Supposed Causes"
+        }
+      ],
+      "page": 60,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -190,7 +379,24 @@
         "r": 250.07787940000014,
         "b": 345.773538
       },
-      "content": "Faulty    EEPROM"
+      "content": "Faulty    EEPROM",
+      "section_id": "sec_auto_766",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. 3 .7 The EEPROM Abnormality (Indoor or outdoor unit)"
+        },
+        {
+          "id": "sec_auto_766",
+          "title": "Supposed Causes"
+        }
+      ],
+      "page": 60,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -203,7 +409,24 @@
         "r": 160.9502784,
         "b": 332.4133274875
       },
-      "content": "Ƶ"
+      "content": "Ƶ",
+      "section_id": "sec_auto_766",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. 3 .7 The EEPROM Abnormality (Indoor or outdoor unit)"
+        },
+        {
+          "id": "sec_auto_766",
+          "title": "Supposed Causes"
+        }
+      ],
+      "page": 60,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -216,7 +439,24 @@
         "r": 277.1540928399999,
         "b": 332.968838
       },
-      "content": "Faulty    PCB"
+      "content": "Faulty    PCB",
+      "section_id": "sec_auto_766",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. 3 .7 The EEPROM Abnormality (Indoor or outdoor unit)"
+        },
+        {
+          "id": "sec_auto_766",
+          "title": "Supposed Causes"
+        }
+      ],
+      "page": 60,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -231,7 +471,23 @@
       },
       "content": "Troubleshooting        * Caution",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_773",
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. 3 .7 The EEPROM Abnormality (Indoor or outdoor unit)"
+        },
+        {
+          "id": "sec_auto_773",
+          "title": "Troubleshooting        * Caution"
+        }
+      ],
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "page": 60,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -244,7 +500,24 @@
         "r": 551.7929480800011,
         "b": 307.840238
       },
-      "content": "Be sure to turn off power switch before connect or disconnect connector,      or"
+      "content": "Be sure to turn off power switch before connect or disconnect connector,      or",
+      "section_id": "sec_auto_773",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. 3 .7 The EEPROM Abnormality (Indoor or outdoor unit)"
+        },
+        {
+          "id": "sec_auto_773",
+          "title": "Troubleshooting        * Caution"
+        }
+      ],
+      "page": 60,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -257,7 +530,24 @@
         "r": 346.0069996700003,
         "b": 292.40128978000007
       },
-      "content": "parts damage may be occurred."
+      "content": "parts damage may be occurred.",
+      "section_id": "sec_auto_773",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. 3 .7 The EEPROM Abnormality (Indoor or outdoor unit)"
+        },
+        {
+          "id": "sec_auto_773",
+          "title": "Troubleshooting        * Caution"
+        }
+      ],
+      "page": 60,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -275,7 +565,24 @@
       "next_block_id": "txt_0574",
       "image_hash": "5ce64eff6dd8c0e1134cbe13414b46706ae453ce2aac66c794a211ec3c02ffb4",
       "width": 425,
-      "height": 184
+      "height": 184,
+      "section_id": "sec_auto_773",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. 3 .7 The EEPROM Abnormality (Indoor or outdoor unit)"
+        },
+        {
+          "id": "sec_auto_773",
+          "title": "Troubleshooting        * Caution"
+        }
+      ],
+      "page": 60,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -288,7 +595,24 @@
         "r": 163.20255295,
         "b": 504.091638
       },
-      "content": "E4"
+      "content": "E4",
+      "section_id": "sec_auto_773",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. 3 .7 The EEPROM Abnormality (Indoor or outdoor unit)"
+        },
+        {
+          "id": "sec_auto_773",
+          "title": "Troubleshooting        * Caution"
+        }
+      ],
+      "page": 60,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -301,7 +625,24 @@
         "r": 166.0042711,
         "b": 504.091638
       },
-      "content": ":"
+      "content": ":",
+      "section_id": "sec_auto_773",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. 3 .7 The EEPROM Abnormality (Indoor or outdoor unit)"
+        },
+        {
+          "id": "sec_auto_773",
+          "title": "Troubleshooting        * Caution"
+        }
+      ],
+      "page": 60,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -314,7 +655,24 @@
         "r": 164.28828116000005,
         "b": 488.5337826
       },
-      "content": "F12"
+      "content": "F12",
+      "section_id": "sec_auto_773",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. 3 .7 The EEPROM Abnormality (Indoor or outdoor unit)"
+        },
+        {
+          "id": "sec_auto_773",
+          "title": "Troubleshooting        * Caution"
+        }
+      ],
+      "page": 60,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -327,7 +685,24 @@
         "r": 180.99670940000001,
         "b": 503.5361274875
       },
-      "content": "˖"
+      "content": "˖",
+      "section_id": "sec_auto_773",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. 3 .7 The EEPROM Abnormality (Indoor or outdoor unit)"
+        },
+        {
+          "id": "sec_auto_773",
+          "title": "Troubleshooting        * Caution"
+        }
+      ],
+      "page": 60,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -340,7 +715,24 @@
         "r": 281.83658854000004,
         "b": 504.091638
       },
-      "content": "Indoor EEPROM error"
+      "content": "Indoor EEPROM error",
+      "section_id": "sec_auto_773",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. 3 .7 The EEPROM Abnormality (Indoor or outdoor unit)"
+        },
+        {
+          "id": "sec_auto_773",
+          "title": "Troubleshooting        * Caution"
+        }
+      ],
+      "page": 60,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -353,7 +745,24 @@
         "r": 279.9867553800001,
         "b": 488.5337826
       },
-      "content": "Outdoor EEPROM error"
+      "content": "Outdoor EEPROM error",
+      "section_id": "sec_auto_773",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. 3 .7 The EEPROM Abnormality (Indoor or outdoor unit)"
+        },
+        {
+          "id": "sec_auto_773",
+          "title": "Troubleshooting        * Caution"
+        }
+      ],
+      "page": 60,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -366,7 +775,24 @@
         "r": 174.28257414000004,
         "b": 487.9782720875
       },
-      "content": "˖"
+      "content": "˖",
+      "section_id": "sec_auto_773",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. 3 .7 The EEPROM Abnormality (Indoor or outdoor unit)"
+        },
+        {
+          "id": "sec_auto_773",
+          "title": "Troubleshooting        * Caution"
+        }
+      ],
+      "page": 60,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -379,7 +805,24 @@
         "r": 468.00351808999994,
         "b": 457.3581186
       },
-      "content": "the    Data    detected by the    EEPROM    are used to determine    MCU"
+      "content": "the    Data    detected by the    EEPROM    are used to determine    MCU",
+      "section_id": "sec_auto_773",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. 3 .7 The EEPROM Abnormality (Indoor or outdoor unit)"
+        },
+        {
+          "id": "sec_auto_773",
+          "title": "Troubleshooting        * Caution"
+        }
+      ],
+      "page": 60,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -392,7 +835,24 @@
         "r": 462.88850966000064,
         "b": 407.520938
       },
-      "content": "when the    Data of EEPROM    is error or    the EEPROM    is damaged"
+      "content": "when the    Data of EEPROM    is error or    the EEPROM    is damaged",
+      "section_id": "sec_auto_773",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. 3 .7 The EEPROM Abnormality (Indoor or outdoor unit)"
+        },
+        {
+          "id": "sec_auto_773",
+          "title": "Troubleshooting        * Caution"
+        }
+      ],
+      "page": 60,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

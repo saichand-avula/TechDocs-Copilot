@@ -19,7 +19,23 @@
       },
       "content": "3ULQWHG &LUFXLW %RDUG &RQQHFWRU :LULQJ 'LDJUDP",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_78",
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Introduction"
+        },
+        {
+          "id": "sec_auto_78",
+          "title": "3ULQWHG &LUFXLW %RDUG &RQQHFWRU :LULQJ 'LDJUDP"
+        }
+      ],
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "page": 11,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -34,7 +50,24 @@
       },
       "content": "4.1 ᧶ Indoor unit Connectors",
       "level": 2,
-      "role": "section"
+      "section_number": "4.1",
+      "section_id": "sec_4_1",
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Introduction"
+        },
+        {
+          "id": "sec_4_1",
+          "title": "4.1 ᧶ Indoor unit Connectors"
+        }
+      ],
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "page": 11,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -49,7 +82,23 @@
       },
       "content": "Connectors",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_80",
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Introduction"
+        },
+        {
+          "id": "sec_auto_80",
+          "title": "Connectors"
+        }
+      ],
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "page": 11,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -64,7 +113,23 @@
       },
       "content": "PCB(1) (Control PCB)",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_81",
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Introduction"
+        },
+        {
+          "id": "sec_auto_81",
+          "title": "PCB(1) (Control PCB)"
+        }
+      ],
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "page": 11,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -82,7 +147,24 @@
       "next_block_id": "txt_0033",
       "image_hash": "4932c2d5d0b7074cda725139f9d9564f1f04035ce7b4f980001f49bec2498beb",
       "width": 32,
-      "height": 11
+      "height": 11,
+      "section_id": "sec_auto_81",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Introduction"
+        },
+        {
+          "id": "sec_auto_81",
+          "title": "PCB(1) (Control PCB)"
+        }
+      ],
+      "page": 11,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -95,7 +177,24 @@
         "r": 324.70637214000004,
         "b": 675.2713336
       },
-      "content": "CN26 Connector for fan motor"
+      "content": "CN26 Connector for fan motor",
+      "section_id": "sec_auto_81",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Introduction"
+        },
+        {
+          "id": "sec_auto_81",
+          "title": "PCB(1) (Control PCB)"
+        }
+      ],
+      "page": 11,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -108,7 +207,24 @@
         "r": 336.8261753600001,
         "b": 659.7134782
       },
-      "content": "CN11 Connector for STEP motor"
+      "content": "CN11 Connector for STEP motor",
+      "section_id": "sec_auto_81",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Introduction"
+        },
+        {
+          "id": "sec_auto_81",
+          "title": "PCB(1) (Control PCB)"
+        }
+      ],
+      "page": 11,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -121,7 +237,24 @@
         "r": 540.2678697599999,
         "b": 644.1556228000001
       },
-      "content": "CN8 Connector for heat exchanger thermistor and Room temperature thermistor"
+      "content": "CN8 Connector for heat exchanger thermistor and Room temperature thermistor",
+      "section_id": "sec_auto_81",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Introduction"
+        },
+        {
+          "id": "sec_auto_81",
+          "title": "PCB(1) (Control PCB)"
+        }
+      ],
+      "page": 11,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -134,7 +267,24 @@
         "r": 344.0517115799997,
         "b": 628.5977674000001
       },
-      "content": "4)CN27    Connector for fan feedback"
+      "content": "4)CN27    Connector for fan feedback",
+      "section_id": "sec_auto_81",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Introduction"
+        },
+        {
+          "id": "sec_auto_81",
+          "title": "PCB(1) (Control PCB)"
+        }
+      ],
+      "page": 11,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -147,7 +297,24 @@
         "r": 325.64027819000046,
         "b": 613.0399120000001
       },
-      "content": "5)CH1 Connector for power L wire"
+      "content": "5)CH1 Connector for power L wire",
+      "section_id": "sec_auto_81",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Introduction"
+        },
+        {
+          "id": "sec_auto_81",
+          "title": "PCB(1) (Control PCB)"
+        }
+      ],
+      "page": 11,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -160,7 +327,24 @@
         "r": 335.1091865899998,
         "b": 597.4820566000001
       },
-      "content": "6)CON2 Connector for power N wire"
+      "content": "6)CON2 Connector for power N wire",
+      "section_id": "sec_auto_81",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Introduction"
+        },
+        {
+          "id": "sec_auto_81",
+          "title": "PCB(1) (Control PCB)"
+        }
+      ],
+      "page": 11,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -173,7 +357,24 @@
         "r": 370.0322787099996,
         "b": 581.9242012000001
       },
-      "content": "CON7 Connector for communicate wire"
+      "content": "CON7 Connector for communicate wire",
+      "section_id": "sec_auto_81",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Introduction"
+        },
+        {
+          "id": "sec_auto_81",
+          "title": "PCB(1) (Control PCB)"
+        }
+      ],
+      "page": 11,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -186,7 +387,24 @@
         "r": 372.2906333399998,
         "b": 566.3663458000001
       },
-      "content": "CN30    Connector for    transformer input"
+      "content": "CN30    Connector for    transformer input",
+      "section_id": "sec_auto_81",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Introduction"
+        },
+        {
+          "id": "sec_auto_81",
+          "title": "PCB(1) (Control PCB)"
+        }
+      ],
+      "page": 11,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -199,7 +417,24 @@
         "r": 380.50001711000004,
         "b": 550.80749118
       },
-      "content": "CN31    Connector for    transformer    output"
+      "content": "CN31    Connector for    transformer    output",
+      "section_id": "sec_auto_81",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Introduction"
+        },
+        {
+          "id": "sec_auto_81",
+          "title": "PCB(1) (Control PCB)"
+        }
+      ],
+      "page": 11,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -212,7 +447,24 @@
         "r": 361.6830587399994,
         "b": 535.24863656
       },
-      "content": "CN32 Connector for      display    board"
+      "content": "CN32 Connector for      display    board",
+      "section_id": "sec_auto_81",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Introduction"
+        },
+        {
+          "id": "sec_auto_81",
+          "title": "PCB(1) (Control PCB)"
+        }
+      ],
+      "page": 11,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -227,7 +479,23 @@
       },
       "content": "Note: Other designations",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_93",
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Introduction"
+        },
+        {
+          "id": "sec_auto_93",
+          "title": "Note: Other designations"
+        }
+      ],
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "page": 11,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -240,7 +508,24 @@
         "r": 304.69681075000005,
         "b": 457.45836034
       },
-      "content": "PCB(1) (INdoor Control PCB)"
+      "content": "PCB(1) (INdoor Control PCB)",
+      "section_id": "sec_auto_93",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Introduction"
+        },
+        {
+          "id": "sec_auto_93",
+          "title": "Note: Other designations"
+        }
+      ],
+      "page": 11,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -253,7 +538,24 @@
         "r": 429.29286261000004,
         "b": 441.90050494
       },
-      "content": "CN48 Connector for Forced operation ON / OFF switch"
+      "content": "CN48 Connector for Forced operation ON / OFF switch",
+      "section_id": "sec_auto_93",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Introduction"
+        },
+        {
+          "id": "sec_auto_93",
+          "title": "Note: Other designations"
+        }
+      ],
+      "page": 11,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -266,7 +568,24 @@
         "r": 278.4815185699999,
         "b": 426.34264954
       },
-      "content": "J1    Select 25 or 35"
+      "content": "J1    Select 25 or 35",
+      "section_id": "sec_auto_93",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Introduction"
+        },
+        {
+          "id": "sec_auto_93",
+          "title": "Note: Other designations"
+        }
+      ],
+      "page": 11,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -279,7 +598,24 @@
         "r": 342.32173801999994,
         "b": 410.78479414000003
       },
-      "content": "LED1    communicate    display light"
+      "content": "LED1    communicate    display light",
+      "section_id": "sec_auto_93",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Introduction"
+        },
+        {
+          "id": "sec_auto_93",
+          "title": "Note: Other designations"
+        }
+      ],
+      "page": 11,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -292,7 +628,24 @@
         "r": 248.8532242800003,
         "b": 395.22693874000004
       },
-      "content": "RV1    Varistor"
+      "content": "RV1    Varistor",
+      "section_id": "sec_auto_93",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Introduction"
+        },
+        {
+          "id": "sec_auto_93",
+          "title": "Note: Other designations"
+        }
+      ],
+      "page": 11,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -305,7 +658,24 @@
         "r": 318.2938835400003,
         "b": 379.66908334000004
       },
-      "content": "FUSE1    Fuse 3.15A/250VAC"
+      "content": "FUSE1    Fuse 3.15A/250VAC",
+      "section_id": "sec_auto_93",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Introduction"
+        },
+        {
+          "id": "sec_auto_93",
+          "title": "Note: Other designations"
+        }
+      ],
+      "page": 11,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

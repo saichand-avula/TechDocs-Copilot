@@ -19,7 +19,24 @@
       },
       "content": "4.2 ᧶ outdoor unit",
       "level": 2,
-      "role": "section"
+      "section_number": "4.2",
+      "section_id": "sec_4_2",
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Introduction"
+        },
+        {
+          "id": "sec_4_2",
+          "title": "4.2 ᧶ outdoor unit"
+        }
+      ],
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "page": 13,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -34,7 +51,23 @@
       },
       "content": "Connectors",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_104",
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Introduction"
+        },
+        {
+          "id": "sec_auto_104",
+          "title": "Connectors"
+        }
+      ],
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "page": 13,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -49,7 +82,23 @@
       },
       "content": "PCB(1) (Control PCB)",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_105",
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Introduction"
+        },
+        {
+          "id": "sec_auto_105",
+          "title": "PCB(1) (Control PCB)"
+        }
+      ],
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "page": 13,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -62,7 +111,24 @@
         "r": 289.7363350100003,
         "b": 721.9421336
       },
-      "content": "CN1,CN2 Connector for power N and L"
+      "content": "CN1,CN2 Connector for power N and L",
+      "section_id": "sec_auto_105",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Introduction"
+        },
+        {
+          "id": "sec_auto_105",
+          "title": "PCB(1) (Control PCB)"
+        }
+      ],
+      "page": 13,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -75,7 +141,24 @@
         "r": 233.24051255000037,
         "b": 706.3842782
       },
-      "content": "CN3 Connector for ground"
+      "content": "CN3 Connector for ground",
+      "section_id": "sec_auto_105",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Introduction"
+        },
+        {
+          "id": "sec_auto_105",
+          "title": "PCB(1) (Control PCB)"
+        }
+      ],
+      "page": 13,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -88,7 +171,24 @@
         "r": 419.79598697000046,
         "b": 690.8264228
       },
-      "content": "CN22 Connector for    DC POWER 15Vand 5V to the module    board"
+      "content": "CN22 Connector for    DC POWER 15Vand 5V to the module    board",
+      "section_id": "sec_auto_105",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Introduction"
+        },
+        {
+          "id": "sec_auto_105",
+          "title": "PCB(1) (Control PCB)"
+        }
+      ],
+      "page": 13,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -101,7 +201,24 @@
         "r": 318.4666811300003,
         "b": 675.2685674
       },
-      "content": "CN16 Connector for electric expansion valves"
+      "content": "CN16 Connector for electric expansion valves",
+      "section_id": "sec_auto_105",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Introduction"
+        },
+        {
+          "id": "sec_auto_105",
+          "title": "PCB(1) (Control PCB)"
+        }
+      ],
+      "page": 13,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -114,7 +231,24 @@
         "r": 281.2992180000001,
         "b": 659.7107120000001
       },
-      "content": "CN21    Connector for DC    fan motor"
+      "content": "CN21    Connector for DC    fan motor",
+      "section_id": "sec_auto_105",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Introduction"
+        },
+        {
+          "id": "sec_auto_105",
+          "title": "PCB(1) (Control PCB)"
+        }
+      ],
+      "page": 13,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -127,7 +261,24 @@
         "r": 289.17099723000035,
         "b": 644.1528566000001
       },
-      "content": "CN10 Connector for four way valve coil"
+      "content": "CN10 Connector for four way valve coil",
+      "section_id": "sec_auto_105",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Introduction"
+        },
+        {
+          "id": "sec_auto_105",
+          "title": "PCB(1) (Control PCB)"
+        }
+      ],
+      "page": 13,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -140,7 +291,24 @@
         "r": 341.8103370600007,
         "b": 628.5950012000001
       },
-      "content": "CN17,CN18,CN19,CN20 Connector for thermistors"
+      "content": "CN17,CN18,CN19,CN20 Connector for thermistors",
+      "section_id": "sec_auto_105",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Introduction"
+        },
+        {
+          "id": "sec_auto_105",
+          "title": "PCB(1) (Control PCB)"
+        }
+      ],
+      "page": 13,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -153,7 +321,24 @@
         "r": 509.16430356000103,
         "b": 613.0371458000001
       },
-      "content": "(CN20: outdoor air,CN19: heat exchanger, CN18 :SUCK thermistors ,CN17 :discharge pipe)"
+      "content": "(CN20: outdoor air,CN19: heat exchanger, CN18 :SUCK thermistors ,CN17 :discharge pipe)",
+      "section_id": "sec_auto_105",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Introduction"
+        },
+        {
+          "id": "sec_auto_105",
+          "title": "PCB(1) (Control PCB)"
+        }
+      ],
+      "page": 13,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -166,7 +351,24 @@
         "r": 506.4205175500007,
         "b": 597.4792904000001
       },
-      "content": "CN23    Connector for communicate between the control board and    the module    board"
+      "content": "CN23    Connector for communicate between the control board and    the module    board",
+      "section_id": "sec_auto_105",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Introduction"
+        },
+        {
+          "id": "sec_auto_105",
+          "title": "PCB(1) (Control PCB)"
+        }
+      ],
+      "page": 13,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -179,7 +381,24 @@
         "r": 390.63114979999983,
         "b": 581.9214350000001
       },
-      "content": "CN25 ,CN8      Connector for the L,N    to    the module    board"
+      "content": "CN25 ,CN8      Connector for the L,N    to    the module    board",
+      "section_id": "sec_auto_105",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Introduction"
+        },
+        {
+          "id": "sec_auto_105",
+          "title": "PCB(1) (Control PCB)"
+        }
+      ],
+      "page": 13,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -192,7 +411,24 @@
         "r": 505.1200408899992,
         "b": 566.3635796000001
       },
-      "content": "CN4 Connector for communicate between    the indoor    board and the outdoor    board"
+      "content": "CN4 Connector for communicate between    the indoor    board and the outdoor    board",
+      "section_id": "sec_auto_105",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Introduction"
+        },
+        {
+          "id": "sec_auto_105",
+          "title": "PCB(1) (Control PCB)"
+        }
+      ],
+      "page": 13,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -205,7 +441,24 @@
         "r": 303.06072721000004,
         "b": 550.8057242000001
       },
-      "content": "CN26 Connector for    capacitance anode"
+      "content": "CN26 Connector for    capacitance anode",
+      "section_id": "sec_auto_105",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Introduction"
+        },
+        {
+          "id": "sec_auto_105",
+          "title": "PCB(1) (Control PCB)"
+        }
+      ],
+      "page": 13,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -218,7 +471,24 @@
         "r": 341.50269741999995,
         "b": 535.2478688000001
       },
-      "content": "CN24 Connector for    capacitance cathode"
+      "content": "CN24 Connector for    capacitance cathode",
+      "section_id": "sec_auto_105",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Introduction"
+        },
+        {
+          "id": "sec_auto_105",
+          "title": "PCB(1) (Control PCB)"
+        }
+      ],
+      "page": 13,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -233,7 +503,23 @@
       },
       "content": "PCB(2) (module    PCB)",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_119",
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Introduction"
+        },
+        {
+          "id": "sec_auto_119",
+          "title": "PCB(2) (module    PCB)"
+        }
+      ],
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "page": 13,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -246,7 +532,24 @@
         "r": 414.5541271300002,
         "b": 504.13215800000006
       },
-      "content": "CN10    Connector for the DC power 5V and 15V form the control PCB"
+      "content": "CN10    Connector for the DC power 5V and 15V form the control PCB",
+      "section_id": "sec_auto_119",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Introduction"
+        },
+        {
+          "id": "sec_auto_119",
+          "title": "PCB(2) (module    PCB)"
+        }
+      ],
+      "page": 13,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -259,7 +562,24 @@
         "r": 493.98408521999926,
         "b": 488.5733033800001
       },
-      "content": "CN11    Connector for communicate between the control board and    the module    board"
+      "content": "CN11    Connector for communicate between the control board and    the module    board",
+      "section_id": "sec_auto_119",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Introduction"
+        },
+        {
+          "id": "sec_auto_119",
+          "title": "PCB(2) (module    PCB)"
+        }
+      ],
+      "page": 13,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -272,7 +592,24 @@
         "r": 339.3522164300001,
         "b": 473.0144487600001
       },
-      "content": "P( CN1), N(CN5)    Connector for capacitance board"
+      "content": "P( CN1), N(CN5)    Connector for capacitance board",
+      "section_id": "sec_auto_119",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Introduction"
+        },
+        {
+          "id": "sec_auto_119",
+          "title": "PCB(2) (module    PCB)"
+        }
+      ],
+      "page": 13,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -285,7 +622,24 @@
         "r": 303.6130802000003,
         "b": 457.45559414000013
       },
-      "content": "LI (CN7),LO(CN6)    Connector    for    reactor"
+      "content": "LI (CN7),LO(CN6)    Connector    for    reactor",
+      "section_id": "sec_auto_119",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Introduction"
+        },
+        {
+          "id": "sec_auto_119",
+          "title": "PCB(2) (module    PCB)"
+        }
+      ],
+      "page": 13,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -298,7 +652,24 @@
         "r": 395.9663544300003,
         "b": 441.28227502750013
       },
-      "content": "CN2 ˈ CN3 ˈ CN4 Connector for the U, V, W wire of the compressor"
+      "content": "CN2 ˈ CN3 ˈ CN4 Connector for the U, V, W wire of the compressor",
+      "section_id": "sec_auto_119",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Introduction"
+        },
+        {
+          "id": "sec_auto_119",
+          "title": "PCB(2) (module    PCB)"
+        }
+      ],
+      "page": 13,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "admonition",
@@ -312,7 +683,24 @@
         "b": 379.6940336
       },
       "content": "Note : Other Designations PCB(1) (Control PCB) 1) FUSE 1, (25A,250VAC) FUSE 2(1A,250VAC)",
-      "severity": "note"
+      "severity": "note",
+      "section_id": "sec_auto_119",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Introduction"
+        },
+        {
+          "id": "sec_auto_119",
+          "title": "PCB(2) (module    PCB)"
+        }
+      ],
+      "page": 13,
+      "chunk_hint": "admonition",
+      "semantic_role": "note",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -325,7 +713,24 @@
         "r": 521.2626959400003,
         "b": 348.5783228
       },
-      "content": "2)LED 1    keep light representative normal ,if keep flash interval    representative trouble Alarm 3)RV1,RV2,RV3    Varistor"
+      "content": "2)LED 1    keep light representative normal ,if keep flash interval    representative trouble Alarm 3)RV1,RV2,RV3    Varistor",
+      "section_id": "sec_auto_119",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Introduction"
+        },
+        {
+          "id": "sec_auto_119",
+          "title": "PCB(2) (module    PCB)"
+        }
+      ],
+      "page": 13,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -342,7 +747,24 @@
       "previous_block_id": "txt_0074",
       "image_hash": "4932c2d5d0b7074cda725139f9d9564f1f04035ce7b4f980001f49bec2498beb",
       "width": 32,
-      "height": 11
+      "height": 11,
+      "section_id": "sec_auto_119",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1. Introduction"
+        },
+        {
+          "id": "sec_auto_119",
+          "title": "PCB(2) (module    PCB)"
+        }
+      ],
+      "page": 13,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

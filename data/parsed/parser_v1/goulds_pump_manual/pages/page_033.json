@@ -19,7 +19,20 @@
       },
       "markdown": "| When the reading value is...   | Then...                                                                                                                                                                 |\n|--------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Negative                       | The pump coupling half (X) is lower than the driver coupling half (Y). Remove shims of a thickness equal to half of the indicator reading value under each driver foot. |\n| Positive                       | The pump coupling half (X) is higher than the driver coupling half (Y). Add shims of a thickness equal to half of the indicator reading value to each driver foot.      |",
       "rows": 3,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_auto_553",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_553",
+          "title": "Perform parallel alignment for a vertical correction"
+        }
+      ],
+      "page": 33,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "admonition",
@@ -33,7 +46,20 @@
         "t": 621.64184,
         "r": 205.45000000000005,
         "b": 610.40184
-      }
+      },
+      "section_id": "sec_auto_553",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_553",
+          "title": "Perform parallel alignment for a vertical correction"
+        }
+      ],
+      "page": 33,
+      "chunk_hint": "admonition",
+      "semantic_role": "note",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -48,12 +74,26 @@
       },
       "image_path": "figures/figure_0042.png",
       "next_block_id": "txt_0492",
-      "caption_id": "txt_0492",
       "caption": ": Side view of an incorrect vertical alignment",
       "figure_number": "Figure 13",
       "image_hash": "6d2a1fa86fc85ad66e438836ebb861ad316e4f1c739fcff40f1ca1f456566577",
       "width": 134,
-      "height": 88
+      "height": 88,
+      "section_id": "sec_auto_553",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_553",
+          "title": "Perform parallel alignment for a vertical correction"
+        }
+      ],
+      "page": 33,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0042",
+      "source": "pdf_text",
+      "caption_id": "txt_0492"
     },
     {
       "type": "caption",
@@ -67,6 +107,20 @@
         "b": 453.54379
       },
       "content": "Figure 13: Side view of an incorrect vertical alignment",
+      "section_id": "sec_auto_553",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_553",
+          "title": "Perform parallel alignment for a vertical correction"
+        }
+      ],
+      "page": 33,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0042",
+      "source": "pdf_text",
       "caption_for": "fig_0042"
     },
     {
@@ -80,7 +134,21 @@
         "r": 436.05725000000007,
         "b": 439.23741
       },
-      "content": "Repeat the previous steps until the permitted reading value is achieved."
+      "content": "Repeat the previous steps until the permitted reading value is achieved.",
+      "section_id": "sec_auto_553",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_553",
+          "title": "Perform parallel alignment for a vertical correction"
+        }
+      ],
+      "page": 33,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text",
+      "group_id": "grp_fig_0042"
     },
     {
       "type": "admonition",
@@ -94,7 +162,20 @@
         "b": 393.71742
       },
       "content": "NOTICE: The specified permitted reading values are valid only at operating temperature. For cold settings, other values are permitted. You must use the correct tolerances. Failure to do so can result in misalignment and reduced pump reliability.",
-      "severity": "note"
+      "severity": "note",
+      "section_id": "sec_auto_553",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_553",
+          "title": "Perform parallel alignment for a vertical correction"
+        }
+      ],
+      "page": 33,
+      "chunk_hint": "admonition",
+      "semantic_role": "note",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -109,7 +190,19 @@
       },
       "content": "Perform parallel alignment for a horizontal correction",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_566",
+      "section_path": [
+        {
+          "id": "sec_auto_566",
+          "title": "Perform parallel alignment for a horizontal correction"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 2,
+      "page": 33,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -122,7 +215,20 @@
         "r": 521.1011800000003,
         "b": 337.91742999999997
       },
-      "content": "A unit is in parallel alignment when the parallel indicator (P) does not vary by more than 0.002 in. (0.05 mm) as measured at four points 90° apart at the operating temperature."
+      "content": "A unit is in parallel alignment when the parallel indicator (P) does not vary by more than 0.002 in. (0.05 mm) as measured at four points 90° apart at the operating temperature.",
+      "section_id": "sec_auto_566",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_566",
+          "title": "Perform parallel alignment for a horizontal correction"
+        }
+      ],
+      "page": 33,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -135,7 +241,20 @@
         "r": 539.1710900000004,
         "b": 310.91742999999997
       },
-      "content": "Set the parallel alignment indicator (P) to zero on the left side of  the driver coupling half  (Y), 90° from the top-center position (9 o'clock)."
+      "content": "Set the parallel alignment indicator (P) to zero on the left side of  the driver coupling half  (Y), 90° from the top-center position (9 o'clock).",
+      "section_id": "sec_auto_566",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_566",
+          "title": "Perform parallel alignment for a horizontal correction"
+        }
+      ],
+      "page": 33,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -148,7 +267,20 @@
         "r": 539.6210900000003,
         "b": 285.11744
       },
-      "content": "Rotate the indicator through the top-center position to the right side, 180° from the start position (3 o'clock)."
+      "content": "Rotate the indicator through the top-center position to the right side, 180° from the start position (3 o'clock).",
+      "section_id": "sec_auto_566",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_566",
+          "title": "Perform parallel alignment for a horizontal correction"
+        }
+      ],
+      "page": 33,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -161,7 +293,20 @@
         "r": 273.9011099999999,
         "b": 271.31745
       },
-      "content": "Record the indicator reading."
+      "content": "Record the indicator reading.",
+      "section_id": "sec_auto_566",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_566",
+          "title": "Perform parallel alignment for a horizontal correction"
+        }
+      ],
+      "page": 33,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -174,7 +319,20 @@
         "r": 366.0300000000001,
         "b": 164.51749999999993
       },
-      "content": "Slide the driver carefully in the appropriate direction."
+      "content": "Slide the driver carefully in the appropriate direction.",
+      "section_id": "sec_auto_566",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_566",
+          "title": "Perform parallel alignment for a horizontal correction"
+        }
+      ],
+      "page": 33,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -189,7 +347,20 @@
       },
       "markdown": "| When the reading value is...   | Then...                                                                     |\n|--------------------------------|-----------------------------------------------------------------------------|\n| Negative                       | The driver coupling half (Y) is to the left of the pump coupling half (X).  |\n| Positive                       | The driver coupling half (Y) is to the right of the pump coupling half (X). |",
       "rows": 3,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_auto_566",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_566",
+          "title": "Perform parallel alignment for a horizontal correction"
+        }
+      ],
+      "page": 33,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "admonition",
@@ -203,7 +374,20 @@
         "b": 130.99747999999988
       },
       "content": "NOTICE: Make sure to slide the driver evenly. Failure to do so can negatively affect horizontal angular correction.",
-      "severity": "note"
+      "severity": "note",
+      "section_id": "sec_auto_566",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_566",
+          "title": "Perform parallel alignment for a horizontal correction"
+        }
+      ],
+      "page": 33,
+      "chunk_hint": "admonition",
+      "semantic_role": "note",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

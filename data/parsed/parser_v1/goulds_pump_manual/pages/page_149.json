@@ -19,7 +19,23 @@
       },
       "content": "IECEx Certificate of  Conformity",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_2246",
+      "section_path": [
+        {
+          "id": "sec_3196",
+          "title": "3196 interchangeability"
+        },
+        {
+          "id": "sec_auto_2246",
+          "title": "IECEx Certificate of  Conformity"
+        }
+      ],
+      "parent_section_id": "sec_3196",
+      "section_level": 2,
+      "page": 149,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -36,7 +52,24 @@
       "previous_block_id": "txt_1904",
       "image_hash": "3a9e3f031eca0e74e06a30abe6f2978bbb605053db1eea6eda3dd63630933127",
       "width": 291,
-      "height": 456
+      "height": 456,
+      "section_id": "sec_auto_2246",
+      "parent_section_id": "sec_3196",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3196",
+          "title": "3196 interchangeability"
+        },
+        {
+          "id": "sec_auto_2246",
+          "title": "IECEx Certificate of  Conformity"
+        }
+      ],
+      "page": 149,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

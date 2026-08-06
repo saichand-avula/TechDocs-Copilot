@@ -19,7 +19,23 @@
       },
       "content": "ATEX notification",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_2244",
+      "section_path": [
+        {
+          "id": "sec_3196",
+          "title": "3196 interchangeability"
+        },
+        {
+          "id": "sec_auto_2244",
+          "title": "ATEX notification"
+        }
+      ],
+      "parent_section_id": "sec_3196",
+      "section_level": 2,
+      "page": 148,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -36,7 +52,24 @@
       "previous_block_id": "txt_1903",
       "image_hash": "bb8e896e99feccf665311fec0ecdab06f13dd6bf6501248708084b27f074a92b",
       "width": 326,
-      "height": 447
+      "height": 447,
+      "section_id": "sec_auto_2244",
+      "parent_section_id": "sec_3196",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3196",
+          "title": "3196 interchangeability"
+        },
+        {
+          "id": "sec_auto_2244",
+          "title": "ATEX notification"
+        }
+      ],
+      "page": 148,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

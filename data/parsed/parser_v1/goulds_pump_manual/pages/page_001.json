@@ -20,7 +20,11 @@
       "next_block_id": "txt_0001",
       "image_hash": "e3b6f717d71416bda3d4d60a4f3ae267c73fb06b2acc0bf38ea081348ccac80e",
       "width": 164,
-      "height": 83
+      "height": 83,
+      "page": 1,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -35,7 +39,19 @@
       },
       "content": "Goulds Pumps",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1",
+      "section_path": [
+        {
+          "id": "sec_auto_1",
+          "title": "Goulds Pumps"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 2,
+      "page": 1,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -50,7 +66,19 @@
       },
       "content": "Installation, Operation, and Maintenance Manual",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_2",
+      "section_path": [
+        {
+          "id": "sec_auto_2",
+          "title": "Installation, Operation, and Maintenance Manual"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 2,
+      "page": 1,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -63,7 +91,20 @@
         "r": 285.02197,
         "b": 496.27783999999997
       },
-      "content": "Model 3196 i-FRAME"
+      "content": "Model 3196 i-FRAME",
+      "section_id": "sec_auto_2",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_2",
+          "title": "Installation, Operation, and Maintenance Manual"
+        }
+      ],
+      "page": 1,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -80,7 +121,20 @@
       "previous_block_id": "txt_0003",
       "image_hash": "55e361405375d1b0d385f40353d1c06f4e41857486dbc0bba7fd47f8a75902cc",
       "width": 378,
-      "height": 250
+      "height": 250,
+      "section_id": "sec_auto_2",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_2",
+          "title": "Installation, Operation, and Maintenance Manual"
+        }
+      ],
+      "page": 1,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

@@ -19,7 +19,23 @@
       },
       "content": "FLOW CHART B. ENGINE CRANKS BUT DOES NOT START",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_259",
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3. Engine Controls"
+        },
+        {
+          "id": "sec_auto_259",
+          "title": "FLOW CHART B. ENGINE CRANKS BUT DOES NOT START"
+        }
+      ],
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "page": 18,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -32,7 +48,24 @@
         "r": 562.0317,
         "b": 654.7681519502827
       },
-      "content": "Many troubleshooting procedures present hazards that can result in severe personal injury or death.  Only qualified service personnel with knowledge of fuels, electricity, and machinery hazards should perform service procedures.  Review Safety Precautions. WARNING"
+      "content": "Many troubleshooting procedures present hazards that can result in severe personal injury or death.  Only qualified service personnel with knowledge of fuels, electricity, and machinery hazards should perform service procedures.  Review Safety Precautions. WARNING",
+      "section_id": "sec_auto_259",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3. Engine Controls"
+        },
+        {
+          "id": "sec_auto_259",
+          "title": "FLOW CHART B. ENGINE CRANKS BUT DOES NOT START"
+        }
+      ],
+      "page": 18,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -49,7 +82,24 @@
       "previous_block_id": "txt_0253",
       "image_hash": "3f8a995ed5418e53f3329ae6a08ef0a3c59bcf74a75c111c0f586166d1a68bf1",
       "width": 513,
-      "height": 257
+      "height": 257,
+      "section_id": "sec_auto_259",
+      "parent_section_id": "sec_3",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3. Engine Controls"
+        },
+        {
+          "id": "sec_auto_259",
+          "title": "FLOW CHART B. ENGINE CRANKS BUT DOES NOT START"
+        }
+      ],
+      "page": 18,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

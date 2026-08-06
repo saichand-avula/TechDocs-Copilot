@@ -18,8 +18,21 @@
         "b": 733.0429409281768
       },
       "content": "3-1. Crane",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "3",
+      "section_id": "sec_3",
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-1. Crane"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 61,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -34,7 +47,20 @@
       },
       "markdown": "Fig. 4-2 Transport by Crane\n\n| Name              | Weight             |\n|-------------------|--------------------|\n| SUPER KIATURN 100 | 3,800 Kgf (38000N) |\n| SUPER KIATURN 200 | 3,900 Kgf (39000N) |",
       "rows": 3,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_3",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-1. Crane"
+        }
+      ],
+      "page": 61,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "caption",
@@ -48,6 +74,20 @@
         "b": 158.00476492817677
       },
       "content": "Fig. 4-2 Transport by Crane",
+      "section_id": "sec_3",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-1. Crane"
+        }
+      ],
+      "page": 61,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0080",
+      "source": "pdf_text",
       "caption_for": "fig_0080"
     },
     {
@@ -63,12 +103,26 @@
       },
       "image_path": "figures/figure_0080.png",
       "previous_block_id": "txt_0323",
-      "caption_id": "txt_0323",
       "caption": "Transport by Crane",
       "figure_number": "Fig. 4-2",
       "image_hash": "e0ecab16b2e0752adb55087ecde880c1287173881794d85e76b1e091ac3d9553",
       "width": 444,
-      "height": 449
+      "height": 449,
+      "section_id": "sec_3",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-1. Crane"
+        }
+      ],
+      "page": 61,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0080",
+      "source": "pdf_text",
+      "caption_id": "txt_0323"
     }
   ],
   "page_stats": {

@@ -21,7 +21,24 @@
       "next_block_id": "txt_1891",
       "image_hash": "faed8fb8c4fb652a40dba345118050bb382e6b8534df9e3ae0190a0ff6913d17",
       "width": 377,
-      "height": 325
+      "height": 325,
+      "section_id": "sec_auto_2221",
+      "parent_section_id": "sec_3196",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3196",
+          "title": "3196 interchangeability"
+        },
+        {
+          "id": "sec_auto_2221",
+          "title": "Table 29: Material-code reference"
+        }
+      ],
+      "page": 143,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "caption",
@@ -35,6 +52,23 @@
         "b": 378.27639
       },
       "content": "Figure 30: 3196 cross-sectional drawing",
+      "section_id": "sec_auto_2221",
+      "parent_section_id": "sec_3196",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3196",
+          "title": "3196 interchangeability"
+        },
+        {
+          "id": "sec_auto_2221",
+          "title": "Table 29: Material-code reference"
+        }
+      ],
+      "page": 143,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "source": "pdf_text",
       "caption_for": "fig_0236"
     },
     {
@@ -51,12 +85,30 @@
       "image_path": "figures/figure_0236.png",
       "previous_block_id": "txt_1891",
       "next_block_id": "txt_1892",
-      "caption_id": "txt_1892",
       "caption": ": STi bearing-frame exploded view",
       "figure_number": "Figure 31",
       "image_hash": "34a1ec1f173e3bc60c36f07f6b67206616e67d973aae94fd776749a2b227c734",
       "width": 379,
-      "height": 242
+      "height": 242,
+      "section_id": "sec_auto_2221",
+      "parent_section_id": "sec_3196",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3196",
+          "title": "3196 interchangeability"
+        },
+        {
+          "id": "sec_auto_2221",
+          "title": "Table 29: Material-code reference"
+        }
+      ],
+      "page": 143,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0236",
+      "source": "pdf_text",
+      "caption_id": "txt_1892"
     },
     {
       "type": "caption",
@@ -70,6 +122,24 @@
         "b": 63.96742999999992
       },
       "content": "Figure 31: STi bearing-frame exploded view",
+      "section_id": "sec_auto_2221",
+      "parent_section_id": "sec_3196",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_3196",
+          "title": "3196 interchangeability"
+        },
+        {
+          "id": "sec_auto_2221",
+          "title": "Table 29: Material-code reference"
+        }
+      ],
+      "page": 143,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0236",
+      "source": "pdf_text",
       "caption_for": "fig_0236"
     }
   ],

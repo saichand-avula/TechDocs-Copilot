@@ -17,7 +17,24 @@
         "r": 533.9700000000003,
         "b": 708.7
       },
-      "content": "Continue to rotate the front edge of the cover away from the printer (callout 1), and then slide the cover toward the rear of the printer (callout 2) to remove it."
+      "content": "Continue to rotate the front edge of the cover away from the printer (callout 1), and then slide the cover toward the rear of the printer (callout 2) to remove it.",
+      "section_id": "sec_auto_6191",
+      "parent_section_id": "sec_20",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_20",
+          "title": "20. Remove the DC controller (DCC)."
+        },
+        {
+          "id": "sec_auto_6191",
+          "title": "Post service test"
+        }
+      ],
+      "page": 597,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -36,7 +53,24 @@
       "height": 13,
       "image_hash": "37ec000655dd6b3ee55008017ca8afed208ae525889d00a2c27078a14c5665a9",
       "previous_block_id": "txt_4522",
-      "next_block_id": "txt_4523"
+      "next_block_id": "txt_4523",
+      "section_id": "sec_auto_6191",
+      "parent_section_id": "sec_20",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_20",
+          "title": "20. Remove the DC controller (DCC)."
+        },
+        {
+          "id": "sec_auto_6191",
+          "title": "Post service test"
+        }
+      ],
+      "page": 597,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "admonition",
@@ -50,7 +84,24 @@
         "b": 673.2
       },
       "content": "NOTE: If the cover is difficult to rotate or slide as shown below, make sure that the bottom tabs (released in the previous step) are completely disengaged from the chassis.",
-      "severity": "note"
+      "severity": "note",
+      "section_id": "sec_auto_6191",
+      "parent_section_id": "sec_20",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_20",
+          "title": "20. Remove the DC controller (DCC)."
+        },
+        {
+          "id": "sec_auto_6191",
+          "title": "Post service test"
+        }
+      ],
+      "page": 597,
+      "chunk_hint": "admonition",
+      "semantic_role": "note",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -71,6 +122,24 @@
       "height": 216,
       "previous_block_id": "txt_4523",
       "next_block_id": "txt_4524",
+      "section_id": "sec_auto_6191",
+      "parent_section_id": "sec_20",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_20",
+          "title": "20. Remove the DC controller (DCC)."
+        },
+        {
+          "id": "sec_auto_6191",
+          "title": "Post service test"
+        }
+      ],
+      "page": 597,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_1697",
+      "source": "pdf_text",
       "caption_id": "txt_4524"
     },
     {
@@ -85,6 +154,24 @@
         "b": 650.7
       },
       "content": "Figure 1-991  Remove the cover",
+      "section_id": "sec_auto_6191",
+      "parent_section_id": "sec_20",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_20",
+          "title": "20. Remove the DC controller (DCC)."
+        },
+        {
+          "id": "sec_auto_6191",
+          "title": "Post service test"
+        }
+      ],
+      "page": 597,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_1697",
+      "source": "pdf_text",
       "caption_for": "fig_1697"
     },
     {
@@ -99,8 +186,21 @@
         "b": 409.83
       },
       "content": "5. Remove the HVPS.",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "5",
+      "section_id": "sec_5",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5. Remove the HVPS."
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 597,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -113,7 +213,20 @@
         "r": 547.7299900000006,
         "b": 376.83
       },
-      "content": "Disconnect one FFC (callout 1), five connectors (callout 2), two wire-harness lugs (callout 3), and then release the wire harness from the retainers (callout 4)."
+      "content": "Disconnect one FFC (callout 1), five connectors (callout 2), two wire-harness lugs (callout 3), and then release the wire harness from the retainers (callout 4).",
+      "section_id": "sec_5",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5. Remove the HVPS."
+        }
+      ],
+      "page": 597,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -132,7 +245,20 @@
       "height": 13,
       "image_hash": "1991863848bfb809a491ce98523a045ca34d2e55d164db0ccfbd99792905d2e7",
       "previous_block_id": "txt_4526",
-      "next_block_id": "txt_4527"
+      "next_block_id": "txt_4527",
+      "section_id": "sec_5",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5. Remove the HVPS."
+        }
+      ],
+      "page": 597,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "admonition",
@@ -146,7 +272,20 @@
         "b": 341.33
       },
       "content": "NOTE: An MFP printer is shown in this section. However, the procedure is correct for all printer models.",
-      "severity": "note"
+      "severity": "note",
+      "section_id": "sec_5",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5. Remove the HVPS."
+        }
+      ],
+      "page": 597,
+      "chunk_hint": "admonition",
+      "semantic_role": "note",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -159,7 +298,20 @@
         "r": 512.3000000000003,
         "b": 308.33
       },
-      "content": "The microswitch (callout 3) for the M506/E50045/M507/E50145 only has two wire-harness terminals."
+      "content": "The microswitch (callout 3) for the M506/E50045/M507/E50145 only has two wire-harness terminals.",
+      "section_id": "sec_5",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5. Remove the HVPS."
+        }
+      ],
+      "page": 597,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

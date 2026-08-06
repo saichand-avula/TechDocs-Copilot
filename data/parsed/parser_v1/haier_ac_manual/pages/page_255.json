@@ -19,7 +19,24 @@
       },
       "content": "4.2 ᧶ outdoor unit",
       "level": 2,
-      "role": "section"
+      "section_number": "4.2",
+      "section_id": "sec_4_2",
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4.Printed Circuit Board Connector Wiring Diagram"
+        },
+        {
+          "id": "sec_4_2",
+          "title": "4.2 ᧶ outdoor unit"
+        }
+      ],
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "page": 255,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -34,7 +51,23 @@
       },
       "content": "Connectors",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_2665",
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4.Printed Circuit Board Connector Wiring Diagram"
+        },
+        {
+          "id": "sec_auto_2665",
+          "title": "Connectors"
+        }
+      ],
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "page": 255,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -49,7 +82,23 @@
       },
       "content": "PCB(1) (Control PCB)",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_2666",
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4.Printed Circuit Board Connector Wiring Diagram"
+        },
+        {
+          "id": "sec_auto_2666",
+          "title": "PCB(1) (Control PCB)"
+        }
+      ],
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "page": 255,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -62,7 +111,24 @@
         "r": 289.92826417999987,
         "b": 715.0363192
       },
-      "content": "CN1,CN2 Connector for power N and L"
+      "content": "CN1,CN2 Connector for power N and L",
+      "section_id": "sec_auto_2666",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4.Printed Circuit Board Connector Wiring Diagram"
+        },
+        {
+          "id": "sec_auto_2666",
+          "title": "PCB(1) (Control PCB)"
+        }
+      ],
+      "page": 255,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -75,7 +141,24 @@
         "r": 233.31309589999995,
         "b": 699.4454554
       },
-      "content": "CN3 Connector for ground"
+      "content": "CN3 Connector for ground",
+      "section_id": "sec_auto_2666",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4.Printed Circuit Board Connector Wiring Diagram"
+        },
+        {
+          "id": "sec_auto_2666",
+          "title": "PCB(1) (Control PCB)"
+        }
+      ],
+      "page": 255,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -88,7 +171,24 @@
         "r": 420.2626634599993,
         "b": 683.8545916
       },
-      "content": "CN22 Connector for    DC POWER 15Vand 5V to the module    board"
+      "content": "CN22 Connector for    DC POWER 15Vand 5V to the module    board",
+      "section_id": "sec_auto_2666",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4.Printed Circuit Board Connector Wiring Diagram"
+        },
+        {
+          "id": "sec_auto_2666",
+          "title": "PCB(1) (Control PCB)"
+        }
+      ],
+      "page": 255,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -101,7 +201,24 @@
         "r": 318.72530797999974,
         "b": 668.2637278000001
       },
-      "content": "CN16 Connector for electric expansion valves"
+      "content": "CN16 Connector for electric expansion valves",
+      "section_id": "sec_auto_2666",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4.Printed Circuit Board Connector Wiring Diagram"
+        },
+        {
+          "id": "sec_auto_2666",
+          "title": "PCB(1) (Control PCB)"
+        }
+      ],
+      "page": 255,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -114,7 +231,24 @@
         "r": 281.4733240000004,
         "b": 652.6728640000001
       },
-      "content": "CN21    Connector for DC    fan motor"
+      "content": "CN21    Connector for DC    fan motor",
+      "section_id": "sec_auto_2666",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4.Printed Circuit Board Connector Wiring Diagram"
+        },
+        {
+          "id": "sec_auto_2666",
+          "title": "PCB(1) (Control PCB)"
+        }
+      ],
+      "page": 255,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -127,7 +261,24 @@
         "r": 289.3617321399999,
         "b": 637.0820002000002
       },
-      "content": "CN10 Connector for four way valve coil"
+      "content": "CN10 Connector for four way valve coil",
+      "section_id": "sec_auto_2666",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4.Printed Circuit Board Connector Wiring Diagram"
+        },
+        {
+          "id": "sec_auto_2666",
+          "title": "PCB(1) (Control PCB)"
+        }
+      ],
+      "page": 255,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -140,7 +291,24 @@
         "r": 342.11627484000013,
         "b": 621.4911364000002
       },
-      "content": "CN17,CN18,CN19,CN20 Connector for thermistors"
+      "content": "CN17,CN18,CN19,CN20 Connector for thermistors",
+      "section_id": "sec_auto_2666",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4.Printed Circuit Board Connector Wiring Diagram"
+        },
+        {
+          "id": "sec_auto_2666",
+          "title": "PCB(1) (Control PCB)"
+        }
+      ],
+      "page": 255,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -153,7 +321,24 @@
         "r": 509.816765259999,
         "b": 605.9002726000002
       },
-      "content": "(CN20: outdoor air,CN19: heat exchanger, CN18 :SUCK thermistors ,CN17 :discharge pipe)"
+      "content": "(CN20: outdoor air,CN19: heat exchanger, CN18 :SUCK thermistors ,CN17 :discharge pipe)",
+      "section_id": "sec_auto_2666",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4.Printed Circuit Board Connector Wiring Diagram"
+        },
+        {
+          "id": "sec_auto_2666",
+          "title": "PCB(1) (Control PCB)"
+        }
+      ],
+      "page": 255,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -166,7 +351,24 @@
         "r": 507.0701858999996,
         "b": 590.3094088000003
       },
-      "content": "CN23    Connector for communicate between the control board and    the module    board"
+      "content": "CN23    Connector for communicate between the control board and    the module    board",
+      "section_id": "sec_auto_2666",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4.Printed Circuit Board Connector Wiring Diagram"
+        },
+        {
+          "id": "sec_auto_2666",
+          "title": "PCB(1) (Control PCB)"
+        }
+      ],
+      "page": 255,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -179,7 +381,24 @@
         "r": 391.0392192200004,
         "b": 574.7185450000003
       },
-      "content": "CN25 ,CN8      Connector for the L,N    to    the module    board"
+      "content": "CN25 ,CN8      Connector for the L,N    to    the module    board",
+      "section_id": "sec_auto_2666",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4.Printed Circuit Board Connector Wiring Diagram"
+        },
+        {
+          "id": "sec_auto_2666",
+          "title": "PCB(1) (Control PCB)"
+        }
+      ],
+      "page": 255,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -192,7 +411,24 @@
         "r": 505.76696202000176,
         "b": 559.1276812000003
       },
-      "content": "CN4 Connector for communicate between    the indoor    board and the outdoor    board"
+      "content": "CN4 Connector for communicate between    the indoor    board and the outdoor    board",
+      "section_id": "sec_auto_2666",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4.Printed Circuit Board Connector Wiring Diagram"
+        },
+        {
+          "id": "sec_auto_2666",
+          "title": "PCB(1) (Control PCB)"
+        }
+      ],
+      "page": 255,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -205,7 +441,24 @@
         "r": 303.27079438000004,
         "b": 543.5368174000004
       },
-      "content": "CN26 Connector for    capacitance anode"
+      "content": "CN26 Connector for    capacitance anode",
+      "section_id": "sec_auto_2666",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4.Printed Circuit Board Connector Wiring Diagram"
+        },
+        {
+          "id": "sec_auto_2666",
+          "title": "PCB(1) (Control PCB)"
+        }
+      ],
+      "page": 255,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -218,7 +471,24 @@
         "r": 341.79597404000003,
         "b": 527.9459536000004
       },
-      "content": "CN24 Connector for    capacitance cathode"
+      "content": "CN24 Connector for    capacitance cathode",
+      "section_id": "sec_auto_2666",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4.Printed Circuit Board Connector Wiring Diagram"
+        },
+        {
+          "id": "sec_auto_2666",
+          "title": "PCB(1) (Control PCB)"
+        }
+      ],
+      "page": 255,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -233,7 +503,23 @@
       },
       "content": "PCB(2) (module    PCB)",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_2680",
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4.Printed Circuit Board Connector Wiring Diagram"
+        },
+        {
+          "id": "sec_auto_2680",
+          "title": "PCB(2) (module    PCB)"
+        }
+      ],
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "page": 255,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -246,7 +532,24 @@
         "r": 415.01273316000055,
         "b": 496.76322466000033
       },
-      "content": "CN10    Connector for the DC power 5V and 15V form the control PCB"
+      "content": "CN10    Connector for the DC power 5V and 15V form the control PCB",
+      "section_id": "sec_auto_2680",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4.Printed Circuit Board Connector Wiring Diagram"
+        },
+        {
+          "id": "sec_auto_2680",
+          "title": "PCB(2) (module    PCB)"
+        }
+      ],
+      "page": 255,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -259,7 +562,24 @@
         "r": 494.60748196000145,
         "b": 465.5814970600003
       },
-      "content": "CN11    Connector for communicate between the control board and    the module    board P( CN1), N(CN5)    Connector for capacitance board"
+      "content": "CN11    Connector for communicate between the control board and    the module    board P( CN1), N(CN5)    Connector for capacitance board",
+      "section_id": "sec_auto_2680",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4.Printed Circuit Board Connector Wiring Diagram"
+        },
+        {
+          "id": "sec_auto_2680",
+          "title": "PCB(2) (module    PCB)"
+        }
+      ],
+      "page": 255,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -272,7 +592,24 @@
         "r": 303.7882803600004,
         "b": 449.99063326000027
       },
-      "content": "LI (CN7),LO(CN6)    Connector    for    reactor"
+      "content": "LI (CN7),LO(CN6)    Connector    for    reactor",
+      "section_id": "sec_auto_2680",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4.Printed Circuit Board Connector Wiring Diagram"
+        },
+        {
+          "id": "sec_auto_2680",
+          "title": "PCB(2) (module    PCB)"
+        }
+      ],
+      "page": 255,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -285,7 +622,24 @@
         "r": 399.2371132,
         "b": 433.7829999459045
       },
-      "content": "CN2 ˈ CN3 ˈ CN4 Connector for the U, V, W wire of the compressor"
+      "content": "CN2 ˈ CN3 ˈ CN4 Connector for the U, V, W wire of the compressor",
+      "section_id": "sec_auto_2680",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4.Printed Circuit Board Connector Wiring Diagram"
+        },
+        {
+          "id": "sec_auto_2680",
+          "title": "PCB(2) (module    PCB)"
+        }
+      ],
+      "page": 255,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "admonition",
@@ -299,7 +653,24 @@
         "t": 412.3960864,
         "r": 123.86250416000004,
         "b": 403.123678
-      }
+      },
+      "section_id": "sec_auto_2680",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4.Printed Circuit Board Connector Wiring Diagram"
+        },
+        {
+          "id": "sec_auto_2680",
+          "title": "PCB(2) (module    PCB)"
+        }
+      ],
+      "page": 255,
+      "chunk_hint": "admonition",
+      "semantic_role": "note",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -312,7 +683,24 @@
         "r": 202.1300065200001,
         "b": 387.65297499999997
       },
-      "content": "PCB(1) (Control PCB)"
+      "content": "PCB(1) (Control PCB)",
+      "section_id": "sec_auto_2680",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4.Printed Circuit Board Connector Wiring Diagram"
+        },
+        {
+          "id": "sec_auto_2680",
+          "title": "PCB(2) (module    PCB)"
+        }
+      ],
+      "page": 255,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -325,7 +713,24 @@
         "r": 316.15208661999975,
         "b": 372.06211119999995
       },
-      "content": "1) FUSE 1, (25A,250VAC) FUSE 2(1A,250VAC)"
+      "content": "1) FUSE 1, (25A,250VAC) FUSE 2(1A,250VAC)",
+      "section_id": "sec_auto_2680",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4.Printed Circuit Board Connector Wiring Diagram"
+        },
+        {
+          "id": "sec_auto_2680",
+          "title": "PCB(2) (module    PCB)"
+        }
+      ],
+      "page": 255,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -338,7 +743,24 @@
         "r": 521.9503553200005,
         "b": 340.8803835999999
       },
-      "content": "2)LED 1    keep light representative normal ,if keep flash interval    representative trouble Alarm 3)RV1,RV2,RV3    Varistor"
+      "content": "2)LED 1    keep light representative normal ,if keep flash interval    representative trouble Alarm 3)RV1,RV2,RV3    Varistor",
+      "section_id": "sec_auto_2680",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4.Printed Circuit Board Connector Wiring Diagram"
+        },
+        {
+          "id": "sec_auto_2680",
+          "title": "PCB(2) (module    PCB)"
+        }
+      ],
+      "page": 255,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -355,7 +777,24 @@
       "previous_block_id": "txt_2030",
       "image_hash": "94999f07086a3008817d2cc3bb1f30a0eab22bdc27921adef7de776233c7e95e",
       "width": 32,
-      "height": 10
+      "height": 10,
+      "section_id": "sec_auto_2680",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4.Printed Circuit Board Connector Wiring Diagram"
+        },
+        {
+          "id": "sec_auto_2680",
+          "title": "PCB(2) (module    PCB)"
+        }
+      ],
+      "page": 255,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

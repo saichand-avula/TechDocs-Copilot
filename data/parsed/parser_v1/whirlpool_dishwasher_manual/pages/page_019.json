@@ -19,7 +19,23 @@
       },
       "content": "For Service Technician Use Only",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_262",
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_262",
+          "title": "For Service Technician Use Only"
+        }
+      ],
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "page": 19,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -34,7 +50,23 @@
       },
       "content": "Troubleshooting Guide",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_263",
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_263",
+          "title": "Troubleshooting Guide"
+        }
+      ],
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "page": 19,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -52,7 +84,24 @@
       "next_block_id": "txt_0226",
       "image_hash": "75fce2da2610faa7ca56996d7d53c2f446404236deb0fd460f24c00a3518c024",
       "width": 255,
-      "height": 185
+      "height": 185,
+      "section_id": "sec_auto_263",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_263",
+          "title": "Troubleshooting Guide"
+        }
+      ],
+      "page": 19,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -67,7 +116,24 @@
       },
       "markdown": "| DESCRIPTION                                                                                                   | POTENTIAL CAUSES                                                                                                                                                                                                     | CHECK                                                                                                                                                                                                                                                   |\n|---------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| WON'T RUN OR POWER UP ('DEAD' KEYPAD/ CONSOLE) ¾ ¾ NO OPERATION ¾ ¾ NO KEYPAD RESPONSE ¾ ¾ NO LEDS OR DISPLAY | NO POWER TO UNIT OR BAD CONNECTION                                                                                                                                                                                   | CHECK FUSES, CIRCUIT BREAKERS AND JUNCTION BOX CONNECTIONS.                                                                                                                                                                                             |\n| WON'T RUN OR POWER UP ('DEAD' KEYPAD/ CONSOLE) ¾ ¾ NO OPERATION ¾ ¾ NO KEYPAD RESPONSE ¾ ¾ NO LEDS OR DISPLAY | LOOSE CONNECTIONS IN DISHWASHER POWER UP CIRCUIT OR BETWEEN KEYPAD(S) AND CONTROL                                                                                                                                    | 1. UNPLUG DISHWASHER OR DISCONNECT POWER. 2. CHECK RESISTANCE OF ALL CONNECTIONS IN POWER UP CIRCUIT TO CONTROL. CHECK CONNECTIONS BETWEEN KEYPAD(S) AND CONTROL.                                                                                       |\n| WON'T RUN OR POWER UP ('DEAD' KEYPAD/ CONSOLE) ¾ ¾ NO OPERATION ¾ ¾ NO KEYPAD RESPONSE ¾ ¾ NO LEDS OR DISPLAY | DOOR SWITCH NOT MAKING CONTACT: ¾ ¾ FAULTY DOOR LATCH ASSEMBLY ¾ ¾ FAULTY DOOR SWITCH                                                                                                                                | 1. UNPLUG DISHWASHER OR DISCONNECT POWER. 2. MEASURE RESISTANCE OF DOOR SWITCH CONTACTS WHILE CHECKING MECHANICAL OPERATION OF LATCH ASSEMBLY. CONFIRM SWITCHES NOT LOOSE FROM ASSEMBLY.                                                                |\n| WON'T RUN OR POWER UP ('DEAD' KEYPAD/ CONSOLE) ¾ ¾ NO OPERATION ¾ ¾ NO KEYPAD RESPONSE ¾ ¾ NO LEDS OR DISPLAY | MULTIPLE OPEN OR SHORTED CIRCUITS IN KEYPAD                                                                                                                                                                          | SEE 'CHECKING KEYPAD OPERATION'.                                                                                                                                                                                                                        |\n| WON'T RUN OR POWER UP ('DEAD' KEYPAD/ CONSOLE) ¾ ¾ NO OPERATION ¾ ¾ NO KEYPAD RESPONSE ¾ ¾ NO LEDS OR DISPLAY | FAULTY CONTROL                                                                                                                                                                                                       | 1. UNPLUG DISHWASHER OR DISCONNECT POWER. 2. CHECK/REPLACE CONTROL.                                                                                                                                                                                     |\n| WON'T RUN AND LED FOR START/RESUME KEY IS DEAD                                                                | BY DESIGN, IF THE DOOR IS OPENED OR POWER IS INTERRUPTED DURING A CYCLE, THE USER MUST PRESS THE START/ RESUME KEY TO RESUME OPERATION.                                                                              | INSTRUCT CUSTOMER, REFER TO USE AND CARE GUIDE.                                                                                                                                                                                                         |\n| WON'T RUN AND LED FOR START/RESUME KEY IS DEAD                                                                | THE DOOR MUST BE LATCHED FOR THE START/RESUME KEY TO WORK                                                                                                                                                            | CONFIRM DOOR IS CLOSED PROPERLY BEFORE PRESSING START/RESUME KEY. INSTRUCT CUSTOMER TO REFER TO USE AND CARE GUIDE.                                                                                                                                     |\n| WON'T RUN AND LED FOR START/RESUME KEY IS DEAD                                                                | DOOR SWITCH NOT MAKING CONTACT: ¾ ¾ FAULTY OR LOOSE DOOR LATCH ASSEMBLY (WHICH CAN BE AGGRAVATED BY HIGH DOOR CLOSURE FORCE) ¾ ¾ FAULTY DOOR SWITCH (HIGH RESISTANCE) ¾ ¾ FAULTY CONTROL DOES NOT DETECT DOOR CLOSED | 1. UNPLUG DISHWASHER OR DISCONNECT POWER. 2. MEASURE RESISTANCE OF DOOR SWITCH CONTACTS WHILE CHECKING MECHANICAL OPERATION OF LATCH ASSEMBLY. CONFIRM SWITCHES NOT LOOSE FROM ASSEMBLY. CHECK STRIKE PLATE AND DOOR CLOSURE. 3. CHECK/REPLACE CONTROL. |\n| WON'T RUN AND LED FOR START/RESUME KEY IS DEAD                                                                | START/RESUME KEY NOT RESPONDING                                                                                                                                                                                      | SEE 'ONE OR MORE KEYS WON'T RESPOND' PROBLEM BELOW.                                                                                                                                                                                                     |",
       "rows": 10,
-      "cols": 3
+      "cols": 3,
+      "section_id": "sec_auto_263",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_263",
+          "title": "Troubleshooting Guide"
+        }
+      ],
+      "page": 19,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -85,7 +151,24 @@
       "next_block_id": "txt_0226",
       "width": 8,
       "height": 9,
-      "image_hash": "1096ac0afdaa8a807e48b33de68bd01cf75763c22aa2468df19b1df392ca6deb"
+      "image_hash": "1096ac0afdaa8a807e48b33de68bd01cf75763c22aa2468df19b1df392ca6deb",
+      "section_id": "sec_auto_263",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_263",
+          "title": "Troubleshooting Guide"
+        }
+      ],
+      "page": 19,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -98,7 +181,24 @@
         "r": 561.3369,
         "b": 32.765719354838666
       },
-      "content": "n"
+      "content": "n",
+      "section_id": "sec_auto_263",
+      "parent_section_id": "sec_24",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_24",
+          "title": "24' Product and Cabinet Opening Dimensions PRODUCT AND CABINET OPENING DIMENSIONS:"
+        },
+        {
+          "id": "sec_auto_263",
+          "title": "Troubleshooting Guide"
+        }
+      ],
+      "page": 19,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

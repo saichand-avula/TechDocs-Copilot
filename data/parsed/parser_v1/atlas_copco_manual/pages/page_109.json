@@ -21,7 +21,24 @@
       "next_block_id": "txt_0836",
       "width": 27,
       "height": 24,
-      "image_hash": "7502181ac50add92e22192bfd5747641eb1a4dd6de6390f5abe1c8b0afb0f95e"
+      "image_hash": "7502181ac50add92e22192bfd5747641eb1a4dd6de6390f5abe1c8b0afb0f95e",
+      "section_id": "sec_auto_1193",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7       Operating instructions"
+        },
+        {
+          "id": "sec_auto_1193",
+          "title": "Procedure"
+        }
+      ],
+      "page": 109,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -38,7 +55,24 @@
       "next_block_id": "txt_0836",
       "width": 47,
       "height": 23,
-      "image_hash": "b28a1d23de5124d82d6f84120acacff249829ec0e42f4c826059a188d93e4d2e"
+      "image_hash": "b28a1d23de5124d82d6f84120acacff249829ec0e42f4c826059a188d93e4d2e",
+      "section_id": "sec_auto_1193",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7       Operating instructions"
+        },
+        {
+          "id": "sec_auto_1193",
+          "title": "Procedure"
+        }
+      ],
+      "page": 109,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -53,7 +87,24 @@
       },
       "markdown": "| -   | Check the oil level. See section Oil and oil filter change.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |\n|-----|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| -   | Provide labels, warning the operator that: The compressor may automatically restart after voltage failure (if activated, consult Atlas Copco).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |\n| -   | On water-cooled compressors, close the cooling water drain valves. Open the cooling water inlet valve and the regulation valve.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |\n| -   | Switch on the voltage. Start the compressor and stop it immediately. Check the rotation direction of drive motor (M1) while the motor is coasting to a stop. The correct rotation direction of the drive motor is indicated by an arrow shown on the motor fan cowl. If the rotation direction of the drive motor is incorrect, open the isolating switch and reverse two incoming electric lines. On air-cooled compressors, check also the rotation direction of the fan motor. Rotation arrows, visible through the grating in the roof, are provided on the plate below the fan to indicate the correct rotation direction of the fan motor. If the rotation direction of the fan motor is incorrect, open the isolating switch and reverse two incoming electric connections at the terminals of circuit breaker (Q15). Incorrect rotation direction of the drive motor may cause damage to the compressor. |\n| -   | Check the programmed settings. On compressors equipped with an Elektronikon® Graphic controller, consult section Programmable settings.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |\n| -   | Start and run the compressor for a few minutes. Check that the compressor operates normally.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |",
       "rows": 6,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_auto_1193",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7       Operating instructions"
+        },
+        {
+          "id": "sec_auto_1193",
+          "title": "Procedure"
+        }
+      ],
+      "page": 109,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -68,7 +119,24 @@
       },
       "content": "7.3    Before starting",
       "level": 2,
-      "role": "section"
+      "section_number": "7.3",
+      "section_id": "sec_7_3",
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7       Operating instructions"
+        },
+        {
+          "id": "sec_7_3",
+          "title": "7.3    Before starting"
+        }
+      ],
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "page": 109,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -83,7 +151,23 @@
       },
       "content": "Remarks",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1211",
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7       Operating instructions"
+        },
+        {
+          "id": "sec_auto_1211",
+          "title": "Remarks"
+        }
+      ],
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "page": 109,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -96,7 +180,24 @@
         "r": 549.5091134000005,
         "b": 351.531892
       },
-      "content": "If the compressor has not run for the past 6 months, it is strongly recommended to improve the lubrication of the compressor element at starting. Disconnect the inlet hose, remove the unloader (UA) and pour 0.75 l of oil into the compressor element. Re in stall the unloader and reconnect the inlet hose. Make sure that all connections are tight."
+      "content": "If the compressor has not run for the past 6 months, it is strongly recommended to improve the lubrication of the compressor element at starting. Disconnect the inlet hose, remove the unloader (UA) and pour 0.75 l of oil into the compressor element. Re in stall the unloader and reconnect the inlet hose. Make sure that all connections are tight.",
+      "section_id": "sec_auto_1211",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7       Operating instructions"
+        },
+        {
+          "id": "sec_auto_1211",
+          "title": "Remarks"
+        }
+      ],
+      "page": 109,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -109,7 +210,24 @@
         "r": 543.7904782000011,
         "b": 328.31189199999994
       },
-      "content": "On Full-Feature compressors, switch on the voltage 4 hours before starting to energise the crankcase heater of the refrigerant compressor of the dryer."
+      "content": "On Full-Feature compressors, switch on the voltage 4 hours before starting to energise the crankcase heater of the refrigerant compressor of the dryer.",
+      "section_id": "sec_auto_1211",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7       Operating instructions"
+        },
+        {
+          "id": "sec_auto_1211",
+          "title": "Remarks"
+        }
+      ],
+      "page": 109,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

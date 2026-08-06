@@ -18,8 +18,29 @@
         "b": 712.4328447886094
       },
       "content": "3.9.4 Serial port communication",
-      "level": 2,
-      "role": "section"
+      "level": 3,
+      "section_number": "3.9.4",
+      "section_id": "sec_3_9_4",
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_auto_390",
+          "title": "Communication Interfaces:"
+        },
+        {
+          "id": "sec_3_9_4",
+          "title": "3.9.4 Serial port communication"
+        }
+      ],
+      "parent_section_id": "sec_auto_390",
+      "section_level": 3,
+      "page": 42,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -32,7 +53,28 @@
         "r": 541.5342399999996,
         "b": 652.556101363195
       },
-      "content": "RS232 provides serial data and is used as port of background monitoring software directly. If client requires,  it  only  can  use  data  cable  supplemented  with  the  UPS  to  connect  the  communication interface module directly."
+      "content": "RS232 provides serial data and is used as port of background monitoring software directly. If client requires,  it  only  can  use  data  cable  supplemented  with  the  UPS  to  connect  the  communication interface module directly.",
+      "section_id": "sec_3_9_4",
+      "parent_section_id": "sec_auto_390",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_auto_390",
+          "title": "Communication Interfaces:"
+        },
+        {
+          "id": "sec_3_9_4",
+          "title": "3.9.4 Serial port communication"
+        }
+      ],
+      "page": 42,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -45,7 +87,28 @@
         "r": 541.2631999999998,
         "b": 605.756101363195
       },
-      "content": "RS485-1  provides  serial  data  and  is  used  as  port  of  background  monitoring  software.  If  client requires, it only needs a serial data cable to connect the communication interface module directly. Pin arrangements of RS485-1 interface are shown in Figure 3-33."
+      "content": "RS485-1  provides  serial  data  and  is  used  as  port  of  background  monitoring  software.  If  client requires, it only needs a serial data cable to connect the communication interface module directly. Pin arrangements of RS485-1 interface are shown in Figure 3-33.",
+      "section_id": "sec_3_9_4",
+      "parent_section_id": "sec_auto_390",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_auto_390",
+          "title": "Communication Interfaces:"
+        },
+        {
+          "id": "sec_3_9_4",
+          "title": "3.9.4 Serial port communication"
+        }
+      ],
+      "page": 42,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -58,7 +121,28 @@
         "r": 134.23568,
         "b": 590.156101363195
       },
-      "content": "Pin 1: 485+"
+      "content": "Pin 1: 485+",
+      "section_id": "sec_3_9_4",
+      "parent_section_id": "sec_auto_390",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_auto_390",
+          "title": "Communication Interfaces:"
+        },
+        {
+          "id": "sec_3_9_4",
+          "title": "3.9.4 Serial port communication"
+        }
+      ],
+      "page": 42,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -71,7 +155,28 @@
         "r": 131.59568,
         "b": 574.556101363195
       },
-      "content": "Pin 2: 485-"
+      "content": "Pin 2: 485-",
+      "section_id": "sec_3_9_4",
+      "parent_section_id": "sec_auto_390",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_auto_390",
+          "title": "Communication Interfaces:"
+        },
+        {
+          "id": "sec_3_9_4",
+          "title": "3.9.4 Serial port communication"
+        }
+      ],
+      "page": 42,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -84,7 +189,28 @@
         "r": 286.92568,
         "b": 558.926101363195
       },
-      "content": "Pin 3: power supply ground"
+      "content": "Pin 3: power supply ground",
+      "section_id": "sec_3_9_4",
+      "parent_section_id": "sec_auto_390",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_auto_390",
+          "title": "Communication Interfaces:"
+        },
+        {
+          "id": "sec_3_9_4",
+          "title": "3.9.4 Serial port communication"
+        }
+      ],
+      "page": 42,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -100,11 +226,33 @@
       "image_path": "figures/figure_0067.png",
       "previous_block_id": "txt_0347",
       "next_block_id": "txt_0348",
-      "caption_id": "txt_0349",
       "caption": "arrangements of RS485-1 interface",
       "image_hash": "885ff41c5fadbf8a048d7c3dc7d140d2b5b4dafb59c305ed697f13816edaf33a",
       "width": 97,
-      "height": 78
+      "height": 78,
+      "section_id": "sec_3_9_4",
+      "parent_section_id": "sec_auto_390",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_auto_390",
+          "title": "Communication Interfaces:"
+        },
+        {
+          "id": "sec_3_9_4",
+          "title": "3.9.4 Serial port communication"
+        }
+      ],
+      "page": 42,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0067",
+      "source": "pdf_text",
+      "caption_id": "txt_0349"
     },
     {
       "type": "caption",
@@ -118,6 +266,27 @@
         "b": 512.126101363195
       },
       "content": "Figure 3-33: Pin",
+      "section_id": "sec_3_9_4",
+      "parent_section_id": "sec_auto_390",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_auto_390",
+          "title": "Communication Interfaces:"
+        },
+        {
+          "id": "sec_3_9_4",
+          "title": "3.9.4 Serial port communication"
+        }
+      ],
+      "page": 42,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "source": "pdf_text",
       "caption_for": "fig_0067"
     },
     {
@@ -132,6 +301,28 @@
         "b": 496.526101363195
       },
       "content": "arrangements of RS485-1 interface",
+      "section_id": "sec_3_9_4",
+      "parent_section_id": "sec_auto_390",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_auto_390",
+          "title": "Communication Interfaces:"
+        },
+        {
+          "id": "sec_3_9_4",
+          "title": "3.9.4 Serial port communication"
+        }
+      ],
+      "page": 42,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0067",
+      "source": "pdf_text",
       "caption_for": "fig_0067"
     },
     {
@@ -145,7 +336,29 @@
         "r": 541.3255999999993,
         "b": 449.72610136319497
       },
-      "content": "RS485-2 provides serial data for the debugging and maintenance interface of authorized debugging and maintenance personnel, which has been connected to the communication interface module."
+      "content": "RS485-2 provides serial data for the debugging and maintenance interface of authorized debugging and maintenance personnel, which has been connected to the communication interface module.",
+      "section_id": "sec_3_9_4",
+      "parent_section_id": "sec_auto_390",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_auto_390",
+          "title": "Communication Interfaces:"
+        },
+        {
+          "id": "sec_3_9_4",
+          "title": "3.9.4 Serial port communication"
+        }
+      ],
+      "page": 42,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text",
+      "group_id": "grp_fig_0067"
     },
     {
       "type": "heading",
@@ -159,8 +372,29 @@
         "b": 421.16284478860933
       },
       "content": "3.9.5 SNMP Interface",
-      "level": 2,
-      "role": "section"
+      "level": 3,
+      "section_number": "3.9.5",
+      "section_id": "sec_3_9_5",
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_auto_390",
+          "title": "Communication Interfaces:"
+        },
+        {
+          "id": "sec_3_9_5",
+          "title": "3.9.5 SNMP Interface"
+        }
+      ],
+      "parent_section_id": "sec_auto_390",
+      "section_level": 3,
+      "page": 42,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -173,7 +407,28 @@
         "r": 541.2767999999996,
         "b": 361.386101363195
       },
-      "content": "This  series  of  UPS  provides  SNMP  card  communication  interface  used  for  field  installation  of communication option part SNMP card to realize remote management of UPS by network. The interface has been connected to the communication interface module."
+      "content": "This  series  of  UPS  provides  SNMP  card  communication  interface  used  for  field  installation  of communication option part SNMP card to realize remote management of UPS by network. The interface has been connected to the communication interface module.",
+      "section_id": "sec_3_9_5",
+      "parent_section_id": "sec_auto_390",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_auto_390",
+          "title": "Communication Interfaces:"
+        },
+        {
+          "id": "sec_3_9_5",
+          "title": "3.9.5 SNMP Interface"
+        }
+      ],
+      "page": 42,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -187,8 +442,29 @@
         "b": 332.82284478860936
       },
       "content": "3.9.6 Dry Contact Interface",
-      "level": 2,
-      "role": "section"
+      "level": 3,
+      "section_number": "3.9.6",
+      "section_id": "sec_3_9_6",
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_auto_390",
+          "title": "Communication Interfaces:"
+        },
+        {
+          "id": "sec_3_9_6",
+          "title": "3.9.6 Dry Contact Interface"
+        }
+      ],
+      "parent_section_id": "sec_auto_390",
+      "section_level": 3,
+      "page": 42,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -201,7 +477,28 @@
         "r": 480.99568,
         "b": 304.14610136319493
       },
-      "content": "Dry contact ports of communication interface board are defined as shown in Table 3-6."
+      "content": "Dry contact ports of communication interface board are defined as shown in Table 3-6.",
+      "section_id": "sec_3_9_6",
+      "parent_section_id": "sec_auto_390",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_auto_390",
+          "title": "Communication Interfaces:"
+        },
+        {
+          "id": "sec_3_9_6",
+          "title": "3.9.6 Dry Contact Interface"
+        }
+      ],
+      "page": 42,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -215,11 +512,33 @@
         "b": 97.96163687359478
       },
       "markdown": "Table 3-6: Definitions of dry contact ports communication interface board\n\n| Port Name            | Signal Definition           | Close Condition   |\n|----------------------|-----------------------------|-------------------|\n| IN-1 (customizable)  | Default function: power off | --                |\n| IN-2 (customizable)  | Default function: power on  | --                |\n| IN-3                 | Power off                   | --                |\n| IN-4                 | Manual bypass               | --                |\n| IN-5                 | EPO                         | --                |\n| OUT-1 (customizable) | Default function: fan fault | Fan fault         |\n| OUT-2                | Fault alarm                 | Fault alarm       |\n| OUT-3 (customizable) | Default function: power on  | Power on          |",
-      "caption_id": "txt_0355",
       "title": "Table 3-6: Definitions of dry contact ports communication interface board",
       "table_number": "Table 3-6",
       "rows": 9,
-      "cols": 3
+      "cols": 3,
+      "section_id": "sec_3_9_6",
+      "parent_section_id": "sec_auto_390",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_auto_390",
+          "title": "Communication Interfaces:"
+        },
+        {
+          "id": "sec_3_9_6",
+          "title": "3.9.6 Dry Contact Interface"
+        }
+      ],
+      "page": 42,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "group_id": "grp_tbl_0012",
+      "source": "pdf_text",
+      "caption_id": "txt_0355"
     },
     {
       "type": "caption",
@@ -233,6 +552,28 @@
         "b": 288.546101363195
       },
       "content": "Table 3-6: Definitions of dry contact ports communication interface board",
+      "section_id": "sec_3_9_6",
+      "parent_section_id": "sec_auto_390",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_auto_390",
+          "title": "Communication Interfaces:"
+        },
+        {
+          "id": "sec_3_9_6",
+          "title": "3.9.6 Dry Contact Interface"
+        }
+      ],
+      "page": 42,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_tbl_0012",
+      "source": "pdf_text",
       "caption_for": "tbl_0012"
     }
   ],

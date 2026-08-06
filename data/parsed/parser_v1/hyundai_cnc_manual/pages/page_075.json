@@ -18,8 +18,21 @@
         "b": 733.0429409281768
       },
       "content": "9-1. Power Switch",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "9",
+      "section_id": "sec_9",
+      "section_path": [
+        {
+          "id": "sec_9",
+          "title": "9-1. Power Switch"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 75,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -32,7 +45,20 @@
         "r": 527.3881139999997,
         "b": 699.0230369281768
       },
-      "content": "Install other machines with the independent power switches at the place where easy to open and close. See the following table for the capacity of fuse."
+      "content": "Install other machines with the independent power switches at the place where easy to open and close. See the following table for the capacity of fuse.",
+      "section_id": "sec_9",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_9",
+          "title": "9-1. Power Switch"
+        }
+      ],
+      "page": 75,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -50,7 +76,20 @@
       "next_block_id": "txt_0440",
       "image_hash": "37f83c7bd5e276bc0bad98ff04185ca4fa09293b1d62e70ce24986963ec4e415",
       "width": 443,
-      "height": 170
+      "height": 170,
+      "section_id": "sec_9",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_9",
+          "title": "9-1. Power Switch"
+        }
+      ],
+      "page": 75,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -64,8 +103,21 @@
         "b": 478.0439609281769
       },
       "content": "9-2. Wiring To Machine Form Power Switch",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "9",
+      "section_id": "sec_9",
+      "section_path": [
+        {
+          "id": "sec_9",
+          "title": "9-2. Wiring To Machine Form Power Switch"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 75,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -78,7 +130,20 @@
         "r": 527.4171719999994,
         "b": 427.0441649281769
       },
-      "content": "Perform wiring to the 1st NFB1 through leading hole located in the lower left of the Electric Control Panel. For the thickness of wire, see the following table and connect if so far the R.S.T not to be changed."
+      "content": "Perform wiring to the 1st NFB1 through leading hole located in the lower left of the Electric Control Panel. For the thickness of wire, see the following table and connect if so far the R.S.T not to be changed.",
+      "section_id": "sec_9",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_9",
+          "title": "9-2. Wiring To Machine Form Power Switch"
+        }
+      ],
+      "page": 75,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -95,7 +160,20 @@
       "previous_block_id": "txt_0441",
       "image_hash": "410bddaecb9e56d5d5e03294e298df908c51a960c227377e50ac82c9aa77c02e",
       "width": 444,
-      "height": 174
+      "height": 174,
+      "section_id": "sec_9",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_9",
+          "title": "9-2. Wiring To Machine Form Power Switch"
+        }
+      ],
+      "page": 75,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -110,7 +188,20 @@
       },
       "markdown": "| Model   | Power Capacity   | Available [ mm*]   | Available [ mm*]   |   Fuse [A] |\n|---------|------------------|--------------------|--------------------|------------|\n|         | (kVA)            | R, S, T            | Grounding line     |            |\n| SKT100  | 11.4             | 14                 | 14                 |         75 |\n| SKT200  | 14.1             | 16                 | 14                 |         75 |",
       "rows": 4,
-      "cols": 5
+      "cols": 5,
+      "section_id": "sec_9",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_9",
+          "title": "9-2. Wiring To Machine Form Power Switch"
+        }
+      ],
+      "page": 75,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

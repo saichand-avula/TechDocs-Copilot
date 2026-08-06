@@ -21,7 +21,20 @@
       "next_block_id": "txt_1881",
       "image_hash": "d1a66f1ffa56b548c7cd51c798b407152383df59d3d17ce56eb9be32677a2f3c",
       "width": 121,
-      "height": 30
+      "height": 30,
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-4-7. β AMP Function Codes"
+        }
+      ],
+      "page": 265,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -34,7 +47,20 @@
         "r": 519.0472260000012,
         "b": 644.5435889281769
       },
-      "content": "If the remaining distance to the next point is shorter than the required deceleration distance for stopping at that point when the feed axis and direction selection switch (+X, -X) is released, movement is made to the poing immediately after the next point."
+      "content": "If the remaining distance to the next point is shorter than the required deceleration distance for stopping at that point when the feed axis and direction selection switch (+X, -X) is released, movement is made to the poing immediately after the next point.",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-4-7. β AMP Function Codes"
+        }
+      ],
+      "page": 265,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -47,7 +73,20 @@
         "r": 508.8408539999987,
         "b": 610.0437269281769
       },
-      "content": "Set bit 1 (ROTX) of parameter No.000 (for rotation axis setting) to 1, and set bit 7 (ROAX) of parameter No.000 to 1 (for rollover)"
+      "content": "Set bit 1 (ROTX) of parameter No.000 (for rotation axis setting) to 1, and set bit 7 (ROAX) of parameter No.000 to 1 (for rollover)",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-4-7. β AMP Function Codes"
+        }
+      ],
+      "page": 265,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -60,7 +99,20 @@
         "r": 527.7596159999989,
         "b": 575.5428629281769
       },
-      "content": "As the position corresponding to each point number, workpiece coordinates are set in parameter Nos. 154 to 165."
+      "content": "As the position corresponding to each point number, workpiece coordinates are set in parameter Nos. 154 to 165.",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-4-7. β AMP Function Codes"
+        }
+      ],
+      "page": 265,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -73,7 +125,20 @@
         "r": 531.790662000001,
         "b": 541.1021189281769
       },
-      "content": "The feedrates of feedrate codes 1 to 7 are set in parameter Nos. 044 to 050. and a rapid traverse rate is set in parameter No.040."
+      "content": "The feedrates of feedrate codes 1 to 7 are set in parameter Nos. 044 to 050. and a rapid traverse rate is set in parameter No.040.",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-4-7. β AMP Function Codes"
+        }
+      ],
+      "page": 265,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -86,7 +151,20 @@
         "r": 549.6943979999996,
         "b": 506.60125492817684
       },
-      "content": "In rollover setting, shortcut control is possible. In rollover setting, set a value within + 1 rotation for the absolute positioning command."
+      "content": "In rollover setting, shortcut control is possible. In rollover setting, set a value within + 1 rotation for the absolute positioning command.",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-4-7. β AMP Function Codes"
+        }
+      ],
+      "page": 265,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -99,7 +177,20 @@
         "r": 542.3537460000003,
         "b": 437.60052892817686
       },
-      "content": "When a reference position is set after the power is turned on. Magazine/turret number 1 is output. Before reference position setting, perform movement by jog operation for a minimum given distance at a minimum given feedrate (distance and feedrate for accumulating a servo position deviation of 128 pulses or more)."
+      "content": "When a reference position is set after the power is turned on. Magazine/turret number 1 is output. Before reference position setting, perform movement by jog operation for a minimum given distance at a minimum given feedrate (distance and feedrate for accumulating a servo position deviation of 128 pulses or more).",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-4-7. β AMP Function Codes"
+        }
+      ],
+      "page": 265,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -112,7 +203,20 @@
         "r": 503.7106139999987,
         "b": 420.3200369281769
       },
-      "content": "Normal jog feed operation can be used only when function code 0, 1, 10, or 15 is specified."
+      "content": "Normal jog feed operation can be used only when function code 0, 1, 10, or 15 is specified.",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-4-7. β AMP Function Codes"
+        }
+      ],
+      "page": 265,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -125,7 +229,20 @@
         "r": 536.477016,
         "b": 368.5988009281769
       },
-      "content": "When an absoulute pulse coder is used, the current position can be used as a reference position. After positioning to a reference position, set function code 4, command data 1 = 15, jog mode, and emergency stop release state, then turn on the ST signal."
+      "content": "When an absoulute pulse coder is used, the current position can be used as a reference position. After positioning to a reference position, set function code 4, command data 1 = 15, jog mode, and emergency stop release state, then turn on the ST signal.",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-4-7. β AMP Function Codes"
+        }
+      ],
+      "page": 265,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -138,7 +255,20 @@
         "r": 544.5080459999998,
         "b": 299.59807492817686
       },
-      "content": "In ATC automatic operation mode, the rapid traverse rate (parameter No. 040) is used unconditionally. In jog operation mode, the rapid traverse rate (parameter No. 040) is used when the RT signal is turned on. The jog feedrate (parameter No. 041) is used when the RT signal is turned off."
+      "content": "In ATC automatic operation mode, the rapid traverse rate (parameter No. 040) is used unconditionally. In jog operation mode, the rapid traverse rate (parameter No. 040) is used when the RT signal is turned on. The jog feedrate (parameter No. 041) is used when the RT signal is turned off.",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-4-7. β AMP Function Codes"
+        }
+      ],
+      "page": 265,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -151,7 +281,20 @@
         "r": 539.1473460000011,
         "b": 265.09821292817696
       },
-      "content": "Never change the current mode during operation 1. The mode can be changed only after operation has been stopped."
+      "content": "Never change the current mode during operation 1. The mode can be changed only after operation has been stopped.",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-4-7. β AMP Function Codes"
+        }
+      ],
+      "page": 265,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -168,7 +311,20 @@
       "previous_block_id": "txt_1890",
       "image_hash": "41ff9b32038ab122c467f1246295d1a554914b5ff3ab0999f9ede93439d1cc5c",
       "width": 159,
-      "height": 28
+      "height": 28,
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2-4-7. β AMP Function Codes"
+        }
+      ],
+      "page": 265,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

@@ -22,7 +22,24 @@
       "width": 47,
       "height": 23,
       "decorative": true,
-      "image_hash": "7577891dcf1743bd2e7a735ef2621e01244d960bde43e28868c27d7c1437ddb9"
+      "image_hash": "7577891dcf1743bd2e7a735ef2621e01244d960bde43e28868c27d7c1437ddb9",
+      "section_id": "sec_auto_821",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4       OSCi (optional)"
+        },
+        {
+          "id": "sec_auto_821",
+          "title": "Overflow warning"
+        }
+      ],
+      "page": 80,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -39,7 +56,24 @@
       "next_block_id": "txt_0536",
       "image_hash": "58027b7201e3096b700387d9a2110e137d589cf01a7b2df462fce0ccd4d33796",
       "width": 146,
-      "height": 120
+      "height": 120,
+      "section_id": "sec_auto_821",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4       OSCi (optional)"
+        },
+        {
+          "id": "sec_auto_821",
+          "title": "Overflow warning"
+        }
+      ],
+      "page": 80,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -52,7 +86,24 @@
         "r": 531.7270000000001,
         "b": 605.044
       },
-      "content": "In this display you can see that an overflow warning is issued (blinking 'Yes'), indicating that the water level in the OSCi is too high. By fixing the problem (see section Problem solving, fault 2 or 3), this warning will disappear automatically."
+      "content": "In this display you can see that an overflow warning is issued (blinking 'Yes'), indicating that the water level in the OSCi is too high. By fixing the problem (see section Problem solving, fault 2 or 3), this warning will disappear automatically.",
+      "section_id": "sec_auto_821",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4       OSCi (optional)"
+        },
+        {
+          "id": "sec_auto_821",
+          "title": "Overflow warning"
+        }
+      ],
+      "page": 80,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -70,7 +121,24 @@
       "next_block_id": "txt_0537",
       "image_hash": "c87b5047023b28d8861f35ab3551f7116af35acbac0eaff86047ea8fe313535c",
       "width": 155,
-      "height": 125
+      "height": 125,
+      "section_id": "sec_auto_821",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4       OSCi (optional)"
+        },
+        {
+          "id": "sec_auto_821",
+          "title": "Overflow warning"
+        }
+      ],
+      "page": 80,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -85,7 +153,24 @@
       },
       "markdown": "| Reference   | Description   | Reference   | Description   |\n|-------------|---------------|-------------|---------------|\n| (1)         | Protections   | (3)         | Reset         |\n| (2)         | OSCi overflow | (4)         | Warning       |",
       "rows": 3,
-      "cols": 4
+      "cols": 4,
+      "section_id": "sec_auto_821",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4       OSCi (optional)"
+        },
+        {
+          "id": "sec_auto_821",
+          "title": "Overflow warning"
+        }
+      ],
+      "page": 80,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -100,7 +185,24 @@
       },
       "content": "4.8    Maintenance",
       "level": 2,
-      "role": "section"
+      "section_number": "4.8",
+      "section_id": "sec_4_8",
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4       OSCi (optional)"
+        },
+        {
+          "id": "sec_4_8",
+          "title": "4.8    Maintenance"
+        }
+      ],
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "page": 80,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -115,7 +217,23 @@
       },
       "content": "Oleophilic filter",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_837",
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4       OSCi (optional)"
+        },
+        {
+          "id": "sec_auto_837",
+          "title": "Oleophilic filter"
+        }
+      ],
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "page": 80,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -128,7 +246,24 @@
         "r": 534.8215999999995,
         "b": 193.56400000000008
       },
-      "content": "Initially, the oleophilic filter (3 - Condensate flow scheme) will float almost completely on the condensate and only the bottom part will act as filtration medium. By absorbing more and more oil, the filter will sink and new filter material will be exposed to the condensate. When the top of the filter reaches the surface of the condensate in the first vessel, the filter is saturated and needs to be replaced. This is automatically transmitted to the Elektronikon® regulator via the level sensor (1 - View of OSCi inlet), but the customer can also check this visually through the sight-glass."
+      "content": "Initially, the oleophilic filter (3 - Condensate flow scheme) will float almost completely on the condensate and only the bottom part will act as filtration medium. By absorbing more and more oil, the filter will sink and new filter material will be exposed to the condensate. When the top of the filter reaches the surface of the condensate in the first vessel, the filter is saturated and needs to be replaced. This is automatically transmitted to the Elektronikon® regulator via the level sensor (1 - View of OSCi inlet), but the customer can also check this visually through the sight-glass.",
+      "section_id": "sec_auto_837",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4       OSCi (optional)"
+        },
+        {
+          "id": "sec_auto_837",
+          "title": "Oleophilic filter"
+        }
+      ],
+      "page": 80,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -143,7 +278,23 @@
       },
       "content": "Quality check of the condensate",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_839",
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4       OSCi (optional)"
+        },
+        {
+          "id": "sec_auto_839",
+          "title": "Quality check of the condensate"
+        }
+      ],
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "page": 80,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -156,7 +307,24 @@
         "r": 396.49769999999984,
         "b": 140.88390000000004
       },
-      "content": "Every week, a test sample should be collected during compressor operation."
+      "content": "Every week, a test sample should be collected during compressor operation.",
+      "section_id": "sec_auto_839",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4       OSCi (optional)"
+        },
+        {
+          "id": "sec_auto_839",
+          "title": "Quality check of the condensate"
+        }
+      ],
+      "page": 80,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -169,7 +337,24 @@
         "r": 518.9199999999987,
         "b": 95.34390000000008
       },
-      "content": "Open the condensate sample valve at the side of the compressor (drain plate) for 5 seconds and dispose of the collected condensate according to local regulations for oil-containing water (this is the water that remains in the test outlet tube between the OSCi and the compressor back panel)."
+      "content": "Open the condensate sample valve at the side of the compressor (drain plate) for 5 seconds and dispose of the collected condensate according to local regulations for oil-containing water (this is the water that remains in the test outlet tube between the OSCi and the compressor back panel).",
+      "section_id": "sec_auto_839",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4       OSCi (optional)"
+        },
+        {
+          "id": "sec_auto_839",
+          "title": "Quality check of the condensate"
+        }
+      ],
+      "page": 80,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -182,7 +367,24 @@
         "r": 372.6364999999997,
         "b": 76.20390000000009
       },
-      "content": "Re-open the test valve and collect the condensate in the test bottle."
+      "content": "Re-open the test valve and collect the condensate in the test bottle.",
+      "section_id": "sec_auto_839",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4       OSCi (optional)"
+        },
+        {
+          "id": "sec_auto_839",
+          "title": "Quality check of the condensate"
+        }
+      ],
+      "page": 80,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

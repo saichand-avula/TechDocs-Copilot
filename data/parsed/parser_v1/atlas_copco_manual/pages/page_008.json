@@ -21,7 +21,20 @@
       "next_block_id": "txt_0012",
       "width": 47,
       "height": 23,
-      "image_hash": "7577891dcf1743bd2e7a735ef2621e01244d960bde43e28868c27d7c1437ddb9"
+      "image_hash": "7577891dcf1743bd2e7a735ef2621e01244d960bde43e28868c27d7c1437ddb9",
+      "section_id": "sec_auto_15",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_15",
+          "title": "Table of contents"
+        }
+      ],
+      "page": 8,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -35,8 +48,21 @@
         "b": 754.9440000000001
       },
       "content": "1       Safety precautions",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "1",
+      "section_id": "sec_1",
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1       Safety precautions"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 8,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -51,7 +77,24 @@
       },
       "content": "1.1 Safety icons",
       "level": 2,
-      "role": "section"
+      "section_number": "1.1",
+      "section_id": "sec_1_1",
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1       Safety precautions"
+        },
+        {
+          "id": "sec_1_1",
+          "title": "1.1 Safety icons"
+        }
+      ],
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "page": 8,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -66,7 +109,23 @@
       },
       "content": "Explanation",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_26",
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1       Safety precautions"
+        },
+        {
+          "id": "sec_auto_26",
+          "title": "Explanation"
+        }
+      ],
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "page": 8,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -84,7 +143,24 @@
       "next_block_id": "txt_0015",
       "width": 26,
       "height": 20,
-      "image_hash": "048ba3ceeab81b0b08d2d39de2f392be2906797e3c99718e12233287c590afb9"
+      "image_hash": "048ba3ceeab81b0b08d2d39de2f392be2906797e3c99718e12233287c590afb9",
+      "section_id": "sec_auto_26",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1       Safety precautions"
+        },
+        {
+          "id": "sec_auto_26",
+          "title": "Explanation"
+        }
+      ],
+      "page": 8,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -102,7 +178,24 @@
       "next_block_id": "txt_0015",
       "width": 22,
       "height": 21,
-      "image_hash": "21b92f49c7906ab4012437de453d60e0c8be84ff752c14d87761ce03db4e5b8f"
+      "image_hash": "21b92f49c7906ab4012437de453d60e0c8be84ff752c14d87761ce03db4e5b8f",
+      "section_id": "sec_auto_26",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1       Safety precautions"
+        },
+        {
+          "id": "sec_auto_26",
+          "title": "Explanation"
+        }
+      ],
+      "page": 8,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -120,7 +213,24 @@
       "next_block_id": "txt_0015",
       "width": 22,
       "height": 23,
-      "image_hash": "0a4b480258dc239c2ac8bb708d551a11a1b9e75a7950c0a2eb557429518e9066"
+      "image_hash": "0a4b480258dc239c2ac8bb708d551a11a1b9e75a7950c0a2eb557429518e9066",
+      "section_id": "sec_auto_26",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1       Safety precautions"
+        },
+        {
+          "id": "sec_auto_26",
+          "title": "Explanation"
+        }
+      ],
+      "page": 8,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "admonition",
@@ -134,7 +244,24 @@
         "b": 651.1627936
       },
       "content": "Danger for life",
-      "severity": "warning"
+      "severity": "warning",
+      "section_id": "sec_auto_26",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1       Safety precautions"
+        },
+        {
+          "id": "sec_auto_26",
+          "title": "Explanation"
+        }
+      ],
+      "page": 8,
+      "chunk_hint": "admonition",
+      "semantic_role": "warning",
+      "source": "pdf_text"
     },
     {
       "type": "admonition",
@@ -148,7 +275,24 @@
         "t": 632.12105368,
         "r": 156.26424712,
         "b": 620.14287088
-      }
+      },
+      "section_id": "sec_auto_26",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1       Safety precautions"
+        },
+        {
+          "id": "sec_auto_26",
+          "title": "Explanation"
+        }
+      ],
+      "page": 8,
+      "chunk_hint": "admonition",
+      "semantic_role": "warning",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -163,7 +307,24 @@
       },
       "content": "1.2 Safety precautions during installation",
       "level": 2,
-      "role": "section"
+      "section_number": "1.2",
+      "section_id": "sec_1_2",
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1       Safety precautions"
+        },
+        {
+          "id": "sec_1_2",
+          "title": "1.2 Safety precautions during installation"
+        }
+      ],
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "page": 8,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -181,7 +342,24 @@
       "next_block_id": "txt_0019",
       "width": 26,
       "height": 23,
-      "image_hash": "035f51b7faa60e646290283df46fd25a56063facdc4a9c2d547f99daa658999c"
+      "image_hash": "035f51b7faa60e646290283df46fd25a56063facdc4a9c2d547f99daa658999c",
+      "section_id": "sec_1_2",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1       Safety precautions"
+        },
+        {
+          "id": "sec_1_2",
+          "title": "1.2 Safety precautions during installation"
+        }
+      ],
+      "page": 8,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -194,7 +372,24 @@
         "r": 473.50608922000055,
         "b": 441.0112144
       },
-      "content": "All responsibility for any damage or injury resulting from neglecting these precautions, or non-observance of the normal caution and care required for installation, operation, maintenance and repair, even if not expressly stated, will be disclaimed by the manufacturer."
+      "content": "All responsibility for any damage or injury resulting from neglecting these precautions, or non-observance of the normal caution and care required for installation, operation, maintenance and repair, even if not expressly stated, will be disclaimed by the manufacturer.",
+      "section_id": "sec_1_2",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1       Safety precautions"
+        },
+        {
+          "id": "sec_1_2",
+          "title": "1.2 Safety precautions during installation"
+        }
+      ],
+      "page": 8,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -209,7 +404,23 @@
       },
       "content": "General precautions",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_36",
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1       Safety precautions"
+        },
+        {
+          "id": "sec_auto_36",
+          "title": "General precautions"
+        }
+      ],
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "page": 8,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -222,7 +433,24 @@
         "r": 536.7355999999993,
         "b": 372.72440000000006
       },
-      "content": "The operator must employ safe working practices and observe all related work safety requirements and regulations."
+      "content": "The operator must employ safe working practices and observe all related work safety requirements and regulations.",
+      "section_id": "sec_auto_36",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1       Safety precautions"
+        },
+        {
+          "id": "sec_auto_36",
+          "title": "General precautions"
+        }
+      ],
+      "page": 8,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -235,7 +463,24 @@
         "r": 535.9821000000009,
         "b": 346.3244000000001
       },
-      "content": "If any of the following statements does not comply with the applicable legislation, the stricter of the two shall apply."
+      "content": "If any of the following statements does not comply with the applicable legislation, the stricter of the two shall apply.",
+      "section_id": "sec_auto_36",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1       Safety precautions"
+        },
+        {
+          "id": "sec_auto_36",
+          "title": "General precautions"
+        }
+      ],
+      "page": 8,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -248,7 +493,24 @@
         "r": 514.9688000000011,
         "b": 319.9244000000001
       },
-      "content": "Installation, operation, maintenance and repair work must only be performed by authorised, trained, specialised personnel."
+      "content": "Installation, operation, maintenance and repair work must only be performed by authorised, trained, specialised personnel.",
+      "section_id": "sec_auto_36",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1       Safety precautions"
+        },
+        {
+          "id": "sec_auto_36",
+          "title": "General precautions"
+        }
+      ],
+      "page": 8,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -261,7 +523,24 @@
         "r": 515.7377000000013,
         "b": 280.3244000000002
       },
-      "content": "The compressor is not considered capable of producing air of breathing quality. For air of breathing quality, the compressed air must be adequately purified according to the applicable legislation and standards."
+      "content": "The compressor is not considered capable of producing air of breathing quality. For air of breathing quality, the compressed air must be adequately purified according to the applicable legislation and standards.",
+      "section_id": "sec_auto_36",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1       Safety precautions"
+        },
+        {
+          "id": "sec_auto_36",
+          "title": "General precautions"
+        }
+      ],
+      "page": 8,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -274,7 +553,24 @@
         "r": 537.5264999999991,
         "b": 240.72440000000017
       },
-      "content": "Before any maintenance, repair work, adjustment or any other non-routine checks, stop the compressor, press the emergency stop button, switch off the voltage and depressurise the compressor. In addition, the power isolating switch must be opened and locked."
+      "content": "Before any maintenance, repair work, adjustment or any other non-routine checks, stop the compressor, press the emergency stop button, switch off the voltage and depressurise the compressor. In addition, the power isolating switch must be opened and locked.",
+      "section_id": "sec_auto_36",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1       Safety precautions"
+        },
+        {
+          "id": "sec_auto_36",
+          "title": "General precautions"
+        }
+      ],
+      "page": 8,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -287,7 +583,24 @@
         "r": 518.0168999999987,
         "b": 201.12440000000015
       },
-      "content": "Never play with compressed air. Do not apply the air to your skin or direct an air stream at people. Never use the air to clean dirt from your clothes. When using the air to clean equipment, do so with extreme caution and wear eye protection."
+      "content": "Never play with compressed air. Do not apply the air to your skin or direct an air stream at people. Never use the air to clean dirt from your clothes. When using the air to clean equipment, do so with extreme caution and wear eye protection.",
+      "section_id": "sec_auto_36",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1       Safety precautions"
+        },
+        {
+          "id": "sec_auto_36",
+          "title": "General precautions"
+        }
+      ],
+      "page": 8,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -300,7 +613,24 @@
         "r": 538.255799999999,
         "b": 174.72440000000017
       },
-      "content": "The owner is responsible for maintaining the unit in safe operating condition. Parts and accessories shall be replaced if unsuitable for safe operation."
+      "content": "The owner is responsible for maintaining the unit in safe operating condition. Parts and accessories shall be replaced if unsuitable for safe operation.",
+      "section_id": "sec_auto_36",
+      "parent_section_id": "sec_1",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1       Safety precautions"
+        },
+        {
+          "id": "sec_auto_36",
+          "title": "General precautions"
+        }
+      ],
+      "page": 8,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

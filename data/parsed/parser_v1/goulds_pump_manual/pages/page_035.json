@@ -19,7 +19,19 @@
       },
       "content": "Illustration",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_592",
+      "section_path": [
+        {
+          "id": "sec_auto_592",
+          "title": "Illustration"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 2,
+      "page": 35,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -35,12 +47,26 @@
       "image_path": "figures/figure_0044.png",
       "previous_block_id": "txt_0519",
       "next_block_id": "txt_0520",
-      "caption_id": "txt_0520",
       "caption": ": Example of the C-face adapter (340)",
       "figure_number": "Figure 15",
       "image_hash": "9736be06cdc4ceed76ba5ddafea3c34fd565ecd31be6a75218a0dc5613f66c0d",
       "width": 192,
-      "height": 193
+      "height": 193,
+      "section_id": "sec_auto_592",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_592",
+          "title": "Illustration"
+        }
+      ],
+      "page": 35,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0044",
+      "source": "pdf_text",
+      "caption_id": "txt_0520"
     },
     {
       "type": "caption",
@@ -54,6 +80,20 @@
         "b": 509.85119
       },
       "content": "Figure 15: Example of the C-face adapter (340)",
+      "section_id": "sec_auto_592",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_592",
+          "title": "Illustration"
+        }
+      ],
+      "page": 35,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0044",
+      "source": "pdf_text",
       "caption_for": "fig_0044"
     },
     {
@@ -69,7 +109,19 @@
       },
       "content": "Alignment requirements",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_595",
+      "section_path": [
+        {
+          "id": "sec_auto_595",
+          "title": "Alignment requirements"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 2,
+      "page": 35,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -82,7 +134,20 @@
         "r": 550.8608300000005,
         "b": 452.82480999999996
       },
-      "content": "When you use a C-face adapter, you do not have to align the shaft. The rabbeted fittings of  the drive unit to the adapter and the adapter to the bearing frame automatically align the shaft to within the specified limits."
+      "content": "When you use a C-face adapter, you do not have to align the shaft. The rabbeted fittings of  the drive unit to the adapter and the adapter to the bearing frame automatically align the shaft to within the specified limits.",
+      "section_id": "sec_auto_595",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_595",
+          "title": "Alignment requirements"
+        }
+      ],
+      "page": 35,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -97,7 +162,19 @@
       },
       "content": "Specified limits",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_597",
+      "section_path": [
+        {
+          "id": "sec_auto_597",
+          "title": "Specified limits"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 2,
+      "page": 35,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -110,7 +187,20 @@
         "r": 550.5907500000003,
         "b": 396.30481999999995
       },
-      "content": "A C-face adapter can attain a nominal alignment of  0.007 in. Total Indicated Runout (T.I.R.). However, because of the stack-up of the machining tolerances of  the various parts, the alignment can be as high as 0.015 inches TIR."
+      "content": "A C-face adapter can attain a nominal alignment of  0.007 in. Total Indicated Runout (T.I.R.). However, because of the stack-up of the machining tolerances of  the various parts, the alignment can be as high as 0.015 inches TIR.",
+      "section_id": "sec_auto_597",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_597",
+          "title": "Specified limits"
+        }
+      ],
+      "page": 35,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -123,7 +213,20 @@
         "r": 544.5907499999998,
         "b": 369.30481999999995
       },
-      "content": "If  high reliability (with shaft alignments of  less than 0.002 in. (0.05mm)) is required for the pump, use a foot-mounted drive unit on a precision-machined baseplate and perform a conventional alignment."
+      "content": "If  high reliability (with shaft alignments of  less than 0.002 in. (0.05mm)) is required for the pump, use a foot-mounted drive unit on a precision-machined baseplate and perform a conventional alignment.",
+      "section_id": "sec_auto_597",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_597",
+          "title": "Specified limits"
+        }
+      ],
+      "page": 35,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -138,7 +241,19 @@
       },
       "content": "Grout the baseplate",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_600",
+      "section_path": [
+        {
+          "id": "sec_auto_600",
+          "title": "Grout the baseplate"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 2,
+      "page": 35,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -151,7 +266,20 @@
         "r": 224.7147,
         "b": 315.30481999999995
       },
-      "content": "Required equipment:"
+      "content": "Required equipment:",
+      "section_id": "sec_auto_600",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_600",
+          "title": "Grout the baseplate"
+        }
+      ],
+      "page": 35,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -164,7 +292,20 @@
         "r": 546.5346900000004,
         "b": 288.30481999999995
       },
-      "content": "Cleaners: Do not use an oil-based cleaner because the grout will not bond to it. See the instructions provided by the grout manufacturer."
+      "content": "Cleaners: Do not use an oil-based cleaner because the grout will not bond to it. See the instructions provided by the grout manufacturer.",
+      "section_id": "sec_auto_600",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_600",
+          "title": "Grout the baseplate"
+        }
+      ],
+      "page": 35,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -177,7 +318,20 @@
         "r": 328.08468,
         "b": 274.50482999999997
       },
-      "content": "Grout: Non-shrink grout is recommended."
+      "content": "Grout: Non-shrink grout is recommended.",
+      "section_id": "sec_auto_600",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_600",
+          "title": "Grout the baseplate"
+        }
+      ],
+      "page": 35,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -190,7 +344,20 @@
         "r": 462.4246600000003,
         "b": 260.70484
       },
-      "content": "Clean all the areas of  the baseplate that will come into contact with the grout."
+      "content": "Clean all the areas of  the baseplate that will come into contact with the grout.",
+      "section_id": "sec_auto_600",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_600",
+          "title": "Grout the baseplate"
+        }
+      ],
+      "page": 35,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -203,7 +370,20 @@
         "r": 300.63464,
         "b": 246.90485
       },
-      "content": "Build a dam around the foundation."
+      "content": "Build a dam around the foundation.",
+      "section_id": "sec_auto_600",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_600",
+          "title": "Grout the baseplate"
+        }
+      ],
+      "page": 35,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -216,7 +396,20 @@
         "r": 449.8646400000003,
         "b": 233.10486000000003
       },
-      "content": "Thoroughly wet the foundation that will come into contact with the grout."
+      "content": "Thoroughly wet the foundation that will come into contact with the grout.",
+      "section_id": "sec_auto_600",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_600",
+          "title": "Grout the baseplate"
+        }
+      ],
+      "page": 35,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -229,7 +422,20 @@
         "r": 471.47464000000025,
         "b": 219.30484
       },
-      "content": "Pour grout through the grout hole into the baseplate up to the level of  the dam."
+      "content": "Pour grout through the grout hole into the baseplate up to the level of  the dam.",
+      "section_id": "sec_auto_600",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_600",
+          "title": "Grout the baseplate"
+        }
+      ],
+      "page": 35,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -242,7 +448,20 @@
         "r": 493.4746200000003,
         "b": 204.78481999999997
       },
-      "content": "When you pour the grout, remove air bubbles from it by using one of these methods:"
+      "content": "When you pour the grout, remove air bubbles from it by using one of these methods:",
+      "section_id": "sec_auto_600",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_600",
+          "title": "Grout the baseplate"
+        }
+      ],
+      "page": 35,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -255,7 +474,20 @@
         "r": 268.15457999999995,
         "b": 190.98483
       },
-      "content": "Puddle with a vibrator."
+      "content": "Puddle with a vibrator.",
+      "section_id": "sec_auto_600",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_600",
+          "title": "Grout the baseplate"
+        }
+      ],
+      "page": 35,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -268,7 +500,20 @@
         "r": 283.7045999999999,
         "b": 177.18484
       },
-      "content": "Pump the grout into place."
+      "content": "Pump the grout into place.",
+      "section_id": "sec_auto_600",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_600",
+          "title": "Grout the baseplate"
+        }
+      ],
+      "page": 35,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -281,7 +526,20 @@
         "r": 249.10459999999992,
         "b": 163.38485000000003
       },
-      "content": "Allow the grout to set."
+      "content": "Allow the grout to set.",
+      "section_id": "sec_auto_600",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_600",
+          "title": "Grout the baseplate"
+        }
+      ],
+      "page": 35,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

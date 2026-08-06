@@ -18,8 +18,21 @@
         "b": 733.0429409281768
       },
       "content": "8. Coolant",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "8",
+      "section_id": "sec_8",
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8. Coolant"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 73,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -32,7 +45,20 @@
         "r": 527.3720819999992,
         "b": 699.0230369281768
       },
-      "content": "There are several kinds of coolant such as soluble and insoluble ones. The methods of filling coolant into the machine are as follows."
+      "content": "There are several kinds of coolant such as soluble and insoluble ones. The methods of filling coolant into the machine are as follows.",
+      "section_id": "sec_8",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8. Coolant"
+        }
+      ],
+      "page": 73,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -45,7 +71,20 @@
         "r": 333.8067239999996,
         "b": 682.0431449281768
       },
-      "content": "Fill coolant into its tank in the rear of machine."
+      "content": "Fill coolant into its tank in the rear of machine.",
+      "section_id": "sec_8",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8. Coolant"
+        }
+      ],
+      "page": 73,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -58,7 +97,20 @@
         "r": 287.6275500000001,
         "b": 665.0031329281768
       },
-      "content": "Total quantity of coolant is 135 liter."
+      "content": "Total quantity of coolant is 135 liter.",
+      "section_id": "sec_8",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8. Coolant"
+        }
+      ],
+      "page": 73,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -71,7 +123,20 @@
         "r": 527.2852140000002,
         "b": 209.0041709281768
       },
-      "content": "When installing the machine, performing test operation or having not used for long-term, use the spare sufficiently."
+      "content": "When installing the machine, performing test operation or having not used for long-term, use the spare sufficiently.",
+      "section_id": "sec_8",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8. Coolant"
+        }
+      ],
+      "page": 73,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -86,7 +151,20 @@
       },
       "markdown": "Fig. 4-10 Filling Coolant\n\n| Name                   | Quantity             | Total Quantity       |\n|------------------------|----------------------|----------------------|\n| Coolant main tank      | 92 liter(24 gal)     | 135 liter(35.23 gal) |\n| Coolant auxiliary tank | 43 liter (11.23 gal) | 135 liter(35.23 gal) |",
       "rows": 3,
-      "cols": 3
+      "cols": 3,
+      "section_id": "sec_8",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8. Coolant"
+        }
+      ],
+      "page": 73,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "caption",
@@ -100,6 +178,20 @@
         "b": 260.00396692817674
       },
       "content": "Fig. 4-10 Filling Coolant",
+      "section_id": "sec_8",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8. Coolant"
+        }
+      ],
+      "page": 73,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0100",
+      "source": "pdf_text",
       "caption_for": "fig_0100"
     },
     {
@@ -115,12 +207,26 @@
       },
       "image_path": "figures/figure_0100.png",
       "previous_block_id": "txt_0425",
-      "caption_id": "txt_0425",
       "caption": "Filling Coolant",
       "figure_number": "Fig. 4-10",
       "image_hash": "7706172e9e81c0a20a0f91409c456e30ff0c1348beb1a46de4d95347e38dcc44",
       "width": 446,
-      "height": 303
+      "height": 303,
+      "section_id": "sec_8",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8. Coolant"
+        }
+      ],
+      "page": 73,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0100",
+      "source": "pdf_text",
+      "caption_id": "txt_0425"
     }
   ],
   "page_stats": {

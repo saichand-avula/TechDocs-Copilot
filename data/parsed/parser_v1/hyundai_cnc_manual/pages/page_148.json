@@ -18,8 +18,21 @@
         "b": 746.8429409281769
       },
       "content": "3-4-4. Repairing Manifold",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "3",
+      "section_id": "sec_3",
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-4-4. Repairing Manifold"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 148,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -32,7 +45,20 @@
         "r": 452.68400400000013,
         "b": 695.8431449281769
       },
-      "content": "A high level unit composed level the solenoid valve (direction converting valve), hydraulic control valve, check valve, and etc.."
+      "content": "A high level unit composed level the solenoid valve (direction converting valve), hydraulic control valve, check valve, and etc..",
+      "section_id": "sec_3",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3-4-4. Repairing Manifold"
+        }
+      ],
+      "page": 148,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -46,8 +72,21 @@
         "b": 661.8232409281769
       },
       "content": "1) Manifold construction",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "1",
+      "section_id": "sec_1",
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1) Manifold construction"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 148,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -63,12 +102,26 @@
       "image_path": "figures/figure_0261.png",
       "previous_block_id": "txt_1036",
       "next_block_id": "txt_1037",
-      "caption_id": "txt_1037",
       "caption": "Manifold Construction Diagram",
       "figure_number": "Fig. 5-54",
       "image_hash": "95fb94ade16404496082efa8ac2788dc44dc3055a278452b17fd36cee5ab7882",
       "width": 444,
-      "height": 194
+      "height": 194,
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1) Manifold construction"
+        }
+      ],
+      "page": 148,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0261",
+      "source": "pdf_text",
+      "caption_id": "txt_1037"
     },
     {
       "type": "caption",
@@ -82,6 +135,20 @@
         "b": 423.80415292817696
       },
       "content": "Fig. 5-54 Manifold Construction Diagram",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1) Manifold construction"
+        }
+      ],
+      "page": 148,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0261",
+      "source": "pdf_text",
       "caption_for": "fig_0261"
     },
     {
@@ -98,12 +165,26 @@
       "image_path": "figures/figure_0262.png",
       "previous_block_id": "txt_1037",
       "next_block_id": "txt_1038",
-      "caption_id": "txt_1038",
       "caption": "Manifold Disassembly Diagram",
       "figure_number": "Fig. 5-55",
       "image_hash": "7273038ac906e7aa7b37f09412aad944c97b28d009bb4764ddced890f8646d97",
       "width": 446,
-      "height": 312
+      "height": 312,
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1) Manifold construction"
+        }
+      ],
+      "page": 148,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0262",
+      "source": "pdf_text",
+      "caption_id": "txt_1038"
     },
     {
       "type": "caption",
@@ -117,6 +198,20 @@
         "b": 66.80558092817694
       },
       "content": "Fig. 5-55 Manifold Disassembly Diagram",
+      "section_id": "sec_1",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_1",
+          "title": "1) Manifold construction"
+        }
+      ],
+      "page": 148,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0262",
+      "source": "pdf_text",
       "caption_for": "fig_0262"
     }
   ],

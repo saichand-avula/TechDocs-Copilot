@@ -17,7 +17,24 @@
         "r": 541.4756799999998,
         "b": 697.796101363195
       },
-      "content": "converted to inverter power supply from static bypass power supply. Display status of LED can be seen in Table 4-2:"
+      "content": "converted to inverter power supply from static bypass power supply. Display status of LED can be seen in Table 4-2:",
+      "section_id": "sec_auto_471",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        },
+        {
+          "id": "sec_auto_471",
+          "title": "Warning:"
+        }
+      ],
+      "page": 46,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -31,11 +48,29 @@
         "b": 634.550989116666
       },
       "markdown": "Table 4-2\n\n| LED No.        | REC   | INV   | OUTPUT   | BAT   | BYP   | STATUS   |\n|----------------|-------|-------|----------|-------|-------|----------|\n| Display status | Green | Green | Red      | Red   | Off   | Red      |",
-      "caption_id": "txt_0397",
       "title": "Table 4-2",
       "table_number": "Table 4-2",
       "rows": 2,
-      "cols": 7
+      "cols": 7,
+      "section_id": "sec_auto_471",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        },
+        {
+          "id": "sec_auto_471",
+          "title": "Warning:"
+        }
+      ],
+      "page": 46,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "group_id": "grp_tbl_0015",
+      "source": "pdf_text",
+      "caption_id": "txt_0397"
     },
     {
       "type": "caption",
@@ -49,6 +84,24 @@
         "b": 682.196101363195
       },
       "content": "Table 4-2",
+      "section_id": "sec_auto_471",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        },
+        {
+          "id": "sec_auto_471",
+          "title": "Warning:"
+        }
+      ],
+      "page": 46,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_tbl_0015",
+      "source": "pdf_text",
       "caption_for": "tbl_0015"
     },
     {
@@ -62,7 +115,25 @@
         "r": 541.61568,
         "b": 574.436101363195
       },
-      "content": "Close external battery switch. This switch locates inside the battery cabinet or near battery rack. After the UPS system detects the battery, the red indicating light of battery (BAT) in panel will be off. Find the battery data in liquid crystal display field to check whether the battery voltage (500 V ~ 680 V) is correct or not."
+      "content": "Close external battery switch. This switch locates inside the battery cabinet or near battery rack. After the UPS system detects the battery, the red indicating light of battery (BAT) in panel will be off. Find the battery data in liquid crystal display field to check whether the battery voltage (500 V ~ 680 V) is correct or not.",
+      "section_id": "sec_auto_471",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        },
+        {
+          "id": "sec_auto_471",
+          "title": "Warning:"
+        }
+      ],
+      "page": 46,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text",
+      "group_id": "grp_tbl_0015"
     },
     {
       "type": "list_item",
@@ -75,7 +146,24 @@
         "r": 541.3975999999996,
         "b": 527.606101363195
       },
-      "content": "Inspect and confirm that there is no warning information in left bottom of LCD display screen. UPS is running under main power mode. Close the output switch and confirm display status of LED as shown in Table 4-3:"
+      "content": "Inspect and confirm that there is no warning information in left bottom of LCD display screen. UPS is running under main power mode. Close the output switch and confirm display status of LED as shown in Table 4-3:",
+      "section_id": "sec_auto_471",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        },
+        {
+          "id": "sec_auto_471",
+          "title": "Warning:"
+        }
+      ],
+      "page": 46,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -89,9 +177,27 @@
         "b": 465.6549928558574
       },
       "markdown": "Figure 4-1: Power flow diagram after normal boot\n\n| LED No.        | REC   | INV   | OUTPUT   | BAT   | BYP   | STATUS   |\n|----------------|-------|-------|----------|-------|-------|----------|\n| Display status | Green | Green | Green    | Off   | Off   | Green    |",
-      "caption_id": "txt_0401",
       "rows": 2,
-      "cols": 7
+      "cols": 7,
+      "section_id": "sec_auto_471",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        },
+        {
+          "id": "sec_auto_471",
+          "title": "Warning:"
+        }
+      ],
+      "page": 46,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "group_id": "grp_tbl_0016",
+      "source": "pdf_text",
+      "caption_id": "txt_0401"
     },
     {
       "type": "caption",
@@ -105,6 +211,24 @@
         "b": 282.78610136319503
       },
       "content": "Figure 4-1: Power flow diagram after normal boot",
+      "section_id": "sec_auto_471",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        },
+        {
+          "id": "sec_auto_471",
+          "title": "Warning:"
+        }
+      ],
+      "page": 46,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0073",
+      "source": "pdf_text",
       "caption_for": "fig_0073"
     },
     {
@@ -121,12 +245,30 @@
       "image_path": "figures/figure_0073.png",
       "previous_block_id": "txt_0400",
       "next_block_id": "txt_0401",
-      "caption_id": "txt_0400",
       "caption": ": Power flow diagram after normal boot",
       "figure_number": "Figure 4-1",
       "image_hash": "7b3083ff1f9be250c8c2709d10242483d400eef948388fa990f9012b69b0576b",
       "width": 370,
-      "height": 199
+      "height": 199,
+      "section_id": "sec_auto_471",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        },
+        {
+          "id": "sec_auto_471",
+          "title": "Warning:"
+        }
+      ],
+      "page": 46,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0073",
+      "source": "pdf_text",
+      "caption_id": "txt_0400"
     },
     {
       "type": "caption",
@@ -140,6 +282,24 @@
         "b": 512.006101363195
       },
       "content": "Table 4-3",
+      "section_id": "sec_auto_471",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        },
+        {
+          "id": "sec_auto_471",
+          "title": "Warning:"
+        }
+      ],
+      "page": 46,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_tbl_0016",
+      "source": "pdf_text",
       "caption_for": "tbl_0016"
     },
     {
@@ -155,7 +315,24 @@
       },
       "content": "4.2 ECO Mode",
       "level": 2,
-      "role": "section"
+      "section_number": "4.2",
+      "section_id": "sec_4_2",
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        },
+        {
+          "id": "sec_4_2",
+          "title": "4.2 ECO Mode"
+        }
+      ],
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "page": 46,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -168,7 +345,24 @@
         "r": 541.3766399999996,
         "b": 193.35610136319497
       },
-      "content": "If need UPS to operate in ECO mode, please set it to ECO mode before turning on the UPS and it will be effective after power down."
+      "content": "If need UPS to operate in ECO mode, please set it to ECO mode before turning on the UPS and it will be effective after power down.",
+      "section_id": "sec_4_2",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        },
+        {
+          "id": "sec_4_2",
+          "title": "4.2 ECO Mode"
+        }
+      ],
+      "page": 46,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -182,8 +376,29 @@
         "b": 164.79284478860927
       },
       "content": "4.2.1 Start ECO Mode",
-      "level": 2,
-      "role": "section"
+      "level": 3,
+      "section_number": "4.2.1",
+      "section_id": "sec_4_2_1",
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        },
+        {
+          "id": "sec_4_2",
+          "title": "4.2 ECO Mode"
+        },
+        {
+          "id": "sec_4_2_1",
+          "title": "4.2.1 Start ECO Mode"
+        }
+      ],
+      "parent_section_id": "sec_4_2",
+      "section_level": 3,
+      "page": 46,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -202,7 +417,28 @@
       "width": 27,
       "height": 24,
       "decorative": true,
-      "image_hash": "2d38203577e252cfb2d6bb6f79cedce61c528e114341c5b9a8971171822b6e2c"
+      "image_hash": "2d38203577e252cfb2d6bb6f79cedce61c528e114341c5b9a8971171822b6e2c",
+      "section_id": "sec_4_2_1",
+      "parent_section_id": "sec_4_2",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        },
+        {
+          "id": "sec_4_2",
+          "title": "4.2 ECO Mode"
+        },
+        {
+          "id": "sec_4_2_1",
+          "title": "4.2.1 Start ECO Mode"
+        }
+      ],
+      "page": 46,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -215,7 +451,28 @@
         "r": 541.60608,
         "b": 104.91610136319491
       },
-      "content": "Click set icon ' ' in main interface and menu of 'advanced setting' (enter right password), and click to enter 'mode setting', select 'ECO mode' and then press 'YES'. Here, the 'ECO mode' is not effective, please make the UPS power down, and then power up, then the configured 'ECO mode' become effective. Operate according to normal  startup  steps,  the UPS  will  work in ECO mode. The display status of LED can be seen in Table 4-4:"
+      "content": "Click set icon ' ' in main interface and menu of 'advanced setting' (enter right password), and click to enter 'mode setting', select 'ECO mode' and then press 'YES'. Here, the 'ECO mode' is not effective, please make the UPS power down, and then power up, then the configured 'ECO mode' become effective. Operate according to normal  startup  steps,  the UPS  will  work in ECO mode. The display status of LED can be seen in Table 4-4:",
+      "section_id": "sec_4_2_1",
+      "parent_section_id": "sec_4_2",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        },
+        {
+          "id": "sec_4_2",
+          "title": "4.2 ECO Mode"
+        },
+        {
+          "id": "sec_4_2_1",
+          "title": "4.2.1 Start ECO Mode"
+        }
+      ],
+      "page": 46,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

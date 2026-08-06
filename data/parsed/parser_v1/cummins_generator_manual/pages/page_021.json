@@ -18,8 +18,21 @@
         "b": 705.5587870854176
       },
       "content": "4. Engine Control Service",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "4",
+      "section_id": "sec_4",
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4. Engine Control Service"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 21,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -34,7 +47,23 @@
       },
       "content": "GENERAL",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_267",
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4. Engine Control Service"
+        },
+        {
+          "id": "sec_auto_267",
+          "title": "GENERAL"
+        }
+      ],
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "page": 21,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -47,7 +76,24 @@
         "r": 291.3804000000002,
         "b": 590.4242492035388
       },
-      "content": "The following checks are referred to in the Control Troubleshooting flow charts.  They isolate circuit problems caused by faulty engine control components.    Disconnect  leads  before  testing  components."
+      "content": "The following checks are referred to in the Control Troubleshooting flow charts.  They isolate circuit problems caused by faulty engine control components.    Disconnect  leads  before  testing  components.",
+      "section_id": "sec_auto_267",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4. Engine Control Service"
+        },
+        {
+          "id": "sec_auto_267",
+          "title": "GENERAL"
+        }
+      ],
+      "page": 21,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "admonition",
@@ -61,7 +107,24 @@
         "b": 500.1672519502828
       },
       "content": "WARNING Many troubleshooting procedures present hazards that can result in severe personal  injury  or  death.    Only  qualified  service personnel with knowledge of fuels, electricity, and machinery hazards should perform service procedures.  Review Safety Precautions.",
-      "severity": "warning"
+      "severity": "warning",
+      "section_id": "sec_auto_267",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4. Engine Control Service"
+        },
+        {
+          "id": "sec_auto_267",
+          "title": "GENERAL"
+        }
+      ],
+      "page": 21,
+      "chunk_hint": "admonition",
+      "semantic_role": "warning",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -76,7 +139,23 @@
       },
       "content": "[A]",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_270",
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4. Engine Control Service"
+        },
+        {
+          "id": "sec_auto_270",
+          "title": "[A]"
+        }
+      ],
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "page": 21,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -91,7 +170,23 @@
       },
       "content": "BATTERY CHECK (BT1)",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_271",
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4. Engine Control Service"
+        },
+        {
+          "id": "sec_auto_271",
+          "title": "BATTERY CHECK (BT1)"
+        }
+      ],
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "page": 21,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -104,7 +199,24 @@
         "r": 291.4670999999998,
         "b": 359.9102492035388
       },
-      "content": "Check the battery charge condition with a hydrometer.    Electrolyte  specific  gravity  should  be  about 1.260 for a fully charged battery at 80  F (27  C).  If not, add distilled water to keep electrolyte at proper level, then recharge the battery.  If the battery will not recharge, replace it."
+      "content": "Check the battery charge condition with a hydrometer.    Electrolyte  specific  gravity  should  be  about 1.260 for a fully charged battery at 80  F (27  C).  If not, add distilled water to keep electrolyte at proper level, then recharge the battery.  If the battery will not recharge, replace it.",
+      "section_id": "sec_auto_271",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4. Engine Control Service"
+        },
+        {
+          "id": "sec_auto_271",
+          "title": "BATTERY CHECK (BT1)"
+        }
+      ],
+      "page": 21,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -117,7 +229,24 @@
         "r": 291.38349999999997,
         "b": 296.07504920353887
       },
-      "content": "If the battery loses excess water, the charge rate may be too high.  If the battery charge is not maintained, the charge rate may be too low.  See procedure [C]."
+      "content": "If the battery loses excess water, the charge rate may be too high.  If the battery charge is not maintained, the charge rate may be too low.  See procedure [C].",
+      "section_id": "sec_auto_271",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4. Engine Control Service"
+        },
+        {
+          "id": "sec_auto_271",
+          "title": "BATTERY CHECK (BT1)"
+        }
+      ],
+      "page": 21,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "admonition",
@@ -131,7 +260,24 @@
         "b": 231.10175195028262
       },
       "content": "WARNING Ignition of explosive battery gases can cause severe personal injury.  Do not permit any  flame,  spark,  cigarette,  or  other  ignition source near the battery.",
-      "severity": "warning"
+      "severity": "warning",
+      "section_id": "sec_auto_271",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4. Engine Control Service"
+        },
+        {
+          "id": "sec_auto_271",
+          "title": "BATTERY CHECK (BT1)"
+        }
+      ],
+      "page": 21,
+      "chunk_hint": "admonition",
+      "semantic_role": "warning",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -146,7 +292,23 @@
       },
       "content": "[B]",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_275",
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4. Engine Control Service"
+        },
+        {
+          "id": "sec_auto_275",
+          "title": "[B]"
+        }
+      ],
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "page": 21,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -161,7 +323,23 @@
       },
       "content": "BATTERY CABLE CHECK",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_276",
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4. Engine Control Service"
+        },
+        {
+          "id": "sec_auto_276",
+          "title": "BATTERY CABLE CHECK"
+        }
+      ],
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "page": 21,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -174,7 +352,24 @@
         "r": 291.50140000000005,
         "b": 142.43624920353875
       },
-      "content": "With the starter motor running, check these voltage drops:"
+      "content": "With the starter motor running, check these voltage drops:",
+      "section_id": "sec_auto_276",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4. Engine Control Service"
+        },
+        {
+          "id": "sec_auto_276",
+          "title": "BATTERY CABLE CHECK"
+        }
+      ],
+      "page": 21,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -187,7 +382,24 @@
         "r": 291.38260000000014,
         "b": 103.88564920353872
       },
-      "content": "From the battery negative post (not the cable clamp) to the cylinder block"
+      "content": "From the battery negative post (not the cable clamp) to the cylinder block",
+      "section_id": "sec_auto_276",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4. Engine Control Service"
+        },
+        {
+          "id": "sec_auto_276",
+          "title": "BATTERY CABLE CHECK"
+        }
+      ],
+      "page": 21,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -200,7 +412,24 @@
         "r": 564.7732999999985,
         "b": 653.4104492035387
       },
-      "content": "From the battery positive post to the battery terminal stud on the solenoid"
+      "content": "From the battery positive post to the battery terminal stud on the solenoid",
+      "section_id": "sec_auto_276",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4. Engine Control Service"
+        },
+        {
+          "id": "sec_auto_276",
+          "title": "BATTERY CABLE CHECK"
+        }
+      ],
+      "page": 21,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -213,7 +442,24 @@
         "r": 564.7468999999998,
         "b": 580.1075492035388
       },
-      "content": "Normally these should be less than 0.3 volts.  If extra-long battery cables are used, slightly higher voltage drops may result.  Thoroughly clean all connections in any part of the circuit showing excessive voltage drop."
+      "content": "Normally these should be less than 0.3 volts.  If extra-long battery cables are used, slightly higher voltage drops may result.  Thoroughly clean all connections in any part of the circuit showing excessive voltage drop.",
+      "section_id": "sec_auto_276",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4. Engine Control Service"
+        },
+        {
+          "id": "sec_auto_276",
+          "title": "BATTERY CABLE CHECK"
+        }
+      ],
+      "page": 21,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -228,7 +474,23 @@
       },
       "content": "[C]",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_281",
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4. Engine Control Service"
+        },
+        {
+          "id": "sec_auto_281",
+          "title": "[C]"
+        }
+      ],
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "page": 21,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -243,7 +505,23 @@
       },
       "content": "BATTERY CHARGING CHECK",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_282",
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4. Engine Control Service"
+        },
+        {
+          "id": "sec_auto_282",
+          "title": "BATTERY CHARGING CHECK"
+        }
+      ],
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "page": 21,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -256,7 +534,24 @@
         "r": 564.7601999999995,
         "b": 487.35614920353885
       },
-      "content": "With the engine running, check the DC voltmeter (control option).  The 12-volt system should read 13.5 to 15 volts."
+      "content": "With the engine running, check the DC voltmeter (control option).  The 12-volt system should read 13.5 to 15 volts.",
+      "section_id": "sec_auto_282",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4. Engine Control Service"
+        },
+        {
+          "id": "sec_auto_282",
+          "title": "BATTERY CHARGING CHECK"
+        }
+      ],
+      "page": 21,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -269,7 +564,24 @@
         "r": 564.7568999999996,
         "b": 439.3378492035389
       },
-      "content": "The power source is a belt-driven alternator.  The charge rate/voltage is determined by a voltage regulator located inside the control box."
+      "content": "The power source is a belt-driven alternator.  The charge rate/voltage is determined by a voltage regulator located inside the control box.",
+      "section_id": "sec_auto_282",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4. Engine Control Service"
+        },
+        {
+          "id": "sec_auto_282",
+          "title": "BATTERY CHARGING CHECK"
+        }
+      ],
+      "page": 21,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -282,7 +594,24 @@
         "r": 564.8437999999993,
         "b": 353.392649203539
       },
-      "content": "Improper output may be caused by a loose drive belt, poor terminal connections, broken wires, bad regulator or alternator.  Checkout procedures for the regulator and alternator are found in the engine service manual. The charge circuit is protected by circuit breaker CB13."
+      "content": "Improper output may be caused by a loose drive belt, poor terminal connections, broken wires, bad regulator or alternator.  Checkout procedures for the regulator and alternator are found in the engine service manual. The charge circuit is protected by circuit breaker CB13.",
+      "section_id": "sec_auto_282",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4. Engine Control Service"
+        },
+        {
+          "id": "sec_auto_282",
+          "title": "BATTERY CHARGING CHECK"
+        }
+      ],
+      "page": 21,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -295,7 +624,24 @@
         "r": 565.033,
         "b": 292.67484920353905
       },
-      "content": "If the output voltage is high (over 15 volts), check for loose or corroded voltage regulator leads.  If this does not correct the problem, the regulator is probably shorted and should be replaced."
+      "content": "If the output voltage is high (over 15 volts), check for loose or corroded voltage regulator leads.  If this does not correct the problem, the regulator is probably shorted and should be replaced.",
+      "section_id": "sec_auto_282",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4. Engine Control Service"
+        },
+        {
+          "id": "sec_auto_282",
+          "title": "BATTERY CHARGING CHECK"
+        }
+      ],
+      "page": 21,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -310,7 +656,23 @@
       },
       "content": "[D]",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_287",
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4. Engine Control Service"
+        },
+        {
+          "id": "sec_auto_287",
+          "title": "[D]"
+        }
+      ],
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "page": 21,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -325,7 +687,23 @@
       },
       "content": "START SOLENOID CHECK (K11)",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_288",
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4. Engine Control Service"
+        },
+        {
+          "id": "sec_auto_288",
+          "title": "START SOLENOID CHECK (K11)"
+        }
+      ],
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "page": 21,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -338,7 +716,24 @@
         "r": 564.7796999999998,
         "b": 212.56534920353874
       },
-      "content": "Apply  battery  positive  (B+)  to  the  terminal marked S."
+      "content": "Apply  battery  positive  (B+)  to  the  terminal marked S.",
+      "section_id": "sec_auto_288",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4. Engine Control Service"
+        },
+        {
+          "id": "sec_auto_288",
+          "title": "START SOLENOID CHECK (K11)"
+        }
+      ],
+      "page": 21,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -351,7 +746,24 @@
         "r": 564.8973999999997,
         "b": 177.18934920353877
       },
-      "content": "Connect a ground wire to the solenoid terminal marked I.    The solenoid should activate."
+      "content": "Connect a ground wire to the solenoid terminal marked I.    The solenoid should activate.",
+      "section_id": "sec_auto_288",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4. Engine Control Service"
+        },
+        {
+          "id": "sec_auto_288",
+          "title": "START SOLENOID CHECK (K11)"
+        }
+      ],
+      "page": 21,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -364,7 +776,24 @@
         "r": 564.903999999999,
         "b": 103.88644920353875
       },
-      "content": "If the contacts are good, battery voltage should be read between terminal 1 and ground.  The voltage  drop  measured  across  the  contacts should never exceed one volt in circuit application."
+      "content": "If the contacts are good, battery voltage should be read between terminal 1 and ground.  The voltage  drop  measured  across  the  contacts should never exceed one volt in circuit application.",
+      "section_id": "sec_auto_288",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4. Engine Control Service"
+        },
+        {
+          "id": "sec_auto_288",
+          "title": "START SOLENOID CHECK (K11)"
+        }
+      ],
+      "page": 21,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

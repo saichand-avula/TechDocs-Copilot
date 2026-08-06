@@ -21,7 +21,24 @@
       "next_block_id": "txt_1409",
       "width": 12,
       "height": 11,
-      "image_hash": "683d2dc1914c9a6eeb1a2a5aa54f7e88d3e83c1d0bbccbce94561f080e8f89d9"
+      "image_hash": "683d2dc1914c9a6eeb1a2a5aa54f7e88d3e83c1d0bbccbce94561f080e8f89d9",
+      "section_id": "sec_6_18",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6 Replacing components"
+        },
+        {
+          "id": "sec_6_18",
+          "title": "6.18 Technical Data Summary Sheet"
+        }
+      ],
+      "page": 105,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -35,8 +52,21 @@
         "b": 774.1323086051509
       },
       "content": "7 Circuit boards and diagrams",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "7",
+      "section_id": "sec_7",
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7 Circuit boards and diagrams"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 105,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -51,7 +81,24 @@
       },
       "content": "7.1 IO circuit board",
       "level": 2,
-      "role": "section"
+      "section_number": "7.1",
+      "section_id": "sec_7_1",
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7 Circuit boards and diagrams"
+        },
+        {
+          "id": "sec_7_1",
+          "title": "7.1 IO circuit board"
+        }
+      ],
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "page": 105,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -66,7 +113,23 @@
       },
       "content": "IO LEDs",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1838",
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7 Circuit boards and diagrams"
+        },
+        {
+          "id": "sec_auto_1838",
+          "title": "IO LEDs"
+        }
+      ],
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "page": 105,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -79,7 +142,24 @@
         "r": 339.42299999999994,
         "b": 681.1382344167463
       },
-      "content": " P-Bus - irregular flashing, indicating data communication with UI."
+      "content": " P-Bus - irregular flashing, indicating data communication with UI.",
+      "section_id": "sec_auto_1838",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7 Circuit boards and diagrams"
+        },
+        {
+          "id": "sec_auto_1838",
+          "title": "IO LEDs"
+        }
+      ],
+      "page": 105,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -92,7 +172,24 @@
         "r": 358.62899999999996,
         "b": 668.4212344167463
       },
-      "content": " Run - Pulsing 1 second flash, indicating that the board has booted up."
+      "content": " Run - Pulsing 1 second flash, indicating that the board has booted up.",
+      "section_id": "sec_auto_1838",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7 Circuit boards and diagrams"
+        },
+        {
+          "id": "sec_auto_1838",
+          "title": "IO LEDs"
+        }
+      ],
+      "page": 105,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -105,7 +202,24 @@
         "r": 374.235,
         "b": 655.5782344167463
       },
-      "content": " 12V, 5V & 3.3V - lit to show voltages from SMPS and inboard transformer."
+      "content": " 12V, 5V & 3.3V - lit to show voltages from SMPS and inboard transformer.",
+      "section_id": "sec_auto_1838",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7 Circuit boards and diagrams"
+        },
+        {
+          "id": "sec_auto_1838",
+          "title": "IO LEDs"
+        }
+      ],
+      "page": 105,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -118,7 +232,24 @@
         "r": 414.07800000000003,
         "b": 642.7352344167464
       },
-      "content": " Relay and triac - lit to show that a signal has been sent to energise that component."
+      "content": " Relay and triac - lit to show that a signal has been sent to energise that component.",
+      "section_id": "sec_auto_1838",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7 Circuit boards and diagrams"
+        },
+        {
+          "id": "sec_auto_1838",
+          "title": "IO LEDs"
+        }
+      ],
+      "page": 105,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -131,7 +262,24 @@
         "r": 230.11800000000005,
         "b": 629.8922344167464
       },
-      "content": " Door switches - lit to show door closed."
+      "content": " Door switches - lit to show door closed.",
+      "section_id": "sec_auto_1838",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7 Circuit boards and diagrams"
+        },
+        {
+          "id": "sec_auto_1838",
+          "title": "IO LEDs"
+        }
+      ],
+      "page": 105,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -144,7 +292,24 @@
         "r": 338.29800000000006,
         "b": 617.0492344167465
       },
-      "content": " Overheat thermostats - lit to show portion of closed safety circuit."
+      "content": " Overheat thermostats - lit to show portion of closed safety circuit.",
+      "section_id": "sec_auto_1838",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7 Circuit boards and diagrams"
+        },
+        {
+          "id": "sec_auto_1838",
+          "title": "IO LEDs"
+        }
+      ],
+      "page": 105,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -157,7 +322,24 @@
         "r": 97.40400000000004,
         "b": 601.6862344167464
       },
-      "content": "LED positions ~"
+      "content": "LED positions ~",
+      "section_id": "sec_auto_1838",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7 Circuit boards and diagrams"
+        },
+        {
+          "id": "sec_auto_1838",
+          "title": "IO LEDs"
+        }
+      ],
+      "page": 105,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -174,7 +356,24 @@
       "previous_block_id": "txt_1418",
       "image_hash": "95717f273fe8feba31149ad98d4e7cada8bc576b348d0095e607024cef0a691f",
       "width": 82,
-      "height": 95
+      "height": 95,
+      "section_id": "sec_auto_1838",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7 Circuit boards and diagrams"
+        },
+        {
+          "id": "sec_auto_1838",
+          "title": "IO LEDs"
+        }
+      ],
+      "page": 105,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -191,7 +390,24 @@
       "previous_block_id": "txt_1418",
       "image_hash": "2fed0fbb6e2cad4526cb86badc2ba92222ea8b7d9e3bbbbdc5ef11b4589a3a8c",
       "width": 503,
-      "height": 503
+      "height": 503,
+      "section_id": "sec_auto_1838",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7 Circuit boards and diagrams"
+        },
+        {
+          "id": "sec_auto_1838",
+          "title": "IO LEDs"
+        }
+      ],
+      "page": 105,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

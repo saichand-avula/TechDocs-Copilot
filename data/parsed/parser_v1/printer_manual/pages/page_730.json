@@ -19,7 +19,23 @@
       },
       "content": "Parts and diagrams: Covers (M527/E52545/M528/E52645)",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_7647",
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 Parts and diagrams"
+        },
+        {
+          "id": "sec_auto_7647",
+          "title": "Parts and diagrams: Covers (M527/E52545/M528/E52645)"
+        }
+      ],
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "page": 730,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -32,7 +48,24 @@
         "r": 308.92601999999994,
         "b": 693.7
       },
-      "content": "Parts diagram and parts list for the MFP printer covers."
+      "content": "Parts diagram and parts list for the MFP printer covers.",
+      "section_id": "sec_auto_7647",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 Parts and diagrams"
+        },
+        {
+          "id": "sec_auto_7647",
+          "title": "Parts and diagrams: Covers (M527/E52545/M528/E52645)"
+        }
+      ],
+      "page": 730,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -53,6 +86,24 @@
       "height": 582,
       "previous_block_id": "txt_5545",
       "next_block_id": "txt_5546",
+      "section_id": "sec_auto_7647",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 Parts and diagrams"
+        },
+        {
+          "id": "sec_auto_7647",
+          "title": "Parts and diagrams: Covers (M527/E52545/M528/E52645)"
+        }
+      ],
+      "page": 730,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_2040",
+      "source": "pdf_text",
       "caption_id": "txt_5546"
     },
     {
@@ -67,6 +118,24 @@
         "b": 672.7
       },
       "content": "Figure 2-3  Covers (M527/E52545/M528/E52645)",
+      "section_id": "sec_auto_7647",
+      "parent_section_id": "sec_2",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2 Parts and diagrams"
+        },
+        {
+          "id": "sec_auto_7647",
+          "title": "Parts and diagrams: Covers (M527/E52545/M528/E52645)"
+        }
+      ],
+      "page": 730,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_2040",
+      "source": "pdf_text",
       "caption_for": "fig_2040"
     }
   ],

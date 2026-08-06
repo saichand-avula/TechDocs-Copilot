@@ -21,7 +21,24 @@
       "next_block_id": "txt_0760",
       "image_hash": "7577891dcf1743bd2e7a735ef2621e01244d960bde43e28868c27d7c1437ddb9",
       "width": 47,
-      "height": 23
+      "height": 23,
+      "section_id": "sec_auto_1104",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6       Installation"
+        },
+        {
+          "id": "sec_auto_1104",
+          "title": "Interpretation of the values obtained:"
+        }
+      ],
+      "page": 102,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -36,7 +53,24 @@
       },
       "markdown": "| RSI             | Tendency of the water                               | Action                                                            |\n|-----------------|-----------------------------------------------------|-------------------------------------------------------------------|\n| 7.6 < RSI < 9.0 | Strong corrosion                                    | Regular control necessary, use of corrosion inhibitor recommended |\n| 9.1 <RSI<11     | Very strong corrosion                               | Regular control necessary, use of corrosion inhibitor required    |\n| RSI > 11        | Very strong corrosion in the complete water circuit | Water should not be used                                          |",
       "rows": 4,
-      "cols": 3
+      "cols": 3,
+      "section_id": "sec_auto_1104",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6       Installation"
+        },
+        {
+          "id": "sec_auto_1104",
+          "title": "Interpretation of the values obtained:"
+        }
+      ],
+      "page": 102,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -51,7 +85,23 @@
       },
       "content": "This table indicates that distilled or demineralised water should never be used, as their RSI is >11.",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1113",
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6       Installation"
+        },
+        {
+          "id": "sec_auto_1113",
+          "title": "This table indicates that distilled or demineralised water should never be used, as their RSI is >11."
+        }
+      ],
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "page": 102,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -64,7 +114,24 @@
         "r": 495.30880000000104,
         "b": 558.6648999999999
       },
-      "content": "The RSI is only indicating the equilibrium of scaling - descaling.  A cooling water showing good RSI conditions can still be unsuitable due to other factors."
+      "content": "The RSI is only indicating the equilibrium of scaling - descaling.  A cooling water showing good RSI conditions can still be unsuitable due to other factors.",
+      "section_id": "sec_auto_1113",
+      "parent_section_id": "sec_6",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6       Installation"
+        },
+        {
+          "id": "sec_auto_1113",
+          "title": "This table indicates that distilled or demineralised water should never be used, as their RSI is >11."
+        }
+      ],
+      "page": 102,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -78,8 +145,21 @@
         "b": 545.7651999999998
       },
       "content": "2. pH",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "2",
+      "section_id": "sec_2",
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2. pH"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 102,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -92,7 +172,20 @@
         "r": 536.5950999999985,
         "b": 519.9657999999997
       },
-      "content": "The effect of pH is already included in the Rysnar index, but the pH itself has some additional limitations: For GA units, the pH should be >6.8."
+      "content": "The effect of pH is already included in the Rysnar index, but the pH itself has some additional limitations: For GA units, the pH should be >6.8.",
+      "section_id": "sec_2",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_2",
+          "title": "2. pH"
+        }
+      ],
+      "page": 102,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -106,8 +199,21 @@
         "b": 507.0660999999997
       },
       "content": "3. Total dissolved solids (TDS)",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "3",
+      "section_id": "sec_3",
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3. Total dissolved solids (TDS)"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 102,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -120,7 +226,20 @@
         "r": 513.3268000000014,
         "b": 468.36699999999973
       },
-      "content": "This is the sum of all ions in the water. It can be derived from the dry residue after evaporation (but not including suspended solids), or it can be estimated from the electrical conductivity. In a closed system, the limit is described by:"
+      "content": "This is the sum of all ions in the water. It can be derived from the dry residue after evaporation (but not including suspended solids), or it can be estimated from the electrical conductivity. In a closed system, the limit is described by:",
+      "section_id": "sec_3",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3. Total dissolved solids (TDS)"
+        }
+      ],
+      "page": 102,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -133,7 +252,20 @@
         "r": 158.53720000000004,
         "b": 455.46729999999974
       },
-      "content": "TDS < 3000 mg/l"
+      "content": "TDS < 3000 mg/l",
+      "section_id": "sec_3",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3. Total dissolved solids (TDS)"
+        }
+      ],
+      "page": 102,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -146,7 +278,20 @@
         "r": 235.82650000000007,
         "b": 442.56759999999974
       },
-      "content": "In an open system, TDS < 450 mg/l"
+      "content": "In an open system, TDS < 450 mg/l",
+      "section_id": "sec_3",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3. Total dissolved solids (TDS)"
+        }
+      ],
+      "page": 102,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -160,8 +305,21 @@
         "b": 428.4677999999997
       },
       "content": "4. Chlorides (Cl-)",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "4",
+      "section_id": "sec_4",
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4. Chlorides (Cl-)"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 102,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -174,7 +332,20 @@
         "r": 510.28749999999945,
         "b": 402.06779999999975
       },
-      "content": "Chloride ions will create pitting corrosion on stainless steel. Their concentration should be limited: Closed cooling system: Chlorides < 500 ppm"
+      "content": "Chloride ions will create pitting corrosion on stainless steel. Their concentration should be limited: Closed cooling system: Chlorides < 500 ppm",
+      "section_id": "sec_4",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4. Chlorides (Cl-)"
+        }
+      ],
+      "page": 102,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -187,7 +358,20 @@
         "r": 271.0309000000001,
         "b": 388.86779999999976
       },
-      "content": "Open cooling system: Chlorides < 150 ppm"
+      "content": "Open cooling system: Chlorides < 150 ppm",
+      "section_id": "sec_4",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4. Chlorides (Cl-)"
+        }
+      ],
+      "page": 102,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -200,7 +384,20 @@
         "r": 525.3409999999988,
         "b": 375.6677999999998
       },
-      "content": "However, if the water is scaling, lower limits should be used. (See The Rysnar stability index (RSI))."
+      "content": "However, if the water is scaling, lower limits should be used. (See The Rysnar stability index (RSI)).",
+      "section_id": "sec_4",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4. Chlorides (Cl-)"
+        }
+      ],
+      "page": 102,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -214,8 +411,21 @@
         "b": 359.7976
       },
       "content": "5. Free chlorine (Cl 2 )",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "5",
+      "section_id": "sec_5",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5. Free chlorine (Cl 2 )"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 102,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -228,7 +438,20 @@
         "r": 525.3395999999989,
         "b": 335.1037
       },
-      "content": "Continuously, a level of 0.5 ppm should not be exceeded. For shock treatments, a maximum limit of 2 ppm for maximum 30 minutes/day applies."
+      "content": "Continuously, a level of 0.5 ppm should not be exceeded. For shock treatments, a maximum limit of 2 ppm for maximum 30 minutes/day applies.",
+      "section_id": "sec_5",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5. Free chlorine (Cl 2 )"
+        }
+      ],
+      "page": 102,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -242,8 +465,21 @@
         "b": 320.884
       },
       "content": "6. Sulphates (SO4-)",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "6",
+      "section_id": "sec_6",
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6. Sulphates (SO4-)"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 102,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -256,7 +492,20 @@
         "r": 460.0600999999994,
         "b": 307.68399999999997
       },
-      "content": "Closed cooling system: Sulphates < 400 ppm Open cooling system: Sulphates < 150 ppm"
+      "content": "Closed cooling system: Sulphates < 400 ppm Open cooling system: Sulphates < 150 ppm",
+      "section_id": "sec_6",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_6",
+          "title": "6. Sulphates (SO4-)"
+        }
+      ],
+      "page": 102,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -270,8 +519,21 @@
         "b": 293.70410000000004
       },
       "content": "7. Carbonate hardness",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "7",
+      "section_id": "sec_7",
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. Carbonate hardness"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 102,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -284,7 +546,20 @@
         "r": 511.74983999999995,
         "b": 264.904
       },
-      "content": "Closed cooling system: 50-1000 ppm CaCO 3 Open cooling system: 50-500 ppm CaCO 3 HCO3 -  / SO4 2should be > 1"
+      "content": "Closed cooling system: 50-1000 ppm CaCO 3 Open cooling system: 50-500 ppm CaCO 3 HCO3 -  / SO4 2should be > 1",
+      "section_id": "sec_7",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7. Carbonate hardness"
+        }
+      ],
+      "page": 102,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -298,8 +573,21 @@
         "b": 251.4642
       },
       "content": "8. Ammonia",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "8",
+      "section_id": "sec_8",
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8. Ammonia"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 102,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -312,7 +600,20 @@
         "r": 124.81010000000003,
         "b": 238.56449999999995
       },
-      "content": "< 0.5 ppm"
+      "content": "< 0.5 ppm",
+      "section_id": "sec_8",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_8",
+          "title": "8. Ammonia"
+        }
+      ],
+      "page": 102,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -326,8 +627,21 @@
         "b": 225.6648
       },
       "content": "9. Copper",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "9",
+      "section_id": "sec_9",
+      "section_path": [
+        {
+          "id": "sec_9",
+          "title": "9. Copper"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 102,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -340,7 +654,20 @@
         "r": 124.81010000000003,
         "b": 212.76509999999996
       },
-      "content": "< 0.5 ppm"
+      "content": "< 0.5 ppm",
+      "section_id": "sec_9",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_9",
+          "title": "9. Copper"
+        }
+      ],
+      "page": 102,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -354,8 +681,21 @@
         "b": 199.68499999999995
       },
       "content": "10. Iron and Manganese",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "10",
+      "section_id": "sec_10",
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. Iron and Manganese"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 102,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -368,7 +708,20 @@
         "r": 144.25039999999996,
         "b": 186.66539999999998
       },
-      "content": "Iron < 0.2 ppm"
+      "content": "Iron < 0.2 ppm",
+      "section_id": "sec_10",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. Iron and Manganese"
+        }
+      ],
+      "page": 102,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -381,7 +734,20 @@
         "r": 176.53980000000007,
         "b": 173.76570000000004
       },
-      "content": "Manganese < 0.1 ppm"
+      "content": "Manganese < 0.1 ppm",
+      "section_id": "sec_10",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_10",
+          "title": "10. Iron and Manganese"
+        }
+      ],
+      "page": 102,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -395,8 +761,21 @@
         "b": 160.68560000000002
       },
       "content": "11. Organics",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "11",
+      "section_id": "sec_11",
+      "section_path": [
+        {
+          "id": "sec_11",
+          "title": "11. Organics"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 102,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -409,7 +788,20 @@
         "r": 123.25690000000002,
         "b": 147.66600000000005
       },
-      "content": "No algae."
+      "content": "No algae.",
+      "section_id": "sec_11",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_11",
+          "title": "11. Organics"
+        }
+      ],
+      "page": 102,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -422,7 +814,20 @@
         "r": 109.75000000000006,
         "b": 134.7663
       },
-      "content": "No oil."
+      "content": "No oil.",
+      "section_id": "sec_11",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_11",
+          "title": "11. Organics"
+        }
+      ],
+      "page": 102,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -436,8 +841,21 @@
         "b": 121.68619999999999
       },
       "content": "12. Suspended solids",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "12",
+      "section_id": "sec_12",
+      "section_path": [
+        {
+          "id": "sec_12",
+          "title": "12. Suspended solids"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 102,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -450,7 +868,20 @@
         "r": 225.27970000000022,
         "b": 108.66660000000002
       },
-      "content": "Non-soluble particles, size < 1mm:"
+      "content": "Non-soluble particles, size < 1mm:",
+      "section_id": "sec_12",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_12",
+          "title": "12. Suspended solids"
+        }
+      ],
+      "page": 102,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -463,7 +894,20 @@
         "r": 122.59359999999998,
         "b": 95.76690000000008
       },
-      "content": "< 10 ppm"
+      "content": "< 10 ppm",
+      "section_id": "sec_12",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_12",
+          "title": "12. Suspended solids"
+        }
+      ],
+      "page": 102,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -477,8 +921,21 @@
         "b": 82.86720000000003
       },
       "content": "13. Oxygen",
-      "level": 2,
-      "role": "section"
+      "level": 1,
+      "section_number": "13",
+      "section_id": "sec_13",
+      "section_path": [
+        {
+          "id": "sec_13",
+          "title": "13. Oxygen"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 1,
+      "page": 102,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -491,7 +948,20 @@
         "r": 124.75400000000002,
         "b": 69.96750000000009
       },
-      "content": "< 0.2 ppm"
+      "content": "< 0.2 ppm",
+      "section_id": "sec_13",
+      "parent_section_id": null,
+      "section_level": 1,
+      "section_path": [
+        {
+          "id": "sec_13",
+          "title": "13. Oxygen"
+        }
+      ],
+      "page": 102,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

@@ -18,11 +18,33 @@
         "b": 623.6980624620121
       },
       "markdown": "Table 4-4\n\n| LED No.        | REC   | INV                 | OUTPUT   | BAT   | BYP   | STATUS   |\n|----------------|-------|---------------------|----------|-------|-------|----------|\n| Display status | Green | Green light flashes | Green    | Off   | Green | Green    |",
-      "caption_id": "txt_0406",
       "title": "Table 4-4",
       "table_number": "Table 4-4",
       "rows": 2,
-      "cols": 7
+      "cols": 7,
+      "section_id": "sec_4_2_1",
+      "parent_section_id": "sec_4_2",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        },
+        {
+          "id": "sec_4_2",
+          "title": "4.2 ECO Mode"
+        },
+        {
+          "id": "sec_4_2_1",
+          "title": "4.2.1 Start ECO Mode"
+        }
+      ],
+      "page": 47,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "group_id": "grp_tbl_0017",
+      "source": "pdf_text",
+      "caption_id": "txt_0406"
     },
     {
       "type": "caption",
@@ -36,6 +58,28 @@
         "b": 668.5161013631949
       },
       "content": "Table 4-4",
+      "section_id": "sec_4_2_1",
+      "parent_section_id": "sec_4_2",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        },
+        {
+          "id": "sec_4_2",
+          "title": "4.2 ECO Mode"
+        },
+        {
+          "id": "sec_4_2_1",
+          "title": "4.2.1 Start ECO Mode"
+        }
+      ],
+      "page": 47,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_tbl_0017",
+      "source": "pdf_text",
       "caption_for": "tbl_0017"
     },
     {
@@ -50,8 +94,29 @@
         "b": 582.1128447886093
       },
       "content": "4.2.2 Shut Down ECO Mode",
-      "level": 2,
-      "role": "section"
+      "level": 3,
+      "section_number": "4.2.2",
+      "section_id": "sec_4_2_2",
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        },
+        {
+          "id": "sec_4_2",
+          "title": "4.2 ECO Mode"
+        },
+        {
+          "id": "sec_4_2_2",
+          "title": "4.2.2 Shut Down ECO Mode"
+        }
+      ],
+      "parent_section_id": "sec_4_2",
+      "section_level": 3,
+      "page": 47,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -69,7 +134,28 @@
       "next_block_id": "txt_0408",
       "width": 26,
       "height": 22,
-      "image_hash": "627edd8d7c90f03f96f535d4ba3e7b55e6b2ec6e3c357706b48ec49c845d01b4"
+      "image_hash": "627edd8d7c90f03f96f535d4ba3e7b55e6b2ec6e3c357706b48ec49c845d01b4",
+      "section_id": "sec_4_2_2",
+      "parent_section_id": "sec_4_2",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        },
+        {
+          "id": "sec_4_2",
+          "title": "4.2 ECO Mode"
+        },
+        {
+          "id": "sec_4_2_2",
+          "title": "4.2.2 Shut Down ECO Mode"
+        }
+      ],
+      "page": 47,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -82,7 +168,28 @@
         "r": 541.61088,
         "b": 491.126101363195
       },
-      "content": "Click set icon ' ' in main interface and menu of 'advanced setting' (enter right password), and click to enter 'mode setting', select 'UPS mode' and then press 'YES'. Here, the 'UPS mode' is not effective, please make the UPS power down, and then power up, then the configured 'ECO mode' become effective. Operate according to normal startup steps, the UPS will work in UPS mode."
+      "content": "Click set icon ' ' in main interface and menu of 'advanced setting' (enter right password), and click to enter 'mode setting', select 'UPS mode' and then press 'YES'. Here, the 'UPS mode' is not effective, please make the UPS power down, and then power up, then the configured 'ECO mode' become effective. Operate according to normal startup steps, the UPS will work in UPS mode.",
+      "section_id": "sec_4_2_2",
+      "parent_section_id": "sec_4_2",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        },
+        {
+          "id": "sec_4_2",
+          "title": "4.2 ECO Mode"
+        },
+        {
+          "id": "sec_4_2_2",
+          "title": "4.2.2 Shut Down ECO Mode"
+        }
+      ],
+      "page": 47,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -97,7 +204,24 @@
       },
       "content": "4.3 Manual Bypass",
       "level": 2,
-      "role": "section"
+      "section_number": "4.3",
+      "section_id": "sec_4_3",
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        },
+        {
+          "id": "sec_4_3",
+          "title": "4.3 Manual Bypass"
+        }
+      ],
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "page": 47,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -110,7 +234,24 @@
         "r": 541.4814399999999,
         "b": 370.506101363195
       },
-      "content": "If you need to manually switch the inverter power supply to the bypass power supply, you can use the  manual bypass enable function. Manual bypass can be set at any time, and it has memory function (that is, manual bypass mode only needs to be set once, after taking effect, UPS will keep working in manual bypass mode, even if the UPS is self-starting)."
+      "content": "If you need to manually switch the inverter power supply to the bypass power supply, you can use the  manual bypass enable function. Manual bypass can be set at any time, and it has memory function (that is, manual bypass mode only needs to be set once, after taking effect, UPS will keep working in manual bypass mode, even if the UPS is self-starting).",
+      "section_id": "sec_4_3",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        },
+        {
+          "id": "sec_4_3",
+          "title": "4.3 Manual Bypass"
+        }
+      ],
+      "page": 47,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -128,7 +269,24 @@
       "next_block_id": "txt_0411",
       "width": 29,
       "height": 24,
-      "image_hash": "635cc767ac71e9d9b750583913a8b44c5bd288d34b164d417c8f6164d3ee85e1"
+      "image_hash": "635cc767ac71e9d9b750583913a8b44c5bd288d34b164d417c8f6164d3ee85e1",
+      "section_id": "sec_4_3",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        },
+        {
+          "id": "sec_4_3",
+          "title": "4.3 Manual Bypass"
+        }
+      ],
+      "page": 47,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -141,7 +299,24 @@
         "r": 541.5063999999999,
         "b": 261.306101363195
       },
-      "content": "Operation  steps  are  as  follows:  click  set  icon  ' '  in  main  interface  and  menu  of  'advanced setting' (enter right password), then click to enter 'mode setting', and then press 'YES' to enter the current mode. Click to enter 'basic parameter' setting, and press 'Manual Byp', select 'ON', and then press 'YES'. Here, the output is switched to bypass power supply, it will display 'Manual Byp On' in left bottom corner of LCD display screen. It can be set as 'OFF' if needs to switch off the manual bypass."
+      "content": "Operation  steps  are  as  follows:  click  set  icon  ' '  in  main  interface  and  menu  of  'advanced setting' (enter right password), then click to enter 'mode setting', and then press 'YES' to enter the current mode. Click to enter 'basic parameter' setting, and press 'Manual Byp', select 'ON', and then press 'YES'. Here, the output is switched to bypass power supply, it will display 'Manual Byp On' in left bottom corner of LCD display screen. It can be set as 'OFF' if needs to switch off the manual bypass.",
+      "section_id": "sec_4_3",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        },
+        {
+          "id": "sec_4_3",
+          "title": "4.3 Manual Bypass"
+        }
+      ],
+      "page": 47,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -159,7 +334,24 @@
       "next_block_id": "txt_0412",
       "width": 20,
       "height": 19,
-      "image_hash": "d63db923deec7cdd934a8d95297aa956ef5e061f45787e18548340e372deed82"
+      "image_hash": "d63db923deec7cdd934a8d95297aa956ef5e061f45787e18548340e372deed82",
+      "section_id": "sec_4_3",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        },
+        {
+          "id": "sec_4_3",
+          "title": "4.3 Manual Bypass"
+        }
+      ],
+      "page": 47,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "admonition",
@@ -173,7 +365,24 @@
         "b": 214.47610136319497
       },
       "content": "Note:  When  UPS  is  in  bypass  mode,  the  load  cannot  be  protected  by  UPS  if  voltage  and frequency are fluctuated or power is failure.",
-      "severity": "note"
+      "severity": "note",
+      "section_id": "sec_4_3",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        },
+        {
+          "id": "sec_4_3",
+          "title": "4.3 Manual Bypass"
+        }
+      ],
+      "page": 47,
+      "chunk_hint": "admonition",
+      "semantic_role": "note",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -188,7 +397,24 @@
       },
       "content": "4.4 Maintenance Bypass",
       "level": 2,
-      "role": "section"
+      "section_number": "4.4",
+      "section_id": "sec_4_4",
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        },
+        {
+          "id": "sec_4_4",
+          "title": "4.4 Maintenance Bypass"
+        }
+      ],
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "page": 47,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -206,7 +432,24 @@
       "next_block_id": "txt_0414",
       "width": 20,
       "height": 20,
-      "image_hash": "d106ab83e0329a57a1cddcf2533525943032038df98effc36a1086d149ac83ab"
+      "image_hash": "d106ab83e0329a57a1cddcf2533525943032038df98effc36a1086d149ac83ab",
+      "section_id": "sec_4_4",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        },
+        {
+          "id": "sec_4_4",
+          "title": "4.4 Maintenance Bypass"
+        }
+      ],
+      "page": 47,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "admonition",
@@ -220,7 +463,24 @@
         "b": 93.88010136319497
       },
       "content": "Note: Please read the warning information in Chapter 1 and operate the maintenance bypass carefully, otherwise it may damage the UPS or cause power down of the load and even endanger personal safety.",
-      "severity": "note"
+      "severity": "note",
+      "section_id": "sec_4_4",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        },
+        {
+          "id": "sec_4_4",
+          "title": "4.4 Maintenance Bypass"
+        }
+      ],
+      "page": 47,
+      "chunk_hint": "admonition",
+      "semantic_role": "note",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

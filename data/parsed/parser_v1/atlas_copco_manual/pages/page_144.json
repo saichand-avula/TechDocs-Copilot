@@ -21,7 +21,24 @@
       "next_block_id": "txt_1046",
       "image_hash": "7577891dcf1743bd2e7a735ef2621e01244d960bde43e28868c27d7c1437ddb9",
       "width": 47,
-      "height": 23
+      "height": 23,
+      "section_id": "sec_auto_1514",
+      "parent_section_id": "sec_11",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_11",
+          "title": "11     Technical data"
+        },
+        {
+          "id": "sec_auto_1514",
+          "title": "GA 75"
+        }
+      ],
+      "page": 144,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -36,7 +53,24 @@
       },
       "content": "11.8  Technical data Elektronikon® controller",
       "level": 2,
-      "role": "section"
+      "section_number": "11.8",
+      "section_id": "sec_11_8",
+      "section_path": [
+        {
+          "id": "sec_11",
+          "title": "11     Technical data"
+        },
+        {
+          "id": "sec_11_8",
+          "title": "11.8  Technical data Elektronikon® controller"
+        }
+      ],
+      "parent_section_id": "sec_11",
+      "section_level": 2,
+      "page": 144,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -51,7 +85,23 @@
       },
       "content": "General",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1524",
+      "section_path": [
+        {
+          "id": "sec_11",
+          "title": "11     Technical data"
+        },
+        {
+          "id": "sec_auto_1524",
+          "title": "General"
+        }
+      ],
+      "parent_section_id": "sec_11",
+      "section_level": 2,
+      "page": 144,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -66,7 +116,24 @@
       },
       "markdown": "| Parameter                          | Value                                            |\n|------------------------------------|--------------------------------------------------|\n| Supply voltage                     | 24 V AC /16 VA 50/60Hz (+40%/-30%) 24 V DC/0.7 A |\n| Type of protection                 | IP54 (front) IP21 (back)                         |\n| Ambient and temperature conditions | IEC60068-2                                       |\n| Temperature range                  |                                                  |\n| Operating                          | -10°C…..+60°C                                    |\n| Storage                            | -30°C…..+70°C                                    |\n| Permissible humidity               | Relative humidity 90% No condensation            |\n| Noise emission                     | IEC61000-6-3                                     |\n| Noise immunity                     | IEC61000-6-2                                     |\n| Mounting                           | Cabinet door                                     |",
       "rows": 11,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_auto_1524",
+      "parent_section_id": "sec_11",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_11",
+          "title": "11     Technical data"
+        },
+        {
+          "id": "sec_auto_1524",
+          "title": "General"
+        }
+      ],
+      "page": 144,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -81,7 +148,23 @@
       },
       "content": "Digital outputs",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1526",
+      "section_path": [
+        {
+          "id": "sec_11",
+          "title": "11     Technical data"
+        },
+        {
+          "id": "sec_auto_1526",
+          "title": "Digital outputs"
+        }
+      ],
+      "parent_section_id": "sec_11",
+      "section_level": 2,
+      "page": 144,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -96,7 +179,24 @@
       },
       "markdown": "| Parameter         | Value                                                                    |\n|-------------------|--------------------------------------------------------------------------|\n| Number of outputs | 9 (Elektronikon® Graphic controller-p.n. 1900 5200 10..... 1900 5200 19) |\n| Type              | Relay (voltage free contacts)                                            |\n| Rated voltage AC  | 250 V AC /10 A max.                                                      |\n| Rated voltage DC  | 30 V DC /10 A max.                                                       |",
       "rows": 5,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_auto_1526",
+      "parent_section_id": "sec_11",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_11",
+          "title": "11     Technical data"
+        },
+        {
+          "id": "sec_auto_1526",
+          "title": "Digital outputs"
+        }
+      ],
+      "page": 144,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -111,7 +211,23 @@
       },
       "content": "Digital inputs",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1528",
+      "section_path": [
+        {
+          "id": "sec_11",
+          "title": "11     Technical data"
+        },
+        {
+          "id": "sec_auto_1528",
+          "title": "Digital inputs"
+        }
+      ],
+      "parent_section_id": "sec_11",
+      "section_level": 2,
+      "page": 144,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -126,7 +242,24 @@
       },
       "markdown": "| Parameter            | Value                                                                      |\n|----------------------|----------------------------------------------------------------------------|\n| Number of inputs     | 10 (Elektronikon® Graphic controller- p.n. 1900 5200 10 .... 1900 5200 19) |\n| Supply by controller | 24 VDC                                                                     |\n| Supply protection    | Short circuit protected to ground                                          |\n| Input protection     | Not isolated                                                               |",
       "rows": 5,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_auto_1528",
+      "parent_section_id": "sec_11",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_11",
+          "title": "11     Technical data"
+        },
+        {
+          "id": "sec_auto_1528",
+          "title": "Digital inputs"
+        }
+      ],
+      "page": 144,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -141,7 +274,23 @@
       },
       "content": "Analog inputs",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1530",
+      "section_path": [
+        {
+          "id": "sec_11",
+          "title": "11     Technical data"
+        },
+        {
+          "id": "sec_auto_1530",
+          "title": "Analog inputs"
+        }
+      ],
+      "parent_section_id": "sec_11",
+      "section_level": 2,
+      "page": 144,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -156,7 +305,24 @@
       },
       "markdown": "| Parameter          | Value                                                                   |\n|--------------------|-------------------------------------------------------------------------|\n| Pressure inputs    | 2 (Elektronikon® Graphic controller-p.n. 1900 520010 .... 1900 5200 19) |\n| Temperature inputs | 5 (Elektronikon® Graphic controller-p.n. 1900 520010 .... 1900 5200 19) |",
       "rows": 3,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_auto_1530",
+      "parent_section_id": "sec_11",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_11",
+          "title": "11     Technical data"
+        },
+        {
+          "id": "sec_auto_1530",
+          "title": "Analog inputs"
+        }
+      ],
+      "page": 144,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

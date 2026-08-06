@@ -22,7 +22,24 @@
       "width": 47,
       "height": 23,
       "decorative": true,
-      "image_hash": "7577891dcf1743bd2e7a735ef2621e01244d960bde43e28868c27d7c1437ddb9"
+      "image_hash": "7577891dcf1743bd2e7a735ef2621e01244d960bde43e28868c27d7c1437ddb9",
+      "section_id": "sec_auto_1211",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7       Operating instructions"
+        },
+        {
+          "id": "sec_auto_1211",
+          "title": "Remarks"
+        }
+      ],
+      "page": 110,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -37,7 +54,23 @@
       },
       "content": "Procedure",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1215",
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7       Operating instructions"
+        },
+        {
+          "id": "sec_auto_1215",
+          "title": "Procedure"
+        }
+      ],
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "page": 110,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -53,11 +86,29 @@
       "image_path": "figures/figure_0286.png",
       "previous_block_id": "txt_0840",
       "next_block_id": "txt_0841",
-      "caption_id": "txt_0841",
       "caption": "Location of Unloader 56756F",
       "image_hash": "5fcf02eef77438b0915516e05ec5b7c103941e89f13ecfa485f6347a4ed7be9f",
       "width": 254,
-      "height": 197
+      "height": 197,
+      "section_id": "sec_auto_1215",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7       Operating instructions"
+        },
+        {
+          "id": "sec_auto_1215",
+          "title": "Procedure"
+        }
+      ],
+      "page": 110,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0286",
+      "source": "pdf_text",
+      "caption_id": "txt_0841"
     },
     {
       "type": "caption",
@@ -71,6 +122,24 @@
         "b": 522.52
       },
       "content": "Location of Unloader 56756F",
+      "section_id": "sec_auto_1215",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7       Operating instructions"
+        },
+        {
+          "id": "sec_auto_1215",
+          "title": "Procedure"
+        }
+      ],
+      "page": 110,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0286",
+      "source": "pdf_text",
       "caption_for": "fig_0286"
     },
     {
@@ -86,7 +155,24 @@
       },
       "markdown": "| -   | See section Initial start-up for location of the oil system components. Check oil level (Gl), top up if necessary. The pointer should be in the upper field of the green range or in the orange range. If the pointer registers in the LOW range, depressurize the oil system (see section Problem solving). Wait until the compressor has depressurized. Unscrew oil filler plug (FC) only one turn to permit any pressure in the system to escape. Remove the filler cap and add oil until the level reaches the filler neck. Tighten the plug.   |\n|-----|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| -   | If necessary, empty the dust trap of the filter, see section Air filter.                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |\n| -   | If the red part of the air filter service indicator shows full out, replace the air filter element. Reset the service indicator (VI) by pushing the knob in the extremity of the body and reset the service warning. On compressors equipped with an Elektronikon® Graphic controller, see section Service menu.                                                                                                                                                                                                                                    |\n| -   | On water-cooled compressors, also: Check that the cooling water drain valves in the inlet and outlet pipes are closed. Open the cooling water inlet valve. Open the water flow regulating valve. This step can be skipped if, after previous operation, the setting of this valve has not been changed.                                                                                                                                                                                                                                             |",
       "rows": 4,
-      "cols": 2
+      "cols": 2,
+      "section_id": "sec_auto_1215",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7       Operating instructions"
+        },
+        {
+          "id": "sec_auto_1215",
+          "title": "Procedure"
+        }
+      ],
+      "page": 110,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -101,7 +187,24 @@
       },
       "content": "7.4    Starting",
       "level": 2,
-      "role": "section"
+      "section_number": "7.4",
+      "section_id": "sec_7_4",
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7       Operating instructions"
+        },
+        {
+          "id": "sec_7_4",
+          "title": "7.4    Starting"
+        }
+      ],
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "page": 110,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -116,7 +219,23 @@
       },
       "content": "Procedure",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_1220",
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7       Operating instructions"
+        },
+        {
+          "id": "sec_auto_1220",
+          "title": "Procedure"
+        }
+      ],
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "page": 110,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -134,7 +253,24 @@
       "next_block_id": "txt_0844",
       "width": 22,
       "height": 25,
-      "image_hash": "c6fda171c3303c3a65640be73fae10e2ec3d16ebc1a9f02c6d85b4d3b5302a3a"
+      "image_hash": "c6fda171c3303c3a65640be73fae10e2ec3d16ebc1a9f02c6d85b4d3b5302a3a",
+      "section_id": "sec_auto_1220",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7       Operating instructions"
+        },
+        {
+          "id": "sec_auto_1220",
+          "title": "Procedure"
+        }
+      ],
+      "page": 110,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -147,7 +283,24 @@
         "r": 505.04034798000043,
         "b": 152.42921679999995
       },
-      "content": "For the position of the air outlet valve and the drain connections, see sections Introduction and Condensate system"
+      "content": "For the position of the air outlet valve and the drain connections, see sections Introduction and Condensate system",
+      "section_id": "sec_auto_1220",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7       Operating instructions"
+        },
+        {
+          "id": "sec_auto_1220",
+          "title": "Procedure"
+        }
+      ],
+      "page": 110,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

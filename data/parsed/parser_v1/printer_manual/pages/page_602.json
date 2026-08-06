@@ -19,7 +19,23 @@
       },
       "content": "Post service test",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_6327",
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5. Remove the HVPS."
+        },
+        {
+          "id": "sec_auto_6327",
+          "title": "Post service test"
+        }
+      ],
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "page": 602,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -32,7 +48,24 @@
         "r": 302.99999999999994,
         "b": 701.7
       },
-      "content": "Make sure that the printer initializes to a Ready state."
+      "content": "Make sure that the printer initializes to a Ready state.",
+      "section_id": "sec_auto_6327",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5. Remove the HVPS."
+        },
+        {
+          "id": "sec_auto_6327",
+          "title": "Post service test"
+        }
+      ],
+      "page": 602,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -45,7 +78,24 @@
         "r": 364.2600000000001,
         "b": 680.7
       },
-      "content": "Remove the control panel (M506x/E50045x/M507x/E50145x)."
+      "content": "Remove the control panel (M506x/E50045x/M507x/E50145x).",
+      "section_id": "sec_auto_6327",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5. Remove the HVPS."
+        },
+        {
+          "id": "sec_auto_6327",
+          "title": "Post service test"
+        }
+      ],
+      "page": 602,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -58,7 +108,24 @@
         "r": 325.42997999999994,
         "b": 659.7
       },
-      "content": "Tilt the control panel to the fully raised position."
+      "content": "Tilt the control panel to the fully raised position.",
+      "section_id": "sec_auto_6327",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5. Remove the HVPS."
+        },
+        {
+          "id": "sec_auto_6327",
+          "title": "Post service test"
+        }
+      ],
+      "page": 602,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -79,6 +146,24 @@
       "height": 258,
       "previous_block_id": "txt_4578",
       "next_block_id": "txt_4579",
+      "section_id": "sec_auto_6327",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5. Remove the HVPS."
+        },
+        {
+          "id": "sec_auto_6327",
+          "title": "Post service test"
+        }
+      ],
+      "page": 602,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_1709",
+      "source": "pdf_text",
       "caption_id": "txt_4579"
     },
     {
@@ -93,6 +178,24 @@
         "b": 638.7
       },
       "content": "Figure 1-997  Tilt the control panel up",
+      "section_id": "sec_auto_6327",
+      "parent_section_id": "sec_5",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_5",
+          "title": "5. Remove the HVPS."
+        },
+        {
+          "id": "sec_auto_6327",
+          "title": "Post service test"
+        }
+      ],
+      "page": 602,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_1709",
+      "source": "pdf_text",
       "caption_for": "fig_1709"
     }
   ],

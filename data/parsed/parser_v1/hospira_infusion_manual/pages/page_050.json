@@ -18,8 +18,25 @@
         "b": 726.9695302479339
       },
       "content": "4.3.2",
-      "level": 2,
-      "role": "section"
+      "level": 3,
+      "section_number": "4.3.2",
+      "section_id": "sec_4_3_2",
+      "section_path": [
+        {
+          "id": "sec_4_3",
+          "title": "4.3 PRINTED WIRING ASSEMBLIES"
+        },
+        {
+          "id": "sec_4_3_2",
+          "title": "4.3.2"
+        }
+      ],
+      "parent_section_id": "sec_4_3",
+      "section_level": 3,
+      "page": 50,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -34,7 +51,19 @@
       },
       "content": "PERIPHERAL PWA",
       "level": 2,
-      "role": "section"
+      "section_id": "sec_auto_457",
+      "section_path": [
+        {
+          "id": "sec_auto_457",
+          "title": "PERIPHERAL PWA"
+        }
+      ],
+      "parent_section_id": null,
+      "section_level": 2,
+      "page": 50,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -48,7 +77,20 @@
         "b": 650.207884784033
       },
       "content": "The  peripheral  PWA (see  Figure  9-11) contains  part  of  the  CPU  subsystem  circuitry, including system program and data memories (PROM and SRAM), external communication interface circuits, and rear instrument user controls. The peripheral PWA is designed to be field replaceable, to facilitate software upgrades or additional external interfaces.",
-      "hyperlink_hint": true
+      "hyperlink_hint": true,
+      "section_id": "sec_auto_457",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_457",
+          "title": "PERIPHERAL PWA"
+        }
+      ],
+      "page": 50,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -61,7 +103,20 @@
         "r": 504.08953622440015,
         "b": 602.2085049919331
       },
-      "content": "The peripheral PWA is a four layer board, including one ground plane, one power plane, and two signal layers. In its initial configuration, all of the components are mounted on the top side."
+      "content": "The peripheral PWA is a four layer board, including one ground plane, one power plane, and two signal layers. In its initial configuration, all of the components are mounted on the top side.",
+      "section_id": "sec_auto_457",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_457",
+          "title": "PERIPHERAL PWA"
+        }
+      ],
+      "page": 50,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -74,7 +129,20 @@
         "r": 503.9504944847999,
         "b": 566.2089452478331
       },
-      "content": "See Section 4.2.1 for  a  functional  description,  and  see Table  4-6 for  peripheral  PWA interface connections."
+      "content": "See Section 4.2.1 for  a  functional  description,  and  see Table  4-6 for  peripheral  PWA interface connections.",
+      "section_id": "sec_auto_457",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_457",
+          "title": "PERIPHERAL PWA"
+        }
+      ],
+      "page": 50,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -89,7 +157,20 @@
       },
       "markdown": "| Table 4-6. Peripheral PWA Interface Connections   | Table 4-6. Peripheral PWA Interface Connections   | Table 4-6. Peripheral PWA Interface Connections   |\n|---------------------------------------------------|---------------------------------------------------|---------------------------------------------------|\n| Connector                                         | Type                                              | Interface                                         |\n| P1                                                | 96 pin receptacle                                 | Board-to-board connection to CPU PWA              |\n| J26                                               | 15 pin D-sub                                      | DataPort                                          |\n| J28                                               | 3 pin phone jack                                  | Nurse call jack                                   |",
       "rows": 5,
-      "cols": 3
+      "cols": 3,
+      "section_id": "sec_auto_457",
+      "parent_section_id": null,
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_auto_457",
+          "title": "PERIPHERAL PWA"
+        }
+      ],
+      "page": 50,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -103,8 +184,25 @@
         "b": 391.94292588772726
       },
       "content": "4.3.3 CPU PWA",
-      "level": 2,
-      "role": "section"
+      "level": 3,
+      "section_number": "4.3.3",
+      "section_id": "sec_4_3_3",
+      "section_path": [
+        {
+          "id": "sec_auto_457",
+          "title": "PERIPHERAL PWA"
+        },
+        {
+          "id": "sec_4_3_3",
+          "title": "4.3.3 CPU PWA"
+        }
+      ],
+      "parent_section_id": "sec_auto_457",
+      "section_level": 3,
+      "page": 50,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -118,7 +216,24 @@
         "b": 344.9276748320328
       },
       "content": "The CPU PWA (see Figure 9-12) contains most of the CPU subsystem functions, with the exception of main memory and communications ports, which are located on the peripheral PWA. The CPU PWA also accommodates system interconnect.",
-      "hyperlink_hint": true
+      "hyperlink_hint": true,
+      "section_id": "sec_4_3_3",
+      "parent_section_id": "sec_auto_457",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_auto_457",
+          "title": "PERIPHERAL PWA"
+        },
+        {
+          "id": "sec_4_3_3",
+          "title": "4.3.3 CPU PWA"
+        }
+      ],
+      "page": 50,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -131,7 +246,24 @@
         "r": 503.95756609189937,
         "b": 284.8687149319328
       },
-      "content": "The CPU PWA is an eight layer board, with one ground plane, one power plane, and six signal layers. The CPU PWA primarily contains SMT components. Most of the components are on the top side, while the bottom side holds wave-solder compatible SMT resistors and capacitors."
+      "content": "The CPU PWA is an eight layer board, with one ground plane, one power plane, and six signal layers. The CPU PWA primarily contains SMT components. Most of the components are on the top side, while the bottom side holds wave-solder compatible SMT resistors and capacitors.",
+      "section_id": "sec_4_3_3",
+      "parent_section_id": "sec_auto_457",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_auto_457",
+          "title": "PERIPHERAL PWA"
+        },
+        {
+          "id": "sec_4_3_3",
+          "title": "4.3.3 CPU PWA"
+        }
+      ],
+      "page": 50,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -144,7 +276,24 @@
         "r": 503.95298448730017,
         "b": 248.8691551878328
       },
-      "content": "See Section 4.2.1 for a functional description, and see Table 4-7 for CPU PWA interface connections."
+      "content": "See Section 4.2.1 for a functional description, and see Table 4-7 for CPU PWA interface connections.",
+      "section_id": "sec_4_3_3",
+      "parent_section_id": "sec_auto_457",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_auto_457",
+          "title": "PERIPHERAL PWA"
+        },
+        {
+          "id": "sec_4_3_3",
+          "title": "4.3.3 CPU PWA"
+        }
+      ],
+      "page": 50,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

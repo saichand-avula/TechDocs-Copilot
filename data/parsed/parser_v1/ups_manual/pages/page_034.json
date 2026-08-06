@@ -21,7 +21,28 @@
       "next_block_id": "txt_0264",
       "image_hash": "4cc3c74d7f8852bfb719e8b2030d772742cca45bd2094b85b1077757f2b718cd",
       "width": 302,
-      "height": 275
+      "height": 275,
+      "section_id": "sec_3_4_3",
+      "parent_section_id": "sec_3_4",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_4",
+          "title": "3.4 Optional Accessories"
+        },
+        {
+          "id": "sec_3_4_3",
+          "title": "3.4.3 LBS (Load Bus Synchronization)"
+        }
+      ],
+      "page": 34,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "caption",
@@ -35,6 +56,27 @@
         "b": 402.92610136319496
       },
       "content": "Figure 3-21: Typical stand-alone dual bus system (STS and LBS cables are used)",
+      "section_id": "sec_3_4_3",
+      "parent_section_id": "sec_3_4",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_4",
+          "title": "3.4 Optional Accessories"
+        },
+        {
+          "id": "sec_3_4_3",
+          "title": "3.4.3 LBS (Load Bus Synchronization)"
+        }
+      ],
+      "page": 34,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "source": "pdf_text",
       "caption_for": "fig_0051"
     },
     {
@@ -51,12 +93,34 @@
       "image_path": "figures/figure_0051.png",
       "previous_block_id": "txt_0264",
       "next_block_id": "txt_0265",
-      "caption_id": "txt_0265",
       "caption": ": Typical parallel dual bus system (STS and LBS cables are used)",
       "figure_number": "Figure 3-22",
       "image_hash": "9660b1a858218fc760d819c3af8d4758eae629097f0708f23c9ac5fdc0b97044",
       "width": 346,
-      "height": 274
+      "height": 274,
+      "section_id": "sec_3_4_3",
+      "parent_section_id": "sec_3_4",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_4",
+          "title": "3.4 Optional Accessories"
+        },
+        {
+          "id": "sec_3_4_3",
+          "title": "3.4.3 LBS (Load Bus Synchronization)"
+        }
+      ],
+      "page": 34,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "group_id": "grp_fig_0051",
+      "source": "pdf_text",
+      "caption_id": "txt_0265"
     },
     {
       "type": "caption",
@@ -70,6 +134,28 @@
         "b": 92.56010136319492
       },
       "content": "Figure 3-22: Typical parallel dual bus system (STS and LBS cables are used)",
+      "section_id": "sec_3_4_3",
+      "parent_section_id": "sec_3_4",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_3",
+          "title": "3 Installation"
+        },
+        {
+          "id": "sec_3_4",
+          "title": "3.4 Optional Accessories"
+        },
+        {
+          "id": "sec_3_4_3",
+          "title": "3.4.3 LBS (Load Bus Synchronization)"
+        }
+      ],
+      "page": 34,
+      "chunk_hint": "caption",
+      "semantic_role": "caption",
+      "group_id": "grp_fig_0051",
+      "source": "pdf_text",
       "caption_for": "fig_0051"
     }
   ],

@@ -21,7 +21,24 @@
       "next_block_id": "txt_1873",
       "width": 34,
       "height": 11,
-      "image_hash": "1174b4f05e632370ea72836e7b604c8c5595ef0031df92d9f5d833463c723010"
+      "image_hash": "1174b4f05e632370ea72836e7b604c8c5595ef0031df92d9f5d833463c723010",
+      "section_id": "sec_auto_2433",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_2433",
+          "title": "Check the IPM module method:"
+        }
+      ],
+      "page": 221,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "table",
@@ -36,7 +53,24 @@
       },
       "markdown": "| tester)                 |    |\n|-------------------------|----|\n| Normal resistance       | Several k  to severalM  ( и )    |\n| Unacceptable resistance | Short (0  ) or open    |",
       "rows": 3,
-      "cols": 1
+      "cols": 1,
+      "section_id": "sec_auto_2433",
+      "parent_section_id": "sec_7",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_2433",
+          "title": "Check the IPM module method:"
+        }
+      ],
+      "page": 221,
+      "chunk_hint": "table",
+      "semantic_role": "data_table",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -50,8 +84,29 @@
         "b": 726.85869
       },
       "content": "7.3.4 The IPM and outdoor PCB don't communicate or Related Abnormality",
-      "level": 2,
-      "role": "section"
+      "level": 3,
+      "section_number": "7.3.4",
+      "section_id": "sec_7_3_4",
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_2433",
+          "title": "Check the IPM module method:"
+        },
+        {
+          "id": "sec_7_3_4",
+          "title": "7.3.4 The IPM and outdoor PCB don't communicate or Related Abnormality"
+        }
+      ],
+      "parent_section_id": "sec_auto_2433",
+      "section_level": 3,
+      "page": 221,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -64,7 +119,28 @@
         "r": 131.82370966999994,
         "b": 694.301138
       },
-      "content": "outdoor display"
+      "content": "outdoor display",
+      "section_id": "sec_7_3_4",
+      "parent_section_id": "sec_auto_2433",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_2433",
+          "title": "Check the IPM module method:"
+        },
+        {
+          "id": "sec_7_3_4",
+          "title": "7.3.4 The IPM and outdoor PCB don't communicate or Related Abnormality"
+        }
+      ],
+      "page": 221,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -77,7 +153,28 @@
         "r": 255.3200497000001,
         "b": 694.301138
       },
-      "content": "LED1 flash 4 times"
+      "content": "LED1 flash 4 times",
+      "section_id": "sec_7_3_4",
+      "parent_section_id": "sec_auto_2433",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_2433",
+          "title": "Check the IPM module method:"
+        },
+        {
+          "id": "sec_7_3_4",
+          "title": "7.3.4 The IPM and outdoor PCB don't communicate or Related Abnormality"
+        }
+      ],
+      "page": 221,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -90,7 +187,28 @@
         "r": 330.58696739999993,
         "b": 694.301138
       },
-      "content": "Indoor Display"
+      "content": "Indoor Display",
+      "section_id": "sec_7_3_4",
+      "parent_section_id": "sec_auto_2433",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_2433",
+          "title": "Check the IPM module method:"
+        },
+        {
+          "id": "sec_7_3_4",
+          "title": "7.3.4 The IPM and outdoor PCB don't communicate or Related Abnormality"
+        }
+      ],
+      "page": 221,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -103,7 +221,28 @@
         "r": 357.01494610000003,
         "b": 694.301138
       },
-      "content": "F3"
+      "content": "F3",
+      "section_id": "sec_7_3_4",
+      "parent_section_id": "sec_auto_2433",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_2433",
+          "title": "Check the IPM module method:"
+        },
+        {
+          "id": "sec_7_3_4",
+          "title": "7.3.4 The IPM and outdoor PCB don't communicate or Related Abnormality"
+        }
+      ],
+      "page": 221,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -116,7 +255,28 @@
         "r": 112.96679809999998,
         "b": 634.7622248
       },
-      "content": "Method of Malfunction Detection"
+      "content": "Method of Malfunction Detection",
+      "section_id": "sec_7_3_4",
+      "parent_section_id": "sec_auto_2433",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_2433",
+          "title": "Check the IPM module method:"
+        },
+        {
+          "id": "sec_7_3_4",
+          "title": "7.3.4 The IPM and outdoor PCB don't communicate or Related Abnormality"
+        }
+      ],
+      "page": 221,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -129,7 +289,28 @@
         "r": 483.4328451000016,
         "b": 657.804238
       },
-      "content": "Communication is detected by checking the IPM module and the outdoor PCB"
+      "content": "Communication is detected by checking the IPM module and the outdoor PCB",
+      "section_id": "sec_7_3_4",
+      "parent_section_id": "sec_auto_2433",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_2433",
+          "title": "Check the IPM module method:"
+        },
+        {
+          "id": "sec_7_3_4",
+          "title": "7.3.4 The IPM and outdoor PCB don't communicate or Related Abnormality"
+        }
+      ],
+      "page": 221,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -142,7 +323,28 @@
         "r": 112.96679809999999,
         "b": 583.8544618
       },
-      "content": "Malfunction Decision Conditions"
+      "content": "Malfunction Decision Conditions",
+      "section_id": "sec_7_3_4",
+      "parent_section_id": "sec_auto_2433",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_2433",
+          "title": "Check the IPM module method:"
+        },
+        {
+          "id": "sec_7_3_4",
+          "title": "7.3.4 The IPM and outdoor PCB don't communicate or Related Abnormality"
+        }
+      ],
+      "page": 221,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -155,7 +357,28 @@
         "r": 402.0522153499999,
         "b": 608.4241274875
       },
-      "content": "Ƶ The outdoor PCB broken leads to communication fault"
+      "content": "Ƶ The outdoor PCB broken leads to communication fault",
+      "section_id": "sec_7_3_4",
+      "parent_section_id": "sec_auto_2433",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_2433",
+          "title": "Check the IPM module method:"
+        },
+        {
+          "id": "sec_7_3_4",
+          "title": "7.3.4 The IPM and outdoor PCB don't communicate or Related Abnormality"
+        }
+      ],
+      "page": 221,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -168,7 +391,28 @@
         "r": 398.6926093200001,
         "b": 595.4994274874999
       },
-      "content": "Ƶ The IPM module broken leads to communication fault"
+      "content": "Ƶ The IPM module broken leads to communication fault",
+      "section_id": "sec_7_3_4",
+      "parent_section_id": "sec_auto_2433",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_2433",
+          "title": "Check the IPM module method:"
+        },
+        {
+          "id": "sec_7_3_4",
+          "title": "7.3.4 The IPM and outdoor PCB don't communicate or Related Abnormality"
+        }
+      ],
+      "page": 221,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -181,7 +425,28 @@
         "r": 105.23185857999998,
         "b": 557.642738
       },
-      "content": "Supposed"
+      "content": "Supposed",
+      "section_id": "sec_7_3_4",
+      "parent_section_id": "sec_auto_2433",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_2433",
+          "title": "Check the IPM module method:"
+        },
+        {
+          "id": "sec_7_3_4",
+          "title": "7.3.4 The IPM and outdoor PCB don't communicate or Related Abnormality"
+        }
+      ],
+      "page": 221,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -194,7 +459,28 @@
         "r": 287.6333894000001,
         "b": 556.9601140005319
       },
-      "content": "Ƶ The outdoor PCB is broken"
+      "content": "Ƶ The outdoor PCB is broken",
+      "section_id": "sec_7_3_4",
+      "parent_section_id": "sec_auto_2433",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_2433",
+          "title": "Check the IPM module method:"
+        },
+        {
+          "id": "sec_7_3_4",
+          "title": "7.3.4 The IPM and outdoor PCB don't communicate or Related Abnormality"
+        }
+      ],
+      "page": 221,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -207,7 +493,28 @@
         "r": 92.46081819999998,
         "b": 544.0613380000001
       },
-      "content": "Causes"
+      "content": "Causes",
+      "section_id": "sec_7_3_4",
+      "parent_section_id": "sec_auto_2433",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_2433",
+          "title": "Check the IPM module method:"
+        },
+        {
+          "id": "sec_7_3_4",
+          "title": "7.3.4 The IPM and outdoor PCB don't communicate or Related Abnormality"
+        }
+      ],
+      "page": 221,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -220,7 +527,28 @@
         "r": 299.2738913000002,
         "b": 543.378714000532
       },
-      "content": "Ƶ The IPM module is broken"
+      "content": "Ƶ The IPM module is broken",
+      "section_id": "sec_7_3_4",
+      "parent_section_id": "sec_auto_2433",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_2433",
+          "title": "Check the IPM module method:"
+        },
+        {
+          "id": "sec_7_3_4",
+          "title": "7.3.4 The IPM and outdoor PCB don't communicate or Related Abnormality"
+        }
+      ],
+      "page": 221,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -233,7 +561,28 @@
         "r": 326.4283744000003,
         "b": 529.855214000532
       },
-      "content": "Ƶ Communication wiring disconnected"
+      "content": "Ƶ Communication wiring disconnected",
+      "section_id": "sec_7_3_4",
+      "parent_section_id": "sec_auto_2433",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_2433",
+          "title": "Check the IPM module method:"
+        },
+        {
+          "id": "sec_7_3_4",
+          "title": "7.3.4 The IPM and outdoor PCB don't communicate or Related Abnormality"
+        }
+      ],
+      "page": 221,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -246,7 +595,28 @@
         "r": 135.13445045999998,
         "b": 504.807923
       },
-      "content": "Troubleshooting"
+      "content": "Troubleshooting",
+      "section_id": "sec_7_3_4",
+      "parent_section_id": "sec_auto_2433",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_2433",
+          "title": "Check the IPM module method:"
+        },
+        {
+          "id": "sec_7_3_4",
+          "title": "7.3.4 The IPM and outdoor PCB don't communicate or Related Abnormality"
+        }
+      ],
+      "page": 221,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -259,7 +629,28 @@
         "r": 536.7341591999999,
         "b": 489.372489
       },
-      "content": "Caution Be sure to turn off power switch before connect or disconnect connector, or else parts damage may be occurred."
+      "content": "Caution Be sure to turn off power switch before connect or disconnect connector, or else parts damage may be occurred.",
+      "section_id": "sec_7_3_4",
+      "parent_section_id": "sec_auto_2433",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_2433",
+          "title": "Check the IPM module method:"
+        },
+        {
+          "id": "sec_7_3_4",
+          "title": "7.3.4 The IPM and outdoor PCB don't communicate or Related Abnormality"
+        }
+      ],
+      "page": 221,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -276,7 +667,28 @@
       "previous_block_id": "txt_1889",
       "image_hash": "263db4fee4b1637e1e5c011afeca6eeba11bb2955111cfcee151ba30cd77f8b5",
       "width": 511,
-      "height": 669
+      "height": 669,
+      "section_id": "sec_7_3_4",
+      "parent_section_id": "sec_auto_2433",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_7",
+          "title": "7    Service Diagnosis"
+        },
+        {
+          "id": "sec_auto_2433",
+          "title": "Check the IPM module method:"
+        },
+        {
+          "id": "sec_7_3_4",
+          "title": "7.3.4 The IPM and outdoor PCB don't communicate or Related Abnormality"
+        }
+      ],
+      "page": 221,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {

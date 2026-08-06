@@ -17,7 +17,24 @@
         "r": 541.1711999999997,
         "b": 697.796101363195
       },
-      "content": "The UPS must be powered down completely, that is, the UPS doesn't exit emergency power off status until disconnecting all input switches (including battery switch) manually."
+      "content": "The UPS must be powered down completely, that is, the UPS doesn't exit emergency power off status until disconnecting all input switches (including battery switch) manually.",
+      "section_id": "sec_4_8",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        },
+        {
+          "id": "sec_4_8",
+          "title": "4.8 Emergency Power Off (EPO)"
+        }
+      ],
+      "page": 51,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "admonition",
@@ -31,7 +48,24 @@
         "b": 650.996101363195
       },
       "content": "Note: When executing emergency power off (EPO) operation (EPO is set to be 'cutting off the output'  mode),  the  UPS  system  will  disconnect  load  power  supply  (disconnect  output),  and  this function only can be used when ensure to disconnect the UPS output.",
-      "severity": "note"
+      "severity": "note",
+      "section_id": "sec_4_8",
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        },
+        {
+          "id": "sec_4_8",
+          "title": "4.8 Emergency Power Off (EPO)"
+        }
+      ],
+      "page": 51,
+      "chunk_hint": "admonition",
+      "semantic_role": "note",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -46,7 +80,24 @@
       },
       "content": "4.9 Turn On/Off the Parallel UPS System",
       "level": 2,
-      "role": "section"
+      "section_number": "4.9",
+      "section_id": "sec_4_9",
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        },
+        {
+          "id": "sec_4_9",
+          "title": "4.9 Turn On/Off the Parallel UPS System"
+        }
+      ],
+      "parent_section_id": "sec_4",
+      "section_level": 2,
+      "page": 51,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -60,8 +111,29 @@
         "b": 576.2328447886093
       },
       "content": "4.9.1 Notice for operating of Parallel UPS System",
-      "level": 2,
-      "role": "section"
+      "level": 3,
+      "section_number": "4.9.1",
+      "section_id": "sec_4_9_1",
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        },
+        {
+          "id": "sec_4_9",
+          "title": "4.9 Turn On/Off the Parallel UPS System"
+        },
+        {
+          "id": "sec_4_9_1",
+          "title": "4.9.1 Notice for operating of Parallel UPS System"
+        }
+      ],
+      "parent_section_id": "sec_4_9",
+      "section_level": 3,
+      "page": 51,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -74,7 +146,28 @@
         "r": 494.57568,
         "b": 547.5261013631949
       },
-      "content": " During normal operation of parallel system, it cannot take plug operation for parallel line."
+      "content": " During normal operation of parallel system, it cannot take plug operation for parallel line.",
+      "section_id": "sec_4_9_1",
+      "parent_section_id": "sec_4_9",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        },
+        {
+          "id": "sec_4_9",
+          "title": "4.9 Turn On/Off the Parallel UPS System"
+        },
+        {
+          "id": "sec_4_9_1",
+          "title": "4.9.1 Notice for operating of Parallel UPS System"
+        }
+      ],
+      "page": 51,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -87,7 +180,28 @@
         "r": 541.6022399999999,
         "b": 500.72610136319497
       },
-      "content": " Before loading, all output switch of parallel system must be switched on and all output terminals must  be  connected  together.  After  loading,  all  output  switches  of  parallel  system  cannot  be disconnected except that the UPS is powered off."
+      "content": " Before loading, all output switch of parallel system must be switched on and all output terminals must  be  connected  together.  After  loading,  all  output  switches  of  parallel  system  cannot  be disconnected except that the UPS is powered off.",
+      "section_id": "sec_4_9_1",
+      "parent_section_id": "sec_4_9",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        },
+        {
+          "id": "sec_4_9",
+          "title": "4.9 Turn On/Off the Parallel UPS System"
+        },
+        {
+          "id": "sec_4_9_1",
+          "title": "4.9.1 Notice for operating of Parallel UPS System"
+        }
+      ],
+      "page": 51,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -100,7 +214,28 @@
         "r": 541.5620799999998,
         "b": 469.526101363195
       },
-      "content": " Before using maintenance bypass, manual bypass 'Manual Byp' of all UPSs in parallel system shall be set as 'ON', and then switch on maintenance switch."
+      "content": " Before using maintenance bypass, manual bypass 'Manual Byp' of all UPSs in parallel system shall be set as 'ON', and then switch on maintenance switch.",
+      "section_id": "sec_4_9_1",
+      "parent_section_id": "sec_4_9",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        },
+        {
+          "id": "sec_4_9",
+          "title": "4.9 Turn On/Off the Parallel UPS System"
+        },
+        {
+          "id": "sec_4_9_1",
+          "title": "4.9.1 Notice for operating of Parallel UPS System"
+        }
+      ],
+      "page": 51,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -113,7 +248,28 @@
         "r": 541.4504799999996,
         "b": 438.326101363195
       },
-      "content": " When parallel system is working, bypass switches of all UPSs in parallel system must be in the same status."
+      "content": " When parallel system is working, bypass switches of all UPSs in parallel system must be in the same status.",
+      "section_id": "sec_4_9_1",
+      "parent_section_id": "sec_4_9",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        },
+        {
+          "id": "sec_4_9",
+          "title": "4.9 Turn On/Off the Parallel UPS System"
+        },
+        {
+          "id": "sec_4_9_1",
+          "title": "4.9.1 Notice for operating of Parallel UPS System"
+        }
+      ],
+      "page": 51,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "heading",
@@ -127,8 +283,29 @@
         "b": 409.76284478860936
       },
       "content": "4.9.2 Turn On the Parallel UPS System",
-      "level": 2,
-      "role": "section"
+      "level": 3,
+      "section_number": "4.9.2",
+      "section_id": "sec_4_9_2",
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        },
+        {
+          "id": "sec_4_9",
+          "title": "4.9 Turn On/Off the Parallel UPS System"
+        },
+        {
+          "id": "sec_4_9_2",
+          "title": "4.9.2 Turn On the Parallel UPS System"
+        }
+      ],
+      "parent_section_id": "sec_4_9",
+      "section_level": 3,
+      "page": 51,
+      "chunk_hint": "section_heading",
+      "semantic_role": "section_heading",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -141,7 +318,28 @@
         "r": 422.07568,
         "b": 381.186101363195
       },
-      "content": "Please ensure all wirings of the UPS and parallel systems are correct;"
+      "content": "Please ensure all wirings of the UPS and parallel systems are correct;",
+      "section_id": "sec_4_9_2",
+      "parent_section_id": "sec_4_9",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        },
+        {
+          "id": "sec_4_9",
+          "title": "4.9 Turn On/Off the Parallel UPS System"
+        },
+        {
+          "id": "sec_4_9_2",
+          "title": "4.9.2 Turn On the Parallel UPS System"
+        }
+      ],
+      "page": 51,
+      "chunk_hint": "section_start",
+      "semantic_role": "overview",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -154,7 +352,28 @@
         "r": 377.64567999999997,
         "b": 365.586101363195
       },
-      "content": "Switch on all bypass switches of all UPSs in parallel system;"
+      "content": "Switch on all bypass switches of all UPSs in parallel system;",
+      "section_id": "sec_4_9_2",
+      "parent_section_id": "sec_4_9",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        },
+        {
+          "id": "sec_4_9",
+          "title": "4.9 Turn On/Off the Parallel UPS System"
+        },
+        {
+          "id": "sec_4_9_2",
+          "title": "4.9.2 Turn On the Parallel UPS System"
+        }
+      ],
+      "page": 51,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -167,7 +386,28 @@
         "r": 541.5534399999999,
         "b": 349.98610136319496
       },
-      "content": "Switch on output switch of UPS1 firstly, switch on rectifier switch of UPS1, after LCD display"
+      "content": "Switch on output switch of UPS1 firstly, switch on rectifier switch of UPS1, after LCD display",
+      "section_id": "sec_4_9_2",
+      "parent_section_id": "sec_4_9",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        },
+        {
+          "id": "sec_4_9",
+          "title": "4.9 Turn On/Off the Parallel UPS System"
+        },
+        {
+          "id": "sec_4_9_2",
+          "title": "4.9.2 Turn On the Parallel UPS System"
+        }
+      ],
+      "page": 51,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "figure",
@@ -185,7 +425,28 @@
       "next_block_id": "txt_0468",
       "image_hash": "2860f479eeb8eb67325e1aaae70eefa1bd7c2727fab970a225eea0cfd638b5ef",
       "width": 25,
-      "height": 22
+      "height": 22,
+      "section_id": "sec_4_9_2",
+      "parent_section_id": "sec_4_9",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        },
+        {
+          "id": "sec_4_9",
+          "title": "4.9 Turn On/Off the Parallel UPS System"
+        },
+        {
+          "id": "sec_4_9_2",
+          "title": "4.9.2 Turn On the Parallel UPS System"
+        }
+      ],
+      "page": 51,
+      "chunk_hint": "figure",
+      "semantic_role": "figure",
+      "source": "pdf_text"
     },
     {
       "type": "paragraph",
@@ -198,7 +459,28 @@
         "r": 541.61566,
         "b": 240.78610136319492
       },
-      "content": "normally, click On/Off icon ' ' in main interface, select option 'ON', and then press 'YES'. Or use button operation: power on the UPS by pressing 'ON' on panel for more than 1 s. Then REC indicator light starts flash, UPS1 starts bypass output. About 15 s later, green BYP indicator light is off, green INV indicator light is on, and the UPS starts inverter output. Switch on battery switch of UPS1, REC, INV, OUT, and STATUS indicator lights on panel are green, and BYP and BAT indicator lights are off."
+      "content": "normally, click On/Off icon ' ' in main interface, select option 'ON', and then press 'YES'. Or use button operation: power on the UPS by pressing 'ON' on panel for more than 1 s. Then REC indicator light starts flash, UPS1 starts bypass output. About 15 s later, green BYP indicator light is off, green INV indicator light is on, and the UPS starts inverter output. Switch on battery switch of UPS1, REC, INV, OUT, and STATUS indicator lights on panel are green, and BYP and BAT indicator lights are off.",
+      "section_id": "sec_4_9_2",
+      "parent_section_id": "sec_4_9",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        },
+        {
+          "id": "sec_4_9",
+          "title": "4.9 Turn On/Off the Parallel UPS System"
+        },
+        {
+          "id": "sec_4_9_2",
+          "title": "4.9.2 Turn On the Parallel UPS System"
+        }
+      ],
+      "page": 51,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -211,7 +493,28 @@
         "r": 421.59568,
         "b": 225.1861013631949
       },
-      "content": "Please start the UPS2, UPS3…UPS N by above sequences in step 3;"
+      "content": "Please start the UPS2, UPS3…UPS N by above sequences in step 3;",
+      "section_id": "sec_4_9_2",
+      "parent_section_id": "sec_4_9",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        },
+        {
+          "id": "sec_4_9",
+          "title": "4.9 Turn On/Off the Parallel UPS System"
+        },
+        {
+          "id": "sec_4_9_2",
+          "title": "4.9.2 Turn On the Parallel UPS System"
+        }
+      ],
+      "page": 51,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -224,7 +527,28 @@
         "r": 541.3267999999997,
         "b": 193.956101363195
       },
-      "content": "After starting all UPSs, their indicator lights are the same with those of UPS1. By now, start of parallel system is finished;"
+      "content": "After starting all UPSs, their indicator lights are the same with those of UPS1. By now, start of parallel system is finished;",
+      "section_id": "sec_4_9_2",
+      "parent_section_id": "sec_4_9",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        },
+        {
+          "id": "sec_4_9",
+          "title": "4.9 Turn On/Off the Parallel UPS System"
+        },
+        {
+          "id": "sec_4_9_2",
+          "title": "4.9.2 Turn On the Parallel UPS System"
+        }
+      ],
+      "page": 51,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -237,7 +561,28 @@
         "r": 541.5716799999998,
         "b": 162.75610136319494
       },
-      "content": "Before loading, please ensure output switches of all UPSs in parallel system are switched on and output terminals are connected together;"
+      "content": "Before loading, please ensure output switches of all UPSs in parallel system are switched on and output terminals are connected together;",
+      "section_id": "sec_4_9_2",
+      "parent_section_id": "sec_4_9",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        },
+        {
+          "id": "sec_4_9",
+          "title": "4.9 Turn On/Off the Parallel UPS System"
+        },
+        {
+          "id": "sec_4_9_2",
+          "title": "4.9.2 Turn On the Parallel UPS System"
+        }
+      ],
+      "page": 51,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     },
     {
       "type": "list_item",
@@ -250,7 +595,28 @@
         "r": 527.09568,
         "b": 147.15610136319492
       },
-      "content": "Please take operations in step 2 and step 3 to add a stand-alone UPS to the parallel system."
+      "content": "Please take operations in step 2 and step 3 to add a stand-alone UPS to the parallel system.",
+      "section_id": "sec_4_9_2",
+      "parent_section_id": "sec_4_9",
+      "section_level": 3,
+      "section_path": [
+        {
+          "id": "sec_4",
+          "title": "4 Operation"
+        },
+        {
+          "id": "sec_4_9",
+          "title": "4.9 Turn On/Off the Parallel UPS System"
+        },
+        {
+          "id": "sec_4_9_2",
+          "title": "4.9.2 Turn On the Parallel UPS System"
+        }
+      ],
+      "page": 51,
+      "chunk_hint": "continue",
+      "semantic_role": "description",
+      "source": "pdf_text"
     }
   ],
   "page_stats": {
