@@ -22,3 +22,9 @@ ENV/
 .idea/
 *.swp
 *.swo
+
+# Secrets — NEVER commit these
+.env
+.env.local
+.env.*.local
+*_secret_replacements.txt
