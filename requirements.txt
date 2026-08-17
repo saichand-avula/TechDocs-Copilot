@@ -1,14 +1,21 @@
-# TechDocs Copilot — Stage 1: Document Parsing Dependencies
+# TechDocs Copilot — Dependencies
 # ============================================================
 # Install with:
-#   pip install -r requirements.txt
+#   pip3 install -r requirements.txt
 
-# ── Core parser ──────────────────────────────────────────────
+# ── Core parser (Stage 1–2) ──────────────────────────────────
 docling[full]>=2.0.0           # Document parsing engine (layout, tables, OCR, images)
 docling-core>=2.0.0            # Docling data models
-
-# ── Data models & config ─────────────────────────────────────
 pydantic>=2.0.0                # Data validation and settings management
-
-# ── Utilities ────────────────────────────────────────────────
 Pillow>=9.0.0                  # Image I/O for extracted figures
+
+# ── Embedding (Stage 4) ──────────────────────────────────────
+google-generativeai>=0.8.0     # gemini-embedding-2 (multimodal, 1536-dim)
+numpy>=1.24.0                  # Embedding array storage
+
+# ── Indexing (Stage 4) ───────────────────────────────────────
+chromadb>=0.5.0                # Local persistent vector DB
+rank-bm25>=0.2.2               # BM25 sparse index for hybrid retrieval
+
+# ── CLI utilities ────────────────────────────────────────────
+tqdm>=4.0.0                    # Progress bars
