@@ -28,3 +28,21 @@ ENV/
 .env.local
 .env.*.local
 *_secret_replacements.txt
+
+# Generated data — too large / binary / changes on every run
+# Embeddings: float32 .npy files, hundreds of MB
+data/embeddings/**/*.npy
+data/embeddings/**/*.json
+!data/embeddings/.gitkeep
+
+# ChromaDB: SQLite binary that changes on every open (even reads)
+data/vectordb/chroma/
+
+# BM25: pickle binary
+data/vectordb/bm25/corpus_index.pkl
+
+# Parsed PDFs: figures (PNG), raw page JSON — regenerate from source PDFs
+data/parsed/
+
+# Keep placeholder files so directories exist after clone
+!**/.gitkeep
