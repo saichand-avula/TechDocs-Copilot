@@ -25,6 +25,13 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent.parent))
 
+# Load .env FIRST — before any other import reads os.environ
+try:
+    from dotenv import load_dotenv
+    load_dotenv()
+except ImportError:
+    pass  # env vars set directly in shell are fine too
+
 from src.indexing.chunk_store import ChunkStore
 from src.retrieval.config import RetrieverConfig
 from src.retrieval.retriever import Retriever
